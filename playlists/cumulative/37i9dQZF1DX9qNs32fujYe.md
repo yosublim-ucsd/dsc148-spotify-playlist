@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-904 songs - 2 day 18 hr 27 min
+905 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2022-04-20 |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-03-22 | 2022-07-29 |
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-07-08 | 2023-10-30 |
+| [Come Down](https://open.spotify.com/track/4CitUujHBwAOXGowI90zYN) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Come Down](https://open.spotify.com/album/1YWSnstusKqNLPXYwDlUdJ) | 5:59 | 2024-06-21 |  |
 | [Come This Way](https://open.spotify.com/track/69jJQ8mDrZsDn4umAL23kb) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Come This Way](https://open.spotify.com/album/4BvMDuV6JNfNhIH6SsKVMQ) | 3:39 | 2022-01-28 | 2022-07-06 |
 | [Cometh The Storm](https://open.spotify.com/track/6W0VHHL8OPOFWUFDCZ7kJI) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Cometh The Storm](https://open.spotify.com/album/6p9Ia4q3Vrep9dFshfWFTU) | 6:11 | 2024-04-19 |  |
 | [Conductor \(Redux\)](https://open.spotify.com/track/6FPYB4S5wawOFERTxlVCA6) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Conductor \(Redux\)](https://open.spotify.com/album/0jaLIvRyOlq3dddmylT8rb) | 4:09 | 2021-12-17 | 2022-07-20 |
@@ -432,7 +433,7 @@
 | [Land of the Free \- 30 Years \- Live Version](https://open.spotify.com/track/7iMt0du7vAQf3m1IYTrhM4) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Land of the Free](https://open.spotify.com/album/7kHii8llgDEAKLR6SJDrKt) | 4:36 | 2021-12-29 | 2022-07-19 |
 | [Landslide](https://open.spotify.com/track/5h9R0Z3lqvgfItpq4QsvjG) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Landslide](https://open.spotify.com/album/0rDeiOVJ47MhUgRqPiP0mW) | 3:31 | 2022-03-22 | 2022-04-19 |
 | [Left on Mars](https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00), [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Left on Mars](https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5) | 5:01 | 2024-03-22 |  |
-| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 |  |
+| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 | 2024-06-29 |
 | [Let It Burn](https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6) | 4:01 | 2022-07-08 | 2024-04-06 |
 | [Let It Burn](https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/770sGenNXg0Upc6FFYrX09) | 4:01 | 2022-01-28 | 2022-07-04 |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2022-08-19 |  |

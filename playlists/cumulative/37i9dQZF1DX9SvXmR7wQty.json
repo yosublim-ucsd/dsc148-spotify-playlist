@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: 2Fr\u00e8res",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Hubert Lenoir, P'tit Belliveau",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 136788,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 151410,
       "name": "Bodyguard",
       "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
@@ -9422,7 +9422,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214442,
       "name": "Conscious Rapper",
       "url": "https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT"
@@ -12438,7 +12438,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 143589,
       "name": "DOUBLE F",
       "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
@@ -15020,7 +15020,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 193866,
       "name": "Facile \u00e0 danser",
       "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
@@ -15304,7 +15304,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 175448,
       "name": "FAM TIES",
       "url": "https://open.spotify.com/track/37xzMbPe4A5OWYo6IkBKs1"
@@ -15468,6 +15468,28 @@
       "duration_ms": 168318,
       "name": "Faucheuse",
       "url": "https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga"
+    },
+    {
+      "album": {
+        "name": "Fausse note",
+        "url": "https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "A2h",
+          "url": "https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157648,
+      "name": "Fausse note",
+      "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
     },
     {
       "album": {
@@ -17072,7 +17094,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 143529,
       "name": "Galbi",
       "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
@@ -18756,7 +18778,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 224106,
       "name": "Hyperboi",
       "url": "https://open.spotify.com/track/4iK6sJx9WZDpXjjGyjCuCp"
@@ -19400,6 +19422,28 @@
       "duration_ms": 174293,
       "name": "Il \u00e9tait une pieuvre",
       "url": "https://open.spotify.com/track/2n2AqvhkiymMrSYEpZH211"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ"
+      },
+      "artists": [
+        {
+          "name": "ascendant vierge",
+          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
+        },
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259569,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp"
     },
     {
       "album": {
@@ -23810,7 +23854,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -24451,6 +24495,24 @@
     },
     {
       "album": {
+        "name": "La peur est une fleur",
+        "url": "https://open.spotify.com/album/1ZsInEwwCcSInxmC4EphyC"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112080,
+      "name": "La peur est une fleur",
+      "url": "https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji"
+    },
+    {
+      "album": {
         "name": "BAD JAZZ",
         "url": "https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7"
       },
@@ -24552,7 +24614,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "La Raclure",
       "url": "https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts"
@@ -27140,7 +27202,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 201055,
       "name": "Les Montgolfi\u00e8res",
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
@@ -27746,7 +27808,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "Libre",
       "url": "https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf"
@@ -28610,7 +28672,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 197894,
       "name": "LVL UP",
       "url": "https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX"
@@ -32136,7 +32198,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180923,
       "name": "M\u00e9lanine",
       "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
@@ -32770,7 +32832,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 153006,
       "name": "NO LACK",
       "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
@@ -33366,7 +33428,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194080,
       "name": "Nulle",
       "url": "https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw"
@@ -34316,7 +34378,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 134000,
       "name": "Otra",
       "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
@@ -38952,7 +39014,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 116691,
       "name": "Rap Life",
       "url": "https://open.spotify.com/track/5XtiFaOvTSt0t6RQklZ2cH"
@@ -42551,6 +42613,28 @@
     },
     {
       "album": {
+        "name": "SIMULATION FREESTYLE",
+        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        },
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "SIMULATION FREESTYLE",
+      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8re",
         "url": "https://open.spotify.com/album/3Ud71yAmN9bxQNO4XnUuGf"
       },
@@ -44727,6 +44811,28 @@
     },
     {
       "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216084,
+      "name": "TARD LA NUIT",
+      "url": "https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg"
+    },
+    {
+      "album": {
         "name": "Tata Fatima",
         "url": "https://open.spotify.com/album/0j9fL8leSygpAuAge8MsXG"
       },
@@ -45904,7 +46010,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 145263,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/2H6qZe4igbGLoLGD3CxvRr"

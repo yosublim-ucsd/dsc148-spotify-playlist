@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Wooli and Cyclops",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ISOKNOCK",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
@@ -1690,6 +1690,24 @@
       "duration_ms": 287000,
       "name": "Before You Leave",
       "url": "https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10"
+    },
+    {
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176145,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
     },
     {
       "album": {
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194742,
       "name": "Deadweight",
       "url": "https://open.spotify.com/track/5xl3rrZFBuxZCbd4dBIvld"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172067,
       "name": "DELTA",
       "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
@@ -4538,6 +4556,24 @@
       "duration_ms": 177845,
       "name": "Do Over",
       "url": "https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl"
+    },
+    {
+      "album": {
+        "name": "Cipher Three",
+        "url": "https://open.spotify.com/album/22qemRKNlDhQVjW0CyIyX2"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141458,
+      "name": "DOG IN ME",
+      "url": "https://open.spotify.com/track/4UL3WQdaXTk9nAgDuoq7FF"
     },
     {
       "album": {
@@ -6134,7 +6170,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 288000,
       "name": "FATE",
       "url": "https://open.spotify.com/track/0pCU13PjrLBP9cC1AsqHQS"
@@ -6500,6 +6536,28 @@
       "duration_ms": 190909,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
+    },
+    {
+      "album": {
+        "name": "Final Wonk",
+        "url": "https://open.spotify.com/album/1MEIaT9cnSgzphEiCh4A2H"
+      },
+      "artists": [
+        {
+          "name": "Monxx",
+          "url": "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        {
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Final Wonk",
+      "url": "https://open.spotify.com/track/3nfXbFdbPlsyPA16KW1JbS"
     },
     {
       "album": {
@@ -8233,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/0WP4DDVdNzHriuxsdJszxJ"
+      },
+      "artists": [
+        {
+          "name": "HATO",
+          "url": "https://open.spotify.com/artist/5Riqx3AaUzngHRUXOcQ9tu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147019,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/4BihwGtI5z8wYsr3GkCi6T"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -8870,7 +8946,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 230400,
       "name": "In The Place",
       "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
@@ -10116,7 +10192,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 241681,
       "name": "LONESUM",
       "url": "https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe"
@@ -15769,6 +15845,36 @@
     },
     {
       "album": {
+        "name": "SMACK TALK",
+        "url": "https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "SMACK TALK",
+      "url": "https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB"
+    },
+    {
+      "album": {
         "name": "Smoak & Sip",
         "url": "https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb"
       },
@@ -18066,6 +18172,28 @@
       "duration_ms": 193292,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+    },
+    {
+      "album": {
+        "name": "Twin Fang",
+        "url": "https://open.spotify.com/album/7fJ6TIkikeYwJLmK7Acuqc"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Twin Fang",
+      "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
     },
     {
       "album": {

@@ -1,28 +1,64 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Maeta",
-  "num_followers": 51291,
+  "description": "R&B of the moment by the artists of the future. Cover: Bren Joy",
+  "num_followers": 51312,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnUocAAAAACMmb3g28tzwahskZM9Johe",
+  "snapshot_id": "Zn74qAAAAAB+xGzxrRn+slwStAV88LLv",
   "tracks": [
     {
-      "added_at": "2024-06-21 07:14:56",
+      "added_at": "2024-06-28 17:53:44",
       "album": {
-        "name": "Endless Night",
-        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+        "name": "Gracious",
+        "url": "https://open.spotify.com/album/7mSj10R9kb4kEfG2XnrdrJ"
       },
       "artists": [
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
         }
       ],
-      "duration_ms": 207900,
-      "name": "Endless Night",
-      "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
+      "duration_ms": 155144,
+      "name": "Gracious",
+      "url": "https://open.spotify.com/track/1iOWaIFoISTlYm13Kxtxm4"
+    },
+    {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "AUCTION",
+        "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "AUCTION",
+      "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/6p6WVSuVgt1Jimwnz6fdy2"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl"
     },
     {
       "added_at": "2024-06-14 07:24:46",
@@ -57,22 +93,6 @@
       "url": "https://open.spotify.com/track/1QD5FRoUo6gcxAzq7bg2ae"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "eyes wide open",
-        "url": "https://open.spotify.com/album/1DIpIdMFlsZwv0UW9kTtmR"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "eyes wide open",
-      "url": "https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu"
-    },
-    {
       "added_at": "2024-05-31 07:31:18",
       "album": {
         "name": "Sugar (feat. Larry June & SHOW N PROVE)",
@@ -95,6 +115,22 @@
       "duration_ms": 179310,
       "name": "Sugar (feat. Larry June & SHOW N PROVE)",
       "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/1DIpIdMFlsZwv0UW9kTtmR"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu"
     },
     {
       "added_at": "2024-06-21 07:14:56",
@@ -161,6 +197,38 @@
       "url": "https://open.spotify.com/track/17FinQgW5IDSFU6eZXmP3O"
     },
     {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "Pink Magnolia (Deluxe)",
+        "url": "https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb"
+    },
+    {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "ACCELERATOR",
+        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "RIPCORD",
+      "url": "https://open.spotify.com/track/2EpxQyOEKiqQ7KRnN5mlnT"
+    },
+    {
       "added_at": "2024-06-21 07:14:56",
       "album": {
         "name": "Back To Me",
@@ -225,6 +293,22 @@
       "url": "https://open.spotify.com/track/2wQhuufN2P1q0LL2byheM0"
     },
     {
+      "added_at": "2024-06-21 07:14:56",
+      "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 207900,
+      "name": "Endless Night",
+      "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
+    },
+    {
       "added_at": "2024-06-07 13:20:43",
       "album": {
         "name": "All On Me",
@@ -257,6 +341,22 @@
       "url": "https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt"
     },
     {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "Girls Don't Cheat",
+        "url": "https://open.spotify.com/album/0gYqVCe2CIZ7S6IqBNU1MH"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Girls Don\u2019t Cheat",
+      "url": "https://open.spotify.com/track/3YH35thx08eWvn6u6rWnvN"
+    },
+    {
       "added_at": "2024-06-07 12:03:07",
       "album": {
         "name": "Colonize",
@@ -287,22 +387,6 @@
       "duration_ms": 148952,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4Mm9v6Wk5aPK0g1H6WwxMW"
-    },
-    {
-      "added_at": "2024-05-31 07:31:18",
-      "album": {
-        "name": "DJ Got Me",
-        "url": "https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 135228,
-      "name": "DJ Got Me",
-      "url": "https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s"
     },
     {
       "added_at": "2024-06-07 12:03:07",
@@ -409,22 +493,6 @@
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
-      "added_at": "2024-06-14 07:24:46",
-      "album": {
-        "name": "Moth",
-        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "Sweet Like",
-      "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
-    },
-    {
       "added_at": "2024-05-31 07:31:18",
       "album": {
         "name": "Electric Honey",
@@ -455,6 +523,22 @@
       "duration_ms": 139458,
       "name": "OOTW",
       "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
+    },
+    {
+      "added_at": "2024-06-28 17:53:44",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
     },
     {
       "added_at": "2024-04-26 04:00:00",

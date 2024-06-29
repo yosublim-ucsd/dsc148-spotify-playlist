@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 324306,
       "name": "At First Sight",
       "url": "https://open.spotify.com/track/3sjSo2etr9DK4JB4ggltzZ"
@@ -4436,7 +4436,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 258750,
       "name": "Genuine",
       "url": "https://open.spotify.com/track/4bfkTfeGVeuqDUS7SCBtym"
@@ -7252,6 +7252,24 @@
       "duration_ms": 265706,
       "name": "It's Only a Paper Moon",
       "url": "https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI"
+    },
+    {
+      "album": {
+        "name": "Time And Again",
+        "url": "https://open.spotify.com/album/3wgHwViDdLlHXHbcpy4Pxh"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236695,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx"
     },
     {
       "album": {
@@ -10321,6 +10339,24 @@
     },
     {
       "album": {
+        "name": "Jazzish",
+        "url": "https://open.spotify.com/album/4j4zHxlcpgtrsSAS2AESCh"
+      },
+      "artists": [
+        {
+          "name": "Eric Hollaway",
+          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303953,
+      "name": "Playing Your Game",
+      "url": "https://open.spotify.com/track/1trrXz1GCAsXwmM3pN8Mh6"
+    },
+    {
+      "album": {
         "name": "Plus Fort Que Nous",
         "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
       },
@@ -12454,7 +12490,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 302852,
       "name": "Take Love Easy",
       "url": "https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI"
@@ -12854,6 +12890,28 @@
       "duration_ms": 164869,
       "name": "The Best Mistake",
       "url": "https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5"
+    },
+    {
+      "album": {
+        "name": "The Best Things Happen While You're Dancing",
+        "url": "https://open.spotify.com/album/6pyyBFedXb9ZI9BwYHUBBN"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195649,
+      "name": "The Best Things Happen While You're Dancing",
+      "url": "https://open.spotify.com/track/3M4j7Knz9YvbYbfGVJJxxE"
     },
     {
       "album": {

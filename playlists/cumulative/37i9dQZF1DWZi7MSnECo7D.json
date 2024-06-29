@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Oru\u00e3",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Chico Bernardes",
   "name": "alt BR",
   "tracks": [
     {
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 234318,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/17nOJvu5U8WHReykHKY18r"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 232853,
       "name": "Certo Talvez",
       "url": "https://open.spotify.com/track/5XL3hMURY44CVBF39pJdQJ"
@@ -2322,6 +2322,24 @@
       "duration_ms": 204428,
       "name": "Coisas da Vida",
       "url": "https://open.spotify.com/track/74YDFvn8exKF2sbrFJMoek"
+    },
+    {
+      "album": {
+        "name": "Coisas Estranhas",
+        "url": "https://open.spotify.com/album/6E077mo6AcGVzzwU9GS1CZ"
+      },
+      "artists": [
+        {
+          "name": "Exclusive Os Cabides",
+          "url": "https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158208,
+      "name": "Coisas Estranhas",
+      "url": "https://open.spotify.com/track/2AyboKa65bOPMOH4PziB2X"
     },
     {
       "album": {
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176173,
       "name": "desanuviar",
       "url": "https://open.spotify.com/track/6dv427zxWatn55rEml3TlB"
@@ -3564,6 +3582,28 @@
       "duration_ms": 203897,
       "name": "enquanto isso...",
       "url": "https://open.spotify.com/track/6uPfQxEOJ7EKVO24C127NZ"
+    },
+    {
+      "album": {
+        "name": "Ensaio",
+        "url": "https://open.spotify.com/album/3ur8ZakC3YuzTtIqVgIFyz"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Ventura",
+          "url": "https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC"
+        },
+        {
+          "name": "Cyro Sampaio",
+          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239285,
+      "name": "Ensaio",
+      "url": "https://open.spotify.com/track/1jyqE4qZwLWqlENCHS8ho9"
     },
     {
       "album": {
@@ -4955,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "Outros Fios",
+        "url": "https://open.spotify.com/album/3rd8XM5mPFqlnWVwjB1Zdd"
+      },
+      "artists": [
+        {
+          "name": "Chico Bernardes",
+          "url": "https://open.spotify.com/artist/1yfkdkJduKGUIgkFR6Qjs0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Inerte",
+      "url": "https://open.spotify.com/track/6vmvqkOeokYk9DZMAZU7lM"
+    },
+    {
+      "album": {
         "name": "Inexplic\u00e1vel Amor",
         "url": "https://open.spotify.com/album/2NO4dWLwVmZhfE7ExtGzOu"
       },
@@ -5100,7 +5158,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 146093,
       "name": "Isabela P\u00e9tala",
       "url": "https://open.spotify.com/track/0obhqI6bYGtLlI7yTj8abp"
@@ -5404,7 +5462,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 196630,
       "name": "Lobo Guar\u00e1",
       "url": "https://open.spotify.com/track/6FxB7J3n5Vhb3a8VhW0c9V"
@@ -5664,6 +5722,24 @@
       "duration_ms": 187025,
       "name": "Mal Danado",
       "url": "https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS"
+    },
+    {
+      "album": {
+        "name": "Mam\u00edfero",
+        "url": "https://open.spotify.com/album/30HmZaLv7CCRa2Vm1cuy25"
+      },
+      "artists": [
+        {
+          "name": "Isa Salles",
+          "url": "https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151577,
+      "name": "Mam\u00edfero",
+      "url": "https://open.spotify.com/track/65rO0bHugFesLwCcmrpRJQ"
     },
     {
       "album": {
@@ -6753,6 +6829,24 @@
     },
     {
       "album": {
+        "name": "Nem Sempre Fui Assim",
+        "url": "https://open.spotify.com/album/2goR0VRITyLz5FMQ0Pm8W7"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00e7a",
+          "url": "https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98928,
+      "name": "Nem Sempre Fui Assim",
+      "url": "https://open.spotify.com/track/0kCc2xrwESCbpGqtr3qer8"
+    },
+    {
+      "album": {
         "name": "nesse ver\u00e3o",
         "url": "https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A"
       },
@@ -7690,7 +7784,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182189,
       "name": "Ora\u00e7\u00e3o 18 (pra viver junto)",
       "url": "https://open.spotify.com/track/7pocXmDZywvGx6vNz2VpIc"
@@ -9869,6 +9963,28 @@
     },
     {
       "album": {
+        "name": "SOZINHOS: O Desafio",
+        "url": "https://open.spotify.com/album/39LqAtXs5dQ3hd4PMj6CK5"
+      },
+      "artists": [
+        {
+          "name": "Mundo Video",
+          "url": "https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty"
+        },
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264732,
+      "name": "SOZINHOS: O Desafio",
+      "url": "https://open.spotify.com/track/7fPgDqWqdlEvwNCG9JEmps"
+    },
+    {
+      "album": {
         "name": "Strokinho",
         "url": "https://open.spotify.com/album/1nYKRWKxbNnZNFHI9Vinuy"
       },
@@ -10296,7 +10412,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188500,
       "name": "Teto Preto",
       "url": "https://open.spotify.com/track/46LK7vXBSKu00IWu7A0dpA"
@@ -10625,6 +10741,48 @@
     },
     {
       "album": {
+        "name": "TRAGO",
+        "url": "https://open.spotify.com/album/33se7NxxEuJit5KbJW7GAQ"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Ricardo Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/6GS4adyF15zprBXEjoxA8F"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169562,
+      "name": "Trago",
+      "url": "https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik"
+    },
+    {
+      "album": {
         "name": "Transtornos",
         "url": "https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa"
       },
@@ -10888,7 +11046,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182013,
       "name": "T\u00e1 Tudo Dan\u00e7ando",
       "url": "https://open.spotify.com/track/5UshWUWP41FBrjQYRpNFGV"

@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
 
-174 songs - 17 hr 50 min
+176 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,8 @@
 | [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 | 2020-09-04 | 2023-09-09 |
 | [Apocalyptic Love](https://open.spotify.com/track/6hiLV1fEZaUw6x9XGmrKM0) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/2fIF7zGwcpAJeAbEMnxDUH) | 7:32 | 2020-09-04 | 2023-11-18 |
 | [Arcade](https://open.spotify.com/track/0KSR4afsGD6d9BfeH2JMiL) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj), [Tantum](https://open.spotify.com/artist/1zOlzO4RI2iNEcO7JkVWuK) | [Arcade EP](https://open.spotify.com/album/6lIcpudUrFAAQSFDHSyiZ8) | 6:54 | 2024-05-31 |  |
+| [Arenales 2984](https://open.spotify.com/track/4HnLWM4wXJIaqItvM5NofI) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh) | [Arenales 2984](https://open.spotify.com/album/23ven5o2tmccqzRJ2ETSu4) | 2:48 | 2024-06-28 |  |
+| [Artificial](https://open.spotify.com/track/39nxr5EypgH8Vm1N3qRlyR) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/4DC4DlQlgsMYVTjj9osEgg) | 3:13 | 2024-06-28 |  |
 | [Assemble](https://open.spotify.com/track/6eK1oTcuQ8WcFOlHFZGKWG) | [Zagitar](https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d) | [Assemble EP](https://open.spotify.com/album/73okAAeBYmmguLGfgl8GHb) | 7:10 | 2020-09-04 | 2023-11-18 |
 | [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 7:40 | 2020-09-04 | 2023-11-18 |
 | [Bailarina \- Pyura Remix](https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Bailarina \(Pyura Remix\)](https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3) | 5:16 | 2024-04-12 |  |
@@ -157,12 +159,12 @@
 | [STOP Cerebro](https://open.spotify.com/track/2ECTFGAX2lU2hrCA6vxiJR) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/4fTMwrvhkSg7RHlKJzjovV) | 3:38 | 2024-01-05 |  |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/0Nno4cLqFzPgcMFbCpdDqE) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/1PiycNuMNREvJyVPgt7pBN) | 8:57 | 2020-09-04 | 2023-11-18 |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm) | 8:57 | 2020-09-04 | 2022-07-29 |
-| [Synchronic](https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd) | [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Synchronic](https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T) | 4:55 | 2024-05-06 |  |
+| [Synchronic](https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd) | [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Synchronic](https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T) | 4:55 | 2024-05-06 | 2024-06-29 |
 | [Tantanbo \- Mauro Augugliaro Remix](https://open.spotify.com/track/0vPcPZjbwh7kUvaTTu23ir) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm), [Mauro Augugliaro](https://open.spotify.com/artist/3csrOIvyyUQ6oZCbeublbj) | [Tantanbo \(Mauro Augugliaro Remix\)](https://open.spotify.com/album/3eMuIBpHfCAHsE1NFcAyKt) | 7:38 | 2024-01-19 |  |
 | [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 | 2023-11-17 | 2024-05-11 |
 | [Tetam Gramma](https://open.spotify.com/track/2Gao1954kvVrhiqt9o6rNM) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Tetam Gramma](https://open.spotify.com/album/10OdqB89fb2yeaIUk430ko) | 4:47 | 2024-02-02 |  |
 | [That's the Way It Goes](https://open.spotify.com/track/7LLPb7lwljnDSksJ2iOJ7u) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Buen Augurio](https://open.spotify.com/album/6Ef0wz2lp7g7FD6PJIMb71) | 7:40 | 2020-09-04 | 2023-11-18 |
-| [Tiempo de Perdonar al Tiempo REMIX](https://open.spotify.com/track/7k1BD8Ae6G9owOKyWjYHrc) | [D.I.E.T.R.I.C.H.](https://open.spotify.com/artist/5WMhbQfLXEH6wEpsF0v2hv), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Tiempo de Perdonar al Tiempo REMIX](https://open.spotify.com/album/1rrYsEJI5bSn7vtq8OjvvE) | 6:22 | 2024-05-31 |  |
+| [Tiempo de Perdonar al Tiempo REMIX](https://open.spotify.com/track/7k1BD8Ae6G9owOKyWjYHrc) | [D.I.E.T.R.I.C.H.](https://open.spotify.com/artist/5WMhbQfLXEH6wEpsF0v2hv), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Tiempo de Perdonar al Tiempo REMIX](https://open.spotify.com/album/1rrYsEJI5bSn7vtq8OjvvE) | 6:22 | 2024-05-31 | 2024-06-29 |
 | [Time Is An Illusion](https://open.spotify.com/track/0jj1tCb1DCGsKsYmf8zFNS) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Time Is An Illusion EP](https://open.spotify.com/album/3Lhg5VoqZlOrFBzGqppqnj) | 7:29 | 2020-09-04 | 2023-11-18 |
 | [Timeless](https://open.spotify.com/track/3tdRR98vlJ1Vr6apFjPQoJ) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Crabo](https://open.spotify.com/album/5mhP51VoWxehN7sgn1Ko8n) | 9:18 | 2020-09-04 | 2023-11-18 |
 | [Timeless](https://open.spotify.com/track/4j0qHgFJYumy5NDvaDbdl3) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Crabo](https://open.spotify.com/album/1UVqmzod2ZtvMO83PQQAEC) | 9:18 | 2020-09-04 | 2022-07-29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,590 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,589 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 50 | [É Melhor Dois Enganados](https://open.spotify.com/track/7Iu71cj7nvB6k2fmpVO1Hp) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 2:05 |
 | 51 | [Colocadinha](https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB) | [Argentino No Beat](https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Colocadinha](https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1) | 2:23 |
 
-Snapshot ID: `ZntaAAAAAABOlw2SltmScU5EiSJipEuc`
+Snapshot ID: `ZntaAAAAAADPyLHF6V8zwMKhvUMBFxAx`

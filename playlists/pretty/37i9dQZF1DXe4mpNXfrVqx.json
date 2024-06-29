@@ -1,15 +1,91 @@
 {
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Maru2D",
-  "num_followers": 108186,
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Mc Morena",
+  "num_followers": 108215,
   "original_name": "S\u00f3 as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTs7AAAAADuuB5YDov7K9tuuw1bd6iw",
+  "snapshot_id": "Zn4nbAAAAACpua+IyFJ/gRMctHNoWcUv",
   "tracks": [
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Luz da Lua",
+        "url": "https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe"
+      },
+      "artists": [
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 108493,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Aquela",
+        "url": "https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        }
+      ],
+      "duration_ms": 121288,
+      "name": "Aquela",
+      "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/7E5eMLXtr8OxdiJcIPtbpj"
@@ -37,47 +113,7 @@
       "url": "https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 158884,
-      "name": "+18",
-      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
@@ -125,7 +161,7 @@
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
@@ -145,7 +181,7 @@
       "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Cosmo e Wanda",
         "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
@@ -173,23 +209,7 @@
       "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Aquela",
-        "url": "https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        }
-      ],
-      "duration_ms": 121288,
-      "name": "Aquela",
-      "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "geada",
         "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Bolo e Rebolo",
         "url": "https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Joias Caras",
         "url": "https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Espero Que Entendam (Freestyle)",
         "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Set da Menorzinha 1.0",
         "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Jogo de Cintura",
         "url": "https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso",
         "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Sinto Te Dizer",
         "url": "https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Querem nos calar",
         "url": "https://open.spotify.com/album/51dmrBA60wqRIb0wBPS5uT"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/47VkD7Z1MgtrlzfUCUWkHA"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Anjos E Ancestrais",
         "url": "https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Vida Vazia",
         "url": "https://open.spotify.com/album/5BR38rbe5SOBtLNdlEL2D8"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/57VPuGAJvHQtHZfToZOMMI"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "SP NIGHTS",
         "url": "https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Fanfic",
         "url": "https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
         "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "CHATA",
         "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Hentai",
         "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Sesh Delas",
         "url": "https://open.spotify.com/album/5nLThN4uUIltZFlWSz2K86"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/3RPBeD4ruUIc0Vy7DiOQFz"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Consequ\u00eancias",
         "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
@@ -753,27 +773,7 @@
       "url": "https://open.spotify.com/track/5xBJ8FanTJP98CXe5mI6Xm"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Garota California",
-        "url": "https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Garota Calif\u00f3rnia",
-      "url": "https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "A Firma \u00e9 Forte",
         "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Qual Teu Pre\u00e7o",
         "url": "https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Tukikis",
         "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Por Que os Homens Amam as Vadias?",
         "url": "https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "F\u00e9 nas Maluca",
         "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "CUSSY",
         "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Hater",
         "url": "https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Inimit\u00e1vel",
         "url": "https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/65RGKMXWOHHTkOLKzeRE0D"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "HSEH",
         "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Para pra Pensar",
         "url": "https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "LoveSong",
         "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
@@ -1097,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Perfil #86 - Mpif",
         "url": "https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd"
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "DO LADO DE FLORA",
         "url": "https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk"
@@ -1157,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Territ\u00f3rio Latino",
         "url": "https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM"
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Brincando com Fogo",
         "url": "https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Mal Acostumada",
         "url": "https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Pra Te Envolver",
         "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Futuro II Dia",
         "url": "https://open.spotify.com/album/6ZIGGpDGt3wkgHtEgmBE1a"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5sYtsBdGz8TeFYxERi2QTe"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Cofre",
         "url": "https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/4Ob435otPVxJEvhYVDyaxW"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Baby Encaixa",
         "url": "https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2"
@@ -1345,7 +1345,7 @@
       "url": "https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "DE CRIA PRA CRIA",
         "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Filhas do Improv\u00e1vel",
         "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Desamor",
         "url": "https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Chapolin",
         "url": "https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/1Ow2JpwAA6icfnxI0wDyL4"
@@ -1453,7 +1453,7 @@
       "url": "https://open.spotify.com/track/7uzPBNHwKHKA690w4W10cN"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Ampulheta",
         "url": "https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN"
@@ -1477,7 +1477,7 @@
       "url": "https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Tira Uma Foto",
         "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
@@ -1497,7 +1497,7 @@
       "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Favela Drill",
         "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
@@ -1521,7 +1521,7 @@
       "url": "https://open.spotify.com/track/0JsoISSv40wbMuKXkbkz57"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "A Tran\u00e7a",
         "url": "https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb"
@@ -1545,7 +1545,7 @@
       "url": "https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "GROUPIES",
         "url": "https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1"
@@ -1565,7 +1565,7 @@
       "url": "https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Leoa",
         "url": "https://open.spotify.com/album/5LpK6S7hgWW8l1orZtASoE"
@@ -1589,7 +1589,7 @@
       "url": "https://open.spotify.com/track/21wVBDCyZqturea0eQt2Mh"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "V\u00caNUS\u2260netuno",
         "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
@@ -1609,7 +1609,7 @@
       "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "LADIES NIGHT",
         "url": "https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI"
@@ -1629,7 +1629,7 @@
       "url": "https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Tron",
         "url": "https://open.spotify.com/album/7mk2g6xbRbTy1nt8DAItea"
@@ -1653,7 +1653,7 @@
       "url": "https://open.spotify.com/track/7ysqztAgIpzfdkxGbJVma2"
     },
     {
-      "added_at": "2024-06-21 03:01:00",
+      "added_at": "2024-06-28 03:01:00",
       "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"

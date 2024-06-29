@@ -2,7 +2,7 @@
 
 ### [This Is Ulices Chaidez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3a8KAu)
 
-> This is Ulices Chaidez\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Ulices Chaidez\. Los temas esenciales, todos en una lista.
 
 80 songs - 4 hr 19 min
 

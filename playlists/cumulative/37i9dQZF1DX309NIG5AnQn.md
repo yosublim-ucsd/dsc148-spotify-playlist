@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 Dum Chica
 
-215 songs - 12 hr 16 min
+216 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Amarnos](https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Amarnos](https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z) | 3:25 | 2023-03-31 | 2023-04-07 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
+| [Atenta](https://open.spotify.com/track/3GZuixcRRQ7PidTtKxXOPn) | [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Sur](https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe) | 2:53 | 2024-06-28 |  |
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 |  |
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 | 2023-08-26 |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 |  |
@@ -95,7 +96,7 @@
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-03-25 | 2023-03-25 |
 | [Escurridiza](https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [El Resto de los Días](https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5) | 3:20 | 2022-03-25 | 2023-03-25 |
 | [Esquivando Balas](https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Esquivando Balas](https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3) | 2:23 | 2023-09-01 |  |
-| [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 | 2023-10-20 |  |
+| [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 | 2023-10-20 | 2024-06-29 |
 | [Fantasies \- Acoustic](https://open.spotify.com/track/7jXHB0oiaOwhwrGuPoSTaG) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene: NAK Sessions](https://open.spotify.com/album/78c3cZ4RQJDdjIifB9burx) | 2:43 | 2024-03-08 |  |
 | [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 | 2023-09-01 |  |
 | [Fantasmas](https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Fantasmas](https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc) | 3:29 | 2022-03-25 | 2023-03-25 |

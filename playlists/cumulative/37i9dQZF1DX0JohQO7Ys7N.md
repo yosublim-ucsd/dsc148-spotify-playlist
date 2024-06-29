@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
 
-189 songs - 10 hr 31 min
+189 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Crocodile Tears](https://open.spotify.com/track/4vCYRoGObAKP9KN8ZYr4ng) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Crocodile Tears](https://open.spotify.com/album/4B4v4DnQU4B8USw8a3SomR) | 3:10 | 2024-02-01 | 2024-03-08 |
 | [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 | 2022-05-27 |
 | [Crush](https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Crush](https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ) | 4:03 | 2021-12-28 | 2023-05-27 |
-| [Cup of Tea](https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [24](https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ) | 2:51 | 2024-06-27 |  |
+| [Cup of Tea](https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [24](https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ) | 2:49 | 2024-06-27 |  |
 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 |  |
 | [Dark brown eyes](https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Dark brown eyes](https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J) | 3:48 | 2021-12-28 | 2024-04-19 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 |  |

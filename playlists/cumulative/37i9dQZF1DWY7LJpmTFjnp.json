@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 252006,
       "name": "Contra Todo Pron\u00f3stico",
       "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 334000,
       "name": "IA",
       "url": "https://open.spotify.com/track/59NhLHGxTTKU3MGbsod3Ii"
@@ -3169,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Quisiera Saber [En Vivo Desde Oaxaca (teatro Macedonio Alcal\u00e1)]",
+        "url": "https://open.spotify.com/album/0OVyKoM3OSV9zEazKssRWN"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265582,
+      "name": "Quisiera Saber - En Vivo Desde Oaxaca (teatro Macedonio Alcal\u00e1)",
+      "url": "https://open.spotify.com/track/0muk2k2swziGgu9B8eBXRL"
+    },
+    {
+      "album": {
         "name": "Quiten El Trap",
         "url": "https://open.spotify.com/album/2ZuRVitZRB7NHOr4uwdjck"
       },
@@ -3455,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "album": {
         "name": "Sed De La Mala",
         "url": "https://open.spotify.com/album/0muDy18cU5nzXd84CW0W0H"
       },
@@ -3560,6 +3596,28 @@
       "duration_ms": 209040,
       "name": "Siento Que...",
       "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
     },
     {
       "album": {
@@ -3686,7 +3744,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214048,
       "name": "Somos H\u00e9roes",
       "url": "https://open.spotify.com/track/5cRwxk8vnQrINUbCnga9B3"
@@ -3784,6 +3842,24 @@
       "duration_ms": 101776,
       "name": "Surf Club",
       "url": "https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "album": {

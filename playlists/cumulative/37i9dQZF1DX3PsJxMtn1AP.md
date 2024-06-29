@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-340 songs - 21 hr 43 min
+341 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Feira De Mangaio](https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Feira De Mangaio](https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH) | 2:36 | 2024-02-10 | 2024-05-29 |
 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 | 2023-04-07 | 2023-10-14 |
 | [Fight Club](https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 | 2024-02-26 | 2024-03-13 |
-| [Fishbrain](https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 4:37 | 2024-04-15 |  |
+| [Fishbrain](https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 4:37 | 2024-04-15 | 2024-06-29 |
 | [Follow The Light](https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Follow The Light](https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6) | 2:39 | 2024-03-22 |  |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-04-07 | 2023-05-24 |
 | [Frog In Boiling Water](https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p) | 3:57 | 2024-05-03 |  |
@@ -126,6 +126,7 @@
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-04 | 2024-01-06 |
 | [Globus](https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [La boca aigua](https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI) | 2:08 | 2023-12-22 | 2024-02-27 |
 | [Glorious Game](https://open.spotify.com/track/1EbvT0QXJmpAFCv8uoR8qT) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy) | 3:53 | 2023-04-14 | 2023-05-24 |
+| [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-06-28 |  |
 | [Going Up](https://open.spotify.com/track/5133gwoZONwiUL9LxKAmJt) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [ANIMALS](https://open.spotify.com/album/6oRVOPA5BEzqm6j8RCQR19) | 6:13 | 2023-06-07 | 2023-12-21 |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-04-07 | 2023-07-26 |
 | [H.B.Y.](https://open.spotify.com/track/6B12vGcosQHeGcuXSNDjH6) | [Setwun](https://open.spotify.com/artist/2Qv1W2j1iK6SHjsDEsXST6) | [H.B.Y.](https://open.spotify.com/album/5M9C4VlFYEbRHI5qJhj57T) | 4:14 | 2023-04-07 | 2023-11-07 |

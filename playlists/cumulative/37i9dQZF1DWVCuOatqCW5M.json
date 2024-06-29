@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Yasser Desai",
+  "description": "Latest music from your fav I-Pop artists. Cover- 'Chahun' by Stebin Ben",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192052,
       "name": "Befikriyan",
       "url": "https://open.spotify.com/track/4sCWLxUZ7yNyBGhDQ8lzmy"
@@ -3578,6 +3578,32 @@
       "duration_ms": 195491,
       "name": "Chaanv Hai",
       "url": "https://open.spotify.com/track/6et8mGYy2VE7ZMU6PpyU9x"
+    },
+    {
+      "album": {
+        "name": "Chahun",
+        "url": "https://open.spotify.com/album/40MkluM92kFZqszpjSJSO4"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Harsh Kargeti",
+          "url": "https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203161,
+      "name": "Chahun",
+      "url": "https://open.spotify.com/track/6tx8UJ7Hlv05KmDMUcGFsY"
     },
     {
       "album": {
@@ -4748,10 +4774,36 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176640,
       "name": "Dhadke Dil Yeh Deewana",
       "url": "https://open.spotify.com/track/2VmcgXzSwMN16iqSKifuMH"
+    },
+    {
+      "album": {
+        "name": "Dheere Dheere",
+        "url": "https://open.spotify.com/album/5N9QvcZqH8CWDAs2BWlx5G"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152451,
+      "name": "Dheere Dheere",
+      "url": "https://open.spotify.com/track/1i1Ew3JJhufofKiGdmUUXa"
     },
     {
       "album": {
@@ -5268,6 +5320,28 @@
       "duration_ms": 275294,
       "name": "Dil Mera Dil",
       "url": "https://open.spotify.com/track/17S7Q8aXOJWO1Lmp3upZl5"
+    },
+    {
+      "album": {
+        "name": "Dil Mile",
+        "url": "https://open.spotify.com/album/1xZUTTHl16xVwQHXcjEGkK"
+      },
+      "artists": [
+        {
+          "name": "Shor",
+          "url": "https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160125,
+      "name": "Dil Mile",
+      "url": "https://open.spotify.com/track/0DIs8OBEH59pupyKTQpTew"
     },
     {
       "album": {
@@ -5918,7 +5992,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 232173,
       "name": "Dost Yaad Aate Hai",
       "url": "https://open.spotify.com/track/5Kjx2uqGyFrftH26amz2AV"
@@ -8372,7 +8446,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 121302,
       "name": "Inipu",
       "url": "https://open.spotify.com/track/2n37CbY4Mm5rGXAIGlzAz3"
@@ -9944,6 +10018,28 @@
       "duration_ms": 198480,
       "name": "Joganiya",
       "url": "https://open.spotify.com/track/6ZouqMMRi1DnOSuvKUZJTW"
+    },
+    {
+      "album": {
+        "name": "Jogii (From \"aura\")",
+        "url": "https://open.spotify.com/album/3VqpeSU2f00baLx5nZMF4c"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Majmudar",
+          "url": "https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL"
+        },
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272093,
+      "name": "Jogii - From \"aura\"",
+      "url": "https://open.spotify.com/track/18JgzTj6dPk12W1C8TqBcb"
     },
     {
       "album": {
@@ -13132,7 +13228,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186000,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/25Wqjn0Q2BuM8f5IbGfFfi"
@@ -14060,7 +14156,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 147058,
       "name": "Melody",
       "url": "https://open.spotify.com/track/3SeZBNp4YI8KfyPm2GtsXs"
@@ -14428,7 +14524,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 312631,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/7KunOacBzaPJitn25oWKYy"
@@ -19401,6 +19497,28 @@
     },
     {
       "album": {
+        "name": "Subha Shaam",
+        "url": "https://open.spotify.com/album/78LRDU6OxRTofDogmeU6ZN"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "TEDD",
+          "url": "https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177209,
+      "name": "Subha Shaam",
+      "url": "https://open.spotify.com/track/4RiWt8bSrpy4tWVuMAPm3h"
+    },
+    {
+      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/0IVa3rkLxqzAq0wZ085Fs4"
       },
@@ -19665,6 +19783,32 @@
     },
     {
       "album": {
+        "name": "Sunn Mere Yaara",
+        "url": "https://open.spotify.com/album/2eAwUUn1xW97KTCK8ulpLH"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Barot",
+          "url": "https://open.spotify.com/artist/6FdB2vcrRmzkEM8mDOEEZa"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0xeawAnqGnOG3mBMZGCVMF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252869,
+      "name": "Sunn Mere Yaara",
+      "url": "https://open.spotify.com/track/3Lav3aZVmD4HfOy2sNJd9e"
+    },
+    {
+      "album": {
         "name": "Suno",
         "url": "https://open.spotify.com/album/6XmmgMxax1k1Ue6CAJqFON"
       },
@@ -19882,6 +20026,24 @@
       "duration_ms": 230400,
       "name": "Tanha Ab Hua",
       "url": "https://open.spotify.com/track/7rXRcvSn6co5MtX3w0ZM6e"
+    },
+    {
+      "album": {
+        "name": "Tanha Din Tanha Raatein",
+        "url": "https://open.spotify.com/album/38yqXna48q9vxL4oVzCf8k"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266938,
+      "name": "Tanha Din Tanha Raatein",
+      "url": "https://open.spotify.com/track/7qKnova00ZpcGOGdc4tkjR"
     },
     {
       "album": {
@@ -22988,7 +23150,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 232276,
       "name": "Ve Sohneya",
       "url": "https://open.spotify.com/track/1VUhPbJHjHn2SMTGnSU7hd"
@@ -23574,7 +23736,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 187798,
       "name": "Zaalima",
       "url": "https://open.spotify.com/track/2g90zvtVNPN8lcGTSzjtv3"

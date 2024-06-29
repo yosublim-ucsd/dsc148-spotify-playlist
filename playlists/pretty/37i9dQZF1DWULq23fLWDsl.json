@@ -1,6 +1,6 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 258382,
+  "num_followers": 258687,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
+        "name": "Broken Bells",
+        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "The Ghost Inside",
+      "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
         "name": "Total Life Forever",
         "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 235386,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
-        "name": "Broken Bells",
-        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "The Ghost Inside",
-      "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
     },
     {
       "added_at": "2024-03-18 13:17:02",

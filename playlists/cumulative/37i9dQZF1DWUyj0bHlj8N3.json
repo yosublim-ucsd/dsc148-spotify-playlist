@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176720,
       "name": "Acrobatic",
       "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 139523,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214066,
       "name": "Bun Up the Dance",
       "url": "https://open.spotify.com/track/2cgZfcnb639TaZhd1AU8iz"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 289500,
       "name": "Carried Away (Love To Love) (with Madison Beer) [Tchami Remix]",
       "url": "https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188800,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/7924NRevY7KfgupyhT6Xky"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
@@ -1084,6 +1084,28 @@
       "duration_ms": 203133,
       "name": "Peanut Butter Jelly",
       "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
+    },
+    {
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/6MHD2sNvgowqI4zmQEN0GR"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324773,
+      "name": "Phantom Pt II - Boys Noize Remix",
+      "url": "https://open.spotify.com/track/6Rbx5L4VhtrerMRgGV5V2Z"
     },
     {
       "album": {
@@ -1252,7 +1274,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 299520,
       "name": "PROGRESSO",
       "url": "https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC"
@@ -1456,7 +1478,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181283,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 403088,
       "name": "Sofi Needs A Ladder",
       "url": "https://open.spotify.com/track/5pewxEBnMo72rY6pGH0HJz"
@@ -1672,7 +1694,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 211200,
       "name": "Trust Nobody",
       "url": "https://open.spotify.com/track/08bDGEzsYd9ebCc7p23X4j"
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197760,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/7dWef6DMTYxClvMzObXrE3"

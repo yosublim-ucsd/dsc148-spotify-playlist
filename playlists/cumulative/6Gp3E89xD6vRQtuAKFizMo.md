@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-317 songs - 15 hr 18 min
+319 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Fight \(Show Me Who You Are\)](https://open.spotify.com/track/64z1dWUjWiW0sRjsAhtNTD) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Fight \(Show Me Who You Are\)](https://open.spotify.com/album/1c6CkJzI9bVOH1RZyA9Snl) | 3:37 | 2023-11-22 |  |
 | [Find Me](https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [3DI](https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G) | [Find Me](https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB) | 3:09 | 2023-01-20 | 2023-04-09 |
 | [Foe Or Friend \(feat\. hanna ögonsten\)](https://open.spotify.com/track/3lsscWET0b3LXF4FqIq3mY) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Foe Or Friend \(feat\. hanna ögonsten\)](https://open.spotify.com/album/5eHMgCpgUN4mQeGxdBrmH5) | 3:01 | 2024-05-10 |  |
+| [For Life \(feat\. Manno\)](https://open.spotify.com/track/2i5a3TdgkcHPK9SSt1J4Nw) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [For Life \(feat\. Manno\)](https://open.spotify.com/album/1rEYrmigEy0JEVN1jDgsg9) | 3:07 | 2024-06-28 |  |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 | 2022-09-29 |
 | [Forgive Me](https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forgive Me](https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve) | 2:44 | 2022-07-15 | 2022-10-22 |
 | [Free](https://open.spotify.com/track/1YEr0NvOiH8WIIq5Qn9sCu) | [Tr0n](https://open.spotify.com/artist/4T8bFrAntMjQU5ekr6tH4u), [Tadeusz](https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP) | [Free](https://open.spotify.com/album/56dgpvKJXrg1ymysmMP641) | 3:13 | 2024-05-07 |  |
@@ -192,6 +193,7 @@
 | [MOTION](https://open.spotify.com/track/4EzW52mbVR93yJVnHYi710) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [MOTION](https://open.spotify.com/album/7wLPe5WdB6xkxmEEQV1kqy) | 2:13 | 2023-04-07 |  |
 | [Move It](https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Move It](https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo) | 2:20 | 2022-06-24 | 2023-01-28 |
 | [Move Your Body](https://open.spotify.com/track/3sX6nnMGqC5WS88TcaOBfM) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Move Your Body](https://open.spotify.com/album/79GIJFnwlmxctKHpo0dLqJ) | 2:48 | 2023-06-03 |  |
+| [Move Your Feet \(Like This\)](https://open.spotify.com/track/2Z0IPXm9YUEb8FWRTAiM3d) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Move Your Feet \(Like This\)](https://open.spotify.com/album/39DhmYTEg0M0jtjSbacrGw) | 2:16 | 2024-06-28 |  |
 | [Music Is The Answer](https://open.spotify.com/track/6q0gaCCxMImKzJX5j3MHz0) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Music Is The Answer](https://open.spotify.com/album/5nwZ4ou2yHpuOu5vv1ny1G) | 3:47 | 2023-11-22 |  |
 | [Music Means Love Forever](https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Music Means Love Forever](https://open.spotify.com/album/2Fd0eRQIYmYhmQguxmZH8j) | 3:27 | 2022-05-06 | 2022-09-25 |
 | [My Room](https://open.spotify.com/track/4TZqdDTRiGuWSWMy9xIGPO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [My Room](https://open.spotify.com/album/6GpkuUuvRxvrLYZgrXoyVz) | 2:29 | 2023-11-22 |  |

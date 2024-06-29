@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 213423,
+  "num_followers": 213604,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3g4AAAAAAcFDugdscWsv+zXZ4TPP/G",
+  "snapshot_id": "Zn5/5AAAAAA+ucxj4rfAaiz3kzhElUAj",
   "tracks": [
     {
       "added_at": "2024-06-27 22:00:00",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
     },
     {
+      "added_at": "2024-06-28 09:18:28",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
+    },
+    {
       "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "the thing about you",
@@ -459,6 +475,34 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Piya Piya Calling (feat. The Quick Style)",
+        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        },
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        },
+        {
+          "name": "The Quick Style",
+          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+        }
+      ],
+      "duration_ms": 286122,
+      "name": "Piya Piya Calling (feat. The Quick Style)",
+      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -691,6 +735,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -723,6 +787,26 @@
       "duration_ms": 183718,
       "name": "30 grader",
       "url": "https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Style Rare (feat. Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (feat. Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1259,6 +1343,22 @@
       "duration_ms": 142400,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1KjqUIQlHak0D4AFBs7pTN"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "I Wouldn't Change a Thing",
+        "url": "https://open.spotify.com/album/3pDqoPer7kj0LJKv6uafBy"
+      },
+      "artists": [
+        {
+          "name": "Loving Caliber",
+          "url": "https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs"
+        }
+      ],
+      "duration_ms": 190635,
+      "name": "I Wouldn't Change a Thing",
+      "url": "https://open.spotify.com/track/6r3TvarxNKUDioouFN1sD8"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1947,6 +2047,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Vi tv\u00e5",
         "url": "https://open.spotify.com/album/2cGyghSuzVNL6kZu2uxyvc"
       },
@@ -2079,6 +2195,22 @@
       "duration_ms": 268313,
       "name": "Dimitri",
       "url": "https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
     },
     {
       "added_at": "2024-06-27 22:00:00",

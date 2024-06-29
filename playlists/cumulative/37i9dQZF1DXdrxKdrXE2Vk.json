@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
+  "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans</a> and <a href=\"spotify:artist:0cuW2lF0YWb9VUyHOnvnsO\">Jenn Johnson</a>  of Bethel Music",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Metro Collective Worship",
+        "url": "https://open.spotify.com/album/3C946eNtnL5SUkNXrjxdL8"
+      },
+      "artists": [
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        },
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188238,
+      "name": "Alone in It (Live)",
+      "url": "https://open.spotify.com/track/3dpHqU2m4sDt7G4QA8B7Nr"
+    },
+    {
+      "album": {
         "name": "The Joy of Being Together (Live)",
         "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
       },
@@ -399,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Songs For Sunday (Live)",
+        "url": "https://open.spotify.com/album/6J4AVNtdMpn50w1u3j1HHe"
+      },
+      "artists": [
+        {
+          "name": "VIVE Worship",
+          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376526,
+      "name": "Amen Of Heaven (Live)",
+      "url": "https://open.spotify.com/track/0uJxtoa3LsDnOdxGvWr8Z5"
+    },
+    {
+      "album": {
         "name": "Anyway (Live)",
         "url": "https://open.spotify.com/album/5nZdUTbFedRgB9yY3K5osi"
       },
@@ -410,7 +450,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 337992,
       "name": "Anyway (Live)",
       "url": "https://open.spotify.com/track/37VRuQU3v3m9buLIeyska6"
@@ -498,7 +538,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 391407,
       "name": "As The Deer / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
@@ -658,7 +698,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 589677,
       "name": "Beauty / We Fall Down - Live",
       "url": "https://open.spotify.com/track/6qk2m4FLAsWT5BaaTqhddH"
@@ -2075,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "DOXA (Live)",
+        "url": "https://open.spotify.com/album/285bUfwUpRzkbNy9ISXgRt"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304424,
+      "name": "Glory Belongs - Live",
+      "url": "https://open.spotify.com/track/0Hjj23mQJNGltREQsXWMV7"
+    },
+    {
+      "album": {
         "name": "Glory Fills This Room",
         "url": "https://open.spotify.com/album/2OXY0lBShlKDQUBc1BdRFh"
       },
@@ -2851,6 +2913,32 @@
     },
     {
       "album": {
+        "name": "Holy Forever (Live)",
+        "url": "https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642837,
+      "name": "Holy Forever (Live)",
+      "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
+    },
+    {
+      "album": {
         "name": "Holy Spirit (Live)",
         "url": "https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq"
       },
@@ -3583,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Jesus Paid It All (Live)",
+        "url": "https://open.spotify.com/album/72a8to3ClmRUYFMkfIJmBK"
+      },
+      "artists": [
+        {
+          "name": "Fresh Life Worship",
+          "url": "https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297998,
+      "name": "Jesus Paid It All - Live",
+      "url": "https://open.spotify.com/track/1KobmV1s0taAhcSIqKP66u"
+    },
+    {
+      "album": {
         "name": "Jesus You Alone (Live)",
         "url": "https://open.spotify.com/album/7aAvbIts1nYFkRhPkN5jHG"
       },
@@ -3978,6 +4084,24 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "album": {
+        "name": "Coming Back To The Heart (Live Collection)",
+        "url": "https://open.spotify.com/album/0hZCaD2xckc6RSZjQHY97E"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381509,
+      "name": "Let Me See Jesus - Live",
+      "url": "https://open.spotify.com/track/6sigFENDLLKQaMc874J7T3"
     },
     {
       "album": {
@@ -6040,7 +6164,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 238982,
       "name": "Still God (Live)",
       "url": "https://open.spotify.com/track/5Tudz46wDPEKifYilxXZTq"
@@ -6292,6 +6416,28 @@
       "duration_ms": 419337,
       "name": "The Commission - Live",
       "url": "https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO"
+    },
+    {
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/113DqtCMkAAcflLKTMk6HN"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        },
+        {
+          "name": "Turn Signal",
+          "url": "https://open.spotify.com/artist/0YVFHMLIV2IvjhKssYyRbp"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271083,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/3vc5rTuBaI4y9eejvjqwad"
     },
     {
       "album": {
@@ -7228,7 +7374,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 317922,
       "name": "We Praise You / Do It Again - Live",
       "url": "https://open.spotify.com/track/1BF6FybAqoDc4v1BfQG13m"

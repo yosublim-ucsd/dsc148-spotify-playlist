@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Above Water",
+        "url": "https://open.spotify.com/album/3RffHpKsbuS5AbWHGKYMGr"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214230,
+      "name": "Above Water",
+      "url": "https://open.spotify.com/track/4oKGdjLZitVsCCFxdkocoF"
+    },
+    {
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/1XBuh0Xy5nHzwb7jOyUAhP"
       },
@@ -704,6 +722,28 @@
       "duration_ms": 208544,
       "name": "Down About It",
       "url": "https://open.spotify.com/track/2p2FhZgzt7XVWcG14hvzte"
+    },
+    {
+      "album": {
+        "name": "Egaux",
+        "url": "https://open.spotify.com/album/4aGx8deIzw92Dib4AH5PrC"
+      },
+      "artists": [
+        {
+          "name": "Nuttea",
+          "url": "https://open.spotify.com/artist/65LSKdbofg1NdWkaLSVXKc"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "Egaux",
+      "url": "https://open.spotify.com/track/2dS4meH8cow2zKTXLMeSXQ"
     },
     {
       "album": {
@@ -2185,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222953,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -2652,6 +2710,24 @@
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
     },
     {
       "album": {

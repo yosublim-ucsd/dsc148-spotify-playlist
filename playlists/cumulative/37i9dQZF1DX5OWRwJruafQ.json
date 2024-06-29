@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/4MD3NRT3pi9ZfvDuvBTql4"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125346,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2WZeBhTbaVg1k4KoT1VbNt"
+    },
+    {
+      "album": {
         "name": "Adulthood",
         "url": "https://open.spotify.com/album/1vYVjhzmdVzLN6pM8enlFO"
       },
@@ -830,6 +852,28 @@
       "duration_ms": 182195,
       "name": "Badmashi",
       "url": "https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ"
+    },
+    {
+      "album": {
+        "name": "Badmashia",
+        "url": "https://open.spotify.com/album/00BiLxMo9j4BrKsGvpjYSO"
+      },
+      "artists": [
+        {
+          "name": "Kulshan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Badmashia",
+      "url": "https://open.spotify.com/track/40g99EnVyvocZZYHLCiyxv"
     },
     {
       "album": {
@@ -1480,7 +1524,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 135500,
       "name": "Case",
       "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
@@ -2426,7 +2470,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 177977,
       "name": "Executioner",
       "url": "https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn"
@@ -2908,6 +2952,28 @@
       "duration_ms": 211930,
       "name": "Gaadi Kaali",
       "url": "https://open.spotify.com/track/67RCAK7VJ9LPL1nKbO0lQM"
+    },
+    {
+      "album": {
+        "name": "Gaani",
+        "url": "https://open.spotify.com/album/1Fo0Eblm3Ibb5lHbqjzJLj"
+      },
+      "artists": [
+        {
+          "name": "Aman Sumal",
+          "url": "https://open.spotify.com/artist/46gYISHuevilSd6qe4jq0C"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Gaani",
+      "url": "https://open.spotify.com/track/2SWt4VfuhKviuhMx1AQtXi"
     },
     {
       "album": {
@@ -6291,6 +6357,32 @@
     },
     {
       "album": {
+        "name": "Old Sinner",
+        "url": "https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT"
+      },
+      "artists": [
+        {
+          "name": "Guri Lahoria",
+          "url": "https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3"
+        },
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Old Sinner",
+      "url": "https://open.spotify.com/track/6TDstCmfJF2ajZIPrtE0Lc"
+    },
+    {
+      "album": {
         "name": "On Top 2",
         "url": "https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p"
       },
@@ -6592,7 +6684,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 131751,
       "name": "Ragde",
       "url": "https://open.spotify.com/track/6xLL74gaBomkzTvXmZLIEb"
@@ -6662,7 +6754,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 184000,
       "name": "Reason",
       "url": "https://open.spotify.com/track/7Ev92k96OVcJw7JxQUMorq"
@@ -7582,7 +7674,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 148827,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/3Rl6DEqiFsufPnmdHH9aPc"
@@ -8126,6 +8218,24 @@
       "duration_ms": 195000,
       "name": "Tu Te Sharab",
       "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
+    },
+    {
+      "album": {
+        "name": "Udda Adda",
+        "url": "https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Udda Adda",
+      "url": "https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn"
     },
     {
       "album": {

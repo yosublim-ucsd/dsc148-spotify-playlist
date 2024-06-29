@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA, Medy, Achille Lauro, Salmo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,121 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,168 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 81 | [Batto il piede giù](https://open.spotify.com/track/7B6YpmeNk6cl10ACUd0jIb) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Batto il piede giù](https://open.spotify.com/album/39inoBrpaaTTXTMY94qsKa) | 1:51 |
 | 82 | [4U](https://open.spotify.com/track/6TV4UxrKTqf5lDBUZOfAKY) | [FEFE](https://open.spotify.com/artist/5PaWDnGRLyV1oqN32ZVRNW), [WAHA](https://open.spotify.com/artist/1q8UJG4kvQxY5tfPhGM8HC) | [4U](https://open.spotify.com/album/4mfgGWakJ6bcENRG7OqatI) | 2:30 |
 | 83 | [4:30 AM](https://open.spotify.com/track/4KZnnvL6JfvnI5k8CKI9t7) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [4:30 AM](https://open.spotify.com/album/4wFLeHHZJclhhoYLYFja8K) | 2:43 |
-| 84 | [Grave Digger](https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Grave Digger](https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w) | 2:28 |
+| 84 | [Grave Digger \(feat\. Sapobully\)](https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Grave Digger \(feat\. Sapobully\)](https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w) | 2:28 |
 | 85 | [5X5](https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [5X5](https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu) | 2:18 |
 | 86 | [BITCH](https://open.spotify.com/track/2OmFMiThTjYJU5l5F7g45a) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [BITCH](https://open.spotify.com/album/2ma0sRaWuNdmfFFED4Yrjq) | 2:32 |
 | 87 | [Perdenn 'A Cap \(feat\. Armouann, O'Tsunami & Flaza\)](https://open.spotify.com/track/4PPAVU1RIdKKiNE4UTIzQ7) | [Murcielago](https://open.spotify.com/artist/4pfWOZ7iBNyq7pBaTJRXC4), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Armouann](https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6), [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Perdenn 'A Cap \(feat\. Armouann, O'Tsunami & Flaza\)](https://open.spotify.com/album/0f0tWgJ73mj7gwLv3iZxAs) | 3:12 |

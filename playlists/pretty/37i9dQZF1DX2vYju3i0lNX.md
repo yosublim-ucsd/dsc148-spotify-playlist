@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,151 likes - 745 songs - 1 day 19 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,228 likes - 745 songs - 1 day 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 24 | [Unspoken](https://open.spotify.com/track/1DWcrgF8P6NlHf9rvN7lzm) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Unspoken](https://open.spotify.com/album/1JhUCymiRLse2OsgguYg6L) | 3:13 |
 | 25 | [Six Copies](https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Six Copies](https://open.spotify.com/album/6RBOorpn7m71FYN3RnBfww) | 3:19 |
 | 26 | [Unspoken Love](https://open.spotify.com/track/1wAZQsmkq7lrW6Kt7ttTd6) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Unspoken Love](https://open.spotify.com/album/6YgE3eC9OKqxbke7WwjtPX) | 3:46 |
-| 27 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Trio Serena](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 |
+| 27 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [In Every Way](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 |
 | 28 | [Late Night](https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Late Night](https://open.spotify.com/album/4xhU21k5nDS4D0V1RpL1JB) | 4:52 |
 | 29 | [Autumn Whispers](https://open.spotify.com/track/0xHjKlaXNiA4BJGgPz15KX) | [Ivory Soul Trio](https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7) | [Autumn Whispers](https://open.spotify.com/album/1rGBSySIEwduFE3SanVwCQ) | 3:48 |
 | 30 | [On My Own](https://open.spotify.com/track/4wEbOI5l8rNidBk2BeNmo7) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [On My Own](https://open.spotify.com/album/2Jmi6zdQVavjTu69m8JARk) | 3:46 |

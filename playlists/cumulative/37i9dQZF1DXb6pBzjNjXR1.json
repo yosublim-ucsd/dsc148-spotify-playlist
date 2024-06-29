@@ -273,6 +273,32 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/1qeES9QZaq1xfHfvSTtuo7"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Roots",
+          "url": "https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge"
+        },
+        {
+          "name": "Dj Wonderboy",
+          "url": "https://open.spotify.com/artist/5WiLGiZee73dHXkqEQjKBF"
+        },
+        {
+          "name": "Maz Sings",
+          "url": "https://open.spotify.com/artist/5F7Fe07I1f1mlW312a4dmk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373518,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4StUSthpVX304GEjdTnI0i"
+    },
+    {
+      "album": {
         "name": "American Storyteller",
         "url": "https://open.spotify.com/album/4ZG5gs2kGSZIZNVunNinC2"
       },
@@ -414,7 +440,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 322400,
       "name": "Asanda",
       "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"

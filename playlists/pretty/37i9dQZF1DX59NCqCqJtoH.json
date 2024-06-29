@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1192010,
+  "num_followers": 1192047,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "we were girls together",
+        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "we were girls together",
+      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "melanchole",
         "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "we were girls together",
-        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
         }
       ],
-      "duration_ms": 137136,
-      "name": "we were girls together",
-      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -647,22 +663,6 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "Suddenly Okay",
@@ -747,6 +731,22 @@
       "duration_ms": 183809,
       "name": "Suddenly Okay",
       "url": "https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
+    },
+    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "another life",
@@ -915,22 +931,6 @@
       "duration_ms": 131182,
       "name": "another life",
       "url": "https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
-      "added_at": "2024-03-07 21:03:22",
-      "album": {
-        "name": "safe space",
-        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
-      },
-      "artists": [
-        {
-          "name": "Sughn",
-          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "safe space",
-      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Emotionless",
@@ -1107,6 +1091,22 @@
       "duration_ms": 148401,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
+    },
+    {
+      "added_at": "2024-03-07 21:03:22",
+      "album": {
+        "name": "safe space",
+        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
+      },
+      "artists": [
+        {
+          "name": "Sughn",
+          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "safe space",
+      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1397,20 +1397,24 @@
       "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
     },
     {
-      "added_at": "2024-03-07 21:03:22",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Red Honey",
-        "url": "https://open.spotify.com/album/0txm5Pz3TMKCSZ2NJH8gHs"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
       },
       "artists": [
         {
-          "name": "Kidsnot$aints.",
-          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
         }
       ],
-      "duration_ms": 98874,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/66koXsgfF5kOi8tGM9ENHs"
+      "duration_ms": 190741,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1433,24 +1437,20 @@
       "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-03-07 21:03:22",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
+        "name": "Red Honey",
+        "url": "https://open.spotify.com/album/0txm5Pz3TMKCSZ2NJH8gHs"
       },
       "artists": [
         {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "WYNNE",
-          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
+          "name": "Kidsnot$aints.",
+          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
         }
       ],
-      "duration_ms": 190741,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
+      "duration_ms": 98874,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/66koXsgfF5kOi8tGM9ENHs"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
-      },
-      "artists": [
-        {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 145341,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "nowhere to hide",
         "url": "https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 171937,
       "name": "nowhere to hide",
       "url": "https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 145341,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm"
     },
     {
       "added_at": "2023-10-16 20:29:38",

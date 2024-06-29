@@ -4681,6 +4681,32 @@
     },
     {
       "album": {
+        "name": "MUITO BRABO",
+        "url": "https://open.spotify.com/album/6H7CjzXl7ILsfMqs9pyik6"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Drow Beats",
+          "url": "https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219674,
+      "name": "MUITO BRABO",
+      "url": "https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL"
+    },
+    {
+      "album": {
         "name": "Mun R\u00e1",
         "url": "https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl"
       },
@@ -7996,7 +8022,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198400,
       "name": "Tocaia",
       "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"

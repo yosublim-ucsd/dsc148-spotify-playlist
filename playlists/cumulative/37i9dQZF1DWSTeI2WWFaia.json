@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 227936,
       "name": "BE ILL",
       "url": "https://open.spotify.com/track/0CorkA4Y59hyBQOitHWwOZ"
@@ -9245,6 +9245,24 @@
     },
     {
       "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
+    },
+    {
+      "album": {
         "name": "Long Live DJ Shay",
         "url": "https://open.spotify.com/album/0L9rBwT5kUeKlwg7HOqwUU"
       },
@@ -11655,6 +11673,28 @@
     },
     {
       "album": {
+        "name": "Across The Tracks",
+        "url": "https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137485,
+      "name": "St. Juliana",
+      "url": "https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG"
+    },
+    {
+      "album": {
         "name": "Stain",
         "url": "https://open.spotify.com/album/0GGAWNUMv9ZnsNdbAYrrrF"
       },
@@ -11802,7 +11842,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 224415,
       "name": "Sticks & Stones",
       "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"

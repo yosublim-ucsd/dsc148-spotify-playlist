@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 ### [This Is Tasha Cobbs Leonard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wtU1K)
 
-> This is Tasha Cobbs Leonard\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,634 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,645 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [THIS IS A MOVE \(LIVE FROM GREENSBORO\)](https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TEAR OFF THE ROOF \(LIVE FROM THE HOLY CITY\)](https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A) | 7:08 |
 | 50 | [Show Us You \(Reprise\) \[feat\. Tasha Cobbs & William Murphy, III\] \- Live Version](https://open.spotify.com/track/5qtNkF08IRkcMRaw9Xje9d) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [William Murphy III](https://open.spotify.com/artist/56spyEtOS1lSbTxIm5mDIS), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Legacy: Live In New Orleans \(Deluxe\) \[Live Version\]](https://open.spotify.com/album/1IFcEdarRtR86W9iw2WmPh) | 3:29 |
 
-Snapshot ID: `ZntaAAAAAADvLy2GY4ePq/WNK4qIWBzZ`
+Snapshot ID: `ZntaAAAAAADV5VC3pul4QCX+2LAaZkx5`

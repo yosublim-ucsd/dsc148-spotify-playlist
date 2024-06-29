@@ -180,7 +180,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 272197,
       "name": "3:59 AM",
       "url": "https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo"
@@ -206,6 +206,28 @@
       "duration_ms": 169512,
       "name": "4.10",
       "url": "https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB"
+    },
+    {
+      "album": {
+        "name": "4.10",
+        "url": "https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Lal Chand Yamla Jatt",
+          "url": "https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169512,
+      "name": "4.10",
+      "url": "https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4"
     },
     {
       "album": {
@@ -306,6 +328,24 @@
       "duration_ms": 161000,
       "name": "8 ASLE",
       "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
+    },
+    {
+      "album": {
+        "name": "911 Porsche",
+        "url": "https://open.spotify.com/album/1y2NBEqFYL30kS5QhbQQ9P"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "911 Porsche",
+      "url": "https://open.spotify.com/track/05W6XiPHvftfTifU8PQ8mr"
     },
     {
       "album": {
@@ -945,6 +985,28 @@
     },
     {
       "album": {
+        "name": "BAWE MAIN CHECK",
+        "url": "https://open.spotify.com/album/7HoPrzsCajDulJVJYFl1Jz"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187528,
+      "name": "BAWE MAIN CHECK",
+      "url": "https://open.spotify.com/track/2ytJU54UjdkKJH5QDNi5H7"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y"
       },
@@ -990,6 +1052,32 @@
       "duration_ms": 219449,
       "name": "Besabar",
       "url": "https://open.spotify.com/track/6Puy4gh5nZLsoJa0I1AZYq"
+    },
+    {
+      "album": {
+        "name": "Bhai Hai",
+        "url": "https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap"
+      },
+      "artists": [
+        {
+          "name": "Fotty Seven",
+          "url": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA"
+        },
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Bhai Hai",
+      "url": "https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8"
     },
     {
       "album": {
@@ -1381,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/4XWCQnLpIG5GgCIL9eHwJh"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202001,
+      "name": "Chhore NCR Aale",
+      "url": "https://open.spotify.com/track/6L6irlPBbXb0Wsgn3qXAvX"
+    },
+    {
+      "album": {
         "name": "CHUSAMBA",
         "url": "https://open.spotify.com/album/7CQ4iAL3oD3jZ4nbUqjLgt"
       },
@@ -1597,6 +1707,58 @@
     },
     {
       "album": {
+        "name": "Dhandho",
+        "url": "https://open.spotify.com/album/2hxpQXOmHz7G9R4Au6cpZG"
+      },
+      "artists": [
+        {
+          "name": "Munawar Faruqui",
+          "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        },
+        {
+          "name": "Spectra Music",
+          "url": "https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174381,
+      "name": "Dhandho",
+      "url": "https://open.spotify.com/track/1eIwEnZPmLeeA622uvG1r3"
+    },
+    {
+      "album": {
+        "name": "Dil Lena Khel",
+        "url": "https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M"
+      },
+      "artists": [
+        {
+          "name": "Dino James",
+          "url": "https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Bluish Music",
+          "url": "https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146301,
+      "name": "Dil Lena Khel",
+      "url": "https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz"
+    },
+    {
+      "album": {
         "name": "Dilli Waali Baatcheet (From \"Mr. Nair\")",
         "url": "https://open.spotify.com/album/4jZM9xaJeZGBXmzg2SCQL9"
       },
@@ -1786,6 +1948,42 @@
       "duration_ms": 289946,
       "name": "Ek Din",
       "url": "https://open.spotify.com/track/3nOefpWyZos25ipFr6LCEK"
+    },
+    {
+      "album": {
+        "name": "Tadipaar",
+        "url": "https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Ek Din Pyaar",
+      "url": "https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV"
+    },
+    {
+      "album": {
+        "name": "Ektarfa",
+        "url": "https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230903,
+      "name": "Ektarfa",
+      "url": "https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4"
     },
     {
       "album": {
@@ -2255,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "GOAT SHIT",
+        "url": "https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231044,
+      "name": "GOAT SHIT",
+      "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
+    },
+    {
+      "album": {
         "name": "GRIND",
         "url": "https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX"
       },
@@ -2266,7 +2486,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 175449,
       "name": "GRIND",
       "url": "https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC"
@@ -2501,6 +2721,32 @@
     },
     {
       "album": {
+        "name": "House Of Lies",
+        "url": "https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179169,
+      "name": "House Of Lies",
+      "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
         "name": "Insaan",
         "url": "https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF"
       },
@@ -2596,6 +2842,36 @@
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
+    },
+    {
+      "album": {
+        "name": "Jagga Jatt (From \"Only Love Gets Reply\")",
+        "url": "https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225099,
+      "name": "Jagga Jatt (From \"Only Love Gets Reply\")",
+      "url": "https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO"
     },
     {
       "album": {
@@ -4590,7 +4866,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 110019,
       "name": "PUSH IT",
       "url": "https://open.spotify.com/track/151Wriwvrfx1iRnTFu9zsa"
@@ -4664,6 +4940,24 @@
       "duration_ms": 209800,
       "name": "Ram Ram",
       "url": "https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6"
+    },
+    {
+      "album": {
+        "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Ram Ram",
+      "url": "https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn"
     },
     {
       "album": {
@@ -4970,7 +5264,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180000,
       "name": "Saza-E-Maut",
       "url": "https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31"
@@ -5140,6 +5434,24 @@
       "duration_ms": 265000,
       "name": "Shor",
       "url": "https://open.spotify.com/track/5u6yeBNC3Tsh5GTAMBlcUD"
+    },
+    {
+      "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281088,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6"
     },
     {
       "album": {
@@ -5435,6 +5747,28 @@
     },
     {
       "album": {
+        "name": "Title Kya Doon?",
+        "url": "https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB"
+      },
+      "artists": [
+        {
+          "name": "Vijay Dk",
+          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+        },
+        {
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233691,
+      "name": "Title Kya Doon?",
+      "url": "https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80"
+    },
+    {
+      "album": {
         "name": "Nayaab",
         "url": "https://open.spotify.com/album/5bRRzI1xuiNAAjdSCg5bnO"
       },
@@ -5498,7 +5832,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 241463,
       "name": "Trap Munde",
       "url": "https://open.spotify.com/track/4WNVwvCmgaCFHHqyeVC6bG"
@@ -5542,6 +5876,24 @@
       "duration_ms": 198805,
       "name": "Tu Te Kehndi C",
       "url": "https://open.spotify.com/track/77qPjPg8XG5lGXGR3EWCo3"
+    },
+    {
+      "album": {
+        "name": "Up To U",
+        "url": "https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "Up To U",
+      "url": "https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg"
     },
     {
       "album": {

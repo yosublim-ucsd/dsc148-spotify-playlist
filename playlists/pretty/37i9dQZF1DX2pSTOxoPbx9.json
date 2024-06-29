@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 822803,
+  "num_followers": 822868,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Everything We Do Is Wrong",
-        "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Everything We Do Is Wrong",
-      "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Given Up \u2013 EP",
         "url": "https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 276286,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Everything We Do Is Wrong",
+        "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Everything We Do Is Wrong",
+      "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Repave",
-        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
-      },
-      "artists": [
-        {
-          "name": "Volcano Choir",
-          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Byegone",
-      "url": "https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Bravado",
         "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 247631,
       "name": "The Swimmer (To Be an Old Man)",
       "url": "https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Byegone",
+      "url": "https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Animalia",
+        "url": "https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8"
+      },
+      "artists": [
+        {
+          "name": "Mammals",
+          "url": "https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3"
+        }
+      ],
+      "duration_ms": 233661,
+      "name": "Depraved",
+      "url": "https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Crush (Stripped)",
         "url": "https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 311025,
       "name": "Stakes",
       "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Dream State...",
-      "url": "https://open.spotify.com/track/6tp18AVA4FEjFTYaSD8exB"
     }
   ],
   "unique_name": "Dark & Stormy",

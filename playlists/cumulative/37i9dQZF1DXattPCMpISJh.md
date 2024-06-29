@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-272 songs - 16 hr 52 min
+273 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Club Paradise](https://open.spotify.com/track/36shm7XEr7Uzug8gQ02Kpn) | [Cab'Ral](https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj) | [Club Paradise](https://open.spotify.com/album/7bgC1AI5uhgpFGOIcXGwoA) | 3:15 | 2022-03-25 | 2023-02-25 |
 | [Colder](https://open.spotify.com/track/6RW1csDGTkCmKCbOwYFtlA) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Colder](https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun) | 2:58 | 2024-02-16 |  |
 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 | 2021-07-16 | 2023-01-21 |
+| [Come Alive](https://open.spotify.com/track/0THqo8t9diPsxUzJaRMuAH) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Come Alive](https://open.spotify.com/album/2pH3M9jjYrEGYIvFiouJ6A) | 3:44 | 2024-06-28 |  |
 | [Conversation Starter](https://open.spotify.com/track/59RtIEhD4XJkRmfLj1eEAM) | [Tomode](https://open.spotify.com/artist/5Q5iKvamaJt7Gz1Bz1JRGA) | [Conversation Starter](https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW) | 3:21 | 2023-04-07 |  |
 | [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 | 2023-01-13 |  |
 | [Crazay](https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Crazay / Not The Same](https://open.spotify.com/album/3Dmb0hg5sFVmHaBAK74fVE) | 3:45 | 2022-04-29 | 2024-04-13 |

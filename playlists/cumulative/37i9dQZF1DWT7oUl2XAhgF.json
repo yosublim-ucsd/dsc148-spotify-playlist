@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Wonder",
+        "url": "https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        },
+        {
+          "name": "Jeremy Page",
+          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp"
+    },
+    {
+      "album": {
         "name": "All I Need (The Gemini Song)",
         "url": "https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF"
       },
@@ -2710,7 +2732,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200186,
       "name": "Hit Me Like",
       "url": "https://open.spotify.com/track/03u5kEWetlhr41DlIpMtfI"
@@ -5608,7 +5630,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
@@ -6740,6 +6762,24 @@
       "duration_ms": 253124,
       "name": "S\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb"
+    },
+    {
+      "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l"
+      },
+      "artists": [
+        {
+          "name": "Micah Edwards",
+          "url": "https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285405,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk"
     },
     {
       "album": {

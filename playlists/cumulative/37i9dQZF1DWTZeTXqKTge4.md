@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Rymz
+> Le meilleur du hip\-hop québécois\. Photo: Souldia, A2h
 
-683 songs - 1 day 11 hr 1 min
+685 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 | 2024-03-29 |  |
 | [Fais PT](https://open.spotify.com/track/4I3BHwCCXqstiDXU49qziN) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Fais PT](https://open.spotify.com/album/0z1CIAY5XS6nSRc8FuF7Jd) | 3:11 | 2022-06-10 | 2022-07-23 |
 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 | 2023-11-12 | 2024-06-01 |
+| [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:37 | 2024-06-28 |  |
 | [Fermer les yeux](https://open.spotify.com/track/0xs9ReaxZUWqp7rO4Ys4cx) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Fermer les yeux](https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5) | 3:02 | 2022-09-16 | 2022-10-01 |
 | [Fight](https://open.spotify.com/track/5WjHjAeBWHniHdw7OvhOE7) | [BTR](https://open.spotify.com/artist/1SxEm2yckFWe8jSWNC7dED) | [Fight](https://open.spotify.com/album/2nE1hTvqAX2V96uMkfcP6R) | 3:16 | 2022-02-04 | 2022-07-30 |
 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 | 2022-09-02 | 2022-10-22 |
@@ -270,7 +271,7 @@
 | [Give It Up](https://open.spotify.com/track/7i80uzQZleCTVD7231iWTk) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Give It Up](https://open.spotify.com/album/0Mzb4ZfQ20WBClaXY3rkmx) | 3:03 | 2024-02-02 | 2024-04-27 |
 | [Glitch](https://open.spotify.com/track/2YUa2oLlzz7JS8KjqDadjn) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Glitch](https://open.spotify.com/album/7BsUyHowfyfP4EnSWh5WHL) | 2:24 | 2024-03-01 |  |
 | [GMM](https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [GMM](https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs) | 2:26 | 2023-05-12 | 2023-06-03 |
-| [GO MODE](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [GO MODE](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 | 2024-04-12 |  |
+| [GO MODE](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [GO MODE](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 | 2024-04-12 | 2024-06-29 |
 | [GOD COMPLEX](https://open.spotify.com/track/7hKwyP2IULHzLwOildJdSo) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [GOD COMPLEX](https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo) | 1:58 | 2023-11-12 | 2023-12-02 |
 | [GOD COMPLEX](https://open.spotify.com/track/0zkWMIIyfZWPOXnjZyKqR7) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 1:59 | 2023-12-01 | 2023-12-09 |
 | [GONE!](https://open.spotify.com/track/5U0a4MxQwguUfubabxFhQR) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [GONE!](https://open.spotify.com/album/60wOCCyvuO5e4209ZQBOPo) | 2:48 | 2023-08-25 | 2023-09-23 |
@@ -352,7 +353,7 @@
 | [LA PLUIE](https://open.spotify.com/track/7uwSn8hfkVaXqp9UdRvUsj) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:21 | 2023-11-24 | 2024-04-19 |
 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 | 2022-04-15 | 2022-09-10 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-06 |  |
-| [Laisse\-moi](https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:14 | 2024-05-03 |  |
+| [Laisse\-moi](https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:14 | 2024-05-03 | 2024-06-29 |
 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 | 2022-07-08 | 2023-01-21 |
 | [Langue empoisonnée](https://open.spotify.com/track/6SUobbATRGwBGdQytjYAA6) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj) | [Cercle Vicieux 3](https://open.spotify.com/album/0ZYkKutre14v6LCaeNQsOw) | 3:44 | 2022-01-07 | 2022-04-16 |
 | [Lassée](https://open.spotify.com/track/28RXCDlIqUahRnwOzZFO6t) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Lassée](https://open.spotify.com/album/25BxHyDGivuu5KEh9OwRbg) | 2:46 | 2023-03-10 | 2023-05-13 |
@@ -606,6 +607,7 @@
 | [TAL](https://open.spotify.com/track/60J1RvTQlV1axnObvO2Uk7) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Jarod](https://open.spotify.com/artist/5EHFGV0DMEet7QHdx0M1D6) | [JETLAG](https://open.spotify.com/album/6XW9KM7aSa1XrrympVUoYI) | 2:22 | 2023-11-24 | 2024-06-01 |
 | [Talkshit](https://open.spotify.com/track/6jlYqK01Satz2yQr84zzSH) | [Anodajay](https://open.spotify.com/artist/73o1j8sMaBPQMcgXsJTdp2) | [Premier VII](https://open.spotify.com/album/6Jwbkh9BhmLwuq6pVtuQ1N) | 3:06 | 2023-11-03 | 2023-11-13 |
 | [TANNANCE](https://open.spotify.com/track/2p74T4FWsclCtwapawzKns) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml) | [438](https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2) | 4:00 | 2023-12-01 |  |
+| [TARD LA NUIT](https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [DZ D’AMERIQUE](https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi) | 3:36 | 2024-06-28 |  |
 | [TEC](https://open.spotify.com/track/3HJKrwiplwM14ZN9RowsIc) | [Soopafoo](https://open.spotify.com/artist/5qeGJOaQ09cd31ndQ0M7EN), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [TEC](https://open.spotify.com/album/6XlTKcnoHUtoZ2yQUra9zf) | 3:54 | 2023-02-10 | 2023-07-15 |
 | [Tempête](https://open.spotify.com/track/2rqlwmRWHm56vpLboDAp6Y) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tempête](https://open.spotify.com/album/5w1rhzcy6S7mXfEVSM6PtS) | 2:54 | 2023-04-21 | 2023-05-06 |
 | [Tension S](https://open.spotify.com/track/7mlAW4B88oQLCDLJfnMT09) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Tension S](https://open.spotify.com/album/2HAn3B2dgk6bkj3rHfOBQg) | 2:36 | 2023-06-02 | 2023-07-08 |

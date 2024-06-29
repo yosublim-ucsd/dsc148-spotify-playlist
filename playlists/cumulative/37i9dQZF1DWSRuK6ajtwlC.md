@@ -2,9 +2,9 @@
 
 ### [Norteño Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax\. Los Pescadores del Río Conchos en portada.
+> A levantar polvadera con lo mejor de la música de sax\. La Alianza Norteña en portada.
 
-166 songs - 8 hr 36 min
+170 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 | 2024-03-29 |  |
 | [Brillas](https://open.spotify.com/track/4dZ8JV7yg6zm60uXBzNwqM) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Brillas](https://open.spotify.com/album/3NdwxHHFpkU5P870jKCFZC) | 2:27 | 2023-06-09 | 2023-09-30 |
 | [Búscame](https://open.spotify.com/track/2vM3jK9t1YqdydOgS3T1b4) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Búscame](https://open.spotify.com/album/4iAWI9q2g46nnZtEkm83Tu) | 2:53 | 2024-03-29 |  |
+| [Carmesí](https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Carmesí](https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn) | 2:56 | 2024-06-28 |  |
 | [Chiquilla Preciosa \- En Vivo](https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Renovando El Estilo 2.0 \(En Vivo\)](https://open.spotify.com/album/1cT5agyzL39kX5MZ6FSVKg) | 3:04 | 2023-05-19 | 2023-07-15 |
 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 | 2023-03-06 |  |
 | [Cicatrices](https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Cicatrices](https://open.spotify.com/album/2SrJ8mA3HWb48esf6e2msY) | 2:39 | 2023-05-19 | 2023-11-18 |
@@ -58,6 +59,7 @@
 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 | 2023-03-06 |  |
 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 | 2023-03-06 |  |
 | [El Telescopio](https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Telescopio](https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp) | 3:26 | 2023-05-19 | 2023-11-09 |
+| [En Automático](https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [En Automático](https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af) | 2:30 | 2024-06-28 |  |
 | [En Silencio](https://open.spotify.com/track/24oTgyPewWFMYR43wHQ0Ef) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea) | 3:10 | 2024-04-19 |  |
 | [En Silencio](https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:10 | 2023-03-06 | 2024-04-19 |
 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2023-03-06 |  |
@@ -85,6 +87,7 @@
 | [La Muchacha de los Ojos Tristes \- Live](https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Retoños del Rio en el Estudio \(Live\)](https://open.spotify.com/album/2Loe9QaOmbTb9f4GGDtkDQ) | 3:52 | 2023-05-19 |  |
 | [La Víbora Ponzoñosa](https://open.spotify.com/track/3JGJOq5gVJA35pzyUp2XgT) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [La Víbora Ponzoñosa](https://open.spotify.com/album/68m60RCa0E2H6z1rr00rKt) | 2:33 | 2024-04-19 |  |
 | [Le Hace Falta un Beso](https://open.spotify.com/track/69wrJLYULpuJydmDN4J7IZ) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Le Hace Falta un Beso](https://open.spotify.com/album/7b0ktdUFncZpTtdobX4sOu) | 3:28 | 2023-03-06 | 2023-11-09 |
+| [Lección de Vida](https://open.spotify.com/track/7nlpSPCAATD6WFv3KFgQlc) | [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [Lección de Vida](https://open.spotify.com/album/2TFJrDQb9gwaVFHsTypSHI) | 3:01 | 2024-06-28 |  |
 | [Literal](https://open.spotify.com/track/6prwA99WtmjL1InowSZ4Yg) | [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [Literal](https://open.spotify.com/album/4BuvIgbToCsnukvmk2SnBx) | 2:54 | 2023-03-06 | 2023-04-15 |
 | [Llévame A Las Estrellas](https://open.spotify.com/track/34B65VVmjWw3vdIpdZXxL8) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Llévame A Las Estrellas](https://open.spotify.com/album/5bCw0LfFO5fhw0djqgFGCd) | 2:28 | 2023-07-28 | 2023-09-30 |
 | [Lo Dice El Corazón](https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Lo Dice El Corazón](https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl) | 2:50 | 2023-03-06 | 2024-05-18 |
@@ -119,6 +122,7 @@
 | [Olvidémoslo Los Dos](https://open.spotify.com/track/0YzLFrSbUvTqDSuMViVe75) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 3:02 | 2024-01-12 | 2024-03-30 |
 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2023-05-05 | 2023-09-30 |
 | [Piquetitos](https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Un Sueño](https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs) | 3:08 | 2023-03-06 | 2023-11-09 |
+| [Plan B](https://open.spotify.com/track/3nIvk6YkJzCXERKTAuJwkP) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Only Zenda](https://open.spotify.com/album/27tycDhwYsqcglrQflbd0V) | 3:00 | 2024-06-28 |  |
 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 | 2023-07-14 |  |
 | [Poema](https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poema](https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH) | 2:53 | 2023-11-08 |  |
 | [Por Amarte Tanto](https://open.spotify.com/track/1CU4kIdtvDjtrf1zXgTyLG) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Por Amarte Tanto](https://open.spotify.com/album/31e2Di9GOGWK9Gs9IXvZIq) | 2:53 | 2024-04-19 |  |

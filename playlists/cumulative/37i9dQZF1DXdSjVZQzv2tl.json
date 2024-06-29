@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Diego & Victor Hugo ",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Santana, Luan Pereira",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 147988,
       "name": "A Cerveja Abre Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
@@ -4146,6 +4146,28 @@
       "duration_ms": 172005,
       "name": "Traumatizei - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW"
+    },
+    {
+      "album": {
+        "name": "Triplex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
     },
     {
       "album": {

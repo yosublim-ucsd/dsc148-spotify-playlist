@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 295674,
       "name": "A Morte Vai Morrer",
       "url": "https://open.spotify.com/track/7FG1e1Zl4SWSsk4oJl58Eu"
@@ -533,6 +533,28 @@
     },
     {
       "album": {
+        "name": "Caim e Abel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5oCbHUIdqXs7PjJZmlowdB"
+      },
+      "artists": [
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        },
+        {
+          "name": "MAYTH\u00ca",
+          "url": "https://open.spotify.com/artist/6mCUkPiHI1H069swpE1OEi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218824,
+      "name": "Caim e Abel - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/76PkcV3zkKw7d2LOOwb9BC"
+    },
+    {
+      "album": {
         "name": "Calv\u00e1rio (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei"
       },
@@ -552,6 +574,28 @@
       "duration_ms": 332470,
       "name": "Calv\u00e1rio - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX"
+    },
+    {
+      "album": {
+        "name": "Carta de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308506,
+      "name": "Carta de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O"
     },
     {
       "album": {
@@ -762,7 +806,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 224485,
       "name": "Deus Cuida de Mim",
       "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
@@ -1216,7 +1260,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 280161,
       "name": "Eu Te Vejo Em Tudo - Acoustic Session",
       "url": "https://open.spotify.com/track/3nYwEDwMaz47c1lJ5hcUgJ"
@@ -1408,7 +1452,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 219625,
       "name": "Intimidade - Ao Vivo",
       "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
@@ -1637,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "Minha For\u00e7a",
+        "url": "https://open.spotify.com/album/6dP0Tgs1NVNEAIP2a45OGB"
+      },
+      "artists": [
+        {
+          "name": "Jay Santana",
+          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Minha For\u00e7a",
+      "url": "https://open.spotify.com/track/6jvr1b5DlWhl5zcxjBPVnm"
+    },
+    {
+      "album": {
         "name": "Miseric\u00f3rdia \u00c9s",
         "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
       },
@@ -1764,7 +1830,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 314861,
       "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/2hkr9PXGYznPeBoYQunptq"

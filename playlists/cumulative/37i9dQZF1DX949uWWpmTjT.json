@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 203427,
       "name": "Bestow Itself",
       "url": "https://open.spotify.com/track/6NqQoi0HF4I5eSj9fFQfQv"
@@ -8119,7 +8119,7 @@
     },
     {
       "album": {
-        "name": "Trio Serena",
+        "name": "In Every Way",
         "url": "https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD"
       },
       "artists": [
@@ -9816,6 +9816,24 @@
       "duration_ms": 169218,
       "name": "Linda\u00b4s Dream",
       "url": "https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1sLnvQFc4FAHufXfm0FhgS"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263548,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/6fI0UzIJTBiBhSxDhKHwXH"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is El Chapo De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31TGEC)
 
-> This Is El Chapo De Sinaloa\. Los temas esenciales, todos en una lista.
+> This Is El Chapo De Sinaloa\. Sus mejores éxitos, todos en una playlist.
 
 87 songs - 4 hr 21 min
 

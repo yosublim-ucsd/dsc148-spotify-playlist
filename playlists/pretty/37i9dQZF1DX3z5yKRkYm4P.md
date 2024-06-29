@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,809 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,815 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 51 | [Satan Swing](https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 3:31 |
 | 52 | [Las Momias](https://open.spotify.com/track/2LFAqVHgU1tShWETIYHcKa) | [Los Golden Calavera](https://open.spotify.com/artist/4UW7bHZdY0XURnDVPWGOZi) | [Música para Locos \(Vol\. 1\)](https://open.spotify.com/album/0sWQzugWG2XYRWkzpBiEdT) | 4:32 |
 | 53 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
-| 54 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 54 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
 | 55 | [Stinkin' zombies](https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V) | 3:11 |
 | 56 | [Fantasmagoria \- Hidrogenesse Remix](https://open.spotify.com/track/2s6iIcUL7JpA4iL9zY4BcA) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4), [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Fantasmagoria \(Hidrogenesse Remix\)](https://open.spotify.com/album/4tf8LecJdP92YCbmhLPiVm) | 5:12 |
 | 57 | [Vampira's Curse](https://open.spotify.com/track/72OOLDuo1zr8OY57fletXl) | [The Guitaraculas](https://open.spotify.com/artist/3vNj0DcvkrfC117vcbbbWo) | [Two Bottles of Blood](https://open.spotify.com/album/4QOMkiWKJZsPnDHKnAjIS1) | 2:44 |

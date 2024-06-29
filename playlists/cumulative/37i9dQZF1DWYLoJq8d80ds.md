@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros y Eugenia Quevedo.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Jorge Rojas.
 
-166 songs - 9 hr 15 min
+168 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cielo de la Baguala](https://open.spotify.com/track/1oBlxQKBDeuxTlxhM4Cbnz) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 2:43 | 2022-07-01 | 2024-04-19 |
 | [Cielo de la Baguala](https://open.spotify.com/track/0AjOTP9Ald9iClH4oavIVX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 2:48 | 2021-12-31 |  |
 | [Cinco Sentidos](https://open.spotify.com/track/3DhjoaOlyb5iGqfaN8XKbj) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cinco Sentidos](https://open.spotify.com/album/2KqQcyr7EHi2VHT1KhVEAB) | 2:16 | 2021-12-31 |  |
+| [Como Yo Aprendí A Querer](https://open.spotify.com/track/4WWs2OJGAYvAchilcrt4uC) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Como Yo Aprendí A Querer](https://open.spotify.com/album/6ncKswpcT5A8xezJGAL9Oe) | 3:17 | 2024-06-28 |  |
 | [Corazón Carnavalero](https://open.spotify.com/track/4NdkVqa59EUihYeaeNxJkk) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Tierrita](https://open.spotify.com/album/5W5arztiaKJ9k1dQsZEyXa) | 3:13 | 2021-12-31 |  |
 | [Corazón de Lechiguana](https://open.spotify.com/track/40KKM026TAT4sPNCQ2lKJm) | [Lucrecia Rodrigo](https://open.spotify.com/artist/1SYetf78ctGyoC8SSuargh), [Añapa Dúo](https://open.spotify.com/artist/7DkcfDuf8COfc9RGmcTpxG) | [Natural](https://open.spotify.com/album/45PIeay1Qdiv4TaPNC071j) | 2:26 | 2021-12-31 |  |
 | [Cosa Peligrosa](https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cosa Peligrosa](https://open.spotify.com/album/5eui9pdwONxGwCCO8djIV5) | 3:21 | 2024-05-10 |  |
@@ -65,6 +66,7 @@
 | [Juan de la Calle](https://open.spotify.com/track/6jIh1e1KgSF5c7FaK0rmC5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 2:55 | 2022-07-01 | 2023-10-06 |
 | [Jueves de Comadre](https://open.spotify.com/track/7monAieCC4kzsdMSuSBXGj) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Jueves de Comadre](https://open.spotify.com/album/4wQ5a8WKRMPlxX9U1wNaZM) | 3:46 | 2023-10-20 |  |
 | [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:33 | 2021-12-31 |  |
+| [Justo Ahora \(Sinfónico\)](https://open.spotify.com/track/3dPFcwT6o0iRRMeHUy8E6E) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Justo Ahora \(Sinfónico\)](https://open.spotify.com/album/6s5ZrsPChoZNes6t2RDo7H) | 3:01 | 2024-06-28 |  |
 | [Kuntur](https://open.spotify.com/track/7xhqqjuPlSs2kLnrLRskBc) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Kuntur](https://open.spotify.com/album/1ZBqCd1fTi93qpDutvmJtS) | 3:19 | 2021-12-31 | 2023-05-06 |
 | [La Alucinada](https://open.spotify.com/track/6HVG1pjvGHxmOdQj4TQWJ0) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Alucinada](https://open.spotify.com/album/2Xa4MMFxqXoPXD7u7JcfXf) | 2:38 | 2021-12-31 |  |
 | [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 | 2023-05-13 |

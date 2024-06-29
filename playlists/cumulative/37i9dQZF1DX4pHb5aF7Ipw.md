@@ -2,9 +2,9 @@
 
 ### [Burrh Rap](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Rap\. Cover: Prince Narula & Paradox
+> Fresh Punjabi Rap\. Cover: Wazir Patar
 
-107 songs - 5 hr 15 min
+108 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,11 +108,12 @@
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-18 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-18 |  |
 | [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 | 2024-01-10 | 2024-03-09 |
+| [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 | 2024-06-28 |  |
 | [Untouchable](https://open.spotify.com/track/4I9wK83Gy9uxiHGZ7gvOhI) | [Arsh Sandhu](https://open.spotify.com/artist/5hMRZnYzYhkXvdcEdJMfD2), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Untouchable](https://open.spotify.com/album/7DZlyrBQdJeuR3hEDBm1mb) | 2:21 | 2023-03-18 |  |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-12 |  |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 | 2024-04-19 |
-| [West Delhi](https://open.spotify.com/track/1wsnTj9vsFKgO0D9z8w2c2) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [West Delhi](https://open.spotify.com/album/3uGNL9N4cwWIUhObpxHf2K) | 2:22 | 2024-06-12 |  |
+| [West Delhi](https://open.spotify.com/track/1wsnTj9vsFKgO0D9z8w2c2) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [West Delhi](https://open.spotify.com/album/3uGNL9N4cwWIUhObpxHf2K) | 2:22 | 2024-06-12 | 2024-06-29 |
 | [Westside](https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 3:08 | 2023-07-27 | 2024-04-20 |
 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 | 2023-10-13 |  |
 

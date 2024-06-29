@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Nicky.M x Rajaganapathy",
-  "num_followers": 12059,
+  "num_followers": 12075,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn1qVgAAAADmb7r+ODiTFU3RfgkHfYte",
+  "snapshot_id": "Zn6iTgAAAACiTzpKmFDgJ+pufJ7aIbnk",
   "tracks": [
     {
       "added_at": "2024-06-14 06:04:33",
@@ -105,6 +105,50 @@
       "url": "https://open.spotify.com/track/1NXB8bGXRYy0CR0vXIZNHI"
     },
     {
+      "added_at": "2024-05-13 06:46:48",
+      "album": {
+        "name": "Thoovaanam",
+        "url": "https://open.spotify.com/album/6aIrm9a38bRjUhSzmIVFW8"
+      },
+      "artists": [
+        {
+          "name": "Vijay Paul",
+          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
+        },
+        {
+          "name": "Keerthana",
+          "url": "https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Thoovaanam",
+      "url": "https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3"
+    },
+    {
+      "added_at": "2024-06-28 11:08:18",
+      "album": {
+        "name": "Nila",
+        "url": "https://open.spotify.com/album/2QIQo3HAoODX6pU0nWh935"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Tushar Budhwani",
+          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Nila",
+      "url": "https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed"
+    },
+    {
       "added_at": "2024-05-13 06:50:28",
       "album": {
         "name": "On Air",
@@ -157,24 +201,28 @@
       "url": "https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA"
     },
     {
-      "added_at": "2024-05-13 06:46:48",
+      "added_at": "2024-06-28 08:54:19",
       "album": {
-        "name": "Thoovaanam",
-        "url": "https://open.spotify.com/album/6aIrm9a38bRjUhSzmIVFW8"
+        "name": "Madras Mazhai",
+        "url": "https://open.spotify.com/album/1InwdAyJdjkiZm0KOSQMmE"
       },
       "artists": [
         {
-          "name": "Vijay Paul",
-          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
+          "name": "Saras Menon",
+          "url": "https://open.spotify.com/artist/4mAq6TQySa1Jg44cBjvCip"
         },
         {
-          "name": "Keerthana",
-          "url": "https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7"
+          "name": "Mukund Ambarish",
+          "url": "https://open.spotify.com/artist/5mK5BecJ5dSwQFoDhozr2d"
+        },
+        {
+          "name": "Akshay Ganesh",
+          "url": "https://open.spotify.com/artist/4CRIhTzqH2S4qTzAHHT4Zt"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Thoovaanam",
-      "url": "https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3"
+      "duration_ms": 189333,
+      "name": "Madras Mazhai",
+      "url": "https://open.spotify.com/track/5U8wig388mEr4GpLIiq2X3"
     },
     {
       "added_at": "2024-06-27 13:34:14",

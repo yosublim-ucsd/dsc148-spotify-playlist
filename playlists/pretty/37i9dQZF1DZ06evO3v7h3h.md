@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. The essential tracks, all in one playlist.
+> This is Rashid。アーティストの代表曲をひとつのプレイリストに。
 
 [Spotify](https://open.spotify.com/user/spotify) - 46,267 likes - 50 songs - 3 hr 21 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Vagabundo Qualquer](https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 2:57 |
 | 50 | [Quem Vem Lá?](https://open.spotify.com/track/388PWP6VLyA5UFDrSkVJl2) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 2:53 |
 
-Snapshot ID: `ZntaAAAAAABsu1/l3ccWfbESKzKhUk0b`
+Snapshot ID: `ZntaAAAAAACC1tsaesssN2032XpzF1zO`

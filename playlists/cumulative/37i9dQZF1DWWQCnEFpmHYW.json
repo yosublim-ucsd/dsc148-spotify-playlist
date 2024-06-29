@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Rain On My Tin Roof",
+        "url": "https://open.spotify.com/album/0YWIWVF3InQil3W5erQiKG"
+      },
+      "artists": [
+        {
+          "name": "RainGirl",
+          "url": "https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116700,
+      "name": "Rain On My Tin Roof",
+      "url": "https://open.spotify.com/track/0KaI2sGBVk7N3s5lYyH4Mn"
+    },
+    {
+      "album": {
         "name": "Rain over Cornwall",
         "url": "https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy"
       },
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181000,
       "name": "Relaxing Rain Patter",
       "url": "https://open.spotify.com/track/2UrXYvVXb8Cn1FoGZpQdSI"

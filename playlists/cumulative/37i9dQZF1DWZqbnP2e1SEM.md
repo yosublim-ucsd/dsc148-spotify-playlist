@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-354 songs - 19 hr 8 min
+355 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Girl With The Bat \(feat\. Shadow Boxxer\) \- Edit](https://open.spotify.com/track/4aJ3ys72vKkJXokem7ju7H) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shadow Boxxer](https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn) | [Girl With The Bat \(feat\. Shadow Boxxer\)](https://open.spotify.com/album/5GQunirDzEmn6GoUemGpsb) | 3:20 | 2021-07-09 | 2022-05-07 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-14 |  |
 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 | 2022-06-20 | 2022-07-29 |
-| [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-20 |  |
+| [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-20 | 2024-06-29 |
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-06-14 |  |
 | [Go Girl](https://open.spotify.com/track/02btIbZVDCpCdCkSorceTm) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Go Girl](https://open.spotify.com/album/7cms9Gm5nuo1USp34gCAaQ) | 3:27 | 2022-05-10 | 2022-07-29 |
 | [Go Low](https://open.spotify.com/track/2OwV4woHaOCp8bii7p6Dx6) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Go Low](https://open.spotify.com/album/4j5Fhcni75m2xAAR6evRxX) | 2:53 | 2022-05-10 | 2022-05-26 |
@@ -284,6 +284,7 @@
 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 | 2024-06-14 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-14 |  |
 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 | 2024-05-16 |  |
+| [Shout \- Arielle Free Remix / Radio Edit](https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Shout \(Arielle Free Remix\)](https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P) | 3:05 | 2024-06-21 |  |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-05-10 | 2024-06-14 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-06-14 |  |
 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 | 2021-07-09 | 2023-09-22 |

@@ -4,7 +4,7 @@
 
 > New Music from Burna boy, Olamide, Amaarae, Roddy Rich and more
 
-236 songs - 11 hr 14 min
+237 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:07 | 2024-06-28 |  |
 | [Flashy](https://open.spotify.com/track/0PaE3Z35AkWdVFOcOaEVEg) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Flashy](https://open.spotify.com/album/5zDpecVut4H25OjHy0CesR) | 3:03 | 2024-06-28 |  |
 | [Focus](https://open.spotify.com/track/5PrV2pNuK9THNbBbtqqwe0) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Focus](https://open.spotify.com/album/0oF4i9ok4kEImD5dEdoCYO) | 2:34 | 2024-06-28 |  |
-| [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:15 | 2024-06-28 |  |
+| [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:21 | 2024-06-28 |  |
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 | 2024-06-21 |
 | [Fujipiano](https://open.spotify.com/track/5Pcd6OPdnjMVWwD0Jks8ho) | [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [Fujipiano](https://open.spotify.com/album/4AkQ3zs9F4IVRTxsuiyqZj) | 5:18 | 2024-06-21 | 2024-06-28 |
 | [Further From Me](https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Further From Me](https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9) | 2:17 | 2024-06-14 | 2024-06-21 |
@@ -165,7 +165,7 @@
 | [Ou LaLa](https://open.spotify.com/track/2msCrATPZfgGUn4MWdnFlA) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Ou LaLa](https://open.spotify.com/album/706j5YG7t3JsiCxqQ7s71U) | 2:24 | 2024-06-28 |  |
 | [Over](https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 3:13 | 2024-06-21 | 2024-06-28 |
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 | 2024-06-21 | 2024-06-28 |
-| [Payday](https://open.spotify.com/track/6aOkoOXWcltgTPuT3s420d) | [Dami Drizzy](https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ) | [Dami Drizzy](https://open.spotify.com/album/59yYbu2ugAw7hIURHWI0wK) | 2:46 | 2024-06-28 |  |
+| [Payday](https://open.spotify.com/track/6aOkoOXWcltgTPuT3s420d) | [Dami Drizzy](https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ) | [Dami Drizzy](https://open.spotify.com/album/59yYbu2ugAw7hIURHWI0wK) | 2:40 | 2024-06-28 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 | 2024-06-14 |
 | [Potion](https://open.spotify.com/track/59clTGLCAuuuvjgopOAyZG) | [Txby](https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc) | [Potion](https://open.spotify.com/album/0H7OQZq7JyGmWIIgPif9pi) | 2:52 | 2024-06-28 |  |
 | [Pound Town](https://open.spotify.com/track/0umUgjF2OEX7aFYI50MRy6) | [LOVESID](https://open.spotify.com/artist/1JsAc2kXBxZjHdWm4015ju) | [Pound Town](https://open.spotify.com/album/3okN9wgAklLGfzTrNdEfio) | 1:58 | 2024-06-14 | 2024-06-21 |
@@ -194,6 +194,7 @@
 | [Spring Berries](https://open.spotify.com/track/3EdwqlN03YJQZwJNlYRmUD) | [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT) | [Spring Berries](https://open.spotify.com/album/6irbrkAlxhJsomx3Ai8bbC) | 2:47 | 2024-06-07 | 2024-06-14 |
 | [Stay Wise](https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Stay Wise](https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb) | 2:24 | 2024-06-14 | 2024-06-21 |
 | [Stupid Queue](https://open.spotify.com/track/19JQWCJndFP2Uzko2VoUip) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Stupid Queue](https://open.spotify.com/album/3HgyG6mDPtlRQUvGYaP8AB) | 2:02 | 2024-06-07 | 2024-06-14 |
+| [Style Rare \(feat\. Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 | 2024-06-28 |  |
 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 | 2024-06-21 |
 | [Sunmomi](https://open.spotify.com/track/1Pjyw4lq49jK6TRprYKnze) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn), [Demi Mulla](https://open.spotify.com/artist/3sjh5nINlAnwcXW6ugUzVH) | [Sunmomi](https://open.spotify.com/album/2KtvQiuSit87frcTKKtWpN) | 2:59 | 2024-06-14 | 2024-06-21 |
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 | 2024-06-28 |

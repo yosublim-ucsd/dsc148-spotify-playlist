@@ -1,6 +1,6 @@
 {
   "description": "A new wave of rock music. Cover: chokecherry",
-  "num_followers": 9075,
+  "num_followers": 9081,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "Kid Bookie",
           "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        },
+        {
+          "name": "Ziey Kizzy",
+          "url": "https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo"
         }
       ],
       "duration_ms": 204843,

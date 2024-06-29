@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Lou Val",
+  "description": "The best indie tracks of the moment. Cover: Still Woozy",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 122337,
       "name": "20200817 Proud True Toyota",
       "url": "https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn"
+    },
+    {
+      "album": {
+        "name": "21 On 21 Off",
+        "url": "https://open.spotify.com/album/7hlfOPOQtaH72Asn1DxppK"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199694,
+      "name": "21 On 21 Off",
+      "url": "https://open.spotify.com/track/1kcGKCX9y9NmOcbtF2ST6m"
     },
     {
       "album": {
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
@@ -2654,7 +2672,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 207430,
       "name": "Beckham",
       "url": "https://open.spotify.com/track/1AURVCpSSc7w88q9Fvxu4e"
@@ -2694,6 +2712,24 @@
       "duration_ms": 185626,
       "name": "Behind Your Eyes",
       "url": "https://open.spotify.com/track/1cXSG1J5JlAEzRhnI0PjUT"
+    },
+    {
+      "album": {
+        "name": "Horsie",
+        "url": "https://open.spotify.com/album/3SRcz80vGmBrIDiFf9HSh9"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180517,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0jHbvXZ9FQTxIcucXzybEN"
     },
     {
       "album": {
@@ -5604,7 +5640,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 160604,
       "name": "Concrete 2",
       "url": "https://open.spotify.com/track/3bDW45GlgZjDcWbHIt94VY"
@@ -7009,6 +7045,24 @@
     },
     {
       "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268313,
+      "name": "Dimitri",
+      "url": "https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg"
+    },
+    {
+      "album": {
         "name": "Dinosaurs In The Garden",
         "url": "https://open.spotify.com/album/0ziO5MXpnRDyX06fWOBJ2e"
       },
@@ -7584,6 +7638,24 @@
       "duration_ms": 224253,
       "name": "Don't Want to Say Goodbye",
       "url": "https://open.spotify.com/track/6m8GbGqKeox469JhCsJdt6"
+    },
+    {
+      "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "album": {
@@ -11846,7 +11918,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 183927,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/122lxed5Qt4jD6UooYBHrR"
@@ -16172,7 +16244,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 193493,
       "name": "Less of You",
       "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
@@ -16464,6 +16536,24 @@
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+    },
+    {
+      "album": {
+        "name": "Lilac Perfume",
+        "url": "https://open.spotify.com/album/3D4Li79ml1CDuYzJOF2yq8"
+      },
+      "artists": [
+        {
+          "name": "Aistis",
+          "url": "https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124246,
+      "name": "Lilac Perfume",
+      "url": "https://open.spotify.com/track/26LNrAMcXTObMUlzOdiNed"
     },
     {
       "album": {
@@ -18180,7 +18270,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 190577,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L"
@@ -19071,6 +19161,24 @@
     },
     {
       "album": {
+        "name": "Nerds Rope",
+        "url": "https://open.spotify.com/album/1C4Og1Tpuy2NZMBgjSyHsJ"
+      },
+      "artists": [
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149110,
+      "name": "Nerds Rope",
+      "url": "https://open.spotify.com/track/35RAruwEHpuAQighP5CMWj"
+    },
+    {
+      "album": {
         "name": "Nervous Around U",
         "url": "https://open.spotify.com/album/2rPqKKZWpytywOjmRvauCm"
       },
@@ -19780,6 +19888,24 @@
       "duration_ms": 206640,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO"
+    },
+    {
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
       "album": {
@@ -23407,6 +23533,24 @@
     },
     {
       "album": {
+        "name": "Loveseat",
+        "url": "https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147981,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi"
+    },
+    {
+      "album": {
         "name": "Run The Credits",
         "url": "https://open.spotify.com/album/1AYmvWV0JLTdgNMAxngkGy"
       },
@@ -24158,7 +24302,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
@@ -24646,7 +24790,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 252867,
       "name": "Simple",
       "url": "https://open.spotify.com/track/0TmpP4ABAQ7NxgwFMGp3q6"
@@ -25116,6 +25260,24 @@
       "duration_ms": 212064,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
+    },
+    {
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "album": {
@@ -31598,7 +31760,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 148353,
       "name": "Why is everyone a DJ?",
       "url": "https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti"

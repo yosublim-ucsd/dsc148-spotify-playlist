@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : MJ Lenderman
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,976 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,974 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,20 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 32 | [Mr Midnight](https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Miles Kane & The Evils](https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee) | 1:37 |
 | 33 | [Monaco](https://open.spotify.com/track/2gxeIxrZIGCnzFGxg39Yrh) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/65QfF3vpktiYYcNHwthYWG) | 4:15 |
 | 34 | [Mother](https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Mother](https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5) | 4:28 |
-| 35 | [Feel Too Much](https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [CWK EP](https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw) | 2:48 |
-| 36 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 |
-| 37 | [21](https://open.spotify.com/track/0FS3KPmkxlnFl0qzmc2t5V) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [21](https://open.spotify.com/album/0HqhFh2YCt4vHip1D79M20) | 2:40 |
-| 38 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
-| 39 | [SYM\-PATHETIC](https://open.spotify.com/track/5NWfYYkP4Q9CTf5OTGGN1I) | [KEZ](https://open.spotify.com/artist/3lTvFfgAOEwerzk2xvL1th) | [SYM\-PATHETIC](https://open.spotify.com/album/0iApuh37bSWT5YFhqtzgvo) | 3:58 |
-| 40 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 |
-| 41 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
-| 42 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 |
-| 43 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 |
-| 44 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 |
-| 45 | [In Front of Me Now](https://open.spotify.com/track/0rQazIPADhp6WirPHVD0xp) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [In Front of Me Now](https://open.spotify.com/album/3VWqWwC3XNhuhStTquKzgf) | 3:41 |
-| 46 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 |
-| 47 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
-| 48 | [The End](https://open.spotify.com/track/61hkYwYeknRNFuj9TmgTtI) | [October Baby](https://open.spotify.com/artist/1x5rMrmsrQmBYs7P8sm9rD) | [The End](https://open.spotify.com/album/6diYy4ydu9Ew6yLStmpNdK) | 2:39 |
-| 49 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 |
+| 35 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
+| 36 | [Feel Too Much](https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [CWK EP](https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw) | 2:48 |
+| 37 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 |
+| 38 | [21](https://open.spotify.com/track/0FS3KPmkxlnFl0qzmc2t5V) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [21](https://open.spotify.com/album/0HqhFh2YCt4vHip1D79M20) | 2:40 |
+| 39 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
+| 40 | [SYM\-PATHETIC](https://open.spotify.com/track/5NWfYYkP4Q9CTf5OTGGN1I) | [KEZ](https://open.spotify.com/artist/3lTvFfgAOEwerzk2xvL1th) | [SYM\-PATHETIC](https://open.spotify.com/album/0iApuh37bSWT5YFhqtzgvo) | 3:58 |
+| 41 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 |
+| 42 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
+| 43 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 |
+| 44 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 |
+| 45 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 |
+| 46 | [In Front of Me Now](https://open.spotify.com/track/0rQazIPADhp6WirPHVD0xp) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [In Front of Me Now](https://open.spotify.com/album/3VWqWwC3XNhuhStTquKzgf) | 3:41 |
+| 47 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 |
+| 48 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
+| 49 | [The End](https://open.spotify.com/track/61hkYwYeknRNFuj9TmgTtI) | [October Baby](https://open.spotify.com/artist/1x5rMrmsrQmBYs7P8sm9rD) | [The End](https://open.spotify.com/album/6diYy4ydu9Ew6yLStmpNdK) | 2:39 |
+| 50 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 |
 
-Snapshot ID: `Zn3g4AAAAAAvrLJVu9cTFCQ7j7Hhygwh`
+Snapshot ID: `Zn58MgAAAADB8a69zJBDzAg4amVr09bC`

@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Animales También Se Suicidan
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Kuervos del Sur & Nano Stern.
 
-292 songs - 18 hr 29 min
+293 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Karma](https://open.spotify.com/track/2juLvR1lacT8XUDAcVACya) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Karma](https://open.spotify.com/album/2JJj4A7fDjXbSvWD3pGBvj) | 3:10 | 2022-04-08 | 2022-07-29 |
 | [Kumbagüe](https://open.spotify.com/track/4aRbL1mzAOym948InLY9cC) | [Mawiza](https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt) | [Kollong](https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1) | 4:02 | 2022-10-14 | 2022-12-17 |
 | [Kumbagüe](https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Kollong](https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN) | 4:02 | 2022-04-08 | 2022-10-21 |
+| [La Cuenta](https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [La Cuenta](https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc) | 3:57 | 2024-06-28 |  |
 | [La Culebra](https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [La Culebra](https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1) | 4:57 | 2022-04-08 | 2023-03-03 |
 | [La Despedida](https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [La Despedida](https://open.spotify.com/album/3FbrykEyfG0L7Cz2QFN8HK) | 3:12 | 2023-10-13 | 2023-10-28 |
 | [La Espada & la Pared](https://open.spotify.com/track/3E5wpa4PEgtP6iHVzpIYS9) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 5:03 | 2022-04-08 | 2022-12-17 |
@@ -147,7 +148,7 @@
 | [La Resistencia](https://open.spotify.com/track/6WVirUv3nsEd5Yzv49VhrQ) | [Aeroplan!](https://open.spotify.com/artist/5GEK0mkhlKA30kNfom98YV) | [La Resistencia](https://open.spotify.com/album/2uv2SNhV9Xc4Q0tm7eo69F) | 4:28 | 2022-04-08 | 2022-07-20 |
 | [La Revuelta y el Traidor](https://open.spotify.com/track/20Is1e3oouZK8E3G4TymI3) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [La Revuelta y el Traidor](https://open.spotify.com/album/2HDBjfIDPmvvefYmcnioz1) | 5:01 | 2022-04-08 | 2022-07-26 |
 | [La Torre de Babel](https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Fome](https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY) | 3:30 | 2022-04-08 | 2022-12-17 |
-| [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 | 2022-04-08 | 2024-06-26 |
+| [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 | 2022-04-08 |  |
 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 | 2023-11-10 |  |
 | [Las Balas](https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q) | [AncestroSiniestro](https://open.spotify.com/artist/1WG7GKQajwekEpWivRO5Fk) | [Las Balas](https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8) | 3:49 | 2022-04-08 | 2023-03-03 |
 | [Lento](https://open.spotify.com/track/4DE2J87tCFKgAP4dfjtLFU) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lento](https://open.spotify.com/album/3LtJle06939dZyl1r49hIY) | 3:58 | 2024-03-08 |  |
@@ -213,7 +214,7 @@
 | [Primavera Loka](https://open.spotify.com/track/0upepgbjktdFmTKIrsdxhx) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW), [Matahembra](https://open.spotify.com/artist/3SxWpsYyoAaE1guHbd0lfW) | [Primavera Loka](https://open.spotify.com/album/3PHLBfXv8wlQXh7y3JDWmc) | 5:34 | 2022-04-08 | 2023-03-03 |
 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 | 2022-04-08 |  |
 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 | 2022-04-08 |  |
-| [Querida](https://open.spotify.com/track/1FBVywDB2kyXMEzj64aPEd) | [Los Dos Jefes](https://open.spotify.com/artist/20F1fCOlXcs8m1qF7bmu0y) | [Majestuosa](https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj) | 3:33 | 2022-04-08 |  |
+| [Querida](https://open.spotify.com/track/1FBVywDB2kyXMEzj64aPEd) | [Los Dos Jefes](https://open.spotify.com/artist/20F1fCOlXcs8m1qF7bmu0y) | [Majestuosa](https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj) | 3:33 | 2022-04-08 | 2024-06-29 |
 | [Real love \- Radio Edit](https://open.spotify.com/track/58IrQ8d8Wctv6vX6k3TMxz) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Real love \(Radio Edit\)](https://open.spotify.com/album/6YgWdIJhUV4FL8Z0b8wacj) | 2:24 | 2022-04-08 | 2022-07-20 |
 | [Rebelión del Rock](https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Rebelión del Rock](https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ) | 3:40 | 2022-04-08 | 2023-03-03 |
 | [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 | 2023-01-20 |  |
@@ -244,7 +245,7 @@
 | [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 | 2023-03-03 |
 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 | 2022-04-08 | 2023-03-03 |
 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 | 2023-08-11 |  |
-| [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 |  |
+| [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 | 2024-06-29 |
 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 | 2022-04-08 |  |
 | [Soy](https://open.spotify.com/track/5aS9VmUxCXdG8NkmtivEOi) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Volver](https://open.spotify.com/album/7vDEFYg7ptetrcB5C3l9tj) | 3:29 | 2022-04-08 | 2023-03-03 |
 | [Submundo](https://open.spotify.com/track/1YFPkXaOs8lfBpc4fl1x64) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Submundo](https://open.spotify.com/album/2uoCgDKiQa8hQI7hmFdkya) | 3:21 | 2022-04-08 | 2022-07-21 |

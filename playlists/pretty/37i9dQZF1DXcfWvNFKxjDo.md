@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,290 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,375 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 8 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 9 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
 | 10 | [Permission](https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Permission](https://open.spotify.com/album/1cuEHKMtUWcrehv5XeqSlt) | 2:35 |
-| 11 | [La Verdolaga](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [La Verdolaga](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 |
+| 11 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 |
 | 12 | [Your Shine](https://open.spotify.com/track/5O16SnZui65Ivhj7MWDHRv) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Fly Disco Butter](https://open.spotify.com/artist/1CYDSa8NN8XE6UwbYo65Xm) | [Your Shine](https://open.spotify.com/album/5mFTcBEtz15sD6W48EajgH) | 2:43 |
 | 13 | [Layla](https://open.spotify.com/track/5uhhI2LRwn4wTXpZyIlrbS) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Layla](https://open.spotify.com/album/4g6zKwj3TjxRKhv4nAbHi8) | 2:38 |
 | 14 | [Heavenly Hell \(ft\. Ne\-Yo\)](https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Paragon](https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI) | 3:20 |

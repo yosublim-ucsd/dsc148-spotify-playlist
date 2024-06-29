@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-556 songs - 21 hr 27 min
+560 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Chillin'](https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El) | [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [From Above](https://open.spotify.com/album/7AzyGdeuLj3yYOMgCahejP) | 2:08 | 2022-05-20 |  |
 | [Chips](https://open.spotify.com/track/2cXdC5qNqc5Gk0X6JtjUqH) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Chips & Dip](https://open.spotify.com/album/1wIX39AruT1zSwkSldKSQR) | 1:30 | 2022-05-20 |  |
 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 | 2023-12-08 |  |
+| [Circle](https://open.spotify.com/track/5TYYZj4y8tmHSeCnDWUyNO) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Circle](https://open.spotify.com/album/24Z9hGdUbD9Ht3G7SlLuVC) | 2:27 | 2024-06-28 |  |
 | [City Beatbox](https://open.spotify.com/track/55G7LzvJNYZJiPFitg1g4y) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [City Beatbox](https://open.spotify.com/album/376zKL3VyAGdByEgktt1td) | 1:58 | 2022-05-20 | 2022-07-01 |
 | [clear blue sky](https://open.spotify.com/track/4iKXy98aDDZ1KqrU7PrAhB) | [Hicut Lopass](https://open.spotify.com/artist/1sS4XmaU4vzA2TQ2PbKqJX) | [clear blue sky](https://open.spotify.com/album/7wwgAROkpRFdkbcMvUZ5ui) | 2:04 | 2022-07-15 |  |
 | [clima](https://open.spotify.com/track/47hnVFWuVJW0K4tzoDfCat) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [clima](https://open.spotify.com/album/5mPBcbAVKlG4cG8sbdXqwh) | 1:35 | 2023-09-04 |  |
@@ -175,6 +176,7 @@
 | [Déjà Vu](https://open.spotify.com/track/5zpwjjq4TDLW76yXm3g0oV) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci) | [Modernism II](https://open.spotify.com/album/6h3KNUTqrLzX3nwM9wHxw5) | 1:22 | 2023-06-15 | 2023-09-08 |
 | [Early Rio](https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Early Rio](https://open.spotify.com/album/2a1LMvKsH5AowfwGC49jhI) | 2:40 | 2022-06-24 | 2022-10-14 |
 | [East Coast](https://open.spotify.com/track/5E9Hv0qJghwtMpkf8rZdqW) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [East Coast](https://open.spotify.com/album/0PsUlLGnJ7l4hBNErLRhMs) | 2:55 | 2023-09-22 |  |
+| [edge of distant shore](https://open.spotify.com/track/7eShWtF70R4wkKJa4wFDr4) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [edge of distant shore](https://open.spotify.com/album/7zb6Lx5sRYWGLBSZB3XcKC) | 2:02 | 2024-06-28 |  |
 | [ela é](https://open.spotify.com/track/4ZXEWcotHFwFrQU0FXtjzN) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [ela é](https://open.spotify.com/album/3hcuSey4T7h2gttpBQulMx) | 1:48 | 2022-11-11 | 2024-04-19 |
 | [ela é](https://open.spotify.com/track/51ZIGh9waxNZQgBDYCkpwz) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [ela é](https://open.spotify.com/album/18ke2giSradV4W4KMNGFbR) | 1:48 | 2022-05-20 |  |
 | [Electric](https://open.spotify.com/track/5LxIw6qz9tcKfw5r32koKX) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Electric](https://open.spotify.com/album/2839pax96aBp0FQoT2szpQ) | 2:38 | 2022-05-20 | 2023-12-09 |
@@ -190,6 +192,7 @@
 | [First Impressions](https://open.spotify.com/track/6EsmgveEBmMecRo6ifHwnp) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [First Impressions](https://open.spotify.com/album/5jl3uK8dJrIaNN84t3QDR8) | 2:25 | 2023-01-13 | 2023-11-02 |
 | [Flamantico](https://open.spotify.com/track/6mbOBzSXjisjO2eB8ovh4X) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Flamantico](https://open.spotify.com/album/71oImTIci4jQKSiDOPIy8Z) | 2:09 | 2022-07-08 | 2022-09-09 |
 | [Flavors of Oro](https://open.spotify.com/track/4O7Tbtvbf1U25lMhkBa2wd) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Floaty Boi](https://open.spotify.com/album/6rxXyvP6xKjQJjBw27m3XB) | 2:48 | 2022-05-20 |  |
+| [floating](https://open.spotify.com/track/23JhVTYEOlAMp82uiwqCvY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [floating](https://open.spotify.com/album/31IsKfOz67NUz85jLOvZ9e) | 1:56 | 2024-06-28 |  |
 | [Floating Ways](https://open.spotify.com/track/1m1HGbcUMXFUCdi7S5UnuL) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [Floating Ways](https://open.spotify.com/album/29voq6CUBAUx1Z0PHx18XT) | 2:35 | 2022-07-08 | 2022-08-19 |
 | [Flor de Maga](https://open.spotify.com/track/6YUl5cWPcgEdKl4qtCNlsg) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Flora Vida](https://open.spotify.com/album/5XanZuVir9LIv3lsFAtlAG) | 2:32 | 2022-05-20 | 2023-01-07 |
 | [Fractures](https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/6XgZXPKMqxTt4ScnDZPr6O) | 3:02 | 2022-05-20 | 2022-05-27 |
@@ -312,6 +315,7 @@
 | [Memories](https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:33 | 2022-11-11 | 2022-12-17 |
 | [Memories](https://open.spotify.com/track/6cbj6Q87nePYNMCTvNRjCS) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:33 | 2022-11-11 | 2022-11-25 |
 | [metronohm](https://open.spotify.com/track/4JwhIswrV7w5EeJbx8iouU) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [metronohm](https://open.spotify.com/album/2PfmexxQWyCaUIzVChRvoe) | 2:19 | 2022-07-08 | 2022-07-15 |
+| [mighty fine](https://open.spotify.com/track/6mRQfIW4Z9Kgiz469aaMbk) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [mighty fine](https://open.spotify.com/album/6cUYQS3spIKTw2lDkOO2Pr) | 1:54 | 2024-06-28 |  |
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-05-20 |  |
 | [minor distance](https://open.spotify.com/track/1zYUBI0Rg2AKEwv0uglJW8) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [minor distance](https://open.spotify.com/album/1vNniNWbCDnr7ZB2XpBqlJ) | 2:13 | 2022-09-16 | 2023-12-09 |
 | [Mint Conditions](https://open.spotify.com/track/1ikVVWpSAtnaEXoCf42m3I) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:10 | 2022-05-20 | 2022-11-12 |

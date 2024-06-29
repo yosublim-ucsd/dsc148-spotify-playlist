@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-844 songs - 1 day 1 hr 13 min
+849 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 | 2023-12-22 |  |
 | [Drifting Off](https://open.spotify.com/track/08mDKHVrKDN7NeIXvZ1J33) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Drifting Off](https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz) | 2:33 | 2021-10-05 | 2022-12-16 |
 | [Drømmeland](https://open.spotify.com/track/0tcySI4bc1AfwkZKn9IEB5) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Drømmeland](https://open.spotify.com/album/3sDg3eZY92ntdqKIgzIEPX) | 3:18 | 2022-07-27 | 2022-10-08 |
-| [Drømmer](https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Drømmer](https://open.spotify.com/album/5Rx4eiIdreClTqOBczjJhI) | 1:16 | 2022-06-08 |  |
+| [Drømmer](https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Drømmer](https://open.spotify.com/album/5Rx4eiIdreClTqOBczjJhI) | 1:16 | 2022-06-08 | 2024-06-29 |
 | [Du Käre Lille Snickerbo](https://open.spotify.com/track/30kQU6bUze6WU0FWtuQ66t) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Du Käre Lille Snickerbo](https://open.spotify.com/album/0OZ4wF7qQvvBL1Iai4UM4d) | 1:54 | 2023-01-06 | 2023-02-18 |
 | [Du käre lille snickerbo](https://open.spotify.com/track/4JfzM9YSMnitlTEdUTCuVm) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Du käre lille snickerbo](https://open.spotify.com/album/2vTL2SVLiHKqm8HTI0sD3Z) | 1:19 | 2023-01-27 | 2023-06-03 |
 | [Duckie Goes to Hollywood](https://open.spotify.com/track/5ustS1YSXqaneVhbJdRJgy) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Duckie Goes to Hollywood](https://open.spotify.com/album/2Mv1MbCy0HbmSbFtJASSnG) | 1:35 | 2024-06-21 |  |
@@ -620,7 +620,7 @@
 | [Sleep Now](https://open.spotify.com/track/6nh2OYVRlNsvjCvG3dQlAT) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [Sleep Now](https://open.spotify.com/album/7f3iZyWqecBdOISASthcRy) | 1:33 | 2021-10-05 | 2022-10-08 |
 | [Sleep Now My Darling](https://open.spotify.com/track/3gkUj0ji4HEHPZ230aoE0s) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Sleep Now My Darling](https://open.spotify.com/album/2yJMjPKUU9v9XZeykLUKfL) | 1:50 | 2023-02-17 |  |
 | [Sleep Tight](https://open.spotify.com/track/75VbqJE4wpR7upFz5lCgP4) | [Alonso Águila](https://open.spotify.com/artist/6ziDHzJcxM6qsh8As478MS) | [Sleep Tight](https://open.spotify.com/album/2MtsvNNxj1bMXUDX4DNrrW) | 1:52 | 2022-09-02 |  |
-| [Sleep Tight My Baby](https://open.spotify.com/track/4ils1yQYpUf1nRZF48g2zT) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Sleep Tight My Baby](https://open.spotify.com/album/35v9gVUS3fbWzEqytENHfs) | 2:35 | 2022-12-16 |  |
+| [Sleep Tight My Baby](https://open.spotify.com/track/4ils1yQYpUf1nRZF48g2zT) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Sleep Tight My Baby](https://open.spotify.com/album/35v9gVUS3fbWzEqytENHfs) | 2:35 | 2022-12-16 | 2024-06-29 |
 | [Sleep Till Morning Comes](https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [Sleep Till Morning Comes](https://open.spotify.com/album/6IH9de87cAOQh4DsFYkg3v) | 1:49 | 2023-05-05 | 2023-08-25 |
 | [Sleep Well](https://open.spotify.com/track/4JKK7V182MKyKjU1ZCifCV) | [David Langoster](https://open.spotify.com/artist/7hdAkFmni0yw1T5Yo1aIdP) | [Sleep Well](https://open.spotify.com/album/6UK4hyo7OVyOdjT9zhkmbK) | 1:16 | 2023-01-27 |  |
 | [Sleep, Everyone](https://open.spotify.com/track/5et4YeFJHUnWWu1HwcAOTt) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Sleep, Everyone](https://open.spotify.com/album/66bqqYWUvLsLD9w0v4KtSs) | 1:24 | 2023-12-08 |  |
@@ -656,6 +656,7 @@
 | [Soft Pa](https://open.spotify.com/track/6mBfgifmPmzt92J0EKdBRL) | [Helene Daley](https://open.spotify.com/artist/2wplXTYPzITffTg0srIQ1k) | [Soft Pa](https://open.spotify.com/album/2Jqm4kQbm6SbpUX8KaqkFJ) | 2:08 | 2021-10-05 | 2023-02-18 |
 | [Soft Pillow](https://open.spotify.com/track/5Xh6QvWKR1Msp7iMyjy3XT) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [Soft Pillow](https://open.spotify.com/album/130RcIWFFeGP7ALfjY9QyZ) | 1:52 | 2023-05-05 |  |
 | [Softly Sleep](https://open.spotify.com/track/7H71wFbyd6Fah2qPEvIuLv) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Song for Teddy](https://open.spotify.com/album/2NOyL3zlkGmaj7Cogw5a5e) | 1:21 | 2022-05-12 |  |
+| [Softly to Sleep](https://open.spotify.com/track/2rsmjUSeq0aVGpOPrngdzh) | [Polly Panda](https://open.spotify.com/artist/3a3EfjMdWAf4CibZGa4btE) | [Softly to Sleep](https://open.spotify.com/album/64afAC2HzH6abbHqPeKdH1) | 2:28 | 2024-06-28 |  |
 | [Sogni d’oro](https://open.spotify.com/track/3ZrREPkekC17w11uxaanhW) | [Leora Bianchi](https://open.spotify.com/artist/7BnEklN1peuEwAJrp2u7z3) | [Sogni d’oro](https://open.spotify.com/album/0SdGm7wUUA4ThFb0oazFz5) | 1:35 | 2021-10-05 | 2022-11-19 |
 | [Som En Saga](https://open.spotify.com/track/7e87LdroN5zBYSDiwLHuEx) | [Joanna Lynn](https://open.spotify.com/artist/4OU281BUS1sOrdDdqhVto2) | [Som En Saga](https://open.spotify.com/album/1p6VwL6fF7EbNCBpBlDehC) | 1:21 | 2023-02-17 | 2023-06-03 |
 | [Som stjärnor små](https://open.spotify.com/track/4zkjDKRClIoGCjzVzh4x6R) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Som stjärnor små](https://open.spotify.com/album/6TTjHMqCjQh0j3N7m08V0o) | 1:15 | 2022-08-10 | 2023-06-03 |
@@ -675,6 +676,7 @@
 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 | 2024-04-16 |  |
 | [Stop and Paint the Roses](https://open.spotify.com/track/2BBYWRMaCTwlIeh2UHWLle) | [Estrella Nixon](https://open.spotify.com/artist/1l08ITHSgK3Jgbs7c7Kpdi) | [Stop and Paint the Roses](https://open.spotify.com/album/3Ff5plkM7Sl4kLh4zTLwya) | 1:34 | 2023-05-05 |  |
 | [Stories from the Day](https://open.spotify.com/track/39RU3TfHJ6fPv52ZdJLvup) | [Lilly Bear](https://open.spotify.com/artist/3JlR3VCnC7Ma0pICaXZKLT) | [Blue Blankey](https://open.spotify.com/album/3PXeKfR0Lc8ehF8IgJLOdQ) | 1:55 | 2021-10-05 | 2022-11-19 |
+| [Stories Under The Moon](https://open.spotify.com/track/2mZfjtYBHjsrGmCeglWmnf) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Stories Under The Moon](https://open.spotify.com/album/2uwvTPqvQTmgtKmHgh0pl1) | 1:51 | 2024-06-28 |  |
 | [Summer's Delight](https://open.spotify.com/track/4czyRY2CLY3TWDqqDRCs5C) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Summer's Delight](https://open.spotify.com/album/5IiDZ7s4yhvfdO2fczp5xM) | 4:05 | 2022-08-10 | 2022-11-19 |
 | [Sunny Whiskers](https://open.spotify.com/track/5FRfJjwF6WXALZmvWCWuOT) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Sunny Whiskers](https://open.spotify.com/album/70OlV0jeXYLyENgj1Otc8H) | 2:07 | 2024-05-31 |  |
 | [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 |  |
@@ -763,6 +765,7 @@
 | [Time To Turn Off The Light](https://open.spotify.com/track/3kDXmKtbF1cc9UBJFAmhtp) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Time To Turn Off The Light](https://open.spotify.com/album/2QH00tZ9m4g4E1coFqWm7R) | 2:32 | 2021-10-05 | 2022-11-19 |
 | [Tinkle tinkle](https://open.spotify.com/track/4WjVvRNZ53UIZQ4bO1qSJW) | [James Wilson](https://open.spotify.com/artist/3ga6yp9X6U92WEuBdIGMem) | [Tinkle tinkle](https://open.spotify.com/album/4ZOX8aBf4o4C2LUCARTi24) | 1:32 | 2024-05-03 |  |
 | [Tiny Cat](https://open.spotify.com/track/23tFOMengpSD6UgUKmiHjQ) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Tiny Cat](https://open.spotify.com/album/1NlvIx4SpnzFM74yKwkOlh) | 1:40 | 2023-05-05 |  |
+| [Tiny Dreams](https://open.spotify.com/track/2NAjDGVP3nitYQqqjr1B7q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Tiny Dreams](https://open.spotify.com/album/2WAMXH3pEcsQSxQcVQyE24) | 2:28 | 2024-06-28 |  |
 | [Tiny Toes, Big Adventures](https://open.spotify.com/track/30Uc7VRqNQQjdaqJJRY9HC) | [Joanna Chakri](https://open.spotify.com/artist/65ulszLTrkBaeZZympVqpA) | [Tiny Toes, Big Adventures](https://open.spotify.com/album/6cELU85y4SnUfN695Jf8px) | 1:23 | 2024-02-09 |  |
 | [To the moon](https://open.spotify.com/track/1rH2pYQqGbim1DyScYvzVi) | [Selma Elise](https://open.spotify.com/artist/5EFssW2UTZRKI9t45nUmHJ) | [To the moon](https://open.spotify.com/album/5Qy9gFeRYngO7HpwLtzIzv) | 2:06 | 2021-10-05 | 2024-03-29 |
 | [To the Store We Go](https://open.spotify.com/track/6uPZZCrR9eFJwhZdjwRhyk) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [To the Store We Go](https://open.spotify.com/album/2pAYbCCye9EdWtkGHdrEPq) | 1:26 | 2024-03-22 |  |
@@ -827,6 +830,7 @@
 | [When You Opened Up Your Eyes](https://open.spotify.com/track/37kjqjUgTdKgvvjgsExBKB) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [When You Opened Up Your Eyes](https://open.spotify.com/album/6P3HYig1wH5WnwtxttXPgN) | 1:04 | 2021-10-05 | 2024-03-29 |
 | [Where Do You Live Little Rat?](https://open.spotify.com/track/2tHcwJBMIqcUWZM5VF9Wc0) | [Yoni Laurent](https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI) | [Where Do You Live Little Rat?](https://open.spotify.com/album/53a5FLR3M6sU4y9AvtNOSa) | 1:33 | 2024-06-07 |  |
 | [Where’s My Teddy Bear?](https://open.spotify.com/track/7tbW6fDFa6tn95EG5waC7w) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Where’s My Teddy Bear?](https://open.spotify.com/album/4G9l3MhnXhirfJO7UqFVjR) | 2:02 | 2021-10-05 | 2022-10-29 |
+| [While I Sleep](https://open.spotify.com/track/3bfu1GYxKlhQv5XOqHeiQ4) | [Joen Brahe](https://open.spotify.com/artist/2gtqUlH6q4j2Pc7uVQsaoV) | [While I Sleep](https://open.spotify.com/album/2jXTJuZU3rMSQVutTPfHB9) | 1:28 | 2024-06-28 |  |
 | [White Pyjamas](https://open.spotify.com/track/2Zgn3c9rmuS7NOahAyblqf) | [Will Booker](https://open.spotify.com/artist/6SpSWfQAEuJKZeuYQRSeZZ) | [White Pyjamas](https://open.spotify.com/album/6StNsCIS4UCXEbj2n6BXn4) | 1:31 | 2021-10-05 | 2023-02-18 |
 | [Wish Of A Toddler](https://open.spotify.com/track/37P1PTdztBS2EK2NkXkABm) | [Tiny Tunesmiths](https://open.spotify.com/artist/4NdwGU18xaJXlBATAgNOkd) | [Wish Of A Toddler](https://open.spotify.com/album/76QYzLr4WogXSvvW1t2RJA) | 2:40 | 2024-05-31 |  |
 | [Wishful](https://open.spotify.com/track/6FucNnxWzwEY0WvhqbDzVQ) | [David J Burns](https://open.spotify.com/artist/1kEGNqQqOvQrADGAXPIeZO) | [Wishful](https://open.spotify.com/album/1XvaZXugJLckXSlJ4EDT2G) | 2:03 | 2021-10-05 | 2022-11-19 |
@@ -845,6 +849,7 @@
 | [You Can Close Your Eyes](https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [You Can Close Your Eyes](https://open.spotify.com/album/0inOy4tIchEEMyQvxddMxY) | 1:46 | 2023-05-05 |  |
 | [You Put A Smile On My Face](https://open.spotify.com/track/4Mg43uJAvlcL1uiHVxqEYT) | [Judy Bartley](https://open.spotify.com/artist/3LviZuoIAm8vDjxT4otaY7) | [You Put A Smile On My Face](https://open.spotify.com/album/49y36aYeSGncbq74QZInNC) | 1:47 | 2023-04-07 | 2023-10-06 |
 | [Your Best Friend](https://open.spotify.com/track/7wxRcViG0DDUU0J1cgcYm1) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Your Best Friend](https://open.spotify.com/album/3iPujqVjuFxdUFUpQGtm6x) | 2:26 | 2023-06-02 |  |
+| [Your Cake](https://open.spotify.com/track/2Bqi7k6MFh4ucUKodCbpAh) | [Jo Nichols](https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq) | [Your Cake](https://open.spotify.com/album/26G7G56FFOMTcKaFConD4v) | 1:38 | 2024-06-28 |  |
 | [Your Dreams](https://open.spotify.com/track/4ofrtW6Nkb7qUxyhwp67kq) | [Pete Carey](https://open.spotify.com/artist/0mF6vSw2nxPisTzaB1Zvz6) | [Your Dreams](https://open.spotify.com/album/1AhbCgfNXekJc19LZk3Abh) | 1:23 | 2021-10-05 | 2022-12-24 |
 | [Your Lullaby](https://open.spotify.com/track/48MAqWhssVXliWpUKEzYuT) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Your Lullaby](https://open.spotify.com/album/6LmNI1NPdoEVvFgJJxCzMv) | 2:07 | 2023-11-17 |  |
 | [Your Own Bedtime Lullaby](https://open.spotify.com/track/3xOTmMXM9gk4BieY6VxM48) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Moonlight Reverie](https://open.spotify.com/album/4SMxMb5lvtLFBdIU7gsWEC) | 1:49 | 2023-06-02 |  |

@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-228 songs - 16 hr 2 min
+229 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [The Wild Root](https://open.spotify.com/track/1PS0E4x777UMWqm47foX5W) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi) | [The Wild Root](https://open.spotify.com/album/16gMFgpe8afNzvjybEd2cj) | 4:00 | 2020-10-30 | 2022-04-09 |
 | [The Wolf](https://open.spotify.com/track/27iGHkO0uIiMgHuwLNlPup) | [The Spencer Lee Band](https://open.spotify.com/artist/3nIzSJRQzH8v2DFs7iaXDi) | [The Spencer Lee Band](https://open.spotify.com/album/2TuywyPv1tT2IglXMUQFCf) | 2:54 | 2020-10-30 | 2022-04-09 |
 | [Turn up the Sound](https://open.spotify.com/track/3xDvyv5KF5Jvnycgutrgb9) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Turn up the Sound](https://open.spotify.com/album/29y8juHtLWWahTrNE7A6uz) | 3:49 | 2020-10-30 |  |
+| [Undefeated Eyes](https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Undefeated Eyes](https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF) | 4:26 | 2024-06-28 |  |
 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 | 2020-10-30 |  |
 | [Up Is Just A Place \- Richie Stevens Xtended Mix](https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Pee Wee Ellis](https://open.spotify.com/artist/4nOsbPxGYii9IpCEfCCSbo), [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Reuben Fowler](https://open.spotify.com/artist/1VvCD8wmMTcFpQoiikyIbo), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [DJ D\-Zire](https://open.spotify.com/artist/60ODIW6N3aAyqsESw620Qn) | [Up Is Just A Place \(Richie Stevens Xtended Mix\)](https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot) | 5:05 | 2023-06-16 |  |
 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8) | 5:37 | 2022-09-16 | 2022-11-21 |

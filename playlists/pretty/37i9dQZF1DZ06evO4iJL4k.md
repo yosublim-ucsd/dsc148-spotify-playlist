@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
+> This Is Filipe Ret\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,609 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,868 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 50 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/7s4e0robYmfsPC89q4W5YA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Show Case](https://open.spotify.com/album/7JEu7nDWBE72tKNHsTnIzF) | 2:17 |
 | 51 | [Livre & Triste](https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:40 |
 
-Snapshot ID: `ZntaAAAAAAC+Ao5+scvQGUbNEzlxmQBk`
+Snapshot ID: `ZntaAAAAAACoiFsIInPebTbfZiQcaGON`

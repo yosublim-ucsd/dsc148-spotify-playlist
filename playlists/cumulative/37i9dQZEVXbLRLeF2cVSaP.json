@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 104697,
       "name": "HURTZ",
       "url": "https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 108068,
       "name": "Never Broke Again",
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 160727,
       "name": "SUNSHINE IN JULY",
       "url": "https://open.spotify.com/track/7AaEI5nXd7NZQlhq8cKJQ8"
@@ -950,10 +950,70 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 189972,
       "name": "\u0411\u0418\u0427\u0415\u0421",
       "url": "https://open.spotify.com/track/0iWLbfz7ls2I2rzG3WlLuz"
+    },
+    {
+      "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        },
+        {
+          "name": "Wipo",
+          "url": "https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189972,
+      "name": "\u0411\u0418\u0427\u0415\u0421",
+      "url": "https://open.spotify.com/track/1qdBrex0Shw11JLNNPZhZu"
+    },
+    {
+      "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        },
+        {
+          "name": "Babyface Melo",
+          "url": "https://open.spotify.com/artist/0j9IK0E8hghOd0HFmQoe7j"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "\u0411\u041b\u0410 \u0411\u041b\u0410 \u0411\u041b\u0410",
+      "url": "https://open.spotify.com/track/4BSySdxduoEkkEd0xz8Ncc"
     },
     {
       "album": {
@@ -968,7 +1028,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 84000,
       "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
@@ -1055,6 +1115,32 @@
     },
     {
       "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "\u0413\u041b\u0410\u041c\u0423\u0420",
+      "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
+    },
+    {
+      "album": {
         "name": "\u0414\u0410 / \u041d\u0415\u0422",
         "url": "https://open.spotify.com/album/1pAnIPCbuXbDcKl0sJotCY"
       },
@@ -1074,10 +1160,36 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 159836,
       "name": "\u0414\u0410 / \u041d\u0415\u0422",
       "url": "https://open.spotify.com/track/3pSjo50p5STyZRBgG4f8MO"
+    },
+    {
+      "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159836,
+      "name": "\u0414\u0410 / \u041d\u0415\u0422",
+      "url": "https://open.spotify.com/track/545xb1RbBBYESOgG2ENHxv"
     },
     {
       "album": {
@@ -1802,6 +1914,28 @@
     {
       "album": {
         "name": "\u041d\u0430 \u0441\u0442\u043e\u043b",
+        "url": "https://open.spotify.com/album/63qaXs2BXAEbthaS0DBdQM"
+      },
+      "artists": [
+        {
+          "name": "LonelyStash",
+          "url": "https://open.spotify.com/artist/2a8cXvjGFnJoXtGJN6NkoR"
+        },
+        {
+          "name": "\u0413\u043e\u0442\u043b\u0438\u0431",
+          "url": "https://open.spotify.com/artist/09rKYVR8DT7xM2V3CsD7SP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133413,
+      "name": "\u041d\u0430 \u0441\u0442\u043e\u043b",
+      "url": "https://open.spotify.com/track/30GJwqreWeTrttyGMeupoT"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u0441\u0442\u043e\u043b",
         "url": "https://open.spotify.com/album/6aTdMS2zArvCEMbmdcjaDn"
       },
       "artists": [
@@ -1816,7 +1950,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 133413,
       "name": "\u041d\u0430 \u0441\u0442\u043e\u043b",
       "url": "https://open.spotify.com/track/3xWFh4THtkRjY2rSeookyK"
@@ -2547,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "\u0423\u0442\u0438-\u041f\u0443\u0442\u0438",
+        "url": "https://open.spotify.com/album/4dMvbYXzA9w0SXpaFCvq0b"
+      },
+      "artists": [
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+        },
+        {
+          "name": "LSP",
+          "url": "https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188596,
+      "name": "\u0423\u0442\u0438-\u041f\u0443\u0442\u0438",
+      "url": "https://open.spotify.com/track/2T1AuZE4fHpWPovzm985OI"
+    },
+    {
+      "album": {
         "name": "\u0420\u0430\u0434\u0438\u043e \u043e\u0433\u043e\u043d\u044c",
         "url": "https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc"
       },
@@ -2612,7 +2768,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 123789,
       "name": "\u0425\u043e\u043b\u043e\u0434",
       "url": "https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH"
@@ -2772,7 +2928,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 193877,
       "name": "\u042d\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
       "url": "https://open.spotify.com/track/12NAMTSAP5gphJROLrcT12"
@@ -2812,6 +2968,24 @@
       "duration_ms": 157666,
       "name": "\u042e\u0440\u0444\u0430\u043a",
       "url": "https://open.spotify.com/track/7hcU2QzT149fKRIuX0SitB"
+    },
+    {
+      "album": {
+        "name": "\u042f \u041f\u043e\u043c\u043d\u044e",
+        "url": "https://open.spotify.com/album/7t3giNZ5ldGGRXRdJ985pQ"
+      },
+      "artists": [
+        {
+          "name": "DIMA SP",
+          "url": "https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236808,
+      "name": "\u042f \u041f\u043e\u043c\u043d\u044e",
+      "url": "https://open.spotify.com/track/2qGVLBfDNtNV56EEC5fHW9"
     },
     {
       "album": {

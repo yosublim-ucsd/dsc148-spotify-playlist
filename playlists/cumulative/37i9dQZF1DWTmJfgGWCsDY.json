@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 219506,
       "name": "Kwampalange",
       "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
@@ -857,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Miss Buza",
+        "url": "https://open.spotify.com/album/3TA7ghXu5yYmihqYhxOZ0l"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320653,
+      "name": "Miss Buza",
+      "url": "https://open.spotify.com/track/1roXOAenMtmIFr1g3msnCi"
+    },
+    {
+      "album": {
         "name": "Miss Buza (feat. Dulla Makabila)",
         "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
       },
@@ -915,6 +937,24 @@
     },
     {
       "album": {
+        "name": "26kipaji Singeli Album",
+        "url": "https://open.spotify.com/album/50cquJx5enlcSpHJ4iyhwt"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277625,
+      "name": "Msumbufu",
+      "url": "https://open.spotify.com/track/75hMq2d7332WNyUzXaY8AW"
+    },
+    {
+      "album": {
         "name": "Mume Wa Mtu Ni Sumu",
         "url": "https://open.spotify.com/album/3ImYxqb9ytQXDoiM0Xe3Oj"
       },
@@ -952,7 +992,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 230675,
       "name": "Mwali Wangu",
       "url": "https://open.spotify.com/track/6KaDPQZYoQ9Kx9P9OxF3UI"
@@ -1302,7 +1342,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 211331,
       "name": "Niwataje",
       "url": "https://open.spotify.com/track/6tuzK14AAS6pZO6KsDitIy"
@@ -1692,7 +1732,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 204252,
       "name": "Singeli Twista",
       "url": "https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV"
@@ -1784,6 +1824,24 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+    },
+    {
+      "album": {
+        "name": "Twende Beach",
+        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
+      },
+      "artists": [
+        {
+          "name": "Mkataba Mc",
+          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250055,
+      "name": "Twende Beach",
+      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
     },
     {
       "album": {
@@ -1922,6 +1980,24 @@
       "duration_ms": 215038,
       "name": "Uroda",
       "url": "https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w"
+    },
+    {
+      "album": {
+        "name": "Singeli Money",
+        "url": "https://open.spotify.com/album/6IBQqUY6TGbmFDJIjSsfjR"
+      },
+      "artists": [
+        {
+          "name": "Mczo Morfan (Big)",
+          "url": "https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253936,
+      "name": "Usinichiti",
+      "url": "https://open.spotify.com/track/4jLz75KL9XYcrbAFcmAb4P"
     },
     {
       "album": {

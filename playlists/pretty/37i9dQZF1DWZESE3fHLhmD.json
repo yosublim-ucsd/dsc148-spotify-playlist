@@ -1,6 +1,6 @@
 {
   "description": "Songs, die nach Sonnencreme riechen.",
-  "num_followers": 1291384,
+  "num_followers": 1291545,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     },
     {
       "added_at": "2024-06-22 07:08:15",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 191823,
-      "name": "Tek It",
-      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 191823,
+      "name": "Tek It",
+      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
     },
     {
       "added_at": "2024-06-22 07:08:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 164745,
       "name": "tempo",
       "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-06-22 07:08:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/5SP7T6m18OQCH0l68nxlON"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 163043,
       "name": "How Far Is Your Love (with Los Lonely Boys)",
       "url": "https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-06-22 07:08:15",
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
+        "name": "Liebesbriefe",
+        "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Liebesbriefe",
+      "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
+        "name": "such mit mir",
+        "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "such mit mir",
+      "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
         "name": "Don't Let Me Down (feat. JVKE)",
         "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
       },
@@ -1327,22 +1359,6 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
-        "name": "Liebesbriefe",
-        "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
-      },
-      "artists": [
-        {
-          "name": "fyne",
-          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Liebesbriefe",
-      "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
         "name": "Strawberry eyes",
         "url": "https://open.spotify.com/album/7icn8Fv9Wy1yHHwoA7Yvxa"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 158840,
       "name": "Strawberry eyes",
       "url": "https://open.spotify.com/track/55g4rnkPWozcmWW2a8MNMl"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
-        "name": "such mit mir",
-        "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "such mit mir",
-      "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
     },
     {
       "added_at": "2024-06-22 07:08:15",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-22 07:08:15",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
-      "added_at": "2024-06-22 07:08:15",
-      "album": {
         "name": "Red Wine Supernova",
         "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
+      "added_at": "2024-06-22 07:08:15",
+      "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-06-22 07:08:15",

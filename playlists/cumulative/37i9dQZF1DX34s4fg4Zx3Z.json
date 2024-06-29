@@ -15425,6 +15425,28 @@
     },
     {
       "album": {
+        "name": "Li\u1ec1u Thu\u1ed1c",
+        "url": "https://open.spotify.com/album/0FTY91aonlmsj7D2BNnlsm"
+      },
+      "artists": [
+        {
+          "name": "Wind",
+          "url": "https://open.spotify.com/artist/2MLUcp8h4D38BrRYvryXgX"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Li\u1ec1u Thu\u1ed1c",
+      "url": "https://open.spotify.com/track/7JhLzH7oYHvCAxBXBp6GTZ"
+    },
+    {
+      "album": {
         "name": "Li\u1ec7u C\u00f3 Ch\u0103ng",
         "url": "https://open.spotify.com/album/2MIl0gMeJ8qKegEJKY4Yr8"
       },

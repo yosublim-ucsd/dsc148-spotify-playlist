@@ -2,7 +2,7 @@
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Howlin' Wolf\. Los temas esenciales, todos en una lista.
 
 126 songs - 6 hr 35 min
 

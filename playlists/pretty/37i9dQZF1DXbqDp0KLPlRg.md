@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqDp0KLPlRg.md) - [plain]
 
 > La nena de Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,482 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,725 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 ### [This Is Murda Beatz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26qb6H)
 
-> This is: Murda Beatz\. Alle wichtigen Tracks in einer Playlist.
+> This is Murda Beatz\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,122 likes - 35 songs - 1 hr 42 min
 
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 34 | [Bad Habits \(feat\. Murda Beatz\)](https://open.spotify.com/track/6J2zOiRkS7rEkmCRpuvZgP) | [Fast Cash Boyz](https://open.spotify.com/artist/37ijPPH7qiKay4QJ5ktqEU), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Fxck The Cash Up](https://open.spotify.com/album/3XMIPVAy1bXKoAaEasIHab) | 3:12 |
 | 35 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
 
-Snapshot ID: `ZntaAAAAAAA2/bfAbubZut9Vczf0SpuG`
+Snapshot ID: `ZntaAAAAAAAPICtSyekuCn+bplKyLgfW`

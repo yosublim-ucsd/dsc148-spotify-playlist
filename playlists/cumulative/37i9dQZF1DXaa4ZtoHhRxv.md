@@ -4,7 +4,7 @@
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-202 songs - 10 hr 54 min
+203 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/track/6MYshGKhcheOSGquz6NKbC) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/album/1b6BA0fpdHJyYsO04QQIb6) | 3:30 | 2021-12-10 |  |
 | [Cheatin’ Songs \- Montana Mix](https://open.spotify.com/track/62aWwK5NOED1ADf05zVepV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Cheatin' Songs \(Montana Mix & Original\)](https://open.spotify.com/album/4de5W0Qd5KMwhImXPRmFpV) | 3:30 | 2021-12-10 |  |
 | [Cicadas](https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Matty Hendley](https://open.spotify.com/artist/2yvhvBMATIOiEwXOWiktUS) | [Cicadas](https://open.spotify.com/album/514A89AJBBRebXUNUTVlES) | 3:43 | 2024-04-26 |  |
+| [Comeback Kid](https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Comeback Kid](https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT) | 3:27 | 2024-06-28 |  |
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-10 |  |
 | [Coulda Loved You Longer \- Petey Martin Remix](https://open.spotify.com/track/5C4IBWesuAEC98pkN4I3uc) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Coulda Loved You Longer \(Petey Martin Remix\)](https://open.spotify.com/album/1Hmtk5kiXOBMkz3OeFDSfs) | 2:28 | 2021-12-10 |  |
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-02-18 |  |

@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "album": {
         "name": "AH TXE TXE",
         "url": "https://open.spotify.com/album/2NgTBl8RJMVLwbhGiPxCkD"
       },
@@ -671,6 +689,24 @@
     },
     {
       "album": {
+        "name": "BAD!",
+        "url": "https://open.spotify.com/album/20Dy7eWEYXjTa3ZHvKG3N2"
+      },
+      "artists": [
+        {
+          "name": "Folie's",
+          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161001,
+      "name": "BAD!",
+      "url": "https://open.spotify.com/track/5asnJ8gN6EStpEmZSEYjyC"
+    },
+    {
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -792,6 +828,24 @@
       "duration_ms": 151578,
       "name": "Batcha",
       "url": "https://open.spotify.com/track/39yQagzLGEbc9hEud0Ivvz"
+    },
+    {
+      "album": {
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169146,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/4DpyGhHSEcum0tJzkqiIxJ"
     },
     {
       "album": {
@@ -2327,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Dougie",
+        "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
+      },
+      "artists": [
+        {
+          "name": "K2S",
+          "url": "https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Dougie",
+      "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
+    },
+    {
+      "album": {
         "name": "DRILL FR",
         "url": "https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN"
       },
@@ -2458,7 +2530,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 282726,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/0tGv6A7alg2EiRadi0b5TQ"
@@ -2646,7 +2718,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 144005,
       "name": "Fatigu\u00e9 - Speed Up",
       "url": "https://open.spotify.com/track/1DDo206GWOkANENV5gjZdX"
@@ -3253,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "Histoire d'un soir (Bye bye les gal\u00e8res) [Blutch Edit]",
+        "url": "https://open.spotify.com/album/4DM3Ybr5YuS3bPRwjW56RJ"
+      },
+      "artists": [
+        {
+          "name": "Bibi Flash",
+          "url": "https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO"
+        },
+        {
+          "name": "Blutch",
+          "url": "https://open.spotify.com/artist/5cdE65wvlFqMFAeQ29MZgr"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Histoire d'un soir (Bye bye les gal\u00e8res) - Blutch Radio Edit",
+      "url": "https://open.spotify.com/track/7qZV8Zzk8fHU2eR6ilqvRs"
+    },
+    {
+      "album": {
         "name": "NYXIA. Tome III",
         "url": "https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca"
       },
@@ -3657,6 +3751,24 @@
     },
     {
       "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/3RWSCAgGYrQxdyqqX0mglq"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Je suis un homme",
+      "url": "https://open.spotify.com/track/2YNWgxevUxpjZDgW4i5Aky"
+    },
+    {
+      "album": {
         "name": "Dima",
         "url": "https://open.spotify.com/album/3skYNr1bLZiVyFJGU5jEjV"
       },
@@ -3762,7 +3874,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 225040,
       "name": "J\u2019aurais pas d\u00fb",
       "url": "https://open.spotify.com/track/7BBifWmpuPSj4ETSHrWFbx"
@@ -4437,6 +4549,36 @@
     },
     {
       "album": {
+        "name": "Lunettes",
+        "url": "https://open.spotify.com/album/73GErABXDhhCGzGcf2xT9F"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189492,
+      "name": "Lunettes",
+      "url": "https://open.spotify.com/track/30LVi0mmgUA6ktJZ8mYu1z"
+    },
+    {
+      "album": {
         "name": "Ma berceuse",
         "url": "https://open.spotify.com/album/7mBmGJFDuxPs31OE78a6br"
       },
@@ -4662,6 +4804,28 @@
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
+        "name": "Maladie du coeur",
+        "url": "https://open.spotify.com/album/33NKFGCnE0KEy4mP3vcq0n"
+      },
+      "artists": [
+        {
+          "name": "CHANEL",
+          "url": "https://open.spotify.com/artist/3MAMbnrUtr4nqTRStT5rUZ"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159565,
+      "name": "Maladie du coeur",
+      "url": "https://open.spotify.com/track/3kwDyHJ1LNDgP0nC0RlRUp"
     },
     {
       "album": {
@@ -4902,6 +5066,46 @@
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0EOMZ8UjNt4jFHKK3xtO4c"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99265,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zNmCLywlODx6dhpjrBg7j"
+    },
+    {
+      "album": {
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
+      },
+      "artists": [
+        {
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
       "album": {
@@ -5400,6 +5604,24 @@
       "duration_ms": 168264,
       "name": "NINA",
       "url": "https://open.spotify.com/track/5CLE8nqBC2HLuFqLjoFzYw"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "No lo s\u00e9",
+      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
       "album": {
@@ -6225,6 +6447,32 @@
     },
     {
       "album": {
+        "name": "Que du sal commence - Pongi (feat. Ave Le Roi & Master Virus) [Instrumental]",
+        "url": "https://open.spotify.com/album/1Hy791swx6pOnFxTRjE5Y6"
+      },
+      "artists": [
+        {
+          "name": "Dj YT",
+          "url": "https://open.spotify.com/artist/5GHuiMH05i1tTc5zDJ9drO"
+        },
+        {
+          "name": "Ave Le Roi",
+          "url": "https://open.spotify.com/artist/5nJsrkykEU88P8XWIu07ZP"
+        },
+        {
+          "name": "Master Virus",
+          "url": "https://open.spotify.com/artist/5NnpFt7QN9o0klnFveEERF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214961,
+      "name": "Que du sal commence - Pongi (feat. Ave Le Roi & Master Virus) - Instrumental",
+      "url": "https://open.spotify.com/track/7coNPBxI25o6hQsZEYKaaH"
+    },
+    {
+      "album": {
         "name": "quel type de vibe?",
         "url": "https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l"
       },
@@ -6588,6 +6836,24 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "Seklenland, Pt.1",
+        "url": "https://open.spotify.com/album/72GEg1dVPB1LdSZEqbwG8d"
+      },
+      "artists": [
+        {
+          "name": "H.LA DROGUE",
+          "url": "https://open.spotify.com/artist/2tgTUUrbrQd6iuAjW5BQI7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161488,
+      "name": "Seklenland, Pt.1",
+      "url": "https://open.spotify.com/track/3hOnpHlXrgxTb66TM1PYBk"
     },
     {
       "album": {
@@ -6966,7 +7232,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 357973,
       "name": "Soir\u00e9e parisienne (feat. Jizo Djohn.P)",
       "url": "https://open.spotify.com/track/77jfFVugaz41IwpWqoXsUh"
@@ -7862,16 +8128,16 @@
           "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
         },
         {
-          "name": "DJ SYT",
-          "url": "https://open.spotify.com/artist/666wjebcUXtAhPErZc1b7l"
-        },
-        {
           "name": "Kokosvoice",
           "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
         },
         {
           "name": "Mauvais djo",
           "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "DJ SYT",
+          "url": "https://open.spotify.com/artist/666wjebcUXtAhPErZc1b7l"
         }
       ],
       "date_added": "2023-09-22",
@@ -7880,6 +8146,40 @@
       "duration_ms": 232374,
       "name": "Y a une meuf",
       "url": "https://open.spotify.com/track/3hBR7YFqumGQAGUkrjv8C3"
+    },
+    {
+      "album": {
+        "name": "Yamore",
+        "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Yamore",
+      "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
       "album": {

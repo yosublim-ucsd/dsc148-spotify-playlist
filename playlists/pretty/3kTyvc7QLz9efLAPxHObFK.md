@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,475 songs - 3 day 8 hr 31 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,479 songs - 3 day 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1483,5 +1483,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1473 | [With You](https://open.spotify.com/track/79tkJ9jyhyE5tlCBWz3226) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [With You](https://open.spotify.com/album/2WQoo26sJ84seYBTpzogil) | 3:20 |
 | 1474 | [SAVE ME](https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [SAVE ME](https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh) | 2:57 |
 | 1475 | [In Control](https://open.spotify.com/track/6UGTc2z2xFhKkGLVFERnJ1) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Exproz](https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU) | [In Control](https://open.spotify.com/album/70PdtWsk7UyLpViq8mRNch) | 3:40 |
+| 1476 | [Be Strong](https://open.spotify.com/track/72KiNuf7OFPxlIQO4SdLak) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY) | [Be Strong](https://open.spotify.com/album/2dlN7eT3Fvgrgt5WMu14dX) | 2:56 |
+| 1477 | [Haunted](https://open.spotify.com/track/1c76N9QprvsTLqLAY51Q6z) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Haunted EP](https://open.spotify.com/album/1waRfrw9AJdVPJbARp2cYQ) | 5:00 |
+| 1478 | [The Unknown](https://open.spotify.com/track/3Zh6HPk8CXyrorF2cYTUkr) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [The Unknown](https://open.spotify.com/album/7uyGlq5083wMjPlklmQVoh) | 3:33 |
+| 1479 | [Electronic Universe](https://open.spotify.com/track/2RNfcVb3cE39PztJECqdDI) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Electronic Universe](https://open.spotify.com/album/4Xb07nPtieoHVPNX5hZsGW) | 4:06 |
 
-Snapshot ID: `AAAF8PpxCM/xyB9QOPXgt+lv2B4ZLg1Q`
+Snapshot ID: `AAAF9Cs07zlXQ5xpjeHxv76gX4UUl4tT`

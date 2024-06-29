@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: El Padrinito Toys and Octavio Cuadras",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Daren & Jorge Cuellar ",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165354,
       "name": "2 Pa 2",
       "url": "https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs"
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "A Ver Si Regreso",
+        "url": "https://open.spotify.com/album/4U0AnHtNjWwSVmfNetREiA"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "A Ver Si Regreso",
+      "url": "https://open.spotify.com/track/0vBZq4ivD0i0N9ORLSjgm8"
+    },
+    {
+      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 177000,
       "name": "ALV - Remix",
       "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 153930,
       "name": "BIG BOSS",
       "url": "https://open.spotify.com/track/7svgybZhrQp9ptxl470uMy"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182844,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/6blbKuESkUhjlPD2iPTITa"
@@ -4080,6 +4098,24 @@
       "duration_ms": 183093,
       "name": "El 08",
       "url": "https://open.spotify.com/track/70zzFjzX32eqHbpkd6qknb"
+    },
+    {
+      "album": {
+        "name": "El AA",
+        "url": "https://open.spotify.com/album/1eGoHstdOOCZwrF7FqF4HZ"
+      },
+      "artists": [
+        {
+          "name": "Autoridad Elegante",
+          "url": "https://open.spotify.com/artist/2meVIB1tB74PkeU98ho4PB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "El AA",
+      "url": "https://open.spotify.com/track/1u05E61mB8lz3sYlMA58lU"
     },
     {
       "album": {
@@ -7125,6 +7161,24 @@
     },
     {
       "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/5aCC7telOXxzAgqnwelx6A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169945,
+      "name": "HBK",
+      "url": "https://open.spotify.com/track/1UntFEPl3AK4NUZoJmLyv1"
+    },
+    {
+      "album": {
         "name": "Make it Norte\u00f1o Vol. 1",
         "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
       },
@@ -8577,6 +8631,24 @@
     },
     {
       "album": {
+        "name": "Les Di Ventaja",
+        "url": "https://open.spotify.com/album/41Eo3YCWRCKLOKy9oLyN9m"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195029,
+      "name": "Les Di Ventaja",
+      "url": "https://open.spotify.com/track/0Hf8sW6muVvs2ZAp4D0lAv"
+    },
+    {
+      "album": {
         "name": "Les Quedo Claro",
         "url": "https://open.spotify.com/album/0byJUz2IEI7oCxoAYW8JKf"
       },
@@ -8708,7 +8780,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188275,
       "name": "Lo Intent\u00e9",
       "url": "https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU"
@@ -10421,6 +10493,28 @@
     },
     {
       "album": {
+        "name": "Modo Diablo",
+        "url": "https://open.spotify.com/album/6iXhagqX8UDiFRHRm5QkXc"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130753,
+      "name": "Modo Diablo",
+      "url": "https://open.spotify.com/track/7ae6qFfW0V7l6mRzFwWNip"
+    },
+    {
+      "album": {
         "name": "Modo DND",
         "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
       },
@@ -11060,7 +11154,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
@@ -12633,6 +12727,24 @@
     },
     {
       "album": {
+        "name": "PURO 50\u00b4TON",
+        "url": "https://open.spotify.com/album/3MV5kBQlxTb054Qibv6Imz"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167621,
+      "name": "PURO 50\u00b4TON",
+      "url": "https://open.spotify.com/track/6bRwGSV4qWQAEhrOez8p2B"
+    },
+    {
+      "album": {
         "name": "Puro Pa' Delante",
         "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
       },
@@ -12648,6 +12760,24 @@
       "duration_ms": 153679,
       "name": "Puro Pa' Delante",
       "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
+    },
+    {
+      "album": {
+        "name": "P\u00f3nganse Las Pilas",
+        "url": "https://open.spotify.com/album/7lVf7Cueo1Nu0w98YzPVYV"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163118,
+      "name": "P\u00f3nganse Las Pilas",
+      "url": "https://open.spotify.com/track/5YPfy2P8L8fnAsqhEl8oaD"
     },
     {
       "album": {
@@ -13253,6 +13383,28 @@
     },
     {
       "album": {
+        "name": "Rico Y Soltero",
+        "url": "https://open.spotify.com/album/10fguKdYY98tUVefzXbTqJ"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163794,
+      "name": "Rico Y Soltero",
+      "url": "https://open.spotify.com/track/5ZgPDnDflO2fFLAuF6b4LL"
+    },
+    {
+      "album": {
         "name": "RLUX",
         "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
       },
@@ -13410,7 +13562,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176250,
       "name": "Ropa Cara",
       "url": "https://open.spotify.com/track/0AC6lMbq1Xc2npqHzlPCqs"
@@ -13476,7 +13628,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
@@ -13698,6 +13850,24 @@
       "duration_ms": 241493,
       "name": "Sal\u00ed Perdiendo - En Vivo",
       "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
+    },
+    {
+      "album": {
+        "name": "San Lucas (En Vivo)",
+        "url": "https://open.spotify.com/album/11oNsHE2lzU4WUhPaGHu4U"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "San Lucas - En Vivo",
+      "url": "https://open.spotify.com/track/5K8VRSmeRSerLOjL4O9Eqi"
     },
     {
       "album": {
@@ -14190,7 +14360,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 190847,
       "name": "Si Volvemos a Empezar",
       "url": "https://open.spotify.com/track/4713nUJDGyvpp2BirmoYxm"
@@ -14248,7 +14418,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185714,
       "name": "Simon Simon",
       "url": "https://open.spotify.com/track/6G0G0pV61kUEYoUhmfkqRt"
@@ -14270,6 +14440,24 @@
       "duration_ms": 108863,
       "name": "Sin Cuida'o",
       "url": "https://open.spotify.com/track/7HucjYSSbMuLuXcHondO26"
+    },
+    {
+      "album": {
+        "name": "Sin Dormir",
+        "url": "https://open.spotify.com/album/6DEpUdGcIvV7OpT825Qs46"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Soto",
+          "url": "https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142086,
+      "name": "Sin Dormir",
+      "url": "https://open.spotify.com/track/0jvsi7hOV9KFvqUbsRcNV5"
     },
     {
       "album": {
@@ -15142,7 +15330,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 173975,
       "name": "Te Ves Tan Bien",
       "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
@@ -15673,6 +15861,28 @@
     },
     {
       "album": {
+        "name": "TU MI FAVORITA",
+        "url": "https://open.spotify.com/album/43MPqKJqy9Juau6ZueTI9k"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        },
+        {
+          "name": "Luis Ayala",
+          "url": "https://open.spotify.com/artist/1dvf1qzaPe9NRqkfp2dArz"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146426,
+      "name": "TU MI FAVORITA",
+      "url": "https://open.spotify.com/track/0St4NJkBNdIrf1uj4b0wB0"
+    },
+    {
+      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
       },
@@ -15720,7 +15930,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 212757,
       "name": "Tu Orgullo",
       "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
   "name": "Feelin' Myself",
   "tracks": [
+    {
+      "album": {
+        "name": "10 White Toes",
+        "url": "https://open.spotify.com/album/393uGrwWrg1PqP8UAscMH1"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95966,
+      "name": "10 White Toes",
+      "url": "https://open.spotify.com/track/0g6uvmCUk0GOWfB8Uo0blt"
+    },
     {
       "album": {
         "name": "11:11",
@@ -1249,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
+    },
+    {
+      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168932,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
@@ -3732,7 +3768,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 171391,
       "name": "Gas You Up (feat. Hunxho)",
       "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
@@ -3840,7 +3876,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 126153,
       "name": "Gimmie A Light",
       "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
@@ -5888,7 +5924,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166257,
       "name": "Magnolia Rain",
       "url": "https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys"
@@ -6044,6 +6080,32 @@
       "duration_ms": 113429,
       "name": "Megan's Piano",
       "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Buddah Bless",
+          "url": "https://open.spotify.com/artist/2b6tsWmhSdyQx5UNRnNrI4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Miami Blue (feat. Big K.R.I.T. & Buddah Bless)",
+      "url": "https://open.spotify.com/track/0fhv3bPzS3hbRdv6WNgs21"
     },
     {
       "album": {
@@ -6218,7 +6280,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 119910,
       "name": "MPH",
       "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
@@ -6878,6 +6940,24 @@
       "duration_ms": 112941,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/4d6aCv12wZco0ndMM8NpQY"
+    },
+    {
+      "album": {
+        "name": "Dauntless Manifesto",
+        "url": "https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135120,
+      "name": "Nun Nun",
+      "url": "https://open.spotify.com/track/7o60UHSLPo5SuNc0v9hG7o"
     },
     {
       "album": {
@@ -8151,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "ROCKET",
+        "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166315,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
+    },
+    {
+      "album": {
         "name": "Rose Gold Stripper Pole",
         "url": "https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s"
       },
@@ -8610,7 +8708,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 124307,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/5FwhprNsUarRkLXqBE8tK8"
@@ -9010,6 +9108,24 @@
       "duration_ms": 175819,
       "name": "Standards",
       "url": "https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc"
+    },
+    {
+      "album": {
+        "name": "Daddy 2 Baddie",
+        "url": "https://open.spotify.com/album/6UiLSi6xcV7LPURLFWgtF4"
+      },
+      "artists": [
+        {
+          "name": "NextYoungin",
+          "url": "https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Standing On Bidness",
+      "url": "https://open.spotify.com/track/5GhPo3t87xQ50LLLsvPeGB"
     },
     {
       "album": {
@@ -9670,7 +9786,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 138001,
       "name": "Track & Field (feat. Kaliii)",
       "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
@@ -10384,6 +10500,24 @@
       "duration_ms": 164675,
       "name": "Where the Fun Niggas At?",
       "url": "https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "album": {

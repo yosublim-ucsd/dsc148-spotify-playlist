@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 851565,
+  "num_followers": 851892,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "REI DO BRASIL",
-        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
-      },
-      "artists": [
-        {
-          "name": "Seek",
-          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
-        }
-      ],
-      "duration_ms": 97846,
-      "name": "REI DO BRASIL",
-      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "WINTER ARC FUNK",
         "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 91875,
       "name": "WINTER ARC FUNK",
       "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "REI DO BRASIL",
+        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "REI DO BRASIL",
+      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
     },
     {
       "added_at": "2024-05-08 15:21:25",

@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 229466,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
@@ -2296,6 +2296,24 @@
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "album": {
+        "name": "Break Out (1983 Version - Expanded Edition)",
+        "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262560,
+      "name": "Jump (Original Mix)",
+      "url": "https://open.spotify.com/track/1kIu9zpYtWjgrLlsactlna"
     },
     {
       "album": {

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [HOUSEIUM // BANGIN HOUSE](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Straight HOUSE! Submissions: houseiumpromo@gmail.com
+> House Music all life long \- \- \- Submissions: houseiumpromo@gmail.com
 
 [Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,060 likes - 60 songs - 3 hr 19 min
 
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 59 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 |
 | 60 | [The Unknown](https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [The Unknown](https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M) | 2:56 |
 
-Snapshot ID: `AAAYm+xeZOu/RyIwsouLNg0SpAQMoL8R`
+Snapshot ID: `AAAYnnLJgpottH3ZAC0jlEdp3IYxq0G/`

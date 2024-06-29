@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-436 songs - 1 day 1 hr 41 min
+437 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Current](https://open.spotify.com/track/1pOMyqOEI7dSDWuLFbu6Na) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Jack Howard](https://open.spotify.com/artist/4HSvWWbFUwMhNCCxPeFAtR) | [Current](https://open.spotify.com/album/6XxJvm6Bct3nwwNo9Df6Xq) | 2:21 | 2024-03-29 |  |
 | [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 | 2023-02-02 |
 | [Dance](https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U) | [Numb Tongues](https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7), [Alexandra Willett](https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX) | [Dance](https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06) | 4:25 | 2022-05-13 | 2022-07-16 |
+| [Dance 'N Forget](https://open.spotify.com/track/1LHWhmfgWC2sU9iewXd0cz) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dance 'N Forget](https://open.spotify.com/album/5oEANUbXBprnhPnc1yekXP) | 3:20 | 2024-06-28 |  |
 | [Dance All Night](https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [J.Ar.J](https://open.spotify.com/artist/5j0ebhCPgteJolbpJ7pI6A) | [Dance All Night](https://open.spotify.com/album/4Sa2qY3zA0oUKRVuXA6WJe) | 3:07 | 2023-09-22 |  |
 | [Dancing Through the Night](https://open.spotify.com/track/3dcqOn4XpWWTsvaSrTTvhl) | [Vlade Kay](https://open.spotify.com/artist/1yDN7vHPBnAbYFpS25DTWV) | [Dancing Through the Night](https://open.spotify.com/album/28FcNigpOpZjXqhbWW4A0N) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
@@ -207,7 +208,7 @@
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-09 | 2022-11-05 |
 | [It Feels Good To Write A Song](https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [It Feels Good To Write A Song](https://open.spotify.com/album/6Tn91A0aDiM5tHmgEG4Nai) | 2:58 | 2024-04-26 |  |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-29 |
-| [It's Just Love](https://open.spotify.com/track/10b2ljBujXdAeAIWnronO1) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [It's Just Love](https://open.spotify.com/album/3xCDN0KPhUxwE5j9fLts0G) | 3:56 | 2024-04-19 |  |
+| [It's Just Love](https://open.spotify.com/track/10b2ljBujXdAeAIWnronO1) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [It's Just Love](https://open.spotify.com/album/3xCDN0KPhUxwE5j9fLts0G) | 3:56 | 2024-04-19 | 2024-06-29 |
 | [I’m Tight](https://open.spotify.com/track/6GHf5R3t8dmNid0oPB4yUM) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 7:00 | 2023-02-03 | 2023-03-25 |
 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-26 | 2022-10-18 |
 | [J.A.M\. \(Just A Minute\)](https://open.spotify.com/track/7eEo7A0Kw7xAQJLLh3WdKq) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [J.A.M\. \(Just A Minute\)](https://open.spotify.com/album/7umzCfogCGrZbYgTYqc2vh) | 3:31 | 2022-04-22 | 2023-05-24 |

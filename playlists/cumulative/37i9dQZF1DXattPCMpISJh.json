@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2pH3M9jjYrEGYIvFiouJ6A"
+      },
+      "artists": [
+        {
+          "name": "Loren Allred",
+          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224905,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/0THqo8t9diPsxUzJaRMuAH"
+    },
+    {
+      "album": {
         "name": "Conversation Starter",
         "url": "https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW"
       },

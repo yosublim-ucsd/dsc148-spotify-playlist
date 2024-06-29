@@ -4,10 +4,11 @@
 
 > if you could see 'em now, you'd be proud
 
-297 songs - 17 hr 53 min
+298 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10\-90](https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [10\-90](https://open.spotify.com/album/1VoIOXWCxq2cWeXZbze0Ej) | 3:21 | 2024-06-28 |  |
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2023-11-10 | 2024-04-08 |
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2023-02-24 |  |
 | [23](https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Bad For Me](https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY) | 3:48 | 2024-04-05 | 2024-04-19 |
@@ -175,7 +176,7 @@
 | [Miner Imperfections](https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 4:36 | 2023-09-22 | 2023-12-09 |
 | [Mississippi](https://open.spotify.com/track/1WAgbIFKH1ruetQ3PKUlxi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Mississippi](https://open.spotify.com/album/2ZYYocRhZtuJB2DmRplEIN) | 3:47 | 2023-03-31 | 2023-08-21 |
 | [Mockingbird](https://open.spotify.com/track/6JWgq21TmyArFEk78TvgqV) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Low Gap](https://open.spotify.com/album/1sXcs3y9hiX6aZjzQyAsjx) | 3:28 | 2023-03-03 | 2023-06-17 |
-| [Momma's Been Hurting](https://open.spotify.com/track/5jYYyF4kcfTRKikJW6dwry) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Hymnal Of A Troubled Man's Mind](https://open.spotify.com/album/1KLdQzh3fI4G7b00lbnOpB) | 3:43 | 2024-04-12 |  |
+| [Momma's Been Hurting](https://open.spotify.com/track/5jYYyF4kcfTRKikJW6dwry) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Hymnal Of A Troubled Man's Mind](https://open.spotify.com/album/1KLdQzh3fI4G7b00lbnOpB) | 3:43 | 2024-04-12 | 2024-06-29 |
 | [More Than A Night](https://open.spotify.com/track/0Qgf8nGU2B8cfulKlt5T4p) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [More Than A Night](https://open.spotify.com/album/3StMprmUcvogSDIJytWOFD) | 4:07 | 2024-03-13 |  |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:43 | 2024-01-26 | 2024-04-19 |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 | 2023-09-29 |  |

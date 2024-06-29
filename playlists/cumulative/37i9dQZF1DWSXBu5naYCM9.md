@@ -2,7 +2,7 @@
 
 ### [A Perfect Day](https://open.spotify.com/playlist/37i9dQZF1DWSXBu5naYCM9)
 
-> Timeless melodies from your favourite artists, both old and new.
+> Timeless melodies from your favourite artists, both old and new\. Cover: Olivia Dean
 
 276 songs - 15 hr 54 min
 

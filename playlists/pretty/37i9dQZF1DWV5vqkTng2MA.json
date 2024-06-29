@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 398346,
+  "num_followers": 398488,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Jackie and Wilson",
-      "url": "https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Staring at the Wall",
         "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 271257,
       "name": "Staring at the Wall",
       "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Jackie and Wilson",
+      "url": "https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Wait Til I Get Over",
         "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Fine and Mellow",
-      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Fine and Mellow",
+      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Hey Mama",
         "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 193386,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -843,38 +859,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "SEA/SONS",
-        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
-      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Real Contender",
         "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "SEA/SONS",
+        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
+      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
       },
       "artists": [
         {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
         }
       ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 293146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 236920,
       "name": "Southern Bells",
       "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 293146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Grace Love and the True Loves",
-        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
-      },
-      "artists": [
-        {
-          "name": "Grace Love and the True Loves",
-          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Nobody Sweeter",
-      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Grace Love and the True Loves",
+        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
+      },
+      "artists": [
+        {
+          "name": "Grace Love and the True Loves",
+          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Nobody Sweeter",
+      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Blind Ambition",
-        "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bastian",
-          "url": "https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND"
-        }
-      ],
-      "duration_ms": 231729,
-      "name": "Blind Ambition",
-      "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "The Token",
         "url": "https://open.spotify.com/album/6CbbtMBoX5MysfmEmzUNDx"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 244349,
       "name": "I Just Want Your Love",
       "url": "https://open.spotify.com/track/5OCDdu3NYsm3bCUK0KgrBe"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Blind Ambition",
+        "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bastian",
+          "url": "https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND"
+        }
+      ],
+      "duration_ms": 231729,
+      "name": "Blind Ambition",
+      "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+        "name": "Painted Image",
+        "url": "https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI"
       },
       "artists": [
         {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+          "name": "Liz Brasher",
+          "url": "https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
+      "duration_ms": 179506,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j"
     }
   ],
   "unique_name": "the new retro",

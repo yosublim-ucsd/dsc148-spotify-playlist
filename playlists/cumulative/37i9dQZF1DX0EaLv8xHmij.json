@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Major RD, Mago de Tarso",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Clara Lima",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180425,
       "name": "Fala De Mim",
       "url": "https://open.spotify.com/track/2g2WFLfg0r2X9KHebW31Ne"
@@ -3935,6 +3935,28 @@
     },
     {
       "album": {
+        "name": "Jersey Culture BR",
+        "url": "https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "Jersey Culture BR",
+      "url": "https://open.spotify.com/track/4JDLzoBc8uxuGgK0scCksH"
+    },
+    {
+      "album": {
         "name": "Jhony Convida #7 - Preto$",
         "url": "https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q"
       },
@@ -4102,7 +4124,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 126040,
       "name": "LEI DA RUA",
       "url": "https://open.spotify.com/track/6DlhQZ3WLULs9Zi8woAxak"
@@ -4978,7 +5000,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 221569,
       "name": "Nas Ruas de BH",
       "url": "https://open.spotify.com/track/0YmsS7zUMslIsIg9NxHrGu"
@@ -5294,6 +5316,24 @@
       "duration_ms": 207976,
       "name": "Os Pitbull do Ano, Pt. 2",
       "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
+    },
+    {
+      "album": {
+        "name": "OXXO",
+        "url": "https://open.spotify.com/album/2Zx44g3te0T7Sr3b3FXPu4"
+      },
+      "artists": [
+        {
+          "name": "Sena Mc",
+          "url": "https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155390,
+      "name": "OXXO",
+      "url": "https://open.spotify.com/track/0BAvcQVBhHMXJ4jpIKGy4E"
     },
     {
       "album": {
@@ -7550,6 +7590,24 @@
       "duration_ms": 152571,
       "name": "Vida Bandida",
       "url": "https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7"
+    },
+    {
+      "album": {
+        "name": "Vila Tolstoi II",
+        "url": "https://open.spotify.com/album/2QxUMlsHyE8nie7xGVlttp"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182648,
+      "name": "Vila Tolstoi II",
+      "url": "https://open.spotify.com/track/0Sl5JHRCF4mmJZjkBELSkC"
     },
     {
       "album": {

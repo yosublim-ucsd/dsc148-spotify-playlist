@@ -4,7 +4,7 @@
 
 > btrem artilheira nata e as de raça
 
-246 songs - 11 hr 45 min
+247 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [FAZER FUMAÇA](https://open.spotify.com/track/5KwhSHxqmnqkDPTTu0u9KI) | [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h), [Zaila](https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj), [PAMKA](https://open.spotify.com/artist/44o40pO8zTEBCLDtbt6kdE) | [FAZER FUMAÇA](https://open.spotify.com/album/6XtOUkBeAeEEtFnNooZe0E) | 4:05 | 2023-10-13 | 2023-11-11 |
 | [Filhas do Improvável](https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Filhas do Improvável](https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1) | 3:37 | 2023-01-13 | 2023-07-29 |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:16 | 2022-03-11 | 2022-04-16 |
-| [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-11 |  |
+| [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-11 | 2024-06-29 |
 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 | 2023-03-31 | 2023-08-19 |
 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 | 2022-08-26 | 2023-01-28 |
 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2022-03-11 | 2022-07-09 |
@@ -222,6 +222,7 @@
 | [Sobrevivi](https://open.spotify.com/track/3zFZxwjqQPYioTjcu18kAE) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [BadBabi](https://open.spotify.com/artist/60NNeMFMmPkwbBTmy7FGlh) | [Sobrevivi](https://open.spotify.com/album/6Mklnvkx0O7tceqISPMd6h) | 2:29 | 2023-09-15 | 2023-10-28 |
 | [Sofa, Breja e Netflix](https://open.spotify.com/track/6eIZaT9qNz9lVrhWbJOWls) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 3:04 | 2022-03-11 | 2023-09-02 |
 | [Sou + As Negras](https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Sou + As Negras](https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg) | 2:41 | 2023-07-28 |  |
+| [Sou Eu Mesma](https://open.spotify.com/track/0jBkw14sG2bbWaAWt95INe) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sou Eu Mesma](https://open.spotify.com/album/3XrbOjWQ3dRDGAynXACRAP) | 1:36 | 2024-06-28 |  |
 | [Splash](https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Splash](https://open.spotify.com/album/4SWhKicqhmRaAICmYGfzsM) | 2:48 | 2023-12-29 |  |
 | [Start](https://open.spotify.com/track/1Ypz913IjKppWK1hxAIj9f) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Cravo & Rosa](https://open.spotify.com/artist/7CZY4fkg3glgemUoc8fOcJ) | [Quartzo](https://open.spotify.com/album/3go0N6khdsiwn2msqeBno6) | 3:16 | 2022-03-11 | 2022-04-16 |
 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 | 2023-07-28 | 2023-08-19 |

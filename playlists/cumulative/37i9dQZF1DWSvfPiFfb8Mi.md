@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-297 songs - 19 hr 54 min
+298 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [NYC Dirty Talks](https://open.spotify.com/track/0y7OfSu7FZSJViYvRKigzl) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/24n2ljrMMv2UHYVlibcInw) | 6:23 | 2021-07-24 | 2022-07-29 |
 | [NYC Dirty Talks](https://open.spotify.com/track/4pf4aRWUDzJTHacddS3e25) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/4s2kxIRXTtf2Fu4oyh4Lqa) | 6:23 | 2022-06-20 | 2023-05-20 |
 | [NYC Dirty Talks \- Original Mix](https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [This Is House, Vol\. 1](https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji) | 6:23 | 2022-06-20 | 2022-11-13 |
+| [Olé Maca](https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca \- Single](https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na) | 2:37 | 2024-06-28 |  |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
 | [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 | 2024-03-15 |  |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-25 | 2024-04-19 |
@@ -252,7 +253,7 @@
 | [Somethin Bout You \(feat\. Betsy\)](https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Somethin Bout You \(feat\. Betsy\)](https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy) | 3:35 | 2024-06-07 |  |
 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 | 2024-04-19 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-08 | 2024-04-19 |
-| [Soulsearcher](https://open.spotify.com/track/0ygPVwsl15vlyfAJNE28mj) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Better Will Come](https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv) | 4:08 | 2024-05-10 |  |
+| [Soulsearcher](https://open.spotify.com/track/0ygPVwsl15vlyfAJNE28mj) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Better Will Come](https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv) | 4:08 | 2024-05-10 | 2024-06-29 |
 | [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 | 2024-04-19 |  |
 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 | 2022-06-20 | 2023-05-20 |
 | [Spice Run](https://open.spotify.com/track/1TkJTS4V23IjVDUxaMWhyf) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/39FVH5JgmFDDGxkF99QsIL) | 5:49 | 2021-07-24 | 2022-07-29 |

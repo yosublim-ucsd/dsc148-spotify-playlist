@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: X
 
-1,900 songs - 3 day 22 hr 41 min
+1,901 songs - 3 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Evil Twin](https://open.spotify.com/track/7eueP1kgHVo1M9XVkyojq3) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL), [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Evil Twin](https://open.spotify.com/album/12IeUWvVfR2UWkhMKtDCLr) | 2:55 | 2024-05-09 | 2024-06-21 |
 | [Expendables](https://open.spotify.com/track/6P1uUvOD9m6uoyblKlRK28) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw) | 2:18 | 2023-01-27 | 2023-03-25 |
 | [Expired Plastic](https://open.spotify.com/track/65RTPMaArggsAKg1WTL0Zn) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Expired Plastic](https://open.spotify.com/album/36AbQ3pQJDuoaDtRovRpnS) | 3:10 | 2024-01-19 | 2024-03-01 |
+| [exposed](https://open.spotify.com/track/0ORsUqaBFcGfAQSvyUvC35) | [braveweather](https://open.spotify.com/artist/3Yd3FEjDFcsz18WpgupkwD), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [exposed](https://open.spotify.com/album/7cSgymMF8HrFfq9eeeA8TI) | 2:47 | 2024-06-27 |  |
 | [Eye Contact](https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Eye Contact](https://open.spotify.com/album/5ILzLXOOptC2YRhsurHYh9) | 3:00 | 2024-03-22 | 2024-05-24 |
 | [Eyes 2 Skies](https://open.spotify.com/track/6fcurY8hZ8L4HCZ9wO2QQn) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [SHADOWKASTERS](https://open.spotify.com/album/4tSFurcv1D0quOCoMSMJkO) | 4:02 | 2023-05-11 | 2023-07-07 |
 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 | 2023-02-03 | 2023-03-31 |

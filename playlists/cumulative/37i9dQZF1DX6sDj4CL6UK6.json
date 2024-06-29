@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 187666,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd"
@@ -3011,6 +3011,32 @@
     },
     {
       "album": {
+        "name": "lightyears (From \"Chamkillah\")",
+        "url": "https://open.spotify.com/album/4ODCn2s6nWxyvwnI0hgR7E"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "Da Fyer",
+          "url": "https://open.spotify.com/artist/18wS0yJG5tpXkDb5quSohl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241472,
+      "name": "lightyears - From \"Chamkillah\"",
+      "url": "https://open.spotify.com/track/2IBnhECscjHvgc6DNtzGJd"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4ImMgCnB7WBWFdCvBKoB7v"
       },
@@ -3026,6 +3052,24 @@
       "duration_ms": 157373,
       "name": "Little Fingers",
       "url": "https://open.spotify.com/track/34wxmkF4y0BEimKcFnr0Mb"
+    },
+    {
+      "album": {
+        "name": "Long To Be",
+        "url": "https://open.spotify.com/album/08nya3WQcReGtynYWaH7Tu"
+      },
+      "artists": [
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270886,
+      "name": "Long To Be",
+      "url": "https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl"
     },
     {
       "album": {
@@ -3326,7 +3370,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 223920,
       "name": "Mango Showers",
       "url": "https://open.spotify.com/track/2TNd3JXmvnnn4ueq8v90mG"

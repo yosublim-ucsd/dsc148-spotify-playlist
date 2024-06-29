@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 231397,
       "name": "18",
       "url": "https://open.spotify.com/track/3QeUJezWTKjbkM4PegVqsg"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 156805,
       "name": "As\u00ed Yo Soy",
       "url": "https://open.spotify.com/track/44hgg7sz7vGRMLAUFhhWNF"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185230,
       "name": "Calumnia",
       "url": "https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 162545,
       "name": "Donde Hubo Fuego",
       "url": "https://open.spotify.com/track/29TVxzHPtlANh40yHsEkYB"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
@@ -3580,7 +3580,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 213892,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/0awFFNXz16071v0bVTFOJi"
@@ -3948,7 +3948,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 174773,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/7aw6eLZJluqUUgHIjGjooc"
@@ -4663,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Lunares",
+        "url": "https://open.spotify.com/album/0McuKHUWKpDgsQ0aPWyX3q"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204649,
+      "name": "Lunares",
+      "url": "https://open.spotify.com/track/0OdQrlMbboMbp4Rdcl7nlD"
+    },
+    {
+      "album": {
         "name": "Lunes, Martes, Miercoles",
         "url": "https://open.spotify.com/album/3BFGSzESoniW4P9HI8Fsau"
       },
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198390,
       "name": "Mal Necesario - Version Salsa",
       "url": "https://open.spotify.com/track/0IeKgsW4KsfWQvYohdOPVS"
@@ -7324,7 +7342,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 151553,
       "name": "Shein",
       "url": "https://open.spotify.com/track/6DcW64MEKAUX0jzE26hxdv"
@@ -7426,6 +7444,24 @@
       "duration_ms": 225260,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/0tz0qWCPcibn4ZAICo2ecR"
+    },
+    {
+      "album": {
+        "name": "Si Quieres Volver",
+        "url": "https://open.spotify.com/album/6Kfd61Rx2CmMlzeEGO1GuD"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Si Quieres Volver",
+      "url": "https://open.spotify.com/track/4UYgNUNHJPGIBUyDornbcp"
     },
     {
       "album": {
@@ -8236,6 +8272,32 @@
       "duration_ms": 191727,
       "name": "Tu No Eres un Angel",
       "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
+    },
+    {
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210965,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG"
     },
     {
       "album": {

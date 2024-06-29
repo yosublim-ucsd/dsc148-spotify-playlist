@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180166,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv"
+    },
+    {
+      "album": {
         "name": "Colourblind",
         "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
       },
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Life's Gonna Change",
+        "url": "https://open.spotify.com/album/3LYeXzEsOlwUmitzzjGNU0"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "Life's Gonna Change",
+      "url": "https://open.spotify.com/track/4U4UGlmJGQqXMkzKq2dum3"
+    },
+    {
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6"
       },
@@ -2579,7 +2615,7 @@
       "artists": [
         {
           "name": "VASSY",
-          "url": "https://open.spotify.com/artist/28FsftFy41U4DM8q7ijvWS"
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
         }
       ],
       "date_added": "2024-01-05",

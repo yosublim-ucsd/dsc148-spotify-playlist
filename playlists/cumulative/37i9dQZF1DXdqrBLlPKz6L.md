@@ -2,9 +2,9 @@
 
 ### [Trapperz Andinos](https://open.spotify.com/playlist/37i9dQZF1DXdqrBLlPKz6L)
 
-> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kei Linch
+> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Andy Rivera, Pirlo
 
-107 songs - 5 hr 51 min
+108 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,11 +68,12 @@
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2021-10-15 | 2022-04-09 |
 | [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 | 2023-12-22 | 2024-05-25 |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-10-15 |  |
+| [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 | 2024-06-28 |  |
 | [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 | 2022-08-19 | 2023-03-25 |
 | [Los Negritos II](https://open.spotify.com/track/26NyY7vQeWoP4wtVoEB9u1) | [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Oliver Outc](https://open.spotify.com/artist/4ZK8wO3w5bwhtX0XtUjgWw) | [Los Negritos II](https://open.spotify.com/album/1B1jKCRab5fXBJlZPwgWGQ) | 2:09 | 2023-02-10 | 2023-03-25 |
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-10-15 |  |
 | [Macaroni](https://open.spotify.com/track/1fvectJae9RagHJqiOHNrl) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Macaroni](https://open.spotify.com/album/4p33iikBxMotuZjXAzRAla) | 2:48 | 2021-10-15 | 2022-08-20 |
-| [Makin Noi](https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Makin Noi](https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs) | 2:42 | 2024-01-12 |  |
+| [Makin Noi](https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Makin Noi](https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs) | 2:42 | 2024-01-12 | 2024-06-29 |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-01-28 |  |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 |  |

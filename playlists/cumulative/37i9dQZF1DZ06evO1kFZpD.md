@@ -2,7 +2,7 @@
 
 ### [This Is Raveena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kFZpD)
 
-> This is: Raveena\. Alle wichtigen Tracks in einer Playlist.
+> This is Raveena\. The essential tracks, all in one playlist.
 
 43 songs - 2 hr 38 min
 

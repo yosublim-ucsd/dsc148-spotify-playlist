@@ -1,13 +1,101 @@
 {
-  "description": "Genre-less. Quality first always. Cover: JPEGMAFIA",
-  "num_followers": 1327565,
+  "description": "Genre-less. Quality first always. Cover: James Blake & Lil Yachty",
+  "num_followers": 1327532,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnlvogAAAAC1kVzvflF4Ln4c3v7gFDyg",
+  "snapshot_id": "Zn6+LQAAAAAAzYQSV0xYj/8P9ERjShaf",
   "tracks": [
+    {
+      "added_at": "2024-06-28 13:44:13",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
+    },
+    {
+      "added_at": "2024-06-28 13:44:13",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 219051,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S"
+    },
+    {
+      "added_at": "2024-06-28 13:44:13",
+      "album": {
+        "name": "WHEW LAWD",
+        "url": "https://open.spotify.com/album/6ILknYWa6Y3WOPCLQt1Pw4"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 93409,
+      "name": "WHEW LAWD",
+      "url": "https://open.spotify.com/track/2nbTq1JQ1CrteXxYF4JAGR"
+    },
+    {
+      "added_at": "2024-06-24 13:07:46",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 182761,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
+    },
+    {
+      "added_at": "2024-06-28 13:44:13",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/2nm47sRDJ27ZxOnMk27GP1"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 182357,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/0mrawlgSrnmAoGxc8uG1mI"
+    },
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
@@ -31,18 +119,34 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
       },
       "artists": [
         {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 182761,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "added_at": "2024-06-28 13:44:13",
+      "album": {
+        "name": "CHROMA 004",
+        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 289054,
+      "name": "CHROMA 004 ROLA",
+      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -139,22 +243,6 @@
       "duration_ms": 172857,
       "name": "Cows Come Home",
       "url": "https://open.spotify.com/track/7D7XVolNtIMUZbJdf76BwY"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -259,18 +347,18 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "The Go Down",
-        "url": "https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH"
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
       },
       "artists": [
         {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 130243,
-      "name": "The Go Down",
-      "url": "https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh"
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -289,10 +377,10 @@
       "url": "https://open.spotify.com/track/7zA31bgrzPaDXbmrKViL9b"
     },
     {
-      "added_at": "2024-06-24 13:07:46",
+      "added_at": "2024-06-28 13:44:13",
       "album": {
         "name": "ok :)",
-        "url": "https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR"
+        "url": "https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a"
       },
       "artists": [
         {
@@ -302,7 +390,7 @@
       ],
       "duration_ms": 209327,
       "name": "ok :)",
-      "url": "https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt"
+      "url": "https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -319,22 +407,6 @@
       "duration_ms": 179160,
       "name": "Grey Scale",
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1099,22 +1171,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "We Got This",
-        "url": "https://open.spotify.com/album/6cOUXAvS2le4C9kJclZwTe"
-      },
-      "artists": [
-        {
-          "name": "\u232d IceMorph \u232c",
-          "url": "https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "We Got This",
-      "url": "https://open.spotify.com/track/3t0ZToA8zfqVD2vDIbmiKm"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "Pluto",
         "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
       },
@@ -1147,66 +1203,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Limosina",
-        "url": "https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        }
-      ],
-      "duration_ms": 123901,
-      "name": "Limosina",
-      "url": "https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Motorola Money",
-        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 110738,
-      "name": "Motorola Money",
-      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "#RICHAXXHAITIAN",
-        "url": "https://open.spotify.com/album/1ieee5ixJ8UZUyVAlPk6QQ"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "#RICHAXXHAITIAN",
-      "url": "https://open.spotify.com/track/5Jl0mQEHMn82Ed0SBuEdu8"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "Ten Fold",
         "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
       },
@@ -1219,22 +1215,6 @@
       "duration_ms": 139304,
       "name": "career day",
       "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 275892,
-      "name": "Heartache",
-      "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1271,22 +1251,6 @@
       "duration_ms": 161034,
       "name": "React",
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "pony",
-        "url": "https://open.spotify.com/album/6VzCmx6K5ODhFNmJK9yvrY"
-      },
-      "artists": [
-        {
-          "name": "Deem Spencer",
-          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "pony",
-      "url": "https://open.spotify.com/track/3QKvFAFOoKErRa4uSKv089"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1553,7 +1517,7 @@
         }
       ],
       "duration_ms": 223986,
-      "name": "Hell of A Ride",
+      "name": "Hell of a Ride",
       "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
     },
     {
@@ -1591,26 +1555,6 @@
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Moments Die",
-        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 246886,
-      "name": "Moments Die",
-      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1663,26 +1607,6 @@
       "duration_ms": 279170,
       "name": "A Dream Goes On Forever",
       "url": "https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 208741,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1807,42 +1731,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Desire, I Want To Turn Into You: Everasking Edition",
-        "url": "https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 233416,
-      "name": "Spring Is Coming With A Strawberry In The Mouth",
-      "url": "https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Pigeons & Planes presents: See You Next Year 2",
-        "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
-      },
-      "artists": [
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "Hamond",
-          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "I tried",
-      "url": "https://open.spotify.com/track/5GeaeN06huREyfkJS9G5pf"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "Hide (Bibio Rework)",
         "url": "https://open.spotify.com/album/30s41AsEU9rXsgAbjmEmez"
       },
@@ -1879,62 +1767,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/7cXfZiLW7cRc0Yc00FG1du"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/4nqlGW7mq3SAOLkz2LSJIh"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Mika's Laundry",
-        "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 132960,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/5TYo6eQvHe2AVIqskXxcss"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Don't Check 4 Me (feat. Duckwrth & Saba)",
-        "url": "https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks"
-      },
-      "artists": [
-        {
-          "name": "Nascent",
-          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 148846,
-      "name": "Don't Check 4 Me (feat. Duckwrth & Saba)",
-      "url": "https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
       },
@@ -1947,94 +1779,6 @@
       "duration_ms": 190413,
       "name": "AMAMA",
       "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Canopy",
-        "url": "https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H"
-      },
-      "artists": [
-        {
-          "name": "Jawnino",
-          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
-        },
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/19M16Pbk613BUHKwOEilfv"
-        }
-      ],
-      "duration_ms": 186550,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "AzChike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 113619,
-      "name": "Movie (feat. Az Chike)",
-      "url": "https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 239639,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     }
   ],
   "unique_name": "POLLEN",

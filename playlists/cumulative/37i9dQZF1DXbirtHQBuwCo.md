@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: BIG Naughty, MARK\(서동현, 마크\)\)
 
-711 songs - 1 day 14 hr 2 min
+712 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-31 | 2023-12-09 |
 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 | 2023-05-24 | 2023-06-02 |
 | [Do It For Love](https://open.spotify.com/track/3tC3R06TJCS4FIN7WD2cE8) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Do It For Love](https://open.spotify.com/album/5Lfj1q7yma8paab1MMk734) | 3:31 | 2022-06-03 | 2022-07-28 |
-| [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 |  |
+| [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 | 2024-06-29 |
 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 | 2022-05-02 | 2022-07-22 |
 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-04 |  |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-10-06 |  |
@@ -567,6 +567,7 @@
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-13 |  |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-05-28 | 2023-04-16 |
 | [smallthing](https://open.spotify.com/track/0ABgWfH4ksW7hZ7EQWN8Fh) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [smallthing](https://open.spotify.com/album/2BxNOiuS3YJVBwERBDpdgQ) | 2:19 | 2023-02-21 | 2023-02-25 |
+| [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 |  |
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-04 | 2022-07-08 |
 | [Smoke \(feat\. Def\. & Jomalxne\)](https://open.spotify.com/track/661IUMj6VrkniF60mSbA89) | [ØFFSHORE](https://open.spotify.com/artist/4D1yVc6ltwIZHxxNPBe552), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE) | [Scene \#2](https://open.spotify.com/album/7Hsohl8K1M7Gb8OFCIxB1R) | 3:00 | 2022-04-19 | 2022-04-21 |
 | [So Beautiful](https://open.spotify.com/track/3aPUPt18WCBy8pYAWn77Py) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So Beautiful](https://open.spotify.com/album/48T3diKnUEcNZKxM9PKKFZ) | 3:07 | 2022-04-19 | 2022-05-22 |

@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186187,
       "name": "Another",
       "url": "https://open.spotify.com/track/3e8RJKof3ohJkoEKChvH2F"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 318912,
       "name": "El Ritmo (La Noche) (Xinobi Remix)",
       "url": "https://open.spotify.com/track/5G8ucMkM4wsJzuvZLszfqx"
@@ -3784,6 +3784,24 @@
       "duration_ms": 536046,
       "name": "Embre",
       "url": "https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m"
+    },
+    {
+      "album": {
+        "name": "Arosa",
+        "url": "https://open.spotify.com/album/78bv4GVbkugDD0ztAhOte7"
+      },
+      "artists": [
+        {
+          "name": "Eli Fola",
+          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283283,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2xhTyUcIFHBBoEIAK7eLnW"
     },
     {
       "album": {
@@ -5215,6 +5233,28 @@
     },
     {
       "album": {
+        "name": "Hora",
+        "url": "https://open.spotify.com/album/3Pt08Ktn21fKD0IQLfO8RD"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Hora",
+      "url": "https://open.spotify.com/track/7LgqCZKYZsMwT5EJssYJ7D"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/72ZrMLaF4S1iUUCwXRuPWX"
       },
@@ -5685,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "Ihorere",
+        "url": "https://open.spotify.com/album/2VaXdbEP4A97q7RAszP3ew"
+      },
+      "artists": [
+        {
+          "name": "Roo (JO)",
+          "url": "https://open.spotify.com/artist/1MDcfE7XhDXPCyyZYW4WU0"
+        },
+        {
+          "name": "Starving Yet Full",
+          "url": "https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413709,
+      "name": "Ihorere",
+      "url": "https://open.spotify.com/track/2Y91ewDpHxmaWCEw4ysBkm"
+    },
+    {
+      "album": {
         "name": "Ikigai (Radio Edit)",
         "url": "https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt"
       },
@@ -5752,6 +5814,32 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
       "album": {
@@ -6062,7 +6150,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 232200,
       "name": "JOI",
       "url": "https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4"
@@ -7446,7 +7534,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 279272,
       "name": "Luminesce",
       "url": "https://open.spotify.com/track/0st9uOHm2Vw345UJKzdvRX"
@@ -7924,6 +8012,24 @@
       "duration_ms": 221784,
       "name": "Medieval - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1"
+    },
+    {
+      "album": {
+        "name": "Megatron EP",
+        "url": "https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359387,
+      "name": "Megatron",
+      "url": "https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU"
     },
     {
       "album": {
@@ -9966,7 +10072,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 257280,
       "name": "Paradise - Chambord Remix",
       "url": "https://open.spotify.com/track/5RzQkSgX1TjGUtnzgFOkzY"
@@ -10884,10 +10990,40 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 213339,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
+    },
+    {
+      "album": {
+        "name": "Richa",
+        "url": "https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242540,
+      "name": "Richa",
+      "url": "https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf"
     },
     {
       "album": {
@@ -12994,7 +13130,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 419480,
       "name": "Together We Stand - Chambord Remix",
       "url": "https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF"
@@ -14128,6 +14264,28 @@
       "duration_ms": 479920,
       "name": "Whistleman",
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
+    },
+    {
+      "album": {
+        "name": "Who Loves The Sun (Everyone\u2019s Mix)",
+        "url": "https://open.spotify.com/album/6gdeYIO69NaDeknC1iMDhU"
+      },
+      "artists": [
+        {
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
+        },
+        {
+          "name": "Jake Hall",
+          "url": "https://open.spotify.com/artist/2hvUra1NGNTJA4ArvSBJLz"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231989,
+      "name": "Who Loves The Sun - (Everyone\u2019s Mix)",
+      "url": "https://open.spotify.com/track/2app5d9EcNuXOyYV6s25mg"
     },
     {
       "album": {

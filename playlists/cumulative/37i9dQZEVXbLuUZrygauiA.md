@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,037 songs - 4 day 13 hr 45 min
+2,038 songs - 4 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 | 2023-10-10 | 2023-10-29 |
 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 | 2024-04-30 | 2024-05-08 |
 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 | 2022-11-30 | 2022-12-02 |
+| [Cuando Se Te Moja La Tare](https://open.spotify.com/track/00EVTGFVlGQ5ZNmiUvR2H8) | [LDRR](https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU) | [Cuando Se Te Moja La Tare](https://open.spotify.com/album/1yFMpxt43h5giRPJka6VS8) | 3:11 | 2024-06-28 |  |
 | [Cuerno Asulado](https://open.spotify.com/track/5IZMJKA7ODhc0qoyBZMpc1) | [Alex Tumbado](https://open.spotify.com/artist/5ZBnyLELHoCxkxVFBBSYUh) | [Cuerno Asulado](https://open.spotify.com/album/2JlHIHXNSxTJVkW97NqyHL) | 2:45 | 2023-08-25 | 2023-08-30 |
 | [Cuerno Asulado \- Marcogta Music Remix](https://open.spotify.com/track/342YTjxByX0g6p1PDZqhMF) | [Anthonyo Montana](https://open.spotify.com/artist/1yDVPjPLcpOwN95AjuMrRJ), [Marcogta Music](https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR) | [Cuerno Asulado \(Marcogta Music Remix\)](https://open.spotify.com/album/3zveLzfqZ0XY24YyCEjm7f) | 2:35 | 2023-07-25 | 2023-07-29 |
 | [Cuerno Asulao](https://open.spotify.com/track/4KjtNOBTdwOVeQ6OczDj2M) | [Marcogta Music](https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR) | [Cuerno Asulao](https://open.spotify.com/album/5YtmKDRWi1vzn5QZ52943N) | 2:34 | 2023-07-28 | 2023-08-03 |
@@ -1608,7 +1609,7 @@
 | [Shut Up and Listen](https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc) | 4:03 | 2022-08-05 | 2022-08-14 |
 | [Shut Up and Listen](https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/6ESObhLkBvTh4CXm9wMdwQ) | 4:03 | 2022-08-13 | 2022-08-22 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-09-22 | 2022-10-01 |
-| [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 | 2024-06-21 |  |
+| [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 | 2024-06-21 | 2024-06-29 |
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-06-21 | 2022-08-01 |
 | [Si La Mami](https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Brand Randall](https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL) | [Si La Mami](https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c) | 2:56 | 2024-04-02 | 2024-04-12 |
 | [Si los Niños Gobernaran al Mundo](https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Para los Peques](https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o) | 2:11 | 2023-03-31 | 2023-04-03 |

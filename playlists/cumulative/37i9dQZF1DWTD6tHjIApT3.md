@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 鈴木真海子 \(Mamiko Suzuki\)
 
-2,521 songs - 6 day 17 hr 48 min
+2,522 songs - 6 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1548,7 +1548,7 @@
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-07-28 | 2023-09-01 |
 | [じょいふる](https://open.spotify.com/track/4EL6O0lWAKAmjc4RVxf635) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [じょいふる](https://open.spotify.com/album/7e10l7QJBwrAk92jOn0naW) | 2:56 | 2024-02-13 | 2024-02-21 |
 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2022-09-29 |  |
-| [すないぱー。](https://open.spotify.com/track/0taluMnYokviw9ujgOslXV) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [すないぱー。](https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp) | 3:25 | 2024-04-23 |  |
+| [すないぱー。](https://open.spotify.com/track/0taluMnYokviw9ujgOslXV) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [すないぱー。](https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp) | 3:25 | 2024-04-23 | 2024-06-29 |
 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 | 2023-11-02 | 2024-01-30 |
 | [ずっと](https://open.spotify.com/track/49JLGVj2xrkrJhpLZL24s2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 4:14 | 2023-05-30 | 2023-06-14 |
 | [ずっとそばで見守っているよ](https://open.spotify.com/track/2hRL9QgUZsAUiARFRLL3WZ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [オールライト](https://open.spotify.com/album/7Hirw8RFBkBw1MGwnQxNOz) | 3:59 | 2022-09-08 | 2022-09-15 |
@@ -2418,6 +2418,7 @@
 | [花束](https://open.spotify.com/track/1m7OwPrxJ7JwMg13KHs5QG) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [10th Anniversary Best](https://open.spotify.com/album/0QiLutk3Pscww7wJ6valwh) | 3:49 | 2022-05-31 | 2022-07-08 |
 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 | 2022-05-31 | 2023-02-18 |
 | [花雨](https://open.spotify.com/track/1LER8HqjV97yTkwE319KCJ) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [花雨](https://open.spotify.com/album/45nxRDg99QvBzeNn0BWg0S) | 3:46 | 2022-05-31 | 2022-07-22 |
+| [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 | 2024-06-25 |  |
 | [茜色の約束](https://open.spotify.com/track/188xZfCBPMT2ZOAHLf8rTC) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [茜色の約束](https://open.spotify.com/album/647EA5ELt0wI3DKXE58Tvq) | 5:00 | 2024-02-13 | 2024-02-15 |
 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-11-28 | 2024-01-31 |
 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 | 2023-01-17 | 2023-08-31 |

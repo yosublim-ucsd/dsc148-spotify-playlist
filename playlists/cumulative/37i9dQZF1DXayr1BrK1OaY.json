@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 351032,
       "name": "Always Ascending",
       "url": "https://open.spotify.com/track/4CSj193EuM6fwM7n6tO15G"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 333772,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194392,
+      "name": "Better Alone",
+      "url": "https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/1Q2Pcq3RR5ZFtaYUbS5Qub"
       },
@@ -692,6 +710,28 @@
       "duration_ms": 204346,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/01KaVHhy0tzsHoeWUdHtUp"
+    },
+    {
+      "album": {
+        "name": "better off",
+        "url": "https://open.spotify.com/album/5drwxFFxlPrea3j1ZQXxkl"
+      },
+      "artists": [
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290322,
+      "name": "better off",
+      "url": "https://open.spotify.com/track/6IfQgvL7w7Pc8oTG4rz0Q6"
     },
     {
       "album": {
@@ -1074,7 +1114,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 156659,
       "name": "Can't Love Myself (feat. Mishaal & LPW)",
       "url": "https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx"
@@ -1114,7 +1154,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 207012,
       "name": "Change This Pain For Ecstasy",
       "url": "https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53"
@@ -1288,6 +1328,24 @@
       "duration_ms": 170511,
       "name": "Crossed Our Hearts",
       "url": "https://open.spotify.com/track/6ZI7dfjX2IlxaXsFw5LIdf"
+    },
+    {
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Cruel Heart",
+      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
     },
     {
       "album": {
@@ -1934,7 +1992,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166136,
       "name": "Gallery",
       "url": "https://open.spotify.com/track/6kxu0ldmBRCw6TBiFAUtYh"
@@ -2084,7 +2142,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
@@ -2360,7 +2418,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 241040,
       "name": "Heavy With Hoping",
       "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
@@ -2582,7 +2640,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
@@ -2728,7 +2786,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 202995,
       "name": "I Forgot What's Love",
       "url": "https://open.spotify.com/track/6ieN3wcNaehATjOSz2V4Aj"
@@ -2885,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "I'll Come Your Way",
+        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "I'll Come Your Way",
+      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
+    },
+    {
+      "album": {
         "name": "I'm Fine",
         "url": "https://open.spotify.com/album/49WnEBeYHobCEcwk68JgbD"
       },
@@ -2918,6 +2994,50 @@
       "duration_ms": 176680,
       "name": "i'm hurting ! (deja-vu..)",
       "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
+    },
+    {
+      "album": {
+        "name": "idwtwya",
+        "url": "https://open.spotify.com/album/6FDMavTlbAF69v2L8jEvbj"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192685,
+      "name": "idwtwya",
+      "url": "https://open.spotify.com/track/0xYF2Wq1PPIPG0hhNPOcef"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
       "album": {
@@ -3026,7 +3146,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 158550,
       "name": "Is It Love - goddard. Remix",
       "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
@@ -4233,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "not sorry",
+        "url": "https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190113,
+      "name": "not sorry",
+      "url": "https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR"
+    },
+    {
+      "album": {
         "name": "Nothing Feels The Same",
         "url": "https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o"
       },
@@ -4400,7 +4538,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 206222,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
@@ -4594,6 +4732,24 @@
       "duration_ms": 199071,
       "name": "Pain Away - Atura Remix",
       "url": "https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL"
+    },
+    {
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/053hffrVHJMAF68VRoQwXY"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182658,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5NUVTH9lPD05WyuSGGm3cW"
     },
     {
       "album": {
@@ -4841,6 +4997,50 @@
     },
     {
       "album": {
+        "name": "Ready (feat. Art School Girlfriend)",
+        "url": "https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227625,
+      "name": "Ready (feat. Art School Girlfriend)",
+      "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
+    },
+    {
+      "album": {
+        "name": "is this real?",
+        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "real 4 me",
+      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
+    },
+    {
+      "album": {
         "name": "Real Groove (Studio 2054 Remix)",
         "url": "https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm"
       },
@@ -4900,7 +5100,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 193422,
       "name": "Release",
       "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
@@ -5156,7 +5356,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 197169,
       "name": "Save Our Ship (SOS)",
       "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
@@ -5254,7 +5454,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182706,
       "name": "searching",
       "url": "https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX"
@@ -5356,7 +5556,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 158170,
       "name": "Shiny New Thing",
       "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
@@ -5410,7 +5610,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
@@ -5834,7 +6034,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 207787,
       "name": "Surrender To The Feeling",
       "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
@@ -5896,7 +6096,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
@@ -5962,7 +6162,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
@@ -6216,7 +6416,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "THERE 4 U",
       "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
@@ -6336,6 +6536,24 @@
       "duration_ms": 221160,
       "name": "Toi et moi",
       "url": "https://open.spotify.com/track/5yzlBpUNflMjcwAryoo2zJ"
+    },
+    {
+      "album": {
+        "name": "Too Many Questions",
+        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Too Many Questions",
+      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
     },
     {
       "album": {
@@ -6601,6 +6819,24 @@
     },
     {
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
+    },
+    {
+      "album": {
         "name": "Wasted (Yuto. Remix)",
         "url": "https://open.spotify.com/album/1YqzhK5sQPLl6OylOC4yyv"
       },
@@ -6642,7 +6878,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 166917,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA"
@@ -6836,7 +7072,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"

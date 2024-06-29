@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mi Amigo Invencible.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: planta.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 203470,
       "name": "Acuerdo",
       "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+    },
+    {
+      "album": {
+        "name": "Adolescer",
+        "url": "https://open.spotify.com/album/1J1ByOgpro06hpyYdrB0hv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194077,
+      "name": "Adolescer",
+      "url": "https://open.spotify.com/track/5CDvD0HVdQibxeuQwAVWaq"
     },
     {
       "album": {
@@ -1868,6 +1886,24 @@
       "duration_ms": 206515,
       "name": "Ir derecho",
       "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
+    },
+    {
+      "album": {
+        "name": "la barrera",
+        "url": "https://open.spotify.com/album/403S7pC3epOSAZsi8iccLH"
+      },
+      "artists": [
+        {
+          "name": "planta",
+          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "la barrera",
+      "url": "https://open.spotify.com/track/7MTx6v0rWL7SNGmUgZGXcD"
     },
     {
       "album": {
@@ -3762,7 +3798,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 212800,
       "name": "tu mejor pesadilla",
       "url": "https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe"

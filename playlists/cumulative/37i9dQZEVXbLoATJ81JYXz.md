@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,933 songs - 4 day 3 hr 55 min
+1,935 songs - 4 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,6 +850,7 @@
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-21 | 2024-04-14 |
 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 | 2023-03-17 | 2023-04-02 |
 | [Ingen annan rör mig som du](https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Ingen annan rör mig som du](https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a) | 3:37 | 2022-10-24 | 2023-02-26 |
+| [Ingen annan rör mig som du](https://open.spotify.com/track/1Vo4peT3VmtdLVtw1s65Cm) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Alla våra låtar](https://open.spotify.com/album/5b5XejIUMfXNmUc19qSQa7) | 3:09 | 2024-06-28 |  |
 | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/track/1pLglW5mDscxmbo32uaf3U) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/album/3wiC6E5VBDno4edLIFcWKY) | 2:09 | 2023-06-24 | 2023-09-17 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/0GYIbrTtgj7iLKJJo1ol6c) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:16 | 2022-01-22 | 2022-02-15 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-10-31 | 2022-01-23 |
@@ -937,7 +938,7 @@
 | [KINGSTON](https://open.spotify.com/track/37IQEsFfN0vShGeJ6QhZy6) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KINGSTON](https://open.spotify.com/album/2xAqPiWKqJM5YrvsqEk0UM) | 2:26 | 2021-08-08 | 2021-09-19 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-28 | 2023-01-03 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
-| [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-01-27 |  |
+| [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-01-27 | 2024-06-29 |
 | [Klart det ska bli jul](https://open.spotify.com/track/3MdqzcjluoNb75BPRcbn75) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Klart det ska bli jul](https://open.spotify.com/album/3dWjkVHO5WjzqmUeHl4AUe) | 3:28 | 2022-11-28 | 2022-12-27 |
 | [Kod Röd](https://open.spotify.com/track/1OybzYUfQ4Kv3WbWp3Gby2) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Kod Röd](https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH) | 2:14 | 2023-11-18 | 2024-01-22 |
 | [KOKAINA](https://open.spotify.com/track/4oAkKXSmKLe5cerbNrJOwR) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:04 | 2024-02-10 | 2024-02-15 |
@@ -1027,7 +1028,7 @@
 | [Look What You've Done](https://open.spotify.com/track/7jDtQkIxKFELTpQa27VWWR) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 3:01 | 2021-03-27\* | 2021-05-05 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-15 |  |
 | [Lord I Need You](https://open.spotify.com/track/5YRFttxjAEgm2nq5Z2tlqK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:42 | 2021-09-01 | 2021-09-02 |
-| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-10-14 |  |
+| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-10-14 | 2024-06-29 |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-04-18 | 2021-09-12 |
 | [Lose my mind](https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 2:53 | 2021-09-12 | 2024-01-03 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-16 |
@@ -1762,6 +1763,7 @@
 | [tystnar i luren](https://open.spotify.com/track/5IZGN81VVgBv1lPrjXzOD6) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:13 | 2021-11-21 | 2022-01-23 |
 | [Tänd ett ljus](https://open.spotify.com/track/0WeT9UnF79pGH5ohYHsnD9) | [Triad](https://open.spotify.com/artist/4MTYEubODrxzURN1kCZWGF) | [Tänd ett ljus](https://open.spotify.com/album/77F4Y9nEDz9AR4ib7aC7lw) | 4:50 | 2021-11-23 | 2023-12-30 |
 | [Tänd Ett Ljus](https://open.spotify.com/track/4svKBw2RSXSrlQfC2KHKlU) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:10 | 2023-12-03 | 2023-12-13 |
+| [Tänk Om Vi Var Gay](https://open.spotify.com/track/3ilELZDIrl2JXUcTIVM6OS) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Edvin Törnblom](https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2) | [Tänk Om Vi Var Gay](https://open.spotify.com/album/46sjDZnBtvqFGyuL1Acu4z) | 3:35 | 2024-06-28 |  |
 | [Tänker på dig](https://open.spotify.com/track/3eWemHN8ueP9U8Z2Pvf6A5) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Allt som har en början har ett slut](https://open.spotify.com/album/6WOBxGGztZH591l2orHuQU) | 3:02 | 2021-09-26 | 2021-09-27 |
 | [Tänker på dig](https://open.spotify.com/track/3G1lqnGgPyA5c6fKmY5ljH) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Tänker på dig](https://open.spotify.com/album/06cZ300oGu2R4S94dWqpaG) | 2:50 | 2022-02-19 | 2022-02-21 |
 | [Umbrella](https://open.spotify.com/track/2NxGqx9mDpTzXQJtbYguwi) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Umbrella](https://open.spotify.com/album/3tVqsIxWjX7ZzahPgEAQeE) | 2:17 | 2022-07-04 | 2022-07-17 |

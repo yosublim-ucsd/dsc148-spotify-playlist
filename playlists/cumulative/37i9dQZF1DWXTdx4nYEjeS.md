@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,003 songs - 2 day 13 hr 7 min
+1,004 songs - 2 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [En el Aire](https://open.spotify.com/track/7hvMIzFFtuHNJc1HiN4UmC) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/7HdBqIvlR6yFwN1a5q1QVI) | 4:18 | 2022-04-01 | 2022-04-20 |
 | [En EL Limbo](https://open.spotify.com/track/0NoFZ4BKeZw0qLDEC90hMc) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:42 | 2022-03-28 | 2022-04-06 |
 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 | 2022-03-28 | 2024-05-25 |
+| [En la Tierra](https://open.spotify.com/track/4Woj2q0JOLFGssd9c4Ntia) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [En la Tierra](https://open.spotify.com/album/1JIu9l71PJvTnAhqCyFBHn) | 3:13 | 2024-06-28 |  |
 | [En Las Olas](https://open.spotify.com/track/41p76FyeNdW9IP61WBzhDY) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A) | 4:08 | 2022-01-07 | 2022-07-28 |
 | [En Medio de la Vida](https://open.spotify.com/track/5SGTa9yEn0OciJUtx2Ygmm) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [En Medio de la Vida](https://open.spotify.com/album/5xoMccrAoAQIF6klIT188j) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [En Mis Sueños](https://open.spotify.com/track/50jjeuQ5UrW3RQqDl0KYpy) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [CRIOLLA](https://open.spotify.com/album/2rEdpXG1A8hydOB1ThvGHX) | 4:10 | 2022-04-01 | 2022-04-14 |
@@ -659,7 +660,7 @@
 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2023-12-15 |  |
 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 | 2021-12-24 |  |
 | [Nunca Te Jugaste \- En Casa](https://open.spotify.com/track/77zmaYQnc0bmaI9W4MzF6q) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Nunca Te Jugaste \(En Casa\)](https://open.spotify.com/album/1VbFYepuhZ2lq8qxtu0Axa) | 2:40 | 2022-04-08 | 2022-04-18 |
-| [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-17 |  |
+| [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-17 | 2024-06-29 |
 | [Obra De Arte](https://open.spotify.com/track/4wDc1MMWhfdC8UHhUgLSD7) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [2020](https://open.spotify.com/album/5PiGqB14PQ9GWPeVWC2tC0) | 3:25 | 2022-01-07 | 2022-04-21 |
 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2022-07-25 | 2024-04-19 |
 | [Obsesionario En La Mayor](https://open.spotify.com/track/7DKIXBSQqTUuvnPVXpuv1A) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/6t01Vq8XJrZbKmjpgBSirm) | 4:27 | 2021-12-24 | 2022-07-29 |

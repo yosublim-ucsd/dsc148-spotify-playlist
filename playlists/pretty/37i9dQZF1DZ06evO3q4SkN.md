@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 ### [This Is Germaine Franco](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q4SkN)
 
-> This Is Germaine Franco\. Los temas esenciales, todos en una lista.
+> This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 39 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 39 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 38 | [Autumn Becomes Winter](https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:03 |
 | 39 | [Legend Of The Tortoise](https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:03 |
 
-Snapshot ID: `ZntaAAAAAADQcpmtDkMn0/ApliuNIkjH`
+Snapshot ID: `ZntaAAAAAACo8j1iZm7ktZl+5wc+6/Qh`

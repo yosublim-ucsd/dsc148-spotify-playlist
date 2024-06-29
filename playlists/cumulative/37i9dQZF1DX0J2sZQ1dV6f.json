@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Dani Flow y Grupo Firme",
+  "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Sangre X Sangre & Joe Parra ",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185281,
       "name": "DDD (Don Dimadon)",
       "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
@@ -6182,6 +6182,28 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
+    },
+    {
+      "album": {
+        "name": "NADA ME VA CAMBIAR",
+        "url": "https://open.spotify.com/album/452OfXYy3ZH5e0saequjck"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210692,
+      "name": "NADA ME VA CAMBIAR",
+      "url": "https://open.spotify.com/track/0SEMlmmrnfsIDS2aG31kHm"
     },
     {
       "album": {

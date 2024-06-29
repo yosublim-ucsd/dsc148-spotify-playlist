@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192000,
       "name": "6\u00ba",
       "url": "https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc"
@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/6dUsiEsl3IESAEAxYS5d4y"
       },
@@ -238,6 +256,24 @@
       "duration_ms": 236286,
       "name": "Amor Supremo",
       "url": "https://open.spotify.com/track/3WgA97H4wpjZajADb4BBst"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5vADgMWFWWTBPwexXjBEAi"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219537,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
     },
     {
       "album": {
@@ -304,6 +340,24 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "album": {
+        "name": "Broke My Heart",
+        "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
     },
     {
       "album": {
@@ -462,7 +516,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
@@ -516,7 +570,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 202326,
       "name": "De Maravilla",
       "url": "https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv"
@@ -880,7 +934,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 187348,
       "name": "FIXXI\u00d3N",
       "url": "https://open.spotify.com/track/3YCwaFpPituwo6yx2Eu6PC"
@@ -1196,7 +1250,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 285000,
       "name": "Invierno (Remix)",
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
@@ -1431,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
+    },
+    {
+      "album": {
         "name": "me acostumbro",
         "url": "https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj"
       },
@@ -1496,7 +1568,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 249638,
       "name": "Might Forgive You",
       "url": "https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o"
@@ -1665,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -1698,7 +1788,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 199137,
       "name": "Navego",
       "url": "https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j"
@@ -1886,7 +1976,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 299192,
       "name": "Precipicio",
       "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
@@ -2186,7 +2276,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 202177,
       "name": "Tears at Bae",
       "url": "https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ"
@@ -2455,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "album": {
         "name": "Yesteryear",
         "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
       },
@@ -2502,7 +2610,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194558,
       "name": "Young",
       "url": "https://open.spotify.com/track/4Ujidgwz5Y4lfXuCPwSYqN"

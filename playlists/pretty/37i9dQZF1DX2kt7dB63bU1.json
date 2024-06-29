@@ -1,13 +1,65 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 142079,
+  "num_followers": 142121,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAACq4t30GFfNb8yvBU8FMTOb",
+  "snapshot_id": "Zn41QAAAAADXuBwRdrEm9sScS4OB3Te8",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Time And Again",
+        "url": "https://open.spotify.com/album/3wgHwViDdLlHXHbcpy4Pxh"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 236695,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "The Best Things Happen While You're Dancing",
+        "url": "https://open.spotify.com/album/6pyyBFedXb9ZI9BwYHUBBN"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "duration_ms": 195649,
+      "name": "The Best Things Happen While You're Dancing",
+      "url": "https://open.spotify.com/track/3M4j7Knz9YvbYbfGVJJxxE"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Jazzish",
+        "url": "https://open.spotify.com/album/4j4zHxlcpgtrsSAS2AESCh"
+      },
+      "artists": [
+        {
+          "name": "Eric Hollaway",
+          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
+        }
+      ],
+      "duration_ms": 303953,
+      "name": "Playing Your Game",
+      "url": "https://open.spotify.com/track/1trrXz1GCAsXwmM3pN8Mh6"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
@@ -91,22 +143,6 @@
       "duration_ms": 279749,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "At First Sight",
-        "url": "https://open.spotify.com/album/3uDgaXaKCqobkfTVUYZkrB"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 324306,
-      "name": "At First Sight",
-      "url": "https://open.spotify.com/track/3sjSo2etr9DK4JB4ggltzZ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1083,38 +1119,6 @@
       "duration_ms": 177157,
       "name": "But Not for Me",
       "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Genuine",
-        "url": "https://open.spotify.com/album/1ZDGAGwPxFdRyIX657qW48"
-      },
-      "artists": [
-        {
-          "name": "Roderick Harper",
-          "url": "https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Genuine",
-      "url": "https://open.spotify.com/track/4bfkTfeGVeuqDUS7SCBtym"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Take Love Easy",
-        "url": "https://open.spotify.com/album/05vX7tbISbLuPvTqbJMGxx"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 302852,
-      "name": "Take Love Easy",
-      "url": "https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI"
     },
     {
       "added_at": "2023-04-07 04:01:00",

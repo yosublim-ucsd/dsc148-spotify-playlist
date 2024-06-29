@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-521 songs - 2 day 3 hr 32 min
+523 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Nipe Penzi \(feat\. BATUNDI\)](https://open.spotify.com/track/1GnFzIi2u9M7t5jeeOYRAo) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I) | [Nipe Penzi \(feat\. BATUNDI\)](https://open.spotify.com/album/2V93yvzdDtMKXS0fLCMdfs) | 5:06 | 2022-09-13 | 2022-11-12 |
 | [Njalo](https://open.spotify.com/track/2M2shvKmy8KOXGt0E1gHNx) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Bongi Mvuyana](https://open.spotify.com/artist/69F8DlgzaT8p6t2XkNLW4g) | [Njalo EP](https://open.spotify.com/album/5rCZxjdwxqouV3n0RrRleW) | 6:25 | 2023-02-17 | 2023-03-18 |
 | [Njenge Nkanyezi](https://open.spotify.com/track/3p2xwxdNBSS8IhgHAsR5eh) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Tsholofelo](https://open.spotify.com/artist/2vXaREJMMLUfEj5ziaEf0y) | [Njenge Nkanyezi](https://open.spotify.com/album/3nWkNVewhbdFIN3ctnpjrj) | 3:45 | 2023-06-19 | 2023-08-09 |
+| [Nkwenkwezi](https://open.spotify.com/track/5temST85mltTLzkpELOSNK) | [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Nkwenkwezi](https://open.spotify.com/album/2l1qPUO4QlNyWuHADvJv6o) | 4:13 | 2024-06-28 |  |
 | [No More VIP](https://open.spotify.com/track/3HiEQv4YBnwd3OMvIUaF4R) | [Meith](https://open.spotify.com/artist/2XTv5bUTw9Dm3H730vqdV9) | [No More VIP](https://open.spotify.com/album/5TfPZpST2xUHzTG3ctQ4jg) | 4:28 | 2023-12-15 |  |
 | [No Other Way \- VooDoo Tribe Mix](https://open.spotify.com/track/0rA6JNLBLIaRvd8uVnWyyo) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Mayan DeLion](https://open.spotify.com/artist/240PMtK9RCqGqudEVMckrc) | [No Other Way \(VooDoo Tribe Mix\)](https://open.spotify.com/album/5NUw3NWCvF4RbHlpy8qbK6) | 3:21 | 2024-06-14 |  |
 | [No Rainbow](https://open.spotify.com/track/1AfjVOW1tXh1gLT0pJ5IMz) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 | 2022-09-13 | 2023-06-20 |
@@ -351,6 +352,7 @@
 | [Ouria Deka \- Urmet K Remix Edit](https://open.spotify.com/track/1CtzjonrreTn0QfLoVa8Kq) | [Touzani](https://open.spotify.com/artist/6GXSO2YzZ9ioZT4Wkwyvez), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb) | [Ouria Deka \(Urmet K Remix Edit\)](https://open.spotify.com/album/4g5miV05hyuYWotRmhumED) | 4:00 | 2024-01-18 |  |
 | [Out Of Love](https://open.spotify.com/track/0diyPyTz1ayLreUT4BAQ1N) | [K.O.D.](https://open.spotify.com/artist/0OqVmcdtJGnlPkQwSwStum), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Emotion 2](https://open.spotify.com/album/6lhiqYZAVGaqqbltuZPx78) | 6:54 | 2023-04-27 | 2023-08-09 |
 | [Où Je Vais](https://open.spotify.com/track/5chdAbOSB0y2h0DCFmG1OZ) | [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Où Je Vais](https://open.spotify.com/album/51ijj8CGSvuZmPfOJpiyx0) | 3:30 | 2022-09-13 | 2023-02-09 |
+| [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/6TRdgdNykVKxmg4GAoyGfl) | 3:53 | 2024-06-28 |  |
 | [Parallel Universe](https://open.spotify.com/track/2hFFwsZEmraBpK2YbyKSmW) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Parallel Universe](https://open.spotify.com/album/2PISTaJwBrQedGJCmBmxGR) | 6:50 | 2023-01-19 | 2023-04-02 |
 | [Part of Me \- Dub Mix](https://open.spotify.com/track/6aSLHnjmPHJ4SuOpoFj6No) | [Yaw Appiah](https://open.spotify.com/artist/2EpwVoTYiRy4LqGFvW7URr) | [Part of Me](https://open.spotify.com/album/0EVcMRQ7ZViY8oyZN7oE0y) | 7:17 | 2023-04-13 | 2023-05-24 |
 | [Passive Aggression](https://open.spotify.com/track/6vfzv7W3KfWSEFP7j6XYlf) | [104 BPM](https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi), [Marco Pex](https://open.spotify.com/artist/0kJmBPLjuqYEXcq9JT1O1n) | [Program and Control Man, Vol.3](https://open.spotify.com/album/2E60lpYMqlc622UHQXiaJm) | 8:48 | 2024-05-16 |  |

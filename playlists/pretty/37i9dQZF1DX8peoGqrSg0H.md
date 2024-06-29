@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,335 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,356 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 4 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 |
 | 5 | [โคตรชอบเลยอ่ะ \(Hey ! I Like You\)](https://open.spotify.com/track/42sFJN5a3knoZyUCXdiNEy) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [โคตรชอบเลยอ่ะ \(Hey! I Like You\)](https://open.spotify.com/album/2uTtW63FLOmwcr5zo8yH7u) | 3:54 |
 | 6 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
-| 7 | [SLEEPING PILL](https://open.spotify.com/track/1cgolP8DdBgHq6s9DWgsNC) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [SLEEPING PILL](https://open.spotify.com/album/1QyyEhCscmMupc04jqN3CU) | 3:34 |
+| 7 | [Sleepin' Pill](https://open.spotify.com/track/1cgolP8DdBgHq6s9DWgsNC) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Sleepin' Pill](https://open.spotify.com/album/1QyyEhCscmMupc04jqN3CU) | 3:34 |
 | 8 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
 | 9 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 |
 | 10 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |

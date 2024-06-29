@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-102 songs - 7 hr 24 min
+103 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 | 2023-02-24 | 2023-11-28 |
 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 | 2021-05-06 |  |
 | [Shadow \(feat\. Chick Corea\)](https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:45 | 2021-05-06 |  |
+| [Silly Putty](https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [Silly Putty](https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF) | 4:31 | 2024-06-28 |  |
 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 | 2021-05-06 |  |
 | [Space Age](https://open.spotify.com/track/6FHuDw2gCmWknjP5qFPPw6) | [Ollie Collins](https://open.spotify.com/artist/5FHOxRGbA8n5jkFhfsVfin) | [A New Direction](https://open.spotify.com/album/3pPILiJIUk6yVdSmMWqYJP) | 3:48 | 2021-05-06 |  |
 | [Straight Up](https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [A Ray of Hope](https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1) | 4:39 | 2021-05-06 | 2024-04-19 |

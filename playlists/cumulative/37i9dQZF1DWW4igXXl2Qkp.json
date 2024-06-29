@@ -9897,6 +9897,28 @@
     },
     {
       "album": {
+        "name": "HILLS (feat. Dro Kenji)",
+        "url": "https://open.spotify.com/album/26JetE1EMkSBOXffLyDejQ"
+      },
+      "artists": [
+        {
+          "name": "DEADonMARRS",
+          "url": "https://open.spotify.com/artist/7KqeHFHeQRFLil6s7U63dc"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183243,
+      "name": "HILLS (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/0Wrv39ILUw7X6cNB6xFupo"
+    },
+    {
+      "album": {
         "name": "Him",
         "url": "https://open.spotify.com/album/7cJ13WTsRq7DfO1Jew2e5C"
       },
@@ -12200,7 +12222,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168350,
       "name": "Let It Out",
       "url": "https://open.spotify.com/track/0VQ2aPSIMB6t8qS84JYUBE"

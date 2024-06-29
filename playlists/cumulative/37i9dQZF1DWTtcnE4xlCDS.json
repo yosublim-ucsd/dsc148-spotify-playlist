@@ -6277,6 +6277,40 @@
     },
     {
       "album": {
+        "name": "PLAY/PAUSE",
+        "url": "https://open.spotify.com/album/5zVBa4R2dHnsDLfyUkFnf0"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "TAKU INOUE",
+          "url": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0"
+        },
+        {
+          "name": "\u65e5\u9ad8\u96f6\u5948 (CV: \u8500 \u7950\u4f73)",
+          "url": "https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz"
+        },
+        {
+          "name": "\u6771\u96f2\u548c\u97f3 (CV: \u5929\u97f3\u307f\u307b)",
+          "url": "https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV"
+        },
+        {
+          "name": "\u8305\u91ce\u3075\u305f\u3070 (CV: \u5800\u8d8a\u305b\u306a)",
+          "url": "https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "PLAY/PAUSE",
+      "url": "https://open.spotify.com/track/0MtLdA6NmVWRrCfADyZ43W"
+    },
+    {
+      "album": {
         "name": "pop enemy",
         "url": "https://open.spotify.com/album/2BddqBb6t1Vcuv8x9bn7jk"
       },

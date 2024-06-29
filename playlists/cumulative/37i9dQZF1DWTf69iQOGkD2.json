@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Minerium Session",
+        "url": "https://open.spotify.com/album/0ylwQw2HMxet15CUlExcGw"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208374,
+      "name": "Daqui De Cima",
+      "url": "https://open.spotify.com/track/1FlgrA3YtOJjCsoVp3q54N"
+    },
+    {
+      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp"
       },
@@ -5522,7 +5540,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200307,
       "name": "Seu Pai Falou",
       "url": "https://open.spotify.com/track/1gULlZqzaB2GdqIeMstxD3"

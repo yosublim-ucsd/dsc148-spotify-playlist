@@ -2243,6 +2243,28 @@
     },
     {
       "album": {
+        "name": "Jersey Culture BR",
+        "url": "https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Chuva de Bala",
+      "url": "https://open.spotify.com/track/1NylSwWpTFtlAXSxhlZH0C"
+    },
+    {
+      "album": {
         "name": "Joias do Bairro",
         "url": "https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr"
       },
@@ -5670,7 +5692,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 136438,
       "name": "MALUCA",
       "url": "https://open.spotify.com/track/46RBD4tbMQorO5HH1yYgfz"
@@ -6978,7 +7000,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 223319,
       "name": "Nossa postura",
       "url": "https://open.spotify.com/track/0dBRzGfG1a2CARm1U4ssN0"
@@ -8818,6 +8840,36 @@
       "duration_ms": 213333,
       "name": "RIP POP",
       "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
+    },
+    {
+      "album": {
+        "name": "RIP X",
+        "url": "https://open.spotify.com/album/4iEA3fwc6Gac2McJlcy3oV"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Karate Santana",
+          "url": "https://open.spotify.com/artist/3vHdRlqMhHG1spfJ3tfgiG"
+        },
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "RIP X",
+      "url": "https://open.spotify.com/track/6HLHdEX1qylBT5OEdxyT5Y"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Ramayan
 
-1,048 songs - 2 day 15 hr 3 min
+1,049 songs - 2 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 | 2023-03-24 | 2023-07-10 |
 | [Takut](https://open.spotify.com/track/2LBbTyXKMysXA7ndR7GmqM) | [Boy William](https://open.spotify.com/artist/5tIi1jv5d1ajzRNC60Fe4D), [Ayu Ting Ting](https://open.spotify.com/artist/3TKrakVauUGuCb4rqTvLSG) | [Takut](https://open.spotify.com/album/76kFuJU4b1YJNTXVHbzUQw) | 4:23 | 2024-02-09 | 2024-02-23 |
 | [Takut Azab](https://open.spotify.com/track/60e61fD5oVRqk4BZQ7kT0A) | [Valdy Nyonk](https://open.spotify.com/artist/2yiIcmdxcECFqPBlEZcOJP) | [Takut Azab](https://open.spotify.com/album/5fjrCIkGYIOyBvKLTKwxhT) | 4:43 | 2023-03-24 | 2023-05-05 |
+| [Talam](https://open.spotify.com/track/7GsjPUmh32Kgy4N2jFPJvO) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA), [Triplouz A](https://open.spotify.com/artist/13rc9filFC7c6lgLzERRF3), [Knowno](https://open.spotify.com/artist/0ZjiUnf3v7lMPe8tYDGwJq) | [Talam](https://open.spotify.com/album/27L9EEiTh7yxUPDxYih102) | 3:51 | 2024-06-28 |  |
 | [Tandus \(feat\. Boy Clifford\)](https://open.spotify.com/track/2szzy4u3ED9JcGZ93nNrjB) | [Meet Uncle Hussain](https://open.spotify.com/artist/6DsEf5tVXFxGqG3on83Bm3), [Boy Clifford](https://open.spotify.com/artist/5QmIFGBBjFDMlFYNnoiZk9) | [Tandus \(feat\. Boy Clifford\)](https://open.spotify.com/album/5zOTipa5zqlfXgC2C9Tikb) | 3:59 | 2024-05-31 | 2024-06-13 |
 | [Tangis](https://open.spotify.com/track/48bY0txTRuOJdMrbQu7O0W) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tangis](https://open.spotify.com/album/1gqV1sVlPlXKzrShXJ0aBb) | 3:35 | 2024-06-14 | 2024-06-22 |
 | [Tanpa Kata](https://open.spotify.com/track/1donIeXd7Ix0xqnOpfnhZK) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Tanpa Kata](https://open.spotify.com/album/6c1DA0aLXnWmm2BKjStZ9H) | 3:19 | 2024-01-19 | 2024-02-02 |

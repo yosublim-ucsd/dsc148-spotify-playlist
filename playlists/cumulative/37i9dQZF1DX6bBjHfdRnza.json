@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 204250,
       "name": "Breaking",
       "url": "https://open.spotify.com/track/22hPf991l1IlJ5kkq6BXqM"
@@ -5496,7 +5496,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 128746,
       "name": "buzz",
       "url": "https://open.spotify.com/track/1AH3MVzJ5N6WyPyXirqqti"
@@ -6394,6 +6394,24 @@
       "duration_ms": 207580,
       "name": "Charlie Goes Bananas",
       "url": "https://open.spotify.com/track/0Qn8xbGkvz2chhZTBetWzG"
+    },
+    {
+      "album": {
+        "name": "Charmed EP",
+        "url": "https://open.spotify.com/album/2Efv9PMu2HWCoKQpwXXD3e"
+      },
+      "artists": [
+        {
+          "name": "Peach",
+          "url": "https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/1N7z8fR8sPlR4Mylv5T8fk"
     },
     {
       "album": {
@@ -12388,6 +12406,24 @@
       "duration_ms": 256799,
       "name": "Eyes Were Blue",
       "url": "https://open.spotify.com/track/2Cu6vxgdG81DeznjwxoQ0T"
+    },
+    {
+      "album": {
+        "name": "F*ck Me Up",
+        "url": "https://open.spotify.com/album/3B6xfUUzl67e1FksVzcJT0"
+      },
+      "artists": [
+        {
+          "name": "131bpm",
+          "url": "https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267025,
+      "name": "F*ck Me Up",
+      "url": "https://open.spotify.com/track/3tNDcctgStetfyUZQsaAPp"
     },
     {
       "album": {
@@ -22126,7 +22162,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 205714,
       "name": "Lost In Memories",
       "url": "https://open.spotify.com/track/4Gug166DkIrDlolvyvM7LS"
@@ -24204,7 +24240,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 227000,
       "name": "Monkeys",
       "url": "https://open.spotify.com/track/18atwa0TRUm873rlrvgY4Y"
@@ -31060,7 +31096,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 242449,
       "name": "Running Out",
       "url": "https://open.spotify.com/track/0nXxu9pnUsI8yt4Ud8xvMv"
@@ -31574,7 +31610,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182706,
       "name": "searching",
       "url": "https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX"
@@ -32164,6 +32200,28 @@
       "duration_ms": 272000,
       "name": "Show",
       "url": "https://open.spotify.com/track/3MOY6ueyvB3hN7DX0wpBTO"
+    },
+    {
+      "album": {
+        "name": "Show Me The Sky",
+        "url": "https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Holohan",
+          "url": "https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy"
+        },
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Show Me The Sky",
+      "url": "https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM"
     },
     {
       "album": {
@@ -34163,6 +34221,24 @@
     },
     {
       "album": {
+        "name": "stay",
+        "url": "https://open.spotify.com/album/0Vw1FO6T1S1uH5vLT2fINl"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186814,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/2ZkmDS8JzQruGYcMFG04Yo"
+    },
+    {
+      "album": {
         "name": "The Nexus - EP",
         "url": "https://open.spotify.com/album/5AML1bzMPNKvRAPABmkblb"
       },
@@ -34312,6 +34388,24 @@
       "duration_ms": 227076,
       "name": "Still Miss U",
       "url": "https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW"
+    },
+    {
+      "album": {
+        "name": "Jeez Louix",
+        "url": "https://open.spotify.com/album/2OnrwDcRuILSlLX1tr96av"
+      },
+      "artists": [
+        {
+          "name": "J. Louix",
+          "url": "https://open.spotify.com/artist/2WYMIlGoKw0QcSrbinrsQP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247916,
+      "name": "Still Outside",
+      "url": "https://open.spotify.com/track/49L0b6fBU0MzvUOf264oqF"
     },
     {
       "album": {
@@ -38946,6 +39040,28 @@
       "duration_ms": 230988,
       "name": "Undertage",
       "url": "https://open.spotify.com/track/1lFClfip3Vf7bJP0i0oB10"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/7GUUo3tkQ4WAVqW9wr92J4"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/2ptwhgvT01My7DZaeNURCt"
     },
     {
       "album": {

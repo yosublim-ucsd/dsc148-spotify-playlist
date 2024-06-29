@@ -4497,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Betcha Can't Wait / New Town Crier",
+        "url": "https://open.spotify.com/album/2GKiOOt53Djb470e8sRpQ2"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "New Town Crier",
+      "url": "https://open.spotify.com/track/7jKx10iRMLEzxVVmtd4nlD"
+    },
+    {
+      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/0hyC7gk2eOkycUlKTBKqdz"
       },
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 228813,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6"

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: PLAYERTWO)",
-  "num_followers": 440632,
+  "num_followers": 440640,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn4icAAAAACAE1rOWB1iDwx7ol9mGLq9",
+  "snapshot_id": "Zn4l0AAAAADetIvN+RJ/jQAmP/LNo3qF",
   "tracks": [
     {
       "added_at": "2024-06-28 02:39:44",
@@ -39,6 +39,22 @@
       "duration_ms": 134000,
       "name": "LET ME!",
       "url": "https://open.spotify.com/track/6GChnbdziJOQARYGrw43Rg"
+    },
+    {
+      "added_at": "2024-06-28 02:39:44",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": "2024-06-28 02:39:44",
@@ -171,6 +187,30 @@
       "duration_ms": 220525,
       "name": "You Can Make It",
       "url": "https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa"
+    },
+    {
+      "added_at": "2024-06-28 02:39:44",
+      "album": {
+        "name": "Love ME Later",
+        "url": "https://open.spotify.com/album/30TXeIVTitFiEhm7yLpXxs"
+      },
+      "artists": [
+        {
+          "name": "Yitai Wang",
+          "url": "https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Rich Forever",
+      "url": "https://open.spotify.com/track/1mqd2tXo0NFc9tC7hvfuZr"
     },
     {
       "added_at": "2024-06-28 02:39:44",

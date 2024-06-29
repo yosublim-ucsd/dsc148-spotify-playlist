@@ -1,13 +1,29 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 145256,
+  "num_followers": 145299,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAABxaq6YLkkkoRUFAPXbLquG",
+  "snapshot_id": "Zn41QAAAAADjbq7w7ABgjOnoKW/p0lC2",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Silly Putty",
+        "url": "https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "Silly Putty",
+      "url": "https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {

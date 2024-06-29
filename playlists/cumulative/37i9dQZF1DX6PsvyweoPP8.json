@@ -50,7 +50,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 150000,
       "name": "10 dias",
       "url": "https://open.spotify.com/track/6tEkt9DnK1rQPULfSid66j"
@@ -270,6 +270,28 @@
       "duration_ms": 212091,
       "name": "3am",
       "url": "https://open.spotify.com/track/4SgRO5dqqaFeuWsn6FKoBM"
+    },
+    {
+      "album": {
+        "name": "4 Paredes",
+        "url": "https://open.spotify.com/album/1oworF1pz69laHel3LSrIm"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Hustle",
+          "url": "https://open.spotify.com/artist/5sEZlkCGB1nGk1nUfvnHbK"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "4 Paredes",
+      "url": "https://open.spotify.com/track/6jHS3T21xosRlhpxnb6ucB"
     },
     {
       "album": {
@@ -672,7 +694,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 204444,
       "name": "Balan\u00e7a Dona On\u00e7a",
       "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
@@ -3004,7 +3026,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 205054,
       "name": "Maldosa",
       "url": "https://open.spotify.com/track/4UDW5dlIXKwfGaVst4yFZK"
@@ -3425,6 +3447,36 @@
     },
     {
       "album": {
+        "name": "Modo Esportivo",
+        "url": "https://open.spotify.com/album/3ZMd9ASswNRSxjqPHV8ZUi"
+      },
+      "artists": [
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/4sMckQUlefZn3ZaaPpA6y0"
+        },
+        {
+          "name": "Glock Beatz",
+          "url": "https://open.spotify.com/artist/5UvThT2nhiecYC2r7u2jXm"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "KOT D",
+          "url": "https://open.spotify.com/artist/51JJajT1uZC2n1kERbrJgI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128709,
+      "name": "Modo Esportivo",
+      "url": "https://open.spotify.com/track/2M1AQJ6ZcUDKHgdLm15NBW"
+    },
+    {
+      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -3580,7 +3632,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 115949,
       "name": "Ningu\u00e9m Ama Ningu\u00e9m",
       "url": "https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud"
@@ -4992,6 +5044,32 @@
       "duration_ms": 174298,
       "name": "Sommelier",
       "url": "https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I"
+    },
+    {
+      "album": {
+        "name": "RADAR 2050",
+        "url": "https://open.spotify.com/album/0mD0e5sGx4rTCrLn35wrE8"
+      },
+      "artists": [
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        },
+        {
+          "name": "Wizzze",
+          "url": "https://open.spotify.com/artist/791bpN0SnzaONncaPatkX5"
+        },
+        {
+          "name": "Mineirin",
+          "url": "https://open.spotify.com/artist/2aKV7lCt1FIb79KzJX6zVu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Striptea$e",
+      "url": "https://open.spotify.com/track/7bK1L37gaOL6qUCRXRR9fe"
     },
     {
       "album": {

@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283688,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
+    },
+    {
+      "album": {
         "name": "Unbroken Thought",
         "url": "https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq"
       },
@@ -4231,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "album": {
         "name": "Color of the Pool",
         "url": "https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3"
       },
@@ -6778,7 +6814,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167178,
       "name": "endless questions",
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
@@ -7590,6 +7626,24 @@
       "duration_ms": 183004,
       "name": "Fire Eyes",
       "url": "https://open.spotify.com/track/0nXZ4ce5pUr3oOGNxfc2ZJ"
+    },
+    {
+      "album": {
+        "name": "Firefighters",
+        "url": "https://open.spotify.com/album/099s0b6r5AuuzSkNtnZEo7"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270923,
+      "name": "Firefighters",
+      "url": "https://open.spotify.com/track/59GCYWh0Y74XtvhtJNe7nW"
     },
     {
       "album": {
@@ -9324,7 +9378,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
@@ -9504,7 +9558,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 280416,
       "name": "Here Hair",
       "url": "https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8"
@@ -13275,6 +13329,24 @@
     },
     {
       "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223071,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
+    },
+    {
+      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7"
       },
@@ -15046,6 +15118,24 @@
       "duration_ms": 281146,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1HcgUrKSisYAtSOosxNVFE"
+    },
+    {
+      "album": {
+        "name": "Ocean Swallows Him Whole",
+        "url": "https://open.spotify.com/album/2UHj328p5DH1JbG1ojff1e"
+      },
+      "artists": [
+        {
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202910,
+      "name": "Ocean Swallows Him Whole",
+      "url": "https://open.spotify.com/track/53ySCsqIc01NUVbPZckyPF"
     },
     {
       "album": {
@@ -21386,7 +21476,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165662,
       "name": "TV on TV",
       "url": "https://open.spotify.com/track/1IODMOg2Un0yxLdAKof5pT"
@@ -21440,7 +21530,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 332642,
       "name": "Twitching Heart",
       "url": "https://open.spotify.com/track/1rLv5bq1mTep389Dlfo046"
@@ -22036,6 +22126,24 @@
       "duration_ms": 161040,
       "name": "Violent",
       "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
+    },
+    {
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "album": {
@@ -22904,7 +23012,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 206000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu"
@@ -23214,6 +23322,24 @@
       "duration_ms": 244022,
       "name": "You don't even know who I am",
       "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"
+    },
+    {
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281178,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh"
     },
     {
       "album": {

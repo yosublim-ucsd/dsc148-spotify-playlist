@@ -2,7 +2,7 @@
 
 ### [This Is Lauren Daigle](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq)
 
-> This Is Lauren Daigle\. Los temas esenciales, todos en una lista.
+> This is Lauren Daigle\. De viktigste sporene samlet i én spilleliste.
 
 71 songs - 4 hr 45 min
 

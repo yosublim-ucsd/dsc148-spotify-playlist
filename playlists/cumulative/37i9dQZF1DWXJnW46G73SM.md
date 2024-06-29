@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-1,007 songs - 2 day 8 hr 48 min
+1,008 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-23 | 2022-03-10 |
 | [El Amal We El Noor Fe Eedak](https://open.spotify.com/track/0R9RoVQip12AW82kNNX9UF) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2), [Ehab Yunis](https://open.spotify.com/artist/3UmYYEQUym9QNV5mWCV2Gp) | [Red Bull Sika](https://open.spotify.com/album/6HsfsZfT4XutmUQFvHM3Rz) | 3:58 | 2023-10-17 | 2024-01-17 |
 | [El Ashkhas El Ghalat](https://open.spotify.com/track/1cVZZhxBVFBjkDOwuNdxro) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [El Ashkhas El Ghalat](https://open.spotify.com/album/0K8IbRnIP3S6RCv1Enu8LF) | 3:04 | 2023-08-23 | 2023-11-22 |
+| [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 | 2024-06-27 |  |
 | [El Baghdada](https://open.spotify.com/track/3yDim9SxoE7Pdy6kTncHdl) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [El Baghdada](https://open.spotify.com/album/5GyhSegrimrOsUJQXWMuif) | 3:21 | 2023-05-30 | 2023-07-14 |
 | [El Basha](https://open.spotify.com/track/0jLoabGqQJIB94WuUmgiHu) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [El Basha](https://open.spotify.com/album/0WTp2zKp1icZEPq2Tq1lmA) | 3:16 | 2024-05-17 |  |
 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 | 2023-07-18 | 2023-09-29 |

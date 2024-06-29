@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61214,
+  "num_followers": 61205,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIc6Rc+hfrDBo+cdEn5FgVqp2NJbYD",
+  "snapshot_id": "AAAIdx5CuldxBfdgyy0dOGsO78Dwug9J",
   "tracks": [
     {
       "added_at": "2024-04-09 17:09:14",
@@ -123,6 +123,26 @@
       "duration_ms": 292000,
       "name": "Upright Destined Mongol - Live at Glastonbury",
       "url": "https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r"
+    },
+    {
+      "added_at": "2024-06-28 15:29:15",
+      "album": {
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
     },
     {
       "added_at": "2024-01-12 16:57:00",
@@ -255,6 +275,26 @@
       "duration_ms": 211153,
       "name": "Die About It",
       "url": "https://open.spotify.com/track/1ieoDxFtEJjYoLskQTHF7s"
+    },
+    {
+      "added_at": "2024-06-28 15:29:01",
+      "album": {
+        "name": "CARNAL",
+        "url": "https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "STUCK (feat. Sinizter)",
+      "url": "https://open.spotify.com/track/6krmuuApbHM1tFhH8Cjhw8"
     },
     {
       "added_at": "2024-04-12 14:05:48",

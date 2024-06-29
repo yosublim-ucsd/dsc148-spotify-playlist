@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 210681,
       "name": "Distance Love",
       "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
@@ -3040,6 +3040,28 @@
       "duration_ms": 179169,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
+        "name": "Husn Irani (From \"Wild Wild Punjab\")",
+        "url": "https://open.spotify.com/album/0Kfr6Ds5SreBfbLVhBl85h"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Happy Bains",
+          "url": "https://open.spotify.com/artist/1YjsXzLXBx89tdTE22Bech"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179206,
+      "name": "Husn Irani (From \"Wild Wild Punjab\")",
+      "url": "https://open.spotify.com/track/1dtofX1SWzBue957rVJCim"
     },
     {
       "album": {
@@ -7534,10 +7556,28 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 218497,
       "name": "U Dnt Even Knw",
       "url": "https://open.spotify.com/track/02dCVJ7hu7E1kJiORFkhTn"
+    },
+    {
+      "album": {
+        "name": "Udda Adda",
+        "url": "https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Udda Adda",
+      "url": "https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn"
     },
     {
       "album": {

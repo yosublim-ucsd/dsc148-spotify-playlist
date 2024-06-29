@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,932 likes - 95 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,232 likes - 95 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,61 @@
 {
   "description": "Underground indie rock gems. Cover: Been Stellar",
-  "num_followers": 295993,
+  "num_followers": 296014,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAACX4EhfJ3XpgwaMgFN9xpA3",
+  "snapshot_id": "Zn41QAAAAAAl/MJVarwh0hvD3ov5qQPe",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
@@ -25,6 +73,70 @@
       "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 281178,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Ocean Swallows Him Whole",
+        "url": "https://open.spotify.com/album/2UHj328p5DH1JbG1ojff1e"
+      },
+      "artists": [
+        {
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
+        }
+      ],
+      "duration_ms": 202910,
+      "name": "Ocean Swallows Him Whole",
+      "url": "https://open.spotify.com/track/53ySCsqIc01NUVbPZckyPF"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 283688,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Ecig",
@@ -39,6 +151,22 @@
       "duration_ms": 366946,
       "name": "Ecig",
       "url": "https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Firefighters",
+        "url": "https://open.spotify.com/album/099s0b6r5AuuzSkNtnZEo7"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 270923,
+      "name": "Firefighters",
+      "url": "https://open.spotify.com/track/59GCYWh0Y74XtvhtJNe7nW"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -73,22 +201,6 @@
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "swanlike (loosies 2020-2023)",
@@ -103,22 +215,6 @@
       "duration_ms": 129473,
       "name": "beautysleep",
       "url": "https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "I'm Tired of This Place but There's Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7tiqshVNoHlW6yf9JAu00f"
-      },
-      "artists": [
-        {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
-        }
-      ],
-      "duration_ms": 166041,
-      "name": "I'm Tired of This Place but There's Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/6O4M7m4IJm2dl3M4iKqxaR"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -137,22 +233,6 @@
       "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "circles",
-        "url": "https://open.spotify.com/album/76GON9LRMBf8TbNBMjVy0z"
-      },
-      "artists": [
-        {
-          "name": "anvii",
-          "url": "https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "circles",
-      "url": "https://open.spotify.com/track/6EgsTFt06FEbGG631Wu6VB"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Pulling Quotes",
@@ -167,6 +247,38 @@
       "duration_ms": 282506,
       "name": "Pulling Quotes",
       "url": "https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "I'm Tired of This Place but There's Nowhere Left to Go",
+        "url": "https://open.spotify.com/album/7tiqshVNoHlW6yf9JAu00f"
+      },
+      "artists": [
+        {
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
+        }
+      ],
+      "duration_ms": 166041,
+      "name": "I'm Tired of This Place but There's Nowhere Left to Go",
+      "url": "https://open.spotify.com/track/6O4M7m4IJm2dl3M4iKqxaR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/76GON9LRMBf8TbNBMjVy0z"
+      },
+      "artists": [
+        {
+          "name": "anvii",
+          "url": "https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/6EgsTFt06FEbGG631Wu6VB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -215,22 +327,6 @@
       "duration_ms": 220088,
       "name": "Body Farm",
       "url": "https://open.spotify.com/track/7zARpP2hSWoDAfqYFm85cp"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -295,6 +391,22 @@
       "duration_ms": 173493,
       "name": "Dirty Girls",
       "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Sunday (1994)",
+        "url": "https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 283404,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -423,22 +535,6 @@
       "duration_ms": 191333,
       "name": "Somehow I Forgot",
       "url": "https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Sunday (1994)",
-        "url": "https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 283404,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1375,6 +1471,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Pop Star",
         "url": "https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84"
       },
@@ -1403,22 +1515,6 @@
       "duration_ms": 178180,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Here Hair / Hard Hair",
-        "url": "https://open.spotify.com/album/03fQcyzWD57NgUkIwFuVmD"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 280416,
-      "name": "Here Hair",
-      "url": "https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1503,70 +1599,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3LXIH2vyXZLYoahg7B9Zzl"
-      },
-      "artists": [
-        {
-          "name": "Justice Der",
-          "url": "https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "endless questions",
-        "url": "https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 167178,
-      "name": "endless questions",
-      "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Twitching Heart",
-        "url": "https://open.spotify.com/album/0WwsCPhljFRcqlX18U8CDe"
-      },
-      "artists": [
-        {
-          "name": "Covey",
-          "url": "https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe"
-        }
-      ],
-      "duration_ms": 332642,
-      "name": "Twitching Heart",
-      "url": "https://open.spotify.com/track/1rLv5bq1mTep389Dlfo046"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "TV on TV",
-        "url": "https://open.spotify.com/album/5lOTLk4sQjCxpu1OjZDQ5R"
-      },
-      "artists": [
-        {
-          "name": "Pouty",
-          "url": "https://open.spotify.com/artist/7df6s0ZqRT1OAPw4H3wSzM"
-        }
-      ],
-      "duration_ms": 165662,
-      "name": "TV on TV",
-      "url": "https://open.spotify.com/track/1IODMOg2Un0yxLdAKof5pT"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Melt the Honey",
         "url": "https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz"
       },
@@ -1595,22 +1627,6 @@
       "duration_ms": 253745,
       "name": "rot in love",
       "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
     }
   ],
   "unique_name": "undercurrents",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: RIIZE)",
+  "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA, Closet Yi)",
   "name": "Electronii'K",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 367613,
       "name": "(It Goes Like) Nanana",
       "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
+    },
+    {
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "album": {
@@ -78,7 +96,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 327804,
       "name": "2",
       "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
@@ -100,7 +118,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166046,
       "name": "2 Baddies - Biicla Remix",
       "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
@@ -122,7 +140,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200723,
       "name": "2 Baddies - No Identity Remix",
       "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
@@ -173,6 +191,32 @@
     },
     {
       "album": {
+        "name": "3D (feat. Jack Harlow) (MK Remix)",
+        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186241,
+      "name": "3D (feat. Jack Harlow) (MK Remix)",
+      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "album": {
         "name": "THE RMXS: VOL. 1",
         "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
       },
@@ -188,7 +232,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 253000,
       "name": "64 (Florentino Remix)",
       "url": "https://open.spotify.com/track/6WsErFNYCU0VRGxQpLQIxR"
@@ -210,7 +254,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 161454,
       "name": "90's Love - SQUAR Remix",
       "url": "https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw"
@@ -228,10 +272,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 127250,
       "name": "@_@",
       "url": "https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
       "album": {
@@ -264,10 +326,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 162426,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
+    },
+    {
+      "album": {
+        "name": "Amerindio",
+        "url": "https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv"
+      },
+      "artists": [
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "Amerindio",
+      "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
     },
     {
       "album": {
@@ -282,10 +362,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181400,
       "name": "Attention (250 Remix)",
       "url": "https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk"
+    },
+    {
+      "album": {
+        "name": "Back for More (More Edition)",
+        "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139419,
+      "name": "Back for More (with Anitta) (House Remix)",
+      "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
     },
     {
       "album": {
@@ -388,7 +490,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 144269,
       "name": "Baggy Jeans - Hukky Shibaseki Remix",
       "url": "https://open.spotify.com/track/4gSwJMo9aLjnz3eoXhHOM5"
@@ -410,7 +512,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188077,
       "name": "Baggy Jeans - KIM MINCHEOL & HAYATE Remix",
       "url": "https://open.spotify.com/track/2wBO19s2wPutijFrbwNdIq"
@@ -498,7 +600,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
@@ -520,6 +622,28 @@
       "duration_ms": 176250,
       "name": "Before the Dawn",
       "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
+    },
+    {
+      "album": {
+        "name": "Better Off (feat. FLANNEL ALBERT)",
+        "url": "https://open.spotify.com/album/0s10sDLTOXD2jDXqEqS7nf"
+      },
+      "artists": [
+        {
+          "name": "Pure 100%",
+          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
+        },
+        {
+          "name": "FLANNEL ALBERT",
+          "url": "https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193767,
+      "name": "Better Off (feat. FLANNEL ALBERT)",
+      "url": "https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C"
     },
     {
       "album": {
@@ -582,7 +706,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 287424,
       "name": "Bi-elijah",
       "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
@@ -611,6 +735,50 @@
     },
     {
       "album": {
+        "name": "Bop Bop! (Yves V Remix)",
+        "url": "https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "BOP BOP! (Yves V Remix)",
+      "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "taalthechoi",
+          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202586,
+      "name": "Breakthrough - taalthechoi Remix",
+      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
+    },
+    {
+      "album": {
         "name": "Bring Me On",
         "url": "https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf"
       },
@@ -630,10 +798,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 158769,
       "name": "Bring Me On",
       "url": "https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc"
+    },
+    {
+      "album": {
+        "name": "BT14U",
+        "url": "https://open.spotify.com/album/6gdt5PwXLMsneqABEgilwQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296501,
+      "name": "BT14U",
+      "url": "https://open.spotify.com/track/7I9ZGWFLz1AqaLEZqdeqHf"
     },
     {
       "album": {
@@ -648,7 +838,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 161280,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
@@ -674,6 +864,24 @@
       "duration_ms": 182053,
       "name": "CHEMISTRY (ROMderful Remix)",
       "url": "https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
+      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
     },
     {
       "album": {
@@ -740,7 +948,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 224433,
       "name": "Criminal - Minit Remix",
       "url": "https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q"
@@ -784,7 +992,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 154960,
       "name": "DEEP - 4B Remix",
       "url": "https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU"
@@ -806,10 +1014,36 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 225962,
       "name": "DEEP - h4rdy Remix",
       "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
     },
     {
       "album": {
@@ -828,7 +1062,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181463,
       "name": "Don't Call Me - ESAI Remix",
       "url": "https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS"
@@ -876,10 +1110,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 136413,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra"
+    },
+    {
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198939,
+      "name": "Dynamite (EDM Remix)",
+      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "album": {
@@ -902,6 +1154,24 @@
       "duration_ms": 216063,
       "name": "EGO (Feat. June One)",
       "url": "https://open.spotify.com/track/4tkn2ku7YCNkuiVUEgE1GC"
+    },
+    {
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
       "album": {
@@ -982,7 +1252,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 225230,
       "name": "Fact Check - 2Spade Remix",
       "url": "https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN"
@@ -1004,10 +1274,50 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 225230,
       "name": "Fact Check - 2Spade Remix",
       "url": "https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J"
+    },
+    {
+      "album": {
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139842,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS"
     },
     {
       "album": {
@@ -1022,7 +1332,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
@@ -1044,7 +1354,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 274838,
       "name": "FOREVER 1 - Aiobahn Remix",
       "url": "https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm"
@@ -1066,7 +1376,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197418,
       "name": "FOREVER 1 - Mar Vista Remix",
       "url": "https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom"
@@ -1110,7 +1420,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 202973,
       "name": "Forever Only - SHINDRUM Remix",
       "url": "https://open.spotify.com/track/2J21A2R7x9HTzTPz44Ct6I"
@@ -1132,7 +1442,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167576,
       "name": "Get A Guitar (English Version) - Chromeo Remix",
       "url": "https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4"
@@ -1154,7 +1464,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167576,
       "name": "Get A Guitar - Chromeo Remix",
       "url": "https://open.spotify.com/track/2unK3dXVGcy4BpJu3gFY9g"
@@ -1176,7 +1486,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 175116,
       "name": "Girls - BRLLNT Remix",
       "url": "https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF"
@@ -1227,6 +1537,54 @@
     },
     {
       "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Going Dumb (with Stray Kids)",
+      "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
+    },
+    {
+      "album": {
+        "name": "Heart Of Steel",
+        "url": "https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS"
+      },
+      "artists": [
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207089,
+      "name": "Heart Of Steel",
+      "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
+    },
+    {
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
       },
@@ -1249,6 +1607,32 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.9 : Hot Sauce Remixes",
         "url": "https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk"
       },
@@ -1264,7 +1648,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 195000,
       "name": "Hot Sauce - Hitchhiker Remix",
       "url": "https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9"
@@ -1326,7 +1710,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 220706,
       "name": "INVU - GINJO Remix",
       "url": "https://open.spotify.com/track/06BJz7zKXR60rv2EM6JpSH"
@@ -1348,7 +1732,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 251026,
       "name": "INVU - Moon Kyoo Remix",
       "url": "https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37"
@@ -1388,10 +1772,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194186,
       "name": "It Couldn\u2019t Be Better",
       "url": "https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI"
+    },
+    {
+      "album": {
+        "name": "Keep My Light On",
+        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Keep My Light On",
+      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
     },
     {
       "album": {
@@ -1417,6 +1823,32 @@
     },
     {
       "album": {
+        "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
+        "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "The Cast of Baby Shark's Big Movie",
+          "url": "https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR"
+        },
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64389,
+      "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
+      "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.1 : Kick It Remixes",
         "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
       },
@@ -1432,7 +1864,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 190160,
       "name": "Kick It - Hitchhiker Remix",
       "url": "https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo"
@@ -1454,10 +1886,84 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 189700,
       "name": "Kick It - Valentino Khan Remix",
       "url": "https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo"
+    },
+    {
+      "album": {
+        "name": "Kind of Love (feat. Ina Bravo)",
+        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Ina Bravo",
+          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Kind of Love (feat. Ina Bravo)",
+      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
+    },
+    {
+      "album": {
+        "name": "Late Night Feels (\u00d6wnboss Remix)",
+        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Late Night Feels (\u00d6wnboss Remix)",
+      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "album": {
+        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165269,
+      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
+      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
     },
     {
       "album": {
@@ -1476,6 +1982,24 @@
       "duration_ms": 121406,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180719,
+      "name": "Like Crazy (Deep House Remix)",
+      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
     },
     {
       "album": {
@@ -1559,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3vxt1CGDkDtZOgSkfPqkw4"
+      },
+      "artists": [
+        {
+          "name": "DUE",
+          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140655,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4gnZKUQtXzldlD9DrsobBu"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
         "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
@@ -1592,7 +2134,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 131213,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD"
@@ -1650,10 +2192,120 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182267,
       "name": "MOM (feat. So!YoON!)",
       "url": "https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81"
+    },
+    {
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM"
+      },
+      "artists": [
+        {
+          "name": "Take Note",
+          "url": "https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0"
+        },
+        {
+          "name": "GUILTY PLEASURE",
+          "url": "https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256875,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb"
+    },
+    {
+      "album": {
+        "name": "My Universe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199135,
+      "name": "My Universe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
+    },
+    {
+      "album": {
+        "name": "Naro",
+        "url": "https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU"
+      },
+      "artists": [
+        {
+          "name": "H93",
+          "url": "https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163533,
+      "name": "Naro",
+      "url": "https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK"
     },
     {
       "album": {
@@ -1672,7 +2324,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 233773,
       "name": "Naughty - Demicat Remix",
       "url": "https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA"
@@ -1694,7 +2346,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200366,
       "name": "Next Level - Habstrakt Remix",
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
@@ -1738,7 +2390,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 225877,
       "name": "Next Level - Lionclad Remix",
       "url": "https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv"
@@ -1760,10 +2412,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180816,
       "name": "Off Ways",
       "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
     },
     {
       "album": {
@@ -1852,7 +2522,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 191813,
       "name": "Perfume - Bronze & Jason Lee Remix",
       "url": "https://open.spotify.com/track/1RfFpaNcAFFZRUOc6awgMG"
@@ -1918,10 +2588,36 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 244992,
       "name": "Phantom - Pierre Blanche Remix",
       "url": "https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479"
+    },
+    {
+      "album": {
+        "name": "Photon",
+        "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
+      },
+      "artists": [
+        {
+          "name": "H93",
+          "url": "https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw"
+        },
+        {
+          "name": "Koriz",
+          "url": "https://open.spotify.com/artist/2pLjVFjvF73gyjXgOUGKQP"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Photon",
+      "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
     },
     {
       "album": {
@@ -1944,10 +2640,32 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 206500,
       "name": "Pinnacle - Pure 100% Remix",
       "url": "https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw"
+    },
+    {
+      "album": {
+        "name": "Pirate (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Pirate (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
     },
     {
       "album": {
@@ -1962,7 +2680,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 226440,
       "name": "Please Be My Light",
       "url": "https://open.spotify.com/track/2CagK8wBXVpc1Z3CQoEUFc"
@@ -2034,10 +2752,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 256959,
       "name": "Power - SHAUN Remix",
       "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
+    },
+    {
+      "album": {
+        "name": "Pressure (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Pressure - Radio Edit",
+      "url": "https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT"
     },
     {
       "album": {
@@ -2081,6 +2821,28 @@
     },
     {
       "album": {
+        "name": "Re: searchlight",
+        "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "yanaginagi",
+          "url": "https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310952,
+      "name": "Re: searchlight",
+      "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.25 : Red Flavor Remix",
         "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
@@ -2118,7 +2880,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214213,
       "name": "Ridin' - IMLAY Remix",
       "url": "https://open.spotify.com/track/2oQmOWx2DCkYm8uKuk5iVG"
@@ -2140,10 +2902,62 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 180200,
       "name": "Ridin' - Will Not Fear Remix",
       "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
+    },
+    {
+      "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Mbush",
+          "url": "https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
+    },
+    {
+      "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162363,
+      "name": "Safe & Sound",
+      "url": "https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G"
     },
     {
       "album": {
@@ -2191,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "SCIENTIST (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "album": {
         "name": "SCREAM",
         "url": "https://open.spotify.com/album/5CPafj4qfe1TYV5M8mS2AX"
       },
@@ -2202,7 +3038,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194569,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo"
@@ -2220,10 +3056,54 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 157252,
       "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
       "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "SET ME FREE (Lindgren Remix)",
+      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
+    },
+    {
+      "album": {
+        "name": "Seven (Weekend Ver.)",
+        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Seven (feat. Latto) (Festival Mix)",
+      "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
     },
     {
       "album": {
@@ -2238,7 +3118,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 195428,
       "name": "Shining Like the Sun in the Sky",
       "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
@@ -2256,7 +3136,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 117013,
       "name": "SKINS",
       "url": "https://open.spotify.com/track/6pqnm6ETZBIISxENuLOcht"
@@ -2278,10 +3158,32 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 187272,
       "name": "Smoothie - Arkins Remix",
       "url": "https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.31 : Smoothie Remix",
+        "url": "https://open.spotify.com/album/3XXPD9uGP7aLOJKFDDqULi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Smoothie - Arkins Remix",
+      "url": "https://open.spotify.com/track/7bdVccex2qKVLb209zzaOd"
     },
     {
       "album": {
@@ -2326,6 +3228,24 @@
       "duration_ms": 190000,
       "name": "Spicy - Nitepunk Remix",
       "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
+    },
+    {
+      "album": {
+        "name": "Standing Next to You (The Remixes)",
+        "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Standing Next to You (Future Funk Remix)",
+      "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
     },
     {
       "album": {
@@ -2402,10 +3322,28 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176008,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/4VCL2FCNn84FYaRXCVSeIa"
+    },
+    {
+      "album": {
+        "name": "Super (Workout Remix)",
+        "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "Super (Workout Remix)",
+      "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
     },
     {
       "album": {
@@ -2428,6 +3366,50 @@
       "duration_ms": 161727,
       "name": "Techno Drop",
       "url": "https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF"
+    },
+    {
+      "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185218,
+      "name": "The Feels (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "album": {
+        "name": "There For You (Club Mix)",
+        "url": "https://open.spotify.com/album/7meNcaWJISNWfOJv4gLv3Q"
+      },
+      "artists": [
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "Rob Adans",
+          "url": "https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190238,
+      "name": "There For You - Club Mix",
+      "url": "https://open.spotify.com/track/4gObgFsFGdKd1qgNEYfNLt"
     },
     {
       "album": {
@@ -2493,6 +3475,50 @@
     },
     {
       "album": {
+        "name": "TOMBOY (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "TOMBOY (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3"
       },
@@ -2508,7 +3534,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 221106,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl"
@@ -2541,6 +3567,50 @@
     },
     {
       "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "album": {
+        "name": "Virus",
+        "url": "https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL"
+    },
+    {
+      "album": {
         "name": "TENGGER",
         "url": "https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh"
       },
@@ -2552,10 +3622,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 316666,
       "name": "VORTEX",
       "url": "https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi"
+    },
+    {
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "album": {
@@ -2570,10 +3658,68 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 355852,
       "name": "Wish",
       "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
+    },
+    {
+      "album": {
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/5xI7NZB5pRtZVNaAzlBQhe"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "WITH U",
+      "url": "https://open.spotify.com/track/6g3vu8wRbKNNGPooas2Rxw"
+    },
+    {
+      "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "Without You (Alok Remix) (Radio Edit)",
+      "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
+    },
+    {
+      "album": {
+        "name": "TREASURE EP. Map To Answer",
+        "url": "https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "SEAN OH",
+          "url": "https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "WONDERLAND - SEAN OH's Skrt Mix",
+      "url": "https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM"
     },
     {
       "album": {
@@ -2592,7 +3738,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180000,
       "name": "WORK Pt.2 - ATEEZ X Don Diablo",
       "url": "https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY"
@@ -2610,7 +3756,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165893,
       "name": "WORK Pt.3 - ATEEZ X Eden-ary",
       "url": "https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB"
@@ -2628,7 +3774,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 468000,
       "name": "Worries",
       "url": "https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6"

@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 208426,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
@@ -1492,6 +1492,24 @@
       "duration_ms": 218773,
       "name": "big fat mouth",
       "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
+    },
+    {
+      "album": {
+        "name": "Birthday Baby (The Girl with No Smile)",
+        "url": "https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230355,
+      "name": "Birthday Baby (The Girl with No Smile)",
+      "url": "https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF"
     },
     {
       "album": {
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167289,
       "name": "Kick in the Teeth",
       "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
@@ -6663,6 +6681,24 @@
     },
     {
       "album": {
+        "name": "LOVEBITES",
+        "url": "https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "LOVEBITES",
+      "url": "https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum"
+    },
+    {
+      "album": {
         "name": "Low Again",
         "url": "https://open.spotify.com/album/248UYIf6N83YRecTmFikrx"
       },
@@ -6980,7 +7016,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180694,
       "name": "Millionaires",
       "url": "https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5"
@@ -10206,6 +10242,24 @@
       "duration_ms": 187228,
       "name": "Strawberry Daydream",
       "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
+    },
+    {
+      "album": {
+        "name": "Strawberry Jam",
+        "url": "https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Strawberry Jam",
+      "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
     },
     {
       "album": {

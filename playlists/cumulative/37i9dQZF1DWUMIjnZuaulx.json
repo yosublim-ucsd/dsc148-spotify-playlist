@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6hKHFC67DZJNw9tg1l0lIe\">Sinach</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3NYwlCIjzmWwNdLPGT9UV8\">Phil Thompson</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 270957,
       "name": "Abide In You - Live",
       "url": "https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI"
@@ -7370,7 +7370,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
@@ -7550,6 +7550,32 @@
       "duration_ms": 225882,
       "name": "Praise His Holy Name - Steppers Remix",
       "url": "https://open.spotify.com/track/2COIYESSMOjSNbm0X0nQK6"
+    },
+    {
+      "album": {
+        "name": "Praise Medley (Live)",
+        "url": "https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        },
+        {
+          "name": "Revival Today Worship",
+          "url": "https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524322,
+      "name": "Praise Medley - Live",
+      "url": "https://open.spotify.com/track/3YvkrCWErGF7GxO5N0li38"
     },
     {
       "album": {
@@ -8599,6 +8625,28 @@
     },
     {
       "album": {
+        "name": "Still Holy (Live)",
+        "url": "https://open.spotify.com/album/1CmIOASE6Acxh1rfPhhGOe"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297346,
+      "name": "Still Holy - Live",
+      "url": "https://open.spotify.com/track/3YsEogxeJAkMGHQfsPbpg2"
+    },
+    {
+      "album": {
         "name": "Strike The Ground",
         "url": "https://open.spotify.com/album/0K8g4Jxx5Fs7Dicck5r9wN"
       },
@@ -9372,7 +9420,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 284142,
       "name": "Throughout The Earth",
       "url": "https://open.spotify.com/track/3w7lUYlZfeOW7eg9hOZcIj"
@@ -10754,7 +10802,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 213920,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"

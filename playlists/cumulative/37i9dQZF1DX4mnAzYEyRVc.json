@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 267346,
       "name": "Blessed with a Melody",
       "url": "https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
@@ -3977,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233893,
+      "name": "I'd Do Anything (If I Could)",
+      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
+    },
+    {
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/0MVEJcAkjNVF17cqXSpjny"
       },
@@ -4317,6 +4335,28 @@
     },
     {
       "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
+      },
+      "artists": [
+        {
+          "name": "Sublime Reggae Kings",
+          "url": "https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN"
+        },
+        {
+          "name": "Nenei",
+          "url": "https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179109,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
+    },
+    {
+      "album": {
         "name": "Licensed to Ska",
         "url": "https://open.spotify.com/album/2xjaRqZe0SiwWgPjT8GGX5"
       },
@@ -4350,6 +4390,28 @@
       "duration_ms": 162440,
       "name": "Just Tell Me",
       "url": "https://open.spotify.com/track/39LglnawsbNgqF9BdT3wbp"
+    },
+    {
+      "album": {
+        "name": "Kalau Bulan Bisa Ngomong",
+        "url": "https://open.spotify.com/album/2EJfmC76VxM5dexFl45NZH"
+      },
+      "artists": [
+        {
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        },
+        {
+          "name": "Wika Salim",
+          "url": "https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294666,
+      "name": "Kalau Bulan Bisa Ngomong",
+      "url": "https://open.spotify.com/track/2W7S21zUjbNwaWNSE4ehr5"
     },
     {
       "album": {
@@ -6430,7 +6492,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 209626,
       "name": "Noc je je\u0161t\u011b mlad\u00e1",
       "url": "https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2"

@@ -2,9 +2,9 @@
 
 ### [Império do Metal](https://open.spotify.com/playlist/37i9dQZF1DX8MxTboxJuGE)
 
-> Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
+> Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-123 songs - 9 hr 17 min
+124 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Flanger Halen](https://open.spotify.com/track/6RF75LPULQRDy0jDq3TLIH) | [Vns Vinicius the Guitar Ripping](https://open.spotify.com/artist/6QAFhpCpL85jFpLSBeAJLj) | [Flanger Halen](https://open.spotify.com/album/7Mb5i8A5V3jdUDJIv9f2Ux) | 4:02 | 2023-07-14 |  |
 | [Gods Of The World](https://open.spotify.com/track/2iYBWJgNMqyezqWGUsPK6l) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Gods Of The World](https://open.spotify.com/album/2wignG8fzELVtVgMOOnifA) | 4:43 | 2023-10-13 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2023-07-14 |  |
-| [Hate](https://open.spotify.com/track/0ltqN1L7AMMXtGjVKgCDkM) | [antiSOCIAL](https://open.spotify.com/artist/07yUOyXATUrsJWEWQU7xBb) | [Hate](https://open.spotify.com/album/6qLPDR80q4SKtSUH3o6UWR) | 3:36 | 2023-07-14 |  |
+| [Hate](https://open.spotify.com/track/0ltqN1L7AMMXtGjVKgCDkM) | [antiSOCIAL](https://open.spotify.com/artist/07yUOyXATUrsJWEWQU7xBb) | [Hate](https://open.spotify.com/album/6qLPDR80q4SKtSUH3o6UWR) | 3:36 | 2023-07-14 | 2024-06-29 |
 | [Hellbound](https://open.spotify.com/track/1qd22CNn9ik9JOM8EgCpaa) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Hellbound](https://open.spotify.com/album/43YguZtzaTAF4J7iiuVZtU) | 4:02 | 2023-07-14 | 2024-04-19 |
 | [Hellbound](https://open.spotify.com/track/6yv0RXKJmr0zXKr6athGJ4) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Hellbound](https://open.spotify.com/album/2xCWxGDjsBOghqdroWf0r8) | 4:02 | 2024-04-05 |  |
 | [Heroes of Sand](https://open.spotify.com/track/7u7VM9dtMRygn59a5SDKCz) | [Nando Fernandes](https://open.spotify.com/artist/6e3Z5Yq6G5vcsuEnmBkeng) | [Edu Falaschi: a New Lease of Life \(Tribute\)](https://open.spotify.com/album/6OuMNT3xYHMWoYTgWxdExj) | 4:40 | 2023-07-14 |  |
@@ -73,6 +73,7 @@
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2023-07-14 |  |
 | [Perfect](https://open.spotify.com/track/4nxdJkLKOlsJQ1uQhxKiYk) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Welcome Home](https://open.spotify.com/album/1cWJUvXYMpNTIp7WD1aap4) | 3:21 | 2023-08-18 | 2024-04-19 |
 | [Perfect](https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Perfect](https://open.spotify.com/album/7blkysSNX8xNia9WoECqWk) | 3:21 | 2023-07-14 |  |
+| [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-28 |  |
 | [Post Traumatic Blues](https://open.spotify.com/track/2MB80OIsIgVIQtQtXgzRNM) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 5:43 | 2023-11-03 | 2024-04-19 |
 | [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 | 2023-09-15 |  |
 | [Repentless](https://open.spotify.com/track/65POu6kUQdR33JxwN92afX) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/4w99bkmWwryeYvw2zFYt9M) | 3:19 | 2024-04-05 |  |

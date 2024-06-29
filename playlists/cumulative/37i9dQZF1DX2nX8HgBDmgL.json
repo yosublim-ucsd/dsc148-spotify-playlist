@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>. Cover: Shazia Manzoor, Hasan Raheem",
+  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>. ",
   "name": "Desi Pop",
   "tracks": [
     {
@@ -3500,6 +3500,36 @@
       "duration_ms": 212928,
       "name": "Phone",
       "url": "https://open.spotify.com/track/6MRuNaMaH65vGyek33fXMV"
+    },
+    {
+      "album": {
+        "name": "Piya Piya Calling (feat. The Quick Style)",
+        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        },
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        },
+        {
+          "name": "The Quick Style",
+          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286122,
+      "name": "Piya Piya Calling (feat. The Quick Style)",
+      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
     },
     {
       "album": {

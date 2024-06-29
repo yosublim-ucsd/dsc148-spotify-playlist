@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44227,
+  "num_followers": 44229,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZdIAyT64+a2kjj98W2sXno4xSHaRy",
+  "snapshot_id": "AAAZdhwwoQJ1J2UZiDVA00/pgOtv2Pdw",
   "tracks": [
+    {
+      "added_at": "2024-06-28 16:07:04",
+      "album": {
+        "name": "For Life (feat. Manno)",
+        "url": "https://open.spotify.com/album/1rEYrmigEy0JEVN1jDgsg9"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Manno",
+          "url": "https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "For Life (feat. Manno)",
+      "url": "https://open.spotify.com/track/2i5a3TdgkcHPK9SSt1J4Nw"
+    },
+    {
+      "added_at": "2024-06-28 16:06:53",
+      "album": {
+        "name": "Move Your Feet (Like This)",
+        "url": "https://open.spotify.com/album/39DhmYTEg0M0jtjSbacrGw"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Move Your Feet (Like This)",
+      "url": "https://open.spotify.com/track/2Z0IPXm9YUEb8FWRTAiM3d"
+    },
     {
       "added_at": "2024-06-21 16:10:47",
       "album": {

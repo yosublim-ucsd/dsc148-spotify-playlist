@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Powerwolf
 
-602 songs - 1 day 22 hr 1 min
+603 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Godma](https://open.spotify.com/track/2zwBEhQ07Do6TsrnYCKvoa) | [Bulb](https://open.spotify.com/artist/2VD2tCp2pxWqsguRJUsSCB) | [Archives: Volume 1](https://open.spotify.com/album/7acypPZfKdM8YMVRlMCVwA) | 4:02 | 2022-07-13 | 2022-07-27 |
 | [Gods Of War](https://open.spotify.com/track/6BuzVtnvjc3mLXIuWPVOBL) | [Dragony](https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT) | [Viribus Unitis](https://open.spotify.com/album/4SkSm5iv5Mh1UkUB0GmOiU) | 3:36 | 2021-02-26 | 2022-01-22 |
 | [Golden Dawn](https://open.spotify.com/track/6fHfS2jRIrP52heiBobADA) | [Dragony](https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT) | [Golden Dawn](https://open.spotify.com/album/6KJWWRCjTEK1vstCfJk2I7) | 4:40 | 2020-12-11 | 2021-02-26 |
-| [Guiding Light](https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 3:57 | 2022-07-01 |  |
+| [Guiding Light](https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 3:57 | 2022-07-01 | 2024-06-29 |
 | [Gunman](https://open.spotify.com/track/3Mz5lXbMBK2tUmKAwAJwi1) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Gunmen](https://open.spotify.com/album/4yyNmVBMtdAcCTo51u4hvz) | 5:17 | 2020-11-29\* | 2021-02-12 |
 | [Götterdämmerung](https://open.spotify.com/track/55YRUWiZOr4VwLpBc8QBWI) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Götterdämmerung](https://open.spotify.com/album/0kh834SiX6ZoLU3X7kMJqu) | 3:44 | 2021-10-09 | 2022-05-14 |
 | [Handmade Cities](https://open.spotify.com/track/257CrtLcfv4n9bBuDU4vgQ) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr) | 4:45 | 2022-07-13 | 2022-07-30 |
@@ -532,6 +532,7 @@
 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 | 2022-03-18 |  |
 | [Then To Hell With You](https://open.spotify.com/track/1rrh2Aqj7390GGeGIcDuel) | [Liquorworks](https://open.spotify.com/artist/5N0HHSj9VyFK76Q22rU3FJ) | [Psycho Soundwaves](https://open.spotify.com/album/264qJqO8tNxzqU473ghu6O) | 7:22 | 2022-07-13 | 2022-07-30 |
 | [This God is Dead](https://open.spotify.com/track/458kbmGS0DVDs1OMb7V0WC) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o), [Roy Khan](https://open.spotify.com/artist/4hEwWtHVjJSCHpsimklGoe) | [This God is Dead](https://open.spotify.com/album/3X9qoDSRongWIaNG8pN60y) | 10:37 | 2021-06-04 | 2021-08-14 |
+| [Three Kings](https://open.spotify.com/track/0d40sFweIfsIqQSeIzLvHH) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [Three Kings](https://open.spotify.com/album/6jKXhTly2KwOXwO7ojA8oM) | 4:36 | 2024-06-24 |  |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/14hdSZI7inU3zrfhRutzDA) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/6tjLmagYorlDipMtYT1bay) | 7:06 | 2023-05-19 | 2024-02-24 |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 | 2021-12-11 | 2023-11-05 |
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 | 2023-04-15 |

@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 323760,
       "name": "Da Graveyard",
       "url": "https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU"
@@ -5332,7 +5332,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 245819,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
@@ -9165,6 +9165,36 @@
     },
     {
       "album": {
+        "name": "You Can't Stop the Reign",
+        "url": "https://open.spotify.com/album/206maUS8ZfsXFBDfJKnIUY"
+      },
+      "artists": [
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Lord Tariq",
+          "url": "https://open.spotify.com/artist/5EC3MUN6vECf8sxUU9IVw6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294782,
+      "name": "No Love Lost (feat. Jay-Z, Nas & Lord Tariq)",
+      "url": "https://open.spotify.com/track/4cSfoMZcNJm117RWXFCDDh"
+    },
+    {
+      "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/6dpOkokZkuRlHjdn6tDoaU"
       },
@@ -9202,6 +9232,24 @@
       "duration_ms": 147441,
       "name": "No Recognition",
       "url": "https://open.spotify.com/track/36K0WAKZhRaTXvBIHjiNS7"
+    },
+    {
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "No. 1 Headband",
+      "url": "https://open.spotify.com/track/1SKtsG3EsJw75hNMRrCgLm"
     },
     {
       "album": {
@@ -11288,7 +11336,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
@@ -12360,6 +12408,28 @@
       "duration_ms": 148314,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz"
+    },
+    {
+      "album": {
+        "name": "STANK ROSE",
+        "url": "https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "STANK ROSE",
+      "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
     },
     {
       "album": {

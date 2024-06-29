@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,221 songs - 2 day 14 hr 44 min
+1,224 songs - 2 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-10-30 | 2022-02-19 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Easier Said Than Done](https://open.spotify.com/album/2jQYIG9wE9pArx2ZQUXnvn) | 3:45 | 2021-02-06 | 2021-02-13 |
+| [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-28 |  |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-29\* | 2021-02-19 |
 | [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-03-29 | 2024-06-22 |
 | [Edgewood](https://open.spotify.com/track/0LtwtBZ6zkKw4XOlqVQ9Wd) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Edgewood](https://open.spotify.com/album/4Ou2P6tgp9mVu6H0UtVt7w) | 3:40 | 2020-11-14 | 2021-01-21 |
@@ -451,6 +452,7 @@
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-23 | 2022-03-12 |
 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 | 2022-08-12 | 2023-06-17 |
 | [Heartbreak of the Year](https://open.spotify.com/track/3b1HWyrQxsdeA29c8OBKA0) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Heartbreak of the Year](https://open.spotify.com/album/54YzxOzSjvot4JGh0ZiXye) | 2:58 | 2021-06-19 | 2021-07-31 |
+| [Heat Island Effect](https://open.spotify.com/track/47dZbpbyo0Oh9ew33xHraE) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Heat Island Effect](https://open.spotify.com/album/6soBeAi4xMhfhHKW9QAz0U) | 3:11 | 2024-06-28 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2020-10-29\* | 2021-01-21 |
 | [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 | 2022-03-18 | 2022-08-06 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-01-30 | 2021-03-27 |
@@ -873,7 +875,7 @@
 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 | 2022-08-12 | 2023-12-02 |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-05 | 2021-10-30 |
 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 | 2024-03-15 |  |
-| [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-16 |  |
+| [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-16 | 2024-06-29 |
 | [riptide](https://open.spotify.com/track/42Da30giIkPsirgWn3qMDP) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:32 | 2023-03-03 | 2024-01-27 |
 | [Riptides](https://open.spotify.com/track/1Q5uObiF2oDd2twHfrWkyo) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Riptides](https://open.spotify.com/album/35cAoLzarmlGmEUw56xlNs) | 3:18 | 2021-09-25 | 2022-01-15 |
 | [Room in the Desert](https://open.spotify.com/track/0dWNMfDfQaEayowTkCSXj8) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Room in the Desert](https://open.spotify.com/album/0Cyk0SwGH4voYoT9o10U74) | 2:57 | 2022-01-21 | 2022-04-16 |
@@ -917,7 +919,7 @@
 | [Setlist](https://open.spotify.com/track/4E500ArzZSmQdNdWGXXXTx) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Setlist](https://open.spotify.com/album/3qo3c4frcvgizpJqvNnCA6) | 2:31 | 2022-04-01 | 2022-04-23 |
 | [Seventh Story](https://open.spotify.com/track/7l5TmzvqhVnmS7haWquFej) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Seventh Story](https://open.spotify.com/album/6c3H98XcznZnIRmW1UKTRC) | 2:06 | 2024-03-01 | 2024-03-16 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-31 |  |
-| [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 | 2023-02-10 |  |
+| [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 | 2023-02-10 | 2024-06-29 |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-11 | 2021-12-18 |
 | [Shady](https://open.spotify.com/track/4SPq74rXWTLniPFUYxK2eh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Shady](https://open.spotify.com/album/1ZKO2za2kGt7e1dGOh8nIc) | 2:55 | 2020-11-14 | 2021-01-30 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-16 |
@@ -1013,7 +1015,7 @@
 | [Stupid 4 U](https://open.spotify.com/track/63U1ZQGiTQpJ6DP5vbyXCJ) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/0pDb1YcrQhm53dSMWPNvU8) | 3:56 | 2024-04-19 |  |
 | [Stupid 4 U](https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC) | 3:56 | 2023-08-18 | 2023-08-21 |
 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 | 2023-10-13 |  |
-| [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 | 2023-02-16 |  |
+| [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 | 2023-02-16 | 2024-06-29 |
 | [Sugar Cane](https://open.spotify.com/track/2sZmWnIzxhRgcRUYelB7uT) | [Nawms](https://open.spotify.com/artist/6efvYNQ3tDNE6Dn8IDzvEw), [Emilia Ali](https://open.spotify.com/artist/1mYkjTt1PWeSzxNoAsSd37) | [Sugar Cane](https://open.spotify.com/album/3dbX5k1YlERrrme5OG6aZy) | 3:17 | 2020-11-28 | 2021-01-21 |
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-05 |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-05-22 | 2021-07-10 |
@@ -1111,6 +1113,7 @@
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-13 | 2021-04-24 |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-27 | 2021-06-05 |
 | [Trees](https://open.spotify.com/track/6YLhqdCWw0RYe0kDFUWRqh) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Lonely Never Felt So Good](https://open.spotify.com/album/2CiV7RABTWEJJnkbAMuAq3) | 2:51 | 2021-03-27 | 2021-06-05 |
+| [trophy wife](https://open.spotify.com/track/0PhejYk9QZijuKAvBI43x9) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [trophy wife](https://open.spotify.com/album/2iJc8FbBbIw0Vpx84dL0xv) | 2:49 | 2024-06-28 |  |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-08-06 |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-03-15 |  |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-13 | 2024-06-01 |

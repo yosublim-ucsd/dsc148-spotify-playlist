@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 194644,
+  "num_followers": 194689,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Not Your Kind",
-        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
-      },
-      "artists": [
-        {
-          "name": "Hoity-Toity",
-          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
-        }
-      ],
-      "duration_ms": 274340,
-      "name": "Y'know",
-      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Facades",
         "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 96051,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Not Your Kind",
+        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
+      },
+      "artists": [
+        {
+          "name": "Hoity-Toity",
+          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
+        }
+      ],
+      "duration_ms": 274340,
+      "name": "Y'know",
+      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 107036,
+  "num_followers": 107077,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "The Word Is Love (S&S Remixes)",
+        "url": "https://open.spotify.com/album/0p7AhefpXeRpmq5lcJ5jCm"
+      },
+      "artists": [
+        {
+          "name": "Sharon Pass",
+          "url": "https://open.spotify.com/artist/55lRLTQflPdb3Yxt48i8TT"
+        },
+        {
+          "name": "Steve \"Silk\" Hurley",
+          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
+        }
+      ],
+      "duration_ms": 538613,
+      "name": "The Word Is Love - Silks Orginal Anthem Mix",
+      "url": "https://open.spotify.com/track/1HrA0bW2Gv09RLqgdq6SWu"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -663,22 +683,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "The Word Is Love (S&S Remixes)",
-        "url": "https://open.spotify.com/album/0p7AhefpXeRpmq5lcJ5jCm"
+        "name": "Atmosfear",
+        "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
       },
       "artists": [
         {
-          "name": "Sharon Pass",
-          "url": "https://open.spotify.com/artist/55lRLTQflPdb3Yxt48i8TT"
-        },
-        {
-          "name": "Steve \"Silk\" Hurley",
-          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
         }
       ],
-      "duration_ms": 538613,
-      "name": "The Word Is Love - Silks Orginal Anthem Mix",
-      "url": "https://open.spotify.com/track/1HrA0bW2Gv09RLqgdq6SWu"
+      "duration_ms": 310040,
+      "name": "Colouration",
+      "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 415933,
       "name": "Shades of Jae",
       "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Atmosfear",
-        "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Colouration",
-      "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "He Is The Joy",
-        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
-      },
-      "artists": [
-        {
-          "name": "Donna Allen",
-          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
-        },
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
-        }
-      ],
-      "duration_ms": 546000,
-      "name": "He Is The Joy - U.B.P. Classic Mix",
-      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
       },
@@ -915,18 +895,42 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+        "name": "He Is The Joy",
+        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
       },
       "artists": [
         {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+          "name": "Donna Allen",
+          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
+        },
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
         }
       ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+      "duration_ms": 546000,
+      "name": "He Is The Joy - U.B.P. Classic Mix",
+      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -951,6 +955,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "At the Club",
         "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 314146,
       "name": "At the Club",
       "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "You Bring Joy",
+        "url": "https://open.spotify.com/album/1tc5XtUJoVoMT4e5RR2Vmx"
+      },
+      "artists": [
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "You Bring Joy - Radio Edit",
+      "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 236900,
       "name": "Holy Sun - Retromigration Remix - Edit",
       "url": "https://open.spotify.com/track/4AR4AyuKGNdqtaFZgOvsj6"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "You Bring Joy",
-        "url": "https://open.spotify.com/album/1tc5XtUJoVoMT4e5RR2Vmx"
-      },
-      "artists": [
-        {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "You Bring Joy - Radio Edit",
-      "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
-      },
-      "artists": [
-        {
-          "name": "Leroy Styles",
-          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
-        },
-        {
-          "name": "Mister Vi",
-          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
-        }
-      ],
-      "duration_ms": 596157,
-      "name": "I'm A Blessed Man",
-      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 606093,
       "name": "See-Line Woman - Masters At Work Remix",
       "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Mister Vi",
+          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
+        }
+      ],
+      "duration_ms": 596157,
+      "name": "I'm A Blessed Man",
+      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1431,30 +1431,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Dangerous Vibes",
-        "url": "https://open.spotify.com/album/2vmbTbPhF34PAichMEpgWQ"
-      },
-      "artists": [
-        {
-          "name": "Ferry Ultra",
-          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
-        }
-      ],
-      "duration_ms": 205167,
-      "name": "Dangerous Vibes - Emmaculate Remix Edit",
-      "url": "https://open.spotify.com/track/1zdXjvO3NQkz0fljwj3i5W"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Devoted",
         "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
       },
@@ -1475,6 +1451,30 @@
       "duration_ms": 220475,
       "name": "Devoted - Radio Edit",
       "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Dangerous Vibes",
+        "url": "https://open.spotify.com/album/2vmbTbPhF34PAichMEpgWQ"
+      },
+      "artists": [
+        {
+          "name": "Ferry Ultra",
+          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "duration_ms": 205167,
+      "name": "Dangerous Vibes - Emmaculate Remix Edit",
+      "url": "https://open.spotify.com/track/1zdXjvO3NQkz0fljwj3i5W"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        }
+      ],
+      "duration_ms": 406813,
+      "name": "Bad Habit - feat. Lisa Millett",
+      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Testify (Urban Blues Project present Jay Williams)",
         "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 509237,
       "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
       "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        }
-      ],
-      "duration_ms": 406813,
-      "name": "Bad Habit - feat. Lisa Millett",
-      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Never Saw You Coming",
         "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
+        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 365395,
+      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
+      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X"
       },
@@ -1871,22 +1891,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
-        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
       },
       "artists": [
         {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
         }
       ],
-      "duration_ms": 365395,
-      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
-      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+      "duration_ms": 229464,
+      "name": "I Never Knew Love - Made In Detroit Mix",
+      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1911,22 +1927,6 @@
       "duration_ms": 405301,
       "name": "BACK TO BASIC - Soul Clap groove remix",
       "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "I Never Knew Love",
-        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "I Never Knew Love - Made In Detroit Mix",
-      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1991,66 +1991,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
-        "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
-      },
-      "artists": [
-        {
-          "name": "Key To Life",
-          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
-        },
-        {
-          "name": "Sabrina Johnston",
-          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        }
-      ],
-      "duration_ms": 184997,
-      "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
-      "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Want You In My Soul (Remixes)",
-        "url": "https://open.spotify.com/album/0dGZWAxekPJ2FHbZBQubHx"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
-        }
-      ],
-      "duration_ms": 497521,
-      "name": "Want You In My Soul - Club Mix",
-      "url": "https://open.spotify.com/track/4DU9rzgRaYPDrdrWieP5Ko"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Track 1 Revisited - Single",
-        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 348480,
-      "name": "Track 1 Revisited - Reel to Reel Mix",
-      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Warning (Radio Edit)",
         "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
       },
@@ -2079,26 +2019,62 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Fix Your Love",
-        "url": "https://open.spotify.com/album/4Yinw5qIb3dMxdmSGQdYmP"
+        "name": "Want You In My Soul (Remixes)",
+        "url": "https://open.spotify.com/album/0dGZWAxekPJ2FHbZBQubHx"
       },
       "artists": [
         {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
         },
         {
-          "name": "Bongi Mvuyana",
-          "url": "https://open.spotify.com/artist/69F8DlgzaT8p6t2XkNLW4g"
-        },
-        {
-          "name": "Kafele",
-          "url": "https://open.spotify.com/artist/7n8KEGYBg5EoZDcH3eZYqa"
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
         }
       ],
-      "duration_ms": 409781,
-      "name": "Fix Your Love - Main Mix",
-      "url": "https://open.spotify.com/track/5Rcny33B7eTuPSbMyY6Aoi"
+      "duration_ms": 497521,
+      "name": "Want You In My Soul - Club Mix",
+      "url": "https://open.spotify.com/track/4DU9rzgRaYPDrdrWieP5Ko"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
+        "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
+      },
+      "artists": [
+        {
+          "name": "Key To Life",
+          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
+        },
+        {
+          "name": "Sabrina Johnston",
+          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "duration_ms": 184997,
+      "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Track 1 Revisited - Single",
+        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 348480,
+      "name": "Track 1 Revisited - Reel to Reel Mix",
+      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2123,26 +2099,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Karizma Remixed",
-        "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
+        "name": "Fix Your Love",
+        "url": "https://open.spotify.com/album/4Yinw5qIb3dMxdmSGQdYmP"
       },
       "artists": [
         {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
         },
         {
-          "name": "Nicholas Ryan Gant",
-          "url": "https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS"
+          "name": "Bongi Mvuyana",
+          "url": "https://open.spotify.com/artist/69F8DlgzaT8p6t2XkNLW4g"
         },
         {
-          "name": "Coflo",
-          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+          "name": "Kafele",
+          "url": "https://open.spotify.com/artist/7n8KEGYBg5EoZDcH3eZYqa"
         }
       ],
-      "duration_ms": 476097,
-      "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
-      "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
+      "duration_ms": 409781,
+      "name": "Fix Your Love - Main Mix",
+      "url": "https://open.spotify.com/track/5Rcny33B7eTuPSbMyY6Aoi"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2163,6 +2139,30 @@
       "duration_ms": 435306,
       "name": "Sentindo Muito Bem - Original Mix",
       "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Karizma Remixed",
+        "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "Nicholas Ryan Gant",
+          "url": "https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS"
+        },
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
+      "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2503,26 +2503,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Be Free",
-        "url": "https://open.spotify.com/album/7z4tUYpkqZXsAw4pu8CSaX"
-      },
-      "artists": [
-        {
-          "name": "Spiritchaser",
-          "url": "https://open.spotify.com/artist/05FYF8i0eXeZjLLLcgc8HJ"
-        },
-        {
-          "name": "Terry Grant",
-          "url": "https://open.spotify.com/artist/6msfT26DWbAopZgHC6M9VL"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/7c48NsnACcNlYgkOltbFdn"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Make A Way",
         "url": "https://open.spotify.com/album/1naMhW1gTqsRdRwwGwmZPV"
       },
@@ -2543,6 +2523,26 @@
       "duration_ms": 166874,
       "name": "Make A Way - Radio Mix",
       "url": "https://open.spotify.com/track/3uVlZFHNyOw65Q5flFIwTY"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/7z4tUYpkqZXsAw4pu8CSaX"
+      },
+      "artists": [
+        {
+          "name": "Spiritchaser",
+          "url": "https://open.spotify.com/artist/05FYF8i0eXeZjLLLcgc8HJ"
+        },
+        {
+          "name": "Terry Grant",
+          "url": "https://open.spotify.com/artist/6msfT26DWbAopZgHC6M9VL"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/7c48NsnACcNlYgkOltbFdn"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2743,26 +2743,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
-      },
-      "artists": [
-        {
-          "name": "Robert Strauss",
-          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
-        },
-        {
-          "name": "Dj Spinna",
-          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
-        }
-      ],
-      "duration_ms": 421506,
-      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Love Bomb",
         "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
       },
@@ -2779,6 +2759,26 @@
       "duration_ms": 554754,
       "name": "Earl Montana",
       "url": "https://open.spotify.com/track/7LQljpknL37lW8ki3l5Ny2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
+      },
+      "artists": [
+        {
+          "name": "Robert Strauss",
+          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
+        },
+        {
+          "name": "Dj Spinna",
+          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
+        }
+      ],
+      "duration_ms": 421506,
+      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2843,6 +2843,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Finesse Me",
+        "url": "https://open.spotify.com/album/54YYEj5sQE1M5PtLUfGhmw"
+      },
+      "artists": [
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        },
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "duration_ms": 296347,
+      "name": "Finesse Me - Ancestral Soul Mix",
+      "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "If Luvin You Is Wrong",
         "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
       },
@@ -2883,26 +2903,6 @@
       "duration_ms": 526800,
       "name": "Holiday - Kenny Dope Main Pass",
       "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Finesse Me",
-        "url": "https://open.spotify.com/album/54YYEj5sQE1M5PtLUfGhmw"
-      },
-      "artists": [
-        {
-          "name": "Boddhi Satva",
-          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
-        },
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        }
-      ],
-      "duration_ms": 296347,
-      "name": "Finesse Me - Ancestral Soul Mix",
-      "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2991,42 +2991,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) [Louie Vega & Josh Milan Mixes]",
-        "url": "https://open.spotify.com/album/4u0byR8K2jXpAuWiEI5jRu"
-      },
-      "artists": [
-        {
-          "name": "Dames Brown",
-          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
-        },
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        },
-        {
-          "name": "Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/4F9A2C8mnGhyavAaxKsS9c"
-        },
-        {
-          "name": "Josh Milan",
-          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
-        },
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Two Soul Fusion",
-          "url": "https://open.spotify.com/artist/2T0zwuNpohTRl07n0lLweb"
-        }
-      ],
-      "duration_ms": 502764,
-      "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
-      "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -3071,6 +3035,42 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) [Louie Vega & Josh Milan Mixes]",
+        "url": "https://open.spotify.com/album/4u0byR8K2jXpAuWiEI5jRu"
+      },
+      "artists": [
+        {
+          "name": "Dames Brown",
+          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
+        },
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        },
+        {
+          "name": "Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/4F9A2C8mnGhyavAaxKsS9c"
+        },
+        {
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Two Soul Fusion",
+          "url": "https://open.spotify.com/artist/2T0zwuNpohTRl07n0lLweb"
+        }
+      ],
+      "duration_ms": 502764,
+      "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
+      "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/0WSuifTXmz50xOidZsO0rZ"
       },
@@ -3091,22 +3091,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "My Joy",
-        "url": "https://open.spotify.com/album/27rIANFRAOW510xsZQa0wO"
+        "name": "Defenders of Justice",
+        "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
       },
       "artists": [
         {
-          "name": "Frankie Feliciano",
-          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
+          "name": "Harley&Muscle",
+          "url": "https://open.spotify.com/artist/7xD1o7BukHEZHTj6ITdfPn"
         },
         {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+          "name": "Marie Tweek",
+          "url": "https://open.spotify.com/artist/6fwewP9y9cXcYwp8hkO6iV"
         }
       ],
-      "duration_ms": 424320,
-      "name": "My Joy - DJ Beloved & Reggie Steele Remix Vocal",
-      "url": "https://open.spotify.com/track/1Nblgxqhj82fdNDwvj9sDn"
+      "duration_ms": 435520,
+      "name": "Games We Play",
+      "url": "https://open.spotify.com/track/3UNEEwqVInIFTCZBS46EfC"
     }
   ],
   "unique_name": "Soulful House",

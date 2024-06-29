@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 ### [This Is Kacey Musgraves](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Rn9u)
 
-> This is Kacey Musgraves\. The essential tracks, all in one playlist.
+> This is Kacey Musgraves\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,056 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,105 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 44 | [Somebody To Love](https://open.spotify.com/track/3EFbnBUr70peMlk8g5XzT3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:13 |
 | 45 | [My House](https://open.spotify.com/track/5GMaBMKjisLhVfjRoH5BaW) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 2:40 |
 
-Snapshot ID: `ZntaAAAAAADXHvpCQCgedees7x6s/CKG`
+Snapshot ID: `ZntaAAAAAAB/wGUeXsfZd6q27LDYaUIX`

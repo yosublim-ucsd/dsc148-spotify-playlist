@@ -1,13 +1,29 @@
 {
-  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Normani",
-  "num_followers": 333637,
+  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Latto",
+  "num_followers": 333627,
   "original_name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAAOlXPw1r//49uu7PRq4tUEXT80rxnb",
+  "snapshot_id": "AAAOmmSrkSl1DRarGZNUf/+8j6W9wPsp",
   "tracks": [
+    {
+      "added_at": "2024-06-28 14:11:12",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
+    },
     {
       "added_at": "2024-06-14 13:00:09",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O"
     },
     {
+      "added_at": "2024-06-28 14:10:19",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 369040,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7cioKB5CHVzk09SOtTyn0T"
+    },
+    {
       "added_at": "2024-06-21 14:07:02",
       "album": {
         "name": "MUSCLE",
@@ -39,6 +71,42 @@
       "duration_ms": 149052,
       "name": "MUSCLE",
       "url": "https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK"
+    },
+    {
+      "added_at": "2024-06-28 14:10:27",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-06-28 14:10:27",
+      "album": {
+        "name": "PERROS&GATA$",
+        "url": "https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/3mTZeBUkzqhE0Qk82ET3Yg"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "PERROS&GATA$",
+      "url": "https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM"
     },
     {
       "added_at": "2024-05-31 13:51:42",

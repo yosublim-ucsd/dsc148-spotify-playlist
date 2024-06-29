@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 ### [This Is Hildur Guðnadóttir](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l9E1r)
 
-> This is: Hildur Guðnadóttir\. Alle wichtigen Tracks in einer Playlist.
+> This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,882 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Peace Of God](https://open.spotify.com/track/0rjwfAoxHbUzEzQGx7VaO6) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 2:17 |
 | 50 | [Rennur Upp](https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 3:01 |
 
-Snapshot ID: `ZntaAAAAAADagZ6Hx+CsK/sZKNnMD7xS`
+Snapshot ID: `ZntaAAAAAADxa9NbZaG4uV9tPWXRvIFw`

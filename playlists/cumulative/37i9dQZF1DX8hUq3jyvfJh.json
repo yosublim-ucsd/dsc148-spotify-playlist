@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Daqui pra Sempre",
+        "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171082,
+      "name": "A Ot\u00e1ria",
+      "url": "https://open.spotify.com/track/6lFDoy6nuaU2q0DK5rZZ6N"
+    },
+    {
+      "album": {
         "name": "A Partir de Hoje",
         "url": "https://open.spotify.com/album/0qEQzBUKaNgrTGJgB8KxBY"
       },
@@ -12368,6 +12390,28 @@
       "duration_ms": 164741,
       "name": "Neg\u00f3cio na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZIrnCHZhVOeFjedBBVtp2"
+    },
+    {
+      "album": {
+        "name": "Nem a Pau (feat. Simone Mendes) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa"
     },
     {
       "album": {

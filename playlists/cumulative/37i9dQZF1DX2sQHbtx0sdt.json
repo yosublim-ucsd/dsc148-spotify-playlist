@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Central Cee & Lil Baby \ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8",
+  "description": "New and trending hip-hop from around the world. Cover: ANNA \ud83c\uddee\ud83c\uddf9",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 149253,
       "name": "18 CARATS",
       "url": "https://open.spotify.com/track/76Z6jo16Z5NnZpUbXdx0FK"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167368,
       "name": "ARABI",
       "url": "https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 133741,
       "name": "Bhabi",
       "url": "https://open.spotify.com/track/0SQQc3FJiY1pMUV3GJ0vUN"
@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119217,
+      "name": "BIKINI (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "album": {
         "name": "COMBO",
         "url": "https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P"
       },
@@ -1272,6 +1294,24 @@
       "duration_ms": 139386,
       "name": "BINBO",
       "url": "https://open.spotify.com/track/5LCy0CEMxHKctk1HIQMvbJ"
+    },
+    {
+      "album": {
+        "name": "BIRKINS",
+        "url": "https://open.spotify.com/album/78qkfnC8ghIaBDkc8M5XlZ"
+      },
+      "artists": [
+        {
+          "name": "aisu",
+          "url": "https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160952,
+      "name": "BIRKINS",
+      "url": "https://open.spotify.com/track/3zOKfrS1iF6ds9SscyvX6b"
     },
     {
       "album": {
@@ -2390,6 +2430,32 @@
       "duration_ms": 145161,
       "name": "DIE ZONA",
       "url": "https://open.spotify.com/track/5tafJmErKsdZKFtPWnCL82"
+    },
+    {
+      "album": {
+        "name": "Dilemma (Feat. Sidhu Moose Wala)",
+        "url": "https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203918,
+      "name": "Dilemma (Feat. Sidhu Moose Wala)",
+      "url": "https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya"
     },
     {
       "album": {
@@ -4200,7 +4266,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 157808,
       "name": "Ije Nwoke",
       "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
@@ -4797,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "LET ME!",
+        "url": "https://open.spotify.com/album/5Iva804YJ5Xan31uPYMYdA"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "LET ME!",
+      "url": "https://open.spotify.com/track/6GChnbdziJOQARYGrw43Rg"
+    },
+    {
+      "album": {
         "name": "Let The Boy Die",
         "url": "https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y"
       },
@@ -4859,6 +4943,28 @@
     },
     {
       "album": {
+        "name": "LIMIT YOK (feat. Geolier)",
+        "url": "https://open.spotify.com/album/57vfwkFxrb6FP4XWwKcINC"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154760,
+      "name": "LIMIT YOK (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0oeklrrzFKY6GUay5zkpm7"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
       },
@@ -4910,7 +5016,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 130434,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6xEhOHp64vTs0cLSrD0c4a"
@@ -5016,7 +5122,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 128337,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/4r7pq14ALrNSXTdIDNj0D0"
@@ -5148,6 +5254,36 @@
       "duration_ms": 196089,
       "name": "Magot",
       "url": "https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm"
+    },
+    {
+      "album": {
+        "name": "The Last One",
+        "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Make a W (feat. Skrillex, AJ Tracey & BEAM)",
+      "url": "https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq"
     },
     {
       "album": {
@@ -5680,6 +5816,58 @@
       "duration_ms": 138345,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/2J3XiLFW6yiqoKpOukbbpR"
+    },
+    {
+      "album": {
+        "name": "Miss Independent",
+        "url": "https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
+    },
+    {
+      "album": {
+        "name": "MON AMI (feat. MERO, Gu\u00e8 & Emis Killa)",
+        "url": "https://open.spotify.com/album/4WgLyGfFVhfzQ1zCQJFO9l"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194481,
+      "name": "MON AMI (feat. MERO, Gu\u00e8 & Emis Killa)",
+      "url": "https://open.spotify.com/track/3A4OIQpuwZbSZgGSrdm4LR"
     },
     {
       "album": {
@@ -6702,7 +6890,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 145710,
       "name": "Pistola",
       "url": "https://open.spotify.com/track/4jW72qHZVelkIGc7fmomfd"
@@ -6764,7 +6952,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 141226,
       "name": "Position",
       "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
@@ -6927,6 +7115,28 @@
     },
     {
       "album": {
+        "name": "pull up",
+        "url": "https://open.spotify.com/album/4Ewyr64Uz4ZBxqlkgPAr0I"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Beau Nox",
+          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152865,
+      "name": "pull up (feat. Beau Nox)",
+      "url": "https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -6942,6 +7152,28 @@
       "duration_ms": 143540,
       "name": "PULL UP!",
       "url": "https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ"
+    },
+    {
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "PUT EM IN THE FRIDGE",
+      "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
     },
     {
       "album": {
@@ -7092,7 +7324,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 142227,
       "name": "real feel",
       "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
@@ -7246,6 +7478,24 @@
       "duration_ms": 217500,
       "name": "RO7 3ALATOL",
       "url": "https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "album": {
@@ -8226,7 +8476,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 153649,
       "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
@@ -8486,7 +8736,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 217773,
       "name": "Ti\u00e9 fou",
       "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
@@ -9246,6 +9496,24 @@
       "duration_ms": 170550,
       "name": "WONDERFUL LIFE",
       "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"
+    },
+    {
+      "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136418,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA"
     },
     {
       "album": {

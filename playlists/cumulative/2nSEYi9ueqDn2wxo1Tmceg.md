@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K?si=w8bfuFXaS8up2\_BtCVV3zw">One True Pairing</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ\_gbwb9R4EA">Buscabulla</a>
 
-969 songs - 2 day 18 hr 49 min
+970 songs - 2 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 | 2023-11-27 | 2024-02-01 |
 | [The Love Song](https://open.spotify.com/track/5nBzXJfSqVtPKr5rRocFrZ) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Limerence](https://open.spotify.com/album/30NW57xIH28DZUSf3L8eLX) | 4:29 | 2023-02-15 | 2023-03-30 |
 | [The Main Thing](https://open.spotify.com/track/6bsVnmyNlehbQvLX5xBuDR) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [The Main Thing](https://open.spotify.com/album/5VDdRQdLibcyNdXjc5Dtkz) | 2:58 | 2023-11-08 | 2023-12-14 |
+| [The Morning Of The Executioners](https://open.spotify.com/track/4l4XfSdjmYM8SODyXKOJyY) | [Stephen Pastel](https://open.spotify.com/artist/1Mgkzst7Krb2uB3Ourbfby), [Gavin Thomson](https://open.spotify.com/artist/19sJuu2SqWOfW8vDU2PHhL), [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [This Is Memorial Device](https://open.spotify.com/album/3A4f1wMZMb4aBVuJMjq6IV) | 4:46 | 2024-06-28 |  |
 | [The Most Beautiful House in Airdrie](https://open.spotify.com/track/0jYLOupmWz7ue01rxZ3b6S) | [Stephen Pastel](https://open.spotify.com/artist/1Mgkzst7Krb2uB3Ourbfby), [Gavin Thomson](https://open.spotify.com/artist/19sJuu2SqWOfW8vDU2PHhL), [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [The Most Beautiful House in Airdrie](https://open.spotify.com/album/17JhIdt9GnKDFpiiaYbYez) | 3:38 | 2024-06-10 |  |
 | [The Musical](https://open.spotify.com/track/5x5aqkqUDMdaFEEzuOTt7X) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [The Musical / Hey Bog](https://open.spotify.com/album/2NH3n58J1Zvabciudok71a) | 5:54 | 2023-01-10 | 2023-02-23 |
 | [The Needle](https://open.spotify.com/track/47fVWmk4VKwcB6h0ybsxIZ) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Snake Sideways](https://open.spotify.com/album/1XElBfTjM2V9H5hFxfjYhk) | 3:48 | 2023-07-05 | 2023-08-10 |

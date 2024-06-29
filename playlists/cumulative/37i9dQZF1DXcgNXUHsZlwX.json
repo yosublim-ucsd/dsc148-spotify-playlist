@@ -4965,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Mais je sais que tu m'attends",
+      "url": "https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal"
+    },
+    {
+      "album": {
         "name": "Maison ouverte",
         "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
       },
@@ -8634,7 +8652,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 220639,
       "name": "\u00cele fossiles",
       "url": "https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v"

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-466 songs - 1 day 3 hr 53 min
+467 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Madeleine](https://open.spotify.com/track/7DQ2KNEBrVb9W2QosU8GbL) | [Chloé Lacasse](https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz) | [Madeleine](https://open.spotify.com/album/4Y5VwNTQ6Ww4FK88DpvihT) | 3:56 | 2021-09-17 | 2022-07-27 |
 | [Madonna](https://open.spotify.com/track/514VtijAeGzvPlYsFXHXfp) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Nature humaine](https://open.spotify.com/album/4GPbEoHBBF343EOjfojUaM) | 4:06 | 2021-01-03\* | 2021-10-20 |
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 |  |
+| [Mais je sais que tu m'attends](https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:05 | 2024-06-28 |  |
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 | 2024-04-08 |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2021-01-15 | 2022-07-29 |
 | [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 | 2023-12-01 | 2024-06-01 |
@@ -473,6 +474,6 @@
 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 |  |
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
-| [Île fossiles](https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v) | [Makenzie](https://open.spotify.com/artist/13tbVKy5Kmvj8dvBIEzIdS) | [Mousses Mémoires](https://open.spotify.com/album/4Jzwiv01wtaFmZHRJrOCJ9) | 3:40 | 2024-06-07 |  |
+| [Île fossiles](https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v) | [Makenzie](https://open.spotify.com/artist/13tbVKy5Kmvj8dvBIEzIdS) | [Mousses Mémoires](https://open.spotify.com/album/4Jzwiv01wtaFmZHRJrOCJ9) | 3:40 | 2024-06-07 | 2024-06-29 |
 
 \*This playlist was first scraped on 2021-01-03. Prior content cannot be recovered.

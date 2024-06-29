@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,942 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,965 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 16 | [AM\-PM \(Gluttony\)](https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [AM\-PM \(Gluttony\)](https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52) | 2:48 |
 | 17 | [Bounce B\#tch](https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Bounce B\#tch](https://open.spotify.com/album/4AeJff1Luy0nNTDchtaacw) | 2:07 |
 | 18 | [I'm Me](https://open.spotify.com/track/2RAnGGv0jVWMmtFvskh7Fo) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [I'm Me](https://open.spotify.com/album/5s3YB12cqHIU5tS0s1kcT5) | 2:51 |
-| 19 | [Hero](https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Hero](https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS) | 3:02 |
+| 19 | [Dissolve My Mind](https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Dissolve My Mind](https://open.spotify.com/album/4LzpG7zgNbRvejVUpx0U4W) | 4:11 |
 | 20 | [Absolution](https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Absolution](https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp) | 3:44 |
-| 21 | [Dissolve My Mind](https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Dissolve My Mind](https://open.spotify.com/album/4LzpG7zgNbRvejVUpx0U4W) | 4:11 |
+| 21 | [Hero](https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Hero](https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS) | 3:02 |
 | 22 | [In Hardstyle We Trust \- Melody Mix](https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [In Hardstyle We Trust \(Melody Mix\)](https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP) | 3:55 |
 | 23 | [Living In A Rave](https://open.spotify.com/track/1jtelkyKjyRJTIhhf4yfxG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Living In A Rave](https://open.spotify.com/album/2cBej5XP6FobrzbHVLooZW) | 3:19 |
 | 24 | [Impact](https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Impact](https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY) | 3:39 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 48 | [Worlds Collide \- Omnya Remix](https://open.spotify.com/track/2uSrTcuAgfNQSEoXDOfAUe) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [Worlds Collide \(Omnya Remix\)](https://open.spotify.com/album/4tr0H7vrHhGkKJ4zvEvjsk) | 3:31 |
 | 49 | [Unite](https://open.spotify.com/track/0EBURzaaZP0wHABAK0KajO) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Unite](https://open.spotify.com/album/22rdKqGyiQu7oJHtFppjdE) | 3:21 |
 | 50 | [Exhale](https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU) | 3:32 |
-| 51 | [Get Stompin](https://open.spotify.com/track/7xss5lFXrXr1lD4oqvfFUo) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Get Stompin](https://open.spotify.com/album/5PFPqNAQ7TPziUoWiINBbK) | 3:06 |
-| 52 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
+| 51 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
+| 52 | [Get Stompin](https://open.spotify.com/track/7xss5lFXrXr1lD4oqvfFUo) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Get Stompin](https://open.spotify.com/album/5PFPqNAQ7TPziUoWiINBbK) | 3:06 |
 | 53 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 |
 | 54 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 |
 | 55 | [Never Be Alone](https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Never Be Alone](https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ) | 2:45 |

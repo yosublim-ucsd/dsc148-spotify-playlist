@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this. Cover: Halsey",
+  "description": "heartbreak feels good in a place like this. Cover: Jax",
   "name": "sad hour",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 208500,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/26b2184K8AbuALqmkfznSl"
@@ -798,10 +798,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180374,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/6ALA4ufYLfN5hC4lxBX4FV"
+    },
+    {
+      "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/2I65asGzHk1UogiMuM0BIe"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146603,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ"
     },
     {
       "album": {
@@ -1003,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
+    },
+    {
+      "album": {
         "name": "Backseat (All I Got)",
         "url": "https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR"
       },
@@ -1018,6 +1054,24 @@
       "duration_ms": 153466,
       "name": "Backseat (All I Got)",
       "url": "https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU"
+    },
+    {
+      "album": {
+        "name": "bad emotions",
+        "url": "https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185272,
+      "name": "bad emotions",
+      "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
     },
     {
       "album": {
@@ -4699,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Hearts Get Broken",
+        "url": "https://open.spotify.com/album/0LEc3UGGhRAy8kluAyeTzA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186898,
+      "name": "Hearts Get Broken",
+      "url": "https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu"
+    },
+    {
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -5038,6 +5110,24 @@
       "duration_ms": 187813,
       "name": "How Could You",
       "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
+    },
+    {
+      "album": {
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238246,
+      "name": "HOW DARE YOU",
+      "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
     },
     {
       "album": {
@@ -6370,7 +6460,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165203,
       "name": "In A Little",
       "url": "https://open.spotify.com/track/52llnd7pt9mu4l6WYU4p5S"
@@ -6944,7 +7034,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 226355,
       "name": "Killing Me Softly With His Song - Spotify Singles",
       "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
@@ -8246,7 +8336,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 220798,
       "name": "Men On The Moon",
       "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"
@@ -9043,6 +9133,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Miss",
+        "url": "https://open.spotify.com/album/4rh4CdBWQ5piiVtq2QTxyP"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Nothing To Miss",
+      "url": "https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p"
+    },
+    {
+      "album": {
         "name": "Nothing's All The Time",
         "url": "https://open.spotify.com/album/6mpySMwG3IZ7hSnqGF9Z2A"
       },
@@ -9180,7 +9288,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 178068,
       "name": "One Man Show",
       "url": "https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV"
@@ -10193,6 +10301,24 @@
     },
     {
       "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "album": {
         "name": "Saw It Coming",
         "url": "https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY"
       },
@@ -10680,7 +10806,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 171213,
       "name": "someone will love you better",
       "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
@@ -11698,7 +11824,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 154450,
       "name": "This Isn't Over",
       "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
@@ -12026,6 +12152,24 @@
       "duration_ms": 190635,
       "name": "Twenty-Two",
       "url": "https://open.spotify.com/track/42Jl9YIutlOqAAAAOWGetE"
+    },
+    {
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Twentysomethings",
+      "url": "https://open.spotify.com/track/5Nf9yOpnskwYFRz7S4uwx0"
     },
     {
       "album": {

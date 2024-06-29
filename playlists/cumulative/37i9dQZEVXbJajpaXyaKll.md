@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-474 songs - 1 day 1 hr 6 min
+475 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-09 | 2024-04-21 |
 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 | 2024-02-27 | 2024-03-06 |
 | [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 | 2024-04-29 | 2024-05-13 |
+| [Lobster](https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Lobster](https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV) | 1:56 | 2024-06-28 |  |
 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 | 2024-04-30 | 2024-05-15 |
 | [Lola](https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs) | [Jedis](https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN), [Gote](https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal), [Nolep](https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau) | [Lola](https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua) | 4:38 | 2024-03-04 | 2024-04-24 |
 | [Loquita \- Remix](https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Cristian Di Marco](https://open.spotify.com/artist/1NtRGHzfJ8H7dENIXu1tdk) | [Loquita \(Remix\)](https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp) | 3:29 | 2024-06-04 |  |
@@ -435,7 +436,7 @@
 | [Tu gata pide cast1go](https://open.spotify.com/track/6fBJ4CA0qs2S0lSAqqjDMk) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tu gata pide cast1go](https://open.spotify.com/album/1BUBzLMY2I9FRU5IWeBr6e) | 3:01 | 2024-05-16 | 2024-05-21 |
 | [Tu Ropa](https://open.spotify.com/track/4JQgopha31U9YQn2Hblgah) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Tu Ropa](https://open.spotify.com/album/7e27F3CJGBjGQmO6u8LYnB) | 2:51 | 2024-06-12 |  |
 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 | 2024-03-05 | 2024-04-03 |
-| [Tumba](https://open.spotify.com/track/4DDmzgsqbZ2qwKbOnV9Bzp) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/6xRnX8OHHyd71M3zjC6Ths) | 3:00 | 2024-05-19 |  |
+| [Tumba](https://open.spotify.com/track/4DDmzgsqbZ2qwKbOnV9Bzp) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/6xRnX8OHHyd71M3zjC6Ths) | 3:00 | 2024-05-19 | 2024-06-29 |
 | [Tumba](https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/3QTNjyEdEAt9Fa6Ix39Res) | 3:00 | 2024-05-01 | 2024-05-20 |
 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 | 2024-04-27 | 2024-04-30 |
 | [UBICACION 7 LOS WACHOS CRECEN](https://open.spotify.com/track/3rzaiWXnIoUl3lmH3809wD) | [FiltraWacho](https://open.spotify.com/artist/1HBn5cl7LP4ZhEneG4thmN) | [UBICACION 7 LOS WACHOS CRECEN](https://open.spotify.com/album/1RGfyCxAyMzeqNZTChdMXI) | 2:44 | 2024-06-06 | 2024-06-13 |

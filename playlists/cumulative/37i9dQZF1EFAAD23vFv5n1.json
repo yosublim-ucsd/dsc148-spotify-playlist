@@ -1440,10 +1440,28 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 173486,
       "name": "okokokokok",
       "url": "https://open.spotify.com/track/37YI4M2Js09a5XwI2KsMh9"
+    },
+    {
+      "album": {
+        "name": "okokokokok",
+        "url": "https://open.spotify.com/album/1ftQuuwGlJDTg2BbCWvxwo"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173486,
+      "name": "okokokokok",
+      "url": "https://open.spotify.com/track/3pE51Dp9SN04xQCHMj6DME"
     },
     {
       "album": {

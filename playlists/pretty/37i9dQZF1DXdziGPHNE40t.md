@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,283 likes - 410 songs - 23 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,345 likes - 410 songs - 23 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 70 | [Country house](https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Country house](https://open.spotify.com/album/2Ukym7x4DKIMAXCHVLqkfU) | 2:55 |
 | 71 | [Unspoken Love](https://open.spotify.com/track/1wAZQsmkq7lrW6Kt7ttTd6) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Unspoken Love](https://open.spotify.com/album/6YgE3eC9OKqxbke7WwjtPX) | 3:46 |
 | 72 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 |
-| 73 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Trio Serena](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 |
+| 73 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [In Every Way](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 |
 | 74 | [Keep It Movin’](https://open.spotify.com/track/1ZGFqBXtrx9sY7SyGQI4wn) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Keep It Movin’](https://open.spotify.com/album/1ovKITT5NLDCbySOnLgmlZ) | 3:09 |
 | 75 | [Cameron Highlands](https://open.spotify.com/track/3wGFSUEf91QvBd3Gd4ogCa) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Cameron Highlands](https://open.spotify.com/album/2jcFJ62eqokXA8CBKWDWid) | 4:03 |
 | 76 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 |

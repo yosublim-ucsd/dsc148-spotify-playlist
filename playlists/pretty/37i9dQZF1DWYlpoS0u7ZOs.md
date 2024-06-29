@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: chokecherry
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,075 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,081 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 5 | [TIMEPIECE](https://open.spotify.com/track/3iO5is79RNo5V8ESIqblcj) | [BUBZ](https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p) | [TIMEPIECE](https://open.spotify.com/album/5nptLfPlk5DSp0VU3cuC9y) | 3:47 |
 | 6 | [Face In The Picture](https://open.spotify.com/track/2Fo9ObbJQsDOqdUT3zN14t) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Face In the Picture](https://open.spotify.com/album/3iCcMrg5ljQmVyxLsV2M0K) | 2:44 |
 | 7 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 |
-| 8 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 |
+| 8 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Ziey Kizzy](https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 |
 | 9 | [Situations](https://open.spotify.com/track/2FqWxImxyiH1i8cEvQEtXG) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Situations](https://open.spotify.com/album/4hCRTTJk2gUDZr7NteckzK) | 2:52 |
 | 10 | [going numb](https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:25 |
 | 11 | [MELANCHOLIA](https://open.spotify.com/track/38IWcchmapmGxnObgwSOEj) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [MELANCHOLIA](https://open.spotify.com/album/4tUCkpJ4tPL2uU4Aj5uEtA) | 3:27 |

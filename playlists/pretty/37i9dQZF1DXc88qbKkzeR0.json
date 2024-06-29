@@ -1,13 +1,33 @@
 {
   "description": "Curated by Dan Levy. Watch Good Grief now on Netflix.",
-  "num_followers": 73548,
+  "num_followers": 73589,
   "original_name": "Netflix's most PLAYED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAAAvHb/8vw2z03wdquqoKb5M",
+  "snapshot_id": "Zn8HDgAAAACAhSRRSe2fQQhfVJ/XRoMe",
   "tracks": [
+    {
+      "added_at": "2024-06-28 18:55:10",
+      "album": {
+        "name": "Shoes...More Shoes feat. Nicola Coughlan",
+        "url": "https://open.spotify.com/album/5P4wzpmKa4XyxJJ04JRpuW"
+      },
+      "artists": [
+        {
+          "name": "Ellis Miah",
+          "url": "https://open.spotify.com/artist/6CI4WVE7EE7BoDuOmToXOK"
+        },
+        {
+          "name": "Nicola Coughlan",
+          "url": "https://open.spotify.com/artist/5wiPjDXz01bJpqwiZRP2PY"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Shoes...More Shoes feat. Nicola Coughlan",
+      "url": "https://open.spotify.com/track/5WHhI9jpyggquyRCiChpr0"
+    },
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {

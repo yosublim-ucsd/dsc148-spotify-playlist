@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Massacre
 
-283 songs - 17 hr 44 min
+286 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Mirando El Fuego](https://open.spotify.com/track/1g9JG1fls4pDj1mcTE04rM) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Después de la Tormenta](https://open.spotify.com/album/1I0ZrmnG7sGOAhmyHsvqur) | 3:46 | 2022-06-24 | 2024-04-27 |
 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 | 2022-12-16 |  |
 | [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 | 2024-01-13 |
+| [Momo Revisitada](https://open.spotify.com/track/0deODM0mRZr2sNbyoHKPKO) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Momo Revisitada](https://open.spotify.com/album/71EIRcgMh4yKE1AhXpnQeu) | 4:18 | 2024-06-28 |  |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-06-24 | 2022-07-29 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/6R8tDnEjgcwIkPsJ184dGt) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/0oQaioOa2Llys73xpoYUHb) | 3:46 | 2022-07-15 | 2022-09-03 |
 | [Nada Nace](https://open.spotify.com/track/5HLujWzC7p8mG1NICBlO8r) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Nada Nace](https://open.spotify.com/album/2TZKoqWXTe6lggXsP6Chhq) | 3:33 | 2024-04-12 |  |
@@ -248,6 +249,7 @@
 | [Sola en los Bares](https://open.spotify.com/track/0xajGYgwjkBTz2rFAQlFkN) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Sola en los Bares](https://open.spotify.com/album/4EYbcIicrpX0tsqUtGGDO9) | 3:26 | 2022-12-02 |  |
 | [Soldado de Neón](https://open.spotify.com/track/326TyMiZ44Z4ivGKtbYFBO) | [KURZ](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Brillando Azul](https://open.spotify.com/album/5JSehM5iItG5yLBN6Vh7xV) | 3:33 | 2022-06-24 | 2023-04-01 |
 | [Solo por Ser Indios](https://open.spotify.com/track/2cwlrXkjj3ZGNK8kM67MZI) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Solo por Ser Indios](https://open.spotify.com/album/69EohuWT4cTGczAB2A18ZC) | 3:59 | 2022-10-14 | 2023-05-06 |
+| [Sos la muerte del Rock](https://open.spotify.com/track/1cj6Y3dcGZ3nkOLeq48KwK) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n), [Lonnie Hillyer](https://open.spotify.com/artist/4I5JOqmSw3rmws7FxLPP6P), [Tomás Brugués](https://open.spotify.com/artist/1vh2HYwdjMQa0dcTNP3MjO) | [Sos la muerte del Rock](https://open.spotify.com/album/6dj7RmhfseRbViFt3mPivV) | 3:19 | 2024-06-28 |  |
 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 | 2022-06-24 | 2023-09-23 |
 | [Suerte](https://open.spotify.com/track/45i5W1vz9hd0Msl6YjNJHO) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Suerte](https://open.spotify.com/album/4CT2Ci1lR8I4bjnd4nZyUB) | 3:03 | 2022-06-24 | 2022-07-09 |
 | [Superman](https://open.spotify.com/track/2bjZVdbKirAuoARSGjb6Iy) | [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W) | [Superman](https://open.spotify.com/album/5Rhcjg2AVjkAHV6VPD2xux) | 3:39 | 2024-05-31 | 2024-06-26 |
@@ -270,6 +272,7 @@
 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 | 2022-09-02 | 2023-09-27 |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-06-24 | 2022-12-17 |
 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 | 2023-08-25 |  |
+| [Ufa! Otro Día en el Paraíso](https://open.spotify.com/track/5896IL788Bi7KewRduDn50) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Ufa! Otro Día en el Paraíso](https://open.spotify.com/album/3yJ9xlmv5wbyK6cm2Iqdur) | 3:38 | 2024-06-28 |  |
 | [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 | 2022-07-08 | 2022-11-03 |
 | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U) | 3:01 | 2022-07-29 | 2023-01-28 |
 | [Un Cielo Rojo](https://open.spotify.com/track/38lWAjAroV9OLUv2DnJR6r) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Un Cielo Rojo](https://open.spotify.com/album/29TrhA4tsN8B4lMNCPzf0g) | 3:41 | 2023-03-03 | 2023-09-27 |

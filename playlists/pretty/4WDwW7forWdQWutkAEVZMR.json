@@ -1,13 +1,141 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Ella Langley, Miley Cyrus, and more! Cover: Ella Langley",
+  "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: The Kid LAROI",
   "num_followers": 8014,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "AAAbvYYarnQlO8+IxpUruJI+7bXeTGQb",
+  "snapshot_id": "AAAb0mCFHey64lprZoVAOg8S7uizeI29",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:16:34",
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "added_at": "2024-06-28 04:19:10",
+      "album": {
+        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
+        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
+      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
+    },
+    {
+      "added_at": "2024-06-28 04:19:32",
+      "album": {
+        "name": "AMERICAN MOTOR SPORTS",
+        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "SPINNIN' YOU AROUND",
+      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
+    },
+    {
+      "added_at": "2024-06-28 04:19:48",
+      "album": {
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
+    },
+    {
+      "added_at": "2024-06-28 04:21:07",
+      "album": {
+        "name": "Dog House",
+        "url": "https://open.spotify.com/album/07ruRkT885qAgfoqyXCPUC"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Dog House",
+      "url": "https://open.spotify.com/track/0caxtXkUH7PGu8TkkIUX3j"
+    },
+    {
+      "added_at": "2024-06-28 04:21:23",
+      "album": {
+        "name": "I DON'T WANNA LIVE IN A WORLD WITHOUT YOU",
+        "url": "https://open.spotify.com/album/5TB7nqgOySwnb2GpgSxeTf"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 176271,
+      "name": "I DON'T WANNA LIVE IN A WORLD WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5JxsIHjPMcJORqwQquVK1k"
+    },
+    {
+      "added_at": "2024-06-28 04:24:54",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/4JyZZEzhYKF2Nn83Ff7kBY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/78X4X4dfwm6q5wCiBsm396"
+    },
+    {
+      "added_at": "2024-06-28 04:25:14",
+      "album": {
+        "name": "4 Everybody",
+        "url": "https://open.spotify.com/album/3gsAFjP1oeebmAsO7i7Ml7"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        }
+      ],
+      "duration_ms": 96653,
+      "name": "4 Everybody",
+      "url": "https://open.spotify.com/track/0ggnJHNFNhRqoj7MnbYjKe"
+    },
     {
       "added_at": "2024-06-21 04:14:01",
       "album": {
@@ -155,22 +283,6 @@
     {
       "added_at": "2024-06-21 04:14:01",
       "album": {
-        "name": "Have Her",
-        "url": "https://open.spotify.com/album/5WxgA8Keibxzjvo85Z2fWN"
-      },
-      "artists": [
-        {
-          "name": "Swavy",
-          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
-        }
-      ],
-      "duration_ms": 169918,
-      "name": "Have Her",
-      "url": "https://open.spotify.com/track/5nilJ4BHbGwuawFBy11z6Q"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
         "name": "Double Life (From \"Despicable Me 4\")",
         "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
       },
@@ -187,26 +299,6 @@
     {
       "added_at": "2024-06-21 04:14:01",
       "album": {
-        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
-        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "U Know Dat (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae"
       },
@@ -219,42 +311,6 @@
       "duration_ms": 186705,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
-        "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
-        "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
-      "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
-        "name": "Lips",
-        "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 135559,
-      "name": "Lips",
-      "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
     },
     {
       "added_at": "2024-06-21 04:14:01",
@@ -343,38 +399,6 @@
     {
       "added_at": "2024-06-21 04:14:01",
       "album": {
-        "name": "Release (Original Music From The Motion Picture TRAP)",
-        "url": "https://open.spotify.com/album/45VZ6dWVygQVlYqonfopAf"
-      },
-      "artists": [
-        {
-          "name": "Saleka",
-          "url": "https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7"
-        }
-      ],
-      "duration_ms": 198756,
-      "name": "Release - Original Music From The Motion Picture TRAP",
-      "url": "https://open.spotify.com/track/6c2EpAuvFIbBIWQHt4Pf8z"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
-        "name": "Born Lonely",
-        "url": "https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/3rUAJkxNvm0olHdthZnDSB"
       },
@@ -387,22 +411,6 @@
       "duration_ms": 176658,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5VbZRQxhOxUzehxgAWeGWI"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
-        "name": "MAKE IT ALRIGHT",
-        "url": "https://open.spotify.com/album/1Mb8rxB7iohHzuuqgZMDXi"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 165892,
-      "name": "MAKE IT ALRIGHT",
-      "url": "https://open.spotify.com/track/1vt3Ho3un5ZU9ZQ9McWGML"
     },
     {
       "added_at": "2024-06-21 04:14:01",
@@ -451,22 +459,6 @@
       "duration_ms": 137158,
       "name": "Magic Johnson",
       "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
-    },
-    {
-      "added_at": "2024-06-21 04:14:01",
-      "album": {
-        "name": "TIED UP",
-        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "TIED UP",
-      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
     },
     {
       "added_at": "2024-06-21 04:14:01",

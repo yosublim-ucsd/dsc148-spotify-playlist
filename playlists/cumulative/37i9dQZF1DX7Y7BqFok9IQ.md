@@ -4,7 +4,7 @@
 
 > Slash is taking over to share his favorites and the inspiration behind his new Orgy of the Damned
 
-325 songs - 20 hr 58 min
+327 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Solar Fire](https://open.spotify.com/track/733EFKmEIutt7NJ5LBN3Kk) | [Smith/Kotzen](https://open.spotify.com/artist/5DE14yhJCkOYGtBVFnrtK5), [Adrian Smith](https://open.spotify.com/artist/6PdIfS6g7piReOMxEsdiiK), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Smith/Kotzen](https://open.spotify.com/album/3QUuz9b7pVHz0viLR3hnfr) | 4:29 | 2021-04-09 | 2024-04-19 |
 | [Spiritual Warrior](https://open.spotify.com/track/1PLVmQc9U0agrKJv0ljR3G) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU), [Kyle Nicolaides](https://open.spotify.com/artist/6rXPvIRGCRBuq1trwa6S4x) | [Spiritual Warrior](https://open.spotify.com/album/7gsysaYdtj1PhWZ7MBBaqP) | 3:33 | 2024-04-26 | 2024-06-08 |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2024-05-24 |  |
+| [Stand Up](https://open.spotify.com/track/24GtJcOJHupzE0zXfsqaTj) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go), [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Stand Up](https://open.spotify.com/album/2iQPYApeM3GraUn8UZzJwB) | 3:32 | 2024-06-28 |  |
 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 |  |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-08-27 | 2024-04-19 |
 | [Step Aside](https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Step Aside](https://open.spotify.com/album/3uIHyMh4N7MtVz078AXchj) | 4:07 | 2021-08-27 |  |
@@ -262,6 +263,7 @@
 | [Strange Light](https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/3n8eLvnrXECAFfLq1Vj7Wi) | 3:01 | 2021-08-13 | 2022-07-27 |
 | [Street People](https://open.spotify.com/track/3y6e4EYoQ4k9ehfTgh0Fde) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Street People](https://open.spotify.com/album/4BLpST6Vxcc5f4dJEx1ddO) | 3:10 | 2024-06-21 |  |
 | [STREET'S QUEEN](https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ) | [The Dream Roll](https://open.spotify.com/artist/0i36lN49PG20OUnWhEwy2x) | [SAVE YOUR SOUL](https://open.spotify.com/album/7wZHrhHK4AIjv3vhB2p4of) | 3:18 | 2022-04-08 |  |
+| [Stronger](https://open.spotify.com/track/2gAxL2K1oGqFVZANHsfAkP) | [AK & The Red Kites](https://open.spotify.com/artist/2EXwo4zlnJz7u1o1wBhiHM) | [Proverbial Storm](https://open.spotify.com/album/6dZOYVVpuX85auwFnikAAB) | 2:27 | 2024-06-28 |  |
 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 |  |
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |
 | [Suit in the Back](https://open.spotify.com/track/53vycZVVC4nbAgwQy3q5YU) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/3RqzS1i0EjYgPr25RLZcfB) | 2:53 | 2020-10-16 | 2024-04-19 |

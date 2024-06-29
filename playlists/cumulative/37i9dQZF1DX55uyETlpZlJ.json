@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Amma Endu Karedare",
+        "url": "https://open.spotify.com/album/2LOCsni19lBhB0Ib7zzLot"
+      },
+      "artists": [
+        {
+          "name": "Smitha Dinakar",
+          "url": "https://open.spotify.com/artist/2DM1Y8LnSGXi2qtm3bPAeo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238501,
+      "name": "Amma Endu Karedare",
+      "url": "https://open.spotify.com/track/26I3du1XsXyCRYUoXO9xGP"
+    },
+    {
+      "album": {
         "name": "Amrutha Kshana (Female Version)",
         "url": "https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va"
       },
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 291898,
       "name": "Howdappa Howdu - The Secret of Life",
       "url": "https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z"
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 129476,
       "name": "Karedaaga Ninna",
       "url": "https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj"
@@ -7286,6 +7304,28 @@
       "duration_ms": 179258,
       "name": "Yaake Ni Heege?",
       "url": "https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX"
+    },
+    {
+      "album": {
+        "name": "Yaare Nee",
+        "url": "https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Yaare Nee",
+      "url": "https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu"
     },
     {
       "album": {

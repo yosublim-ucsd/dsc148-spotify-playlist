@@ -1,13 +1,65 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57531,
+  "num_followers": 57545,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAACl1hMPj47JEDt8dESLGYQd",
+  "snapshot_id": "Zn41QAAAAAB/dBIzGC3+q+OWU4+fHQoB",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Struck Down",
+        "url": "https://open.spotify.com/album/11aQjI3ljmhxZgN8TpY2PQ"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Nothing in Rambling (ft. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood)",
+      "url": "https://open.spotify.com/track/56jJMIHBDFXxYGOgZImEFC"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Gonna Forget About You",
+        "url": "https://open.spotify.com/album/1XQy51rSpXSI2aU2ZcnPKZ"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 211580,
+      "name": "Gonna Forget About You (Remixed and Remastered)",
+      "url": "https://open.spotify.com/track/0MqspCptOa5mhL1HJwUmfW"
+    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
@@ -43,6 +95,22 @@
       "duration_ms": 267102,
       "name": "I Hate Love",
       "url": "https://open.spotify.com/track/7FPgVDH2V3uIX61q6Au8yN"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/4klGlW97CAHiSCW6OagWmC"
+      },
+      "artists": [
+        {
+          "name": "Dennis Jones",
+          "url": "https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Condition Blue",
+      "url": "https://open.spotify.com/track/7HQshuPqE8A8OA0bdH9xYb"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -83,26 +151,6 @@
       "duration_ms": 196146,
       "name": "Devilment",
       "url": "https://open.spotify.com/track/2zXRUMkE5RmbSgZBoUmFZc"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Struck Down By The Blues",
-        "url": "https://open.spotify.com/album/16zh4gBk2anspUfkCel3bW"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        },
-        {
-          "name": "Steve Strongman",
-          "url": "https://open.spotify.com/artist/07oB8UBTSptGWz3tu5nIVG"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Struck Down By The Blues (ft. Steve Strongman)",
-      "url": "https://open.spotify.com/track/18Mcw52EAQRlA4awyJby3r"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1657,22 +1705,6 @@
       "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Strong as Steel",
-        "url": "https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Strong as Steel",
-      "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "In Blood",
@@ -1723,26 +1755,6 @@
       "duration_ms": 211200,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "I Wish I Knew How It Would Feel To Be Free",
-        "url": "https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        },
-        {
-          "name": "Levon Helm",
-          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "I Wish I Knew How It Would Feel To Be Free",
-      "url": "https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW"
     }
   ],
   "unique_name": "Got Blues",

@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188498,
       "name": "2AM",
       "url": "https://open.spotify.com/track/1mTibrsVeunMhiq1ADqzhY"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 243809,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6kjP9hwgKBzKo0psteGFDY"
@@ -366,6 +366,28 @@
       "duration_ms": 181875,
       "name": "Back Section",
       "url": "https://open.spotify.com/track/5S8fXbHb1pba7hdpLXMizX"
+    },
+    {
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
       "album": {
@@ -1016,7 +1038,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 278095,
       "name": "Come Thru - Qlank Remix",
       "url": "https://open.spotify.com/track/00uNDlNkpDkZP0CsJtD0qD"
@@ -1364,7 +1386,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 159838,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/4ZgMrN8p7ilyVQXwVb3hxz"
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176750,
       "name": "Don't Sweat It",
       "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 199074,
       "name": "Don't Watch Her",
       "url": "https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf"
@@ -2079,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Funk Master",
+        "url": "https://open.spotify.com/album/2vyf5LRhUAdQLPMonaRDeO"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Funk Master",
+      "url": "https://open.spotify.com/track/76fbYUUA82dEq3N4t75KZT"
+    },
+    {
+      "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
       },
@@ -2186,6 +2226,24 @@
       "duration_ms": 183318,
       "name": "Gas Pedal - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
+    },
+    {
+      "album": {
+        "name": "Get Ruff",
+        "url": "https://open.spotify.com/album/4gzrUX9EJ01Uy1uEco69tu"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Get Ruff",
+      "url": "https://open.spotify.com/track/4kNUICMwCz6XOuZFVNQsNi"
     },
     {
       "album": {
@@ -2842,6 +2900,24 @@
       "duration_ms": 249523,
       "name": "In My Hand",
       "url": "https://open.spotify.com/track/23kuCRJIxwiwB7zubMmicH"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/2x9bI7VokJQczjqMvUSmrH"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193159,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw"
     },
     {
       "album": {
@@ -3614,6 +3690,28 @@
       "duration_ms": 247620,
       "name": "Monseigneur (feat. Tony Romera)",
       "url": "https://open.spotify.com/track/5X0A7PWXS8j0QvA16rxMrl"
+    },
+    {
+      "album": {
+        "name": "More Acid",
+        "url": "https://open.spotify.com/album/48691K1R4tQkTXvTXiVQ8H"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Soshy",
+          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190089,
+      "name": "More Acid",
+      "url": "https://open.spotify.com/track/76mLFEljVN42gbLT8Q7bBC"
     },
     {
       "album": {
@@ -5129,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "I Contain Flashing Images",
+        "url": "https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239765,
+      "name": "Solarpunk",
+      "url": "https://open.spotify.com/track/5lcDRYPsytC3ZReAdRXSMN"
+    },
+    {
+      "album": {
         "name": "Sometimes I Get",
         "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
       },
@@ -5355,6 +5471,28 @@
     },
     {
       "album": {
+        "name": "Night Bass Remixed Vol. 3",
+        "url": "https://open.spotify.com/album/1Cdc4VQAG1CZ454qaV5Aco"
+      },
+      "artists": [
+        {
+          "name": "Bassboy",
+          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+        },
+        {
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Sweet 'n' Sour - Phlegmatic Dogs Remix",
+      "url": "https://open.spotify.com/track/2kzubU6PYcJU5z9SG9xaRL"
+    },
+    {
+      "album": {
         "name": "JVST FRIENDS, Vol. 1",
         "url": "https://open.spotify.com/album/4We2CzuNUPOPLoSLF1jEt5"
       },
@@ -5374,6 +5512,28 @@
       "duration_ms": 180002,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1EofGkwC0xRIDkCZjumEtM"
+    },
+    {
+      "album": {
+        "name": "System Overload",
+        "url": "https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169545,
+      "name": "System Overload",
+      "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
     },
     {
       "album": {
@@ -5516,6 +5676,28 @@
       "duration_ms": 208129,
       "name": "The Funktion",
       "url": "https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt"
+    },
+    {
+      "album": {
+        "name": "The Mindshaker",
+        "url": "https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "The Mindshaker",
+      "url": "https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce"
     },
     {
       "album": {
@@ -5682,6 +5864,28 @@
       "duration_ms": 155625,
       "name": "This Won\u2019t Stop",
       "url": "https://open.spotify.com/track/0tQhQ7TKqS8bIV4S4qpTgB"
+    },
+    {
+      "album": {
+        "name": "Thousand Sides",
+        "url": "https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Thousand Sides",
+      "url": "https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp"
     },
     {
       "album": {
@@ -6112,7 +6316,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 245625,
       "name": "Voice Machine",
       "url": "https://open.spotify.com/track/3qGegN5LcHC2gYV6IsDusb"
@@ -6210,7 +6414,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181714,
       "name": "Watch The Skank",
       "url": "https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er"
@@ -6272,7 +6476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 173858,
       "name": "When I'm in It",
       "url": "https://open.spotify.com/track/4qEgpcBgO4bit8EQIJkjr5"
@@ -6556,7 +6760,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 234563,
       "name": "\u6697\u82b1",
       "url": "https://open.spotify.com/track/52kv9hsW6DLvoL1Ae0UrnH"

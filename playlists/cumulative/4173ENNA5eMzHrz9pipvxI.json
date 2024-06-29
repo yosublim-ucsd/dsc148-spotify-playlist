@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: LUM!X x Lucas &amp; Steve",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: DAYA",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -324,6 +324,32 @@
       "duration_ms": 133210,
       "name": "8 Bit Lovers (feat. Noah Avery)",
       "url": "https://open.spotify.com/track/3XseUSFG5hK3x70ZxQsKGZ"
+    },
+    {
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/3FWN04EjchloJS10hArDLy"
+      },
+      "artists": [
+        {
+          "name": "Felix Schorn",
+          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
+        },
+        {
+          "name": "Chris Burke",
+          "url": "https://open.spotify.com/artist/7DuMrjdqPSIiF85TF8hoiV"
+        },
+        {
+          "name": "FIVE",
+          "url": "https://open.spotify.com/artist/5EXww1GWVkP9ZffmrlJycO"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145114,
+      "name": "999",
+      "url": "https://open.spotify.com/track/5BdmlzGOBDh0f3BPLfIBG0"
     },
     {
       "album": {
@@ -4122,7 +4148,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 131744,
       "name": "Can't Stop Playing (feat. Anne Brun) [Cian McFeely Remix]",
       "url": "https://open.spotify.com/track/4vTvus8VUlimhegjaHwPyA"
@@ -6495,6 +6521,28 @@
     },
     {
       "album": {
+        "name": "Disco Train",
+        "url": "https://open.spotify.com/album/02Waf4ySpoFvSzLH8GX6K4"
+      },
+      "artists": [
+        {
+          "name": "Kiro Prime",
+          "url": "https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr"
+        },
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Disco Train",
+      "url": "https://open.spotify.com/track/1vtbBMBzzHnM85xXis4voe"
+    },
+    {
+      "album": {
         "name": "Disko Demon EP",
         "url": "https://open.spotify.com/album/29Kkdp340fgpybVEf33Zil"
       },
@@ -6784,6 +6832,24 @@
       "duration_ms": 214918,
       "name": "Do You Remember - Coopex Edit",
       "url": "https://open.spotify.com/track/3DSaaj5eRD4vL6FXSECjdQ"
+    },
+    {
+      "album": {
+        "name": "Don't Call",
+        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229105,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
     },
     {
       "album": {
@@ -7428,7 +7494,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 143095,
       "name": "Droppin' Hot (feat. Sonny Wilson)",
       "url": "https://open.spotify.com/track/4tua0l4jgHSvV0FlgsmiUp"
@@ -12481,6 +12547,28 @@
     },
     {
       "album": {
+        "name": "I Want This Forever",
+        "url": "https://open.spotify.com/album/1HXVbYrNQF9osYAmVmKKjM"
+      },
+      "artists": [
+        {
+          "name": "Dropack",
+          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
+        },
+        {
+          "name": "Tolex",
+          "url": "https://open.spotify.com/artist/0Z1hdVivfkFvCkrmWYlbA0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "I Want This Forever",
+      "url": "https://open.spotify.com/track/3TNIwnnxvwirWATsJ5jZWh"
+    },
+    {
+      "album": {
         "name": "I Want You (Wh0\u2019s Festival Remix)",
         "url": "https://open.spotify.com/album/4yAuo6GYIasWjqUZ2J7h7p"
       },
@@ -13252,6 +13340,32 @@
       "duration_ms": 186006,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/3l6fS0OSfSmJ2uWhyQDWmG"
+    },
+    {
+      "album": {
+        "name": "It Ain't Safe",
+        "url": "https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Tavatli",
+          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg"
     },
     {
       "album": {
@@ -15213,6 +15327,32 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157734,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/3aM3elSql2STyiob9POgWY"
+    },
+    {
+      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -16050,7 +16190,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165937,
       "name": "Lotus (PAROOKAVILLE Anthem 2024) - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/6RtN4kwFFScEgQbARaYli5"
@@ -17850,6 +17990,28 @@
     {
       "album": {
         "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3sTaPfBlozA6ICXwdIupDq"
+      },
+      "artists": [
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
+        },
+        {
+          "name": "Markis",
+          "url": "https://open.spotify.com/artist/4m1912E02pZ71m0bO9ZEMf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6zSza83er01pHYxOgFyEhz"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
         "url": "https://open.spotify.com/album/2PJ85eXmeNZNFbUxFLWZvZ"
       },
       "artists": [
@@ -19148,6 +19310,24 @@
       "duration_ms": 139669,
       "name": "Nice And Slow (Meow Meow) [feat. Gerson Rafael]",
       "url": "https://open.spotify.com/track/42TPIZYhjczy53f9cVG3Xv"
+    },
+    {
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
     },
     {
       "album": {
@@ -21130,6 +21310,28 @@
       "duration_ms": 158095,
       "name": "Pega Pega",
       "url": "https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D"
+    },
+    {
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/1cuEHKMtUWcrehv5XeqSlt"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "jayover",
+          "url": "https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
     },
     {
       "album": {
@@ -26900,7 +27102,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197841,
       "name": "The Power",
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
@@ -27946,6 +28148,24 @@
       "duration_ms": 222580,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND"
+    },
+    {
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/1jcsybt3miqJpCcjRAk7j6"
+      },
+      "artists": [
+        {
+          "name": "Tolex",
+          "url": "https://open.spotify.com/artist/0Z1hdVivfkFvCkrmWYlbA0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/2lcoaWDL7xWHx6ZZCGOSzl"
     },
     {
       "album": {
@@ -29602,6 +29822,24 @@
       "duration_ms": 211408,
       "name": "When We Lose It (feat. Fagin)",
       "url": "https://open.spotify.com/track/0ZTjwnp76LD3ma0PZT9prp"
+    },
+    {
+      "album": {
+        "name": "Where Are You Tonight",
+        "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235248,
+      "name": "Where Are You Tonight",
+      "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: The Funeral Portrait ",
+  "description": "For full-volume lovers. Cover: Bilmuri",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 212866,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/6ItNJBafyjtSNxF13Ar8kD"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 199412,
       "name": "Breaking Up With",
       "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 304023,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/0JzQSYx0CDmMwLg1a7TN74"
@@ -2632,6 +2632,28 @@
       "duration_ms": 148629,
       "name": "Crackhead Ted",
       "url": "https://open.spotify.com/track/7KcZec7zSgQlYdrGWgiWMM"
+    },
+    {
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227258,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
     },
     {
       "album": {
@@ -3558,7 +3580,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 201150,
       "name": "Double Edged Sword (feat. Sylar)",
       "url": "https://open.spotify.com/track/6T5n30cEfm9C0ajB86guGb"
@@ -5000,7 +5022,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 132999,
       "name": "GIRL$",
       "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
@@ -5184,7 +5206,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 205590,
       "name": "going numb",
       "url": "https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL"
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 248478,
       "name": "Gold In The Dark",
       "url": "https://open.spotify.com/track/6Z9rcvHyTd5OvaQhl3fqas"
@@ -5340,6 +5362,28 @@
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
+    },
+    {
+      "album": {
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
     },
     {
       "album": {
@@ -7296,7 +7340,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 220280,
       "name": "Let Me Disappear",
       "url": "https://open.spotify.com/track/73Lomnc1LsYSkjRBuk0jQd"
@@ -9606,7 +9650,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 472253,
       "name": "Papa Was a Rolling Stone (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ"
@@ -9650,6 +9694,24 @@
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
+    },
+    {
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr"
     },
     {
       "album": {
@@ -9920,7 +9982,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 325254,
       "name": "Pile of Bones",
       "url": "https://open.spotify.com/track/6AGyXMYAprizHGWf7eJLNk"
@@ -10227,6 +10289,24 @@
     },
     {
       "album": {
+        "name": "Random Acts of Violence",
+        "url": "https://open.spotify.com/album/0bXLGRMVw2yxYLDCCfn2vX"
+      },
+      "artists": [
+        {
+          "name": "Fixation",
+          "url": "https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246939,
+      "name": "Random Acts of Violence",
+      "url": "https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah"
+    },
+    {
+      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/02z1NOuRau4Rv6Z5XlSJd9"
       },
@@ -10354,6 +10434,28 @@
       "duration_ms": 163240,
       "name": "Reapercussion",
       "url": "https://open.spotify.com/track/182ajalm85aTrniP4CYr65"
+    },
+    {
+      "album": {
+        "name": "Remains of Us",
+        "url": "https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        },
+        {
+          "name": "Scarlet House",
+          "url": "https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Remains of Us",
+      "url": "https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA"
     },
     {
       "album": {
@@ -11040,7 +11142,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 191439,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
@@ -11214,6 +11316,24 @@
       "duration_ms": 210567,
       "name": "Shake Your City",
       "url": "https://open.spotify.com/track/5tVcVrv04rJlQxrbZ5sDzK"
+    },
+    {
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209952,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
       "album": {
@@ -11541,6 +11661,28 @@
     },
     {
       "album": {
+        "name": "Soldier In The Army of Love",
+        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178490,
+      "name": "Soldier In The Army of Love",
+      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+    },
+    {
+      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -11762,7 +11904,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 232769,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/72mymKLs4ni8MYGVq8EHUP"
@@ -11816,7 +11958,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 220417,
       "name": "Stay With You",
       "url": "https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf"
@@ -12221,6 +12363,24 @@
     },
     {
       "album": {
+        "name": "Teacher Has A Gun",
+        "url": "https://open.spotify.com/album/4agqtrbOGxTILqjJfgyg81"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187033,
+      "name": "Teacher Has A Gun",
+      "url": "https://open.spotify.com/track/21b4iOoZDS7eyTs5jrji9S"
+    },
+    {
+      "album": {
         "name": "tear gas",
         "url": "https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL"
       },
@@ -12376,7 +12536,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 247382,
       "name": "The Algorithm - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
       "url": "https://open.spotify.com/track/0Iv5UvPb1lGgHlwfdUm5JV"
@@ -13200,7 +13360,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 226329,
       "name": "The World I Wanted - Vol.1",
       "url": "https://open.spotify.com/track/1gtu7qxYNN48tQkscmcuug"
@@ -14020,7 +14180,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 184287,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
@@ -14740,7 +14900,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 231911,
       "name": "waste",
       "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
@@ -15576,7 +15736,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 203294,
       "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
       "url": "https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n"

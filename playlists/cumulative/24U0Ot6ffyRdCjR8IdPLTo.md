@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-278 songs - 15 hr 25 min
+280 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 | 2023-08-15 |  |
 | [KILOS](https://open.spotify.com/track/5dkJEE0TecbGBVfTD9Ud0O) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [KILOS](https://open.spotify.com/album/7778WUkw4GEripfJ7R0V3y) | 3:15 | 2021-12-06 | 2023-08-16 |
 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 | 2023-09-08 | 2023-11-07 |
+| [Landslide](https://open.spotify.com/track/2QQKyvymCY1f21Fa2hrmrk) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Landslide](https://open.spotify.com/album/0nzHv5e8kBjl0S359J2bmr) | 3:55 | 2024-06-28 |  |
 | [Learning Curve](https://open.spotify.com/track/0lYA7tyLikZXufp49tzlZS) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Learning Curve](https://open.spotify.com/album/587GrQ5Jqm6crL2Igjn0d3) | 2:41 | 2023-10-21 |  |
 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 | 2024-04-26 |  |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 | 2024-06-15 |
@@ -251,6 +252,7 @@
 | [the dog](https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [best of corook \(so far\)](https://open.spotify.com/album/6fsVvwHc566EXvlryeSp7N) | 2:46 | 2023-08-28 | 2024-06-15 |
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-14 |  |
 | [The New Kid](https://open.spotify.com/track/1Ahda2CRcgMBAfKAp9Z7GO) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The New Kid](https://open.spotify.com/album/0Hs5sLHBaGsh9Bn5AjZN0O) | 2:48 | 2023-10-14 |  |
+| [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 | 2024-06-28 |  |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-15 | 2023-09-30 |
 | [There It Goes \- Acoustic](https://open.spotify.com/track/0mRM8KuaZ62AKyNS00MRBn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [There It Goes \(Acoustic\)](https://open.spotify.com/album/3seUdV947SymGb26zyRt3k) | 3:37 | 2023-09-29 | 2024-01-11 |
 | [Things That Fall](https://open.spotify.com/track/44gcQBCYmUk2c3LU37SYHM) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Things That Fall](https://open.spotify.com/album/0wvEMYuE2QyCP2oWPiRsEf) | 2:55 | 2023-09-01 | 2024-06-15 |

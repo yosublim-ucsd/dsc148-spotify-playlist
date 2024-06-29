@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 1316,
+  "num_followers": 1335,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
     },
     {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Vibe",
@@ -749,22 +765,6 @@
       "url": "https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN"
     },
     {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "Echo Park",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/41s8bVDv8tt5RiJ6V12grq"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
+      "added_at": "2019-06-07 08:01:00",
       "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI"
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
       },
       "artists": [
         {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
         }
       ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB"
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2018-12-11 21:12:31",

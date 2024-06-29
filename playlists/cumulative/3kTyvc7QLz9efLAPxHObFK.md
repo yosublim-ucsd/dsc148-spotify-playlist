@@ -4,7 +4,7 @@
 
 > 
 
-1,476 songs - 3 day 8 hr 35 min
+1,480 songs - 3 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Be Alive Nightcore](https://open.spotify.com/track/6c7IzdUmgDweXMEbrzYe0z) | [PsykozBrothers](https://open.spotify.com/artist/4PfIqZ42C6oJEF0BCviYqg) | [Psykoz Essentials](https://open.spotify.com/album/0Z3PtzkH88iSmuukBJkss9) | 3:48 | 2022-03-11 |  |
 | [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 | 2023-09-01 |  |
 | [Be My Love](https://open.spotify.com/track/3bsG5YOiLctXOPdAXZlpQ8) | [BPM BUNNY](https://open.spotify.com/artist/6HnXeGWhLv6Q3XCvdVpary) | [Be My Love](https://open.spotify.com/album/7cjfIyGKP3JIuQ1gnRlWaA) | 3:18 | 2023-07-14 |  |
+| [Be Strong](https://open.spotify.com/track/72KiNuf7OFPxlIQO4SdLak) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY) | [Be Strong](https://open.spotify.com/album/2dlN7eT3Fvgrgt5WMu14dX) | 2:56 | 2024-06-28 |  |
 | [BE THERE](https://open.spotify.com/track/3AAjgwno8RvMJPD7TZl4pq) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [BE THERE](https://open.spotify.com/album/3kMP45zMaoiidk8Gvqzcsd) | 3:27 | 2023-09-01 |  |
 | [Be With U](https://open.spotify.com/track/6JPeJvJYsCdSlr7T6DC5tn) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Be With U](https://open.spotify.com/album/7FFg8lMRvTarqDCTAZZoFl) | 2:39 | 2023-02-25 |  |
 | [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-10 |  |
@@ -373,6 +374,7 @@
 | [Echoes of Unity \(Official Toxicator 2023 Anthem\)](https://open.spotify.com/track/5dwBjzLjqbhIPeTHrFY3ny) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Echoes of Unity \(Official Toxicator 2023 Anthem\)](https://open.spotify.com/album/6L5eWhkdwPFpSEtMOkG34G) | 3:56 | 2023-11-13 |  |
 | [Edge of Infinity](https://open.spotify.com/track/1PHbbNUTkC46KEEculOwNZ) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [New Age Of Rave](https://open.spotify.com/album/22fTTNJUT1KNs7I1XJKS6k) | 3:22 | 2023-09-11 |  |
 | [Edison](https://open.spotify.com/track/7obK6GuQBRXK9agu8sfyrz) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Edison](https://open.spotify.com/album/0rBsDGrsCkRE7cs2Z0A845) | 4:24 | 2022-09-09 |  |
+| [Electronic Universe](https://open.spotify.com/track/2RNfcVb3cE39PztJECqdDI) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Electronic Universe](https://open.spotify.com/album/4Xb07nPtieoHVPNX5hZsGW) | 4:06 | 2024-06-28 |  |
 | [ElektraWave](https://open.spotify.com/track/3JhzSXcPe9EH76bENsBsYC) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:19 | 2024-05-23 |  |
 | [elevate our mind](https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [RE\-PULZE](https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd) | [elevate our mind](https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo) | 3:16 | 2024-05-29 |  |
 | [Emma & Ewig](https://open.spotify.com/track/7BnUxw4a0oKseJRgsn6hQp) | [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06), [Actek](https://open.spotify.com/artist/2iElooMfZXTC3kkoNz9tRN), [Emmi B](https://open.spotify.com/artist/0P0nLI61ZMfQzGRcIrCSXq) | [Emma & Ewig](https://open.spotify.com/album/2F1WiVxXMFDH20yOcymo2t) | 2:39 | 2024-05-03 |  |
@@ -578,6 +580,7 @@
 | [HARDSTYLE SUIXIDE](https://open.spotify.com/track/1li2hcgEg612K0uNF9RtgP) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [HARDSTYLE SUIXIDE](https://open.spotify.com/album/3J9KxvomgfQC3DP1u8q8qD) | 2:34 | 2024-03-08 |  |
 | [HATE OR LOVE IT](https://open.spotify.com/track/1vLoWuh1DCE7JNtDj0tDA2) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [HATE OR LOVE IT](https://open.spotify.com/album/1SamA0QVmZnqpq47SRTgxJ) | 3:15 | 2023-07-06 |  |
 | [Haters](https://open.spotify.com/track/2fI9COQg3SOUXKHOr1y1CV) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [The Need For Speed](https://open.spotify.com/album/1xISRKDxS8VSVQl55g0HL2) | 3:53 | 2022-09-09 |  |
+| [Haunted](https://open.spotify.com/track/1c76N9QprvsTLqLAY51Q6z) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Haunted EP](https://open.spotify.com/album/1waRfrw9AJdVPJbARp2cYQ) | 5:00 | 2024-06-28 |  |
 | [Haunting Me](https://open.spotify.com/track/3IJpRUtI89pgCzLz0HF3T0) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Haunting Me](https://open.spotify.com/album/1SHA5qwfAU0halwBuXaSbt) | 3:31 | 2024-06-21 |  |
 | [Headbanger](https://open.spotify.com/track/3wGj6TFWHRmuQrnInBUItl) | [Bionator Project](https://open.spotify.com/artist/6IbzmZw1iBjZkVnPXTwyHt) | [Headbanger](https://open.spotify.com/album/4M9EzrrrWNHBItxDZ9Bi1O) | 2:29 | 2023-03-02 |  |
 | [Hear the beat commin](https://open.spotify.com/track/3cJUkJjyRXP6dbSBGqgssf) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [We Live for the Night](https://open.spotify.com/album/4FZjK9Sjw0ehnMtcR7km9S) | 3:06 | 2023-08-07 |  |
@@ -1282,6 +1285,7 @@
 | [The Speed](https://open.spotify.com/track/2VFTLSNaAm18ac2xYr5EQv) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [The Speed](https://open.spotify.com/album/4xXrdJVIQNMAStg7JN54TC) | 3:16 | 2023-05-12 |  |
 | [The Storm](https://open.spotify.com/track/2Yc3uGF0gwxkthiWAkMnkb) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Ravekick 006 \- Arcadia](https://open.spotify.com/album/7EAtofzqDKPU9LjQQWfmbf) | 2:45 | 2023-04-06 |  |
 | [The Streets](https://open.spotify.com/track/2fB5s7Gdpvmr3phwabzRZe) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [The Streets](https://open.spotify.com/album/30Bsmqekcv5p9dNL18rxSd) | 4:23 | 2023-01-06 |  |
+| [The Unknown](https://open.spotify.com/track/3Zh6HPk8CXyrorF2cYTUkr) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [The Unknown](https://open.spotify.com/album/7uyGlq5083wMjPlklmQVoh) | 3:33 | 2024-06-28 |  |
 | [The Weekend](https://open.spotify.com/track/3RUdekpM4bIE5Np5XWFmrs) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Weekend](https://open.spotify.com/album/29X5jaUd9PP7QpK44cPlWe) | 3:32 | 2024-01-12 |  |
 | [The Will To Win](https://open.spotify.com/track/7s6yYv9EiS2LBhFlPJnUlu) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [The Will To Win](https://open.spotify.com/album/64BpnIofqufRaQtrX45G2a) | 5:24 | 2024-05-17 |  |
 | [Thinkin' About You](https://open.spotify.com/track/1ko8BClxIo9cuLW1RH2miy) | [Hartshorn](https://open.spotify.com/artist/26CaaT8FqbEIzi3hlD8MKc), [Stu Infinity](https://open.spotify.com/artist/23Od0iA2mwZu5ZlGYdxHro) | [Thinkin' About You](https://open.spotify.com/album/7usEgvkTLqwekO3MPc7TsY) | 4:29 | 2023-04-06 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: Percy
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: Newery
 
-188 songs - 11 hr 50 min
+190 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2023-04-18 | 2024-03-29 |
 | [บังอร](https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [บังอร](https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm) | 3:07 | 2023-01-10 | 2023-03-25 |
 | [ปลอดภัย](https://open.spotify.com/track/4Fer8UPWzhbdyVnccMzPcr) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ปลอดภัย](https://open.spotify.com/album/6GKmt2zllDvt3wlBZeZ3HL) | 3:53 | 2022-09-15 | 2023-01-11 |
+| [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-06-28 |  |
 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-12 | 2024-03-29 |
 | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH) | 4:30 | 2023-04-13 | 2024-03-29 |
 | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/track/1T9p3fycDRc3KXl9nbhwkR) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/album/4p3UvZyHFLCwQLuA3fosr2) | 3:39 | 2022-09-15 | 2023-04-13 |
@@ -168,6 +169,7 @@
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-09-15 | 2023-04-14 |
 | [เพื่อนคนโปรด \(Crush\)](https://open.spotify.com/track/2576NYcj8CX3LupLcdNDVI) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [เพื่อนคนโปรด \(Crush\)](https://open.spotify.com/album/51qPtMul8AGoRI9aFkxHqz) | 3:26 | 2024-01-11 | 2024-03-29 |
 | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/track/6qfpY6fSeF8X25XaEEmBHm) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/album/11wS9KhiTUXdZhOAtBXn14) | 3:21 | 2022-09-15 | 2023-04-14 |
+| [เฟี้ยว \- Ost\. บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/0H1rhRyBH1reSi3Qac8Y2j) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [เฟี้ยว \(Ost\. บัส ซิ่ง ไทยแลนด์\)](https://open.spotify.com/album/0qVPQ3HfsbAkdKyiakDBkr) | 4:20 | 2024-06-28 |  |
 | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/track/2L12dZiM8puWFJBVg7R0wn) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M) | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/album/5wlDk0JcNyQnJmfLWMWa2v) | 3:13 | 2022-09-15 | 2022-11-24 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-09-15 | 2023-06-23 |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2023-11-21 | 2024-03-29 |

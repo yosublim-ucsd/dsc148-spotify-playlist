@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:0jPHHnU8GUWEF7rwPE9osY\">Jordan Adetunji</a> ",
+  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:5IQcgEvxwvq8kwy4iWCiBC\">Flau'jae</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185806,
       "name": "AMF (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/7qvUHLCbPdjjnoCU7GK2z4"
@@ -2039,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "Black & Tan",
+        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Black & Tan",
+      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
+    },
+    {
+      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
       },
@@ -2814,6 +2836,28 @@
       "duration_ms": 204200,
       "name": "Call 2 The Diaspora",
       "url": "https://open.spotify.com/track/3iqfgfU9k5AtkRSdsIthoi"
+    },
+    {
+      "album": {
+        "name": "Best Of Both Worlds",
+        "url": "https://open.spotify.com/album/5IQjn7uiZgXKitwi0NBzti"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192251,
+      "name": "Came Out A Beast",
+      "url": "https://open.spotify.com/track/6o4yrCbHJAl0vpH1zi6PFZ"
     },
     {
       "album": {
@@ -5197,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "Exes",
+        "url": "https://open.spotify.com/album/2CSmZtcqtil57qW8BOiAoG"
+      },
+      "artists": [
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162764,
+      "name": "Exes",
+      "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
+    },
+    {
+      "album": {
         "name": "exhausted",
         "url": "https://open.spotify.com/album/1DgX1SGg05RGSzA0Rheibm"
       },
@@ -7127,6 +7189,24 @@
     },
     {
       "album": {
+        "name": "Handz Up",
+        "url": "https://open.spotify.com/album/5qWXDadboFIkEnnoGRgsZJ"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Handz Up",
+      "url": "https://open.spotify.com/track/2A2ShorxYJRX2sLzF7cpUT"
+    },
+    {
+      "album": {
         "name": "Hat",
         "url": "https://open.spotify.com/album/15eMlWCxQ4pcqFgZDHPwrd"
       },
@@ -7389,6 +7469,28 @@
     },
     {
       "album": {
+        "name": "HILLS (feat. Dro Kenji)",
+        "url": "https://open.spotify.com/album/26JetE1EMkSBOXffLyDejQ"
+      },
+      "artists": [
+        {
+          "name": "DEADonMARRS",
+          "url": "https://open.spotify.com/artist/7KqeHFHeQRFLil6s7U63dc"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183243,
+      "name": "HILLS (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/0Wrv39ILUw7X6cNB6xFupo"
+    },
+    {
+      "album": {
         "name": "Hillside",
         "url": "https://open.spotify.com/album/2wjrIUMwThHxKlj4gu4zcl"
       },
@@ -7520,6 +7622,36 @@
       "duration_ms": 121416,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/4pcgOnRhCaNBOz5e0xcyWg"
+    },
+    {
+      "album": {
+        "name": "Homebody (Remix)",
+        "url": "https://open.spotify.com/album/1b7X3fFPwVUaKx5hyRJo5Z"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231791,
+      "name": "Homebody (with Skilla Baby feat. Moneybagg Yo & Bossman Dlow) (Remix)",
+      "url": "https://open.spotify.com/track/6IIxEObjN2pZGddE0ChU1o"
     },
     {
       "album": {
@@ -8662,7 +8794,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 174579,
       "name": "Just Want You (feat. Hunxho)",
       "url": "https://open.spotify.com/track/0qWK7UJLquvQL7debk6UJu"
@@ -9572,7 +9704,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176647,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4GE2HPvrgYp6GiW8JUHpfj"
@@ -10640,7 +10772,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 141962,
       "name": "My Money",
       "url": "https://open.spotify.com/track/0vkAASul7Ok69kJHb6Pfvr"
@@ -16634,7 +16766,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 206516,
       "name": "TURNITUP",
       "url": "https://open.spotify.com/track/65CfL5jiTfK2DCWqzv43gb"
@@ -17906,7 +18038,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 189107,
       "name": "wna torture me tn? (with KARRAHBOOO)",
       "url": "https://open.spotify.com/track/761j6htUlWoTMBGlowXC2p"

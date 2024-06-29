@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-69 songs - 4 hr 46 min
+70 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 | 2022-06-17 |  |
 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0yMFy59oKCccLsr3WvwsYZ) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [15 Anos \- Ao Vivo na Vila Madalena](https://open.spotify.com/album/7xE7jx2uzO77Ml4f7Ml3Kf) | 4:53 | 2023-12-19 |  |
 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0quexAwNw8E8AUjJAGdLlf) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Planta e Raiz no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/1WWkbeVJxqyVgfRemIBZjY) | 3:58 | 2022-06-04 | 2023-12-20 |
-| [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 | 2022-06-04 |  |
+| [Vai Chover](https://open.spotify.com/track/0XWsGPnhSZGsswjDQm0xGF) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover](https://open.spotify.com/album/6X7ndG3Epf83yKn3mUXNXM) | 4:30 | 2024-06-28 |  |
+| [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 | 2022-06-04 | 2024-06-29 |
 | [Vila Isabel \- Ao Vivo](https://open.spotify.com/track/3cT0DDyPdYholSzngXTOrw) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 6:08 | 2022-06-04 |  |
 | [Vou Me Tacar](https://open.spotify.com/track/30drSvFpGQLk20Ixd0rTkG) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:30 | 2022-06-04 |  |
 

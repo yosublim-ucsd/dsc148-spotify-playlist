@@ -2183,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "Lud Session #4: Morrer de Viver / Saudade Daquilo / T\u00f4 Querendo Mais / Sem Filtro / Embrasa",
+        "url": "https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 667622,
+      "name": "Lud Session #4: Morrer de Viver / Saudade Daquilo / T\u00f4 Querendo Mais / Sem Filtro / Embrasa",
+      "url": "https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL"
+    },
+    {
+      "album": {
         "name": "Ma Bae",
         "url": "https://open.spotify.com/album/1mkE3MYFQuzUBr09cCNlh2"
       },
@@ -3130,7 +3152,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 153371,
       "name": "Pode Ir",
       "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"

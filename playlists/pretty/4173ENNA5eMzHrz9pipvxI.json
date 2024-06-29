@@ -1,13 +1,89 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: LUM!X x Lucas &amp; Steve",
-  "num_followers": 120180,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: DAYA",
+  "num_followers": 120187,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdincsAmlvql6skg5oG84CdJfnZgBH",
+  "snapshot_id": "AAAdkVaY2RV2z3RmkTDfgUrf9y6PUl0A",
   "tracks": [
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "Don't Call",
+        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 229105,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "Where Are You Tonight",
+        "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 235248,
+      "name": "Where Are You Tonight",
+      "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "It Ain't Safe",
+        "url": "https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Tavatli",
+          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/1cuEHKMtUWcrehv5XeqSlt"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "jayover",
+          "url": "https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3"
+        }
+      ],
+      "duration_ms": 155238,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
+    },
     {
       "added_at": "2024-06-20 12:57:19",
       "album": {
@@ -31,26 +107,6 @@
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
-    },
-    {
-      "added_at": "2024-06-20 12:57:19",
-      "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 197841,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "added_at": "2024-06-20 12:57:19",
@@ -109,76 +165,144 @@
       "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
     },
     {
-      "added_at": "2024-06-20 12:57:19",
+      "added_at": "2024-06-28 07:16:43",
       "album": {
-        "name": "Droppin' Hot (feat. Sonny Wilson)",
-        "url": "https://open.spotify.com/album/4YT3rXNwTHQzwENlihD6CP"
+        "name": "999",
+        "url": "https://open.spotify.com/album/3FWN04EjchloJS10hArDLy"
       },
       "artists": [
         {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+          "name": "Felix Schorn",
+          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
         },
         {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+          "name": "Chris Burke",
+          "url": "https://open.spotify.com/artist/7DuMrjdqPSIiF85TF8hoiV"
         },
         {
-          "name": "Sonny Wilson",
-          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+          "name": "FIVE",
+          "url": "https://open.spotify.com/artist/5EXww1GWVkP9ZffmrlJycO"
         }
       ],
-      "duration_ms": 143095,
-      "name": "Droppin' Hot (feat. Sonny Wilson)",
-      "url": "https://open.spotify.com/track/4tua0l4jgHSvV0FlgsmiUp"
+      "duration_ms": 145114,
+      "name": "999",
+      "url": "https://open.spotify.com/track/5BdmlzGOBDh0f3BPLfIBG0"
     },
     {
-      "added_at": "2024-06-20 12:57:19",
+      "added_at": "2024-06-28 07:16:43",
       "album": {
-        "name": "Can't Stop Playing (feat. Ane Brun) [Cian McFeely Remix]",
-        "url": "https://open.spotify.com/album/4Oawu4apI0zbcSTZAQOAZF"
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/1jcsybt3miqJpCcjRAk7j6"
       },
       "artists": [
         {
-          "name": "DR. KUCHO!",
-          "url": "https://open.spotify.com/artist/263Gr9lGWR6ScnRGjxa3Ad"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "Cian McFeely",
-          "url": "https://open.spotify.com/artist/6snaEk0NtSZ01uSHQewZDD"
-        },
-        {
-          "name": "Anne Brun",
-          "url": "https://open.spotify.com/artist/36ZqHTWU9KAN4f6CAe2aOD"
+          "name": "Tolex",
+          "url": "https://open.spotify.com/artist/0Z1hdVivfkFvCkrmWYlbA0"
         }
       ],
-      "duration_ms": 131744,
-      "name": "Can't Stop Playing (feat. Anne Brun) [Cian McFeely Remix]",
-      "url": "https://open.spotify.com/track/4vTvus8VUlimhegjaHwPyA"
+      "duration_ms": 270720,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/2lcoaWDL7xWHx6ZZCGOSzl"
     },
     {
-      "added_at": "2024-06-20 12:57:19",
+      "added_at": "2024-06-28 07:16:43",
       "album": {
-        "name": "Lotus (PAROOKAVILLE Anthem 2024) [\u00d6wnboss Remix]",
-        "url": "https://open.spotify.com/album/78aXo0mysOaKgd2qwHEPxj"
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 165937,
-      "name": "Lotus (PAROOKAVILLE Anthem 2024) - \u00d6wnboss Remix",
-      "url": "https://open.spotify.com/track/6RtN4kwFFScEgQbARaYli5"
+      "duration_ms": 204000,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "duration_ms": 157734,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/3aM3elSql2STyiob9POgWY"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "I Want This Forever",
+        "url": "https://open.spotify.com/album/1HXVbYrNQF9osYAmVmKKjM"
+      },
+      "artists": [
+        {
+          "name": "Dropack",
+          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
+        },
+        {
+          "name": "Tolex",
+          "url": "https://open.spotify.com/artist/0Z1hdVivfkFvCkrmWYlbA0"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "I Want This Forever",
+      "url": "https://open.spotify.com/track/3TNIwnnxvwirWATsJ5jZWh"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3sTaPfBlozA6ICXwdIupDq"
+      },
+      "artists": [
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
+        },
+        {
+          "name": "Markis",
+          "url": "https://open.spotify.com/artist/4m1912E02pZ71m0bO9ZEMf"
+        }
+      ],
+      "duration_ms": 195714,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6zSza83er01pHYxOgFyEhz"
+    },
+    {
+      "added_at": "2024-06-28 07:16:43",
+      "album": {
+        "name": "Disco Train",
+        "url": "https://open.spotify.com/album/02Waf4ySpoFvSzLH8GX6K4"
+      },
+      "artists": [
+        {
+          "name": "Kiro Prime",
+          "url": "https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr"
+        },
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Disco Train",
+      "url": "https://open.spotify.com/track/1vtbBMBzzHnM85xXis4voe"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

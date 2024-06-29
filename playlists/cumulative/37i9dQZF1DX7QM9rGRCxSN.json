@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 310093,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
@@ -1752,6 +1752,28 @@
       "duration_ms": 285714,
       "name": "Sofocar",
       "url": "https://open.spotify.com/track/0HTqH2Wqa6qZNWHNfRR6DB"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7"
+      },
+      "artists": [
+        {
+          "name": "Chris Koehn",
+          "url": "https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn"
+        },
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248968,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46"
     },
     {
       "album": {

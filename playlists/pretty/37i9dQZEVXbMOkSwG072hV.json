@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 350785,
+  "num_followers": 350789,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LhDOmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LhIgGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Eu So Comi Ela uma Vez",
         "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Quadrilha Junina - Quadrilha Tradicional",
         "url": "https://open.spotify.com/album/1CwGcGZi4JSTqaEw8osQA5"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/7pimAUTzSa4HkyxcjHW19v"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Toque Carinhoso",
         "url": "https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168805,
-      "name": "Nosso Primeiro Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Deixa Eu Ser Seu Romeu",
         "url": "https://open.spotify.com/album/3LuexrCV0bHQQMW56Ju6I8"
@@ -109,39 +109,7 @@
       "url": "https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Tontom Perigosa",
-        "url": "https://open.spotify.com/album/2CXwdp669W9YO5g7WdGdYJ"
-      },
-      "artists": [
-        {
-          "name": "Tontom",
-          "url": "https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV"
-        }
-      ],
-      "duration_ms": 216824,
-      "name": "Tontom Perigosa",
-      "url": "https://open.spotify.com/track/38ifsBGpq5igWYZoxofixU"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Bloquinho da Putaria 1.0",
-        "url": "https://open.spotify.com/album/6sc5tfIJey5qTv3xOSt9w4"
-      },
-      "artists": [
-        {
-          "name": "Cirilo Teclas",
-          "url": "https://open.spotify.com/artist/4QmyJDYdGHqWkoqIjOufOy"
-        }
-      ],
-      "duration_ms": 314515,
-      "name": "Bloquinho da Putaria 1.0",
-      "url": "https://open.spotify.com/track/67vSuD3K3Np2H5qKo4TkjJ"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -157,7 +125,39 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Bloquinho da Putaria 1.0",
+        "url": "https://open.spotify.com/album/6sc5tfIJey5qTv3xOSt9w4"
+      },
+      "artists": [
+        {
+          "name": "Cirilo Teclas",
+          "url": "https://open.spotify.com/artist/4QmyJDYdGHqWkoqIjOufOy"
+        }
+      ],
+      "duration_ms": 314515,
+      "name": "Bloquinho da Putaria 1.0",
+      "url": "https://open.spotify.com/track/67vSuD3K3Np2H5qKo4TkjJ"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Tontom Perigosa",
+        "url": "https://open.spotify.com/album/2CXwdp669W9YO5g7WdGdYJ"
+      },
+      "artists": [
+        {
+          "name": "Tontom",
+          "url": "https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV"
+        }
+      ],
+      "duration_ms": 216824,
+      "name": "Tontom Perigosa",
+      "url": "https://open.spotify.com/track/38ifsBGpq5igWYZoxofixU"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Maturidade - EP 03 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2b7k6A9xKfBrJ16UnXVXbP"
@@ -193,39 +193,7 @@
       "url": "https://open.spotify.com/track/1b4OldCIxTO7DcqYdvdlOM"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "MTG-SE TU N\u00c3O ABRIR EU VOU INVADIR",
-        "url": "https://open.spotify.com/album/4HvLGUKSm0cV26mTWTsdtm"
-      },
-      "artists": [
-        {
-          "name": "DJ PC PROD",
-          "url": "https://open.spotify.com/artist/6SKdt2q7abKtAiqtck3UUe"
-        }
-      ],
-      "duration_ms": 134168,
-      "name": "MTG-SE TU N\u00c3O ABRIR EU VOU INVADIR",
-      "url": "https://open.spotify.com/track/4eL49RS88EdEXsSAn9qDQ8"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "N\u00e3o Vou Namorar Vs Funk Rj",
         "url": "https://open.spotify.com/album/16gznlO9WxK1nzEd2Het6s"
@@ -241,7 +209,39 @@
       "url": "https://open.spotify.com/track/7uC85V5kVRNxAM0H8a0KXe"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "MTG-SE TU N\u00c3O ABRIR EU VOU INVADIR",
+        "url": "https://open.spotify.com/album/4HvLGUKSm0cV26mTWTsdtm"
+      },
+      "artists": [
+        {
+          "name": "DJ PC PROD",
+          "url": "https://open.spotify.com/artist/6SKdt2q7abKtAiqtck3UUe"
+        }
+      ],
+      "duration_ms": 134168,
+      "name": "MTG-SE TU N\u00c3O ABRIR EU VOU INVADIR",
+      "url": "https://open.spotify.com/track/4eL49RS88EdEXsSAn9qDQ8"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Mtg Toca Aquela 24 por 48",
         "url": "https://open.spotify.com/album/0Uimy4Ev8lRxZ7qeGQ8PkO"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/7B6z78yDDaj96EE9G5JW0W"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Lobster",
         "url": "https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Set da Menorzinha 1.0",
         "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Te Maceto Depois do Baile",
         "url": "https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg"
@@ -329,23 +329,7 @@
       "url": "https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Pira\u00e7\u00e3o 2.0",
-        "url": "https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX"
-      },
-      "artists": [
-        {
-          "name": "Kak\u00e1 e Pedrinho",
-          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Pira\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Meu Bigodin Tralha, Minha Roupa Nova",
         "url": "https://open.spotify.com/album/7sGa4qIBhGMBkgEHh6hiXl"
@@ -365,23 +349,23 @@
       "url": "https://open.spotify.com/track/7M9AFryrEBrYGJiMg5055A"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "PORRADEIRO NA TUA XOTA x KIKA COM A BUNDA",
-        "url": "https://open.spotify.com/album/2Ve3rO0ahNym8zGfh0mBNx"
+        "name": "Pira\u00e7\u00e3o 2.0",
+        "url": "https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX"
       },
       "artists": [
         {
-          "name": "DJ GV CUNHA",
-          "url": "https://open.spotify.com/artist/1zKEHJ21qJY8QuC1CutxM9"
+          "name": "Kak\u00e1 e Pedrinho",
+          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
         }
       ],
-      "duration_ms": 135110,
-      "name": "PORRADEIRO NA TUA XOTA x KIKA COM A BUNDA",
-      "url": "https://open.spotify.com/track/2NJNKQKWByS1YEMQAbcgjG"
+      "duration_ms": 153466,
+      "name": "Pira\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -413,7 +397,23 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276453,
+      "name": "Ovelhinha (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Ei Moto T\u00e1xi",
         "url": "https://open.spotify.com/album/5QlKVH6TE9oXTQgM5XxfVF"
@@ -437,23 +437,23 @@
       "url": "https://open.spotify.com/track/3maK7XfMybZF8gO2bltuDG"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+        "name": "PORRADEIRO NA TUA XOTA x KIKA COM A BUNDA",
+        "url": "https://open.spotify.com/album/2Ve3rO0ahNym8zGfh0mBNx"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "DJ GV CUNHA",
+          "url": "https://open.spotify.com/artist/1zKEHJ21qJY8QuC1CutxM9"
         }
       ],
-      "duration_ms": 276453,
-      "name": "Ovelhinha (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
+      "duration_ms": 135110,
+      "name": "PORRADEIRO NA TUA XOTA x KIKA COM A BUNDA",
+      "url": "https://open.spotify.com/track/2NJNKQKWByS1YEMQAbcgjG"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "MTG - ELASTIC HEART",
         "url": "https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd"
@@ -469,7 +469,23 @@
       "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
@@ -489,39 +505,7 @@
       "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "WOKE UP",
-        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "WOKE UP",
-      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -537,119 +521,23 @@
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "A Tropa Que Te Maceta 2",
-        "url": "https://open.spotify.com/album/3aRe6tPXjeQDogGI7JPyJE"
-      },
-      "artists": [
-        {
-          "name": "DJ Silva 07",
-          "url": "https://open.spotify.com/artist/5tqz5zHxmEDHIXpbhGisQA"
-        },
-        {
-          "name": "DJ CN ZL",
-          "url": "https://open.spotify.com/artist/29RpXx26ZJb6gk8cwgPSaI"
-        },
-        {
-          "name": "Mc DDSV",
-          "url": "https://open.spotify.com/artist/31Ihc9LlVu0K2Z5g7E2mSQ"
-        }
-      ],
-      "duration_ms": 115774,
-      "name": "A Tropa Que Te Maceta 2",
-      "url": "https://open.spotify.com/track/4ee4vCGHPd97XiiHwJH3g8"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "EU SOU SENTIMENTO",
-        "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        }
-      ],
-      "duration_ms": 186107,
-      "name": "EU SOU SENTIMENTO",
-      "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
-        "url": "https://open.spotify.com/album/7lxG16hpakQIeJJEuZxH3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        }
-      ],
-      "duration_ms": 117576,
-      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
-      "url": "https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Fortaleza, Vol.3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "A\u00ed A\u00ed Que Legal - A\u00ed A\u00ed Que Fenomenal",
         "url": "https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X"
@@ -673,23 +561,67 @@
       "url": "https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "Medley Put4ria Avan\u00e7ada",
-        "url": "https://open.spotify.com/album/58k3YgPnHa7XWEFOc4ggTd"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "HITS DO NORDESTE",
-          "url": "https://open.spotify.com/artist/3OuNp8jY5rNrvBZKbzzUfm"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 199373,
-      "name": "Medley Put4ria Avan\u00e7ada",
-      "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "A Tropa Que Te Maceta 2",
+        "url": "https://open.spotify.com/album/3aRe6tPXjeQDogGI7JPyJE"
+      },
+      "artists": [
+        {
+          "name": "DJ Silva 07",
+          "url": "https://open.spotify.com/artist/5tqz5zHxmEDHIXpbhGisQA"
+        },
+        {
+          "name": "DJ CN ZL",
+          "url": "https://open.spotify.com/artist/29RpXx26ZJb6gk8cwgPSaI"
+        },
+        {
+          "name": "Mc DDSV",
+          "url": "https://open.spotify.com/artist/31Ihc9LlVu0K2Z5g7E2mSQ"
+        }
+      ],
+      "duration_ms": 115774,
+      "name": "A Tropa Que Te Maceta 2",
+      "url": "https://open.spotify.com/track/4ee4vCGHPd97XiiHwJH3g8"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "EU SOU SENTIMENTO",
+        "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "EU SOU SENTIMENTO",
+      "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "MTG Minha Boca na Sua",
         "url": "https://open.spotify.com/album/6pTv2T1QpcLpqou6tX9jEh"
@@ -705,31 +637,95 @@
       "url": "https://open.spotify.com/track/6pKULEzS8Z3hwO56IzK2XH"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "Mega Funk Faz Macete",
-        "url": "https://open.spotify.com/album/3iFkNCEW4SfoWqr2ETf4he"
+        "name": "Medley Put4ria Avan\u00e7ada",
+        "url": "https://open.spotify.com/album/58k3YgPnHa7XWEFOc4ggTd"
       },
       "artists": [
         {
-          "name": "TAIDigital",
-          "url": "https://open.spotify.com/artist/1rpIqBtHIGInNjPbRVha5x"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "MC MM",
-          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+          "name": "HITS DO NORDESTE",
+          "url": "https://open.spotify.com/artist/3OuNp8jY5rNrvBZKbzzUfm"
         }
       ],
-      "duration_ms": 234545,
-      "name": "Mega Funk Faz Macete",
-      "url": "https://open.spotify.com/track/5YzDr5BIEDHfmY0XfGiTXn"
+      "duration_ms": 199373,
+      "name": "Medley Put4ria Avan\u00e7ada",
+      "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Fortaleza, Vol.3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+        "url": "https://open.spotify.com/album/7lxG16hpakQIeJJEuZxH3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "duration_ms": 117576,
+      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+      "url": "https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Triplex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Sonho Dela (Cowboy)",
         "url": "https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq"
@@ -753,27 +749,31 @@
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "Triplex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+        "name": "Mega Funk Faz Macete",
+        "url": "https://open.spotify.com/album/3iFkNCEW4SfoWqr2ETf4he"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "TAIDigital",
+          "url": "https://open.spotify.com/artist/1rpIqBtHIGInNjPbRVha5x"
         },
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
         }
       ],
-      "duration_ms": 178170,
-      "name": "Triplex - Ao Vivo",
-      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+      "duration_ms": 234545,
+      "name": "Mega Funk Faz Macete",
+      "url": "https://open.spotify.com/track/5YzDr5BIEDHfmY0XfGiTXn"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "CHEGOU 3",
         "url": "https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj"
@@ -793,47 +793,23 @@
       "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Kayin",
-          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
-        },
-        {
-          "name": "Danike",
-          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        },
-        {
-          "name": "NERESZZ",
-          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 288000,
-      "name": "TRAP DE MALOKA",
-      "url": "https://open.spotify.com/track/6XJNYC9uS1h3d8fdxsGtNd"
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Cabel\u00e3o Dourado",
         "url": "https://open.spotify.com/album/483hdPHrCdKZbxAgVuP2hT"
@@ -857,23 +833,39 @@
       "url": "https://open.spotify.com/track/6WRszI2G804ySY8Shzx9pS"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Meu Sonho",
+        "url": "https://open.spotify.com/album/2uol5nnCAv9RHeadO2TRoJ"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -889,7 +881,7 @@
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "Ningu\u00e9m Entende Nada",
         "url": "https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US"
@@ -913,39 +905,7 @@
       "url": "https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "My Kink Is Karma",
-      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
-    },
-    {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
         "name": "MTG COLO DE MENINA",
         "url": "https://open.spotify.com/album/3WsFvoTqAulSRYEWRvc4Kb"
@@ -961,20 +921,44 @@
       "url": "https://open.spotify.com/track/54c72by24h4vakvgTrb3va"
     },
     {
-      "added_at": "2024-06-27 14:17:37",
+      "added_at": "2024-06-28 13:53:09",
       "album": {
-        "name": "MTG WHAT IS LOVE",
-        "url": "https://open.spotify.com/album/4bRBfu0aqqIBifXnTIE6ZX"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "DJ ROLANDIN",
-          "url": "https://open.spotify.com/artist/3dEyQ0CC1B3TyW4lJAmLiu"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 135230,
-      "name": "MTG WHAT IS LOVE",
-      "url": "https://open.spotify.com/track/1O0tQagVuN5Rk22WbTFkwc"
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+    },
+    {
+      "added_at": "2024-06-28 13:53:09",
+      "album": {
+        "name": "Mtg Forr\u00f3 e Desmantelo",
+        "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
+      },
+      "artists": [
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        },
+        {
+          "name": "Manim Vaqueiro",
+          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Mtg Forr\u00f3 e Desmantelo",
+      "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

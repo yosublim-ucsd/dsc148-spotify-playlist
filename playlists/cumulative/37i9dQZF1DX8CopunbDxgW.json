@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Mura Masa",
+  "description": "The best indie dance tracks of the moment. Cover: LP Giobbi",
   "name": "metropolis",
   "tracks": [
     {
@@ -2759,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298425,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX"
+    },
+    {
+      "album": {
         "name": "Blackoak",
         "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
       },
@@ -4976,7 +4998,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 183321,
       "name": "Contact High",
       "url": "https://open.spotify.com/track/4MwubKmGFxTUG8tyDik3Ux"
@@ -5148,7 +5170,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 217243,
       "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
       "url": "https://open.spotify.com/track/1etj360XIk6CFlAxuyYKBy"
@@ -5224,6 +5246,24 @@
       "duration_ms": 172389,
       "name": "Crowded Roomz",
       "url": "https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe"
+    },
+    {
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Cruel Heart",
+      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
     },
     {
       "album": {
@@ -5540,7 +5580,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 212244,
       "name": "Days Of The Week",
       "url": "https://open.spotify.com/track/1tR8TOA5oiAQZ89N3kiRzV"
@@ -6692,6 +6732,24 @@
       "duration_ms": 286933,
       "name": "Each Night",
       "url": "https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE"
+    },
+    {
+      "album": {
+        "name": "early days",
+        "url": "https://open.spotify.com/album/2Ew446i42YZzNSifyS6a7W"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138023,
+      "name": "early days",
+      "url": "https://open.spotify.com/track/1iEipqyQlZJVg64emlcX3D"
     },
     {
       "album": {
@@ -9108,7 +9166,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 243779,
       "name": "Give You My Love",
       "url": "https://open.spotify.com/track/00Zner1J4KiAOS7ZmiMRnY"
@@ -10890,7 +10948,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
@@ -12052,6 +12110,28 @@
       "duration_ms": 237986,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
+    },
+    {
+      "album": {
+        "name": "IN YOUR EYES",
+        "url": "https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "IN YOUR EYES",
+      "url": "https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6"
     },
     {
       "album": {
@@ -13709,6 +13789,24 @@
     },
     {
       "album": {
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "album": {
         "name": "Love on Delivery",
         "url": "https://open.spotify.com/album/2RP10hzbFeDqFjxEmCUvtW"
       },
@@ -14880,6 +14978,28 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "album": {
@@ -18282,7 +18402,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 229896,
       "name": "Outside Of Love - Young Franco Remix",
       "url": "https://open.spotify.com/track/2vD9qcTGAWso6tULyMsylE"
@@ -18330,7 +18450,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 244918,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/4rzgtdgmRAACdE4SAlkeKk"
@@ -18810,6 +18930,24 @@
       "duration_ms": 208805,
       "name": "Peur des filles",
       "url": "https://open.spotify.com/track/2PfPIIxUiH9Y7miXqiQdqv"
+    },
+    {
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281106,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
     },
     {
       "album": {
@@ -20326,7 +20464,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 393800,
       "name": "Running After Time - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/5XCYQZIGY4TvoAi9diptEW"
@@ -20948,6 +21086,28 @@
       "duration_ms": 101560,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
+    },
+    {
+      "album": {
+        "name": "Shakti",
+        "url": "https://open.spotify.com/album/0OUAVcRUP8CJV5JJPWBgP9"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Shakti",
+      "url": "https://open.spotify.com/track/4eopH8ccHhRVQOarENh9mM"
     },
     {
       "album": {
@@ -22202,6 +22362,24 @@
       "duration_ms": 212566,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E"
+    },
+    {
+      "album": {
+        "name": "stay",
+        "url": "https://open.spotify.com/album/0Vw1FO6T1S1uH5vLT2fINl"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186814,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/2ZkmDS8JzQruGYcMFG04Yo"
     },
     {
       "album": {
@@ -25166,7 +25344,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 234332,
       "name": "Turning My Heart Blue",
       "url": "https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu"

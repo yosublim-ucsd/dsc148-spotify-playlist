@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Yaima Cat y Niña Tormenta
+> Todo el sonido indie de Chile\. Foto: Cancamusa.
 
-484 songs - 1 day 5 hr 5 min
+485 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Casi](https://open.spotify.com/track/1rTb0UaBhqtozVWr8Fn9ZN) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga), [Circuito Nacional](https://open.spotify.com/artist/3gwaNs7RvWYoa0C2XLApBV) | [Planetario en Circuito Nacional](https://open.spotify.com/album/7e29NNM8RxqgVgv99wP0e2) | 3:18 | 2022-04-15 | 2022-10-08 |
 | [Caudal](https://open.spotify.com/track/4whbPbsW4hp8kem7kAOziT) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Pirueta](https://open.spotify.com/album/3Sbf7GZMTahvu2dhHeABe5) | 4:34 | 2022-04-15 | 2022-07-29 |
 | [celebi](https://open.spotify.com/track/6c0Y2pH3EN8XfNc1YJALPr) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [celebi](https://open.spotify.com/album/1wxZMEUQty3adE3Rnxxm9Z) | 3:10 | 2022-04-15 | 2022-12-10 |
+| [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 | 2024-06-28 |  |
 | [Chico Bonzo](https://open.spotify.com/track/07GZ25PrdqkG19J6jJTAUT) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Santino Amigo](https://open.spotify.com/artist/5bi9RZL4DjdU9V9PRttwVz) | [Terror en el Autocine](https://open.spotify.com/album/4gLSIduqoBapUBLdmk85WZ) | 3:16 | 2022-04-15 | 2022-07-29 |
 | [CHINO, CA](https://open.spotify.com/track/7dUQaXIU2OdcaVA7IyEZl7) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p) | [CHINO, CA](https://open.spotify.com/album/0NEcQdfUb37tFV99So5jRd) | 3:02 | 2022-04-15 | 2022-07-12 |
 | [Ciego](https://open.spotify.com/track/3BMSBX4qC3jNUf208X2F0Q) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [BB: Ciego](https://open.spotify.com/album/6eXgSXkf1f2lF4y0wIP5t7) | 3:07 | 2022-04-15 | 2022-07-29 |
@@ -226,7 +227,7 @@
 | [la paz](https://open.spotify.com/track/1ZJm8ES9wMWmb64oyZMHb5) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX) | [¿nos veremos en diciembre?](https://open.spotify.com/album/0Za4wmkIP6VFTlE92ikh1F) | 3:12 | 2022-04-15 | 2022-10-15 |
 | [La Pócima](https://open.spotify.com/track/3478RKENZliWK21KgkqCxs) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [La Pócima](https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq) | 2:59 | 2022-10-14 | 2023-01-28 |
 | [La Resistencia](https://open.spotify.com/track/1M9rrn3d94oMrwuJRgVZ5W) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Resistencia](https://open.spotify.com/album/6wJYD7J46pVGUNZ3PA6YkJ) | 4:13 | 2023-05-26 | 2023-10-29 |
-| [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 |  |
+| [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 | 2024-06-29 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
 | [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 |  |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 | 2024-04-20 |

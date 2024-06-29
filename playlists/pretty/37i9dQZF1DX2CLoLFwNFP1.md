@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,567 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,596 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 83 | [20/20](https://open.spotify.com/track/4FOWc0GwRpua1mTHKC72sf) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [This Wasn’t Supposed To Happen](https://open.spotify.com/album/5OAxXcMZYsAxfTagsZ63vO) | 1:40 |
 | 84 | [Fade Away](https://open.spotify.com/track/5CDkXFsN0t2RloFhVqZJ3k) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [This Wasn’t Supposed To Happen](https://open.spotify.com/album/5OAxXcMZYsAxfTagsZ63vO) | 2:13 |
 | 85 | [Killa](https://open.spotify.com/track/2NZifue7PV10ukwipkwGSC) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [This Wasn’t Supposed To Happen](https://open.spotify.com/album/5OAxXcMZYsAxfTagsZ63vO) | 2:24 |
-| 86 | [REBORN](https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm) | 3:55 |
-| 87 | [Me Like Yuh \(feat\. Hoody\) \[Korean Version\]](https://open.spotify.com/track/40wb1DugiG4c4ztCt9oaWp) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:43 |
-| 88 | [All Day \(Flex\)](https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Nothing Matters](https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP) | 3:39 |
-| 89 | [V](https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:47 |
+| 86 | [V](https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:47 |
+| 87 | [REBORN](https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm) | 3:55 |
+| 88 | [Me Like Yuh \(feat\. Hoody\) \[Korean Version\]](https://open.spotify.com/track/40wb1DugiG4c4ztCt9oaWp) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:43 |
+| 89 | [All Day \(Flex\)](https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Nothing Matters](https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP) | 3:39 |
 | 90 | [Day by Day](https://open.spotify.com/track/3u1lKhxd2XV8f77aZAsRkN) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [\[Vol.66\] You Hee yul's Sketchbook : 40th Voice 'Sketchbook X Jay Park'](https://open.spotify.com/album/4NB7wMyRsRUQ1TZ2GivpDS) | 3:58 |
 | 91 | [All I Wanna Do](https://open.spotify.com/track/3gdqjIsKs7JqIE76JsNpG4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:29 |
 | 92 | [Solo \(feat\. Hoody\)](https://open.spotify.com/track/1HKHCSBqNz6LSsufXGcb5q) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:39 |

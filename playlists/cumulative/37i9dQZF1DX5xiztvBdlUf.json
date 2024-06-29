@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Blue Memory",
+        "url": "https://open.spotify.com/album/3W7zqo21XMUIiVXEaLyTBT"
+      },
+      "artists": [
+        {
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+        },
+        {
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346971,
+      "name": "Blue Memory",
+      "url": "https://open.spotify.com/track/2Ltq1zC9Z4tWUr0GBNU8qS"
+    },
+    {
+      "album": {
         "name": "Body Resonance: 15 Years Anniversary Edition, Pt. 1",
         "url": "https://open.spotify.com/album/4YWYbVDGz0BbaBFejL377I"
       },
@@ -4122,7 +4144,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 342813,
       "name": "Malmedy",
       "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0zub2o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0zub2o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0zub2o)
 
-### [This Is パンテラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
+### [This Is Pantera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-> This is パンテラ。アーティストの代表曲をひとつのプレイリストに。
+> This is Pantera\. The essential tracks, all in one playlist.
 
 59 songs - 4 hr 27 min
 

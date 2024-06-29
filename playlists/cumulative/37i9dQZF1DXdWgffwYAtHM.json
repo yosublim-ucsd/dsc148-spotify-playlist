@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:10naLy8QHctu1ODM0BqxEt\">Hist\u00f3rias pra adulto dormir</a>",
+  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:1DGHbBkLyem1Ce759hyrqd\">Eu preciso falar de amor</a>",
   "name": "RADAR Podcasters Brasil",
   "tracks": [
     {
@@ -59,6 +59,60 @@
     },
     {
       "album": {
+        "name": "Eu preciso falar de amor ",
+        "url": "https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd"
+      },
+      "artists": [
+        {
+          "name": "Eu preciso falar de amor ",
+          "url": "https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2075794,
+      "name": "#72 Alinhar expectativas salva amores!",
+      "url": "https://open.spotify.com/episode/4Q5Aee9R7F5CjKiCbo4ayl"
+    },
+    {
+      "album": {
+        "name": "bom mesmo \u00e9 ser emocionada",
+        "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
+      },
+      "artists": [
+        {
+          "name": "bom mesmo \u00e9 ser emocionada",
+          "url": "https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2586798,
+      "name": "a solid\u00e3o de n\u00e3o saber pedir ajuda #15",
+      "url": "https://open.spotify.com/episode/3Ts6LvbVbTK7Qx00TKlTaQ"
+    },
+    {
+      "album": {
+        "name": "Assustador, Bizarro e Misterioso",
+        "url": "https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR"
+      },
+      "artists": [
+        {
+          "name": "Assustador, Bizarro e Misterioso",
+          "url": "https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1022235,
+      "name": "A \u00e2ncora de TV que nunca chegou ao trabalho",
+      "url": "https://open.spotify.com/episode/0yvCobbcwUs2V4xmNfFfpD"
+    },
+    {
+      "album": {
         "name": "vibes em an\u00e1lise",
         "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
       },
@@ -74,6 +128,24 @@
       "duration_ms": 3616522,
       "name": "AMOR ANIMAL",
       "url": "https://open.spotify.com/episode/3qSYsy8SG1E8AmVDUYG7tK"
+    },
+    {
+      "album": {
+        "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+        "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
+      },
+      "artists": [
+        {
+          "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+          "url": "https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 760489,
+      "name": "atrasada na vida ",
+      "url": "https://open.spotify.com/episode/2eqYG1Mc9GrgMBS6LthLXq"
     },
     {
       "album": {
@@ -106,7 +178,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 528169,
       "name": "como lidar com tempos dif\u00edceis?",
       "url": "https://open.spotify.com/episode/0lmnLwbinoM5F8zbzTy80n"
@@ -167,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3rias pra adulto dormir",
+        "url": "https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt"
+      },
+      "artists": [
+        {
+          "name": "Hist\u00f3rias pra adulto dormir",
+          "url": "https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1027876,
+      "name": "O MAL-AMADO - Hist\u00f3rias pra Adulto Dormir",
+      "url": "https://open.spotify.com/episode/5QlAv3wWjyAowtLlx8qsej"
+    },
+    {
+      "album": {
         "name": "bom mesmo \u00e9 ser emocionada",
         "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
       },
@@ -178,7 +268,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 2201436,
       "name": "o que seu corpo ta pedindo? #11",
       "url": "https://open.spotify.com/episode/0UTGLZNNJ07i2mAox1T5x6"
@@ -232,10 +322,28 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 3391296,
       "name": "O QUE TEM NA SUA CARTEIRA? #28 | com Luanda Vieira, Jornalista e influenciadora",
       "url": "https://open.spotify.com/episode/4frzOTdjtosIQrAytszCZs"
+    },
+    {
+      "album": {
+        "name": "O que tem na sua carteira?",
+        "url": "https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG"
+      },
+      "artists": [
+        {
+          "name": "O que tem na sua carteira?",
+          "url": "https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3622271,
+      "name": "O QUE TEM NA SUA CARTEIRA? #31 | com Catharina Dieterich, Empres\u00e1ria",
+      "url": "https://open.spotify.com/episode/6NrTaVNCxiGwfwz0JGWSxk"
     },
     {
       "album": {
@@ -268,7 +376,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 3820930,
       "name": "POR TR\u00c1S DA MENTIRA",
       "url": "https://open.spotify.com/episode/7Dl3kzC2lBd1FerIPzyg4q"
@@ -286,7 +394,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 572858,
       "name": "pra dormir imaginando...",
       "url": "https://open.spotify.com/episode/5Pl5wVtkXhwqDTagb76Pfk"
@@ -329,6 +437,24 @@
     },
     {
       "album": {
+        "name": "vibes em an\u00e1lise",
+        "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
+      },
+      "artists": [
+        {
+          "name": "vibes em an\u00e1lise",
+          "url": "https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3781276,
+      "name": "SIGNIFICADOS DO ESPORTE",
+      "url": "https://open.spotify.com/episode/6hALqgc5iDjKe3Wj0hDkTj"
+    },
+    {
+      "album": {
         "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
         "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
       },
@@ -358,7 +484,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 879362,
       "name": "Solucionado 8 anos depois por um motivo inusitado",
       "url": "https://open.spotify.com/episode/6wyuwrdORnyH97ueX4rtde"

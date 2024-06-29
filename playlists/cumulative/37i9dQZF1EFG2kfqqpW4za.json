@@ -1425,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "Vai Chover",
+        "url": "https://open.spotify.com/album/6X7ndG3Epf83yKn3mUXNXM"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270025,
+      "name": "Vai Chover",
+      "url": "https://open.spotify.com/track/0XWsGPnhSZGsswjDQm0xGF"
+    },
+    {
+      "album": {
         "name": "Vai Chover (feat. H\u00e9lio Bentes)",
         "url": "https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A"
       },
@@ -1440,7 +1462,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 270025,
       "name": "Vai Chover (feat. H\u00e9lio Bentes)",
       "url": "https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K"

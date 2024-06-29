@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 329109,
+  "num_followers": 329113,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 295106,
       "name": "Mania De Voc\u00ea",
       "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 128733,
-      "name": "Diz Que Fui Por Ai",
-      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/55KHEIHNfQMBfuJ0JSpd5W"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 155851,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/2izzg0ootMWve10LHVhFcx"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 128733,
+      "name": "Diz Que Fui Por Ai",
+      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sorriso Aberto",
-        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Sorriso Aberto",
-      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Peda\u00e7os",
         "url": "https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 238200,
       "name": "T\u00f4 Voltando",
       "url": "https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sorriso Aberto",
+        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 276426,
+      "name": "Sorriso Aberto",
+      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Assim Que Se Faz",
-        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
-      },
-      "artists": [
-        {
-          "name": "Luciana Mello",
-          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
-        }
-      ],
-      "duration_ms": 300626,
-      "name": "Assim Que Se Faz",
-      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
         "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 178000,
       "name": "Suave Veneno",
       "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Assim Que Se Faz",
+        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
+      },
+      "artists": [
+        {
+          "name": "Luciana Mello",
+          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
+        }
+      ],
+      "duration_ms": 300626,
+      "name": "Assim Que Se Faz",
+      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "A Menina Ainda Dan\u00e7a (Baby Sucessos)",
-        "url": "https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi"
-      },
-      "artists": [
-        {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        }
-      ],
-      "duration_ms": 413866,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Psiu",
         "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 297128,
       "name": "Psiu",
       "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "A Menina Ainda Dan\u00e7a (Baby Sucessos)",
+        "url": "https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi"
+      },
+      "artists": [
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        }
+      ],
+      "duration_ms": 413866,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1627,6 +1627,38 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Coisas Do Meu Pessoal",
+        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Marias",
+      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Poetisas no Topo",
         "url": "https://open.spotify.com/album/4g0c6MOErI6fhVaCWF4juA"
       },
@@ -1667,38 +1699,6 @@
       "duration_ms": 693750,
       "name": "Poetisas no Topo",
       "url": "https://open.spotify.com/track/7M6YvTJfLx3c8hiPlvCwl0"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Coisas Do Meu Pessoal",
-        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Marias",
-      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Del\u00edrio",
-        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",

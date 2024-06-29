@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > Driving Songs • Best of Dad Rock
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,426 likes - 100 songs - 6 hr 51 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,428 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

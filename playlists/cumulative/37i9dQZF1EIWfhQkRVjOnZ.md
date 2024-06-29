@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1984](https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX) | [Adestria](https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8) | [Chapters](https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA) | 4:04 | 2024-04-23 | 2024-06-21 |
+| [1984](https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX) | [Adestria](https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8) | [Chapters](https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA) | 4:04 | 2024-04-23 |  |
 | [94 Hours](https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:10 | 2024-05-02 | 2024-06-07 |
 | [A Bag Of Marbles](https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:00 | 2024-04-23 |  |
 | [A Banquet For Traitors](https://open.spotify.com/track/6Ampu27DQCqG7e2pPWwFKc) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:13 | 2024-05-25 |  |
@@ -16,7 +16,7 @@
 | [A Certain Death](https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM) | [Misery Signals](https://open.spotify.com/artist/0OSABE1yGiZK2ALQDJ0SeO) | [Controller](https://open.spotify.com/album/48QUEWlstIprnOzPkLeBa8) | 3:25 | 2024-04-25 | 2024-05-16 |
 | [A Constant Reminder](https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy) | 3:31 | 2024-06-11 | 2024-06-20 |
 | [A Fault Line, A Fault Of Mine](https://open.spotify.com/track/1XI4mmQ96K6uRHTxYpQmF1) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 3:21 | 2024-05-10 | 2024-05-12 |
-| [A Moment Suspended In Time](https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:59 | 2024-04-23 |  |
+| [A Moment Suspended In Time](https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:59 | 2024-04-23 | 2024-06-29 |
 | [A Mountain So Big, A Question So Small](https://open.spotify.com/track/1vF7UqFlXmPS18N9cCaX2h) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 4:32 | 2024-04-23 |  |
 | [A Novel Of War](https://open.spotify.com/track/5leJWyLClV1TS8oyvPHiqQ) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 2:48 | 2024-04-23 |  |
 | [A Pathetic Psalm](https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:59 | 2024-04-23 |  |

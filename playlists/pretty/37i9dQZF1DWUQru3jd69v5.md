@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Glocky in cover, aggiornata ogni venerdì
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,563 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,572 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 10 | [Rivalsa \(feat\. 22simba\)](https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Fame di Rivalsa](https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC) | 2:21 |
 | 11 | [Casa Di Nonna \(feat\. Papa V\)](https://open.spotify.com/track/2ZwiOSkaCWcQ19GgMjmcb9) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [Salsedine](https://open.spotify.com/album/716umZxZVxcezIh2OFLL6B) | 2:09 |
 | 12 | [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 |
-| 13 | [Grave Digger](https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Grave Digger](https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w) | 2:28 |
+| 13 | [Grave Digger \(feat\. Sapobully\)](https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Grave Digger \(feat\. Sapobully\)](https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w) | 2:28 |
 | 14 | [LOOSE LEAF](https://open.spotify.com/track/2xVrpYc1q9ICfCIVUevT05) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [LOOSE LEAF](https://open.spotify.com/album/4NCzzwXod9KqzAMOFvc5tj) | 2:19 |
 | 15 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 |
 | 16 | [FIUM FIUM](https://open.spotify.com/track/5QhEixLwOaErg4z0kBEauo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:32 |

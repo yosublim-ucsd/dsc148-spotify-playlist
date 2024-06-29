@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-208 songs - 12 hr 46 min
+209 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Brilliant Mind](https://open.spotify.com/track/5S46E2UNGDYcwZ26yj6aNr) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [ReBourne](https://open.spotify.com/album/4Y2Cla7P9zqTppJ1Xq92At) | 2:17 | 2024-05-31 |  |
 | [Burnt Toast & Coffee](https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Burnt Toast & Coffee](https://open.spotify.com/album/0xl0L7fwDbjrqatRt1SNkY) | 3:18 | 2024-05-31 |  |
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2024-05-31 |  |
-| [BYE BYE](https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [The Collective](https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x) | 4:14 | 2024-06-13 |  |
+| [BYE BYE](https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [The Collective](https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x) | 4:14 | 2024-06-13 | 2024-06-29 |
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2024-05-31 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2024-05-31 |  |
 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 | 2024-05-31 |  |
@@ -94,6 +94,7 @@
 | [Grown Up](https://open.spotify.com/track/2KrkWcSP0oFWBUZzvj9KjS) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Grown Up](https://open.spotify.com/album/75BAkzFWLER9MrZjaeFX2X) | 2:19 | 2024-05-31 |  |
 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 | 2024-05-31 |  |
 | [Handsworth Revolution](https://open.spotify.com/track/6IvCfEDx144Whfy0RWUdO3) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/6DiwyMhNGSkMwJxGg8DUVZ) | 5:23 | 2024-05-31 |  |
+| [Heavy Cross](https://open.spotify.com/track/3N9pOaB1a8nIULbCgmEVXc) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/0HQQZSfbrsaWBlN7IdwKuD) | 4:02 | 2024-05-31 |  |
 | [High Note](https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [High Note](https://open.spotify.com/album/0BKjTW49qxO6j8md9eW91g) | 3:45 | 2024-05-31 |  |
 | [High Time](https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [High Time](https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0) | 3:42 | 2024-05-31 |  |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2024-05-31 | 2024-06-27 |

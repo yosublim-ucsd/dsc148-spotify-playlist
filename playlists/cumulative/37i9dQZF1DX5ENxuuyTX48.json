@@ -18185,6 +18185,32 @@
     },
     {
       "album": {
+        "name": "Talam",
+        "url": "https://open.spotify.com/album/27L9EEiTh7yxUPDxYih102"
+      },
+      "artists": [
+        {
+          "name": "Fieya Julia",
+          "url": "https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA"
+        },
+        {
+          "name": "Triplouz A",
+          "url": "https://open.spotify.com/artist/13rc9filFC7c6lgLzERRF3"
+        },
+        {
+          "name": "Knowno",
+          "url": "https://open.spotify.com/artist/0ZjiUnf3v7lMPe8tYDGwJq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231538,
+      "name": "Talam",
+      "url": "https://open.spotify.com/track/7GsjPUmh32Kgy4N2jFPJvO"
+    },
+    {
+      "album": {
         "name": "Tandus (feat. Boy Clifford)",
         "url": "https://open.spotify.com/album/5zOTipa5zqlfXgC2C9Tikb"
       },

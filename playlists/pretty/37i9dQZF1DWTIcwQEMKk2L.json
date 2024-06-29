@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 68111,
+  "num_followers": 68117,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "Tr\u00e4umerei",
-        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rg Sorensen",
-          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Tr\u00e4umerei",
-      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
-    },
-    {
-      "added_at": "2024-06-17 03:46:25",
-      "album": {
         "name": "En t'attendant",
         "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 160066,
       "name": "D\u00e9but",
       "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
+    },
+    {
+      "added_at": "2024-06-17 03:46:25",
+      "album": {
+        "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rg Sorensen",
+          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
     },
     {
       "added_at": "2024-06-17 03:46:25",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "As The Years Go By",
-        "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
-    },
-    {
-      "added_at": "2024-06-17 03:46:25",
-      "album": {
         "name": "Isla De Flores",
         "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 159124,
       "name": "Isla De Flores",
       "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+    },
+    {
+      "added_at": "2024-06-17 03:46:25",
+      "album": {
+        "name": "As The Years Go By",
+        "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
     },
     {
       "added_at": "2024-06-17 03:46:25",
@@ -811,26 +811,22 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "Jane Eyre - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
       "artists": [
         {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Jack Liebeck",
-          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
-        },
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
         }
       ],
-      "duration_ms": 58386,
-      "name": "A Game of Badminton (feat. Jack Liebeck)",
-      "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
+      "duration_ms": 125133,
+      "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
+      "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
     },
     {
       "added_at": "2024-06-17 03:46:25",
@@ -851,22 +847,26 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "Sibelius: Piano Music, Vol. 4",
-        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+        "name": "Jane Eyre - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
       "artists": [
         {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
         },
         {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+          "name": "Jack Liebeck",
+          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
         }
       ],
-      "duration_ms": 125133,
-      "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
-      "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+      "duration_ms": 58386,
+      "name": "A Game of Badminton (feat. Jack Liebeck)",
+      "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
     },
     {
       "added_at": "2024-06-17 03:46:25",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
-    },
-    {
-      "added_at": "2024-06-17 03:46:25",
-      "album": {
         "name": "Forest Flower",
         "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 253056,
       "name": "Forest Flower",
       "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
+    },
+    {
+      "added_at": "2024-06-17 03:46:25",
+      "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
     },
     {
       "added_at": "2024-06-17 03:46:25",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
-    },
-    {
-      "added_at": "2024-06-17 03:46:25",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 121500,
       "name": "A Place Like This",
       "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
+    },
+    {
+      "added_at": "2024-06-17 03:46:25",
+      "album": {
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2024-06-17 03:46:25",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-06-17 03:46:25",
       "album": {
-        "name": "Mass",
-        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
-      },
-      "artists": [
-        {
-          "name": "Zwera",
-          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
-        }
-      ],
-      "duration_ms": 130267,
-      "name": "Mass",
-      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
-    },
-    {
-      "added_at": "2024-06-17 03:46:25",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2024-06-17 03:46:25",
+      "album": {
+        "name": "Mass",
+        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
+      },
+      "artists": [
+        {
+          "name": "Zwera",
+          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
+        }
+      ],
+      "duration_ms": 130267,
+      "name": "Mass",
+      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

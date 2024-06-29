@@ -5282,10 +5282,32 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 202743,
       "name": "Don't Turn the Bass Down",
       "url": "https://open.spotify.com/track/0m1rKryxt6PuEStB89hEgy"
+    },
+    {
+      "album": {
+        "name": "Don't Turn The Bass Down",
+        "url": "https://open.spotify.com/album/0CiOjI1XyhoRhyvdq1icOh"
+      },
+      "artists": [
+        {
+          "name": "L'Entourloop",
+          "url": "https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202743,
+      "name": "Don't Turn The Bass Down",
+      "url": "https://open.spotify.com/track/70xt0VZFShxSbfhTg3NcmF"
     },
     {
       "album": {
@@ -13302,7 +13324,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 210526,
       "name": "Mihaszna",
       "url": "https://open.spotify.com/track/4fV9i6y3YjloifMR59K9O2"
@@ -13644,6 +13666,24 @@
       "duration_ms": 230769,
       "name": "Mokambo Gang",
       "url": "https://open.spotify.com/track/0VcZUeaVzBil5tN3LCzkFm"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/1fmpLDzR2WuCVgHrWPoPzY"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5My0SnKMr3ZNiIpzXJiwiM"
     },
     {
       "album": {
@@ -17625,7 +17665,7 @@
     },
     {
       "album": {
-        "name": "R\u00f3lad Sz\u00f3l",
+        "name": "R\u00d3LAD SZ\u00d3L",
         "url": "https://open.spotify.com/album/6cadt4eRkdA10HpjTJbcG3"
       },
       "artists": [
@@ -17636,9 +17676,9 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 159360,
-      "name": "R\u00f3lad Sz\u00f3l",
+      "name": "R\u00d3LAD SZ\u00d3L",
       "url": "https://open.spotify.com/track/5doAzQzWfbAWMvh2eXxvdf"
     },
     {
@@ -21934,7 +21974,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 121690,
       "name": "Van cippi",
       "url": "https://open.spotify.com/track/27fZOuA4N6OXDERIHMDLIA"

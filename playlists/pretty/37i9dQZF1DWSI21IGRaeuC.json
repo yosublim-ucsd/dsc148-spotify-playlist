@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 37248,
+  "num_followers": 37283,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Always Talkin Sh!t",
-        "url": "https://open.spotify.com/album/7g72cfZ9mi01pZQ99FLvMf"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
         }
       ],
-      "duration_ms": 460615,
-      "name": "Always Talkin Sh!t",
-      "url": "https://open.spotify.com/track/1yaAs2qUxamFVX5VotHroG"
+      "duration_ms": 396682,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1123,34 +1123,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+        "name": "Always Talkin Sh!t",
+        "url": "https://open.spotify.com/album/7g72cfZ9mi01pZQ99FLvMf"
       },
       "artists": [
         {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
         }
       ],
-      "duration_ms": 225029,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
-      },
-      "artists": [
-        {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
-        }
-      ],
-      "duration_ms": 396682,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
+      "duration_ms": 460615,
+      "name": "Always Talkin Sh!t",
+      "url": "https://open.spotify.com/track/1yaAs2qUxamFVX5VotHroG"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "OSSAB",
         "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 330000,
       "name": "OSSAB",
       "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "ROCK THIS",
         "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 204375,
       "name": "ROCK THIS",
       "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        }
-      ],
-      "duration_ms": 162914,
-      "name": "So Far So Good",
-      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Teki Teki",
         "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200307,
       "name": "Teki Teki",
       "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Where Ya At",
-        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
       "artists": [
         {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Where Ya At",
-      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+        "name": "Where Ya At",
+        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
       "artists": [
         {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+      "duration_ms": 228750,
+      "name": "Where Ya At",
+      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "What's Your Name",
-        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
-      },
-      "artists": [
-        {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
-        }
-      ],
-      "duration_ms": 444444,
-      "name": "What's Your Name",
-      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "What We Got",
         "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "What's Your Name",
+        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 444444,
+      "name": "What's Your Name",
+      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Space Is The Place",
-        "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 385511,
-      "name": "Space Is The Place",
-      "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Disco Trip EP",
         "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Space Is The Place",
+        "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 385511,
+      "name": "Space Is The Place",
+      "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd"
       },
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "duration_ms": 333913,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        }
-      ],
-      "duration_ms": 443500,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
     }
   ],
   "unique_name": "Minimal Tech",

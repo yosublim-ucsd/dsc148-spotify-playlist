@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 383661,
       "name": "A.I.",
       "url": "https://open.spotify.com/track/3Eo8smdiC7vGoglZwHOMt4"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 489012,
       "name": "Adventures of Dama - Gorge Rework",
       "url": "https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 375000,
       "name": "Bass Care",
       "url": "https://open.spotify.com/track/54BANm3jvqRqGfbLzR3YC2"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 238095,
       "name": "Come Home - Club Edit",
       "url": "https://open.spotify.com/track/48QYHP0YVZQ4JsHS6okJPf"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 345000,
       "name": "Falkenschlag",
       "url": "https://open.spotify.com/track/6qLvGiTr2iylG80YYfC0yE"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 356777,
       "name": "Flight Number",
       "url": "https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 359816,
       "name": "F\u00fcr die Seele feat. Haexxa",
       "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Hedonism EP",
+        "url": "https://open.spotify.com/album/1wpsJ2flEpL30s7YwJFrtR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205824,
+      "name": "Hedonism - Edit",
+      "url": "https://open.spotify.com/track/2NUKjixrloJdybniS27UFx"
+    },
+    {
+      "album": {
         "name": "Hoax",
         "url": "https://open.spotify.com/album/2NVG3pJbAvK8MspezeqDxT"
       },
@@ -1658,6 +1676,24 @@
       "duration_ms": 184320,
       "name": "Human Element",
       "url": "https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn"
+    },
+    {
+      "album": {
+        "name": "Shootout",
+        "url": "https://open.spotify.com/album/7HYeQOJMgi1HzgQPwvoMLs"
+      },
+      "artists": [
+        {
+          "name": "Sikora",
+          "url": "https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379819,
+      "name": "Hurt By Envy Cut By Greed",
+      "url": "https://open.spotify.com/track/5nITAkOfYqDYK0CbcSeRCG"
     },
     {
       "album": {
@@ -1862,6 +1898,24 @@
       "duration_ms": 383365,
       "name": "Inescapable - Moritz Sachse Remix",
       "url": "https://open.spotify.com/track/2wb3Sf2Py8y4Ak05f8b7ka"
+    },
+    {
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/242RRzCcPqBTRe7R34Xl6c"
+      },
+      "artists": [
+        {
+          "name": "Plasmatique",
+          "url": "https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185962,
+      "name": "Infinity - Edit",
+      "url": "https://open.spotify.com/track/1dJHTsfW70khXX06idBw8Q"
     },
     {
       "album": {
@@ -2219,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Long Time",
+        "url": "https://open.spotify.com/album/4YbNxKeo16NRhviluszpco"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4sckpkCazhIIoZ883A5vF8"
+    },
+    {
+      "album": {
         "name": "Lord George",
         "url": "https://open.spotify.com/album/516Cx3Hp8V0bVKmlGVfjI8"
       },
@@ -2256,7 +2328,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 426307,
       "name": "Lost In Complexity - DJ Lion Remix",
       "url": "https://open.spotify.com/track/6b88cZdqkkfRozZY8Ws35F"
@@ -2304,7 +2376,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 392888,
       "name": "Lost In Complexity - Nusha Remix",
       "url": "https://open.spotify.com/track/627lNP3VLOIz68JigQiS9u"
@@ -2482,7 +2554,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 228923,
       "name": "Massive Bells",
       "url": "https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD"
@@ -2863,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "A.I.",
+        "url": "https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy"
+      },
+      "artists": [
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394285,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/1397ffAEnc6cv4jsESZlPj"
+    },
+    {
+      "album": {
         "name": "On Off / Fast Forward",
         "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
       },
@@ -2932,7 +3022,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 474240,
       "name": "One Paradise",
       "url": "https://open.spotify.com/track/1DvPVTjmYKddlTGqc41587"
@@ -3378,10 +3468,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 304002,
       "name": "SEX",
       "url": "https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs"
+    },
+    {
+      "album": {
+        "name": "Sheila",
+        "url": "https://open.spotify.com/album/40rDDuvTlFJUPcUKdxZQcp"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365901,
+      "name": "Sheila - Extended Version",
+      "url": "https://open.spotify.com/track/7yZCEalj06thVc4ayPFW5R"
     },
     {
       "album": {
@@ -3396,7 +3504,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 404693,
       "name": "Shell Shocked",
       "url": "https://open.spotify.com/track/7oIkGqmieM5MXH7ZUdQylx"
@@ -3752,6 +3860,50 @@
       "duration_ms": 216960,
       "name": "Space X - Edit",
       "url": "https://open.spotify.com/track/7y2fFvQyCuEqhGbLaAEAIN"
+    },
+    {
+      "album": {
+        "name": "Space X Remixes",
+        "url": "https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331872,
+      "name": "Space X - Moritz Hofbauer Remix",
+      "url": "https://open.spotify.com/track/2sSmDApYtBmwz8DHQTPbJg"
+    },
+    {
+      "album": {
+        "name": "Space X Remixes",
+        "url": "https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Piet K\u00e4mpfer",
+          "url": "https://open.spotify.com/artist/3V66VR6CiPl3zveio71Q9v"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Space X - Piet K\u00e4mpfer Remix",
+      "url": "https://open.spotify.com/track/3O5B3UgS7ahxNQQ2sGQ2L3"
     },
     {
       "album": {
@@ -4140,7 +4292,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 303180,
       "name": "Trapped in Our Own World - Tabou & Jan Zolo Remix",
       "url": "https://open.spotify.com/track/2gsC0k2Dz1tMtPmxf7cdGW"
@@ -4502,7 +4654,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180000,
       "name": "You",
       "url": "https://open.spotify.com/track/3wRLulchIZg3qKFOO43wT0"

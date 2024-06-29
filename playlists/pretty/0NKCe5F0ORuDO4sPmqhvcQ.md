@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,721 likes - 139 songs - 7 hr 48 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,720 likes - 141 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 137 | [Without](https://open.spotify.com/track/6cfxLLMqy1bvqY9kq7ov72) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Without](https://open.spotify.com/album/0g9penjadXkiEYfXgKrkyf) | 2:20 |
 | 138 | [Whisper](https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Whisper](https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9) | 3:56 |
 | 139 | [Nonchalant](https://open.spotify.com/track/4YFY125VTTBqds1wCsB1W7) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB) | [Nonchalant](https://open.spotify.com/album/0pHCvKwROHNhU1omeB5upG) | 2:54 |
+| 140 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
+| 141 | [Waited 4 U \- Disco Lines Remix](https://open.spotify.com/track/5NvHVlACuvo9gxiurxPbxf) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Waited 4 U \(Disco Lines Remix\)](https://open.spotify.com/album/1Wp3nivOj1034mx9oqBNo2) | 4:33 |
 
-Snapshot ID: `AAAp0DrTVPz56k1KegnluEab75G4OkeE`
+Snapshot ID: `AAAp0ilZDtUnNgsgcSTKpqo31EsJSBaa`

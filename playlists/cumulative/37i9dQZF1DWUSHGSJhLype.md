@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: DJ TOPO, Seu Jorge, Mc Leozin
 
-297 songs - 13 hr 56 min
+298 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Falta de Mim \- Ao Vivo](https://open.spotify.com/track/6CqDt0kMtPLvul13OS9afe) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Falta de Mim \(Ao Vivo\)](https://open.spotify.com/album/72Hasil7xvwX5JNGwkXHiR) | 2:34 | 2024-02-03 | 2024-06-14 |
 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 | 2023-07-17 | 2024-01-30 |
 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 | 2023-07-26 |  |
+| [Febre \- Ao Vivo](https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Sorte \(Ao Vivo / EP02\)](https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU) | 3:02 | 2024-06-28 |  |
 | [Ficadinha \- Ao Vivo](https://open.spotify.com/track/4r57eagiWWQKzW1oKhgkU9) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Virado No Pagode, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1Z8UsH2J1PkjIdH2Gll2oX) | 2:34 | 2024-01-19 | 2024-06-01 |
 | [Ficamento](https://open.spotify.com/track/7tGzVJFdCTrcaPg3fqPN3X) | [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [Ficamento](https://open.spotify.com/album/5iMoFmdZSbRgzQ1DBDLyDQ) | 2:33 | 2024-04-19 | 2024-05-10 |
 | [Flashback \- Ao Vivo](https://open.spotify.com/track/56yA914b2xAz5BDKA0Rhal) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Flashback \(Ao Vivo\)](https://open.spotify.com/album/4pHx4hFX91n2QKDbsuOxxc) | 2:50 | 2024-01-05 | 2024-01-27 |

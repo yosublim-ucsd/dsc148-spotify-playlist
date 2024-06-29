@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0nzHv5e8kBjl0S359J2bmr"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235273,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/2QQKyvymCY1f21Fa2hrmrk"
+    },
+    {
+      "album": {
         "name": "Learning Curve",
         "url": "https://open.spotify.com/album/587GrQ5Jqm6crL2Igjn0d3"
       },
@@ -4568,6 +4586,24 @@
       "duration_ms": 168235,
       "name": "The New Kid",
       "url": "https://open.spotify.com/track/1Ahda2CRcgMBAfKAp9Z7GO"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286694,
+      "name": "The Scientist - Spotify Singles",
+      "url": "https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK"
     },
     {
       "album": {

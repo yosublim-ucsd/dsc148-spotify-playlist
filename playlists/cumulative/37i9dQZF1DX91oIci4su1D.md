@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-924 songs - 2 day 7 hr 56 min
+925 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Desire](https://open.spotify.com/track/2CLF6goFaTYQBUlRC0JZgR) | [Husman](https://open.spotify.com/artist/38IfmizrHTCxFjd8UKhWnp) | [Desire](https://open.spotify.com/album/3G7abhHIohyWVlEktsOxKp) | 2:36 | 2021-12-17 | 2022-02-26 |
 | [Destination \(A State of Trance 2024 Anthem\)](https://open.spotify.com/track/5bMGUG2Z1uZBdcr0MDTljI) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m) | [Destination \(A State of Trance 2024 Anthem\)](https://open.spotify.com/album/2eFpTbkJqSzTPTbRqh5nb2) | 3:13 | 2023-09-22 |  |
 | [Devil's Deal](https://open.spotify.com/track/3iMR9x7qT6yNdiyF1i1ra0) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Devil's Deal](https://open.spotify.com/album/5wN6dndYvgfsxmyULteH66) | 3:34 | 2022-09-23 | 2023-12-09 |
+| [Devotion](https://open.spotify.com/track/4aGhXv70EfJNoADKPi75vG) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Alex Holmes](https://open.spotify.com/artist/3z8cJXANYZnhvGg80JKBSN) | [Devotion](https://open.spotify.com/album/1jJQeDialBmIF3cqA5Wl9L) | 3:28 | 2024-06-21 |  |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 | 2023-03-04 |
 | [Distance \- Coast 2 Coast Remix](https://open.spotify.com/track/2yefZipMIKzU7nZZw7Qq69) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Coast 2 Coast](https://open.spotify.com/artist/5o92GLs23EvUulPx2l5qu9) | [Distance \(Coast 2 Coast Remix\)](https://open.spotify.com/album/50M8dBUfTy9pOFNEjjZUxU) | 2:54 | 2024-02-16 |  |
 | [DNA](https://open.spotify.com/track/0npeCeJYQ85l17WlXBF3wG) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Audrey Brazelle](https://open.spotify.com/artist/1qPUWgkDwkqx0IKBYSnq7n) | [Duality](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf) | 6:37 | 2022-10-28 | 2023-06-10 |
@@ -536,7 +537,7 @@
 | [Moonlight Shadow](https://open.spotify.com/track/4dEDU82H7VFaflZnCYEUiY) | [SCHALA](https://open.spotify.com/artist/0jk7HHrwqq0Y3Djioelf3m) | [Moonlight Shadow](https://open.spotify.com/album/0cTvAnxPfKcxe6dwxWYdKe) | 3:38 | 2023-04-07 | 2023-07-22 |
 | [Moonshade](https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Moonshade](https://open.spotify.com/album/0AB7gk8gDvtXH5i43s4k6G) | 3:17 | 2022-03-04 | 2022-07-07 |
 | [Morning Light](https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Morning Light](https://open.spotify.com/album/4j7RLLIETE8YFIJWXgFhfG) | 2:50 | 2022-05-20 | 2023-05-20 |
-| [Muchie](https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Muchie](https://open.spotify.com/album/7hLXA66dogEQjDk8vh2HbH) | 3:21 | 2024-05-31 |  |
+| [Muchie](https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Muchie](https://open.spotify.com/album/7hLXA66dogEQjDk8vh2HbH) | 3:21 | 2024-05-31 | 2024-06-29 |
 | [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-06-17 | 2023-06-10 |
 | [My Enemy \- gardenstate Remix](https://open.spotify.com/track/73WnYDswTVHxJH4N9Th3vq) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Julie Thompson](https://open.spotify.com/artist/07rc8cAXzRZkFwA8ig6JGG), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Empire 10 \(Part 3\)](https://open.spotify.com/album/3Y7B7K9ZAjLwdlD7ZAcyTF) | 4:33 | 2021-12-17 | 2022-05-14 |
 | [My Favourite Mistake](https://open.spotify.com/track/1sPQ7UdfZSeyDWiLCNpzmP) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [My Favourite Mistake](https://open.spotify.com/album/3wx7Cl43qUKymyCUcHij79) | 3:23 | 2021-12-17 | 2022-03-12 |

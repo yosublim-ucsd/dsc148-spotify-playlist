@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 693978,
+  "num_followers": 693942,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-05-27 19:44:43",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Born To Be Wild",
-      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
-    },
-    {
-      "added_at": "2024-05-27 19:44:43",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2024-05-27 19:44:43",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Born To Be Wild",
+      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
     },
     {
       "added_at": "2024-05-27 19:44:43",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-05-27 19:44:43",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2024-05-27 19:44:43",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-05-27 19:44:43",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
       "artists": [
         {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
         }
       ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2024-05-27 19:44:43",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-05-27 19:44:43",
       "album": {
-        "name": "YOUNG&DANGEROUS",
-        "url": "https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 178115,
-      "name": "Body Talks",
-      "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
-    },
-    {
-      "added_at": "2024-05-27 19:44:43",
-      "album": {
         "name": "Tyrannosaurus Hives",
         "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211813,
       "name": "Walk Idiot Walk",
       "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
+    },
+    {
+      "added_at": "2024-05-27 19:44:43",
+      "album": {
+        "name": "YOUNG&DANGEROUS",
+        "url": "https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 178115,
+      "name": "Body Talks",
+      "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
     },
     {
       "added_at": "2024-05-27 19:44:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-27 19:44:43",
       "album": {
-        "name": "ROCKISDEAD",
-        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 204225,
-      "name": "Missile",
-      "url": "https://open.spotify.com/track/4gUteMcpbt8S7PMc5Wy6uS"
-    },
-    {
-      "added_at": "2024-05-27 19:44:43",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+    },
+    {
+      "added_at": "2024-05-27 19:44:43",
+      "album": {
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 204225,
+      "name": "Missile",
+      "url": "https://open.spotify.com/track/4gUteMcpbt8S7PMc5Wy6uS"
     },
     {
       "added_at": "2024-05-27 19:44:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-27 19:44:43",
       "album": {
-        "name": "The Last In Line",
-        "url": "https://open.spotify.com/album/2Oc6mL1VEuNPUEkbVeN1P0"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "We Rock",
-      "url": "https://open.spotify.com/track/6qxi41lmbH35MT29bqlL4k"
-    },
-    {
-      "added_at": "2024-05-27 19:44:43",
-      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 185133,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "added_at": "2024-05-27 19:44:43",
+      "album": {
+        "name": "The Last In Line",
+        "url": "https://open.spotify.com/album/2Oc6mL1VEuNPUEkbVeN1P0"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "We Rock",
+      "url": "https://open.spotify.com/track/6qxi41lmbH35MT29bqlL4k"
     },
     {
       "added_at": "2024-05-27 19:44:43",

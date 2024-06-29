@@ -1,6 +1,6 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 153949,
+  "num_followers": 154013,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "CUMBIA 85",
-        "url": "https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA"
-        }
-      ],
-      "duration_ms": 221330,
-      "name": "CUMBIA 85",
-      "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "16 Toneladas (Radio Edit)",
         "url": "https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc"
       },
@@ -1447,42 +1431,6 @@
       "duration_ms": 270805,
       "name": "16 Toneladas - Radio Edit",
       "url": "https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "La Cumbia De La Baliniza",
-        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
-      },
-      "artists": [
-        {
-          "name": "Los C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 167235,
-      "name": "La Cumbia De La Baliniza",
-      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1503,6 +1451,58 @@
       "duration_ms": 186183,
       "name": "Que Nadie Se Entere - Remix",
       "url": "https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "CUMBIA 85",
+        "url": "https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA"
+        }
+      ],
+      "duration_ms": 221330,
+      "name": "CUMBIA 85",
+      "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "La Cumbia De La Baliniza",
+        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
+      },
+      "artists": [
+        {
+          "name": "Los C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 167235,
+      "name": "La Cumbia De La Baliniza",
+      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Versiones Unicas de los Reyes",
-        "url": "https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 279050,
-      "name": "Contigo Tengo Todo",
-      "url": "https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Formas De Amor",
         "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 284653,
       "name": "Ultimo Tren A Londres",
       "url": "https://open.spotify.com/track/1YDxxeMSdxXXiiiobyhYur"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Versiones Unicas de los Reyes",
+        "url": "https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 279050,
+      "name": "Contigo Tengo Todo",
+      "url": "https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "El Aferrafter",
-        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "El Aferrafter",
-      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 172806,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "El Aferrafter",
+        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 205647,
+      "name": "El Aferrafter",
+      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
     }
   ],
   "unique_name": "50 Cumbiones Bien Locos",

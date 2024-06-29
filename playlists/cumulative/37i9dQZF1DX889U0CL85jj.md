@@ -2,9 +2,9 @@
 
 ### [Chill Vibes](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
 
-> Relax to certified good chill indie and beyond.
+> Always good, always chill indie for hanging out and relaxing.
 
-622 songs - 1 day 12 hr 1 min
+625 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [All Your Secrets](https://open.spotify.com/track/1I3ZhmDNtw5fN8xoaEevxK) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [All Your Secrets](https://open.spotify.com/album/2BPcQu4odVhPU6KXdE9e40) | 3:12 | 2023-08-11 | 2024-01-13 |
 | [Alone in My Room](https://open.spotify.com/track/1nPXBgflWZSAomAon6i7qw) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 4:41 | 2023-10-13 |  |
 | [Alphamale](https://open.spotify.com/track/4YjSFVKbjEXHEgFiE4aFP4) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [Alphamale](https://open.spotify.com/album/6xAxbY22ClrcbdF4H6fMhJ) | 4:57 | 2022-01-21 | 2023-04-09 |
+| [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-06-28 |  |
 | [Always Afternoon](https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Always Afternoon](https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi) | 3:03 | 2020-03-06 | 2022-10-08 |
 | [And Then We'll Be Alright](https://open.spotify.com/track/1XGOY3toSwXDYcWGvb87eX) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [And Then We'll Be Alright](https://open.spotify.com/album/1T7NP3J8eEpKB5KgFIbcpC) | 1:59 | 2022-04-29 | 2022-10-22 |
 | [And Then We'll Be Alright](https://open.spotify.com/track/23t623iR0k4jdl9mRuZUm6) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [And Then We'll Be Alright](https://open.spotify.com/album/6oawTFBc0vdWiMbdn2qZAR) | 1:59 | 2020-04-24 | 2022-01-22 |
@@ -109,6 +110,7 @@
 | [Childhood](https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Fall With The Lights Down \(Louise\)](https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN) | 4:10 | 2022-10-08 | 2022-11-12 |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-06-10 | 2023-07-22 |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-21 | 2022-07-29 |
+| [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-28 |  |
 | [city](https://open.spotify.com/track/7ezWFPZxTDiQMl7NlAXdkR) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [city](https://open.spotify.com/album/7B56wFrXjSdNgudqe46eKz) | 2:21 | 2020-07-31 | 2022-01-22 |
 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-02-05 | 2022-11-02 |
 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 | 2022-08-19 | 2022-11-12 |
@@ -190,7 +192,7 @@
 | [Flight](https://open.spotify.com/track/5UhsZ4o4QLoS5gai0ryUHp) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Flight](https://open.spotify.com/album/2p6Um10jegwsmTxQgi6ahw) | 2:21 | 2020-04-24 | 2022-07-29 |
 | [Flight](https://open.spotify.com/track/67pRBaiwhGyMpXXfPVzER3) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Flight](https://open.spotify.com/album/2KWqrfdhakTcqwy2nZ2o94) | 2:21 | 2022-06-10 | 2022-09-03 |
 | [Float](https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn) | 4:00 | 2023-04-28 | 2024-04-19 |
-| [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-03-15 |  |
+| [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-03-15 | 2024-06-29 |
 | [Floating](https://open.spotify.com/track/4pL6ttMaK39bVEvGhDTOmE) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Floating](https://open.spotify.com/album/4yri1y8XKblskxc5Gt92Aw) | 3:31 | 2023-08-11 |  |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-10-14 |
@@ -451,7 +453,7 @@
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-05 |  |
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2023-10-13 |  |
 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 |  |
-| [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
+| [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 | 2024-06-29 |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 | 2024-02-24 |
 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2023-09-29 | 2024-04-19 |
 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-07-12 | 2024-05-23 |
@@ -459,7 +461,7 @@
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 | 2024-03-20 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-29 | 2023-08-12 |
-| [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-25 |  |
+| [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-25 | 2024-06-29 |
 | [senses](https://open.spotify.com/track/5R9TWqXOVzHfRjpZQd8Dc0) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [komorebi](https://open.spotify.com/album/6JZtYt3v32a9sTRxPlMZEn) | 3:23 | 2019-10-04 | 2022-01-22 |
 | [Sentimental](https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z), [Xandra](https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x) | [Sentimental](https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M) | 3:46 | 2020-05-22 | 2022-06-18 |
 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-19 | 2023-08-19 |
@@ -556,6 +558,7 @@
 | [The Modern Western World](https://open.spotify.com/track/30bLh2OQSfIvDpdu8ckzRg) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM) | 2:21 | 2022-12-22 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Most Beautiful Thing](https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9) | 3:55 | 2020-05-01 | 2022-01-22 |
 | [The Shaman](https://open.spotify.com/track/7FzTEzwDcjfxCFlNGkkrAU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Shaman](https://open.spotify.com/album/3kp75Hdfwnpnw78eEIXbir) | 2:36 | 2021-11-19 | 2023-03-18 |
+| [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-06-28 |  |
 | [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 | 2023-04-28 |  |
 | [There's No Other](https://open.spotify.com/track/4715EDyKjQ9UhAV0vLlo0U) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [There's No Other](https://open.spotify.com/album/064lwS8gemYnNBWv5W9qib) | 3:02 | 2020-04-24 | 2022-01-22 |
 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 | 2023-07-21 | 2024-03-20 |

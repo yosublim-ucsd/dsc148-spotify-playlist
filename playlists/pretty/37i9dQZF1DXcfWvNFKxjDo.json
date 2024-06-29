@@ -1,6 +1,6 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Gryffin",
-  "num_followers": 315290,
+  "num_followers": 315375,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
@@ -207,17 +207,21 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "La Verdolaga",
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
       },
       "artists": [
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
       "duration_ms": 150987,
-      "name": "La Verdolaga",
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {

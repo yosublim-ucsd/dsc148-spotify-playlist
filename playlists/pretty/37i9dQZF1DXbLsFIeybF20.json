@@ -1,13 +1,29 @@
 {
   "description": "Get into the spirit of New Orleans. Cover: Wynton Marsalis",
-  "num_followers": 139262,
+  "num_followers": 139255,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZNpRewAAAABFy7Duqq/FTUlZfkgFJ8jU",
+  "snapshot_id": "Zn41QAAAAADUhAnPT0MCzEnEG0I5lN/V",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Music from Tiana's Bayou Adventure",
+        "url": "https://open.spotify.com/album/27YuCtLK26MywD6GT2GLEG"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 236350,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/5e6j1TOGypJjsN3K0I8Q8u"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
@@ -735,22 +751,6 @@
       "duration_ms": 288653,
       "name": "Eh, La Bas",
       "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
-    },
-    {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "Our New Orleans",
-        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/65sPImCpuvhK21doidXxS0"
     },
     {
       "added_at": "2021-10-08 04:02:00",

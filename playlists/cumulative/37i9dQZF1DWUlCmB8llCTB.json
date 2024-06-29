@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Wisin y De La Ghetto.",
+  "description": "Perreando toda la noche con Ozuna, Anuel AA, Mambo Kingz, DJ Luian.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180360,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
@@ -4371,6 +4371,28 @@
     },
     {
       "album": {
+        "name": "PARA TODAS LAS MAMACITAS",
+        "url": "https://open.spotify.com/album/3vybLae46btPWds1OXSHTK"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194577,
+      "name": "DEJO AL JEVO",
+      "url": "https://open.spotify.com/track/2PwEVpInyO6MMxKK6wny5i"
+    },
+    {
+      "album": {
         "name": "Delaito",
         "url": "https://open.spotify.com/album/2GfT0u7eMZ0JK6rfHc2tmP"
       },
@@ -4678,7 +4700,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -7004,7 +7026,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 141563,
       "name": "Guaya Guaya...",
       "url": "https://open.spotify.com/track/5SIBKku7Xuw5hGu5VKHVw0"
@@ -8168,7 +8190,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -9816,7 +9838,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
@@ -12905,6 +12927,32 @@
     },
     {
       "album": {
+        "name": "PELEAMOS",
+        "url": "https://open.spotify.com/album/5ctQyFcrrMN7cPaRMB78MI"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Vainy",
+          "url": "https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "PELEAMOS",
+      "url": "https://open.spotify.com/track/0oYGloL7eVBTt1at9I8tcM"
+    },
+    {
+      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -12986,6 +13034,24 @@
       "duration_ms": 144400,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R"
+    },
+    {
+      "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/47GGw63ynikX8t2emaG8Do"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212240,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/2XOmIHSBEqe3UxQmSJFQdb"
     },
     {
       "album": {
@@ -13404,6 +13470,28 @@
       "duration_ms": 188093,
       "name": "Perro Negro (with Totoy El Frio)",
       "url": "https://open.spotify.com/track/3ePJUfW0ckP5XW2tc4yNgt"
+    },
+    {
+      "album": {
+        "name": "PERROS&GATA$",
+        "url": "https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/3mTZeBUkzqhE0Qk82ET3Yg"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "PERROS&GATA$",
+      "url": "https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM"
     },
     {
       "album": {
@@ -13962,7 +14050,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 170400,
       "name": "Prend\u00eda",
       "url": "https://open.spotify.com/track/2dOIo2IwiauY5cAvRZzBln"
@@ -14132,6 +14220,24 @@
       "duration_ms": 168000,
       "name": "Psic\u00f3pata",
       "url": "https://open.spotify.com/track/2SYXcZlBdWQNsFsgO0Ff24"
+    },
+    {
+      "album": {
+        "name": "PARA TODAS LAS MAMACITAS",
+        "url": "https://open.spotify.com/album/3vybLae46btPWds1OXSHTK"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138167,
+      "name": "PTLM",
+      "url": "https://open.spotify.com/track/1QmoQc8Zzu4hzcIBPA1Li6"
     },
     {
       "album": {
@@ -14374,6 +14480,32 @@
       "duration_ms": 204444,
       "name": "Que Duro",
       "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
+    },
+    {
+      "album": {
+        "name": "Que Haces Hoy",
+        "url": "https://open.spotify.com/album/0jXXotXx03jgzB7PYEsLNl"
+      },
+      "artists": [
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171061,
+      "name": "Que Haces Hoy",
+      "url": "https://open.spotify.com/track/3KBXMH1QJPgB5ulcct75Ft"
     },
     {
       "album": {
@@ -14829,6 +14961,28 @@
     },
     {
       "album": {
+        "name": "R.A.M",
+        "url": "https://open.spotify.com/album/4447UuRd2hMZa9RGX7Ua5Y"
+      },
+      "artists": [
+        {
+          "name": "Rodrii Ortiz",
+          "url": "https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188126,
+      "name": "R.A.M",
+      "url": "https://open.spotify.com/track/3gGEqo7JghOxoFxsidkKti"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
@@ -14848,6 +15002,36 @@
       "duration_ms": 146000,
       "name": "Rapido (with Cris Mj)",
       "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
+    },
+    {
+      "album": {
+        "name": "Razones",
+        "url": "https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222727,
+      "name": "Razones",
+      "url": "https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ"
     },
     {
       "album": {
@@ -15766,7 +15950,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 196000,
       "name": "SI A BUENO",
       "url": "https://open.spotify.com/track/3jXlnjcqh0oVlEimqYIZ7P"
@@ -18114,7 +18298,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166736,
       "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb"

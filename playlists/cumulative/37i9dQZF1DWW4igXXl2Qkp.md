@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:5qhDQveADDnjIZQ85AtgDM">STAR BANDZ</a>
 
-1,285 songs - 2 day 7 hr 44 min
+1,286 songs - 2 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Highest](https://open.spotify.com/track/0hwkEHXae3nPvpmSh2miic) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Out of Heart](https://open.spotify.com/album/4Qq7OS4FiIXkwyFaFUiJxW) | 3:06 | 2022-09-07 | 2022-12-01 |
 | [Highest](https://open.spotify.com/track/7u67mIFOxmyRXC0AoA8qSz) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Highest](https://open.spotify.com/album/4mmkr3avUy6hzxtA69l6aN) | 3:06 | 2022-09-07 | 2022-11-13 |
 | [Highs & Lows](https://open.spotify.com/track/6JojBzIBCp1PIaSQYWPVg3) | [Jesse Boone](https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO) | [Highs & Lows](https://open.spotify.com/album/3uzQuAgBSmkx2Ub5G6BbZy) | 2:54 | 2022-03-16 | 2022-04-14 |
+| [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/track/0Wrv39ILUw7X6cNB6xFupo) | [DEADonMARRS](https://open.spotify.com/artist/7KqeHFHeQRFLil6s7U63dc), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/album/26JetE1EMkSBOXffLyDejQ) | 3:03 | 2024-06-28 |  |
 | [Him](https://open.spotify.com/track/1s6PsH37YYMli0jsKSrUm8) | [Playboy Fresh](https://open.spotify.com/artist/38ehnnDky8g3OFQjo7YLjA) | [Him](https://open.spotify.com/album/7cJ13WTsRq7DfO1Jew2e5C) | 3:11 | 2023-08-24 | 2023-09-14 |
 | [Hit My Cup](https://open.spotify.com/track/5M2Y4A2VH3cqO60dUbt2TW) | [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [Hit My Cup](https://open.spotify.com/album/2hsNGSCaN95O4IOtQBc0vC) | 2:09 | 2022-01-26 | 2022-02-04 |
 | [Hit My Line](https://open.spotify.com/track/33jUEyYnZyyCImlOXdgaZ9) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Hit My Line](https://open.spotify.com/album/2oYmC8LoQ9A0ajDxs0ziED) | 2:25 | 2024-06-05 |  |
@@ -636,7 +637,7 @@
 | [Lemon Pepper](https://open.spotify.com/track/6Pl5udKp5kVc5zZn1q5hLO) | [Rxalu Loaded](https://open.spotify.com/artist/5W8VGhJmmDLnWIebrZ1Z8f), [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Lemon Pepper](https://open.spotify.com/album/7ie2lDrf9c54apB7CELMbn) | 2:26 | 2022-01-13 | 2022-02-10 |
 | [Lemonade](https://open.spotify.com/track/4U9MBUbR974xO8Szjy3gpU) | [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [People Like Me](https://open.spotify.com/album/6onezD4ZwpF6DDRJkZsTz5) | 3:12 | 2024-06-19 |  |
 | [Lesson Learned](https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 2:31 | 2022-05-25 | 2023-01-12 |
-| [Let It Out](https://open.spotify.com/track/0VQ2aPSIMB6t8qS84JYUBE) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:48 | 2024-03-27 |  |
+| [Let It Out](https://open.spotify.com/track/0VQ2aPSIMB6t8qS84JYUBE) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:48 | 2024-03-27 | 2024-06-29 |
 | [Let It Spill](https://open.spotify.com/track/24HA9VkORFLt98zdbG6Lvu) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [Let It Spill](https://open.spotify.com/album/7FhDdG4tAMqSgbHhOMKFJI) | 2:46 | 2024-02-21 | 2024-02-29 |
 | [Let's Go](https://open.spotify.com/track/7y1kQ8gmRikqLM5Zaos8vC) | [Casper Bluff](https://open.spotify.com/artist/1MT4LJ5B0wdgv6z932znLB), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Let's Go](https://open.spotify.com/album/6leGkaXuaSLggHgk5UTIrN) | 3:11 | 2022-07-06 | 2022-08-25 |
 | [Let's Lose Our Minds](https://open.spotify.com/track/1IlsLwNnkCL8QnkNexDZ4O) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Let's Lose Our Minds](https://open.spotify.com/album/6BODuVfqopl3cNRSNdb6Ld) | 3:15 | 2021-12-01 | 2022-01-14 |

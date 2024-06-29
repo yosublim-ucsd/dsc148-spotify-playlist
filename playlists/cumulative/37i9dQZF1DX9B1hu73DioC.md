@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for park hangs, summer get togethers, or self care.
 
-797 songs - 1 day 23 hr 30 min
+799 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Don't Be Afraid](https://open.spotify.com/track/4VqpY8MfmBoZ4x7cvHvHQM) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Tychonaut](https://open.spotify.com/album/5lNZWn92AKrC1U8TEI8GZ7) | 3:33 | 2021-06-04 | 2022-07-29 |
 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 | 2021-06-04 | 2022-04-09 |
 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-03-15 |  |
+| [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 | 2024-06-28 |  |
 | [Drag](https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Headcase](https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT) | 3:09 | 2023-07-07 | 2024-04-19 |
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-10-05\* | 2023-06-15 |
 | [Dream police](https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:49 | 2024-04-11 | 2024-05-07 |
@@ -412,7 +413,7 @@
 | [Kyoto \(The Marías Remix\)](https://open.spotify.com/track/4N4y5krXgvSSGBktqHCdpx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Kyoto \(The Marías Remix\)](https://open.spotify.com/album/0xMkev5tjeicR9DwfCkBhf) | 3:38 | 2021-08-27 | 2022-07-23 |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-06-10 | 2022-09-16 |
 | [Last Time](https://open.spotify.com/track/6voWMJuzUNtqMMxK9QfcNb) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [Last Time](https://open.spotify.com/album/4FsFRQE3zfNogpB5ll5kRE) | 3:41 | 2021-05-03 | 2021-10-14 |
-| [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 |  |
+| [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 | 2024-06-29 |
 | [Laurelhurst](https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Protect Our Winters](https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4) | 3:09 | 2021-04-02 | 2022-07-27 |
 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 | 2023-12-12 |  |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-06-04 | 2022-06-25 |
@@ -420,6 +421,7 @@
 | [Leaves](https://open.spotify.com/track/6D0RsrrwQ2YSYA9lv4lgz5) | [Fanclub](https://open.spotify.com/artist/2XxKRqSS7wels4dpUb5N1h) | [Leaves](https://open.spotify.com/album/1jLqWEcRGmfym6FjbmHlYe) | 3:15 | 2021-03-18 | 2021-05-28 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 |  |
 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 | 2024-04-05 |  |
+| [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-28 |  |
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2022-10-07 | 2022-11-12 |
 | [Lemon Glow](https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:04 | 2021-03-16 | 2022-04-21 |
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-06-25 | 2023-09-16 |
@@ -714,7 +716,7 @@
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2020-10-16 | 2022-11-09 |
 | [There Must Be a Song Like You](https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [There Must Be a Song Like You](https://open.spotify.com/album/2ewZt2tyRkCtIU3vczO5ST) | 4:50 | 2021-11-19 | 2022-07-27 |
 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 | 2023-06-30 |  |
-| [This Dream](https://open.spotify.com/track/7iQLRgSmPz9q7DpamvFKwc) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [This Dream](https://open.spotify.com/album/5Eyf6s980EoZBTY7Hld3g4) | 2:33 | 2023-09-29 |  |
+| [This Dream](https://open.spotify.com/track/7iQLRgSmPz9q7DpamvFKwc) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [This Dream](https://open.spotify.com/album/5Eyf6s980EoZBTY7Hld3g4) | 2:33 | 2023-09-29 | 2024-06-29 |
 | [This Universe](https://open.spotify.com/track/2BCBJzP7PQ3QlI1lrPdOVX) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Interlude](https://open.spotify.com/album/0VF7coFlhDZnrmu7TYbDhO) | 3:08 | 2021-03-15 | 2022-04-19 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2023-09-15 | 2024-04-06 |
 | [Ti\-de](https://open.spotify.com/track/679DH2dDS6VPrVzJKS6obT) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 6:12 | 2020-12-31 | 2022-04-21 |

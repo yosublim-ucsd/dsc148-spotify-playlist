@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,594 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,649 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aaj Sajeya](https://open.spotify.com/track/119XDcdbad5u5bp841vUGV) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya](https://open.spotify.com/album/1K1qbVYRTvD4aEYeL2187k) | 3:49 |
-| 2 | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2) | 4:13 |
+| 2 | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2) | 4:13 |
 | 3 | [Kudmayi \(Film Version\) \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/7tW0iElc6Po0MrXz2NjQxe) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani](https://open.spotify.com/album/7dDx3G6SRr5gZJBYCvLHDy) | 4:25 |
 | 4 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 |
 | 5 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 |

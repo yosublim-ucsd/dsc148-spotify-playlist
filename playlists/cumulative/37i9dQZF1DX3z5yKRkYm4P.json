@@ -427,24 +427,6 @@
     },
     {
       "album": {
-        "name": "Aquellos Maravillosos 90",
-        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
-      },
-      "artists": [
-        {
-          "name": "Doctor Explosion",
-          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
-        }
-      ],
-      "date_added": "2022-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142333,
-      "name": "Dra\u0301cula \u201dYe-ye\u201d",
-      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
-    },
-    {
-      "album": {
         "name": "Coulrofobia",
         "url": "https://open.spotify.com/album/2Fx8X0aOD9SFSFBHecaJTk"
       },
@@ -460,6 +442,24 @@
       "duration_ms": 124706,
       "name": "Drive Thru",
       "url": "https://open.spotify.com/track/3KO6DOORANi6hRIZxVvHzy"
+    },
+    {
+      "album": {
+        "name": "Aquellos Maravillosos 90",
+        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "Dr\u00e1cula \u201dYe-ye\u201d",
+      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
     },
     {
       "album": {

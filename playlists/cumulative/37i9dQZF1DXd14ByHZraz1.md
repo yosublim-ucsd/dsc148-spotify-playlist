@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Flux Zone
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Jess Glyne
 
-193 songs - 9 hr 59 min
+194 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Kanyes](https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Kanyes](https://open.spotify.com/album/6ePpI5BPsyDdFR3XpjESP2) | 3:52 | 2023-10-06 | 2023-10-24 |
 | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/track/6L7N045eN7RyCMPsxmBcLH) | [Ian Carey](https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Michelle Shellers](https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u) | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/album/6Mdtnc3pmXz5KjdWOiyivx) | 3:03 | 2023-10-13 |  |
 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 | 2022-12-16 | 2023-07-01 |
-| [KRVSH!](https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [KRVSH!](https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt) | 1:43 | 2024-04-26 |  |
+| [KRVSH!](https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [KRVSH!](https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt) | 1:43 | 2024-04-26 | 2024-06-29 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-03-08 |  |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 | 2022-12-17 |
 | [Looking At You](https://open.spotify.com/track/6f9NvJNgaJY5nBN1qkBt70) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You](https://open.spotify.com/album/3SS9gjPL8kG4WMg6T20FUk) | 2:35 | 2023-05-19 | 2024-04-19 |
@@ -175,6 +175,7 @@
 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 | 2024-06-14 |  |
 | [Stay](https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Stay](https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc) | 3:11 | 2021-12-24 | 2022-12-03 |
 | [Summer In New York \- Öwnboss & Fancy Inc Remix](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Summer In New York \(Öwnboss & Fancy Inc Remix\)](https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav) | 2:38 | 2022-07-08 | 2022-11-26 |
+| [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-06-28 |  |
 | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/track/66j6JvXOiT608Ivh98URW8) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/album/1NAp32E06cqBEDevOLJCYm) | 4:05 | 2022-04-08 | 2023-05-13 |
 | [Take Over](https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH) | [Take Over](https://open.spotify.com/album/6Xd8V1pQiniYTlwldeYTr2) | 2:57 | 2021-12-24 | 2023-11-11 |
 | [Teletransporte](https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Lau de Prá](https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt) | [Teletransporte](https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS) | 2:45 | 2022-11-25 | 2024-02-17 |

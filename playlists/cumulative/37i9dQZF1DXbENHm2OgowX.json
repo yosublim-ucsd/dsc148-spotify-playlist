@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 363284,
       "name": "All That's Left Behind",
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 315284,
       "name": "As I Came Through the Desert Thus It Was",
       "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
@@ -814,13 +814,17 @@
         {
           "name": "Sedogy Bedam",
           "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        },
+        {
+          "name": "weareflorence",
+          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
         }
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153984,
-      "name": "haunted (florence slowed version)",
+      "name": "haunted - + slowed version",
       "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
     },
     {

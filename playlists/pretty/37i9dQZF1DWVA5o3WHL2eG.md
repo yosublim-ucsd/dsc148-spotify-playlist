@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Ebow
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,358 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,371 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 |
 | 10 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
 | 11 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 |
-| 12 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
-| 13 | [Immer Da](https://open.spotify.com/track/4UYaUWDq0JOfej3fZQdN8M) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Immer Da](https://open.spotify.com/album/05EoHoMlVjpVQ2YaDU5Nkr) | 2:34 |
+| 12 | [Immer Da](https://open.spotify.com/track/4UYaUWDq0JOfej3fZQdN8M) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Immer Da](https://open.spotify.com/album/05EoHoMlVjpVQ2YaDU5Nkr) | 2:34 |
+| 13 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
 | 14 | [frühling](https://open.spotify.com/track/6ILdiLYlRv09o9ChZB8FT6) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 1:59 |
 | 15 | [star potential](https://open.spotify.com/track/3KnYo5EXzptzGa43S5hsZf) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [star potential](https://open.spotify.com/album/6ousmXEO86E9hCkdK2rXUW) | 2:21 |
 | 16 | [Etage 4](https://open.spotify.com/track/1z60FNfTtizk2N7VGtS1c2) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Etage 4](https://open.spotify.com/album/0GmIU40mxwK8tE4BJ3bhAw) | 2:46 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Bigger Picture](https://open.spotify.com/track/4qXG6u2HbqRpEtA9apQLDi) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Bigger Picture](https://open.spotify.com/album/12QYAmIZvrAPB9Njyem32A) | 2:48 |
 | 37 | [Hoe Season](https://open.spotify.com/track/46CPUc8PiEBlSQ4RAOWLeS) | [LilliPop](https://open.spotify.com/artist/7EufW3ixxDt2WINimC99kG) | [Hoe Season](https://open.spotify.com/album/4PdEONlvwD2vchpShzyDzo) | 2:11 |
 | 38 | [Tiara](https://open.spotify.com/track/7qeMK22RkkwOrxyFQyk0Py) | [NNOA](https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft) | [Tiara](https://open.spotify.com/album/2Moz1gzky9yifaLc3zGAeP) | 2:55 |
-| 39 | [Hier und Jetzt](https://open.spotify.com/track/75Al35K7EKx8IOpPMk24Yx) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Hier und Jetzt](https://open.spotify.com/album/0c4ZPYOw8z6nxlsfxixxhB) | 3:20 |
+| 39 | [PLANET](https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [STEREO NOIR](https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N) | 3:31 |
 | 40 | [Friends](https://open.spotify.com/track/1JzUIZNVLSqo8LiHtl9yCC) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [Friends](https://open.spotify.com/album/1RIJr50PbFAXFiEZui7FoW) | 2:57 |
-| 41 | [PLANET](https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [STEREO NOIR](https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N) | 3:31 |
+| 41 | [Hier und Jetzt](https://open.spotify.com/track/75Al35K7EKx8IOpPMk24Yx) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Hier und Jetzt](https://open.spotify.com/album/0c4ZPYOw8z6nxlsfxixxhB) | 3:20 |
 | 42 | [heavy blankets](https://open.spotify.com/track/2A1OYhBVUgoxGIrkOMFGD7) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [heavy blankets](https://open.spotify.com/album/73UjwUWkXodhq4hJY4B7kp) | 2:17 |
 | 43 | [Modern Home](https://open.spotify.com/track/4zdVikmVCaRSa6bFVfjHVe) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Modern Home](https://open.spotify.com/album/0gyaS2yVdXf3FZwyEjPSNU) | 3:41 |
 | 44 | [Ghosting You](https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Ghosting You](https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo) | 3:48 |

@@ -2,9 +2,9 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Taylor Swift
+> Lovely, acoustic pop\. Cover: Liana Flores
 
-257 songs - 14 hr 9 min
+258 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bite Me \- Acoustic](https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me \(Acoustic\)](https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC) | 3:09 | 2022-01-28 | 2023-03-11 |
 | [bitter bitches](https://open.spotify.com/track/6Pv3ySXkwWN5C8yUUy2L9e) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [bitter bitches](https://open.spotify.com/album/3ROZH4gXF4nurpSAmJsU5b) | 1:29 | 2023-09-22 | 2023-10-14 |
 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2022-01-28 | 2023-06-17 |
-| [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2023-09-01 |  |
+| [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2023-09-01 | 2024-06-29 |
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-03-30 |
 | [Body Better \- Acoustic](https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better \(Acoustic\)](https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9) | 3:15 | 2023-02-24 | 2023-06-10 |
 | [Brave \- Acoustic](https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave \(Acoustic\)](https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK) | 3:48 | 2022-01-28 | 2023-12-21 |
@@ -47,6 +47,7 @@
 | [Bruises \- Guitar Acoustic](https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:46 | 2022-01-28 | 2023-04-15 |
 | [buried alive](https://open.spotify.com/track/2yHcSn169Hjj5UjjLubk8U) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [buried alive](https://open.spotify.com/album/1oqWOoKKK6HopShglymize) | 3:27 | 2024-04-26 |  |
 | [Burning Bridges \- up close, acoustic](https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Burning Bridges \(up close, acoustic\)](https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F) | 2:48 | 2022-01-28 | 2023-02-25 |
+| [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 |  |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2023-06-16 |  |
 | [Chasing Shadows \- Acoustic](https://open.spotify.com/track/2B9E8ofcNTXRhMtzNgKr4h) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows \(Acoustic\)](https://open.spotify.com/album/7blH1R6aCVgNqRUi8lVp3f) | 2:42 | 2023-04-14 | 2023-12-16 |
 | [Chasing Stars \(feat\. James Bay\) \[Stripped\]](https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(Stripped\)](https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz) | 2:44 | 2022-01-28 | 2024-04-06 |

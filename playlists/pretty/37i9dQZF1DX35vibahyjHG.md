@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=pN3FfthQQQe0aazlMVuuFQ"> Zoë Modiga </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,559 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,606 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

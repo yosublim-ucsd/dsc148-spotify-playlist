@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-431 songs - 1 day 0 hr 24 min
+432 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 | 2020-12-18 |  |
 | [Change of Heart](https://open.spotify.com/track/7fXupzi3jFgKVED9BUCmUc) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Louise Harris](https://open.spotify.com/artist/4QVYXgffO3RSW3aIVPHqJj) | [Change of Heart](https://open.spotify.com/album/0fHNf3Ms5KaVq2dqDLoaPG) | 2:35 | 2021-12-04 | 2023-04-29 |
 | [Changes](https://open.spotify.com/track/4GYO06wf3VU43VzgRevxU2) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [Changes](https://open.spotify.com/album/4tx98D2IVwR6lqnDcBPrzi) | 2:38 | 2023-08-04 |  |
-| [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2024-03-01 |  |
+| [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2024-03-01 | 2024-06-29 |
 | [Chemicals](https://open.spotify.com/track/1nWydPjxaHwae1T4DMhOMf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Chemicals](https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV) | 2:36 | 2023-02-03 | 2024-02-24 |
 | [Cinematic](https://open.spotify.com/track/47ywdBjVysnPv8ag3P5Ojt) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Cinematic](https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS) | 4:48 | 2021-12-17 | 2022-01-08 |
 | [Cir•cles](https://open.spotify.com/track/6jxyuE21MK18ua5nFQcJKH) | [Couros](https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM) | [Jupiter](https://open.spotify.com/album/7sIa0oG6B3TFs8M1c9SxG5) | 4:05 | 2021-11-11 | 2021-11-27 |
@@ -252,6 +252,7 @@
 | [Morning Dew](https://open.spotify.com/track/6lPhnamoOdxOg7jQ3gSWOa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Morning Dew](https://open.spotify.com/album/5yeBTEsHI8aCGwYXgRhcWC) | 3:33 | 2022-07-22 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2022-01-15 |
 | [Mother](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu) | [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5) | [Mother](https://open.spotify.com/album/1Fw1yHZlDSiF5EitTIAJ2h) | 2:38 | 2024-05-03 |  |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-28 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-01-12 |  |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-09-13\* | 2022-09-03 |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2021-04-30 | 2021-11-11 |

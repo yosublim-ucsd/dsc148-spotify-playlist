@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "SUMMER FESTA",
+        "url": "https://open.spotify.com/album/2cyomPgx2iBZXnBKO8Fmxi"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "SUMMER FESTA",
+      "url": "https://open.spotify.com/track/4QYmuMAQ1iBzspZKCaMZuB"
+    },
+    {
+      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },

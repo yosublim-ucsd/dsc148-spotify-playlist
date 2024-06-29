@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Pop to fuel your gaming. Cover: BoywithUke",
+  "description": "Pop to fuel your gaming. Cover: mxmtoon",
   "name": "Ultimate Pop Gaming",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 149333,
       "name": "2WORLDS",
       "url": "https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 130612,
       "name": "Don't Like Anybody",
       "url": "https://open.spotify.com/track/4DCYG3wov1XGZx2mIVVmnj"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 257368,
       "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
       "url": "https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ"
@@ -3916,6 +3916,24 @@
       "duration_ms": 224615,
       "name": "Luv Me A Little",
       "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
+    },
+    {
+      "album": {
+        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271969,
+      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
     },
     {
       "album": {
@@ -4988,6 +5006,24 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "album": {
+        "name": "post-post apocalyptic dance party (From \"LEGO\u00ae Horizon Adventures\u2122\")",
+        "url": "https://open.spotify.com/album/2RUIq2luLzt4H4VHjMNBej"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170591,
+      "name": "post-post apocalyptic dance party (From \"LEGO\u00ae Horizon Adventures\u2122\")",
+      "url": "https://open.spotify.com/track/1M62uXa2Y6vczDfKIpOnDy"
     },
     {
       "album": {
@@ -7148,7 +7184,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 148690,
       "name": "Worms",
       "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"

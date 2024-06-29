@@ -2,7 +2,7 @@
 
 ### [This Is City Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD)
 
-> This is City Girls。アーティストの代表曲をひとつのプレイリストに。
+> This is City Girls\. De viktigste sporene samlet i én spilleliste.
 
 79 songs - 3 hr 46 min
 

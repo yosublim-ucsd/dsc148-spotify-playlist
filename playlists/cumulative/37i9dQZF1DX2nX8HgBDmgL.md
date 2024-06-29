@@ -2,9 +2,9 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\. Cover: Shazia Manzoor, Hasan Raheem
+> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-226 songs - 12 hr 10 min
+227 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-07-18 |  |
 | [Patakay](https://open.spotify.com/track/2UB5xkPwY3Y2tVD0GbIccf) | [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Patakay](https://open.spotify.com/album/3wtlASWLBCT37d97rQiJpa) | 3:57 | 2021-11-11 | 2022-07-19 |
 | [Phone](https://open.spotify.com/track/6MRuNaMaH65vGyek33fXMV) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Phone](https://open.spotify.com/album/4DAhFI1sR57V7fjwxRc9a9) | 3:32 | 2021-11-11 | 2022-07-19 |
+| [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC) | [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R) | 4:46 | 2024-06-28 |  |
 | [Pom Pom](https://open.spotify.com/track/0QvUIiUqzI0kcjMdbUhThY) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Pom Pom](https://open.spotify.com/album/47CMdZRR1r8LSnePdeKB8d) | 2:54 | 2023-05-05 | 2024-02-23 |
 | [Pop Kardi](https://open.spotify.com/track/3x7UocMhbGtX046dBEnxhr) | [Pavvan](https://open.spotify.com/artist/5ibzPrRPkXhl9VHzm6C11m), [GSING](https://open.spotify.com/artist/4EwvbjrlUGLAQBHGbPc0km), [Rokitbeats](https://open.spotify.com/artist/2te7f1eCxRLbpP0e9gRmrv) | [Pop Kardi](https://open.spotify.com/album/7xifFXUtjacnXoB5Xly1w2) | 3:06 | 2021-11-11 | 2022-07-19 |
 | [Pyar Karda](https://open.spotify.com/track/2eAQfT4DYxCBmjaKsO81hp) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:21 | 2021-11-11 | 2022-07-19 |

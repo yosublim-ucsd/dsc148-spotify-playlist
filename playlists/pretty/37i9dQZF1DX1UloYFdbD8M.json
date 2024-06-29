@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Benny Dayal",
-  "num_followers": 32244,
+  "num_followers": 32266,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Znj4XgAAAACv62eeMuuKjCFf8OSiLxvg",
+  "snapshot_id": "Zn67swAAAABXaib6Q6REhUXztgN96UGk",
   "tracks": [
     {
       "added_at": "2024-05-20 09:48:32",
@@ -43,6 +43,78 @@
       "duration_ms": 168048,
       "name": "NISHANI",
       "url": "https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa"
+    },
+    {
+      "added_at": "2024-06-28 13:33:39",
+      "album": {
+        "name": "Nilavaay",
+        "url": "https://open.spotify.com/album/389PSOIUt1WCZiEa0TBuMR"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Jimmy Francis John",
+          "url": "https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d"
+        },
+        {
+          "name": "Tushar Budhwani",
+          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Nilavaay",
+      "url": "https://open.spotify.com/track/6Phcevl6TcQp1C4AaNN3XC"
+    },
+    {
+      "added_at": "2024-06-28 09:27:59",
+      "album": {
+        "name": "Paarvai",
+        "url": "https://open.spotify.com/album/0y3yvEPxCUYQYCuLnGBOxr"
+      },
+      "artists": [
+        {
+          "name": "DeXterDuke",
+          "url": "https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa"
+        },
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/0GRIRWJz1BV0WuL92LnCJQ"
+        },
+        {
+          "name": "Mahenth",
+          "url": "https://open.spotify.com/artist/5YXgranKlBWMHBN5EG9F6Z"
+        }
+      ],
+      "duration_ms": 208701,
+      "name": "Paarvai",
+      "url": "https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN"
+    },
+    {
+      "added_at": "2024-06-28 13:30:51",
+      "album": {
+        "name": "Life Is Adipoli",
+        "url": "https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gift",
+          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        },
+        {
+          "name": "Sajan CR",
+          "url": "https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Life Is Adipoli",
+      "url": "https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO"
     },
     {
       "added_at": "2024-06-10 06:51:24",
@@ -1231,26 +1303,6 @@
     {
       "added_at": "2024-01-15 04:10:09",
       "album": {
-        "name": "Rithu",
-        "url": "https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn"
-      },
-      "artists": [
-        {
-          "name": "Project Malabaricus",
-          "url": "https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l"
-        },
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        }
-      ],
-      "duration_ms": 335750,
-      "name": "Pilleranu",
-      "url": "https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
         "name": "Athiru Kaakkum",
         "url": "https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW"
       },
@@ -1311,22 +1363,6 @@
       "duration_ms": 201347,
       "name": "Aakasham",
       "url": "https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
-        "name": "Mojo Sessions Live",
-        "url": "https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn"
-      },
-      "artists": [
-        {
-          "name": "Thakara",
-          "url": "https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC"
-        }
-      ],
-      "duration_ms": 243994,
-      "name": "Pravasi",
-      "url": "https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2"
     },
     {
       "added_at": "2024-01-15 04:10:09",

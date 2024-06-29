@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,347 likes - 883 songs - 2 day 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,571,920 likes - 883 songs - 2 day 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 92 | [Tickets for Two Please](https://open.spotify.com/track/4ym6wFwd1wwT23sdBZQp1I) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Tickets for Two Please](https://open.spotify.com/album/7KFVofT8hE3bfSBXG0EKSu) | 4:28 |
 | 93 | [Six Copies](https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Six Copies](https://open.spotify.com/album/6RBOorpn7m71FYN3RnBfww) | 3:19 |
 | 94 | [The Lights of Macau](https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [The Lights of Macau](https://open.spotify.com/album/1GwNlrl01klcC23K1fTWHR) | 2:56 |
-| 95 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Trio Serena](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 |
+| 95 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [In Every Way](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 |
 | 96 | [Enigmatic Echoes](https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Enigmatic Echoes](https://open.spotify.com/album/32GcUaTDK6U07ohK8p0iSF) | 4:05 |
 | 97 | [Margot In May](https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Margot In May](https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su) | 3:46 |
 | 98 | [Promenade With You](https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Promenade With You](https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY) | 3:40 |

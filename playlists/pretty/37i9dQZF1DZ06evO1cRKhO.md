@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 
 ### [This Is Pauline Oliveros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cRKhO)
 
-> This is Pauline Oliveros\. The essential tracks, all in one playlist.
+> This is Pauline Oliveros\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622 likes - 50 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 50 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 | 49 | [Untited \#270](https://open.spotify.com/track/5yrWE0AgTqRcQiIGyE0IFC) | [Doug Van Nort](https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv), [Francisco López](https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes), [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Jonas Braasch](https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq) | [Quartet for the End of Space](https://open.spotify.com/album/1vvpBnmpzosVx8njXLSXq5) | 11:28 |
 | 50 | [Calluna Vulgaris](https://open.spotify.com/track/5xGlqc9x6bnSAEDWWMF5oP) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Lisa Dillan](https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX), [Øyvind Storesund](https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR), [Else Olsen Storesund](https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t) | [Botanikk](https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1) | 4:00 |
 
-Snapshot ID: `ZntaAAAAAAATVxb4ExMNMupM6ICuDUuo`
+Snapshot ID: `ZntaAAAAAAAxUXFII7f9RQSoDN24U52H`

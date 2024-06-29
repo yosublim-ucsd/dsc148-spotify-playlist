@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192423,
       "name": "Feito A Mar\u00e9",
       "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
@@ -6512,6 +6512,24 @@
       "duration_ms": 317500,
       "name": "Mal\u00ea",
       "url": "https://open.spotify.com/track/77yiJ3Bt8o8DDhNosd00nq"
+    },
+    {
+      "album": {
+        "name": "MAL\u00cdCIA MINHA",
+        "url": "https://open.spotify.com/album/6104qzApIuCjZsMAgOV3AS"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "MAL\u00cdCIA MINHA",
+      "url": "https://open.spotify.com/track/5NZbdxrTrlqIHQUXZ9ipYp"
     },
     {
       "album": {
@@ -11191,6 +11209,24 @@
     },
     {
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
+    },
+    {
+      "album": {
         "name": "Rivotril e a F\u00e9",
         "url": "https://open.spotify.com/album/2gOX3RIVgRsm5AzZQuCVuM"
       },
@@ -11420,7 +11456,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 187934,
       "name": "Sangue Latino",
       "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
@@ -13377,6 +13413,24 @@
     },
     {
       "album": {
+        "name": "Ui Ui Ui...",
+        "url": "https://open.spotify.com/album/4OkUc3wDKEtb4kQCbQkspS"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138473,
+      "name": "Ui Ui Ui...",
+      "url": "https://open.spotify.com/track/66OYEKjSmeVqSqqjjev1mS"
+    },
+    {
+      "album": {
         "name": "Um Acaso",
         "url": "https://open.spotify.com/album/5PpWQmyYTeZrstemmw366M"
       },
@@ -13802,6 +13856,24 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "album": {
+        "name": "Vento Leva",
+        "url": "https://open.spotify.com/album/3aQcIWCb8gamT5efAa4iIu"
+      },
+      "artists": [
+        {
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Vento Leva",
+      "url": "https://open.spotify.com/track/0UdCw6cxeNwYjGjS531p2T"
     },
     {
       "album": {

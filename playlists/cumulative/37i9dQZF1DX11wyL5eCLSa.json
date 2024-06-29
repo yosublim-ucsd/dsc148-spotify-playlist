@@ -3537,6 +3537,42 @@
     },
     {
       "album": {
+        "name": "Joderse La Vida",
+        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165838,
+      "name": "Joderse La Vida",
+      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+    },
+    {
+      "album": {
+        "name": "Joel Huiqui",
+        "url": "https://open.spotify.com/album/3wG1CVrtV678Z2Lpy5XSXG"
+      },
+      "artists": [
+        {
+          "name": "Los Fibos",
+          "url": "https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187820,
+      "name": "Joel Huiqui",
+      "url": "https://open.spotify.com/track/1DIzE8u0I1fsTEGqN6cDcs"
+    },
+    {
+      "album": {
         "name": "Junto a Mi",
         "url": "https://open.spotify.com/album/1TjUpLBVrDItGQ9EsQ05lg"
       },
@@ -5528,10 +5564,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194306,
       "name": "Naranjita s\u00ed carnal",
       "url": "https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha"
+    },
+    {
+      "album": {
+        "name": "nena",
+        "url": "https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183964,
+      "name": "nena",
+      "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
     },
     {
       "album": {
@@ -7033,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179717,
+      "name": "Six Feet Deep",
+      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
+    },
+    {
+      "album": {
         "name": "SKI MASK",
         "url": "https://open.spotify.com/album/6vAusNXjnthnTkdhiUmZJ1"
       },
@@ -7268,7 +7340,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 230933,
       "name": "Su Majestad La Eternidad",
       "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
@@ -7448,7 +7520,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 238722,
       "name": "Tantas Cosas Buenas",
       "url": "https://open.spotify.com/track/14IjQOtmy0r7NhTPd5RbIZ"
@@ -8542,7 +8614,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 208298,
       "name": "Ya No Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"

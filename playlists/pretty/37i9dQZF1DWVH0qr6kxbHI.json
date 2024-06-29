@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 81170,
+  "num_followers": 81227,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,18 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Mari Trini Con los Panchos",
-        "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
+        "name": "Una estrella en mi jard\u00edn",
+        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
       },
       "artists": [
         {
           "name": "Mari Trini",
           "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 204347,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
+      "duration_ms": 303826,
+      "name": "Una estrella en mi jard\u00edn",
+      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -779,18 +775,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Una estrella en mi jard\u00edn",
-        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
+        "name": "Mari Trini Con los Panchos",
+        "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
       },
       "artists": [
         {
           "name": "Mari Trini",
           "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 303826,
-      "name": "Una estrella en mi jard\u00edn",
-      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
+      "duration_ms": 204347,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
     },
     {
       "added_at": "2024-05-02 22:01:00",

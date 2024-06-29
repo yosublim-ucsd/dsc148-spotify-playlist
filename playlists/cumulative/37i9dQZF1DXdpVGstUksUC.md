@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-338 songs - 1 day 8 hr 31 min
+339 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Please Don't](https://open.spotify.com/track/61KgmwEi0rH5MD1SP20Ura) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Please Don't](https://open.spotify.com/album/0YpWK0W5pxI0CBLbyqeHZG) | 4:12 | 2021-11-30 | 2022-07-29 |
 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 | 2021-11-30 | 2022-02-12 |
 | [Psychotzar](https://open.spotify.com/track/0KzZugT2zOfg3U0ZkD2Iq3) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/3QAl6LRt3ruGhoCOQOdcyl) | 8:43 | 2023-10-06 | 2023-12-26 |
-| [Psychotzar](https://open.spotify.com/track/3CEWBhG07nTuheDfZZHib1) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/2MJ7TzoTvmi2WrIDpQAeak) | 8:43 | 2021-11-30 |  |
+| [Psychotzar](https://open.spotify.com/track/3CEWBhG07nTuheDfZZHib1) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/2MJ7TzoTvmi2WrIDpQAeak) | 8:43 | 2021-11-30 | 2024-06-29 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2022-03-17 | 2023-03-23 |
 | [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 | 2022-04-28 | 2023-03-23 |
 | [Putain!](https://open.spotify.com/track/4AvOo721haYzKYYODVwJ0i) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/7L9LTvVyQvLTUEzkPyKrpN) | 3:48 | 2021-11-30 | 2022-07-20 |
@@ -311,6 +311,7 @@
 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 |  |
 | [Therion](https://open.spotify.com/track/6d6kRYVYXDD5MLE2iJK6i6) | [RODEO](https://open.spotify.com/artist/1g3ajXwXHXa0iGFZCnzSfJ) | [Therion](https://open.spotify.com/album/5ALsc13niDZ7ORzmpPOOL9) | 3:18 | 2022-02-22 | 2022-03-18 |
 | [Thornwyck Hymn](https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje) | [My Dying Bride](https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z) | [Thornwyck Hymn](https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k) | 6:47 | 2024-02-09 |  |
+| [Thunder Lights on the Greatest Sky](https://open.spotify.com/track/1qBS4Mi2RPvf7GifjvdPLY) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [In Search Of The Cosmic Tale: Crossing The Galactic Portal](https://open.spotify.com/album/6KjA1z6VMjXUlOJnLUpagF) | 5:33 | 2024-06-28 |  |
 | [Time Is Going On](https://open.spotify.com/track/7LSuJosmvkGr3RJ1o3b0yp) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt.1](https://open.spotify.com/album/43zW0PaCnakqNHm98btuno) | 3:38 | 2021-11-30 | 2022-07-28 |
 | [Times Missing](https://open.spotify.com/track/60csY2knifHsghAL0qr5kl) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [Times Missing](https://open.spotify.com/album/2DyQxKCnSNtbQvQqjVA68U) | 5:04 | 2021-11-30 | 2022-02-14 |
 | [Tired Old Dog](https://open.spotify.com/track/1zcJ1eMjRONHitpcPx0c68) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4povLQae4v6OV9EMgAL5YH) | 6:27 | 2021-11-30 | 2024-04-22 |

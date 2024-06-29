@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-202 songs - 15 hr 54 min
+203 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Farliga Drömmar](https://open.spotify.com/track/23i74kwXZMUUsxIP3wvOmA) | [Anna Kruse](https://open.spotify.com/artist/7os9mry8s8wK2Kj5rgbv21), [Edith Södergran](https://open.spotify.com/artist/7zouZ1FLIrGjXS6JJoq3QT) | [Champagne Fötter](https://open.spotify.com/album/3gIB3lRXCnWHk0V3lOTVnQ) | 3:44 | 2021-11-08 | 2023-01-20 |
 | [Fem](https://open.spotify.com/track/5QbTP5pMrdjkxbRDxbnqkC) | [Christopher Cantillo Miljonprojektet](https://open.spotify.com/artist/6gBxnwxD3tt6HHdECgkjRR) | [Fem](https://open.spotify.com/album/5d5O3x26xphGr8brDm28xf) | 6:06 | 2023-12-08 |  |
 | [Figures and Movement](https://open.spotify.com/track/28nXpyO1xCeMmy3T06x7sS) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/4X7gbUVbwFh3C9hjayeY89) | 4:03 | 2022-12-01 | 2024-04-19 |
-| [Figures and Movement](https://open.spotify.com/track/42VN1BbimFSSSVXx7s7hkH) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/2dPa0t0VcGGikfDexOunqy) | 4:03 | 2021-11-08 |  |
+| [Figures and Movement](https://open.spotify.com/track/42VN1BbimFSSSVXx7s7hkH) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/2dPa0t0VcGGikfDexOunqy) | 4:03 | 2021-11-08 | 2024-06-29 |
 | [Fly Me to the Moon](https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Fly Me to the Moon](https://open.spotify.com/album/7nnqCmDX4RMB54ANQFXfu1) | 3:32 | 2021-11-08 |  |
 | [Fontanella di Maria](https://open.spotify.com/track/1GiJtZmU6d0JPIv6xLtdYm) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [Basilicata Dreaming](https://open.spotify.com/album/1Tr9H9tqWTfCWEB62i1B6v) | 3:32 | 2023-01-26 |  |
 | [For my lady](https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl) | [For my lady](https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy) | 3:23 | 2023-03-16 |  |
@@ -160,6 +160,7 @@
 | [Sjön håller himlen](https://open.spotify.com/track/5NPNh5heNH26QPhsb5gdxd) | [Ingrid Malmén](https://open.spotify.com/artist/6uJfepnIWETHQxJ17m1RC6), [Alice Hernqvist](https://open.spotify.com/artist/1rESTuT9litogW6ubtyzHy), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y), [Thomas Backman](https://open.spotify.com/artist/5h61EPng9DRaWNdtcJ46pf) | [Tidvatten](https://open.spotify.com/album/4W7a2yYRkWtAmeph2GBsyF) | 4:11 | 2023-11-17 |  |
 | [Ska Vi Leva Loppan](https://open.spotify.com/track/23GDsuTJbJrBZzOjYRN8eW) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM) | [Ska vi leva loppan?](https://open.spotify.com/album/32WFUTl6NAUrH8aQ8Myevt) | 3:01 | 2024-02-16 |  |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
+| [Slam Dunk](https://open.spotify.com/track/2rFOOVcpu86l5iYfks1Bsp) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Raw](https://open.spotify.com/album/2dfQuoI8kNmRCGrqVV4zMi) | 3:28 | 2024-06-27 |  |
 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 | 2022-10-20 |  |
 | [Slowhand](https://open.spotify.com/track/57zedB9kexgdD6s1VQ43tj) | [Sonic Skin](https://open.spotify.com/artist/0sFc8MCEQN0TrP2P39yTQJ), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW) | [Slowhand](https://open.spotify.com/album/1gB1rxmnIKNTATJsN8do7y) | 6:02 | 2024-01-19 |  |
 | [SOL](https://open.spotify.com/track/4nFNfCSmsGGEE3pNfClo9c) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Ett göteborgsporträtt](https://open.spotify.com/album/5gTDcU2wzbBthQRng50CbV) | 6:03 | 2023-06-08 |  |

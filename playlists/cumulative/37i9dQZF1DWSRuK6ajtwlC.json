@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Pescadores del R\u00edo Conchos en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Alianza Norte\u00f1a en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -372,6 +372,24 @@
       "duration_ms": 173013,
       "name": "B\u00fascame",
       "url": "https://open.spotify.com/track/2vM3jK9t1YqdydOgS3T1b4"
+    },
+    {
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176948,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ"
     },
     {
       "album": {
@@ -949,6 +967,28 @@
     },
     {
       "album": {
+        "name": "En Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        },
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150812,
+      "name": "En Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea"
       },
@@ -1440,6 +1480,24 @@
       "duration_ms": 208645,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/69wrJLYULpuJydmDN4J7IZ"
+    },
+    {
+      "album": {
+        "name": "Lecci\u00f3n de Vida",
+        "url": "https://open.spotify.com/album/2TFJrDQb9gwaVFHsTypSHI"
+      },
+      "artists": [
+        {
+          "name": "Manuel Reza",
+          "url": "https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Lecci\u00f3n de Vida",
+      "url": "https://open.spotify.com/track/7nlpSPCAATD6WFv3KFgQlc"
     },
     {
       "album": {
@@ -2072,6 +2130,24 @@
       "duration_ms": 188823,
       "name": "Piquetitos",
       "url": "https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY"
+    },
+    {
+      "album": {
+        "name": "Only Zenda",
+        "url": "https://open.spotify.com/album/27tycDhwYsqcglrQflbd0V"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180725,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/3nIvk6YkJzCXERKTAuJwkP"
     },
     {
       "album": {

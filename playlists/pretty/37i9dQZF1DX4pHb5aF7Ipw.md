@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 ### [Burrh Rap](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Rap\. Cover: Prince Narula & Paradox
+> Fresh Punjabi Rap\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,393 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,398 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Swing](https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Al Bamania](https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap) | [Colonial Mindset](https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5) | 4:48 |
-| 2 | [Nawa Daur](https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Nawa Daur](https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU) | 2:57 |
-| 3 | [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 |
-| 4 | [West Delhi](https://open.spotify.com/track/1wsnTj9vsFKgO0D9z8w2c2) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [West Delhi](https://open.spotify.com/album/3uGNL9N4cwWIUhObpxHf2K) | 2:22 |
+| 1 | [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 |
+| 2 | [Swing](https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Al Bamania](https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap) | [Colonial Mindset](https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5) | 4:48 |
+| 3 | [Nawa Daur](https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Nawa Daur](https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU) | 2:57 |
+| 4 | [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 |
 | 5 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 |
 | 6 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 |
 | 7 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 49 | [Racks and Rounds \(feat\. Sikander Kahlon\)](https://open.spotify.com/track/4RbRZYPR7Dwg8WRNn4UA8m) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:45 |
 | 50 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 |
 
-Snapshot ID: `Zm/XIQAAAADT++CzgTTVs8R0XzO67AUc`
+Snapshot ID: `Zn6zZAAAAAC6Xw0dg8L2iCMT0pPAJ0ml`

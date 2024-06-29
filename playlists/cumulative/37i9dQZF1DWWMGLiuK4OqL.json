@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 256880,
       "name": "A Fine Romance",
       "url": "https://open.spotify.com/track/78Wz0fvhIF0vD7YgcSMI2u"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 151213,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/39Ir3aJpxxoDAZApZ9FzXK"
@@ -630,6 +630,24 @@
       "duration_ms": 185586,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+    },
+    {
+      "album": {
+        "name": "April In Paris",
+        "url": "https://open.spotify.com/album/3bAfv8bowq6PIv2rw0zI87"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243457,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2mBmDzFH3ysQoZM6eEYh0X"
     },
     {
       "album": {
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 394453,
       "name": "City Garden",
       "url": "https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 286426,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1KSyemSUL2kyIzIK1rtOrY"
@@ -4074,6 +4092,24 @@
       "duration_ms": 310826,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC"
+    },
+    {
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "album": {
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 326133,
       "name": "Our Love Remains",
       "url": "https://open.spotify.com/track/4Ion6vCVcGkSbd6KnedF4P"
@@ -4982,7 +5018,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188893,
       "name": "Sascha",
       "url": "https://open.spotify.com/track/1E3CX8oFjpHceDtSp5Fhq5"

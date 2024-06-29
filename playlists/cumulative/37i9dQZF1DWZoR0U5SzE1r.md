@@ -4,7 +4,7 @@
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-220 songs - 21 hr 26 min
+221 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dancing On The Waves \- Live At The Wheelhouse](https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dancing On The Waves \(Live\)](https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r) | 4:29 | 2020-06-26 |  |
 | [Defender](https://open.spotify.com/track/7vye6MbNlJ61o97p2Ccb8r) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Battles](https://open.spotify.com/album/6JxqRfI35r8hqBDj4bReFv) | 7:17 | 2024-06-22 |  |
 | [Dreams \- Live](https://open.spotify.com/track/4l28c3njvOqasE4lLPP2cx) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 6:59 | 2020-06-26 | 2024-06-23 |
+| [Drink Offering \(Deluxe Version\) \- Live](https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth \(Deluxe\)](https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK) | 9:12 | 2024-06-22 |  |
 | [Eden](https://open.spotify.com/track/0FFTMY1NSZ85SjCmqunEwF) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Ted Kim](https://open.spotify.com/artist/699Rp6ZqvLEpBhSaJRDasl) | [Eden](https://open.spotify.com/album/0kCgZWqGdB13XQB2tyo2Pj) | 6:58 | 2020-06-26 | 2022-07-29 |
 | [Eden](https://open.spotify.com/track/0ZYr1O3P2cvpcj8lCTPnte) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Ted Kim](https://open.spotify.com/artist/699Rp6ZqvLEpBhSaJRDasl) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 6:58 | 2020-06-26 | 2022-11-13 |
 | [Edge of Heaven](https://open.spotify.com/track/58sifksSRvHKUwgDrRwHPB) | [Battledrums](https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ) | [Breakthrough](https://open.spotify.com/album/4OcI9T4pOHeHzOlJuXgYGC) | 5:41 | 2020-06-26 | 2022-07-28 |
@@ -94,7 +95,7 @@
 | [Heroes](https://open.spotify.com/track/1vM5pCVUvxKQMtJKxlR7Q3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb) | 4:17 | 2020-06-26 | 2022-07-29 |
 | [Heroes](https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 4:17 | 2020-06-26 | 2024-04-08 |
 | [His Mercy Is More](https://open.spotify.com/track/4N5DNWSCAitzzxhRQ5Cfxi) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa](https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3) | 4:49 | 2024-06-22 |  |
-| [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 | 2020-06-26 |  |
+| [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 | 2020-06-26 | 2024-06-29 |
 | [Holy Forever](https://open.spotify.com/track/5vJNJVYbtBYOSAD4qzq7hy) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Holy Forever](https://open.spotify.com/album/2BDoSC4fVtlCSOgyavzdrV) | 3:43 | 2024-06-22 |  |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2024-06-22 |  |
 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 | 2020-06-26 | 2024-06-23 |

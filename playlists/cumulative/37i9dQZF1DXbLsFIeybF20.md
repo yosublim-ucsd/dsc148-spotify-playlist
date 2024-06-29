@@ -4,11 +4,12 @@
 
 > Get into the spirit of New Orleans\. Cover: Wynton Marsalis
 
-73 songs - 4 hr 31 min
+74 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ballin’ the Jack](https://open.spotify.com/track/4YDnwykuaJDwmI5L3Fk8vW) | [Bunk Johnson](https://open.spotify.com/artist/4HGHKAXQPnK1YyzGmIFkrp) | [Masters of Classic Jazz: Dixieland](https://open.spotify.com/album/6IEivXDSrmGlTaof4khaSc) | 2:45 | 2021-04-26 |  |
+| [Basin Street Blues](https://open.spotify.com/track/5e6j1TOGypJjsN3K0I8Q8u) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Music from Tiana's Bayou Adventure](https://open.spotify.com/album/27YuCtLK26MywD6GT2GLEG) | 3:56 | 2024-06-28 |  |
 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 | 2021-04-26 |  |
 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 | 2021-04-26 |  |
 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 | 2021-04-26 |  |
@@ -48,7 +49,7 @@
 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 | 2021-04-26 | 2023-07-29 |
 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 | 2021-04-26 | 2023-08-15 |
 | [Milenberg Joys](https://open.spotify.com/track/4pq3ZXHF7EXTFkEae0suZZ) | [Lu Watters](https://open.spotify.com/artist/3vCSKqDwmD2rf9v4t1hhwv) | [The Ultimate Jazz Archive 8 \- Jacks Hit The Road \(1 Of 4\)](https://open.spotify.com/album/7LLJ7dgXSj7NIVfMVOqeIT) | 3:25 | 2021-04-26 |  |
-| [My Feet Can't Fail Me Now](https://open.spotify.com/track/65sPImCpuvhK21doidXxS0) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans](https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU) | 4:36 | 2021-04-26 |  |
+| [My Feet Can't Fail Me Now](https://open.spotify.com/track/65sPImCpuvhK21doidXxS0) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans](https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU) | 4:36 | 2021-04-26 | 2024-06-29 |
 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 | 2021-04-26 | 2024-04-19 |
 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 | 2021-04-26 |  |
 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 | 2021-04-26 |  |

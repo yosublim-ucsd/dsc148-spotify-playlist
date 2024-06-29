@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from King Krule",
+  "description": "Explore all things indie rock right now. Featuring music from Bright Eyes",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Hot Sun Cool Shroud",
+        "url": "https://open.spotify.com/album/4mUa5QxCDsPPRpAkTggLBL"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/1EN2GzvRcCcHeNPQOjLcI5"
+    },
+    {
+      "album": {
         "name": "Anotha 1",
         "url": "https://open.spotify.com/album/3xl1wniP5TMCIOfmok3SGm"
       },
@@ -2490,6 +2508,24 @@
       "duration_ms": 199466,
       "name": "bella",
       "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
+    },
+    {
+      "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
     },
     {
       "album": {
@@ -4600,6 +4636,24 @@
       "duration_ms": 161151,
       "name": "Car??",
       "url": "https://open.spotify.com/track/4x4a7S7JRCUQDJkRf3FBfP"
+    },
+    {
+      "album": {
+        "name": "Caroline Goodbye",
+        "url": "https://open.spotify.com/album/0BXtBhfF0a4CZJ4kSkF23b"
+      },
+      "artists": [
+        {
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Caroline Goodbye",
+      "url": "https://open.spotify.com/track/0rIzjsOl4OYJzE0eSIQp0B"
     },
     {
       "album": {
@@ -11036,7 +11090,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
@@ -12122,6 +12176,24 @@
       "duration_ms": 158480,
       "name": "I GAVE YOU EVERYTHING",
       "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
+    },
+    {
+      "album": {
+        "name": "I Got Cracked",
+        "url": "https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219896,
+      "name": "I Got Cracked",
+      "url": "https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm"
     },
     {
       "album": {
@@ -13563,6 +13635,24 @@
     },
     {
       "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
+    },
+    {
+      "album": {
         "name": "I\u2019d Like You To Leave",
         "url": "https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW"
       },
@@ -14280,7 +14370,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 315331,
       "name": "Laugh",
       "url": "https://open.spotify.com/track/1KFiQ4QHDouaNd0Yo5Qq7S"
@@ -14822,7 +14912,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172880,
       "name": "Live Today",
       "url": "https://open.spotify.com/track/5sh8ivyfsTYbdFVknX0wjI"
@@ -16584,6 +16674,24 @@
       "duration_ms": 233655,
       "name": "Money",
       "url": "https://open.spotify.com/track/5Q1H7ASDiJpACNx5ziyhuN"
+    },
+    {
+      "album": {
+        "name": "Monica Gives Me Lockjaw",
+        "url": "https://open.spotify.com/album/3O51T0cvsgJ2AWNrSBpxgL"
+      },
+      "artists": [
+        {
+          "name": "Frances Forever",
+          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Monica Gives Me Lockjaw",
+      "url": "https://open.spotify.com/track/3kvNjvINquYao4837FYoBW"
     },
     {
       "album": {
@@ -19646,7 +19754,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 257920,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza"
@@ -19790,7 +19898,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 142449,
       "name": "Rag",
       "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
@@ -21282,6 +21390,24 @@
       "duration_ms": 161500,
       "name": "she wants me too",
       "url": "https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E"
+    },
+    {
+      "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
       "album": {
@@ -24456,7 +24582,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 248360,
       "name": "The Impossible",
       "url": "https://open.spotify.com/track/2l24Vht7AgPSSzopnSx24i"
@@ -24518,7 +24644,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 160906,
       "name": "The Late Show (feat. Jay Som)",
       "url": "https://open.spotify.com/track/3UR0iaqFLGa3pnCYt6bBuS"
@@ -25055,6 +25181,32 @@
     },
     {
       "album": {
+        "name": "This is Life",
+        "url": "https://open.spotify.com/album/25g1BNalfJaZflKcyuANmz"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        },
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/79EYgUv9JojcgVVEJXdPbI"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/4MD1aVgYMaer9QktxqHJQU"
       },
@@ -25272,7 +25424,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
@@ -25536,6 +25688,28 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "album": {
+        "name": "Too Late!",
+        "url": "https://open.spotify.com/album/6xotdUwvU7d0MaYhbVKXvw"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        },
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213104,
+      "name": "Too Late!",
+      "url": "https://open.spotify.com/track/1YPfklH2nYKL8W8Hg7pwhk"
     },
     {
       "album": {
@@ -26062,7 +26236,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 252081,
       "name": "Unknown Phantom",
       "url": "https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3"
@@ -26516,6 +26690,24 @@
       "duration_ms": 197000,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3lKKT3H1gMr3zIPdauECXk"
+    },
+    {
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "album": {
@@ -27106,7 +27298,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172563,
       "name": "What Does it Mean",
       "url": "https://open.spotify.com/track/3K1HbnPbY0y57z7Fs2xTgr"

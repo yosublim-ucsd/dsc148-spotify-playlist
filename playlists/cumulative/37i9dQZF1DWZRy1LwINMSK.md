@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno al mando de Cris Mj.
+> La casa del trap chileno al mando de Polima Westcoast.
 
-231 songs - 12 hr 3 min
+232 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Drama](https://open.spotify.com/track/4ornlDArKwc3lubymSdCPt) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Drama](https://open.spotify.com/album/74I5QkFGAkIPBaXFCPwU6H) | 3:41 | 2023-09-08 | 2024-03-01 |
 | [DÍGITOS](https://open.spotify.com/track/0SUjxi6zWnsZtXyyGlABT9) | [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [DÍGITOS](https://open.spotify.com/album/5PYMBq2SnHpPVG6QkYvjHc) | 3:09 | 2022-01-20 | 2022-05-28 |
 | [El Extendo](https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Keylon](https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:54 | 2022-01-20 | 2024-02-03 |
-| [En el Trap](https://open.spotify.com/track/1NZt5EfQCFMlbOgeywCMq3) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Daimi the producer](https://open.spotify.com/artist/3LCXmC2QKg6Mr2asiMvrMG) | [En el Trap](https://open.spotify.com/album/2Ybs6wIoJByUVK088Fpc3b) | 2:36 | 2024-06-21 |  |
+| [En el Trap](https://open.spotify.com/track/1NZt5EfQCFMlbOgeywCMq3) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Daimi the producer](https://open.spotify.com/artist/3LCXmC2QKg6Mr2asiMvrMG) | [En el Trap](https://open.spotify.com/album/2Ybs6wIoJByUVK088Fpc3b) | 2:36 | 2024-06-21 | 2024-06-29 |
 | [Endorfina](https://open.spotify.com/track/1UUFVfl4t9YFhmyMX5BdXz) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Endorfina](https://open.spotify.com/album/10aNOp2gug1lB3DIBJZSlo) | 2:19 | 2023-03-10 | 2023-08-12 |
 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 | 2022-01-20 |  |
 | [Escarlata \- Remix](https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr) | [eleven1.1](https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Escarlata \(Remix\)](https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0) | 4:43 | 2024-02-29 |  |
@@ -236,6 +236,7 @@
 | [VLONE](https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [VLONE](https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6) | 3:39 | 2022-01-20 | 2023-12-09 |
 | [Vámonos](https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [H Empire](https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH), [Delay Lama](https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P) | [Vámonos](https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY) | 3:43 | 2022-07-22 | 2024-04-19 |
 | [Vámonos \(feat\. Nfx & DrefQuila\)](https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Vámonos \(feat\. Nfx & DrefQuila\)](https://open.spotify.com/album/1L0NO0pTkL7XXjgiSi31Wj) | 3:43 | 2022-01-20 |  |
+| [www.PolimáWestcoast](https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [www.PolimáWestcoast](https://open.spotify.com/album/1WXCYhu4JBW4afvKyJlmC1) | 1:27 | 2024-06-28 |  |
 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 | 2022-01-20 |  |
 | [XERATON](https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:41 | 2023-07-07 | 2023-12-09 |
 | [Young Millonaire](https://open.spotify.com/track/2rYCI8MQnx6vGTfZENkvOt) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Young Millonaire](https://open.spotify.com/album/4F0x4BtgabWu3nR87PLtfH) | 2:04 | 2024-06-07 |  |

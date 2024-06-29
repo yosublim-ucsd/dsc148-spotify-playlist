@@ -53160,7 +53160,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 113962,
       "name": "Otters",
       "url": "https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw"
@@ -69984,6 +69984,24 @@
       "duration_ms": 111304,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/0CjjvJyeefX4M4Alm36agK"
+    },
+    {
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/2jFuqRfCGbNAdgLzySkdWp"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/6sI2PKNUkwTJexvW4FYrah"
     },
     {
       "album": {

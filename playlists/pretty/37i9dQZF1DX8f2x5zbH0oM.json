@@ -1,6 +1,6 @@
 {
   "description": "La playlist au-del\u00e0 des genres. Photo : James Blake",
-  "num_followers": 81665,
+  "num_followers": 81676,
   "original_name": "La Cr\u00e8me",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Zn3g4AAAAAAja4Ptm6bWkvRi+K8x97n5",
   "tracks": [
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/3YSkrcq8N00jwqcBRjAFB5"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 370461,
+      "name": "In Grey",
+      "url": "https://open.spotify.com/track/3EeKihPbo2fPDlgKdLM2Bx"
+    },
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
@@ -175,6 +195,26 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 245452,
+      "name": "Save The Savior",
+      "url": "https://open.spotify.com/track/4QSJm9N05ru4Bie6Jf2yko"
     },
     {
       "added_at": "2024-06-27 22:00:00",

@@ -4,7 +4,7 @@
 
 > Afro diaspora cuts from around the globe\. Cover: Burna Boy
 
-508 songs - 1 day 2 hr 8 min
+509 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/5RizFQe3Uvf12S2WE83IBr) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 2:22 | 2023-12-14 | 2024-04-19 |
 | [King of Pop](https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:21 | 2023-08-31 | 2024-03-15 |
 | [Koko](https://open.spotify.com/track/7ppbwgiybENMZYUzu5EX6Z) | [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [Koko](https://open.spotify.com/album/0VVhDZXIHATBwfpkmRaLtF) | 2:08 | 2022-11-09 | 2023-01-06 |
+| [KOKO](https://open.spotify.com/track/6WXRbv2ppuzvxokgUw9Wq3) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [KOKO](https://open.spotify.com/album/2p6OIQtB4XjuTEZzYzabL2) | 3:06 | 2024-06-28 |  |
 | [KOKO \(Remix\)](https://open.spotify.com/track/28obG8FclvOU76EbWKJ49Z) | [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [KOKO \(Remix\)](https://open.spotify.com/album/4CNpaWERYJoXuFONSuyBte) | 2:51 | 2023-07-06 | 2024-03-15 |
 | [Konjo](https://open.spotify.com/track/6QDsvVjGVvyapCgrZrNimn) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Konjo](https://open.spotify.com/album/6fwMKBeItkKYY8ZFn6vn4q) | 3:17 | 2022-07-18 | 2022-08-26 |
 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 | 2023-07-27 | 2023-12-14 |

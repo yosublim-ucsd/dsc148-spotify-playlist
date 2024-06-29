@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Maluma
 
-199 songs - 11 hr 43 min
+201 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Llegué Tarde](https://open.spotify.com/track/075I4HrtsAxGEMheXOsS8q) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Jaison Neutra](https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf) | [Llegué Tarde](https://open.spotify.com/album/1VNr6GJdW5OiCZnKVARO42) | 3:08 | 2024-03-22 | 2024-05-11 |
 | [Loca \(feat\. El Cata\)](https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [El Cata](https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:03 | 2023-09-25 | 2023-11-04 |
 | [Logré Olvidar](https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Soy la Generación](https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt) | 4:27 | 2022-10-07 | 2022-10-20 |
+| [Lunares](https://open.spotify.com/track/0OdQrlMbboMbp4Rdcl7nlD) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Lunares](https://open.spotify.com/album/0McuKHUWKpDgsQ0aPWyX3q) | 3:24 | 2024-06-28 |  |
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-05-20 | 2022-12-03 |
 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 | 2022-05-20 |  |
 | [MAMBO 23](https://open.spotify.com/track/0lWCaNootIluiysUga5SjO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [MAMBO 23](https://open.spotify.com/album/3SOAiZvQz3nBPuOkdRKUhG) | 3:20 | 2023-09-22 | 2023-09-26 |
@@ -189,7 +190,8 @@
 | [Tres Días en Cartagena](https://open.spotify.com/track/4VbLdkvcpvoBYBJtAJQ0wc) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Tres Días en Cartagena](https://open.spotify.com/album/2Xv5RtLyJUeAHk1yHmZAmI) | 2:58 | 2024-03-22 | 2024-04-27 |
 | [Tu Apellido](https://open.spotify.com/track/2TU4tlyGdNznDYinTE7yiL) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Tu Apellido](https://open.spotify.com/album/7CNIv4WRksLzyIKg039mj4) | 2:41 | 2022-10-28 | 2023-02-10 |
 | [Tu No Eres un Angel](https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu No Eres un Angel](https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H) | 3:11 | 2024-05-10 |  |
-| [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-05-20 |  |
+| [Tu Nombre](https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Tu Nombre](https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E) | 3:30 | 2024-06-28 |  |
+| [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-05-20 | 2024-06-29 |
 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 | 2023-08-18 | 2023-09-23 |
 | [Un Ladrón](https://open.spotify.com/track/0GRqaS1RZuqNTlnlOPb5sX) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 4:14 | 2022-10-07 | 2022-12-03 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-17 |  |
@@ -206,6 +208,6 @@
 | [Ya Me Enteré](https://open.spotify.com/track/4Kjll3JYjHkaOySaJyUNjH) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW) | [Ya Me Enteré](https://open.spotify.com/album/1T4GzD73DNzvF7jx6uNdUd) | 3:41 | 2022-05-20 | 2023-04-22 |
 | [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 | 2023-05-27 |
 | [Yo No Fumo](https://open.spotify.com/track/79U0Bz4XoHMyjmwK2AlX2B) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo No Fumo](https://open.spotify.com/album/6iElKHUTsv8TQck59XGWsW) | 2:59 | 2023-04-21 | 2023-09-02 |
-| [¿Qué Será?](https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:18 | 2023-04-27 |  |
+| [¿Qué Será?](https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:18 | 2023-04-27 | 2024-06-29 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 19194,
+  "num_followers": 19189,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Candy / How many miles",
+        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 141236,
+      "name": "How many miles",
+      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Candy / How many miles",
-        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 141236,
-      "name": "How many miles",
-      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Fortune's child",
-        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
+        "name": "I LOVE THE INTERNET",
+        "url": "https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG"
       },
       "artists": [
         {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
         }
       ],
-      "duration_ms": 170213,
-      "name": "Opposites don't attract",
-      "url": "https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM"
+      "duration_ms": 150533,
+      "name": "npc",
+      "url": "https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -603,34 +603,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "I LOVE THE INTERNET",
-        "url": "https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG"
+        "name": "Fortune's child",
+        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
       },
       "artists": [
         {
-          "name": "Pam Rabbit",
-          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
         }
       ],
-      "duration_ms": 150533,
-      "name": "npc",
-      "url": "https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+      "duration_ms": 170213,
+      "name": "Opposites don't attract",
+      "url": "https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -647,6 +631,22 @@
       "duration_ms": 209021,
       "name": "Barley",
       "url": "https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Corner Of My Eye",
-        "url": "https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Corner Of My Eye",
-      "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Spirit World Tour",
-        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
+        "name": "Corner Of My Eye",
+        "url": "https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs"
       },
       "artists": [
         {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
         }
       ],
-      "duration_ms": 207618,
-      "name": "First Rule of the Bug",
-      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
+      "duration_ms": 199360,
+      "name": "Corner Of My Eye",
+      "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Spirit World Tour",
+        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
+      },
+      "artists": [
+        {
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+        }
+      ],
+      "duration_ms": 207618,
+      "name": "First Rule of the Bug",
+      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "I Killed Your Dog",
         "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 270875,
       "name": "5 to 8 Hours a Day (WWwaG)",
       "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "these are not songs, they are stories",
+        "url": "https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF"
+      },
+      "artists": [
+        {
+          "name": "O'SULLIVAN",
+          "url": "https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Love & Death",
+      "url": "https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1007,22 +1023,6 @@
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "these are not songs, they are stories",
-        "url": "https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF"
-      },
-      "artists": [
-        {
-          "name": "O'SULLIVAN",
-          "url": "https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Love & Death",
-      "url": "https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "LOO SONG",
-        "url": "https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "LOO SONG",
-      "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "tainted in our memories",
         "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 160089,
       "name": "blame",
       "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "LOO SONG",
+        "url": "https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "LOO SONG",
+      "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
-        "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "As Sure As I\u2019m Speaking",
-      "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Worlds End FM",
         "url": "https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 163306,
       "name": "Full On",
       "url": "https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
+        "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "As Sure As I\u2019m Speaking",
+      "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Why Are You Not Scared Yet?",
-        "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
-      },
-      "artists": [
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 154555,
-      "name": "Why Are You Not Scared Yet?",
-      "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Art By You",
         "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Why Are You Not Scared Yet?",
+        "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 154555,
+      "name": "Why Are You Not Scared Yet?",
+      "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 208880,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1315,22 +1331,6 @@
       "duration_ms": 163500,
       "name": "Radiohead",
       "url": "https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Top Fan",
+        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
+      },
+      "artists": [
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "duration_ms": 190648,
+      "name": "Top Fan",
+      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "baby, I do / IKWYDLS",
         "url": "https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 151875,
       "name": "IKWYDLS",
       "url": "https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Top Fan",
-        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 190648,
-      "name": "Top Fan",
-      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Everything's Conditional",
-        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Running For My Life",
-      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Everything's Conditional",
+        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Running For My Life",
+      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "French Bath",
-        "url": "https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw"
+        "name": "Oropendola",
+        "url": "https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7"
       },
       "artists": [
         {
-          "name": "May Rio",
-          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
         }
       ],
-      "duration_ms": 161533,
-      "name": "NYC UMTs",
-      "url": "https://open.spotify.com/track/466O2QshkvjRtjC3sjqWMC"
+      "duration_ms": 255530,
+      "name": "Oropendola",
+      "url": "https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK"
     }
   ],
   "unique_name": "Indie songs from 2023 you may have missed",

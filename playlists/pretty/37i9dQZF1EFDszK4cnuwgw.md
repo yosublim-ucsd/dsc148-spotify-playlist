@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 22 | [Walk](https://open.spotify.com/track/77F5snvVri3RyOFoXs9pYD) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Walk](https://open.spotify.com/album/3yWgWgX0CIQ372KGxZxrTE) | 3:18 |
 | 23 | [Successful](https://open.spotify.com/track/3M0YCNnL2IKwjDDIGrVW7O) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:23 |
 | 24 | [Hot Sauce](https://open.spotify.com/track/6a9nl0eRcKVnn8nWgCoy52) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:58 |
-| 25 | [OOOUUU Remix \(feat\. 50 Cent\)](https://open.spotify.com/track/27wJgOxwIDaDi0MqE6guW3) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [OOOUUU Remix \(feat\. 50 Cent\)](https://open.spotify.com/album/0cbsLcm8Y0HjUiBJMWoMEO) | 4:49 |
-| 26 | [Praktice](https://open.spotify.com/track/6SqqsrQBdYGNuLJzo6oRQY) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Praktice](https://open.spotify.com/album/6zb0piw5wfvUjricnpHzUw) | 3:36 |
+| 25 | [Praktice](https://open.spotify.com/track/6SqqsrQBdYGNuLJzo6oRQY) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Praktice](https://open.spotify.com/album/6zb0piw5wfvUjricnpHzUw) | 3:36 |
+| 26 | [OOOUUU Remix \(feat\. 50 Cent\)](https://open.spotify.com/track/27wJgOxwIDaDi0MqE6guW3) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [OOOUUU Remix \(feat\. 50 Cent\)](https://open.spotify.com/album/0cbsLcm8Y0HjUiBJMWoMEO) | 4:49 |
 | 27 | [DEMONS \(feat\. Young M.A\)](https://open.spotify.com/track/4RHrf1byiqcRCGwI6fHvKu) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [BACK TO ROCKPORT](https://open.spotify.com/album/2gMs3mjUTftMtuunWWxZzM) | 2:47 |
 | 28 | [Don Diva](https://open.spotify.com/track/07hzPXzmVs98M0eRsCINt1) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:03 |
 | 29 | [Body Bag](https://open.spotify.com/track/6LBGgc8wElJALbhn7DL38u) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Body Bag \- Single](https://open.spotify.com/album/7Jg1O0doOjV0P6NbPZXPB1) | 3:50 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 66 | [Tip The Surgeon](https://open.spotify.com/track/4tacR7Av6xOTRvhzyWssUt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Tip The Surgeon](https://open.spotify.com/album/1954wNtuh4T3cUJYOZs0eL) | 2:07 |
 | 67 | [Henny'd Up](https://open.spotify.com/track/1MNVW2n4G8NMdxVtG99UTw) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:40 |
 | 68 | [Quarantine Party](https://open.spotify.com/track/3JfHrQa2XzwhjfrbTXHVCS) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:05 |
-| 69 | [No Love](https://open.spotify.com/track/4EL9Sm7NIo3Or5XvOkxbfs) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:19 |
-| 70 | [Yak Thoughts](https://open.spotify.com/track/3bQka0pdRdqskAWoMhjKIt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:45 |
+| 69 | [Yak Thoughts](https://open.spotify.com/track/3bQka0pdRdqskAWoMhjKIt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:45 |
+| 70 | [No Love](https://open.spotify.com/track/4EL9Sm7NIo3Or5XvOkxbfs) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:19 |
 | 71 | [Crime Poetry \(Outro\)](https://open.spotify.com/track/5QgcKnpU3U6jwZ3LKuJoPf) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:16 |
 | 72 | [Angels vs Demons](https://open.spotify.com/track/1Zwg4VLmGKXxi1vzhAatac) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:51 |
 | 73 | [Cloverfield \(feat\. Young M.A\)](https://open.spotify.com/track/2YNwyOPj4P5nH0KiEbLXZq) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:59 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 78 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 |
 | 79 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `AbVNTAAAAAD2yCg7xv2PBZFeww5LEPE5`
+Snapshot ID: `AbVS7AAAAABVn8f/3qODdOcLyfjHi4W6`

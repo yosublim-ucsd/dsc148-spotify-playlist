@@ -1,6 +1,6 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1896100,
+  "num_followers": 1896574,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-27 08:57:27",
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 291933,
-      "name": "Death Blooms",
-      "url": "https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV"
-    },
-    {
-      "added_at": "2024-06-27 08:57:27",
-      "album": {
         "name": "The Height of Callousness",
         "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
+    },
+    {
+      "added_at": "2024-06-27 08:57:27",
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 291933,
+      "name": "Death Blooms",
+      "url": "https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV"
     },
     {
       "added_at": "2024-06-27 08:57:27",

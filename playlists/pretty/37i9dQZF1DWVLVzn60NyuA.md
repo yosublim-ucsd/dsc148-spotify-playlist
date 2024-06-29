@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,330 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,334 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,10 +123,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 113 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 | 114 | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM) | 3:28 |
 | 115 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
-| 116 | [Perdiste](https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Perdiste](https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3) | 1:59 |
-| 117 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
-| 118 | [Likkle Riddim](https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Likkle Riddim](https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ) | 2:44 |
-| 119 | [Damages](https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Damages](https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK) | 2:49 |
+| 116 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
+| 117 | [Perdiste](https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Perdiste](https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3) | 1:59 |
+| 118 | [Damages](https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Damages](https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK) | 2:49 |
+| 119 | [Likkle Riddim](https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Likkle Riddim](https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ) | 2:44 |
 | 120 | [Hero](https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Hero](https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM) | 3:26 |
 | 121 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 |
 | 122 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 139 | [Nobody Knows](https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Nobody Knows](https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G) | 2:36 |
 | 140 | [Jealousy](https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jealousy](https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG) | 2:45 |
 | 141 | [No Fear \(feat\. Damian Marley & Nicky Jam\)](https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [No Fear \(feat\. Damian Marley & Nicky Jam\)](https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw) | 3:30 |
-| 142 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
-| 143 | [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 |
+| 142 | [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 |
+| 143 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
 | 144 | [Love is Alive \- Original](https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Daniël von Piekartz](https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn) | [Love Is Alive \(Original\)](https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh) | 5:31 |
 | 145 | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy) | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK) | 2:54 |
 | 146 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |

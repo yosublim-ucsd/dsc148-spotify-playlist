@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Before I Die",
+        "url": "https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY"
+    },
+    {
+      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 235283,
       "name": "SWALLOW",
       "url": "https://open.spotify.com/track/2OrhUx4vQuLn40TKeCdCkC"

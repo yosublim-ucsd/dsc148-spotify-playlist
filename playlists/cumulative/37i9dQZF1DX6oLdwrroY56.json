@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: Peej",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: TONEEJAY",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 284129,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1UFE7RX9K2ZGjbcQt4yu2E"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u"
+      },
+      "artists": [
+        {
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285489,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY"
     },
     {
       "album": {
@@ -460,7 +478,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 317975,
       "name": "Gabi (feat. Zild)",
       "url": "https://open.spotify.com/track/36ZYaW5Dj7loKsyyHehpCr"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 241042,
       "name": "Please Lang",
       "url": "https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2"
@@ -1304,6 +1322,24 @@
       "duration_ms": 213928,
       "name": "Pramis",
       "url": "https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms"
+    },
+    {
+      "album": {
+        "name": "Prom",
+        "url": "https://open.spotify.com/album/3wDnMvhivfZ9iPnYF5usXe"
+      },
+      "artists": [
+        {
+          "name": "Arron Rebustes",
+          "url": "https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248502,
+      "name": "Prom",
+      "url": "https://open.spotify.com/track/5UNhmGXL2TWaguVTv9RVBZ"
     },
     {
       "album": {
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 271036,
       "name": "Sasamahan Ka",
       "url": "https://open.spotify.com/track/6RBjZfZNa80zJbWrWt64f2"
@@ -1528,6 +1564,24 @@
       "duration_ms": 285734,
       "name": "Sikreto",
       "url": "https://open.spotify.com/track/4Xsy8uSzUhjRwBAQQ17FXQ"
+    },
+    {
+      "album": {
+        "name": "Sinking",
+        "url": "https://open.spotify.com/album/0VEMK0KM5oMMzTvD0YesvV"
+      },
+      "artists": [
+        {
+          "name": "Sansette",
+          "url": "https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221349,
+      "name": "Sinking",
+      "url": "https://open.spotify.com/track/4CahHrjGuxr1WwYHzDSRgR"
     },
     {
       "album": {
@@ -1770,7 +1824,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 321320,
       "name": "Tayo (ating istorya)",
       "url": "https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm"
@@ -1944,6 +1998,24 @@
       "duration_ms": 152358,
       "name": "Wag Naman",
       "url": "https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e"
+    },
+    {
+      "album": {
+        "name": "Walang Label",
+        "url": "https://open.spotify.com/album/0qFt3vATFczRlwVGbZHbZO"
+      },
+      "artists": [
+        {
+          "name": "Eugene Layug",
+          "url": "https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Walang Label",
+      "url": "https://open.spotify.com/track/5mcQZiopXnczEKf6OM4HWC"
     },
     {
       "album": {

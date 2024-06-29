@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: LISA",
-  "num_followers": 61135,
+  "num_followers": 61167,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn4KbwAAAACGfVbNL/lmtOdtjdj8GeCn",
+  "snapshot_id": "Zn4z4AAAAADYUalRYrEcSBfIbzXRgUt8",
   "tracks": [
     {
       "added_at": "2024-06-27 16:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -347,6 +367,38 @@
       "duration_ms": 275912,
       "name": "\u6200\u4eba",
       "url": "https://open.spotify.com/track/3InFU5aBMwBTgk2EnxT3ir"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "\u5922",
+        "url": "https://open.spotify.com/album/1olxR5StgQ10ZMv1cnX46k"
+      },
+      "artists": [
+        {
+          "name": "sodagreen",
+          "url": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "\u5922",
+      "url": "https://open.spotify.com/track/7L8iXPtQCb7ELLff9Az4bY"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "\u80ed\u8102\u6263 (\u97f3\u6a02\u5287\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/51o5zrvxRS4aA9MttqkGaJ"
+      },
+      "artists": [
+        {
+          "name": "Jam Hsiao",
+          "url": "https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q"
+        }
+      ],
+      "duration_ms": 222271,
+      "name": "\u80ed\u8102\u6263 (\u97f3\u6a02\u5287\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/20LxgHYtaAeiByIjAbHmEt"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -743,6 +795,38 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 123281,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG"
+    },
+    {
+      "added_at": "2024-06-28 03:54:08",
+      "album": {
+        "name": "Raindrops in Jakarta",
+        "url": "https://open.spotify.com/album/1zE1TXWe51HLuO3Mn2jvv4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "duration_ms": 187419,
+      "name": "Raindrops in Jakarta",
+      "url": "https://open.spotify.com/track/2544qpel5ouiBQD5Fqnhd2"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
         "name": "Hotel Party",
         "url": "https://open.spotify.com/album/2BjYJfqsudUKkOw4NDtAfd"
       },
@@ -819,6 +903,22 @@
       "duration_ms": 127022,
       "name": "911",
       "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -1571,6 +1671,26 @@
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "Morocco",
+        "url": "https://open.spotify.com/album/0hmAegidFYSocN8WI1iC82"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ojha",
+          "url": "https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT"
+        },
+        {
+          "name": "Kalou",
+          "url": "https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Morocco",
+      "url": "https://open.spotify.com/track/3NqwEn0Kz8f61OcjO2tVNz"
     },
     {
       "added_at": "2024-06-27 16:00:00",

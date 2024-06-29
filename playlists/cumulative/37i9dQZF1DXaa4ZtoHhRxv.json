@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Comeback Kid",
+        "url": "https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT"
+      },
+      "artists": [
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207316,
+      "name": "Comeback Kid",
+      "url": "https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7"
+    },
+    {
+      "album": {
         "name": "Cool Again (feat. Nelly)",
         "url": "https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is Motörhead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG)
 
-> This is Motörhead\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Motörhead\. Los temas esenciales, todos en una lista.
 
 114 songs - 6 hr 49 min
 

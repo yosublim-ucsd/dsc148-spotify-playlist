@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-345 songs - 17 hr 22 min
+346 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [B.I.Y.L.C](https://open.spotify.com/track/6xGIQ8VQfH0la3Y3Vq4IBM) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [B.I.Y.L.C](https://open.spotify.com/album/3EJE4xPtidCgKjrJmVwIwO) | 1:36 | 2024-06-14 | 2024-06-28 |
 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 | 2023-03-03 | 2023-03-21 |
 | [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-05-31 | 2024-06-25 |
+| [Before I Die](https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T) | 2:53 | 2024-06-27 |  |
 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 | 2024-06-27 |  |
 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 | 2024-06-27 |  |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-23 | 2024-06-01 |
@@ -294,7 +295,7 @@
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-04-21 | 2023-12-11 |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 | 2023-11-13 |  |
 | [Stormy Weather](https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Stormy Weather](https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D) | 2:33 | 2024-05-31 |  |
-| [SWALLOW](https://open.spotify.com/track/2OrhUx4vQuLn40TKeCdCkC) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Liily](https://open.spotify.com/album/4WO7oxivDXL5d7JE7hO0t4) | 3:55 | 2024-06-14 |  |
+| [SWALLOW](https://open.spotify.com/track/2OrhUx4vQuLn40TKeCdCkC) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Liily](https://open.spotify.com/album/4WO7oxivDXL5d7JE7hO0t4) | 3:55 | 2024-06-14 | 2024-06-29 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-12-02 | 2023-11-18 |
 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 | 2024-01-19 |  |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-12-02 | 2023-11-18 |

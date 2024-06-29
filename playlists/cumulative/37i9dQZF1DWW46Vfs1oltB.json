@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83333,
+      "name": "+82",
+      "url": "https://open.spotify.com/track/4SUTbEZVSevp34tPxmbzoW"
+    },
+    {
+      "album": {
         "name": "HYPNOSIS THERAPY",
         "url": "https://open.spotify.com/album/7iHbidfgSyFUACwHgzMqoN"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 368333,
       "name": "A Ground Header MEGA Mix (feat. \uae40\ubaa8\uc774, \uc2a4\uce74\uc774\ubbfc\ud601, SINCE, \ud1a0\uc774\uace0, Street Baby, \ud0a4\uce20\uc694\uc9c0, K$AP RAMA, Poison Mushroom, \uc624\ub2f4\ub960, CHERRY BOY 17, \ub178\uc724\ud558, \uadf8\ub0e5\ub178\ucc3d)",
       "url": "https://open.spotify.com/track/1gfm1c48UetQVzH6jaHWnl"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 173413,
       "name": "a Kind Women (Feat. Shyboiitobii, Street Baby)",
       "url": "https://open.spotify.com/track/5t0v5p7fjB3kALwBGL9LIn"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 150191,
       "name": "Another One (feat. The Quiett & BRADYSTREET)",
       "url": "https://open.spotify.com/track/6MLqJL9Rp0rhTt7ELiprJ8"
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 202586,
       "name": "BAD (feat. YOUHA)",
       "url": "https://open.spotify.com/track/7ph9Xo8TV9VFefeoJYdPt6"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 163639,
       "name": "Beautiful (feat. B.I)",
       "url": "https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx"
@@ -5090,7 +5108,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 158282,
       "name": "COLD AVE.",
       "url": "https://open.spotify.com/track/6Q7HKTGjFMrDCucN86eu2O"
@@ -7156,7 +7174,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -8524,7 +8542,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 217346,
       "name": "FWB",
       "url": "https://open.spotify.com/track/5qqWmtBkXylOHp8aUWsTuA"
@@ -8616,7 +8634,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 196906,
       "name": "Ganadara",
       "url": "https://open.spotify.com/track/0GMDjxPXguv0zKISWTDhhF"
@@ -9092,6 +9110,28 @@
       "duration_ms": 205827,
       "name": "Glow (feat. Royal 44)",
       "url": "https://open.spotify.com/track/3eO9L6VaAiXmX1s59uD3b1"
+    },
+    {
+      "album": {
+        "name": "SKANDALOUZ 2",
+        "url": "https://open.spotify.com/album/0Zcd58EPivpLZZPR38UTnN"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212993,
+      "name": "Go (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/10vaWkTHEGPfSkiH9Z7Ndk"
     },
     {
       "album": {
@@ -10312,7 +10352,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 183866,
       "name": "harmless (Feat. CHANMINA)",
       "url": "https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa"
@@ -10480,7 +10520,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 138106,
       "name": "HELIOT EMIL",
       "url": "https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf"
@@ -11714,7 +11754,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 183149,
       "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
@@ -11876,7 +11916,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 163598,
       "name": "i wonder... (with Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"
@@ -16974,7 +17014,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180847,
       "name": "My Team",
       "url": "https://open.spotify.com/track/4hLw79WIR2YgBr3w6SrMWt"
@@ -17918,7 +17958,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168280,
       "name": "NOSAE NOSAE",
       "url": "https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv"
@@ -18368,7 +18408,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
@@ -19528,7 +19568,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 213173,
       "name": "PORN FLICK (Feat. YANGHONGWON, Street Baby) (Prod. Matt)",
       "url": "https://open.spotify.com/track/2Qvr1LlQyKexI7eCUm1l6x"
@@ -19994,7 +20034,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 183500,
       "name": "PURE RAGE (Feat. Street Baby, KOR KASH)",
       "url": "https://open.spotify.com/track/2eBaP0SbVtKAnXvJ56OLZT"
@@ -22230,7 +22270,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186360,
       "name": "Sicko (Feat. lobonabeat!)",
       "url": "https://open.spotify.com/track/4Gd8naJXmwUaSIAYIClxgh"
@@ -23836,7 +23876,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 174084,
       "name": "Survive (feat. B-Free)",
       "url": "https://open.spotify.com/track/4JGLZmemPNRa3O8EHgupZ4"
@@ -24746,7 +24786,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 228460,
       "name": "The Notorious (feat. BOBBY & DAMINI)",
       "url": "https://open.spotify.com/track/31uX7zezKOuaxhgr8mUFMB"
@@ -25392,7 +25432,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 140346,
       "name": "Touch (Feat. TRADE L, The Quiett)",
       "url": "https://open.spotify.com/track/0cdUX9QuaOcbXYTEfnFS7o"
@@ -25418,7 +25458,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167124,
       "name": "Trading Places (Feat. DeVita, Jay Park)",
       "url": "https://open.spotify.com/track/7zrFf4bEHTlmQFbLtvkNsh"
@@ -25444,7 +25484,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 153402,
       "name": "Trap Talk",
       "url": "https://open.spotify.com/track/4D6ouoAWdowHMBWkRF1yZR"
@@ -26414,7 +26454,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 90857,
       "name": "W GANG UP (SAIKOU!)",
       "url": "https://open.spotify.com/track/6qEpXArD0cBKkaB42NdZht"
@@ -28031,6 +28071,24 @@
     },
     {
       "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132586,
+      "name": "YAH-HO (BADTITUDE)",
+      "url": "https://open.spotify.com/track/7MGHY91IHRqbhm6w4tPhYp"
+    },
+    {
+      "album": {
         "name": "TokkinnyBrown1.5",
         "url": "https://open.spotify.com/album/5bOKueM07L06faNzgjL3U5"
       },
@@ -28846,7 +28904,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167626,
       "name": "\uc138\uc0c1 \ub530\uc704 F****** World (Feat. BewhY)",
       "url": "https://open.spotify.com/track/39MGKenCfPdkFkEfa2PYyX"
@@ -29026,7 +29084,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 196920,
       "name": "\uc870\uae08 \ub3cc\uc544\uc654\uc5b4 (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/5kMDKlRMO3MNeCKt73Ab7i"
@@ -29048,7 +29106,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176000,
       "name": "\ud0e0\uac00 \uac16\uace0\uc640 (feat. oceanfromtheblue)",
       "url": "https://open.spotify.com/track/3RWLbUduD28wKUNHIFgzXL"

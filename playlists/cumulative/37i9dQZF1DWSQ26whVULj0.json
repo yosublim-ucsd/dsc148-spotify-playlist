@@ -3313,32 +3313,6 @@
     },
     {
       "album": {
-        "name": "Mendelssohn: Symphony No. 3 \"Scottish\", The Hebrides Overture - Schumann: Piano Concerto",
-        "url": "https://open.spotify.com/album/6AyGV6qLDJPxqLHw2YdzyQ"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "date_added": "2022-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 578658,
-      "name": "Symphony No. 3 in A Minor, Op. 56 \"Scottish\": IV. Allegro vivacissimo - Allegro maestoso assai",
-      "url": "https://open.spotify.com/track/6zmy3Fp7dsf5rqiwoI1eLX"
-    },
-    {
-      "album": {
         "name": "Mendelssohn: Symphonies Nos.3 \"Scottish\" & 4 \"Italian\"; Overture \"The Hebrides\"",
         "url": "https://open.spotify.com/album/2RbxpBeZhwVKKuEe3yu9Ep"
       },
@@ -3360,7 +3334,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267000,
-      "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 - \"Scottish\": II. Vivace non troppo",
+      "name": "Symphony No. 3 in A Minor, Op. 56 \"Scottish\": II. Vivace non troppo",
       "url": "https://open.spotify.com/track/3INC3QcEPDbqcHO0RCvpuY"
     },
     {
@@ -3386,8 +3360,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 706840,
-      "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 - \"Scottish\": III. Adagio",
+      "name": "Symphony No. 3 in A Minor, Op. 56 \"Scottish\": III. Adagio",
       "url": "https://open.spotify.com/track/4AUumNmvLIEo5aOeq83lJF"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Symphony No. 3 \"Scottish\", The Hebrides Overture - Schumann: Piano Concerto",
+        "url": "https://open.spotify.com/album/6AyGV6qLDJPxqLHw2YdzyQ"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578658,
+      "name": "Symphony No. 3 in A Minor, Op. 56 \"Scottish\": IV. Allegro vivacissimo - Allegro maestoso assai",
+      "url": "https://open.spotify.com/track/6zmy3Fp7dsf5rqiwoI1eLX"
     },
     {
       "album": {

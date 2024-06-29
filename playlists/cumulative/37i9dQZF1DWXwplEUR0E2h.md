@@ -2,7 +2,7 @@
 
 ### [Reggaetón Colombia](https://open.spotify.com/playlist/37i9dQZF1DWXwplEUR0E2h)
 
-> ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Cantante del Ghetto
+> ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Feid
 
 129 songs - 6 hr 36 min
 

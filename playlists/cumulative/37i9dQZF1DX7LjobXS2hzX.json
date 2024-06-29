@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Koriass",
+  "description": "Voici les hits du moment. Photo: Post Malone",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -2440,10 +2440,28 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU"
+    },
+    {
+      "album": {
+        "name": "Ensemble (Radio Edit)",
+        "url": "https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ensemble - Radio Edit",
+      "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
     },
     {
       "album": {

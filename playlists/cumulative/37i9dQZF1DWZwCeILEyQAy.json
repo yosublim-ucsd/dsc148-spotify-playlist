@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199741,
+      "name": "Accent (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
+    },
+    {
+      "album": {
         "name": "Act Bad",
         "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
@@ -820,7 +842,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 173823,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
@@ -1876,7 +1898,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 138048,
       "name": "Borderline (feat. Luclover)",
       "url": "https://open.spotify.com/track/7ktMBGuRKpJLs24WIQwFph"
@@ -2156,6 +2178,28 @@
       "duration_ms": 169000,
       "name": "Call the Valleys (feat. Mally Bo)",
       "url": "https://open.spotify.com/track/38lMmucR23B4JN1nNZ2aqk"
+    },
+    {
+      "album": {
+        "name": "Best Of Both Worlds",
+        "url": "https://open.spotify.com/album/5IQjn7uiZgXKitwi0NBzti"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192251,
+      "name": "Came Out A Beast",
+      "url": "https://open.spotify.com/track/6o4yrCbHJAl0vpH1zi6PFZ"
     },
     {
       "album": {
@@ -3471,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Dauntless Manifesto",
+        "url": "https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117768,
+      "name": "Double Homicide",
+      "url": "https://open.spotify.com/track/6IjRKzkCbbBnM8itEIdw2C"
+    },
+    {
+      "album": {
         "name": "THE LIZ",
         "url": "https://open.spotify.com/album/4qBqFNBcgixIpe1tlvE8ck"
       },
@@ -3902,6 +3964,24 @@
       "duration_ms": 173752,
       "name": "Female Goat",
       "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143783,
+      "name": "Figueroa",
+      "url": "https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E"
     },
     {
       "album": {
@@ -4708,7 +4788,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
@@ -4770,6 +4850,24 @@
       "duration_ms": 303000,
       "name": "Grape Trees (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
+    },
+    {
+      "album": {
+        "name": "Dauntless Manifesto",
+        "url": "https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184728,
+      "name": "Grilling Niggas II",
+      "url": "https://open.spotify.com/track/7cRfy33pKWqxkJdmQmAEJP"
     },
     {
       "album": {
@@ -7081,6 +7179,28 @@
     },
     {
       "album": {
+        "name": "N.P.O. (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3xbnEyhuILNfvxirhwj3LA"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178911,
+      "name": "N.P.O. (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5GYKltEbk7h1DDM8aGloPu"
+    },
+    {
+      "album": {
         "name": "NAME OF LOVE",
         "url": "https://open.spotify.com/album/68ukCT096uuDJqB3Rg68Hf"
       },
@@ -9191,6 +9311,24 @@
     },
     {
       "album": {
+        "name": "Rich Money",
+        "url": "https://open.spotify.com/album/1GN4oZit6ZxggINvixo7pW"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132816,
+      "name": "Rich Money",
+      "url": "https://open.spotify.com/track/6ARCh6JHWUeDBAw5Q1WMYM"
+    },
+    {
+      "album": {
         "name": "Ridgemont Baby",
         "url": "https://open.spotify.com/album/0v8C3sUbtUgFKBBuQc3nBD"
       },
@@ -9372,7 +9510,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 191080,
       "name": "Rug Burn",
       "url": "https://open.spotify.com/track/1TjzdG5MVNo5tUXcSbZ3iX"
@@ -9888,7 +10026,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 146600,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty"
@@ -10820,7 +10958,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 124958,
       "name": "Talk My Shit 4",
       "url": "https://open.spotify.com/track/4LzfF7d5iWgGoBerbwOiXk"
@@ -10900,6 +11038,24 @@
       "duration_ms": 187376,
       "name": "Telfy",
       "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
+    },
+    {
+      "album": {
+        "name": "Freshman Grad.",
+        "url": "https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166685,
+      "name": "Temp Check",
+      "url": "https://open.spotify.com/track/1B6PW4F7coymuBKLutHNPj"
     },
     {
       "album": {
@@ -11412,7 +11568,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 138001,
       "name": "Track & Field (feat. Kaliii)",
       "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
@@ -11838,7 +11994,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 127946,
       "name": "Want Sum",
       "url": "https://open.spotify.com/track/19OABqJi38x5SKEH3hSF1G"

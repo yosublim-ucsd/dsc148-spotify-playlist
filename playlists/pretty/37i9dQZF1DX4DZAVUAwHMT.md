@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Been Stellar
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,643 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,606 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 31 | [Flirting Again](https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Flirting Again](https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS) | 3:02 |
 | 32 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
 | 33 | [HEAT ME UP](https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [HEAT ME UP](https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt) | 3:45 |
-| 34 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 |
+| 34 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Ziey Kizzy](https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 |
 | 35 | [We Need More Bricks](https://open.spotify.com/track/3HT0SJA32BW7c83sxpq3SF) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:48 |
 | 36 | [Queen](https://open.spotify.com/track/3MrNIwLUAY4UDa0KiL9oCy) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Queen](https://open.spotify.com/album/1efwv368ukVrocYfjQRIbF) | 3:20 |
 | 37 | [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 |

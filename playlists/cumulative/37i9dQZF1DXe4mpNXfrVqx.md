@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Maru2D
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mc Morena
 
-191 songs - 8 hr 34 min
+192 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 |  |
 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2024-04-06 |
-| [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 |  |
+| [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 | 2024-06-29 |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
 | [Ginga \- Bem vindo a Party](https://open.spotify.com/track/4dawKCBsHpalmKzB7G1sAq) | [Inza Princess](https://open.spotify.com/artist/7fTIgiXmMVCpCrzdkfmO3D), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Ginga \(Bem vindo a Party\)](https://open.spotify.com/album/0volOaNCpImkXaytDiVTiB) | 2:11 | 2024-05-03 | 2024-06-22 |
 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 | 2023-02-23 |
@@ -107,6 +107,7 @@
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
 | [Linda](https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Linda](https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh) | 2:07 | 2023-08-18 |  |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
+| [Luz da Lua](https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luz da Lua](https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe) | 1:48 | 2024-06-28 |  |
 | [Madonna](https://open.spotify.com/track/7uzPBNHwKHKA690w4W10cN) | [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe) | [Madonna](https://open.spotify.com/album/1Ow2JpwAA6icfnxI0wDyL4) | 2:07 | 2023-06-30 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 | 2024-05-18 |
 | [Magnetizar](https://open.spotify.com/track/5SjQLPj91Gx4ZivRRRZd4L) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnetizar](https://open.spotify.com/album/0nPC657aR6ctyejVjVmsBo) | 3:14 | 2022-08-26 | 2022-09-24 |

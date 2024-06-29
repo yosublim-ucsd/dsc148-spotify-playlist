@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
-  "num_followers": 151561,
+  "num_followers": 151577,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Kindergarten Heart",
-        "url": "https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 177843,
-      "name": "Kindergarten Heart",
-      "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "August (feat. Adam Melchor)",
         "url": "https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 221599,
       "name": "August (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Dust and Magic",
-        "url": "https://open.spotify.com/album/5DoLax81MjuvuOwH6mBrPn"
-      },
-      "artists": [
-        {
-          "name": "Anna Tivel",
-          "url": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs"
-        }
-      ],
-      "duration_ms": 179109,
-      "name": "Dust and Magic",
-      "url": "https://open.spotify.com/track/6hTNf8zgq7BtA9ZNwQFa0i"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Acoustic Guitar Project: Minneapolis 2014",
         "url": "https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 211259,
       "name": "charades",
       "url": "https://open.spotify.com/track/0CfyUqkj68lJXnWBsziP6V"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Dust and Magic",
+        "url": "https://open.spotify.com/album/5DoLax81MjuvuOwH6mBrPn"
+      },
+      "artists": [
+        {
+          "name": "Anna Tivel",
+          "url": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs"
+        }
+      ],
+      "duration_ms": 179109,
+      "name": "Dust and Magic",
+      "url": "https://open.spotify.com/track/6hTNf8zgq7BtA9ZNwQFa0i"
     },
     {
       "added_at": "2024-03-08 05:00:00",

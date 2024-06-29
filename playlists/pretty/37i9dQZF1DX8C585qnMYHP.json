@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Stemlines on cover. Artwork by Thami Nabil",
-  "num_followers": 164525,
+  "num_followers": 164598,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -485,6 +485,26 @@
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "At the Door",
+        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
+      },
+      "artists": [
+        {
+          "name": "ILYICH",
+          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
+        },
+        {
+          "name": "Takuya Nakamura",
+          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
+        }
+      ],
+      "duration_ms": 122762,
+      "name": "At the Door",
+      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Turning Ground",
@@ -515,26 +535,6 @@
       "duration_ms": 198000,
       "name": "Bearded Fireworm",
       "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "At the Door",
-        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
-      },
-      "artists": [
-        {
-          "name": "ILYICH",
-          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
-        },
-        {
-          "name": "Takuya Nakamura",
-          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
-        }
-      ],
-      "duration_ms": 122762,
-      "name": "At the Door",
-      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Slime Patrol 2",
-        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
-      },
-      "artists": [
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "You Know I Got That / Wont Stop Callin",
-      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
-    },
-    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "Alt-Mobeat",
@@ -619,6 +603,22 @@
       "duration_ms": 101931,
       "name": "The Visit",
       "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Slime Patrol 2",
+        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
+      },
+      "artists": [
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "You Know I Got That / Wont Stop Callin",
+      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Figura",
+        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
+      },
+      "artists": [
+        {
+          "name": "CLARAGUILAR",
+          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
+        }
+      ],
+      "duration_ms": 339125,
+      "name": "Ros Elavy",
+      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
+    },
+    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "r e u n i t e d",
@@ -703,22 +719,6 @@
       "duration_ms": 151731,
       "name": "aaaaaaa",
       "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Figura",
-        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
-      },
-      "artists": [
-        {
-          "name": "CLARAGUILAR",
-          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
-        }
-      ],
-      "duration_ms": 339125,
-      "name": "Ros Elavy",
-      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "\u6279 PIE",
-        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
-      },
-      "artists": [
-        {
-          "name": "nnscya",
-          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "pie \u6279",
-      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Un Sasso Nero",
-        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
+        "name": "\u6279 PIE",
+        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
       },
       "artists": [
         {
-          "name": "Porta D'Oro",
-          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+          "name": "nnscya",
+          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
         }
       ],
-      "duration_ms": 341875,
-      "name": "Un Sasso Nero",
-      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
+      "duration_ms": 177249,
+      "name": "pie \u6279",
+      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -963,6 +947,22 @@
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "Un Sasso Nero",
+        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
+      },
+      "artists": [
+        {
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+        }
+      ],
+      "duration_ms": 341875,
+      "name": "Un Sasso Nero",
+      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
     },
     {
       "added_at": "2024-04-24 04:00:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 215717,
-      "name": "Pillow, Mantra and Trance",
-      "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -1107,6 +1091,22 @@
       "duration_ms": 157646,
       "name": "Virtual Forrest",
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 215717,
+      "name": "Pillow, Mantra and Trance",
+      "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "The 39 Steps",
-        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
-      },
-      "artists": [
-        {
-          "name": "Amina Cyu",
-          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
-        }
-      ],
-      "duration_ms": 288509,
-      "name": "Medio Viva",
-      "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
-    },
-    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "Unknown Fate",
@@ -1573,24 +1557,20 @@
       "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "the REAL (HAAi Remix)",
-        "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
+        "name": "The 39 Steps",
+        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "Amina Cyu",
+          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
         }
       ],
-      "duration_ms": 336600,
-      "name": "the REAL - HAAi Remix",
-      "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
+      "duration_ms": 288509,
+      "name": "Medio Viva",
+      "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1611,6 +1591,26 @@
       "duration_ms": 100869,
       "name": "zen jam",
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "the REAL (HAAi Remix)",
+        "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 336600,
+      "name": "the REAL - HAAi Remix",
+      "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
     },
     {
       "added_at": "2024-03-06 06:00:00",

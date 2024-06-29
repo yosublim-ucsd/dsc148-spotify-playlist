@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Gracie Abrams",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Haymaker",
+        "url": "https://open.spotify.com/album/53hM1rBhTGK8uY3jdFZGwp"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170485,
+      "name": "Haymaker",
+      "url": "https://open.spotify.com/track/07qmzofBow9aB4raGOafDz"
+    },
+    {
+      "album": {
         "name": "Headstart",
         "url": "https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2"
       },
@@ -4156,7 +4174,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 217413,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/2bhxAQ0lh38pYYD6xPhkoy"
@@ -4673,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Mountain Mama",
+        "url": "https://open.spotify.com/album/3McAJj03SALW4lwcZCL1vB"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261088,
+      "name": "Mountain Mama",
+      "url": "https://open.spotify.com/track/0b2WuZiNNt7JXKKW3XRIjV"
+    },
+    {
+      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt"
       },
@@ -5137,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
+    },
+    {
+      "album": {
         "name": "pretty lies and time machines",
         "url": "https://open.spotify.com/album/3P7Hup9ohD8gLSN6J2qQPw"
       },
@@ -5520,7 +5574,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
@@ -5632,6 +5686,24 @@
       "duration_ms": 272733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
+    },
+    {
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "album": {
@@ -6321,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/6xN9RBL6ihLkXnfVdhejzX"
+      },
+      "artists": [
+        {
+          "name": "Eli Wilson",
+          "url": "https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/20CsvBiCnAAa6cKmnjCsUN"
+    },
+    {
+      "album": {
         "name": "This Time I See It",
         "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
@@ -6950,6 +7040,28 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "album": {

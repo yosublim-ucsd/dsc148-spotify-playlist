@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/1ZFr2RGKilZvCKtru4Wnqu"
+      },
+      "artists": [
+        {
+          "name": "Juanito",
+          "url": "https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214212,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/5XWWkNZY9VngXjJtfamkcV"
+    },
+    {
+      "album": {
         "name": "Dirty Secret",
         "url": "https://open.spotify.com/album/3wj6rlwOQtvaRdvF60Y12B"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 139888,
       "name": "Dirty Secret",
       "url": "https://open.spotify.com/track/7BnnEny1hfJYK8bkq45R0D"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 210822,
       "name": "Don't Bother Me",
       "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
@@ -1106,6 +1124,24 @@
       "duration_ms": 142080,
       "name": "Don't Wanna Fall In Love - Edit",
       "url": "https://open.spotify.com/track/3Dkv6E0tUrZ6WzIIcYcUd2"
+    },
+    {
+      "album": {
+        "name": "Don't You Feel Me",
+        "url": "https://open.spotify.com/album/3P2NQCLhl5DolsmrdUFx6l"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164505,
+      "name": "Don't You Feel Me - Edit",
+      "url": "https://open.spotify.com/track/3JMeiqYwiqkZaqmyHS9RVr"
     },
     {
       "album": {
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 232520,
       "name": "E-Soul",
       "url": "https://open.spotify.com/track/7HtG4VfVor4wAktzmvRtnW"
@@ -1218,7 +1254,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 184888,
       "name": "El Ritmo Santo - Edit",
       "url": "https://open.spotify.com/track/4wUyc4Mkwu4Eg187V9ozxL"
@@ -1340,7 +1376,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172523,
       "name": "Fourth Dimension",
       "url": "https://open.spotify.com/track/2ojoNqheLtUVW8yTIaxND0"
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 201289,
       "name": "I've Been Everywhere",
       "url": "https://open.spotify.com/track/1loM03xTloJzinbwYlQ1F9"
@@ -2972,7 +3008,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 236190,
       "name": "Love Can Make It Happen - Edit",
       "url": "https://open.spotify.com/track/070waK8aOo6jyxY9JBsuq2"
@@ -3138,6 +3174,24 @@
       "duration_ms": 128024,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "album": {
+        "name": "Mira Que",
+        "url": "https://open.spotify.com/album/5eGqjaslGUjQubjb7GYWxF"
+      },
+      "artists": [
+        {
+          "name": "T-Bor",
+          "url": "https://open.spotify.com/artist/2kb6uzuUTED60r6i1XVn93"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "Mira Que",
+      "url": "https://open.spotify.com/track/3tLhzGcx2z5y8JrAfoDO9J"
     },
     {
       "album": {
@@ -3410,7 +3464,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188307,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3srre2C7GNHuowM46tOe1J"
@@ -3516,6 +3570,24 @@
       "duration_ms": 195960,
       "name": "Paradiso (feat. MC Creed)",
       "url": "https://open.spotify.com/track/1zHExcwySEK75DZhc5j0iB"
+    },
+    {
+      "album": {
+        "name": "Piano At Night",
+        "url": "https://open.spotify.com/album/7x1GR6l2bRLLcJsCjaG4Hv"
+      },
+      "artists": [
+        {
+          "name": "Sweet LA",
+          "url": "https://open.spotify.com/artist/6JRHsD4RG2yWlpCzpB7VEM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Piano At Night - Edit",
+      "url": "https://open.spotify.com/track/0wavSL4eyI8tUSHtzF6xnJ"
     },
     {
       "album": {
@@ -3775,6 +3847,28 @@
     },
     {
       "album": {
+        "name": "Ride Like The Wind (Final Ride ReSpray)",
+        "url": "https://open.spotify.com/album/0rfDHhZDGA27Qpz31tcE64"
+      },
+      "artists": [
+        {
+          "name": "Joe Ventura",
+          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
+        },
+        {
+          "name": "Paul Varney",
+          "url": "https://open.spotify.com/artist/37fyTzwEcwygkSUYzPiXcs"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Ride Like The Wind - Edit Vocal ReSpray",
+      "url": "https://open.spotify.com/track/02fPjjBMmzsg43bw8iLKnQ"
+    },
+    {
+      "album": {
         "name": "Ride On Time",
         "url": "https://open.spotify.com/album/1RHP9bd0aTz8ifGKNPXxVB"
       },
@@ -3838,6 +3932,36 @@
       "duration_ms": 308571,
       "name": "Rising - Joe Smooth Remix",
       "url": "https://open.spotify.com/track/6tVcEmZ6XRHeKxwEUxUJCd"
+    },
+    {
+      "album": {
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/6PPmtoZZBKpMmelBNFQhlX"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lara Klart",
+          "url": "https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2"
+        },
+        {
+          "name": "Alexander Technique",
+          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
+        },
+        {
+          "name": "Nicole Rubira",
+          "url": "https://open.spotify.com/artist/2j2vi1lCxpfevNeEf1tFAh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Rock Your Body - Edit",
+      "url": "https://open.spotify.com/track/7cgub1sDMlNJjUIusoJfcc"
     },
     {
       "album": {
@@ -4787,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Tromba",
+        "url": "https://open.spotify.com/album/63EPAaHkqPy6jjo8SbuoL6"
+      },
+      "artists": [
+        {
+          "name": "Mattei & Omich",
+          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tromba",
+      "url": "https://open.spotify.com/track/2aqVUBwsYu9dmqKNTSOP1o"
+    },
+    {
+      "album": {
         "name": "Ubana",
         "url": "https://open.spotify.com/album/1iHQGJ61DUSU57WnrTqiOV"
       },
@@ -4949,6 +5091,28 @@
     },
     {
       "album": {
+        "name": "We Groovin (with Jazzy)",
+        "url": "https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "We Groovin (with Jazzy)",
+      "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
+    },
+    {
+      "album": {
         "name": "We Kept Dancing",
         "url": "https://open.spotify.com/album/0fRkPkffppY6DxRBEh6txA"
       },
@@ -4972,6 +5136,24 @@
       "duration_ms": 155541,
       "name": "We Kept Dancing",
       "url": "https://open.spotify.com/track/6LQK9OcjeVgTjN8iLKPVhf"
+    },
+    {
+      "album": {
+        "name": "We Need To Be Free",
+        "url": "https://open.spotify.com/album/4RWp9265HLQmAUFzEkAYDB"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "We Need To Be Free - Edit",
+      "url": "https://open.spotify.com/track/4e1Qa4Zqio1GPhwLnwYqW9"
     },
     {
       "album": {
@@ -5074,6 +5256,24 @@
       "duration_ms": 180585,
       "name": "Where's Your Head At - Martin Ikin Remix - Edit",
       "url": "https://open.spotify.com/track/0EUgguVSAZFdHY8RSVCBUJ"
+    },
+    {
+      "album": {
+        "name": "Ubah / Who Am I",
+        "url": "https://open.spotify.com/album/0uYOX7Nt3h1tMGo2IfDkWR"
+      },
+      "artists": [
+        {
+          "name": "Si Slay",
+          "url": "https://open.spotify.com/artist/4lmq0I2F2wBbIl0MFkncQ8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191102,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/2lt6vbJMtuuPNIU8UWNA2d"
     },
     {
       "album": {

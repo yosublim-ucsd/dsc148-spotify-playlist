@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 34 min 41 sec
+[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 31 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voice Machine](https://open.spotify.com/track/3qGegN5LcHC2gYV6IsDusb) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Voice Machine](https://open.spotify.com/album/74sGDyM908xhzHMkfnyr7S) | 4:05 |
-| 2 | [All The Way](https://open.spotify.com/track/6kjP9hwgKBzKo0psteGFDY) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [All The Way](https://open.spotify.com/album/2yL0wl9CvwWNIpIFBSUcP1) | 4:03 |
-| 3 | [Don't Watch Her](https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:19 |
-| 4 | [Don't Sweat It](https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Don't Sweat It](https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF) | 2:56 |
-| 5 | [暗花](https://open.spotify.com/track/52kv9hsW6DLvoL1Ae0UrnH) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g), [Hugo](https://open.spotify.com/artist/3IMSkE3ztjCySBCGRTyh47) | [暗花](https://open.spotify.com/album/52GNNEKQppvR22nVaZ3fTI) | 3:54 |
-| 6 | [Delusion](https://open.spotify.com/track/4ZgMrN8p7ilyVQXwVb3hxz) | [Freyer](https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4), [CYMN](https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO) | [Delusion](https://open.spotify.com/album/024B7xm7NNf5xAQKYtTBO3) | 2:39 |
-| 7 | [Come Thru \- Qlank Remix](https://open.spotify.com/track/00uNDlNkpDkZP0CsJtD0qD) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Night Bass Remixed Vol\. 3](https://open.spotify.com/album/1Cdc4VQAG1CZ454qaV5Aco) | 4:38 |
-| 8 | [When I'm in It](https://open.spotify.com/track/4qEgpcBgO4bit8EQIJkjr5) | [Birthdayy Partyy](https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp) | [When I'm in It](https://open.spotify.com/album/7a9A18elWcSzhDqAgZ6N5r) | 2:53 |
-| 9 | [2AM](https://open.spotify.com/track/1mTibrsVeunMhiq1ADqzhY) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [2AM](https://open.spotify.com/album/22gPZACM941jJGpd6vU4ZX) | 3:08 |
-| 10 | [Watch The Skank](https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Watch The Skank](https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ) | 3:01 |
+| 1 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 |
+| 2 | [More Acid](https://open.spotify.com/track/76mLFEljVN42gbLT8Q7bBC) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [More Acid](https://open.spotify.com/album/48691K1R4tQkTXvTXiVQ8H) | 3:10 |
+| 3 | [Thousand Sides](https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thousand Sides](https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8) | 3:11 |
+| 4 | [Sweet 'n' Sour \- Phlegmatic Dogs Remix](https://open.spotify.com/track/2kzubU6PYcJU5z9SG9xaRL) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Night Bass Remixed Vol\. 3](https://open.spotify.com/album/1Cdc4VQAG1CZ454qaV5Aco) | 2:39 |
+| 5 | [In My Mind](https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [In My Mind](https://open.spotify.com/album/2x9bI7VokJQczjqMvUSmrH) | 3:13 |
+| 6 | [BAD](https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [BAD](https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN) | 2:53 |
+| 7 | [The Mindshaker](https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [The Mindshaker](https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt) | 2:58 |
+| 8 | [Get Ruff](https://open.spotify.com/track/4kNUICMwCz6XOuZFVNQsNi) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Get Ruff](https://open.spotify.com/album/4gzrUX9EJ01Uy1uEco69tu) | 3:14 |
+| 9 | [Funk Master](https://open.spotify.com/track/76fbYUUA82dEq3N4t75KZT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Funk Master](https://open.spotify.com/album/2vyf5LRhUAdQLPMonaRDeO) | 3:42 |
+| 10 | [Solarpunk](https://open.spotify.com/track/5lcDRYPsytC3ZReAdRXSMN) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [I Contain Flashing Images](https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER) | 3:59 |
 
-Snapshot ID: `AAADBvDDZtosgrOVMlKNGakx9GgxNoeM`
+Snapshot ID: `AAADF55AXrnOjeZbiFy3Lbc/tocTwXU/`

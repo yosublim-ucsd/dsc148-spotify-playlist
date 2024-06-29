@@ -4,7 +4,7 @@
 
 > He's back by popular demand...Listen to the music from Beverly Hills Cop ahead of Beverly Hills Cop: Axel F, coming soon to Netflix.
 
-23 songs - 1 hr 31 min
+24 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Come See About Me \- Single Version / Mono](https://open.spotify.com/track/5DomvLjOAWkPbJ5Kff2BFf) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Beverly Hills Cop III \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aTdthxlvQO8SjFTN0AWE4) | 2:37 | 2024-05-23 |  |
 | [Cross My Broken Heart](https://open.spotify.com/track/61Ss9YGGQ9yLcsK9tESN9H) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:11 | 2024-05-23 |  |
 | [Do You Really \(Want My Love\)](https://open.spotify.com/track/3DqKxDLPcmbTdYv4TLC1Vo) | [Junior](https://open.spotify.com/artist/5g3B6vce2x5AGRetu3ViYv) | [The Best of Junior \- Mama Used to Say](https://open.spotify.com/album/5j1OAW5C9jqOls60eTaH2s) | 4:00 | 2024-05-23 |  |
+| [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-06-28 |  |
 | [Hold On](https://open.spotify.com/track/7bPC3vnEJRzg9qPWzvAoiB) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 3:45 | 2024-05-23 |  |
 | [I Can't Stand It](https://open.spotify.com/track/3OCLWJ68wgUqfFhE0zjmYx) | [SueAnn](https://open.spotify.com/artist/6KJPdS5mWUiZLZ2uH09rE6) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:03 | 2024-05-23 |  |
 | [I Want Your Sex, Pt\. 2](https://open.spotify.com/track/63yvbYvoyEWCHlzK26wsPi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:36 | 2024-05-23 |  |

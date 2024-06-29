@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 381787,
+  "num_followers": 381909,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Hey Ya",
         "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 134749,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Animal (with Jason Derulo) [R3HAB VIP Remix]",
-        "url": "https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Animal (R3HAB VIP Remix)",
-      "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Jump Dance Move Bounce",
         "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 149610,
       "name": "Jump Dance Move Bounce",
       "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Animal (with Jason Derulo) [R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Animal (R3HAB VIP Remix)",
+      "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "LA DI DA",
-        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "DJane HouseKat",
-          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "LA DI DA",
-      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Fire To The Rain",
         "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "LA DI DA",
+        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        }
+      ],
+      "duration_ms": 179824,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        },
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "Hedara",
-          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
-        }
-      ],
-      "duration_ms": 121384,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Hedara",
+          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
+        }
+      ],
+      "duration_ms": 121384,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 165049,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Jump Jump Jump",
         "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 193629,
       "name": "Heaven - Million Miles Rework",
       "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "MIRAGE",
-        "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 165049,
-      "name": "MIRAGE",
-      "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1787,26 +1787,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
       "artists": [
         {
-          "name": "Hard Lights",
-          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
         },
         {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "Serzo",
-          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
         }
       ],
-      "duration_ms": 130700,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1831,22 +1827,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
       },
       "artists": [
         {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
         },
         {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
         }
       ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+      "duration_ms": 130700,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
     },
     {
       "added_at": "2024-06-20 22:00:00",

@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Prayer (Live)",
+        "url": "https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4"
+      },
+      "artists": [
+        {
+          "name": "Minstrel K.I",
+          "url": "https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559994,
+      "name": "Prayer - Live",
+      "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
+    },
+    {
+      "album": {
         "name": "Reign Lord (Sovereign) [Live]",
         "url": "https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT"
       },

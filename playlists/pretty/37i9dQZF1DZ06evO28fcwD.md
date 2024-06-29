@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
+> This is Ladysmith Black Mambazo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,847 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,850 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Wenza Ngani](https://open.spotify.com/track/0EWp8ieJlF6IJeiCUxy1aa) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7) | 4:34 |
 | 50 | [Steel Storm \- Musumeci Remix](https://open.spotify.com/track/3uVRUivtrpzSVaf2lx2IeR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Africanism](https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Steel Storm Remixes](https://open.spotify.com/album/0ZvVk2HHDVCWYiQIXoQjnc) | 5:41 |
 
-Snapshot ID: `ZntaAAAAAACLY3R4VxAqzDoJzUYpqNA/`
+Snapshot ID: `ZntaAAAAAAAVXvO4irkzUlM+DA5JwyyS`

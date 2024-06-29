@@ -1,6 +1,6 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:  Spotlite Nation",
-  "num_followers": 23084,
+  "num_followers": 23206,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,26 @@
       "duration_ms": 502459,
       "name": "You Are You",
       "url": "https://open.spotify.com/track/1iJsO3mQPWrWIpBJpos9FQ"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Prayer (Live)",
+        "url": "https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4"
+      },
+      "artists": [
+        {
+          "name": "Minstrel K.I",
+          "url": "https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 559994,
+      "name": "Prayer - Live",
+      "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1165,6 +1185,42 @@
       "url": "https://open.spotify.com/track/2SXcaWpbiNSdZrd4j3SyMm"
     },
     {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1rpYCf8XiiU5cEeRf9TwoZ"
+      },
+      "artists": [
+        {
+          "name": "meak\u00e9n",
+          "url": "https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY"
+        },
+        {
+          "name": "Tee Tings",
+          "url": "https://open.spotify.com/artist/3AJQ7nRJ20OKO8glsiw2Q4"
+        }
+      ],
+      "duration_ms": 148662,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/77GQu7p7eINm6pZ9PGqVJn"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/3WBY5aUXHTHfNE8yRriGWH"
+      },
+      "artists": [
+        {
+          "name": "Obby Judah",
+          "url": "https://open.spotify.com/artist/3dGdwJNjUkGQmkUIXHbRFo"
+        }
+      ],
+      "duration_ms": 175716,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/7HiAyOibmal9hNoLHYnEEg"
+    },
+    {
       "added_at": "2024-06-24 17:04:30",
       "album": {
         "name": "This Is the Day (Halle)",
@@ -1205,6 +1261,26 @@
       "url": "https://open.spotify.com/track/13Zy5nezQL3TQUyv2FPFGT"
     },
     {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Riding",
+        "url": "https://open.spotify.com/album/3JjBBCkb3bxnUKcp8GxtlD"
+      },
+      "artists": [
+        {
+          "name": "Megan Tossi",
+          "url": "https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc"
+        },
+        {
+          "name": "De La Cruz",
+          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/6Rst46PdVcm3RLZApWwKoV"
+    },
+    {
       "added_at": "2024-06-21 00:01:00",
       "album": {
         "name": "Wapi",
@@ -1216,7 +1292,7 @@
           "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 217613,
+      "duration_ms": 214265,
       "name": "Wapi",
       "url": "https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH"
     },

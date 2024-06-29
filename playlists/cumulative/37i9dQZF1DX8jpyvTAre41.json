@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Fontaines D.C.",
+  "description": "The best rock songs of the moment. Cover: Bleeker",
   "name": "Rock Now",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 219642,
       "name": "1998",
       "url": "https://open.spotify.com/track/7GOVDt4GGRkwLKPQMQYLlM"
@@ -548,6 +548,24 @@
       "duration_ms": 240389,
       "name": "After This",
       "url": "https://open.spotify.com/track/3Kd0urrDZd1gU3SrPiUkH9"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
       "album": {
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Bad at Being Casual",
+        "url": "https://open.spotify.com/album/6YrwAz3d8IkFoeo4QIFV0s"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164933,
+      "name": "Bad at Being Casual",
+      "url": "https://open.spotify.com/track/0z48qA5yNvVCjcNKQAAkWg"
+    },
+    {
+      "album": {
         "name": "bad idea right?",
         "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
       },
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 156789,
       "name": "Bad Side",
       "url": "https://open.spotify.com/track/5sP3cH0Gw02dt9mBT5n9Xz"
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 234563,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
@@ -3289,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "American Hero",
+        "url": "https://open.spotify.com/album/21HMENCxfw31djGv60lk88"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "Deep Cut",
+      "url": "https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI"
+    },
+    {
+      "album": {
         "name": "Deliver Me",
         "url": "https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN"
       },
@@ -3592,7 +3646,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 149283,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/0J7e0pk8MIXmIQ88JfZDMf"
@@ -6391,6 +6445,24 @@
     },
     {
       "album": {
+        "name": "I Got Cracked",
+        "url": "https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219896,
+      "name": "I Got Cracked",
+      "url": "https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm"
+    },
+    {
+      "album": {
         "name": "I Hate Everybody (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/0aL4qAIykP8kbzDzAaX1TA"
       },
@@ -8372,7 +8444,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
@@ -8694,6 +8766,24 @@
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1xXeuTUxxquUoRIMTgBeJi"
+    },
+    {
+      "album": {
+        "name": "Messed Up",
+        "url": "https://open.spotify.com/album/4RLoH4gvN6km4MNknvUtFb"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210092,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/5PlL00QzLWkbLvGh9QS78C"
     },
     {
       "album": {
@@ -10182,7 +10272,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197160,
       "name": "Other Side (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
@@ -10302,6 +10392,24 @@
       "duration_ms": 210939,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/1sUNporSfAID4Cwz413eLj"
+    },
+    {
+      "album": {
+        "name": "Outta My Head",
+        "url": "https://open.spotify.com/album/3KIcGRLylPWgD0GF762Eln"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Outta My Head",
+      "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
     },
     {
       "album": {
@@ -11041,6 +11149,24 @@
     },
     {
       "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/5hulIgH02bxd4lwLlfJxjV"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/0VBOK5Ef8NPnJaWZlSCPfF"
+    },
+    {
+      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -11626,7 +11752,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188680,
       "name": "run!",
       "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
@@ -12503,6 +12629,28 @@
     },
     {
       "album": {
+        "name": "Soldier In The Army of Love",
+        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178490,
+      "name": "Soldier In The Army of Love",
+      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+    },
+    {
+      "album": {
         "name": "Somebody That I Used to Know",
         "url": "https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO"
       },
@@ -12712,7 +12860,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 178546,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
@@ -13012,7 +13160,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 142133,
       "name": "Stupid Heart",
       "url": "https://open.spotify.com/track/64FWcpeHm6BB9oFlacsY3w"
@@ -13344,6 +13492,24 @@
       "duration_ms": 197320,
       "name": "Take Me With You",
       "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
+    },
+    {
+      "album": {
+        "name": "Takes Me Back",
+        "url": "https://open.spotify.com/album/7zkdUduq8wRQwyXusmx8HE"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231729,
+      "name": "Takes Me Back",
+      "url": "https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29"
     },
     {
       "album": {
@@ -15152,6 +15318,24 @@
       "duration_ms": 427456,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV"
+    },
+    {
+      "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
       "album": {

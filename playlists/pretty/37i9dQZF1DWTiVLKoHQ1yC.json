@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 184027,
+  "num_followers": 184097,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Enter",
-        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 240316,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Ice Moon",
         "url": "https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 154153,
       "name": "Ice Moon",
       "url": "https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 240316,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "In The Quiet",
-        "url": "https://open.spotify.com/album/6AJzq43Wwf38iYJ9WnD2BH"
-      },
-      "artists": [
-        {
-          "name": "Able Faces",
-          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
-        },
-        {
-          "name": "MA:RK",
-          "url": "https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF"
-        },
-        {
-          "name": "Montagu",
-          "url": "https://open.spotify.com/artist/6eHaNJTQcHcvkwGTl3V4vb"
-        }
-      ],
-      "duration_ms": 172619,
-      "name": "In The Quiet",
-      "url": "https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Paint My Tomorrow",
         "url": "https://open.spotify.com/album/5A6O6zDkdKNo94ZGErrQlK"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "In The Quiet",
+        "url": "https://open.spotify.com/album/6AJzq43Wwf38iYJ9WnD2BH"
+      },
+      "artists": [
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        {
+          "name": "MA:RK",
+          "url": "https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF"
+        },
+        {
+          "name": "Montagu",
+          "url": "https://open.spotify.com/artist/6eHaNJTQcHcvkwGTl3V4vb"
+        }
+      ],
+      "duration_ms": 172619,
+      "name": "In The Quiet",
+      "url": "https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT"
     },
     {
       "added_at": "2024-06-21 00:01:00",

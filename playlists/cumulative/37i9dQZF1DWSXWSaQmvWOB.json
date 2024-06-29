@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "New soul-infused music every week! Cover: Marc Broussard",
+  "description": "New soul-infused music every week! Cover: Olivia Dean",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 253072,
       "name": "All for You",
       "url": "https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn"
@@ -3559,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268313,
+      "name": "Dimitri",
+      "url": "https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg"
+    },
+    {
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/0hiNbnGbVRaKBWbNvMlrfV"
       },
@@ -3962,6 +3980,24 @@
       "duration_ms": 174706,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3"
+    },
+    {
+      "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
     },
     {
       "album": {
@@ -5620,7 +5656,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 178966,
       "name": "Give Me a Reason",
       "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
@@ -6305,6 +6341,28 @@
     },
     {
       "album": {
+        "name": "Heartache (feat. Mariji)",
+        "url": "https://open.spotify.com/album/3VnScAMCUlxUaoSy1n17Br"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        },
+        {
+          "name": "Mariji",
+          "url": "https://open.spotify.com/artist/4yWy9OzNlfl1Mv8jw7HCXR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/1XwNCjJ6E5SxRf2bI9kWjy"
+    },
+    {
+      "album": {
         "name": "To Dust (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/3JK6SiwgwckfGGFGbJLZSa"
       },
@@ -6700,7 +6758,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 199505,
       "name": "Home",
       "url": "https://open.spotify.com/track/6GNo0HXkZfpzTPe4mIFJdm"
@@ -7940,7 +7998,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 169343,
       "name": "Jay Bird",
       "url": "https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK"
@@ -8218,7 +8276,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 236007,
       "name": "Keep Movin'",
       "url": "https://open.spotify.com/track/00Lh7DFG3ScciWc6GbKDH5"
@@ -11348,7 +11406,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 161428,
       "name": "OMW",
       "url": "https://open.spotify.com/track/3nw5WQ5REgGUWStVIdvvbM"
@@ -13332,7 +13390,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 230365,
       "name": "Same Old Story, Same Old Song",
       "url": "https://open.spotify.com/track/1dNeaQbdnzfMLAW6oe3zlf"
@@ -13608,6 +13666,24 @@
       "duration_ms": 243920,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/2QhNFaJB5OWywH55GG1hNQ"
+    },
+    {
+      "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214321,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
     },
     {
       "album": {
@@ -14114,7 +14190,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 162019,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
@@ -14341,6 +14417,24 @@
     },
     {
       "album": {
+        "name": "Song 2",
+        "url": "https://open.spotify.com/album/0PXMA7mV36pCay4pr8hGBG"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146780,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/0k0neyhJVXUiFBPxwjnhuH"
+    },
+    {
+      "album": {
         "name": "Our Time Our Music",
         "url": "https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi"
       },
@@ -14552,6 +14646,28 @@
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
+    },
+    {
+      "album": {
+        "name": "Starstruck (The Breakglass Series: Part 1)",
+        "url": "https://open.spotify.com/album/0Q0bIepy12XKLUfj5a05XK"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237894,
+      "name": "Starstruck - The Breakglass Version",
+      "url": "https://open.spotify.com/track/6Mb4aH3v0Rvo67OqbzU4zV"
     },
     {
       "album": {
@@ -15190,6 +15306,24 @@
       "duration_ms": 244679,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482"
+    },
+    {
+      "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l"
+      },
+      "artists": [
+        {
+          "name": "Micah Edwards",
+          "url": "https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285405,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk"
     },
     {
       "album": {
@@ -16003,6 +16137,24 @@
     },
     {
       "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/3rYxWi7wVzwBfkQWrr5Mya"
+      },
+      "artists": [
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/4gYB4auWSM4VgzRzP1zv9p"
+    },
+    {
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/2mJeeTdHdYNwyB2xdKT4fj"
       },
@@ -16258,6 +16410,24 @@
       "duration_ms": 191482,
       "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
       "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
     },
     {
       "album": {
@@ -17862,7 +18032,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"

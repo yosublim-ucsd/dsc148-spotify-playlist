@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 63541,
+  "num_followers": 63554,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAADKu+2BM4Xo/zM01kHtIxvZ",
+  "snapshot_id": "Zn41QAAAAAAJ/0MaFJNDP14ktrlRL8dk",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "The Way You Sway",
+        "url": "https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 258258,
+      "name": "The Way You Sway - radio single",
+      "url": "https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 271821,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Road Block",
+        "url": "https://open.spotify.com/album/1CBHUjIsLWB0kpyhpUQ8xr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "duration_ms": 210528,
+      "name": "Road Block",
+      "url": "https://open.spotify.com/track/0HMyfgtGDcCvcXSYmY38CF"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -199,22 +231,6 @@
       "duration_ms": 298000,
       "name": "Embrace (feat. Bill Moio)",
       "url": "https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Love and Rhythm",
-        "url": "https://open.spotify.com/album/7EhoGqBebIngl6i93kWOJl"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 326141,
-      "name": "Irresistible",
-      "url": "https://open.spotify.com/track/2S50AzAPblRT9Q3WsKzrTQ"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1639,34 +1655,6 @@
       "duration_ms": 222760,
       "name": "Hoboken",
       "url": "https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Bleecker Street",
-        "url": "https://open.spotify.com/album/08iaTopFdcF91ZYzdBPYAQ"
-      },
-      "artists": [
-        {
-          "name": "Pete Calandra and Straight Up",
-          "url": "https://open.spotify.com/artist/5ZxriynwDpSZcN1M7zFpam"
-        },
-        {
-          "name": "Tom Barney",
-          "url": "https://open.spotify.com/artist/5XxDVArhoK6MGgXFKelTti"
-        },
-        {
-          "name": "Antonio Hart",
-          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
-        },
-        {
-          "name": "Eric Valentine",
-          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
-        }
-      ],
-      "duration_ms": 255839,
-      "name": "Bleecker Street",
-      "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
     },
     {
       "added_at": "2023-04-14 04:01:00",

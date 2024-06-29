@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:5qhDQveADDnjIZQ85AtgDM">STAR BANDZ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,566 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,679 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 9 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 |
 | 10 | [nights'](https://open.spotify.com/track/7rhawho5h7gRWmldDc2f3t) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [nights'](https://open.spotify.com/album/0zpnyLFcwUu6ziYu2yLGLL) | 2:28 |
 | 11 | [TAKE TIME FOR MYSELF](https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [TAKE TIME FOR MYSELF](https://open.spotify.com/album/0LtjYHJSrg3vnmeEvCWlVV) | 2:28 |
-| 12 | [SPIRIT GUN](https://open.spotify.com/track/7z53VFg0dUJHtMstREapNe) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [SPIRIT GUN](https://open.spotify.com/album/2qjIyCUHv1AaDSWsl9Ik7j) | 2:39 |
-| 13 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
-| 14 | [silent heel](https://open.spotify.com/track/1U3nHpW5WjsBkCkCRG362U) | [MESSIAH!](https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [silent heel](https://open.spotify.com/album/4NdeAAlbR3AOJItt0VP4dv) | 3:55 |
-| 15 | [appetite](https://open.spotify.com/track/0fdHJqg7tEprDJAk32pMow) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [appetite](https://open.spotify.com/album/05CpKNKVTuiPgqnVkpksrw) | 3:08 |
-| 16 | [808's and Weird Shit](https://open.spotify.com/track/3WlvQEWPeIRKvRokAycexP) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [Your Stepdad \[Deluxe\]](https://open.spotify.com/album/6WmxKzDnGUXqtSyJ6iKCUT) | 1:57 |
-| 17 | [Let It Out](https://open.spotify.com/track/0VQ2aPSIMB6t8qS84JYUBE) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:48 |
+| 12 | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/track/0Wrv39ILUw7X6cNB6xFupo) | [DEADonMARRS](https://open.spotify.com/artist/7KqeHFHeQRFLil6s7U63dc), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/album/26JetE1EMkSBOXffLyDejQ) | 3:03 |
+| 13 | [SPIRIT GUN](https://open.spotify.com/track/7z53VFg0dUJHtMstREapNe) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [SPIRIT GUN](https://open.spotify.com/album/2qjIyCUHv1AaDSWsl9Ik7j) | 2:39 |
+| 14 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
+| 15 | [silent heel](https://open.spotify.com/track/1U3nHpW5WjsBkCkCRG362U) | [MESSIAH!](https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [silent heel](https://open.spotify.com/album/4NdeAAlbR3AOJItt0VP4dv) | 3:55 |
+| 16 | [appetite](https://open.spotify.com/track/0fdHJqg7tEprDJAk32pMow) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [appetite](https://open.spotify.com/album/05CpKNKVTuiPgqnVkpksrw) | 3:08 |
+| 17 | [808's and Weird Shit](https://open.spotify.com/track/3WlvQEWPeIRKvRokAycexP) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [Your Stepdad \[Deluxe\]](https://open.spotify.com/album/6WmxKzDnGUXqtSyJ6iKCUT) | 1:57 |
 | 18 | [LIGHTWORK](https://open.spotify.com/track/0WeGjX9lZiabNektDvT6NL) | [HUE SOUND](https://open.spotify.com/artist/3BsGKNayMq7tYR01UU13z6), [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [HUE SOUND, VOL 1: LIGHTWORK](https://open.spotify.com/album/3L8DAQhfqD8B48dOxgVYcz) | 3:10 |
 | 19 | [Make A Play](https://open.spotify.com/track/4nepgSbu8QPoUSlZU4x5Mf) | [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG) | [Make A Play](https://open.spotify.com/album/7o8z0ZVk2NdQ9VM20m0SNr) | 2:48 |
 | 20 | [Sumbodie](https://open.spotify.com/track/4J0t3Cbz7D3uEkSVlqqe3Q) | [Grey Gotti](https://open.spotify.com/artist/66bg2cITpGPlQctWouXVf4) | [Sumbodie](https://open.spotify.com/album/2yzjgXw8tlKfot5jpTFwnr) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [wait a while' \(tenten\)](https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [wait a while' \(tenten\)](https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6) | 2:02 |
 | 75 | [Pursuit](https://open.spotify.com/track/5ClnDTIsRgBs1E8w7ExW6c) | [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [Pursuit](https://open.spotify.com/album/00YDuoqAxSsytLVnXqVZVl) | 2:24 |
 
-Snapshot ID: `Znw7AAAAAACZNyWShOmNbkloH6O0xH8w`
+Snapshot ID: `Zn9AGQAAAACDDsdEGj2zsX9nk0gSe0Wb`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Music from Tiana's Bayou Adventure",
+        "url": "https://open.spotify.com/album/27YuCtLK26MywD6GT2GLEG"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236350,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/5e6j1TOGypJjsN3K0I8Q8u"
+    },
+    {
+      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -832,7 +850,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 276266,
       "name": "My Feet Can't Fail Me Now",
       "url": "https://open.spotify.com/track/65sPImCpuvhK21doidXxS0"

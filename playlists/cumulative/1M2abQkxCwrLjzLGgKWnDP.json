@@ -5820,8 +5820,12 @@
           "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
         },
         {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
         },
         {
           "name": "Orchestra Del Teatro Alla Scala, Milano",
@@ -5839,9 +5843,943 @@
       "date_added": "2013-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175053,
-      "name": "Bellini: I puritani, Act 2 Scene 3: Cabaletta, \"Vien diletto, \u00e8 in ciel la luna\" (Elvira)",
-      "url": "https://open.spotify.com/track/2XakewMKswKdhVAEvGRBI2"
+      "duration_ms": 145200,
+      "name": "Bellini: I puritani, Act 1: \"A festa!\" (Coro)",
+      "url": "https://open.spotify.com/track/7iuWDHggXQkS92tj4rSz59"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389666,
+      "name": "Bellini: I puritani, Act 1: \"A te, o cara, amor talora\" (Arturo, Elvira, Giorgio, Gualtiero, Coro)",
+      "url": "https://open.spotify.com/track/6Ntjg8PqeJCmhgMMxLUTcc"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Bellini: I puritani, Act 1: \"Ad Arturo onore\" (Coro)",
+      "url": "https://open.spotify.com/track/462P01n3f1Busl2lfHMmmw"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai/Orchestra del Teatro alla Scala, Milano/Tullio Serafin",
+          "url": "https://open.spotify.com/artist/6YmYC8UeySZSbjyp1DnJH9"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Bellini: I puritani, Act 1: \"Ah! per sempre io ti perdei\" (Riccardo)",
+      "url": "https://open.spotify.com/track/3CxdMejo9LWOEX1slfLeBD"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Bellini: I puritani, Act 1: \"Ah, vieni al tempio\" - \"Fedele Arturo\" (Elvira, Bruno, Coro, Riccardo, Giorgio)",
+      "url": "https://open.spotify.com/track/2LUoVEHl6UA8sNDLbh5R2D"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269440,
+      "name": "Bellini: I puritani, Act 1: \"All'erte! All'erta!\" (Bruno, Coro)",
+      "url": "https://open.spotify.com/track/0CkZf3b0tlosT1vDFPuka1"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117866,
+      "name": "Bellini: I puritani, Act 1: \"Bel sogno beato\" (Bruno, Riccardo)",
+      "url": "https://open.spotify.com/track/0v013Anh93b5ItfhCB9RSh"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Aurora Cattelani",
+          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262466,
+      "name": "Bellini: I puritani, Act 1: \"Com'io, vi unisca\" (Gualtiero, Enrichetta, Arturo)",
+      "url": "https://open.spotify.com/track/5C1GNOPdL9JyFXmduOg5oS"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Aurora Cattelani",
+          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "Bellini: I puritani, Act 1: \"Ferma. Invan rapir pretendi\" (Riccardo, Arturo, Enrichetta, Elvira, Bruno, Giorgio, Coro)",
+      "url": "https://open.spotify.com/track/0roD17SdHsafhkB5W9xRce"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Aurora Cattelani",
+          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117733,
+      "name": "Bellini: I puritani, Act 1: \"Il rito augusto si compia senza mei!\" (Gualtiero, Enrichetta, Arturo, Giorgio)",
+      "url": "https://open.spotify.com/track/7pUTFMkBoPGNmaPu28Kis1"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121306,
+      "name": "Bellini: I puritani, Act 1: \"Ma tu gi\u00e0 mi fuggi?\" (Elvira, Bruno, Riccardo, Giorgio, Coro)",
+      "url": "https://open.spotify.com/track/5Ct0KJrOmfWZJvEG80tFi3"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140266,
+      "name": "Bellini: I puritani, Act 1: \"O amato zio, o mio secondo padre!\" (Elvira, Giorgio)",
+      "url": "https://open.spotify.com/track/0bpDMLy8yukiqsX2AiwIKL"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "Bellini: I puritani, Act 1: \"O di Cromvel guerrieri\" (Bruno, Elvira, Arturo, Riccardo, Giorgio, Coro)",
+      "url": "https://open.spotify.com/track/3EeizXQAQkBhEV8Olq7OcY"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166973,
+      "name": "Bellini: I puritani, Act 1: \"Odi! Qual suon si desta?\" (Elvira, Giorgio, Coro)",
+      "url": "https://open.spotify.com/track/5g9Wknd8ryLYCpbbmpw56e"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Bellini: I puritani, Act 1: \"Or dove fuggo io mai?\" (Riccardo, Bruno)",
+      "url": "https://open.spotify.com/track/3YQ1LcOgbU9hqbWckgRjz9"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417133,
+      "name": "Bellini: I puritani, Act 1: \"Sai com'arde in petto mio\" (Elvira, Giorgio)",
+      "url": "https://open.spotify.com/track/2LuYePHfprZ0nC3FviQbEd"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Aurora Cattelani",
+          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Bellini: I puritani, Act 1: \"Son vergin vezzosa\" (Elvira, Enrichetta, Arturo, Giorgio, Gualtiero, Coro)",
+      "url": "https://open.spotify.com/track/1IdDP9d5tkqedEmtH1m7EK"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Aurora Cattelani",
+          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42333,
+      "name": "Bellini: I puritani, Act 1: \"Sulla verginea testa\" (Enrichetta, Arturo)",
+      "url": "https://open.spotify.com/track/6HihF1PU2TwSPMkDmi5KJz"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Angelo Mercuriali",
+          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Bellini: I puritani, Act 1: \"\u00c8 gi\u00e0 al ponte\" - \"Passa il forte\" (Riccardo, Elvira, Giorgio, Gualtiero, Coro, Bruno)",
+      "url": "https://open.spotify.com/track/0snEtoUJqwIGRqQYRHJo5h"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333840,
+      "name": "Bellini: I puritani, Act 2: \"Ah! dolor! ah terror\" (Coro)",
+      "url": "https://open.spotify.com/track/5JHxKYM58SQ2OQQwqGOMiY"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Bellini: I puritani, Act 2: \"Cinta di fiori e col ben crin disciolto\" (Giorgio, Coro)",
+      "url": "https://open.spotify.com/track/4aJ9I3PZ1n43sIYuUgJfzN"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285760,
+      "name": "Bellini: I puritani, Act 2: \"Il rival salvar tu d\u00eai\" (Giorgio, Riccardo)",
+      "url": "https://open.spotify.com/track/08oJuipQfFT7yr8vvSTEsq"
     },
     {
       "album": {
@@ -5882,8 +6820,558 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 605933,
-      "name": "Bellini: I puritani, Act 2 Scene 3: Scena ed Aria, \"O rendetemi la speme \u2026 Qui la voce sua soave\" (Elvira, Giorgio, Riccardo)",
+      "name": "Bellini: I puritani, Act 2: \"O rendetemi la speme\" - \"Qui la voce sua soave\" (Elvira, Giorgio, Riccardo)",
       "url": "https://open.spotify.com/track/4Pe8F0z2vGjpq8aTczxbIS"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Bellini: I puritani, Act 2: \"Qual novella?\" (Coro, Giorgio)",
+      "url": "https://open.spotify.com/track/1iLyTjsQ03csWaKwxlo5jK"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128199,
+      "name": "Bellini: I puritani, Act 2: \"Riccardo! Riccardo!\" (Giorgio, Riccardo)",
+      "url": "https://open.spotify.com/track/72RFuCqLNHhIeWUeRTqQr2"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147440,
+      "name": "Bellini: I puritani, Act 2: \"Se tra il buio un fantasma vedrai\" (Giorgio, Riccardo)",
+      "url": "https://open.spotify.com/track/5GPaDKeR9PfAtdPzHomuxA"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Bellini: I puritani, Act 2: \"Suoni la tromba e intrepido\" (Giorgio, Riccardo)",
+      "url": "https://open.spotify.com/track/4cFv6iSef4mGPnrKllPIBg"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Bellini: I puritani, Act 2: \"Vien diletto, \u00e8 in ciel la luna\" (Elvira)",
+      "url": "https://open.spotify.com/track/2XakewMKswKdhVAEvGRBI2"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181560,
+      "name": "Bellini: I puritani, Act 2: \"\u00c8 di morte lo stral non sar\u00e0 lento\" (Riccardo, Coro, Giorgio)",
+      "url": "https://open.spotify.com/track/3FDNR6QEgpXihYJ6JD0p65"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "Bellini: I puritani, Act 3: \"A una fonte afflitto e solo\" (Elvira, Arturo)",
+      "url": "https://open.spotify.com/track/58xNmb6Bw2eSzJv3neV3dR"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71000,
+      "name": "Bellini: I puritani, Act 3: \"Alto l\u00e0! Fedel drappello!\" (Coro, Arturo, Elvira, Riccardo, Giorgio)",
+      "url": "https://open.spotify.com/track/5YVPiBEmztkZSbjscpIizU"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128933,
+      "name": "Bellini: I puritani, Act 3: \"Cavalier, ti colse il Dio\" (Riccardo, Giorgio, Coro, Elvira)",
+      "url": "https://open.spotify.com/track/0aQCAYEzqcrJ1kt50phsvM"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Bellini: I puritani, Act 3: \"Ch'ei prov\u00f2 lontan da me?\" (Elvira, Arturo)",
+      "url": "https://open.spotify.com/track/55pxRnnHR98C9BOcdinLg3"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330826,
+      "name": "Bellini: I puritani, Act 3: \"Credeasi, misera!\" (Arturo, Elvira, Giorgio, Riccardo, Coro)",
+      "url": "https://open.spotify.com/track/4cQXIYGO7Wm58WIH34xN1u"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Bellini: I puritani, Act 3: \"Fin\u00ec! Me lassa!\" (Elvira, Arturo)",
+      "url": "https://open.spotify.com/track/2BpDGKYhPGOokyN7DvjqEs"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Bellini: I puritani, Act 3: \"Qual suon! Alcun s'appressa!\" (Arturo, Coro)",
+      "url": "https://open.spotify.com/track/19MeNFnuyXmKaeu5f2oUYY"
     },
     {
       "album": {
@@ -5912,8 +7400,164 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196440,
-      "name": "Bellini: I Puritani, Act III: \"Son gi\u00e0 lontani\"",
+      "name": "Bellini: I Puritani, Act 3: \"Son gi\u00e0 lontani\" (Arturo)",
       "url": "https://open.spotify.com/track/1D8ne0hIdv6HTMYfypOGlt"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275693,
+      "name": "Bellini: I puritani, Act 3: \"Son salvo. Alfin son tua\" (Arturo)",
+      "url": "https://open.spotify.com/track/30cYefQnzAcecbQp4ONZzr"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Nicola Rossi-Lemeni",
+          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77333,
+      "name": "Bellini: I puritani, Act 3: \"Suon d'araldi?\" (Riccardo, Giorgio, Coro, Elvira, Arturo)",
+      "url": "https://open.spotify.com/track/1xPUcAR9xaWMx57KwPJngL"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "Bellini: I puritani, Act 3: \"Vieni, fra queste braccia\" (Elvira, Arturo)",
+      "url": "https://open.spotify.com/track/2w0NkSynt34jE3umN2rmuA"
+    },
+    {
+      "album": {
+        "name": "I Puritani - Bellini",
+        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala Di Milan",
+          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Bellini: I puritani: Sinfonia",
+      "url": "https://open.spotify.com/track/4HeXqzwGj4BLa3RwBbWAaD"
     },
     {
       "album": {
@@ -13348,1650 +14992,6 @@
       "duration_ms": 274920,
       "name": "I Capuleti e i Montecchi: Eccomi in lieta vesta: Sinfonia - Live At Konzerthaus Wien / 2008",
       "url": "https://open.spotify.com/track/7bGqWDhLcTEnebH28rpyu9"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145200,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena prima: A festa! (Coro)",
-      "url": "https://open.spotify.com/track/7iuWDHggXQkS92tj4rSz59"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 269440,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena prima: All'erte! All'erta! (Bruno/Coro)",
-      "url": "https://open.spotify.com/track/0CkZf3b0tlosT1vDFPuka1"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 117866,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena prima: Bel sogno beato (Bruno/Riccardo)",
-      "url": "https://open.spotify.com/track/0v013Anh93b5ItfhCB9RSh"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209626,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena prima: O di Cromvel guerrieri (Bruno/Elvira/Arturo/Riccardo/Giorgio/Coro)",
-      "url": "https://open.spotify.com/track/3EeizXQAQkBhEV8Olq7OcY"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174400,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena prima: Or dove fuggo io mai? (Riccardo/Bruno)",
-      "url": "https://open.spotify.com/track/3YQ1LcOgbU9hqbWckgRjz9"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140266,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena secondo: O amato zio, o mio secondo padre! (Elvira/Giorgio)",
-      "url": "https://open.spotify.com/track/0bpDMLy8yukiqsX2AiwIKL"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166973,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena secondo: Odi ... Qual suon si desta? (Elvira/Giorgio/Coro)",
-      "url": "https://open.spotify.com/track/5g9Wknd8ryLYCpbbmpw56e"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 417133,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena secondo: Sai com'arde in petto mio ... (Elvira/Giorgio)",
-      "url": "https://open.spotify.com/track/2LuYePHfprZ0nC3FviQbEd"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 389666,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: A te, o cara, amor talora (Arturo/Elvira/Giorgio/Gualtiero/Coro)",
-      "url": "https://open.spotify.com/track/6Ntjg8PqeJCmhgMMxLUTcc"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149333,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Ad Arturo onore (Coro)",
-      "url": "https://open.spotify.com/track/462P01n3f1Busl2lfHMmmw"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 298000,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Ah, vieni al tempio ... fedele Arturo (Elvira/Bruno/Coro/Riccardo/Giorgio)",
-      "url": "https://open.spotify.com/track/2LUoVEHl6UA8sNDLbh5R2D"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Aurora Cattelani",
-          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262466,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Com'io, vi unisca (Gualtiero/Enrichetta/Arturo)",
-      "url": "https://open.spotify.com/track/5C1GNOPdL9JyFXmduOg5oS"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225200,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: E gi\u00e0 al ponte - passa il forte (Riccardo/Elvira/Giorgio/Gualtiero/Coro/Bruno)",
-      "url": "https://open.spotify.com/track/0snEtoUJqwIGRqQYRHJo5h"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Aurora Cattelani",
-          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271893,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Ferma. Invan rapir pretendi ... (Riccardo/Arturo/Enrichetta/Elvira/Bruno/Giorgio/Coro)",
-      "url": "https://open.spotify.com/track/0roD17SdHsafhkB5W9xRce"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Aurora Cattelani",
-          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 117733,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Il rito augusto si compia senza mei! (Gualtiero/Enrichetta/Arturo/Giorgio)",
-      "url": "https://open.spotify.com/track/7pUTFMkBoPGNmaPu28Kis1"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Angelo Mercuriali",
-          "url": "https://open.spotify.com/artist/5JcrSgng3oU1ByXGvbvefg"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 121306,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Ma tu gi\u00e0 mi fuggi? (Elvira/Bruno/Riccardo/Giorgio/Coro)",
-      "url": "https://open.spotify.com/track/5Ct0KJrOmfWZJvEG80tFi3"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Aurora Cattelani",
-          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215133,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Son vergin vezzosa (Elvira/Enrichetta/Arturo/Giorgio/Valton/Coro)",
-      "url": "https://open.spotify.com/track/1IdDP9d5tkqedEmtH1m7EK"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Aurora Cattelani",
-          "url": "https://open.spotify.com/artist/2eBRI0BPJTIYLQkWll2yRz"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 42333,
-      "name": "I Puritani (1997 - Remaster), Act I, Scena terza: Sulla verginea testa (Enrichetta/Arturo)",
-      "url": "https://open.spotify.com/track/6HihF1PU2TwSPMkDmi5KJz"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 333840,
-      "name": "I Puritani (1997 - Remaster), Act II: Ah! dolor! ah terror ... (Coro)",
-      "url": "https://open.spotify.com/track/5JHxKYM58SQ2OQQwqGOMiY"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255333,
-      "name": "I Puritani (1997 - Remaster), Act II: Cinta di fiori e col ben crin disciolto (Giorgio/Coro)",
-      "url": "https://open.spotify.com/track/4aJ9I3PZ1n43sIYuUgJfzN"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181560,
-      "name": "I Puritani (1997 - Remaster), Act II: E di morte lo stral non sar\u00e0 lento (Riccardo/Coro/Giorgio)",
-      "url": "https://open.spotify.com/track/3FDNR6QEgpXihYJ6JD0p65"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285760,
-      "name": "I Puritani (1997 - Remaster), Act II: Il rival salvar tu d\u00eai",
-      "url": "https://open.spotify.com/track/08oJuipQfFT7yr8vvSTEsq"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181400,
-      "name": "I Puritani (1997 - Remaster), Act II: Qual novella? (Coro/Giorgio)",
-      "url": "https://open.spotify.com/track/1iLyTjsQ03csWaKwxlo5jK"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128199,
-      "name": "I Puritani (1997 - Remaster), Act II: Riccardo! Riccardo!",
-      "url": "https://open.spotify.com/track/72RFuCqLNHhIeWUeRTqQr2"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147440,
-      "name": "I Puritani (1997 - Remaster), Act II: Se tra il buio un fantasma vedrai",
-      "url": "https://open.spotify.com/track/5GPaDKeR9PfAtdPzHomuxA"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200666,
-      "name": "I Puritani (1997 - Remaster), Act II: Suoni la tromba e intrepido (Giorgio/Riccardo)",
-      "url": "https://open.spotify.com/track/4cFv6iSef4mGPnrKllPIBg"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152066,
-      "name": "I Puritani (1997 - Remaster), Act III: A una fonte afflitto e solo (Elvira/Arturo)",
-      "url": "https://open.spotify.com/track/58xNmb6Bw2eSzJv3neV3dR"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 71000,
-      "name": "I Puritani (1997 - Remaster), Act III: Alto l\u00e0! Fedel drappello! (Coro/Arturo/Elvira/Riccardo/Giorgio)",
-      "url": "https://open.spotify.com/track/5YVPiBEmztkZSbjscpIizU"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128933,
-      "name": "I Puritani (1997 - Remaster), Act III: Cavalier, ti colse il Dio (Riccardo/Giorgio/Coro/Elvira)",
-      "url": "https://open.spotify.com/track/0aQCAYEzqcrJ1kt50phsvM"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188933,
-      "name": "I Puritani (1997 - Remaster), Act III: Ch'ei prov\u00f2 lontan da me?",
-      "url": "https://open.spotify.com/track/55pxRnnHR98C9BOcdinLg3"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 330826,
-      "name": "I Puritani (1997 - Remaster), Act III: Credeasi, misera (Arturo/Elvira/Giorgio/Riccardo/Coro)",
-      "url": "https://open.spotify.com/track/4cQXIYGO7Wm58WIH34xN1u"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185933,
-      "name": "I Puritani (1997 - Remaster), Act III: Fin\u00ec! Me lassa!",
-      "url": "https://open.spotify.com/track/2BpDGKYhPGOokyN7DvjqEs"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126400,
-      "name": "I Puritani (1997 - Remaster), Act III: Qual suon! Alcun s'appressa! (Arturo/Coro)",
-      "url": "https://open.spotify.com/track/19MeNFnuyXmKaeu5f2oUYY"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275693,
-      "name": "I Puritani (1997 - Remaster), Act III: Son salvo. Alfin son tua (Arturo)",
-      "url": "https://open.spotify.com/track/30cYefQnzAcecbQp4ONZzr"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Nicola Rossi-Lemeni",
-          "url": "https://open.spotify.com/artist/01n5AdvwJa896npTFr6qST"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 77333,
-      "name": "I Puritani (1997 - Remaster), Act III: Suon d'araldi? (Riccardo/Giorgio/Coro/Elvira/Arturo)",
-      "url": "https://open.spotify.com/track/1xPUcAR9xaWMx57KwPJngL"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167640,
-      "name": "I Puritani (1997 - Remaster), Act III: Vieni, fra queste braccia (Elvira/Arturo)",
-      "url": "https://open.spotify.com/track/2w0NkSynt34jE3umN2rmuA"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216866,
-      "name": "I Puritani (1997 - Remaster): Sinfonia",
-      "url": "https://open.spotify.com/track/4HeXqzwGj4BLa3RwBbWAaD"
-    },
-    {
-      "album": {
-        "name": "I Puritani - Bellini",
-        "url": "https://open.spotify.com/album/0YudYr0fGtgOlzdS9hEEaH"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188666,
-      "name": "I Puritani (1997 Digital Remaster), ATTO PRIMO, Scena prima: Ah! per sempre io ti perdei (Riccardo)",
-      "url": "https://open.spotify.com/track/3CxdMejo9LWOEX1slfLeBD"
     },
     {
       "album": {

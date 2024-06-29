@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159679,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv"
+    },
+    {
+      "album": {
         "name": "exes",
         "url": "https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ"
       },

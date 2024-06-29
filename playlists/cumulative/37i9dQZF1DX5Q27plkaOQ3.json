@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: JAWNS",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Flux Pavillion",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -580,6 +580,28 @@
       "duration_ms": 198400,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
+    },
+    {
+      "album": {
+        "name": "Arcane Ooze",
+        "url": "https://open.spotify.com/album/5HaumgNDl9GdaTB91Sokkt"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Arcane Ooze",
+      "url": "https://open.spotify.com/track/2nsC5w9pVl93uG80vanP5j"
     },
     {
       "album": {
@@ -1210,6 +1232,46 @@
       "duration_ms": 178758,
       "name": "BEAMS",
       "url": "https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7muA16eXpzcYfjHCTuaFaw"
+      },
+      "artists": [
+        {
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+        },
+        {
+          "name": "Ruvlo",
+          "url": "https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165734,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6bA3vZ6s1Dw1RcBN75Jnl4"
+    },
+    {
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176145,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
     },
     {
       "album": {
@@ -2138,7 +2200,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165517,
       "name": "CATCH THESE HANDS",
       "url": "https://open.spotify.com/track/4SVFLe9kZqijxgSzQiwVGG"
@@ -2740,6 +2802,24 @@
       "duration_ms": 270400,
       "name": "Crush - VIP",
       "url": "https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ"
+    },
+    {
+      "album": {
+        "name": "Cursed",
+        "url": "https://open.spotify.com/album/2DDSznnygtwqT3OflN49jV"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Cursed",
+      "url": "https://open.spotify.com/track/5PLkFj6WtRI2r3EwGO8OhR"
     },
     {
       "album": {
@@ -3558,6 +3638,24 @@
       "duration_ms": 240000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/5EQAW9nFTO7MQMc0OuEyvz"
+      },
+      "artists": [
+        {
+          "name": "Shlump",
+          "url": "https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5SsQuIEqwXAtPKRGVKzokn"
     },
     {
       "album": {
@@ -5550,7 +5648,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185379,
       "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
       "url": "https://open.spotify.com/track/5kZV6vNbRzNAgRWWP4XKPi"
@@ -5770,7 +5868,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 195428,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
@@ -6268,7 +6366,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 182800,
       "name": "Hypnotic Cycle",
       "url": "https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ"
@@ -7718,7 +7816,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 219720,
       "name": "Mellow Man",
       "url": "https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1"
@@ -9284,7 +9382,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 185600,
       "name": "Play With Fire - MUST DIE! Remix",
       "url": "https://open.spotify.com/track/2M1IYbGBsf4z0aB7KY20C9"
@@ -12086,7 +12184,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "STORM THE CASTLE",
       "url": "https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR"
@@ -12280,6 +12378,24 @@
       "duration_ms": 228576,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ"
+    },
+    {
+      "album": {
+        "name": "SWERVE",
+        "url": "https://open.spotify.com/album/2r82psgqL3AwcqRMuGNOtQ"
+      },
+      "artists": [
+        {
+          "name": "HE$H",
+          "url": "https://open.spotify.com/artist/3gelndylZS1bjQ0c9elb7S"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235594,
+      "name": "SWERVE",
+      "url": "https://open.spotify.com/track/4SSYXnFmIg7zRCfv3LOzEc"
     },
     {
       "album": {
@@ -13164,7 +13280,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 296571,
       "name": "Third Eye Vision",
       "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Maluma y Blessd en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -206,6 +206,24 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+    },
+    {
+      "album": {
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/3b8Uue0xRnfC54LXQ2Lufy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235708,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/4BzVR9CbNofHDPJWGtEzGd"
     },
     {
       "album": {
@@ -2213,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Dreams & Love",
+        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "Dreams & Love",
+      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
+    },
+    {
+      "album": {
         "name": "DRuuuUNK",
         "url": "https://open.spotify.com/album/7poQ6iqwoDmNgXrkWiWDoq"
       },
@@ -3096,7 +3132,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 156800,
       "name": "Hasta Alvarito Llora",
       "url": "https://open.spotify.com/track/2gmHigZQCG4WuHiaHfEkc2"
@@ -3820,7 +3856,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 152044,
       "name": "lento",
       "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
@@ -5748,7 +5784,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 218088,
       "name": "PLO PLO",
       "url": "https://open.spotify.com/track/7or0qmnGnqQR9fdBeTzF9m"
@@ -6246,6 +6282,24 @@
       "duration_ms": 140000,
       "name": "Reflejos",
       "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"
+    },
+    {
+      "album": {
+        "name": "Reloj",
+        "url": "https://open.spotify.com/album/0tuuqFXRtrgaxMiGyeIzSH"
+      },
+      "artists": [
+        {
+          "name": "Bolishe One",
+          "url": "https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209922,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/27K4nb7SxFSXIQQvk4jpz6"
     },
     {
       "album": {
@@ -7017,6 +7071,32 @@
     },
     {
       "album": {
+        "name": "Temblar",
+        "url": "https://open.spotify.com/album/4YmienHtxvBbTPNPL41e9Q"
+      },
+      "artists": [
+        {
+          "name": "Gero Laiker",
+          "url": "https://open.spotify.com/artist/09n9hCHJv6V77TT9oUlKjL"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Vainy",
+          "url": "https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Temblar",
+      "url": "https://open.spotify.com/track/22Uoq050kN1HoQiJa0Jwd7"
+    },
+    {
+      "album": {
         "name": "Ten Cuidao'",
         "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
       },
@@ -7320,7 +7400,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 235328,
       "name": "Tuuu",
       "url": "https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68"

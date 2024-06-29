@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Elena Rose",
-  "num_followers": 115848,
+  "num_followers": 115902,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAADLat7bPMIPJikAohGKNALd",
+  "snapshot_id": "Zn41QAAAAABLgmCGmy9oCBd+sTuj8Mh4",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -49,6 +49,30 @@
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "RBD",
+        "url": "https://open.spotify.com/album/7FKyQVtbPG0PbvRYxJrnVM"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Pinky",
+          "url": "https://open.spotify.com/artist/4ljrPg7NLOtSa2Ev8JpzfT"
+        },
+        {
+          "name": "CRBRO",
+          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "RBD",
+      "url": "https://open.spotify.com/track/0HT9jMfOUxZmLkpFuUdqjc"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "HUMO Y PARTY",
@@ -85,6 +109,26 @@
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Baby Gangster",
+        "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        }
+      ],
+      "duration_ms": 239016,
+      "name": "Baby Gangster",
+      "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "De 0 a 100",
@@ -105,28 +149,36 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Alerta",
-        "url": "https://open.spotify.com/album/2Zq3b8VWpMELoVQKcrxUPw"
+        "name": "Noriega",
+        "url": "https://open.spotify.com/album/2H5akl0GSZm1LpLsCTY9WH"
       },
       "artists": [
         {
-          "name": "Big Yamo",
-          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
         },
         {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+          "name": "El Doble K",
+          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
         },
         {
-          "name": "Jimmy Bad Boy",
-          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+          "name": "Mr. Fox",
+          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "Youbenji",
+          "url": "https://open.spotify.com/artist/42fdxOeeRKuc5UI3zlPrdt"
         }
       ],
-      "duration_ms": 203541,
-      "name": "Alerta",
-      "url": "https://open.spotify.com/track/2avAoEP6lqD0VEPlgd8Hmk"
+      "duration_ms": 268484,
+      "name": "Noriega",
+      "url": "https://open.spotify.com/track/1yFli3tJjSOW0wJFEcY7gu"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -171,6 +223,22 @@
       "duration_ms": 221100,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "TOK TOK",
+        "url": "https://open.spotify.com/album/0QwiUPUE7k38vZ8N2Gn2Hy"
+      },
+      "artists": [
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        }
+      ],
+      "duration_ms": 170233,
+      "name": "TOK TOK",
+      "url": "https://open.spotify.com/track/1hXD71OltX5X1gJh3pCk0d"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -325,26 +393,6 @@
       "url": "https://open.spotify.com/track/3NcVKaoq4vsoGUGiR5Nq2y"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Puto Amo",
-        "url": "https://open.spotify.com/album/30Xzg6143ci8RR8gz5tLDK"
-      },
-      "artists": [
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        },
-        {
-          "name": "Kako Prod",
-          "url": "https://open.spotify.com/artist/21nKcNBVvlOJx3pjOKLcRl"
-        }
-      ],
-      "duration_ms": 188700,
-      "name": "Puto Amo",
-      "url": "https://open.spotify.com/track/6mMJ9B5B7reN10oBczFioW"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Puto Rock Star",
@@ -383,22 +431,6 @@
       "duration_ms": 138653,
       "name": "Tu Buay",
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Don Nadie",
-        "url": "https://open.spotify.com/album/1ZiY6nwPziz9Bbq1YDQyWY"
-      },
-      "artists": [
-        {
-          "name": "Japanese",
-          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
-        }
-      ],
-      "duration_ms": 138396,
-      "name": "Don Nadie",
-      "url": "https://open.spotify.com/track/6RJdnQppStVwOmw7iEQnMl"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -503,30 +535,6 @@
       "duration_ms": 204435,
       "name": "Errores",
       "url": "https://open.spotify.com/track/03QMCESooLqQkjjbQBp1Fv"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Fala Fala",
-        "url": "https://open.spotify.com/album/17M9txW9mQ5sYlnZIadSye"
-      },
-      "artists": [
-        {
-          "name": "Haquil",
-          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
-        },
-        {
-          "name": "Sherdon1zone",
-          "url": "https://open.spotify.com/artist/08seIsg0pTDGeRhEfMGrpU"
-        },
-        {
-          "name": "Bvlgarich",
-          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Fala Fala",
-      "url": "https://open.spotify.com/track/0d00ap8BMDwc54AYZgOiA6"
     },
     {
       "added_at": "2024-02-02 05:00:00",

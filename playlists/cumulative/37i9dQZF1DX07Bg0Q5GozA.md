@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: LP Giobbi
 
-794 songs - 2 day 6 hr 21 min
+795 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-18 | 2023-06-09 |
 | [Melting](https://open.spotify.com/track/6ZMjNr1LUsqEjBEPMzVxnE) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Melting](https://open.spotify.com/album/7LcxZhOQPE33kiifkOXDi4) | 3:44 | 2024-04-18 |  |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-06-22 | 2023-12-01 |
+| [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-06-27 |  |
 | [Midnight Serenade](https://open.spotify.com/track/4V2u9MWP2wgSCSkDSo4ZjZ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Midnight Serenade](https://open.spotify.com/album/4oZIgxd1pGHSEEEHxjdfI7) | 3:38 | 2024-03-21 | 2024-06-07 |
 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 | 2023-03-02 | 2023-06-02 |
 | [Milestones \- Radio Edit](https://open.spotify.com/track/22VKMqizOl64Gk0E5csJSS) | [Budakid](https://open.spotify.com/artist/2MNTXvxPuFuHRYSMN7EEFL) | [Milestones](https://open.spotify.com/album/1htaNQzwk4rR0Chd0qiECN) | 3:28 | 2023-04-13 | 2023-05-05 |

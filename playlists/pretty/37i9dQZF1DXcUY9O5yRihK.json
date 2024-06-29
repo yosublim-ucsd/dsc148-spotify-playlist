@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Laufey",
-  "num_followers": 129387,
+  "num_followers": 129582,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAADjvGviScwNZgwbAgqVZK3d",
+  "snapshot_id": "Zn41QAAAAAAfaq2sa/pdIZJ890AbkPVq",
   "tracks": [
     {
       "added_at": "2024-05-24 04:00:00",
@@ -25,20 +25,40 @@
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "I wish for the rain",
-        "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
       },
       "artists": [
         {
           "name": "Liana Flores",
           "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
         }
       ],
-      "duration_ms": 151999,
-      "name": "I wish for the rain",
-      "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "paris",
+        "url": "https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 149164,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -87,6 +107,22 @@
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I wish for the rain",
+        "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "I wish for the rain",
+      "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -999,38 +1035,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 162909,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "outside the party, inside the dream",
-        "url": "https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc"
-      },
-      "artists": [
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "outside the party, inside the dream",
-      "url": "https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -1111,22 +1115,6 @@
       "duration_ms": 191949,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Zou bisou bisou (Original Version)",
-        "url": "https://open.spotify.com/album/6RGW7AdxrvowqfBp4gP5o5"
-      },
-      "artists": [
-        {
-          "name": "Gillian Hills",
-          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
-        }
-      ],
-      "duration_ms": 138346,
-      "name": "Zou bisou bisou",
-      "url": "https://open.spotify.com/track/2fxvANiJMVbMvuqNWUilEM"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1247,38 +1235,6 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 192051,
-      "name": "Find My Boy",
-      "url": "https://open.spotify.com/track/2rmf4QaSE174hUEObAxLpw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 253983,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx"
     },
     {
       "added_at": "2024-05-24 04:00:00",

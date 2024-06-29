@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Merveille
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,856 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,891 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 6 | [Busy Boy](https://open.spotify.com/track/27my7pY6JVe1niLzUKxAaA) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Busy Boy](https://open.spotify.com/album/3VXckNruUgbW1sRiTLv1FX) | 2:44 |
 | 7 | [Paqueta](https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Paqueta](https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0) | 2:40 |
 | 8 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
-| 9 | [Pansement](https://open.spotify.com/track/3Hmumz4VuiT39evMNpdlV8) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Miroir, pt\. II](https://open.spotify.com/album/2h842zpXOA4zMAhbUyJvCE) | 3:12 |
+| 9 | [Pansement](https://open.spotify.com/track/3Hmumz4VuiT39evMNpdlV8) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Miroir, part\. II](https://open.spotify.com/album/2h842zpXOA4zMAhbUyJvCE) | 3:15 |
 | 10 | [Voyager](https://open.spotify.com/track/2AfDJqcpnqU8Y2XEMzfcjK) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Voyager](https://open.spotify.com/album/4ziU4cUCiPShT8TSaERrQi) | 2:53 |
 | 11 | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd) | 2:24 |
 | 12 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 |

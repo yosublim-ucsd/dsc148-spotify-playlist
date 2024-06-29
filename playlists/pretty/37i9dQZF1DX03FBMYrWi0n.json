@@ -1,31 +1,31 @@
 {
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: B\u00e9Li",
-  "num_followers": 4992,
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: SUUNS",
+  "num_followers": 4993,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAABzSjEjTfTcrADa6pl79uNr",
+  "snapshot_id": "Zn41QAAAAAAwUoFKAa3nksDbM8jXupQe",
   "tracks": [
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "G4ME0VER",
-        "url": "https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc"
+        "name": "Doreen",
+        "url": "https://open.spotify.com/album/6lmX5j6f9yTnGiQ6agMJ6D"
       },
       "artists": [
         {
-          "name": "B\u00e9Li",
-          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
         }
       ],
-      "duration_ms": 174626,
-      "name": "G4ME0VER",
-      "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
+      "duration_ms": 254235,
+      "name": "Doreen",
+      "url": "https://open.spotify.com/track/4h8VSLg9OM2wzqLSVvYNGy"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Contre-sens",
         "url": "https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX"
@@ -41,7 +41,43 @@
       "url": "https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "SIMULATION FREESTYLE",
+        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        },
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "duration_ms": 150923,
+      "name": "SIMULATION FREESTYLE",
+      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "G4ME0VER",
+        "url": "https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9Li",
+          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "G4ME0VER",
+      "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Pretty Privilege (feat. Emma Beko)",
         "url": "https://open.spotify.com/album/1yrdOeCzid2nTGKUpnVHos"
@@ -65,75 +101,7 @@
       "url": "https://open.spotify.com/track/0O16BMpkbPWHGgbdUk3tG8"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Party piscine, Vol. 1",
-        "url": "https://open.spotify.com/album/5aqqq9TnuG20irlqhamWka"
-      },
-      "artists": [
-        {
-          "name": "pataugeoire",
-          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
-        },
-        {
-          "name": "Les Shirley",
-          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
-        }
-      ],
-      "duration_ms": 215060,
-      "name": "Besoin d'un 2",
-      "url": "https://open.spotify.com/track/6HYu8sfyARlBFZ0laTWL1G"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "WAKE UP",
-        "url": "https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E"
-      },
-      "artists": [
-        {
-          "name": "Backxwash",
-          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
-        }
-      ],
-      "duration_ms": 427456,
-      "name": "WAKE UP",
-      "url": "https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "The Breaks",
-        "url": "https://open.spotify.com/album/1qG8RIhVtTNGZD9vvLz3BQ"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 269561,
-      "name": "The Breaks",
-      "url": "https://open.spotify.com/track/3PIwWBp3nJOFERbkWtZZO3"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Les flics (sont des sacs \u00e0 merde)",
-        "url": "https://open.spotify.com/album/1I3lg7XofxUMj7CqFF5Xao"
-      },
-      "artists": [
-        {
-          "name": "DVTR",
-          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
-        }
-      ],
-      "duration_ms": 173970,
-      "name": "Les flics (sont des sacs \u00e0 merde)",
-      "url": "https://open.spotify.com/track/2y36PoFQpSXvqVcVtp82xJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "\u00c0 Paradis City",
         "url": "https://open.spotify.com/album/0MkliQZ4wrP9drFqtjHVV0"
@@ -149,23 +117,23 @@
       "url": "https://open.spotify.com/track/3iT4c9MPnaordWrfvTs8MU"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Messie",
-        "url": "https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw"
+        "name": "Les flics (sont des sacs \u00e0 merde)",
+        "url": "https://open.spotify.com/album/1I3lg7XofxUMj7CqFF5Xao"
       },
       "artists": [
         {
-          "name": "zouz",
-          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
         }
       ],
-      "duration_ms": 245093,
-      "name": "Messie",
-      "url": "https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY"
+      "duration_ms": 173970,
+      "name": "Les flics (sont des sacs \u00e0 merde)",
+      "url": "https://open.spotify.com/track/2y36PoFQpSXvqVcVtp82xJ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
@@ -181,23 +149,23 @@
       "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Fireball",
-        "url": "https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v"
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E"
       },
       "artists": [
         {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+          "name": "Backxwash",
+          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
         }
       ],
-      "duration_ms": 179668,
-      "name": "Fireball",
-      "url": "https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5"
+      "duration_ms": 427456,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Maladie d'amour",
         "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
@@ -213,7 +181,23 @@
       "url": "https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "La peur est une fleur",
+        "url": "https://open.spotify.com/album/1ZsInEwwCcSInxmC4EphyC"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "duration_ms": 112080,
+      "name": "La peur est une fleur",
+      "url": "https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Triste pareil",
         "url": "https://open.spotify.com/album/5A9eAnxahxPubkYZ6o7xYL"
@@ -229,7 +213,7 @@
       "url": "https://open.spotify.com/track/6QZ5o7B9K0umjgPJSe8bFa"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
@@ -245,23 +229,7 @@
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Stay Safe!",
-        "url": "https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1"
-      },
-      "artists": [
-        {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Choses Sauvages",
         "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
@@ -277,23 +245,23 @@
       "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "LES MANI\u00c8RES DE TABLE",
-        "url": "https://open.spotify.com/album/0LZzTKnghI4yPVhnWusx29"
+        "name": "Stay Safe!",
+        "url": "https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1"
       },
       "artists": [
         {
-          "name": "Annie-Claude Desch\u00eanes",
-          "url": "https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i"
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
         }
       ],
-      "duration_ms": 215481,
-      "name": "LES MANI\u00c8RES DE TABLE",
-      "url": "https://open.spotify.com/track/6aZ3zdal2jij2cOGpQeBAH"
+      "duration_ms": 225250,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Jazz engag\u00e9",
         "url": "https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L"
@@ -309,7 +277,23 @@
       "url": "https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "LES MANI\u00c8RES DE TABLE",
+        "url": "https://open.spotify.com/album/0LZzTKnghI4yPVhnWusx29"
+      },
+      "artists": [
+        {
+          "name": "Annie-Claude Desch\u00eanes",
+          "url": "https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "LES MANI\u00c8RES DE TABLE",
+      "url": "https://open.spotify.com/track/6aZ3zdal2jij2cOGpQeBAH"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
@@ -325,39 +309,7 @@
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
-      },
-      "artists": [
-        {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Trou d'eau",
-      "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "hana",
-        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
-      },
-      "artists": [
-        {
-          "name": "Virginie B",
-          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "hana",
-      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "la honte",
         "url": "https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO"
@@ -377,7 +329,75 @@
       "url": "https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "hana",
+        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Party piscine, Vol. 1",
+        "url": "https://open.spotify.com/album/5aqqq9TnuG20irlqhamWka"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "duration_ms": 215060,
+      "name": "Besoin d'un 2",
+      "url": "https://open.spotify.com/track/6HYu8sfyARlBFZ0laTWL1G"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Trou d'eau",
+      "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Messie",
+        "url": "https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Messie",
+      "url": "https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Sainte-Col\u00e8re",
         "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
@@ -393,7 +413,23 @@
       "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "duration_ms": 179668,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
@@ -425,7 +461,7 @@
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
         "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Comment Debord",
         "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
@@ -457,7 +493,7 @@
       "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
@@ -473,23 +509,7 @@
       "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Transition",
-        "url": "https://open.spotify.com/album/44mjt0AeyiJwBWsO2boazA"
-      },
-      "artists": [
-        {
-          "name": "We Are Wolves",
-          "url": "https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW"
-        }
-      ],
-      "duration_ms": 214365,
-      "name": "Transition",
-      "url": "https://open.spotify.com/track/04kYZnX9jdDETsPM3SqJm8"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Pink Dogs on the Green Grass",
         "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
@@ -521,7 +541,23 @@
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/44mjt0AeyiJwBWsO2boazA"
+      },
+      "artists": [
+        {
+          "name": "We Are Wolves",
+          "url": "https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW"
+        }
+      ],
+      "duration_ms": 214365,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/04kYZnX9jdDETsPM3SqJm8"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
@@ -537,7 +573,7 @@
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
@@ -553,23 +589,7 @@
       "url": "https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "blood pareil",
         "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
@@ -617,7 +637,23 @@
       "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
@@ -633,7 +669,7 @@
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Depuis",
         "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
@@ -649,23 +685,7 @@
       "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
@@ -681,23 +701,7 @@
       "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
@@ -717,7 +721,39 @@
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
@@ -749,23 +785,7 @@
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "We Are Sunshine",
         "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Tipatshimushtunan",
         "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Isumagijunnaitaungituq (The Unforgiven)",
         "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Quand la nuit tombe",
         "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Une autre vie",
         "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "nouvelle vie",
         "url": "https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
@@ -877,7 +897,23 @@
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Bizou",
         "url": "https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj"
@@ -893,7 +929,7 @@
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
@@ -909,7 +945,7 @@
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
@@ -925,7 +961,7 @@
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
@@ -941,7 +977,7 @@
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "tu penses-tu + veux veux pas",
         "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
@@ -957,7 +993,7 @@
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Rencontrer Looloo",
         "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
@@ -973,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Disruption",
         "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
@@ -989,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
@@ -1005,7 +1041,7 @@
       "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Gants blancs",
         "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
@@ -1021,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Piscine hors terre",
         "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
@@ -1037,7 +1073,7 @@
       "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
@@ -1053,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Deuxi\u00e8me chance",
         "url": "https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL"
@@ -1069,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "All\u00f4 Fant\u00f4me",
         "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
@@ -1085,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Stay Safe!",
         "url": "https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1"
@@ -1101,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Pas tr\u00e8s perspicace",
         "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
@@ -1121,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Des feux pour voir",
         "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
@@ -1137,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Mourir Demain",
         "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
@@ -1153,7 +1189,7 @@
       "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "C'est ma lady",
         "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
@@ -1169,7 +1205,7 @@
       "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Wildside",
         "url": "https://open.spotify.com/album/2O9rJrHjjSPaVavkd7XvLw"
@@ -1185,7 +1221,7 @@
       "url": "https://open.spotify.com/track/3uKyQ0vwpo43PbIXj4vyNp"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "O\u00f9 est?",
         "url": "https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d"
@@ -1199,38 +1235,6 @@
       "duration_ms": 271696,
       "name": "O\u00f9 est?",
       "url": "https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Chu tellement jeune",
-        "url": "https://open.spotify.com/album/1CUyjFiSe6PVfa8Uc4MCwR"
-      },
-      "artists": [
-        {
-          "name": "Larynx",
-          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "Chu tellement jeune",
-      "url": "https://open.spotify.com/track/3475CIRNKkT6F6heSFaqV9"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Parfaite \u00e0 l'\u00e9cran",
-        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
     }
   ],
   "unique_name": "ALT_QC",

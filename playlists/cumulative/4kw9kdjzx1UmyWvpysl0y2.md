@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-760 songs - 1 day 19 hr 44 min
+761 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2023-09-13 | 2024-01-11 |
+| [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 |  |
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 | 2024-04-24 |
 | [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 | 2022-11-15 |
 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 | 2022-07-15 | 2022-09-29 |
@@ -719,7 +720,7 @@
 | [Used to Losing You](https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Used to Losing You](https://open.spotify.com/album/0SO9gIl0UKy42daxkuXtNT) | 4:25 | 2023-02-03 | 2023-04-22 |
 | [Used To The Silence](https://open.spotify.com/track/5DEwagnzNafeFjWNIDNdgy) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Used To The Silence](https://open.spotify.com/album/1AicQE6OrucDFv8RYhB1Ho) | 3:09 | 2023-05-30 | 2023-08-28 |
 | [Valhalla](https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Valhalla](https://open.spotify.com/album/49ViXJDQNm2nV1bCMFMcAJ) | 3:57 | 2023-03-01 | 2023-05-30 |
-| [Venom](https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Venom](https://open.spotify.com/album/52zDxxZIO61QgxP0TI256o) | 2:45 | 2024-04-10 |  |
+| [Venom](https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Venom](https://open.spotify.com/album/52zDxxZIO61QgxP0TI256o) | 2:45 | 2024-04-10 | 2024-06-29 |
 | [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 | 2023-04-05 | 2023-06-29 |
 | [Vitamin R](https://open.spotify.com/track/3FmdXSMfZjqo9Lz4li7GpW) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [SQISHI](https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h) | [Vitamin R](https://open.spotify.com/album/4xd9LfqmvWcibXiwsk3NIn) | 3:05 | 2023-10-03 | 2024-01-16 |
 | [WAIT4U](https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [WAIT4U](https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6) | 4:12 | 2023-10-13 | 2024-01-27 |

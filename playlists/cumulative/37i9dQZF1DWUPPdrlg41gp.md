@@ -4,7 +4,7 @@
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
-20 songs - 1 hr 17 min
+21 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [No One Needs To Know](https://open.spotify.com/track/6UjODa5z7iMoP4xpzpe0tw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:04 | 2024-05-16 |  |
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-06-21 |  |
 | [Respect the Wind](https://open.spotify.com/track/1Uk3N1ayracgnAgw8jk7Zf) | [Eddie Van Halen](https://open.spotify.com/artist/1DlE1l0q1w0cE9cQVIsC7I), [Alex Van Halen](https://open.spotify.com/artist/3CmDSgt3JbEGKxvssuARPB) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:46 | 2024-05-16 |  |
+| [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2024-06-28 |  |
 | [Talula \- BT's Tornado Mix](https://open.spotify.com/track/2QcQUTwIq5KYlqcg4UI1a9) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Tim Weidner](https://open.spotify.com/artist/5tUCwGnLlLLYSMpYvxrVOE) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:43 | 2024-05-16 |  |
 | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/track/5DWplsLK5juocMo4PBX826) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v) | 2:30 | 2024-06-21 |  |
 | [Twisted](https://open.spotify.com/track/2S2IT5e9CcsClsBkaTnBwO) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:13 | 2024-05-16 |  |

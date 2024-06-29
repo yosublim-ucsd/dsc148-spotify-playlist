@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: SOPHIE",
-  "num_followers": 543204,
+  "num_followers": 543240,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3u8AAAAACEwi6c5VO/04d8m+yohlTy",
+  "snapshot_id": "Zn6CvAAAAAA3S7H7tk6K/9rUnGBvlXj9",
   "tracks": [
     {
       "added_at": "2024-06-27 23:00:00",
@@ -91,6 +91,42 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
+    },
+    {
+      "added_at": "2024-06-28 09:30:36",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1391,22 +1427,6 @@
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Midnight Butterflies",
-        "url": "https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Does Only God Know That We're Lonely?",
-      "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
     }
   ],
   "unique_name": "All New All Now",

@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "MUSCLE",
+        "url": "https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "MUSCLE",
+      "url": "https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK"
+    },
+    {
+      "album": {
         "name": "Petrified",
         "url": "https://open.spotify.com/album/4JnzajBqOFm1zSbYxLQzG8"
       },

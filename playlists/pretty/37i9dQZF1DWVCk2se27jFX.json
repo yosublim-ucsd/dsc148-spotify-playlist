@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos",
-  "num_followers": 31728,
+  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Lika Nova",
+  "num_followers": 31730,
   "original_name": "Indie Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZhjWUAAAAAAr7mLMS9LgecUDZBIxzSUW",
+  "snapshot_id": "Zn5awAAAAADBYIWmql415wsPIH0amAw0",
   "tracks": [
+    {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Repetir\u00eda Todo",
+        "url": "https://open.spotify.com/album/2oSfjx5ip4jvV52NTmu9jW"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 185006,
+      "name": "Mil Cartas",
+      "url": "https://open.spotify.com/track/5VyGv0StDf6LE46h0l0Jv9"
+    },
     {
       "added_at": "2024-04-12 06:36:00",
       "album": {
@@ -29,36 +45,20 @@
       "url": "https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5"
     },
     {
-      "added_at": "2024-04-12 06:36:00",
+      "added_at": "2024-06-28 06:40:00",
       "album": {
-        "name": "Fin De Los Tiempos",
-        "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
+        "name": "Yo Cuid\u00e9 a Tu Amor",
+        "url": "https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU"
       },
       "artists": [
         {
-          "name": "Paula Pera y el fin de los Tiempos",
-          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+          "name": "Bella \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs"
         }
       ],
-      "duration_ms": 234625,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Un Lugar M\u00e1s Cierto",
-        "url": "https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 263925,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6TIXTXy6L0jc60dDr8I7KD"
+      "duration_ms": 234097,
+      "name": "Yo Cuid\u00e9 a Tu Amor",
+      "url": "https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -77,6 +77,30 @@
       "url": "https://open.spotify.com/track/27SOl55VMSsvBTrNTmnBL6"
     },
     {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "El Derroche",
+        "url": "https://open.spotify.com/album/5AVAJEQBc2EwhrEh5KoQrY"
+      },
+      "artists": [
+        {
+          "name": "Felipe Orjuela",
+          "url": "https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs"
+        },
+        {
+          "name": "Gato e' Monte",
+          "url": "https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf"
+        },
+        {
+          "name": "Yeison Perilla",
+          "url": "https://open.spotify.com/artist/3Gjrbl9DgXGhwvHC0QZk8f"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "El Derroche (La Brisa)",
+      "url": "https://open.spotify.com/track/4Gzh7FVoWkK6naSGUosYf0"
+    },
+    {
       "added_at": "2024-04-12 06:36:00",
       "album": {
         "name": "No Es Tan Simple",
@@ -93,20 +117,20 @@
       "url": "https://open.spotify.com/track/39arkeng7T81lC2yHM6Wvw"
     },
     {
-      "added_at": "2024-04-12 06:36:00",
+      "added_at": "2024-06-28 06:40:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4NnzCBRcLk79SZ10FMWpfV"
+        "name": "Marchito",
+        "url": "https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H"
       },
       "artists": [
         {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 174186,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d"
+      "duration_ms": 236707,
+      "name": "Marchito",
+      "url": "https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -125,36 +149,20 @@
       "url": "https://open.spotify.com/track/31R22n6xtllkynO6SVWayS"
     },
     {
-      "added_at": "2024-04-12 06:36:00",
+      "added_at": "2024-06-28 06:40:00",
       "album": {
-        "name": "Ver Tus Ojos Mir\u00e1ndome",
-        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+        "name": "M\u00fasica Gigante (Anti-Anti)",
+        "url": "https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG"
       },
       "artists": [
         {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+          "name": "llilli",
+          "url": "https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0"
         }
       ],
-      "duration_ms": 210078,
-      "name": "Ver Tus Ojos Mir\u00e1ndome",
-      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Tengo Que Decirte Que No",
-        "url": "https://open.spotify.com/album/2R3Kd5NLYZu1NXgWc9n8ak"
-      },
-      "artists": [
-        {
-          "name": "Pio Perilla",
-          "url": "https://open.spotify.com/artist/3mto9pTx9i31Xqr68CzgX8"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "Tengo Que Decirte Que No",
-      "url": "https://open.spotify.com/track/7EMCWX0sQnNP1LAJ2rwkvQ"
+      "duration_ms": 293738,
+      "name": "M\u00fasica Gigante (Anti-Anti)",
+      "url": "https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -177,6 +185,54 @@
       "url": "https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP"
     },
     {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 196020,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
+    },
+    {
+      "added_at": "2024-04-12 06:36:00",
+      "album": {
+        "name": "Tengo Que Decirte Que No",
+        "url": "https://open.spotify.com/album/2R3Kd5NLYZu1NXgWc9n8ak"
+      },
+      "artists": [
+        {
+          "name": "Pio Perilla",
+          "url": "https://open.spotify.com/artist/3mto9pTx9i31Xqr68CzgX8"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "Tengo Que Decirte Que No",
+      "url": "https://open.spotify.com/track/7EMCWX0sQnNP1LAJ2rwkvQ"
+    },
+    {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/4oB6uXr2p32z2PzzkGZ4Yh"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/4pZPJaI6TrN2QLqGCFpltE"
+    },
+    {
       "added_at": "2024-04-12 06:36:00",
       "album": {
         "name": "Portales",
@@ -193,6 +249,134 @@
       "url": "https://open.spotify.com/track/3mD8y1JQZr9dAzstv5gLvi"
     },
     {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Remordimiento",
+        "url": "https://open.spotify.com/album/6QeAG0mPeiMdQKv1fYw5FA"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Remordimiento",
+      "url": "https://open.spotify.com/track/65kKolUtR9SvLnsH7EBG7Y"
+    },
+    {
+      "added_at": "2024-04-12 06:36:00",
+      "album": {
+        "name": "Fin De Los Tiempos",
+        "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
+      },
+      "artists": [
+        {
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+        }
+      ],
+      "duration_ms": 234625,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo"
+    },
+    {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Eng\u00e1\u00f1ate",
+        "url": "https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC"
+      },
+      "artists": [
+        {
+          "name": "Pirineos En Llamas",
+          "url": "https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Eng\u00e1\u00f1ate",
+      "url": "https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV"
+    },
+    {
+      "added_at": "2024-04-12 06:36:00",
+      "album": {
+        "name": "Un Lugar M\u00e1s Cierto",
+        "url": "https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 263925,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6TIXTXy6L0jc60dDr8I7KD"
+    },
+    {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/6Sc07lO8NaWHkIs78Dkp4x"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritus Animales",
+          "url": "https://open.spotify.com/artist/5De9OVirSnf64Zs59MmGtJ"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/6pKNtg7bn0YyK8n4J2Cmw9"
+    },
+    {
+      "added_at": "2024-04-12 06:36:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4NnzCBRcLk79SZ10FMWpfV"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d"
+    },
+    {
+      "added_at": "2024-06-28 06:40:00",
+      "album": {
+        "name": "Ramen",
+        "url": "https://open.spotify.com/album/21O3k6iIWFSREY2YGbtbwb"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 157763,
+      "name": "Ramen",
+      "url": "https://open.spotify.com/track/7AQ5qL6356wqgex8ibPi3U"
+    },
+    {
+      "added_at": "2024-04-12 06:36:00",
+      "album": {
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
+    },
+    {
       "added_at": "2024-04-12 06:36:00",
       "album": {
         "name": "Son\u00e1mbulos",
@@ -207,22 +391,6 @@
       "duration_ms": 193333,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/5WcdnmiTRE4PHzmSBwZuoA"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Una Freak",
-        "url": "https://open.spotify.com/album/602FjmtHZi8FHXMcvKoK1E"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 203048,
-      "name": "Love Con Espacio",
-      "url": "https://open.spotify.com/track/4hqll5UMqiiwwJDZxjJLjk"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -275,22 +443,6 @@
     {
       "added_at": "2024-04-12 06:36:00",
       "album": {
-        "name": "Como Si Nada",
-        "url": "https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Como Si Nada",
-      "url": "https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
         "name": "Los \u00c1rboles Ft. Briela Ojeda",
         "url": "https://open.spotify.com/album/2anj5qCJRdX28bxYJliavk"
       },
@@ -323,22 +475,6 @@
       "duration_ms": 194131,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Un Lugar M\u00e1s Cierto",
-        "url": "https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 208725,
-      "name": "Canto de Abrigo",
-      "url": "https://open.spotify.com/track/2wClYWrYLcJ4IPYvPoCSiA"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -379,38 +515,6 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "No Tengo Tiempo",
-        "url": "https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "No Tengo Tiempo",
-      "url": "https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Canciones Malas",
-        "url": "https://open.spotify.com/album/2i3j45Ej54awAJRivfvUWi"
-      },
-      "artists": [
-        {
-          "name": "llilli",
-          "url": "https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0"
-        }
-      ],
-      "duration_ms": 282055,
-      "name": "Canciones Malas",
-      "url": "https://open.spotify.com/track/4ZMMi7OXlsFvVy46tYELoW"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -1015,22 +1119,6 @@
     {
       "added_at": "2024-04-12 06:36:00",
       "album": {
-        "name": "Sigo",
-        "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199294,
-      "name": "Sigo",
-      "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
         "name": "Grita",
         "url": "https://open.spotify.com/album/3tPjavyWfJ5TBihaEZQeGq"
       },
@@ -1059,22 +1147,6 @@
       "duration_ms": 180754,
       "name": "Fine Line En Tu Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4AgudkNxMoJaGtAyOJHFFe"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -1303,22 +1375,6 @@
     {
       "added_at": "2024-04-12 06:36:00",
       "album": {
-        "name": "Ay Coraz\u00f3n (Silencio)",
-        "url": "https://open.spotify.com/album/0FJQgCTzwQdy0SYX5fQGXB"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 232478,
-      "name": "Ay Coraz\u00f3n (Silencio)",
-      "url": "https://open.spotify.com/track/4XUrjgP3UQv4LviewC2G6j"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1363,22 +1419,6 @@
       "duration_ms": 231232,
       "name": "Que Nada Te Detenga",
       "url": "https://open.spotify.com/track/2XwtaDpOjXTJkNpMswXa1y"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "No Me Dejes Caer",
-        "url": "https://open.spotify.com/album/04blY1FDXNGY5PxzT8p1Kw"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "No Me Dejes Caer",
-      "url": "https://open.spotify.com/track/4PNmRatDNP2b5vsDb9wbWo"
     },
     {
       "added_at": "2024-04-12 06:36:00",
@@ -1571,22 +1611,6 @@
     {
       "added_at": "2024-04-12 06:36:00",
       "album": {
-        "name": "Alg\u00fan Contexto",
-        "url": "https://open.spotify.com/album/1Tx2sSctUPvcy544ZgvM4a"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 174939,
-      "name": "Alg\u00fan Contexto",
-      "url": "https://open.spotify.com/track/2sDpADDQsdwl9VFQdhbcm1"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
         "name": "Odebrecht",
         "url": "https://open.spotify.com/album/3kaM5FLz3mOlYKtjZnjBFs"
       },
@@ -1615,22 +1639,6 @@
       "duration_ms": 360309,
       "name": "Atalanta",
       "url": "https://open.spotify.com/track/7AgebD5Roub1tcCP8ceOja"
-    },
-    {
-      "added_at": "2024-04-12 06:36:00",
-      "album": {
-        "name": "Manos al Fuego",
-        "url": "https://open.spotify.com/album/1LRqlp2bAaVeaptfQdLnq3"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Manos al Fuego",
-      "url": "https://open.spotify.com/track/4iaLgMm0Y79jrPiIm13FNn"
     },
     {
       "added_at": "2024-04-12 06:36:00",

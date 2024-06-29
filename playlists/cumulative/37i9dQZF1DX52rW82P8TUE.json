@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 272933,
       "name": "Aos Olhos do Pai",
       "url": "https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc"
@@ -840,6 +840,24 @@
       "duration_ms": 157120,
       "name": "Galileia",
       "url": "https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0"
+    },
+    {
+      "album": {
+        "name": "Gosto de Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/1dTnaLXwqLvMrMcdPjOTAC"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186264,
+      "name": "Gosto de Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/5LGCcrDTb8p2HJYYxq2zle"
     },
     {
       "album": {

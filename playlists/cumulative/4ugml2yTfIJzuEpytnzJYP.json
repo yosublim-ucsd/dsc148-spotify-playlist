@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Flame Thrower",
+        "url": "https://open.spotify.com/album/6ysPraVJKRjAj1Sy3N056q"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Flame Thrower",
+      "url": "https://open.spotify.com/track/5wX03gSxpFtu3DIDGcQzOZ"
+    },
+    {
+      "album": {
         "name": "Flip The Switch",
         "url": "https://open.spotify.com/album/2ZxLmPMahxbTcVjR50Pciw"
       },

@@ -4561,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Calle Pizarro",
+        "url": "https://open.spotify.com/album/2PRjfg5c5PuAYjOzoCZZpU"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228725,
+      "name": "Calle Pizarro",
+      "url": "https://open.spotify.com/track/444Wz9l8j04z9fADgqUEkb"
+    },
+    {
+      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN"
       },
@@ -10346,7 +10364,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 408304,
       "name": "Ghazal",
       "url": "https://open.spotify.com/track/7zRGdpUTomkLwbBPE9FyZQ"
@@ -22930,7 +22948,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 193546,
       "name": "Secret House",
       "url": "https://open.spotify.com/track/4aVUPEHIzzXsidRgdAf4RW"
@@ -25903,6 +25921,36 @@
     },
     {
       "album": {
+        "name": "Take the S Line",
+        "url": "https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "\u6cb3\u91ce\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD"
+        },
+        {
+          "name": "\u6749\u6d66\u7766",
+          "url": "https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G"
+        },
+        {
+          "name": "\u5927\u6d25\u60c7",
+          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391261,
+      "name": "Take the S Line",
+      "url": "https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B"
+    },
+    {
+      "album": {
         "name": "Take Time + Guava",
         "url": "https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN"
       },
@@ -26639,6 +26687,24 @@
     },
     {
       "album": {
+        "name": "The Curse (Blood Of An Innocent Is Spilled)",
+        "url": "https://open.spotify.com/album/2akUx9HJDFGKPItt6UbZ5D"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409974,
+      "name": "The Curse - Blood Of An Innocent Is Spilled",
+      "url": "https://open.spotify.com/track/6h1q6I4YFD201MIqEVyUbd"
+    },
+    {
+      "album": {
         "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
         "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
       },
@@ -27120,7 +27186,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 209675,
       "name": "The Kingdom",
       "url": "https://open.spotify.com/track/7xg5pETbe5jWXqTekOnx57"

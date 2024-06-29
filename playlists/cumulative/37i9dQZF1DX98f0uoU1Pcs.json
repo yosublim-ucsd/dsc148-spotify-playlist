@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Wishy",
+  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: MILLY",
   "name": "Noisy",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200624,
       "name": "Angel Blessings",
       "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 234720,
       "name": "Bittersweet Mary",
       "url": "https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ"
@@ -1880,6 +1880,24 @@
       "duration_ms": 163826,
       "name": "Close Call",
       "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
+    },
+    {
+      "album": {
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
     },
     {
       "album": {
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 223394,
       "name": "Doomer",
       "url": "https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re"
@@ -3779,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Firefighters",
+        "url": "https://open.spotify.com/album/099s0b6r5AuuzSkNtnZEo7"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270923,
+      "name": "Firefighters",
+      "url": "https://open.spotify.com/track/59GCYWh0Y74XtvhtJNe7nW"
+    },
+    {
+      "album": {
         "name": "Float Away",
         "url": "https://open.spotify.com/album/1JmoiKSuudNiXeAqh84oNy"
       },
@@ -4626,6 +4662,24 @@
       "duration_ms": 243000,
       "name": "Guzzle Blood",
       "url": "https://open.spotify.com/track/61cUK4RBgKkbBnRD9TvElW"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/6r0e9t80tlT8jLRfYvKLRT"
+      },
+      "artists": [
+        {
+          "name": "Bad Moves",
+          "url": "https://open.spotify.com/artist/3d93jQ6vfQHLJSMbjr7o6M"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247027,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0pSlOOmmPMzZ1sFRIMjAyV"
     },
     {
       "album": {
@@ -5982,6 +6036,24 @@
       "duration_ms": 266057,
       "name": "It's The Magic",
       "url": "https://open.spotify.com/track/4Y66dc6AG2eWQNUOzpKqtK"
+    },
+    {
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
     },
     {
       "album": {
@@ -7696,7 +7768,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 201830,
       "name": "Muriel\u2019s Big Day Off",
       "url": "https://open.spotify.com/track/0HaquMHIt2eWSBsDbgvuLt"
@@ -8454,7 +8526,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 218056,
       "name": "Park (Rye)",
       "url": "https://open.spotify.com/track/7kTpobjSHhojug7KWA1S2d"
@@ -9324,7 +9396,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 239760,
       "name": "Retirement",
       "url": "https://open.spotify.com/track/4k82pg7c4hrUctk1RX1cqg"
@@ -9508,6 +9580,24 @@
       "duration_ms": 156772,
       "name": "Runner",
       "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+    },
+    {
+      "album": {
+        "name": "Running The Madness",
+        "url": "https://open.spotify.com/album/3IiKibozo2kM67YDcSk2Wy"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "Running The Madness",
+      "url": "https://open.spotify.com/track/1RYxVFfhqEF7z4ZEwovlTH"
     },
     {
       "album": {
@@ -10480,6 +10570,24 @@
       "duration_ms": 180444,
       "name": "Starting and Staring",
       "url": "https://open.spotify.com/track/2XsyUC0ufwTPbJR1xZsJez"
+    },
+    {
+      "album": {
+        "name": "Stay Golden",
+        "url": "https://open.spotify.com/album/2YulK3fwp2NUe46SbP53Fh"
+      },
+      "artists": [
+        {
+          "name": "Combat",
+          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118595,
+      "name": "Stay Golden",
+      "url": "https://open.spotify.com/track/2LdXeZ4g5veCIln1UvC1ke"
     },
     {
       "album": {
@@ -12120,6 +12228,24 @@
       "duration_ms": 193245,
       "name": "Very Aggressive",
       "url": "https://open.spotify.com/track/3S3ijQLue7Z5gbw1Jr9e8D"
+    },
+    {
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "album": {

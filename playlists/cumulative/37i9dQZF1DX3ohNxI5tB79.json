@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 306591,
       "name": "Blue Is All That's Left",
       "url": "https://open.spotify.com/track/1rC3vS4WBvQ9yieSApe84K"
@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Calm Waters",
+        "url": "https://open.spotify.com/album/49du69iKacbpouSotoaiCQ"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295970,
+      "name": "Calm Waters",
+      "url": "https://open.spotify.com/track/4C2PiEuyuMVrJvPhV1yl7q"
+    },
+    {
+      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -680,6 +698,32 @@
       "duration_ms": 87349,
       "name": "Can I Get a Witness",
       "url": "https://open.spotify.com/track/0enKYk1ZUqInfYMLVhA4Wq"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237507,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
     },
     {
       "album": {
@@ -825,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Below Dawn",
+        "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
+      },
+      "artists": [
+        {
+          "name": "Bryony Jarman-Pinto",
+          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250941,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
+    },
+    {
+      "album": {
         "name": "Diamonds in the rough",
         "url": "https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz"
       },
@@ -876,7 +938,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192000,
       "name": "Do You?",
       "url": "https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i"
@@ -1060,6 +1122,28 @@
       "duration_ms": 363240,
       "name": "Everything You Touch Is Gold",
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+    },
+    {
+      "album": {
+        "name": "Favorite Thing to Do",
+        "url": "https://open.spotify.com/album/2jtnBkj4zEknJH95VeO7kM"
+      },
+      "artists": [
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        },
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215392,
+      "name": "Favorite Thing to Do",
+      "url": "https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW"
     },
     {
       "album": {
@@ -1632,10 +1716,40 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 226198,
       "name": "I Don't Deserve It",
       "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
+    },
+    {
+      "album": {
+        "name": "I Feel Alright",
+        "url": "https://open.spotify.com/album/7sNv0KlEAlfQ0TYVeE0Do2"
+      },
+      "artists": [
+        {
+          "name": "Shane Sato",
+          "url": "https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj"
+        },
+        {
+          "name": "Oli-J",
+          "url": "https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj"
+        },
+        {
+          "name": "Glen Turner II",
+          "url": "https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s"
+        },
+        {
+          "name": "Coastal",
+          "url": "https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145281,
+      "name": "I Feel Alright",
+      "url": "https://open.spotify.com/track/1OCanjTF96osCOy1nmFCRx"
     },
     {
       "album": {
@@ -2108,6 +2222,24 @@
       "duration_ms": 224826,
       "name": "Love the Mystery - Radio Edit",
       "url": "https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n"
+    },
+    {
+      "album": {
+        "name": "All We Do",
+        "url": "https://open.spotify.com/album/37HdFg0cSWgRgsctFHkzuh"
+      },
+      "artists": [
+        {
+          "name": "RADIOHOP",
+          "url": "https://open.spotify.com/artist/3fYO0rcTXXlIrXUwNmbslE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162888,
+      "name": "Mad Summer",
+      "url": "https://open.spotify.com/track/3Hw79poBqN5zpzKLXGUPvq"
     },
     {
       "album": {
@@ -2608,7 +2740,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 282192,
       "name": "Nobody (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h"
@@ -2692,7 +2824,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181011,
       "name": "Oil Slick",
       "url": "https://open.spotify.com/track/4dLMspbmxpSvjG2rH0uofK"
@@ -2710,7 +2842,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 226133,
       "name": "On & On",
       "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
@@ -2746,7 +2878,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 157230,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q"
@@ -2833,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T"
+    },
+    {
+      "album": {
         "name": "The Marcus King Band",
         "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
       },
@@ -2862,7 +3012,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 265586,
       "name": "Rita Is Gone",
       "url": "https://open.spotify.com/track/7hJlN9Y4VeWiGpjELPx75g"
@@ -3010,7 +3160,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 265302,
       "name": "Se\u00fa Days",
       "url": "https://open.spotify.com/track/14A3i3kN1Ch5hbMnhDgCWg"
@@ -3336,7 +3486,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194727,
       "name": "SUNLIGHT",
       "url": "https://open.spotify.com/track/5YsdarH0He9NVsoATnLxII"
@@ -3438,7 +3588,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/6oWvAsngOlg82gyQId0kTY"
@@ -3622,7 +3772,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 251531,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/3sAy4CeesQ2DphWNtckNjW"
@@ -3662,6 +3812,28 @@
       "duration_ms": 386093,
       "name": "The Optimist",
       "url": "https://open.spotify.com/track/6yefcxg5NPvCNPavfcq1VY"
+    },
+    {
+      "album": {
+        "name": "The Plant",
+        "url": "https://open.spotify.com/album/6zXXdOyUUhMN1IASWjW4q6"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248638,
+      "name": "The Plant",
+      "url": "https://open.spotify.com/track/2TEgeBERMNn3fD5QVyzojj"
     },
     {
       "album": {
@@ -3712,7 +3884,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 145181,
       "name": "TIBBE",
       "url": "https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn"
@@ -4058,6 +4230,36 @@
       "duration_ms": 177772,
       "name": "What Is Love?",
       "url": "https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG"
+    },
+    {
+      "album": {
+        "name": "What's the Move",
+        "url": "https://open.spotify.com/album/431U10Fvg2NtgECribydtZ"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "NanaBcool",
+          "url": "https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187983,
+      "name": "What's the Move",
+      "url": "https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh"
     },
     {
       "album": {
@@ -4458,7 +4660,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 256946,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/4SyowQi18ym4zJGJDBnsTj"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Blasterjaxx X Naeleck X 3rd Wall",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: KREAM",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -32,6 +32,32 @@
       "duration_ms": 163189,
       "name": "33 Max Verstappen (Dj Ren\u00e9 Abrego Mexico Remix)",
       "url": "https://open.spotify.com/track/0ZM7l1RhuyjeXgi8D5qJBd"
+    },
+    {
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/3FWN04EjchloJS10hArDLy"
+      },
+      "artists": [
+        {
+          "name": "Felix Schorn",
+          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
+        },
+        {
+          "name": "Chris Burke",
+          "url": "https://open.spotify.com/artist/7DuMrjdqPSIiF85TF8hoiV"
+        },
+        {
+          "name": "FIVE",
+          "url": "https://open.spotify.com/artist/5EXww1GWVkP9ZffmrlJycO"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145114,
+      "name": "999",
+      "url": "https://open.spotify.com/track/5BdmlzGOBDh0f3BPLfIBG0"
     },
     {
       "album": {
@@ -236,7 +262,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 139082,
       "name": "Barah\u00fanda",
       "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
@@ -342,7 +368,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181787,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
@@ -364,7 +390,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 156250,
       "name": "Can't Forget You",
       "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
@@ -394,7 +420,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 131744,
       "name": "Can't Stop Playing (feat. Anne Brun) [Cian McFeely Remix]",
       "url": "https://open.spotify.com/track/4vTvus8VUlimhegjaHwPyA"
@@ -546,7 +572,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
@@ -645,6 +671,28 @@
     },
     {
       "album": {
+        "name": "Disco Train",
+        "url": "https://open.spotify.com/album/02Waf4ySpoFvSzLH8GX6K4"
+      },
+      "artists": [
+        {
+          "name": "Kiro Prime",
+          "url": "https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr"
+        },
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Disco Train",
+      "url": "https://open.spotify.com/track/1vtbBMBzzHnM85xXis4voe"
+    },
+    {
+      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ"
       },
@@ -664,6 +712,24 @@
       "duration_ms": 175125,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/1bcM9x7FX0aiayjtd1ZNuW"
+    },
+    {
+      "album": {
+        "name": "Don't Call",
+        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229105,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
     },
     {
       "album": {
@@ -752,7 +818,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 143095,
       "name": "Droppin' Hot (feat. Sonny Wilson)",
       "url": "https://open.spotify.com/track/4tua0l4jgHSvV0FlgsmiUp"
@@ -1044,7 +1110,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 217920,
       "name": "Going down",
       "url": "https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs"
@@ -1135,6 +1201,28 @@
     },
     {
       "album": {
+        "name": "I Want This Forever",
+        "url": "https://open.spotify.com/album/1HXVbYrNQF9osYAmVmKKjM"
+      },
+      "artists": [
+        {
+          "name": "Dropack",
+          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
+        },
+        {
+          "name": "Tolex",
+          "url": "https://open.spotify.com/artist/0Z1hdVivfkFvCkrmWYlbA0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "I Want This Forever",
+      "url": "https://open.spotify.com/track/3TNIwnnxvwirWATsJ5jZWh"
+    },
+    {
+      "album": {
         "name": "ARCH",
         "url": "https://open.spotify.com/album/4cScqtWDOzm7Vaf3snY0u8"
       },
@@ -1172,10 +1260,36 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 151475,
       "name": "In Control",
       "url": "https://open.spotify.com/track/6ENj47aA41bTZFinUDrYNP"
+    },
+    {
+      "album": {
+        "name": "It Ain't Safe",
+        "url": "https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Tavatli",
+          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg"
     },
     {
       "album": {
@@ -1337,6 +1451,32 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157734,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/3aM3elSql2STyiob9POgWY"
+    },
+    {
+      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -1396,7 +1536,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 165937,
       "name": "Lotus (PAROOKAVILLE Anthem 2024) - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/6RtN4kwFFScEgQbARaYli5"
@@ -1524,6 +1664,28 @@
       "duration_ms": 179520,
       "name": "Molly",
       "url": "https://open.spotify.com/track/5Bv1BaqZV9MW1UEZTEXZFq"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3sTaPfBlozA6ICXwdIupDq"
+      },
+      "artists": [
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
+        },
+        {
+          "name": "Markis",
+          "url": "https://open.spotify.com/artist/4m1912E02pZ71m0bO9ZEMf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6zSza83er01pHYxOgFyEhz"
     },
     {
       "album": {
@@ -1655,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+    },
+    {
+      "album": {
         "name": "Nobody's Perfect (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/45MTITXwCkGEPiPWL9BtND"
       },
@@ -1762,6 +1942,28 @@
       "duration_ms": 170108,
       "name": "On My Mind (GUZ Remix)",
       "url": "https://open.spotify.com/track/4RJmfNE7IlbAl2yC0VVScY"
+    },
+    {
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/1cuEHKMtUWcrehv5XeqSlt"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "jayover",
+          "url": "https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
     },
     {
       "album": {
@@ -2102,7 +2304,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 177600,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
@@ -2204,7 +2406,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197841,
       "name": "The Power",
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
@@ -2256,6 +2458,24 @@
       "duration_ms": 240000,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3f7UTRlyaHtaf8zsUwvTaI"
+    },
+    {
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/1jcsybt3miqJpCcjRAk7j6"
+      },
+      "artists": [
+        {
+          "name": "Tolex",
+          "url": "https://open.spotify.com/artist/0Z1hdVivfkFvCkrmWYlbA0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/2lcoaWDL7xWHx6ZZCGOSzl"
     },
     {
       "album": {
@@ -2402,10 +2622,28 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 142758,
       "name": "Waste (feat. Veronica Bravo)",
       "url": "https://open.spotify.com/track/7zcB7BGtkSSjyN2LZKNILn"
+    },
+    {
+      "album": {
+        "name": "Where Are You Tonight",
+        "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235248,
+      "name": "Where Are You Tonight",
+      "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
     },
     {
       "album": {

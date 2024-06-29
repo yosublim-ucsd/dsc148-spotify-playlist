@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain](/playlists/plain/37i9dQZF1DWZufbpO1g3tw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZufbpO1g3tw)
 
-### [La Playlist Botanera](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
+### [La Playlist Botanera ⚽️🏆](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,888 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,083 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 77 | [Super Riddim Internacional](https://open.spotify.com/track/0TyH4jFn7eeSJM4gfkql7h) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:31 |
 | 78 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 
-Snapshot ID: `Zm/Q4AAAAAAZb0UXssyjCMON0WiqDQKw`
+Snapshot ID: `Zn7olAAAAAD4QHiLcjo3wE3nezZRLpDL`

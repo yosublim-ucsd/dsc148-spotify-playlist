@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY?si=QJbuh\-RjQmmrNwSQBrFQhA">Kanji Mbugua</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,052 likes - 100 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,088 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 96 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 |
 | 97 | [Kwa Yesu](https://open.spotify.com/track/2zgITxAOZXWxt1JLAOlYxB) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF) | [Kwa Yesu](https://open.spotify.com/album/0aCIFPSAHCi3hppVF9aTeE) | 3:20 |
 | 98 | [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 |
-| 99 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:37 |
+| 99 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 |
 | 100 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 |
 
 Snapshot ID: `Zn39PAAAAAAcTLZIlxcF+mLyfwemu77Z`

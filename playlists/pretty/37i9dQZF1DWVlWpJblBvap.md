@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="spotify:artist:6pRi6EIPXz4QJEOEsBaA0m">Chris Tomlin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,384 likes - 120 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,620 likes - 120 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Skyface SDW
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,977 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,993 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [power](https://open.spotify.com/track/1pVinZbONbJJUoNs9I0zF1) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 2:10 |
+| 1 | [POWER](https://open.spotify.com/track/1pVinZbONbJJUoNs9I0zF1) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 2:10 |
 | 2 | [ORTEESO](https://open.spotify.com/track/29NNISjZWKCV7fe0SRRbXU) | [Khendibeatz](https://open.spotify.com/artist/0KxivjKCyDebQXgGhJvEip), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a), [Senario](https://open.spotify.com/artist/5rHLfEACxYi2tx5QdDl2wF), [Ratty Ghana](https://open.spotify.com/artist/0TbwzfSKIyMpmQaxQ6zeKZ) | [ORTEESO](https://open.spotify.com/album/4UROT5uioThKASOh4ATUtr) | 3:27 |
 | 3 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 |
 | 4 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 |

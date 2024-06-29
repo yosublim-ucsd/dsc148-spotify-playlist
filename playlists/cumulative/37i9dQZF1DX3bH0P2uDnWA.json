@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Back and Forth",
+        "url": "https://open.spotify.com/album/1lFHdixVhpVvZQdc6foN1c"
+      },
+      "artists": [
+        {
+          "name": "LeGrand",
+          "url": "https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Back and Forth",
+      "url": "https://open.spotify.com/track/0iunkswh8QG4nlCg9eDzMS"
+    },
+    {
+      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
       },
@@ -1579,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Don\u00b4T Break",
+        "url": "https://open.spotify.com/album/7mz7T2yUAcHDdPrakkpV5F"
+      },
+      "artists": [
+        {
+          "name": "DJ Mibor",
+          "url": "https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Don\u00b4T Break",
+      "url": "https://open.spotify.com/track/3UrSUNasoMFxMz9UzhIrcq"
+    },
+    {
+      "album": {
         "name": "H\u00f4tel Costes 5",
         "url": "https://open.spotify.com/album/56z0PjqvQmcukL8hj826Xj"
       },
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 240000,
       "name": "Freak",
       "url": "https://open.spotify.com/track/72OxLzdVF8Ktqo2scstL1y"
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 128776,
       "name": "Groove Glider",
       "url": "https://open.spotify.com/track/4BNbwseqUTPlcEHCbT0hW5"
@@ -2634,7 +2670,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 213596,
       "name": "Higher and Higher",
       "url": "https://open.spotify.com/track/0o2y64jHIjh6eEaL5NsZlT"
@@ -2846,6 +2882,24 @@
       "duration_ms": 213263,
       "name": "I Wanna Be Evil",
       "url": "https://open.spotify.com/track/1RI9qORG9QtCSgsMFpGNPE"
+    },
+    {
+      "album": {
+        "name": "I Wanna MMM (Electro Swing Bot Version)",
+        "url": "https://open.spotify.com/album/7xw2GLL7luPGeWmfc1ctQj"
+      },
+      "artists": [
+        {
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223511,
+      "name": "I Wanna MMM - Electro Swing Bot Version",
+      "url": "https://open.spotify.com/track/3YGGpRjcF18lLfcHS7Txxr"
     },
     {
       "album": {
@@ -4198,7 +4252,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181293,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/3m3qjAfKtCJTl6vKBPyquU"
@@ -4312,6 +4366,24 @@
       "duration_ms": 182400,
       "name": "Mr. Jones - Balduin Remix",
       "url": "https://open.spotify.com/track/322Zz1jDLcdiGT853C9cJ0"
+    },
+    {
+      "album": {
+        "name": "Mr. Perfect",
+        "url": "https://open.spotify.com/album/5cHVYiR6UCRfPHATwAHnjD"
+      },
+      "artists": [
+        {
+          "name": "Daisy La Fontaine",
+          "url": "https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "Mr. Perfect",
+      "url": "https://open.spotify.com/track/1wk3h5pPRtjQp4mV0ON5pQ"
     },
     {
       "album": {
@@ -4952,7 +5024,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 229186,
       "name": "Retronik",
       "url": "https://open.spotify.com/track/7q3sBCvNeZep3Ppz2ySBST"
@@ -5522,10 +5594,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200655,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/6YbPQJkQVSNiXy0b1O49W6"
+    },
+    {
+      "album": {
+        "name": "Smoke Rings (Swing Hop Mix)",
+        "url": "https://open.spotify.com/album/4QARvbfgA9P3yZkAIONe46"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "Jive Jack",
+          "url": "https://open.spotify.com/artist/68SoerIOP3azx4b0nTCyrh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105494,
+      "name": "Smoke Rings - Swing Hop Mix",
+      "url": "https://open.spotify.com/track/0onK2I2SqpvmpYvrcUkd2P"
     },
     {
       "album": {
@@ -6586,6 +6680,28 @@
       "duration_ms": 171707,
       "name": "The Illusionist - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/16FCFtwDtgv4OamXVZrqim"
+    },
+    {
+      "album": {
+        "name": "The Istrian Job",
+        "url": "https://open.spotify.com/album/5gswEdrxMo8lMzn2OxyXRn"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Teo Collori in Momento Cigano",
+          "url": "https://open.spotify.com/artist/48cneGFVFRk062PwTL22iH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The Istrian Job",
+      "url": "https://open.spotify.com/track/1gaiAr6VmelPRGY4uFrbLk"
     },
     {
       "album": {

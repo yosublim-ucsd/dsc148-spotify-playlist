@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,162 songs - 6 day 14 hr 56 min
+4,163 songs - 6 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2640,7 +2640,7 @@
 | [oscarto](https://open.spotify.com/track/1CEEgJrmLuKDSm6pt7sXok) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 5](https://open.spotify.com/album/1jbN4bYY8ZX7FpkBn49FlG) | 1:36 | 2021-01-17 | 2021-03-14 |
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
-| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 |  |
+| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2024-06-29 |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 | 2022-11-20 |
@@ -3473,6 +3473,7 @@
 | [Sunflower Dance](https://open.spotify.com/track/06bGEmVqy2qwKINAuTWg7H) | [Trog'low](https://open.spotify.com/artist/10z5adFMMTwTKn9unto6QB) | [Jazz Joints](https://open.spotify.com/album/0AJ8Fe0E0L5R55yF97ph5W) | 2:26 | 2019-05-26\* | 2019-06-15 |
 | [Sunflower Fields](https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunflower Fields](https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z) | 1:38 | 2023-03-30 |  |
 | [Sunflowers](https://open.spotify.com/track/0CjjvJyeefX4M4Alm36agK) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Sunflowers](https://open.spotify.com/album/3ByoZJmjiiRpkkAPdssXm3) | 1:51 | 2021-10-06 | 2021-10-29 |
+| [Sunkissed](https://open.spotify.com/track/6sI2PKNUkwTJexvW4FYrah) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Sunkissed](https://open.spotify.com/album/2jFuqRfCGbNAdgLzySkdWp) | 2:18 | 2024-06-28 |  |
 | [Sunny](https://open.spotify.com/track/5IMN6U2yKva50QhZd8AtqU) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunny](https://open.spotify.com/album/5HiUSNQJvZLUQLBWo0kgbH) | 1:48 | 2023-02-23 | 2023-05-12 |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2019-05-26\* | 2020-04-29 |
 | [Sunny](https://open.spotify.com/track/5m89mdit6X1w6Z1L7fy5Fz) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Sunny](https://open.spotify.com/album/7oZz5cqt7XLpvRYEj0B2bo) | 2:09 | 2021-08-20 | 2021-09-17 |

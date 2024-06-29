@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Maru2D",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Mc Morena",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186857,
       "name": "Garota Calif\u00f3rnia",
       "url": "https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S"
@@ -2208,6 +2208,28 @@
       "duration_ms": 142268,
       "name": "LoveSong",
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "album": {
+        "name": "Luz da Lua",
+        "url": "https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe"
+      },
+      "artists": [
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108493,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O"
     },
     {
       "album": {

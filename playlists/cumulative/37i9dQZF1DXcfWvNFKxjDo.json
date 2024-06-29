@@ -18267,20 +18267,24 @@
     },
     {
       "album": {
-        "name": "La Verdolaga",
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
       },
       "artists": [
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150987,
-      "name": "La Verdolaga",
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {

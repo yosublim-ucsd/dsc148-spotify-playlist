@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 140812,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180915,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/2FmQv4uDrTBw9Hor1dCdBb"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 178344,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/7DUd7RxFvD07eKR2n0x9LV"
@@ -6212,6 +6212,24 @@
       "duration_ms": 147230,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/6iqJCu5hhdKko7ywoQgiDW"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "where folk flowers bloom. cover: Jensen McRae",
-  "num_followers": 109547,
+  "description": "where folk flowers bloom. cover: Willow Avalon",
+  "num_followers": 109589,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAADswuyQPouX/noYRkSP3Asn",
+  "snapshot_id": "Zn7R9AAAAACu2uaKeqBbia3w9J5HFBEl",
   "tracks": [
     {
       "added_at": "2024-06-11 16:50:48",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
     },
     {
+      "added_at": "2024-06-28 15:08:36",
+      "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Look At That Woman",
@@ -39,6 +59,22 @@
       "duration_ms": 163458,
       "name": "Look At That Woman",
       "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Tequila or Whiskey",
+        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 133695,
+      "name": "Tequila or Whiskey",
+      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
     },
     {
       "added_at": "2024-05-01 19:02:19",
@@ -169,6 +205,22 @@
       "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
     },
     {
+      "added_at": "2024-05-23 16:55:29",
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Heart of the Artichoke",
@@ -233,22 +285,6 @@
       "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
     },
     {
-      "added_at": "2024-05-23 16:55:29",
-      "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Honey I'm Hardly",
@@ -263,6 +299,22 @@
       "duration_ms": 167733,
       "name": "Honey I'm Hardly",
       "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "carnival sounds",
+        "url": "https://open.spotify.com/album/6k1w7HAK3B09JHglsLd9J0"
+      },
+      "artists": [
+        {
+          "name": "Jahnah Camille",
+          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
+        }
+      ],
+      "duration_ms": 260209,
+      "name": "carnival sounds",
+      "url": "https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -917,22 +969,6 @@
       "url": "https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "in your arms",
-        "url": "https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "in your arms",
-      "url": "https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "violet",
@@ -1227,22 +1263,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lonely Island",
         "url": "https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8"
       },
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Blame The Moon",
         "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
       },
@@ -1511,22 +1515,6 @@
       "duration_ms": 217293,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v08WocoiKJ2K4Xq9Oi8Oj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "For You I'll Wait",
-        "url": "https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0"
-      },
-      "artists": [
-        {
-          "name": "harf.",
-          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
-        }
-      ],
-      "duration_ms": 235794,
-      "name": "For You I'll Wait",
-      "url": "https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U"
     },
     {
       "added_at": "2024-02-16 05:00:00",

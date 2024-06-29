@@ -4,7 +4,7 @@
 
 > Fino y elegante, como J Balvin
 
-248 songs - 13 hr 3 min
+249 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Drama & Dinero](https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Drama & Dinero](https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ) | 3:28 | 2022-12-23 | 2023-03-25 |
 | [Dudas De Mí](https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Dudas De Mí](https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0) | 2:38 | 2023-05-12 | 2023-07-29 |
 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 | 2022-09-06 |  |
-| [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 |  |
+| [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 | 2024-06-29 |
 | [DÉJALO EN VISTO](https://open.spotify.com/track/5PrNsTfGhAxHcdg3AgqBNt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:09 | 2023-11-10 | 2024-04-19 |
 | [DÉJALO EN VISTO](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DÉJALO EN VISTO](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 | 2023-06-23 | 2023-11-13 |
 | [El Chisme](https://open.spotify.com/track/4VXejnj5WgM6H72ct2fSgQ) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [El Chisme](https://open.spotify.com/album/6GrWXTqUu5ACouByzTMNiq) | 2:57 | 2022-10-13 | 2023-03-10 |
@@ -128,6 +128,7 @@
 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 | 2022-10-13 | 2023-02-25 |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-11-24 | 2023-12-16 |
 | [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/track/3UDZISwcvGJhqWX6wSdwRc) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/album/5Qp2bS9cDOnJaK5jjGXotq) | 2:29 | 2023-02-24 | 2023-05-20 |
+| [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 | 2024-06-28 |  |
 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2022-12-23 | 2023-06-30 |
 | [Lejanía](https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Lejanía](https://open.spotify.com/album/5Bnfb9TbhUc555wRfYN0FE) | 3:54 | 2022-10-13 |  |
 | [Lejos De Mis Ojos](https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lejos De Mis Ojos](https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un) | 2:56 | 2024-04-10 | 2024-05-18 |

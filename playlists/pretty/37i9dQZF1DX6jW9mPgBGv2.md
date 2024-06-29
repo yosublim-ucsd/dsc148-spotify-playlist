@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Juliito y Pressure 9X19 plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,715 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,849 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 15 | [Al Pacino](https://open.spotify.com/track/1Tvd0xGlrpeKsiORhwIz21) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [Al Pacino](https://open.spotify.com/album/2zsBtNv5a9IsPA0eFGdhV6) | 3:25 |
 | 16 | [Premium](https://open.spotify.com/track/3XB1ccS8WJXTG3QbDqiK8J) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [Premium](https://open.spotify.com/album/1jyyGmiWCqNtxMN7HhVQhD) | 2:17 |
 | 17 | [DRIPPEO KBRON](https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DRIPPEO KBRON](https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj) | 3:18 |
-| 18 | [GRACIAS DIOS MIO](https://open.spotify.com/track/4GhjquyN3AQBfrYoedjLkJ) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [GRACIAS DIOS MIO](https://open.spotify.com/album/4m0AEthzYB6568Afz2pWLl) | 2:47 |
+| 18 | [GRACIAS DIOS MIO](https://open.spotify.com/track/4GhjquyN3AQBfrYoedjLkJ) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Krist on the Beat](https://open.spotify.com/artist/1M39rRSlqUs6BmzQ2sVCLn) | [GRACIAS DIOS MIO](https://open.spotify.com/album/4m0AEthzYB6568Afz2pWLl) | 2:47 |
 | 19 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 |
 | 20 | [Diamonds](https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1) | [TRAMPA BILLONE](https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Diamonds](https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P) | 3:07 |
 | 21 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rymz",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia, A2h",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -4541,6 +4541,28 @@
     },
     {
       "album": {
+        "name": "Fausse note",
+        "url": "https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "A2h",
+          "url": "https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157648,
+      "name": "Fausse note",
+      "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
+    },
+    {
+      "album": {
         "name": "Fermer les yeux",
         "url": "https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5"
       },
@@ -5332,7 +5354,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 224782,
       "name": "GO MODE",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
@@ -6960,7 +6982,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194626,
       "name": "Laisse-moi",
       "url": "https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn"
@@ -12106,6 +12128,28 @@
       "duration_ms": 240000,
       "name": "TANNANCE",
       "url": "https://open.spotify.com/track/2p74T4FWsclCtwapawzKns"
+    },
+    {
+      "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216084,
+      "name": "TARD LA NUIT",
+      "url": "https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg"
     },
     {
       "album": {

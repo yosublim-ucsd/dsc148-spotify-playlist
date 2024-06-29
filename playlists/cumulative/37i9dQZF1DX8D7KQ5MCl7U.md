@@ -2,9 +2,9 @@
 
 ### [This Is Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8D7KQ5MCl7U)
 
-> Turri Jandi Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
+> Piya Piya Calling Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-411 songs - 1 day 20 hr 58 min
+412 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Bibi Sanam Janem](https://open.spotify.com/track/6zKJUZJDyf2pbiYjStBvKh) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:13 | 2022-03-23 |  |
 | [Billo](https://open.spotify.com/track/3jBcqTC9xDmmd07xPbOPnt) | [Abrar Ul Haq](https://open.spotify.com/artist/0t5FYih5qVOZiPO6P6O3H6) | [Billo](https://open.spotify.com/album/1wnCbGprns25Eb3LUFicIy) | 5:50 | 2022-03-23 | 2022-07-28 |
 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 | 2024-05-25 |  |
-| [Bo Giyam](https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr), [Nimra Rafiq](https://open.spotify.com/artist/7iVSnctHZF2JDhJRUO0GxT) | [Bo Giyam](https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp) | 5:42 | 2022-03-23 |  |
+| [Bo Giyam](https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr), [Nimra Rafiq](https://open.spotify.com/artist/7iVSnctHZF2JDhJRUO0GxT) | [Bo Giyam](https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp) | 5:42 | 2022-03-23 | 2024-06-29 |
 | [Bol](https://open.spotify.com/track/1duKMLHT2Zgs17ssrtx902) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 5:58 | 2022-03-23 | 2024-01-11 |
 | [Bolay](https://open.spotify.com/track/7MvqWEX8jOr68uebuOgpOF) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 2:57 | 2022-03-23 | 2022-07-24 |
 | [Bone Shaker](https://open.spotify.com/track/6wftRnQMCFRTiFR3CA70r7) | [Usman Riaz](https://open.spotify.com/artist/52ua72K0vOhSHquqITmoNU) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 4:23 | 2022-03-23 | 2022-07-14 |
@@ -299,6 +299,7 @@
 | [Phool Banro](https://open.spotify.com/track/2obmpv5y7Ny6fHwWv7fqxX) | [Humira Channa](https://open.spotify.com/artist/0ZOFWjgTzUWUFxjjd0g7dO), [Abbas Ali Khan](https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:20 | 2022-03-23 |  |
 | [Piya Dehkan Ko](https://open.spotify.com/track/1frGW887ZzFysJHMdq2Mmj) | [Nafees Ahmed Khan](https://open.spotify.com/artist/6wa7LgT2horYsbx5pmbOa9), [Hamid Ali Khan](https://open.spotify.com/artist/4PA27e3ypP9ssjueNFy6PA) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:31 | 2022-03-23 | 2022-07-29 |
 | [Piya Ghar Aaya](https://open.spotify.com/track/7108Wtu2P9a81kbSm1boVA) | [Fareed Ayaz Abu Muhammad Qawwal & Brothers](https://open.spotify.com/artist/7koP6nz3zSkVbi2TQfZfV8) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 13:04 | 2022-03-23 |  |
+| [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC) | [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R) | 4:46 | 2024-06-28 |  |
 | [Pritam](https://open.spotify.com/track/5UCgxHhw5HdEvHcYsv7jaY) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:48 | 2022-03-23 | 2022-07-18 |
 | [Pyaar Naal](https://open.spotify.com/track/6Lqfmvr2SeTfffxD5bf3C0) | [Attaullah Essakhelvi](https://open.spotify.com/artist/07oN5jQWxaqqkB5IKvZ4Ea), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 7:18 | 2022-03-23 |  |
 | [Raat Gaey](https://open.spotify.com/track/54m3clSi5WDzpVJIydmdv1) | [Zoe Viccaji](https://open.spotify.com/artist/4CSlFJu7OMFb6hcOL2fElL), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 5:08 | 2022-03-23 | 2022-07-19 |

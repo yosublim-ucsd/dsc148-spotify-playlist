@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Homer El Mero Mero.",
+  "description": "Rimas argentinas. Foto: El Doctor.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -274,6 +274,32 @@
       "duration_ms": 125142,
       "name": "ACTITUD",
       "url": "https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe"
+    },
+    {
+      "album": {
+        "name": "Adelantado",
+        "url": "https://open.spotify.com/album/5IokoqgSfmhq5unsRNs24S"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "808god",
+          "url": "https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Adelantado",
+      "url": "https://open.spotify.com/track/6bcAaffKIk6lkRAn3CJ8ng"
     },
     {
       "album": {
@@ -1966,7 +1992,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 206088,
       "name": "El Trucho",
       "url": "https://open.spotify.com/track/3THuuiiGWE8hze0zpI5Xly"
@@ -2172,6 +2198,24 @@
       "duration_ms": 156254,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/4QB0VJUZoM12np6F7ucSYP"
+      },
+      "artists": [
+        {
+          "name": "Klan",
+          "url": "https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6wY0d6mPSHOZXL0ZQGClY0"
     },
     {
       "album": {
@@ -2773,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Ida & Vuelta",
+        "url": "https://open.spotify.com/album/7Mb7nJQnyKx2v374tYtsRv"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226423,
+      "name": "Ida",
+      "url": "https://open.spotify.com/track/3eeFR0UY6CQBfTsIrEiIL0"
+    },
+    {
+      "album": {
         "name": "ILL",
         "url": "https://open.spotify.com/album/7zr7be3J7DNFsZPw1m1BtY"
       },
@@ -2890,6 +2952,24 @@
       "duration_ms": 137574,
       "name": "Jove",
       "url": "https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp"
+    },
+    {
+      "album": {
+        "name": "JOVEN ETO'O",
+        "url": "https://open.spotify.com/album/1sNULSoUMCqHZy8fwEoofz"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160032,
+      "name": "JOVEN ETO'O",
+      "url": "https://open.spotify.com/track/68F6E8uCMQpMeaVBsfCbdn"
     },
     {
       "album": {
@@ -3160,7 +3240,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 149902,
       "name": "LLUEVE",
       "url": "https://open.spotify.com/track/0y1SfSeTrV2bHd9xy1GDjH"
@@ -3776,7 +3856,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 160000,
       "name": "MI PROP\u00d3SITO",
       "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
@@ -5920,7 +6000,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 143541,
       "name": "Wachita",
       "url": "https://open.spotify.com/track/1GNq3jJMQZmtmXnjDEkiU3"

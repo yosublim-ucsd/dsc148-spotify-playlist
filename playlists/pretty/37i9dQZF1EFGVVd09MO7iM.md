@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 406 songs - 1 day 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,473 likes - 406 songs - 1 day 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 42 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
 | 43 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
 | 44 | [successful](https://open.spotify.com/track/5YeHLHDdQ4nKHk81XFWhCU) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:47 |
-| 45 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
-| 46 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 45 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 46 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
 | 47 | [Up There](https://open.spotify.com/track/2rKmNEYrQxaOPZrOWKZpOc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:14 |
 | 48 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
 | 49 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 |
@@ -229,8 +229,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 219 | [When the Last Time](https://open.spotify.com/track/0EXm0iaB0CzqtsB3VaupXj) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:14 |
 | 220 | [Money](https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Money](https://open.spotify.com/album/7jt2ZSsqgR2VG6s1XkWw7E) | 2:50 |
 | 221 | [Love Is The Answer](https://open.spotify.com/track/4LRkoMKYJZB8fbeQd2YLUY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 3:44 |
-| 222 | [BBC](https://open.spotify.com/track/0ftpc9EOGzCOFzeTioekK3) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 3:12 |
-| 223 | [letstalkaboutit](https://open.spotify.com/track/0Z4oNNgJKK9VcuSw1L5Cb4) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:46 |
+| 222 | [letstalkaboutit](https://open.spotify.com/track/0Z4oNNgJKK9VcuSw1L5Cb4) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:46 |
+| 223 | [BBC](https://open.spotify.com/track/0ftpc9EOGzCOFzeTioekK3) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 3:12 |
 | 224 | [Hypnotize U](https://open.spotify.com/track/3W04NvglYcJ8faSLK68mGc) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 4:16 |
 | 225 | [Mr\. Me Too](https://open.spotify.com/track/6cAldqwmbUwpM8D17FWtPL) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 |
 | 226 | [Beat a N\*gga Block](https://open.spotify.com/track/0F7oaq4qpD7ijADV6gJBwe) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 2:26 |
@@ -310,8 +310,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 300 | [I'm Ya Dogg \(feat\. Kendrick Lamar & Rick Ross\)](https://open.spotify.com/track/16utyJfWZGkTWYDobMzND7) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:38 |
 | 301 | [Angel](https://open.spotify.com/track/4WHQH9TRMCtR7nqnTjKaty) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 2:44 |
 | 302 | [Doowit](https://open.spotify.com/track/5kEtqjB0rxTT1oEYGkD0Po) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 4:02 |
-| 303 | [The Good Life](https://open.spotify.com/track/4MQsMfVxJtu79nUHwWD2WQ) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [The Preview](https://open.spotify.com/album/0BfzIrlViS9devVRvpf4tw) | 2:56 |
-| 304 | [Let's Take A Ride](https://open.spotify.com/track/1EEwfP7Trp1E52C40kCWcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:44 |
+| 303 | [Let's Take A Ride](https://open.spotify.com/track/1EEwfP7Trp1E52C40kCWcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:44 |
+| 304 | [The Good Life](https://open.spotify.com/track/4MQsMfVxJtu79nUHwWD2WQ) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [The Preview](https://open.spotify.com/album/0BfzIrlViS9devVRvpf4tw) | 2:56 |
 | 305 | [Good Stuff](https://open.spotify.com/track/6E2K2I89maFIMR7Zqx57aE) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Terrar](https://open.spotify.com/artist/0HQWgrzmyxoSYMVWQ70EJW) | [Kaleidoscope](https://open.spotify.com/album/33viW1sFm3sCCmzs7FZ9MI) | 3:52 |
 | 306 | [Why Should I Be Sad](https://open.spotify.com/track/05ysmI6jXcCYLNPCOu9vnQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:10 |
 | 307 | [Maybe](https://open.spotify.com/track/3nrGG3qYHIhjnHOx1lnMNx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 4:23 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 405 | [Ghetto Children](https://open.spotify.com/track/52XCA6ZanL2yEHBmJogIUk) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Kaleidoscope](https://open.spotify.com/album/2QFua4q4idl0jgRavneYZ9) | 4:48 |
 | 406 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 |
 
-Snapshot ID: `AbVNTAAAAACF4PF2KfuSgGXiU9sATXCf`
+Snapshot ID: `AbVS7AAAAAAYZNFQF/E0liYTWkfLXKSA`

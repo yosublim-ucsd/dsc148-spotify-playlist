@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible.
+> El nuevo sonido argentino lo encontrás acá\. Foto: planta.
 
-213 songs - 11 hr 43 min
+215 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-04-05 | 2024-04-27 |
 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 | 2024-02-23 |  |
 | [Acuerdo](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Acuerdo](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 | 2024-06-14 |  |
+| [Adolescer](https://open.spotify.com/track/5CDvD0HVdQibxeuQwAVWaq) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Adolescer](https://open.spotify.com/album/1J1ByOgpro06hpyYdrB0hv) | 3:14 | 2024-06-28 |  |
 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-12-15 | 2024-01-20 |
 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2024-04-05 |  |
 | [AIRE](https://open.spotify.com/track/3tdbrXujlOuWK62lhxBhVV) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [AIRE](https://open.spotify.com/album/7pTcUd0Du1SMJNLv8h8x04) | 3:39 | 2024-04-26 |  |
@@ -105,6 +106,7 @@
 | [Hechizao](https://open.spotify.com/track/5pm2qaWB2aeoa5B2kFjQXg) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 2:23 | 2024-04-05 |  |
 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-12-15 | 2024-04-06 |
+| [la barrera](https://open.spotify.com/track/7MTx6v0rWL7SNGmUgZGXcD) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [la barrera](https://open.spotify.com/album/403S7pC3epOSAZsi8iccLH) | 3:12 | 2024-06-28 |  |
 | [La Celebración](https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [La Celebración](https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM) | 3:44 | 2024-01-05 | 2024-04-06 |
 | [La Coincidencia](https://open.spotify.com/track/7EDOr0ZTrPhbySWoERZ5JZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [El Llamado del Sol](https://open.spotify.com/album/5q5mMvzCeORGiT24mwpUtb) | 2:28 | 2023-12-15 | 2024-04-06 |
 | [La Despedida](https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [La Despedida](https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx) | 2:27 | 2024-05-17 |  |
@@ -201,7 +203,7 @@
 | [trance ZZZ](https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZ](https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia) | 2:12 | 2024-05-10 |  |
 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 | 2023-12-15 |  |
 | [Tu Calor](https://open.spotify.com/track/4qqnfffDtMMt58Zw2NIffu) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Tu Calor](https://open.spotify.com/album/0rnWUuYhemV5cbU69dMi7C) | 3:16 | 2024-02-16 |  |
-| [tu mejor pesadilla](https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [tu mejor pesadilla](https://open.spotify.com/album/7pbiOJEL2JVAhGjIy5Czsa) | 3:32 | 2024-04-05 |  |
+| [tu mejor pesadilla](https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [tu mejor pesadilla](https://open.spotify.com/album/7pbiOJEL2JVAhGjIy5Czsa) | 3:32 | 2024-04-05 | 2024-06-29 |
 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 | 2023-12-15 | 2024-03-02 |
 | [Tutank’mon](https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Tutank’mon](https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL) | 2:32 | 2023-12-15 | 2024-01-13 |
 | [Túnel de la Vida](https://open.spotify.com/track/1xCD7ccEtiylN6BBJ4ogXF) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 4:00 | 2024-04-05 |  |

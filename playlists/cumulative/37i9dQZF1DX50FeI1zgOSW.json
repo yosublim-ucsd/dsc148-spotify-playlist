@@ -2813,6 +2813,32 @@
     },
     {
       "album": {
+        "name": "Madras Mazhai",
+        "url": "https://open.spotify.com/album/1InwdAyJdjkiZm0KOSQMmE"
+      },
+      "artists": [
+        {
+          "name": "Saras Menon",
+          "url": "https://open.spotify.com/artist/4mAq6TQySa1Jg44cBjvCip"
+        },
+        {
+          "name": "Mukund Ambarish",
+          "url": "https://open.spotify.com/artist/5mK5BecJ5dSwQFoDhozr2d"
+        },
+        {
+          "name": "Akshay Ganesh",
+          "url": "https://open.spotify.com/artist/4CRIhTzqH2S4qTzAHHT4Zt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Madras Mazhai",
+      "url": "https://open.spotify.com/track/5U8wig388mEr4GpLIiq2X3"
+    },
+    {
+      "album": {
         "name": "Makal",
         "url": "https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r"
       },
@@ -3894,6 +3920,32 @@
       "duration_ms": 163764,
       "name": "Nila",
       "url": "https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG"
+    },
+    {
+      "album": {
+        "name": "Nila",
+        "url": "https://open.spotify.com/album/2QIQo3HAoODX6pU0nWh935"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Tushar Budhwani",
+          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207310,
+      "name": "Nila",
+      "url": "https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed"
     },
     {
       "album": {

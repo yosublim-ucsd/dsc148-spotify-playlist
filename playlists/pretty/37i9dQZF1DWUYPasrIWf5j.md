@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,931 likes - 89 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,998 likes - 88 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,21 +81,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 71 | [Lucky](https://open.spotify.com/track/0bWRj1HS4Z0f08LSAZYGsh) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:06 |
 | 72 | [All Of Me](https://open.spotify.com/track/0q27gc0LjAclgicdlnG182) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:51 |
 | 73 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1lYTXhbkp0rZAN8KXqyX0I) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:16 |
-| 74 | [All I Have To Do Is Dream](https://open.spotify.com/track/0uRUYZp0xw5AZsP6Pgpuk0) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [All I Have To Do Is Dream](https://open.spotify.com/album/2zzP8Gk39MkAUy6URU8UOQ) | 2:44 |
-| 75 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 |
-| 76 | [Brown Eyed Girl \(Instrumental Version\)](https://open.spotify.com/track/3lEbjq7AFXvskZTSSt9lZo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:44 |
-| 77 | [Norwegian Wood](https://open.spotify.com/track/3BE3TKiC6SSfwOFtL9bcav) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 2:40 |
-| 78 | [Stand By Me](https://open.spotify.com/track/0ual4TIPtov7056Mb7p616) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 3:06 |
-| 79 | [Hey, Soul Sister](https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:03 |
-| 80 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pfvefT7HdWaHZHVG1sYWT) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:48 |
-| 81 | [Perfect](https://open.spotify.com/track/5KD1XpRTsNmaxLtT3M5oiD) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:18 |
-| 82 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [Wild World](https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe) | 3:45 |
-| 83 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 |
-| 84 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 |
-| 85 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
-| 86 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 |
-| 87 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Disney Favorites on Ukulele](https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK) | 3:52 |
-| 88 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
-| 89 | [Adore You \- Ukulele Version](https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:18 |
+| 74 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 |
+| 75 | [Brown Eyed Girl \(Instrumental Version\)](https://open.spotify.com/track/3lEbjq7AFXvskZTSSt9lZo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:44 |
+| 76 | [Norwegian Wood](https://open.spotify.com/track/3BE3TKiC6SSfwOFtL9bcav) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 2:40 |
+| 77 | [Stand By Me](https://open.spotify.com/track/0ual4TIPtov7056Mb7p616) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 3:06 |
+| 78 | [Hey, Soul Sister](https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:03 |
+| 79 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pfvefT7HdWaHZHVG1sYWT) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:48 |
+| 80 | [Perfect](https://open.spotify.com/track/5KD1XpRTsNmaxLtT3M5oiD) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:18 |
+| 81 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [Wild World](https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe) | 3:45 |
+| 82 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 |
+| 83 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 |
+| 84 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
+| 85 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 |
+| 86 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Disney Favorites on Ukulele](https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK) | 3:52 |
+| 87 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
+| 88 | [Adore You \- Ukulele Version](https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:18 |
 
-Snapshot ID: `ZnQSDwAAAABDw5AbGjJcmHe/6YYImURl`
+Snapshot ID: `Zn7LJgAAAAAWgR2lJ6LFKSIqUy2i0hmy`

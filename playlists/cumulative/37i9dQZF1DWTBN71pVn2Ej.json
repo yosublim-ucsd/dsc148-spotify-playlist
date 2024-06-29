@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 200696,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2"
@@ -3340,6 +3340,32 @@
       "duration_ms": 221333,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ"
+    },
+    {
+      "album": {
+        "name": "Edin",
+        "url": "https://open.spotify.com/album/1loDJQ76e94PP9mrsYDUTY"
+      },
+      "artists": [
+        {
+          "name": "Common Sage",
+          "url": "https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn"
+        },
+        {
+          "name": "Geoff Rickly",
+          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
+        },
+        {
+          "name": "Steve Pedulla",
+          "url": "https://open.spotify.com/artist/6QOfyxeEqs8GfotvSBVF38"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Edin (feat. Geoff Rickly and Steve Pedulla)",
+      "url": "https://open.spotify.com/track/0dXWrvc1HFCGvxSlap8rJh"
     },
     {
       "album": {
@@ -5562,7 +5588,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 241608,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT"
@@ -7147,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "Your Own Becoming",
+        "url": "https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Nothing To Learn From",
+      "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
+    },
+    {
+      "album": {
         "name": "Nothing's Stopping Me Now",
         "url": "https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf"
       },
@@ -8555,6 +8599,24 @@
     },
     {
       "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/5lyPpLIB9rE7M5qfH9o1ch"
+      },
+      "artists": [
+        {
+          "name": "Crossing i's Dotting t's",
+          "url": "https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227754,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1nXOm9Z1C5WgGGpnboauqm"
+    },
+    {
+      "album": {
         "name": "Shortest Fuse",
         "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
       },
@@ -9262,7 +9324,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 202090,
       "name": "Stumbling as I Fall",
       "url": "https://open.spotify.com/track/0QkjSWG4qtukt0HuhrdWN6"

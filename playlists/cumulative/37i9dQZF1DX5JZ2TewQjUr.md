@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Mr Koo
 
-1,071 songs - 2 day 12 hr 38 min
+1,072 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 | 2023-12-28 | 2024-05-10 |
 | [That’s My City](https://open.spotify.com/track/1n53s8k0DCPDlRmbvlemTy) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [AION](https://open.spotify.com/album/0ugzhDdaFaXenDixlPZKuU) | 2:56 | 2024-06-06 |  |
 | [The Climber](https://open.spotify.com/track/0clq9tBWpHxzp0IEl6Bmj0) | [Franklin Telescope](https://open.spotify.com/artist/7fgEhDBZy0SV0xyEOopmTL) | [Burst into Your Quirky Soul](https://open.spotify.com/album/0lj00lgAPYpYR9grRCdmeZ) | 4:24 | 2022-05-26 | 2022-07-29 |
+| [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 |  |
 | [The First Ones](https://open.spotify.com/track/1Y8MVdOVPhJs04CKavUuLY) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [The First Ones](https://open.spotify.com/album/6lSsbZOnB4cDbKWl9168mt) | 4:08 | 2023-02-02 | 2023-07-14 |
 | [The Happier One \- retro style](https://open.spotify.com/track/06Dq3j5tDBCPH9sFAadrXQ) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [The Happier One \(retro style\)](https://open.spotify.com/album/1afhpd9AIpuItPVobU9cbO) | 3:37 | 2022-10-06 | 2023-02-03 |
 | [The Island \- Night Version](https://open.spotify.com/track/6lDHh74XhmqpeLQxR7H0Gf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [The Island](https://open.spotify.com/album/5OkCkb5ryHTLNxOQeduzAz) | 4:08 | 2022-09-15 | 2023-02-03 |

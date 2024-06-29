@@ -2,9 +2,9 @@
 
 ### [PARTY MODE](https://open.spotify.com/playlist/37i9dQZF1DX0MXH7aN4Pxn)
 
-> 
+> Cover: Confidence Man
 
-508 songs - 1 day 2 hr 12 min
+509 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [How Does It Feel \- Endor Remix](https://open.spotify.com/track/7DZIsdlR2pUSmblHytDxUR) | [Roger That \(UK\)](https://open.spotify.com/artist/3QfdXTOt0oT3CWTg3eEMd1), [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [How Does It Feel \(Endor Remix\)](https://open.spotify.com/album/4Tu0INRUlWeFZitjEF2fha) | 3:25 | 2022-04-15 | 2022-07-18 |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2022-04-15 | 2024-05-17 |
 | [Hurting \- VIP Edit](https://open.spotify.com/track/19EbEe5ENZaGIEF2asGQ29) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Hurting \(VIP Edit\)](https://open.spotify.com/album/4awGDIehjP4wLCF5LtHh64) | 3:29 | 2022-04-15 | 2022-06-24 |
+| [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 | 2024-06-28 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [I Don’t Wanna Know](https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0) | 2:45 | 2022-06-20 | 2023-09-08 |
 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 | 2023-11-10 | 2024-01-13 |
 | [I Had to Know](https://open.spotify.com/track/6xbs6pv0C2voTU2Or3RaqD) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy) | [I Had to Know](https://open.spotify.com/album/7Alj4KyKPkmqKAbQgN7AEe) | 3:34 | 2022-04-15 | 2022-07-29 |
@@ -385,7 +386,7 @@
 | [Rely](https://open.spotify.com/track/2OmwAeV7OLkd6XkzHqVYeG) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Future Kings](https://open.spotify.com/artist/4oDkont73KiwJOLTDJuSHV), [L'Tric](https://open.spotify.com/artist/4ZedOHbnyLaFvvMuY6uaOM) | [Rely](https://open.spotify.com/album/7pbrL2PZwX5XkUqG7tMqJF) | 2:53 | 2022-04-15 | 2022-07-29 |
 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2024-04-12 |  |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2024-02-23 | 2024-04-19 |
-| [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 | 2024-01-12 |  |
+| [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 | 2024-01-12 | 2024-06-29 |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2022-06-20 | 2023-09-08 |
 | [Right Here](https://open.spotify.com/track/73jq7211BkvN8sl3E9PZjM) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Right Here](https://open.spotify.com/album/5jF6ssvRdfcjBJMuBSI1Ap) | 2:28 | 2022-04-15 | 2022-07-27 |
 | [Rinse & Repeat](https://open.spotify.com/track/6lo7WipynUbiHfmmcpn3Qa) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 2:31 | 2024-01-12 | 2024-02-23 |

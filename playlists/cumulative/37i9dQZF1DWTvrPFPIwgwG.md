@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
 
-206 songs - 17 hr 24 min
+208 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 | 2024-04-19 |  |
 | [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 |  |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 |  |
-| [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 | 2022-09-09 |  |
+| [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 | 2022-09-09 | 2024-06-29 |
 | [Foi Livramento](https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Foi Livramento](https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq) | 3:39 | 2023-07-07 |  |
 | [Foi o Senhor \- Ao Vivo](https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Foi o Senhor \(Ao Vivo\)](https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq) | 6:52 | 2023-09-01 |  |
 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 | 2022-09-09 |  |
@@ -142,6 +142,7 @@
 | [Olhando Pra Você](https://open.spotify.com/track/52RMRXYZIkVhzfbzV8xBPu) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Olhando Pra Você](https://open.spotify.com/album/1ORbMDUZk2wElpvop4nd6s) | 4:08 | 2022-09-09 | 2022-10-29 |
 | [Onde Está Sua Fé?](https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Onde Está Sua Fé?](https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem) | 5:08 | 2022-09-09 |  |
 | [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 | 2023-02-10 | 2023-06-24 |
+| [Parar Por Quê ?](https://open.spotify.com/track/6p6fwPILucLizPbmlGkHUG) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Parar Por Quê ?](https://open.spotify.com/album/3lIdr7RLof7GAZ5XXgrwke) | 4:44 | 2024-06-28 |  |
 | [Passa Lá em Casa Jesus](https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Passa Lá em Casa Jesus](https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U) | 4:54 | 2023-09-15 |  |
 | [Passeio na Tempestade \(Ao Vivo\)](https://open.spotify.com/track/2G6kaL885jTxXLqEEbqlrB) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Passeio na Tempestade \(Ao Vivo\)](https://open.spotify.com/album/565Cc2sAwnRsWvr7JISvUE) | 4:35 | 2023-03-24 | 2023-04-22 |
 | [Planos](https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Planos](https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl) | 5:13 | 2023-03-24 |  |
@@ -169,6 +170,7 @@
 | [Se Não Fosse a Tua Mão](https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse a Tua Mão](https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw) | 5:10 | 2023-10-06 |  |
 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 | 2023-02-03 |  |
 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 | 2022-10-28 | 2023-04-22 |
+| [Seu Nome é Maravilhoso](https://open.spotify.com/track/5JHUOK6T6dfbyuL0aWhsJG) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU) | [Seu Nome é Maravilhoso](https://open.spotify.com/album/5p5WRZBJEJcaiIkKVoxdRS) | 5:54 | 2024-06-28 |  |
 | [Sobre o Mar](https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Sobre o Mar](https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ) | 6:17 | 2023-07-07 | 2023-09-09 |
 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 | 2022-09-09 | 2023-03-04 |
 | [Solução](https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Solução](https://open.spotify.com/album/50KjFXqBwuEhlXspZUsqZp) | 4:09 | 2023-07-07 | 2023-09-16 |
@@ -212,7 +214,7 @@
 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 | 2023-07-22 |
 | [Vou Marcar Tua História](https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vou Marcar Tua História](https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9) | 4:09 | 2022-09-09 | 2024-04-27 |
 | [É Adorar](https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [É Adorar](https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC) | 3:57 | 2024-04-19 |  |
-| [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/track/4wzDrgn77tZpUKZYUTntix) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/2gKrbdR2ccF6Xi5a5zxlDH) | 3:45 | 2024-06-14 |  |
+| [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/track/4wzDrgn77tZpUKZYUTntix) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/2gKrbdR2ccF6Xi5a5zxlDH) | 3:45 | 2024-06-14 | 2024-06-29 |
 | [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-788 songs - 1 day 18 hr 19 min
+789 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Don't Let Me Bleed](https://open.spotify.com/track/5ap7pmbQXRpsPXsuR8dwxZ) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Don't Let Me Bleed](https://open.spotify.com/album/1eMUfvVRda9Yv3nSyHIBnH) | 3:35 | 2023-06-02 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-04-21 |  |
 | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/track/1VbiENVGHwF5Y70Ywotwe1) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Ryan Elder](https://open.spotify.com/artist/4Pb4bahbtpK9nkdfp4bHgi) | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/album/36hmo7ODAmoUoLAy2mFa1P) | 3:27 | 2020-06-11 | 2021-05-12 |
+| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 |  |
 | [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 | 2022-05-06 |  |
 | [Don’t Say You Love Me](https://open.spotify.com/track/5Nq19qQnIBvcYbz7UNJTCW) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Don’t Say You Love Me](https://open.spotify.com/album/42bDaVoeDvdS0yfF34Gqq4) | 2:54 | 2021-09-24 |  |
 | [dose](https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [dose](https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD) | 3:00 | 2022-04-19 |  |

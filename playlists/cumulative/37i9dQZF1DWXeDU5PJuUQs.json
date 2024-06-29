@@ -544,7 +544,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168253,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 117653,
       "name": "El Tano Pastita",
       "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
@@ -1857,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Cumbia Viva Session #5 Altos Cumbieros",
+        "url": "https://open.spotify.com/album/3a59FsnrHhLTuiOR79ZbPk"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Viva",
+          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
+        },
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226562,
+      "name": "No Voy a Llorar",
+      "url": "https://open.spotify.com/track/3OLRoqUQItumGBBbtKgHvP"
+    },
+    {
+      "album": {
         "name": "No Voy A Llorar / Me Enamor\u00e9",
         "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
       },
@@ -2136,7 +2158,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 1189088,
       "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
       "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"

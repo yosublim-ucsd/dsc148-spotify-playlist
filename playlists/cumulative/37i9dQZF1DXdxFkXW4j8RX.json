@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: C-Funk.",
+  "description": "La casa de lxs MC's. Foto: Nfx.",
   "name": "Rap Chileno",
   "tracks": [
     {
@@ -2275,6 +2275,32 @@
     },
     {
       "album": {
+        "name": "Bushido: Kenjutsu",
+        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Cool Maze",
+          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
+    },
+    {
+      "album": {
         "name": "Libro Abierto (Remix)",
         "url": "https://open.spotify.com/album/6aDQLsdyYqTZjq3g3reNXb"
       },
@@ -3216,7 +3242,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 231177,
       "name": "Primera Vez",
       "url": "https://open.spotify.com/track/7vdv8WfWkcytj5xWOmn7lE"

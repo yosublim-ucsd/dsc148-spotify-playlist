@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JUMADIBA
 
-834 songs - 1 day 19 hr 3 min
+835 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Maldoror](https://open.spotify.com/track/6Y0JVHGfnUuxImegz2s4kW) | [ID](https://open.spotify.com/artist/6w5bXGgWBZmZ06TrNDykFj) | [Maldoror](https://open.spotify.com/album/3oxkHJheBNSv8VDKQHr0Sh) | 3:35 | 2024-04-18 | 2024-04-24 |
 | [Mama Don't Cry](https://open.spotify.com/track/0q9bQrTdxWBQjYrbBcxUvx) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0) | [AIRERA](https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C) | 2:50 | 2024-06-16 |  |
 | [Mama's Boy](https://open.spotify.com/track/3AG9nySzAQ3MJpQPIc1FIv) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mama's Boy](https://open.spotify.com/album/6wLJHvCiRMzfepO1Q8PVCE) | 3:50 | 2024-05-07 |  |
+| [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-06-28 |  |
 | [Map](https://open.spotify.com/track/0fp0f5ZA3gUdzwB5Vlm6Wg) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [SCRAP](https://open.spotify.com/album/2RwjAlkI4DCQYd1a1R1vuh) | 2:22 | 2023-10-31 | 2023-11-22 |
 | [Marathon](https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/4ba8By2IRyafRsALbAaSX1) | 2:19 | 2024-02-29 | 2024-05-10 |
 | [Marathon](https://open.spotify.com/track/1R1ithziTyKJ1qWjmQdRWM) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:19 | 2024-02-29 | 2024-04-19 |

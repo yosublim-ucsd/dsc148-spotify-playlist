@@ -1,13 +1,29 @@
 {
   "description": "He's back by popular demand...Listen to the music from Beverly Hills Cop ahead of Beverly Hills Cop: Axel F, coming soon to Netflix. ",
-  "num_followers": 775,
+  "num_followers": 801,
   "original_name": "Beverly Hills Cop: Axel F Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk8vwAAAAAASukkD8ubMx+xE9aMFBh2A",
+  "snapshot_id": "Zn8HUgAAAADAE7NBfV3pD57OjlJYxls0",
   "tracks": [
+    {
+      "added_at": "2024-06-28 18:56:18",
+      "album": {
+        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
+        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
+      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
+    },
     {
       "added_at": "2024-05-23 12:00:00",
       "album": {

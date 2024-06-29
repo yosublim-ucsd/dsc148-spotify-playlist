@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 203541,
       "name": "Alerta",
       "url": "https://open.spotify.com/track/2avAoEP6lqD0VEPlgd8Hmk"
@@ -410,6 +410,28 @@
       "duration_ms": 202173,
       "name": "Baby",
       "url": "https://open.spotify.com/track/66jCeJbCo4Z6EwAPXO6fa6"
+    },
+    {
+      "album": {
+        "name": "Baby Gangster",
+        "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239016,
+      "name": "Baby Gangster",
+      "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
     },
     {
       "album": {
@@ -1502,7 +1524,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 138396,
       "name": "Don Nadie",
       "url": "https://open.spotify.com/track/6RJdnQppStVwOmw7iEQnMl"
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198058,
       "name": "Fala Fala",
       "url": "https://open.spotify.com/track/0d00ap8BMDwc54AYZgOiA6"
@@ -4333,6 +4355,40 @@
     },
     {
       "album": {
+        "name": "Noriega",
+        "url": "https://open.spotify.com/album/2H5akl0GSZm1LpLsCTY9WH"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "El Doble K",
+          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
+        },
+        {
+          "name": "Mr. Fox",
+          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "Youbenji",
+          "url": "https://open.spotify.com/artist/42fdxOeeRKuc5UI3zlPrdt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268484,
+      "name": "Noriega",
+      "url": "https://open.spotify.com/track/1yFli3tJjSOW0wJFEcY7gu"
+    },
+    {
+      "album": {
         "name": "Nos Miran (feat. Eiby, Verzatyl & Italian Somali)",
         "url": "https://open.spotify.com/album/2IQDy4gyPKp8mxCwTyjDeK"
       },
@@ -5226,7 +5282,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188700,
       "name": "Puto Amo",
       "url": "https://open.spotify.com/track/6mMJ9B5B7reN10oBczFioW"
@@ -5326,6 +5382,32 @@
       "duration_ms": 202581,
       "name": "Qu\u00e9 Prefieres?",
       "url": "https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5"
+    },
+    {
+      "album": {
+        "name": "RBD",
+        "url": "https://open.spotify.com/album/7FKyQVtbPG0PbvRYxJrnVM"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Pinky",
+          "url": "https://open.spotify.com/artist/4ljrPg7NLOtSa2Ev8JpzfT"
+        },
+        {
+          "name": "CRBRO",
+          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "RBD",
+      "url": "https://open.spotify.com/track/0HT9jMfOUxZmLkpFuUdqjc"
     },
     {
       "album": {
@@ -6356,6 +6438,24 @@
       "duration_ms": 203883,
       "name": "To Rico",
       "url": "https://open.spotify.com/track/1nac0iXC5QL9DzYiRQdsMI"
+    },
+    {
+      "album": {
+        "name": "TOK TOK",
+        "url": "https://open.spotify.com/album/0QwiUPUE7k38vZ8N2Gn2Hy"
+      },
+      "artists": [
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170233,
+      "name": "TOK TOK",
+      "url": "https://open.spotify.com/track/1hXD71OltX5X1gJh3pCk0d"
     },
     {
       "album": {

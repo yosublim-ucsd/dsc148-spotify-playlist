@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 365138,
+  "num_followers": 365097,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Man In Finance (G6 Trust Fund)",
         "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 203307,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "The Spark",
-        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
-      },
-      "artists": [
-        {
-          "name": "Kabin Crew",
-          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
-        },
-        {
-          "name": "Lisdoonvarna Crew",
-          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
-        }
-      ],
-      "duration_ms": 146384,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Summer Dreaming",
+        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Pure Shores",
+          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
+        }
+      ],
+      "duration_ms": 182867,
+      "name": "Summer Dreaming",
+      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "UNGA & FRIA",
         "url": "https://open.spotify.com/album/07w87eimESXFgxpCI191vp"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 171784,
       "name": "Pepas - David Guetta Remix - Radio Edit",
       "url": "https://open.spotify.com/track/5fWG4JDot8nHCte7gUdMUS"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Summer Dreaming",
-        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Pure Shores",
-          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
-        }
-      ],
-      "duration_ms": 182867,
-      "name": "Summer Dreaming",
-      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Vill du ligga med mig?",
         "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 143100,
       "name": "When I Wake Up",
       "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        }
-      ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1243,18 +1243,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Vad b\u00e4nkar du?",
-        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
+        "name": "ALLA F\u00c5R KOMMA",
+        "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
       "artists": [
         {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Akin Jensen",
+          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
         }
       ],
-      "duration_ms": 167998,
-      "name": "Vad b\u00e4nkar du?",
-      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
+      "duration_ms": 144732,
+      "name": "ALLA F\u00c5R KOMMA",
+      "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1283,26 +1291,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "ALLA F\u00c5R KOMMA",
-        "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
+        "name": "Vad b\u00e4nkar du?",
+        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
       },
       "artists": [
         {
-          "name": "FESTEN",
-          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
-        },
-        {
-          "name": "Akin Jensen",
-          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
-        },
-        {
-          "name": "BR0D3R",
-          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
         }
       ],
-      "duration_ms": 144732,
-      "name": "ALLA F\u00c5R KOMMA",
-      "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
+      "duration_ms": 167998,
+      "name": "Vad b\u00e4nkar du?",
+      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
     },
     {
       "added_at": "2024-06-13 22:00:00",

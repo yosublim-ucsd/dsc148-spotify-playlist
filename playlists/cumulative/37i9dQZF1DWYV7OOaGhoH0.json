@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Mustafa",
+  "description": "The best in folk & acoustic today featuring music from Hermanos Guti\u00e9rrez",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186020,
       "name": "Hard To Tell",
       "url": "https://open.spotify.com/track/0bmnFx4iOmUVt4ghPSm3cc"
@@ -3786,7 +3786,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 311892,
       "name": "Haunted Mountain",
       "url": "https://open.spotify.com/track/55PRwOkrZ5oQW9Qmi7Q2yo"
@@ -5392,7 +5392,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
@@ -5673,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
+    },
+    {
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
       },
@@ -5738,10 +5756,28 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188396,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C"
+    },
+    {
+      "album": {
+        "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+        "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177026,
+      "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+      "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
     },
     {
       "album": {
@@ -6752,6 +6788,24 @@
       "duration_ms": 275640,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
+    },
+    {
+      "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
       "album": {
@@ -8110,7 +8164,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 227685,
       "name": "So Many Plans",
       "url": "https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc"
@@ -8658,6 +8712,24 @@
       "duration_ms": 227373,
       "name": "Tangled",
       "url": "https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7"
+    },
+    {
+      "album": {
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "album": {

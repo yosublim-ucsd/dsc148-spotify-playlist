@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Spotlite Nation
 
-729 songs - 1 day 17 hr 33 min
+731 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 | 2023-09-15 | 2023-10-20 |
 | [More Love](https://open.spotify.com/track/19rlmg0t6eqNh0feDTVPOW) | [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV) | [More Love](https://open.spotify.com/album/461cLE59aPBIGvdV2vBqDi) | 3:04 | 2023-02-02 | 2023-05-19 |
 | [More Than Able \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 | 2023-09-15 | 2023-12-30 |
+| [Morning](https://open.spotify.com/track/77GQu7p7eINm6pZ9PGqVJn) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Tee Tings](https://open.spotify.com/artist/3AJQ7nRJ20OKO8glsiw2Q4) | [Morning](https://open.spotify.com/album/1rpYCf8XiiU5cEeRf9TwoZ) | 2:28 | 2024-06-28 |  |
 | [Morning Devotion](https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Morning Devotion](https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds) | 2:07 | 2023-02-02 | 2023-06-16 |
 | [Most High.](https://open.spotify.com/track/3Q7SXiJxtlkWhn369vdOls) | [Empire](https://open.spotify.com/artist/7ojivdbJT5Lqnn7wJ2rbBU) | [Most High.](https://open.spotify.com/album/7szpxUJi1ojwTHOG1pF3e9) | 2:10 | 2023-07-21 | 2023-07-28 |
 | [MOVEMENT](https://open.spotify.com/track/6NglFmvUC1ho123QUvQtRl) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [678NATH](https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [MOVEMENT](https://open.spotify.com/album/2Th9AdlxHPVC5huKjjSrz9) | 2:39 | 2024-06-07 |  |
@@ -582,6 +583,7 @@
 | [Rhema](https://open.spotify.com/track/3hyIOUz66ieBxrdLoJymdB) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Rhema](https://open.spotify.com/album/79e4yyjGfqgJvkRJChSA9b) | 2:57 | 2024-04-19 | 2024-05-17 |
 | [Ride](https://open.spotify.com/track/0pyOoYHx2hFK7GaTP4fviU) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/7kgZwZuFDoKs01rwOwXMig) | 2:41 | 2023-02-02 | 2023-02-09 |
 | [Ride](https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk) | 2:41 | 2023-02-02 | 2023-06-23 |
+| [Riding](https://open.spotify.com/track/6Rst46PdVcm3RLZApWwKoV) | [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc), [De La Cruz](https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD) | [Riding](https://open.spotify.com/album/3JjBBCkb3bxnUKcp8GxtlD) | 2:33 | 2024-06-28 |  |
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-03-15 | 2024-05-17 |
 | [RISEN KING](https://open.spotify.com/track/5smUG9p1Q6FeLihZgxtJQy) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [RISEN KING](https://open.spotify.com/album/2y04jb9gerdjAs8I02HNnE) | 2:55 | 2023-10-06 | 2023-12-01 |
 | [Run To You](https://open.spotify.com/track/0UIpdVr8h1Pm15IknyeZuv) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [Run To You](https://open.spotify.com/album/1utQ8YyqCvuI18HHfRtU3c) | 2:54 | 2023-10-13 | 2023-11-17 |

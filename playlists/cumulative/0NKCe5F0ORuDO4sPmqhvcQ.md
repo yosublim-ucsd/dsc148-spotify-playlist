@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-613 songs - 1 day 10 hr 24 min
+615 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Remedy](https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Remedy](https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA) | 3:34 | 2022-10-22 | 2023-01-30 |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2021-10-04 | 2022-01-08 |
 | [RETURN TO NOTHINGNESS](https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [RETURN TO NOTHINGNESS](https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x) | 3:40 | 2022-02-28 | 2022-03-31 |
+| [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 | 2024-06-28 |  |
 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 | 2022-03-11 | 2022-04-19 |
 | [Ride Or Die](https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Ride Or Die](https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls) | 3:14 | 2024-02-25 |  |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-11-19 | 2022-01-08 |
@@ -576,6 +577,7 @@
 | [Violet](https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Violet](https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk) | 2:43 | 2023-01-20 | 2024-03-23 |
 | [Visions \- SUN/MGNETK Remix](https://open.spotify.com/track/1a40njhjzTInmBNuctG47K) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [SUN/MGNETK](https://open.spotify.com/artist/5uQ7vzfqVBvCALRIWehL1Y) | [Visions \(SUN/MGNETK Remix\)](https://open.spotify.com/album/5eHvlXvZBrxxU66x8TyKdx) | 2:35 | 2022-03-10 | 2022-03-31 |
 | [void](https://open.spotify.com/track/09RZdc0aGQIj2zyb533nT1) | [VILLA](https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 3:18 | 2022-09-02 | 2023-07-20 |
+| [Waited 4 U \- Disco Lines Remix](https://open.spotify.com/track/5NvHVlACuvo9gxiurxPbxf) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Waited 4 U \(Disco Lines Remix\)](https://open.spotify.com/album/1Wp3nivOj1034mx9oqBNo2) | 4:33 | 2024-06-28 |  |
 | [Waited 4 U \- Phantoms Remix](https://open.spotify.com/track/4lcZem7ukoYTe16y5Egcrc) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [Waited 4 U \(Phantoms Remix\)](https://open.spotify.com/album/2s0RcgrVDUmIvH74NkvnBl) | 4:58 | 2024-04-05 |  |
 | [Waiting](https://open.spotify.com/track/3q27PHvmQDV2BURl1QaTte) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting](https://open.spotify.com/album/5Zg9VxMehF1QbCRD2yMESc) | 5:01 | 2023-09-18 | 2023-10-06 |
 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 | 2023-07-20 |  |

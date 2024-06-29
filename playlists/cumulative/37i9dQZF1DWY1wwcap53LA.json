@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/7zNjXDP45QhLwnPzAw2ZkT"
+      },
+      "artists": [
+        {
+          "name": "Kevin Smiley",
+          "url": "https://open.spotify.com/artist/6Km1v74PaJGilhxUmfAY1K"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162982,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/6uBjkiBaQeqAD6dfYBYOJt"
+    },
+    {
+      "album": {
         "name": "Madeline Edwards",
         "url": "https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD"
       },

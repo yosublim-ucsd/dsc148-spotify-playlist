@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:6pRi6EIPXz4QJEOEsBaA0m\">Chris Tomlin</a> and <a href=\"spotify:artist:2XDaX0gxzE4eCXjPPAREEq\">CAIN</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0bz9hDpUbAw5JElgEiuIYZ\">Matt Redman</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Metro Collective Worship",
+        "url": "https://open.spotify.com/album/3C946eNtnL5SUkNXrjxdL8"
+      },
+      "artists": [
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        },
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188238,
+      "name": "Alone in It (Live)",
+      "url": "https://open.spotify.com/track/3dpHqU2m4sDt7G4QA8B7Nr"
+    },
+    {
+      "album": {
         "name": "I've Got Good News (Live)",
         "url": "https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd"
       },
@@ -494,6 +516,24 @@
       "duration_ms": 353282,
       "name": "Always So Good - Live",
       "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
+    },
+    {
+      "album": {
+        "name": "Songs For Sunday (Live)",
+        "url": "https://open.spotify.com/album/6J4AVNtdMpn50w1u3j1HHe"
+      },
+      "artists": [
+        {
+          "name": "VIVE Worship",
+          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376526,
+      "name": "Amen Of Heaven (Live)",
+      "url": "https://open.spotify.com/track/0uJxtoa3LsDnOdxGvWr8Z5"
     },
     {
       "album": {
@@ -3349,6 +3389,28 @@
     },
     {
       "album": {
+        "name": "DOXA (Live)",
+        "url": "https://open.spotify.com/album/285bUfwUpRzkbNy9ISXgRt"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304424,
+      "name": "Glory Belongs - Live",
+      "url": "https://open.spotify.com/track/0Hjj23mQJNGltREQsXWMV7"
+    },
+    {
+      "album": {
         "name": "Glory Hallelujah (Gl\u00f3ria Aleluia)",
         "url": "https://open.spotify.com/album/6MTuJqr85V0Wq9Lx2F0Arm"
       },
@@ -3914,7 +3976,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 670769,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6eL0MTP4wcrELcg8MVsMT9"
@@ -6543,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "Coming Back To The Heart (Live Collection)",
+        "url": "https://open.spotify.com/album/0hZCaD2xckc6RSZjQHY97E"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381509,
+      "name": "Let Me See Jesus - Live",
+      "url": "https://open.spotify.com/track/6sigFENDLLKQaMc874J7T3"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
       },
@@ -6959,6 +7039,28 @@
     },
     {
       "album": {
+        "name": "Love of God",
+        "url": "https://open.spotify.com/album/2mV1x3XQGoVD9SfGsHHJFD"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324204,
+      "name": "Love Of God",
+      "url": "https://open.spotify.com/track/2fk1ecKbLniOcWMCWLW9e9"
+    },
+    {
+      "album": {
         "name": "Made For More (Live)",
         "url": "https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh"
       },
@@ -7072,7 +7174,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 250200,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/1zlsN35XHeANKr2v3T4Wir"
@@ -7112,7 +7214,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 243666,
       "name": "MIRACLE CHILD",
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
@@ -7888,6 +7990,24 @@
       "duration_ms": 348714,
       "name": "Nothing is Wasted - Live",
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
+    },
+    {
+      "album": {
+        "name": "Nothing Left to Prove (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/3jCkwuXt510gcreoCKKjOV"
+      },
+      "artists": [
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519802,
+      "name": "Nothing Left to Prove (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/0afWUoudlKsRf5olahIYV2"
     },
     {
       "album": {
@@ -9768,7 +9888,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 391933,
       "name": "Spirit Fall (Dove) - Live",
       "url": "https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2"
@@ -11888,7 +12008,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 317922,
       "name": "We Praise You / Do It Again - Live",
       "url": "https://open.spotify.com/track/1BF6FybAqoDc4v1BfQG13m"

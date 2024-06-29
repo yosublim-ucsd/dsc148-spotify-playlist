@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
-  "num_followers": 45172,
+  "num_followers": 45181,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SONGS",
-      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "6or9",
         "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 215220,
       "name": "6or9",
       "url": "https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SONGS",
+      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "TAKING THEM DOWN",
+        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "TAKING THEM DOWN",
+      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Tank-top Flower for Friends",
-        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 132386,
-      "name": "Blooming the Tank-top",
-      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Tank-top Flower for Friends",
+        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "duration_ms": 132386,
+      "name": "Blooming the Tank-top",
+      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1323,26 +1323,18 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "LEAVE IT ALL BEHIND",
-        "url": "https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
       },
       "artists": [
         {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        },
-        {
-          "name": "Bodyslam",
-          "url": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
-        },
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
         }
       ],
-      "duration_ms": 247500,
-      "name": "LEAVE IT ALL BEHIND",
-      "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1363,18 +1355,26 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR"
       },
       "artists": [
         {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Bodyslam",
+          "url": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
+      "duration_ms": 247500,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
+      },
+      "artists": [
+        {
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends feat. VIGORMAN",
       "url": "https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "RED APHELION",
-        "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "PLAYDEAD",
         "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 196199,
       "name": "DO THE DANCE",
       "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "RED APHELION",
+        "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
     },
     {
       "added_at": "2024-06-25 15:00:00",

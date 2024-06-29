@@ -2,7 +2,7 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Gaz Mawete
+> Du Congo, au monde\. 🌍 Photo: KeBlack
 
 395 songs - 23 hr 46 min
 

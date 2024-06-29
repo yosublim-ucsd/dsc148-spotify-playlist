@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,617 likes - 395 songs - 15 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,000 likes - 395 songs - 15 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 67 | [You Can't Take The Sky From Me](https://open.spotify.com/track/72CtfEwQmkwyE1T2zZJs8z) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [You Can't Take The Sky From Me](https://open.spotify.com/album/7cbt2IGeVuahcEh2RinflP) | 1:55 |
 | 68 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 |
 | 69 | [Grey Days](https://open.spotify.com/track/2L7FhBtJD8GWvIucdzdaKz) | [Georgina Cliff](https://open.spotify.com/artist/63XOr9IATuyUQr0qd7DCBy) | [Grey Days](https://open.spotify.com/album/35o6sO0dfaPhLbi0beRWIP) | 2:04 |
-| 70 | [Hidden Cateract](https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Hidden Cateract](https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr) | 3:03 |
+| 70 | [Hidden Cataract](https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Hidden Cataract](https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr) | 3:03 |
 | 71 | [Western Promises](https://open.spotify.com/track/3X6akQdLtqrMkGJntH7AhD) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Western Promises](https://open.spotify.com/album/2Ag8bFCPDnHwv5Yvix1ptV) | 2:10 |
 | 72 | [Laundry Tessomancy](https://open.spotify.com/track/043xe58AMUGPJgCnRJynj9) | [Violet Blanca](https://open.spotify.com/artist/2CeqZvB8v9HCGr2tVb42rj) | [Laundry Tessomancy](https://open.spotify.com/album/0EJbkfTfesTIJYAPoInRKG) | 2:01 |
 | 73 | [Woozy](https://open.spotify.com/track/1FZBWosZEVIrSoFicS0Jh9) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Woozy](https://open.spotify.com/album/4VqyqAAcChsHuGVe9KC1t9) | 2:05 |

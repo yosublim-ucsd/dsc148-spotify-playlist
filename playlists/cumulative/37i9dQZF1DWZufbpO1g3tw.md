@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZufbpO1g3tw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZufbpO1g3tw)
 
-### [La Playlist Botanera](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
+### [La Playlist Botanera ⚽️🏆](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 

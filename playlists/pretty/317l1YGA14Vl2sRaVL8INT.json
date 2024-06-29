@@ -1,28 +1,108 @@
 {
-  "description": "Its pop punk, its the best",
-  "num_followers": 43651,
+  "description": "It\u2019s pop punk, it\u2019s the best. Celebrating 30 years of Hopeless Records.",
+  "num_followers": 43648,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAa11TeyiPSPVeUm88DvYoFi+MSm8Yy",
+  "snapshot_id": "AAAa6lIvZ9cnb7p5h6LQL0q9zR5uBeXo",
   "tracks": [
     {
-      "added_at": "2024-05-21 21:06:11",
+      "added_at": "2024-06-28 22:17:26",
       "album": {
-        "name": "Sick Ride",
-        "url": "https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ"
+        "name": "Deadbolt",
+        "url": "https://open.spotify.com/album/6amJ15wX2tAUGw0Ma33xM8"
       },
       "artists": [
         {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
         }
       ],
-      "duration_ms": 97906,
-      "name": "Sick Ride",
-      "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
+      "duration_ms": 145522,
+      "name": "Deadbolt",
+      "url": "https://open.spotify.com/track/0NO7LPtpU4nyYoctchHsOr"
+    },
+    {
+      "added_at": "2024-06-28 22:17:42",
+      "album": {
+        "name": "The Illusion of Safety",
+        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Deadbolt",
+      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
+    },
+    {
+      "added_at": "2024-06-28 22:20:53",
+      "album": {
+        "name": "Unholy Confessions",
+        "url": "https://open.spotify.com/album/7q4jZunVEEHBCpTvU6AZuE"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/6Y5DKaZn11PJy3hlsw2rKt"
+    },
+    {
+      "added_at": "2024-06-28 22:21:08",
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
+    },
+    {
+      "added_at": "2024-06-28 22:16:33",
+      "album": {
+        "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
+        "url": "https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 125848,
+      "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
+      "url": "https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6"
+    },
+    {
+      "added_at": "2024-06-28 22:17:10",
+      "album": {
+        "name": "FANDOM",
+        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 133351,
+      "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
+      "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
     },
     {
       "added_at": "2024-03-08 19:41:58",
@@ -73,22 +153,6 @@
       "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
-      "added_at": "2024-04-17 18:01:04",
-      "album": {
-        "name": "love like robots",
-        "url": "https://open.spotify.com/album/3P48marTOlJnMplWCZkot9"
-      },
-      "artists": [
-        {
-          "name": "knights in paris",
-          "url": "https://open.spotify.com/artist/74DW4UCeEwbvOKbvH3zKHs"
-        }
-      ],
-      "duration_ms": 210559,
-      "name": "love like robots",
-      "url": "https://open.spotify.com/track/2i9ekgFsuogO1hIVs78HBd"
-    },
-    {
       "added_at": "2024-01-09 23:19:25",
       "album": {
         "name": "Riot!",
@@ -119,6 +183,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2024-05-21 21:06:11",
+      "album": {
+        "name": "Sick Ride",
+        "url": "https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "Sick Ride",
+      "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
     },
     {
       "added_at": "2023-12-01 18:35:43",
@@ -265,22 +345,6 @@
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
-      "added_at": "2024-04-20 14:47:31",
-      "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/1rU0WA0vqAW1Xkzs6ygVam"
-      },
-      "artists": [
-        {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/5XpucxmzM1K8SFnN6BWCxt"
-    },
-    {
       "added_at": "2024-01-09 23:09:33",
       "album": {
         "name": "Suburbia I've Given You All and Now I'm Nothing",
@@ -295,38 +359,6 @@
       "duration_ms": 244744,
       "name": "Came Out Swinging",
       "url": "https://open.spotify.com/track/206qxxvb6LcAFzoIGu6ThG"
-    },
-    {
-      "added_at": "2024-04-22 16:05:54",
-      "album": {
-        "name": "Jack of the Drought",
-        "url": "https://open.spotify.com/album/2QqooWaTATVvx12AWzqFMY"
-      },
-      "artists": [
-        {
-          "name": "Pushing Veronica",
-          "url": "https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40"
-        }
-      ],
-      "duration_ms": 189253,
-      "name": "Jack of the Drought",
-      "url": "https://open.spotify.com/track/3tP8884xqAPd7xUEszh8ZL"
-    },
-    {
-      "added_at": "2024-03-16 22:18:09",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 188328,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
     },
     {
       "added_at": "2024-01-09 23:09:38",
@@ -423,26 +455,6 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2024-01-24 04:43:00",
-      "album": {
-        "name": "Fight 4 Luv",
-        "url": "https://open.spotify.com/album/5gIIp16EjzDmzTtYwaN4Jp"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Miller",
-          "url": "https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC"
-        },
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "Fight 4 Luv",
-      "url": "https://open.spotify.com/track/0W8ww4rAWdDYEE6rFgZKgi"
     },
     {
       "added_at": "2024-01-09 23:10:36",
@@ -1609,22 +1621,6 @@
       "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
     },
     {
-      "added_at": "2024-05-07 23:10:52",
-      "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 163519,
-      "name": "Airhead",
-      "url": "https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT"
-    },
-    {
       "added_at": "2024-03-22 18:00:38",
       "album": {
         "name": "I'M IN THE MARKET TO PLEASE NO ONE",
@@ -1727,62 +1723,6 @@
       "duration_ms": 132999,
       "name": "GIRL$",
       "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
-    },
-    {
-      "added_at": "2024-05-07 23:10:22",
-      "album": {
-        "name": "What If I Break?",
-        "url": "https://open.spotify.com/album/79u3lvbDz2DoOuJ6imUHJc"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/7vwUPOzwMuaBuhckNt3jjf"
-    },
-    {
-      "added_at": "2024-05-07 23:33:14",
-      "album": {
-        "name": "Be Ok (RMX)",
-        "url": "https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV"
-      },
-      "artists": [
-        {
-          "name": "Petti Hendrix",
-          "url": "https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        },
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Be Ok - RMX",
-      "url": "https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf"
-    },
-    {
-      "added_at": "2024-05-08 00:02:21",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/7lCAAI6dIX8WHYeLdi503o"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 151010,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/6Xi6jtcUy81RpuEM5mGR5E"
     }
   ],
   "unique_name": "Best Of Pop Punk ",

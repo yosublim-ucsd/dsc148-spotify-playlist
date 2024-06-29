@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Noah Kahan, Kelsea Ballerini
 
-681 songs - 1 day 13 hr 21 min
+682 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [Wild Mama](https://open.spotify.com/track/0L6X8MYQRuhPOsq8p2VJFS) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Wild Mama](https://open.spotify.com/album/4WTG0Ws7pne2qQvRePZxus) | 3:41 | 2023-11-16 | 2024-03-29 |
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-05 | 2024-05-17 |
 | [Wildfires \(feat\. Ian Moss\)](https://open.spotify.com/track/1tzga9gxw04e70G72qMtd3) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM), [Ian Moss](https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u) | [Acres](https://open.spotify.com/album/7i5lVXY0ro1Y94G6AqlS2e) | 2:59 | 2023-05-04 | 2023-07-14 |
+| [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-27 |  |
 | [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 | 2024-03-28 |  |
 | [Windradyne](https://open.spotify.com/track/6TI9ThurvgHRkVGCljD4ks) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Between the Fires](https://open.spotify.com/album/3bAlMKpFRe4pvzhbKXwagd) | 3:56 | 2024-05-09 |  |
 | [Wine Me Up](https://open.spotify.com/track/3ZJbbe2uezoIchAt5UbE52) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Wine Me Up](https://open.spotify.com/album/3pXtrKr3AdwgyBifPpuSLq) | 2:46 | 2022-09-08 | 2022-11-18 |

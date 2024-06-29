@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Mickey Guyton
 
-208 songs - 10 hr 44 min
+209 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2021-12-03 | 2024-04-23 |
 | [Guilty](https://open.spotify.com/track/1lGb5arfGbuaf3x8WItW47) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/16IHuRaNklgTjUc3NnJ3kW) | 3:02 | 2023-02-17 | 2023-08-14 |
 | [Guilty](https://open.spotify.com/track/4DpCym27veEjQSGmyoIZnM) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:02 | 2023-08-11 | 2024-04-19 |
+| [Heart to Break](https://open.spotify.com/track/6uBjkiBaQeqAD6dfYBYOJt) | [Kevin Smiley](https://open.spotify.com/artist/6Km1v74PaJGilhxUmfAY1K) | [Heart to Break](https://open.spotify.com/album/7zNjXDP45QhLwnPzAw2ZkT) | 2:42 | 2024-06-28 |  |
 | [Heart You Can't Break](https://open.spotify.com/track/0acpf9wterZQ763bWUSsun) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:21 | 2022-07-01 |  |
 | [Heart You Can't Break](https://open.spotify.com/track/1ixFVX3Pz4N8CbpvQqcK44) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/6pD3YcWd6fUMVIximPNNYU) | 3:21 | 2022-10-07 | 2024-04-19 |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-03 |  |

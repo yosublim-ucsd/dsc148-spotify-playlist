@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: Bury Tomorrow
+> The home for heavy music\. Cover: IDLES
 
-358 songs - 21 hr 29 min
+364 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,9 +129,11 @@
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-11-10 | 2023-02-10 |
 | [Funeral Derangements](https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:44 | 2022-11-10 | 2023-07-26 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 | 2024-02-17 |
+| [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 | 2024-06-28 |  |
 | [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-05-19 | 2023-08-11 |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2022-11-10 | 2023-07-26 |
 | [GIRL'S TALK](https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [GIRL'S TALK](https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO) | 2:54 | 2024-05-23 |  |
+| [Girls Gone Wild](https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Girls Gone Wild](https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r) | 2:22 | 2024-06-28 |  |
 | [Go Tobann](https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Go Tobann](https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN) | 2:24 | 2024-01-12 |  |
 | [GOD COMPLEX](https://open.spotify.com/track/0HXjcTc7gA4LFIDEex06cm) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [GOD COMPLEX](https://open.spotify.com/album/17SJwRZFPmUsSQp2Xdjzva) | 3:42 | 2024-01-26 | 2024-05-24 |
 | [God/Devil](https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 2:55 | 2023-04-14 | 2023-05-27 |
@@ -139,6 +141,7 @@
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-06 |  |
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-02-03 | 2024-01-12 |
 | [Ground Zero](https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:09 | 2022-11-10 | 2023-07-26 |
+| [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE) | 2:59 | 2024-06-28 |  |
 | [H8 MY SELF](https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [H8 MY SELF](https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx) | 2:58 | 2023-02-03 | 2023-09-08 |
 | [Hall & Oates](https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 2:23 | 2024-02-16 | 2024-03-23 |
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-01 |  |
@@ -234,6 +237,7 @@
 | [Overthrone](https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine \(Deluxe Version\)](https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow) | 3:39 | 2023-11-11 |  |
 | [Pathetic Apathetic](https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [Pathetic Apathetic](https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX) | 3:35 | 2024-05-10 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-11-10 | 2023-07-26 |
+| [Persona](https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW) | 2:12 | 2024-06-28 |  |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2024-03-08 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-11-10 | 2023-07-26 |
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-11-10 | 2023-07-26 |
@@ -274,6 +278,7 @@
 | [Show Me My Maker](https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y) | 3:40 | 2023-07-25 |  |
 | [Sick And Wrong](https://open.spotify.com/track/4rHiHDvjI4Uqm9ahZ9RcS7) | [Electron](https://open.spotify.com/artist/0QlVbfZTx8ex7cutyyUl3H) | [Sick And Wrong](https://open.spotify.com/album/3Hy9MvZJfBVv0h9AlNyNLM) | 4:41 | 2023-07-25 | 2023-08-25 |
 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 | 2024-01-26 |  |
+| [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-06-28 |  |
 | [Skin](https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:18 | 2022-11-10 | 2023-03-25 |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA) | 3:19 | 2023-06-08 | 2023-07-26 |
 | [smother](https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [smother](https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk) | 3:21 | 2023-11-11 |  |
@@ -282,6 +287,7 @@
 | [Social Blackout](https://open.spotify.com/track/2S5ev6ECcvAnBdZkgQWjyg) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Back With Another One](https://open.spotify.com/album/3eHN1YdgT8aGewySxzHdeK) | 3:46 | 2024-05-10 |  |
 | [Soft Glow](https://open.spotify.com/track/2KZsN4rkEtuL35yGuRsfr5) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Soft Glow](https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF) | 3:43 | 2024-06-07 |  |
 | [Sold!](https://open.spotify.com/track/1YFr8vK0dEfSl1DmTxcncY) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 3:29 | 2023-09-07 | 2023-10-06 |
+| [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-06-28 |  |
 | [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 | 2022-11-10 | 2023-02-04 |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-02-03 | 2023-07-26 |
 | [START AGAIN](https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [START AGAIN](https://open.spotify.com/album/2blJUAX8ujjwOHR657iEXP) | 2:43 | 2023-07-25 | 2023-08-05 |

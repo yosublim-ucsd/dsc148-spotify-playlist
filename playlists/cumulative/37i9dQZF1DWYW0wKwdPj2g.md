@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Sinach
 
-88 songs - 11 hr 31 min
+89 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Omemma](https://open.spotify.com/track/12g6OxatpkEvYBdiSTUI9C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/58wrEUE51xyTyZ4A4uL091) | 6:34 | 2024-02-23 | 2024-04-19 |
 | [Omemma \- \(Live\)](https://open.spotify.com/track/7oWP17AUvTig60GCXuXeFl) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/0YUY2M4XWrK5xMFJ0HDS1H) | 6:34 | 2024-02-23 |  |
 | [Praise Medley \- Live](https://open.spotify.com/track/3YvkrCWErGF7GxO5N0li38) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Praise Medley \(Live\)](https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ) | 8:44 | 2024-06-28 |  |
+| [Prayer \- Live](https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY) | [Minstrel K.I](https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Prayer \(Live\)](https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4) | 9:19 | 2024-06-28 |  |
 | [Reign Lord \(Sovereign\) \- Live](https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Anu Ropo](https://open.spotify.com/artist/6pOWF1wf8Vt8EoF4Ee5imF) | [Reign Lord \(Sovereign\) \[Live\]](https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT) | 10:30 | 2024-05-03 |  |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-02-23 |  |
 | [Siyabonga Jesu \(Wahamba Nathi\) \[Live\]](https://open.spotify.com/track/4nmRnP0r7F4apXJLxGQ3MG) | [Solly Mahlangu](https://open.spotify.com/artist/7mZOspv12XLvP1LQL6DmqR) | [Mwamba Mwamba \(Live\) Recorded at Big Top Arena Carnival City](https://open.spotify.com/album/2grRNjByBgEo00XJueSanO) | 6:51 | 2024-02-23 |  |

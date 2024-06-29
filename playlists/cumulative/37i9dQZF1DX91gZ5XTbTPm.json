@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Chief Keef",
+  "description": "The Midwest is always on time. Cover: Sexyy Red",
   "name": "CST",
   "tracks": [
     {
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166895,
       "name": "Collective Nights",
       "url": "https://open.spotify.com/track/6Rb2FMI2mVyc8vuNpjDNRo"
@@ -4518,6 +4518,52 @@
       "duration_ms": 170360,
       "name": "Flavors",
       "url": "https://open.spotify.com/track/6ffUQiIPOH1LkWrgWXIx7I"
+    },
+    {
+      "album": {
+        "name": "Flint 2 Detroit",
+        "url": "https://open.spotify.com/album/2ip3X3OPt0lDI56vgnjk0Z"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Rmc Mike",
+          "url": "https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo"
+        },
+        {
+          "name": "Louie Ray",
+          "url": "https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "Ysr Gramz",
+          "url": "https://open.spotify.com/artist/4ueZSiI1mnxkJdh4NYfYn2"
+        },
+        {
+          "name": "GrindHard E",
+          "url": "https://open.spotify.com/artist/5sVOZzPd1s6nCHb8jncqyF"
+        },
+        {
+          "name": "KrispyLife Kidd",
+          "url": "https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR"
+        },
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366863,
+      "name": "Flint Stones",
+      "url": "https://open.spotify.com/track/2fp5q1VBg9SqVCwVLCFTDa"
     },
     {
       "album": {
@@ -6600,7 +6646,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 146808,
       "name": "I Ain\u2019t Done Yet",
       "url": "https://open.spotify.com/track/5N5SRBufLOm9aNa28nWqxT"
@@ -7080,6 +7126,24 @@
       "duration_ms": 195000,
       "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/6ndv4g7482HJZ2pLAbpzrY"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134680,
+      "name": "IDK IT DEPENDS",
+      "url": "https://open.spotify.com/track/0CgH8C1KQbv67P0birF4MN"
     },
     {
       "album": {
@@ -9519,6 +9583,28 @@
     },
     {
       "album": {
+        "name": "N.P.O. (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3xbnEyhuILNfvxirhwj3LA"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178911,
+      "name": "N.P.O. (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5GYKltEbk7h1DDM8aGloPu"
+    },
+    {
+      "album": {
         "name": "DRILL MUSIC IN ZION",
         "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE"
       },
@@ -9832,6 +9918,24 @@
       "duration_ms": 179533,
       "name": "No Time Wasted (feat. Future)",
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+    },
+    {
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "No. 1 Headband",
+      "url": "https://open.spotify.com/track/1SKtsG3EsJw75hNMRrCgLm"
     },
     {
       "album": {
@@ -12700,7 +12804,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172392,
       "name": "Show Dat",
       "url": "https://open.spotify.com/track/3YnjEF9USwZuycc7CWTgbE"
@@ -13500,6 +13604,24 @@
       "duration_ms": 178059,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/6HuodZbqN0qUY1LhrKSzK5"
+    },
+    {
+      "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "album": {
@@ -14498,7 +14620,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 155138,
       "name": "The Warm Up",
       "url": "https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai"
@@ -14870,7 +14992,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 216398,
       "name": "TO THE GRAVE",
       "url": "https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g"
@@ -15403,6 +15525,32 @@
     },
     {
       "album": {
+        "name": "Flint 2 Detroit",
+        "url": "https://open.spotify.com/album/2ip3X3OPt0lDI56vgnjk0Z"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "GrindHard E",
+          "url": "https://open.spotify.com/artist/5sVOZzPd1s6nCHb8jncqyF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254512,
+      "name": "US 23",
+      "url": "https://open.spotify.com/track/6z38zy1JfBim73Y0MnAstK"
+    },
+    {
+      "album": {
         "name": "Saint Michael",
         "url": "https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw"
       },
@@ -15682,6 +15830,24 @@
       "duration_ms": 158446,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6AMZkNq9YGGQ2K0FYtSabZ"
+    },
+    {
+      "album": {
+        "name": "Went Hollywood For A Year",
+        "url": "https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127425,
+      "name": "Went Hollywood For A Year",
+      "url": "https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT"
     },
     {
       "album": {
@@ -16026,7 +16192,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 157898,
       "name": "Win Wit Us",
       "url": "https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg"

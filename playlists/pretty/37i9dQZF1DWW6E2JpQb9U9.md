@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,467 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,496 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 81 | [Túnel de la Vida \- Vivo en Obras 11/06/2022](https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Fuente \(Vivo en Obras 11/06/2022\)](https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp) | 4:11 |
 | 82 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 83 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
-| 84 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
-| 85 | [La Superacción \- En Vivo en el Metropólitan](https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [La Superacción \(En Vivo en el Metropólitan\)](https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO) | 5:17 |
+| 84 | [La Superacción \- En Vivo en el Metropólitan](https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [La Superacción \(En Vivo en el Metropólitan\)](https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO) | 5:17 |
+| 85 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
 | 86 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
 | 87 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 |
 | 88 | [Ni Mierda \- Vivo En Obras](https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Mierda \(Vivo En Obras\)](https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs) | 5:11 |

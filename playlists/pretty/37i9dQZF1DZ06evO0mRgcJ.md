@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
+> This is Los Desvelados\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 476 likes - 50 songs - 2 hr 46 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 |
 | 50 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 |
 
-Snapshot ID: `ZntaAAAAAADNZPyicRIIamoEITsmdZP6`
+Snapshot ID: `ZntaAAAAAABaGUUq6r/501jZZwOkARBz`

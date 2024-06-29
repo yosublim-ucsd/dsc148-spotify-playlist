@@ -5945,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "Gayetano",
+        "url": "https://open.spotify.com/album/1VgOUyqlkk2HZc8WRHEtfQ"
+      },
+      "artists": [
+        {
+          "name": "Pinto \u201cWahin\u201d",
+          "url": "https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172926,
+      "name": "Gayetano",
+      "url": "https://open.spotify.com/track/3wpCw1I9H4JbsmRBdiD06J"
+    },
+    {
+      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -12966,7 +12984,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 205290,
       "name": "Sensible",
       "url": "https://open.spotify.com/track/5hezYkGjsT559hGnJsKUyN"
@@ -13934,6 +13952,24 @@
       "duration_ms": 200506,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
+    },
+    {
+      "album": {
+        "name": "Te Imaginaba",
+        "url": "https://open.spotify.com/album/34lHWGbMwEieuMtYcyhqrR"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158815,
+      "name": "Te Imaginaba",
+      "url": "https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b"
     },
     {
       "album": {

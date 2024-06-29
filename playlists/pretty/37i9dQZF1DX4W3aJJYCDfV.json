@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Headie One (pictured), SOPHIE, Olivia Dean and more!",
-  "num_followers": 853742,
+  "num_followers": 853928,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3u8AAAAAA6LQtkMo0x83yPqg+p3mnr",
+  "snapshot_id": "Zn6J3AAAAACBwt2uEZBXUZmVCfO9dMxJ",
   "tracks": [
     {
       "added_at": "2024-06-27 23:00:00",
@@ -79,8 +79,28 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Dilemma (Feat. Sidhu Moose Wala)",
-        "url": "https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg"
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
+    },
+    {
+      "added_at": "2024-06-28 08:31:07",
+      "album": {
+        "name": "Island 54",
+        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
       },
       "artists": [
         {
@@ -90,15 +110,11 @@
         {
           "name": "Sidhu Moose Wala",
           "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
         }
       ],
       "duration_ms": 203918,
-      "name": "Dilemma (Feat. Sidhu Moose Wala)",
-      "url": "https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya"
+      "name": "Dilemma (feat. Sidhu Moose Wala)",
+      "url": "https://open.spotify.com/track/1IQ7SE3i5bA3Ia4f1eZz9h"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -119,6 +135,26 @@
       "duration_ms": 185142,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
+    },
+    {
+      "added_at": "2024-06-28 08:34:16",
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "HOT UPTOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -167,6 +203,22 @@
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
+    },
+    {
+      "added_at": "2024-06-28 10:01:00",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -567,6 +619,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "ROCKET",
+        "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Our Way",
         "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
       },
@@ -647,17 +715,21 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "La Verdolaga",
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
       },
       "artists": [
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
       "duration_ms": 150987,
-      "name": "La Verdolaga",
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
@@ -683,6 +755,22 @@
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -787,6 +875,26 @@
       "duration_ms": 192862,
       "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
       "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -971,6 +1079,26 @@
       "duration_ms": 219896,
       "name": "I Got Cracked",
       "url": "https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Style Rare (feat. Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (feat. Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1186,6 +1314,10 @@
         {
           "name": "Kid Bookie",
           "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        },
+        {
+          "name": "Ziey Kizzy",
+          "url": "https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo"
         }
       ],
       "duration_ms": 204843,
@@ -1739,6 +1871,26 @@
       "duration_ms": 189375,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0lnvO4NJ3bqBLL0vHfjeOx"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Aye Gyal",
+        "url": "https://open.spotify.com/album/2it1p72TgW10oA9Z64MWs5"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        },
+        {
+          "name": "Chalmer John",
+          "url": "https://open.spotify.com/artist/3WtZ5GxzdYS50svC4j5Mq8"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "Aye Gyal",
+      "url": "https://open.spotify.com/track/6SbYIRWwwOD3dZFZzMcOqz"
     },
     {
       "added_at": "2024-06-27 23:00:00",

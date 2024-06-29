@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Kittie",
-  "num_followers": 8607,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Amira Elfeky",
+  "num_followers": 8610,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMRpP0FDZQ4sCAIRdqZtW0mXs2LLlg",
+  "snapshot_id": "AAAMTizzarYhiorns9uiF2hB/XPeoCwA",
   "tracks": [
+    {
+      "added_at": "2024-06-28 18:25:48",
+      "album": {
+        "name": "Remains of Us",
+        "url": "https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        },
+        {
+          "name": "Scarlet House",
+          "url": "https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Remains of Us",
+      "url": "https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA"
+    },
+    {
+      "added_at": "2024-06-28 18:25:59",
+      "album": {
+        "name": "Manual Manic Procedures",
+        "url": "https://open.spotify.com/album/2p4qPInJmmYl8QZ3uhIbDb"
+      },
+      "artists": [
+        {
+          "name": "200 Stab Wounds",
+          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        }
+      ],
+      "duration_ms": 109777,
+      "name": "Gross Abuse",
+      "url": "https://open.spotify.com/track/6fL0AtGIH9hWi8zc6m7XOK"
+    },
+    {
+      "added_at": "2024-06-28 18:26:47",
+      "album": {
+        "name": "Off The Meter",
+        "url": "https://open.spotify.com/album/7IstdpmV2yAv798ZL9MxzI"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        }
+      ],
+      "duration_ms": 169729,
+      "name": "Off The Meter",
+      "url": "https://open.spotify.com/track/48hV9HJP3fb8t3MG8m4hRH"
+    },
+    {
+      "added_at": "2024-06-28 18:27:01",
+      "album": {
+        "name": "BLOODHOUND",
+        "url": "https://open.spotify.com/album/1Hkyxl3PVLdATfkp8q1drD"
+      },
+      "artists": [
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        }
+      ],
+      "duration_ms": 192505,
+      "name": "BLOODHOUND",
+      "url": "https://open.spotify.com/track/7jibT2RXLPJQpHgdoKARXY"
+    },
+    {
+      "added_at": "2024-06-28 18:27:13",
+      "album": {
+        "name": "This Is Not A Prayer",
+        "url": "https://open.spotify.com/album/1fEPutb1DOsvhTvRPLbBYs"
+      },
+      "artists": [
+        {
+          "name": "Uniform",
+          "url": "https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF"
+        }
+      ],
+      "duration_ms": 399585,
+      "name": "This Is Not A Prayer",
+      "url": "https://open.spotify.com/track/1MUBqsfHJ8dOgFvkR5zWYX"
+    },
+    {
+      "added_at": "2024-06-28 18:27:34",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/5JMvxBsLwVs7rvOoqpCgv5"
+      },
+      "artists": [
+        {
+          "name": "The Dali Thundering Concept",
+          "url": "https://open.spotify.com/artist/6HZqdaj8X8h6gMTPlD6EPR"
+        }
+      ],
+      "duration_ms": 174872,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/3KVgrJAOKSQ4CIP6rLIwW9"
+    },
     {
       "added_at": "2024-06-21 19:54:00",
       "album": {

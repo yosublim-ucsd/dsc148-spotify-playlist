@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Movements
 
-206 songs - 11 hr 34 min
+208 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 | 2022-11-25 | 2023-02-12 |
 | [computer exploder](https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/5Qcv0Vr8N5XOwfR7IyzOh8) | 3:18 | 2022-11-25 | 2023-08-09 |
 | [Concrete \(A Love Song\)](https://open.spotify.com/track/5jb2VoiVXYrwpo4FrioHlC) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Concrete \(A Love Song\)](https://open.spotify.com/album/0kukvkeqmw3jQ0lx5rzkjP) | 3:39 | 2023-11-17 | 2024-05-15 |
-| [Constraint](https://open.spotify.com/track/1anPIlAsRWg4vroWVAmZPe) | [If Kansas Had Trees](https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2) | [Where You Thought You Would Be](https://open.spotify.com/album/38j0bsTgTymzXBdxfneVpt) | 3:26 | 2024-06-21 |  |
+| [Constraint](https://open.spotify.com/track/1anPIlAsRWg4vroWVAmZPe) | [If Kansas Had Trees](https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2) | [Where You Thought You Would Be](https://open.spotify.com/album/38j0bsTgTymzXBdxfneVpt) | 3:26 | 2024-06-21 | 2024-06-29 |
 | [Crawl II](https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/1Suln1akGBpyDrKZENbsX9) | 3:15 | 2024-03-08 | 2024-04-19 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-17 |  |
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-11-25 | 2022-12-18 |
@@ -67,7 +67,7 @@
 | [Day Drunk](https://open.spotify.com/track/0ajpmHagIPCaaYP11S2Hk5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Day Drunk](https://open.spotify.com/album/02g2OE0ocT6kbLj9p6jXMX) | 2:39 | 2022-11-25 | 2024-05-15 |
 | [dayz gone](https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [dayz gone / black lodge breakfast burrito \(limited time only\)](https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS) | 3:11 | 2024-06-21 |  |
 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 | 2022-12-09 |  |
-| [Dog](https://open.spotify.com/track/0ybw0fLhsejtW98qNiCZjW) | [Annabel](https://open.spotify.com/artist/5aMPRdW6S0lzdsJgwdcggq) | [Dog](https://open.spotify.com/album/0ssKw6BEf71CtwWWkrmhBb) | 3:35 | 2024-05-14 |  |
+| [Dog](https://open.spotify.com/track/0ybw0fLhsejtW98qNiCZjW) | [Annabel](https://open.spotify.com/artist/5aMPRdW6S0lzdsJgwdcggq) | [Dog](https://open.spotify.com/album/0ssKw6BEf71CtwWWkrmhBb) | 3:35 | 2024-05-14 | 2024-06-29 |
 | [Don't Lick The Swingset](https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Don't Lick The Swingset](https://open.spotify.com/album/1uD9U6SoTuuMuAiVFA8XiQ) | 3:35 | 2023-02-11 | 2024-03-09 |
 | [Don't Try](https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:40 | 2022-11-25 | 2023-01-26 |
 | [Down, Down](https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Down, Down](https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe) | 3:05 | 2023-09-29 |  |
@@ -157,6 +157,7 @@
 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 | 2024-04-19 |  |
 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 | 2024-03-08 |  |
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-25 | 2023-02-12 |
+| [Rock Bottom \- Demo](https://open.spotify.com/track/1BKg6PWpynctmDnxopUFYu) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Two Demos](https://open.spotify.com/album/2VjFQvMuzBpLTMB4TUr4RX) | 2:13 | 2024-06-28 |  |
 | [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 | 2023-04-15 |
 | [Runner's High](https://open.spotify.com/track/2oBXQoWHjTq8BzaUmhp2no) | [Wig Doubt](https://open.spotify.com/artist/7l7AoJijbDJHP0XY1tEWQ8) | [Runner's High](https://open.spotify.com/album/1C80RTkz9Fybi0JblEMfDy) | 3:56 | 2024-06-21 |  |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-11-25 | 2024-05-15 |
@@ -200,6 +201,7 @@
 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 | 2023-05-19 |  |
 | [Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Those Days Are Gone](https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K) | 2:15 | 2022-11-25 | 2023-10-15 |
 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-08-25 | 2024-03-09 |
+| [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 | 2024-06-28 |  |
 | [Walk Over My Grave](https://open.spotify.com/track/4sK75yxCOj0K5NMijKgZCa) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [is this what i look like?](https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH) | 3:19 | 2022-11-25 | 2024-05-15 |
 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 | 2023-03-02 |  |
 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 | 2022-11-25 |  |

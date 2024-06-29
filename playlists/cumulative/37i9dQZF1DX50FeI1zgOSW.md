@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-305 songs - 17 hr 32 min
+307 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Love Rocket](https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA) | [Yokesh Ravilla](https://open.spotify.com/artist/5AhtI9OadgjCSkFvNpUGsR), [Sathish K](https://open.spotify.com/artist/1A5uByEnQ5Qhim7K8CfPhC) | [Love Rocket](https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM) | 3:12 | 2023-11-15 | 2024-05-21 |
 | [LoveBHK](https://open.spotify.com/track/2MfIpKND74ODPk5Y7t94Z1) | [Kiran S Shankar](https://open.spotify.com/artist/0ouznHZynuafFNiXYTnCCt), [Aswin Gopakumar](https://open.spotify.com/artist/2LJyNI2fjaA6hUTlMSGRMo) | [LoveBHK](https://open.spotify.com/album/7Mog9E9w8TZ5iVoVYTAosn) | 4:47 | 2024-05-13 |  |
 | [Maarambari](https://open.spotify.com/track/4xPz0QQczOI5mllfIhamHP) | [Shanker](https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM), [Tikx Kooda](https://open.spotify.com/artist/550h9wiTpYT12T8Zyihl69), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Maarambari](https://open.spotify.com/album/3av6K5LWeEqxsbeXHxjLxd) | 3:19 | 2023-08-04 | 2023-10-21 |
+| [Madras Mazhai](https://open.spotify.com/track/5U8wig388mEr4GpLIiq2X3) | [Saras Menon](https://open.spotify.com/artist/4mAq6TQySa1Jg44cBjvCip), [Mukund Ambarish](https://open.spotify.com/artist/5mK5BecJ5dSwQFoDhozr2d), [Akshay Ganesh](https://open.spotify.com/artist/4CRIhTzqH2S4qTzAHHT4Zt) | [Madras Mazhai](https://open.spotify.com/album/1InwdAyJdjkiZm0KOSQMmE) | 3:09 | 2024-06-28 |  |
 | [Makal](https://open.spotify.com/track/4HyqWvunNGcNrkz9Ik4Wsh) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Makal](https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r) | 4:06 | 2023-11-14 | 2024-01-03 |
 | [Malare](https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW) | [Ramesh Ramamoorthy](https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz), [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Sanjeev Venkataramanan](https://open.spotify.com/artist/4oXQTJFc30wSqRRJD1A3zV) | [Malare](https://open.spotify.com/album/3jT3LOUaPkSzj3s3h5p7nF) | 2:20 | 2024-04-24 |  |
 | [Malare](https://open.spotify.com/track/1ZDiBP33aBD82QORUFDI88) | [V\. Sanjeev](https://open.spotify.com/artist/116P1Hzh4SnY9KN2tAkAR2), [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Ramesh Ramamoorthy](https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz) | [Malare](https://open.spotify.com/album/29nOM78m3iF0BIo9mviX9c) | 2:20 | 2024-05-03 | 2024-05-14 |
@@ -186,6 +187,7 @@
 | [Nenjukulla oru Sogamilla](https://open.spotify.com/track/5gJCoYhiya64f5emZxuEoT) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Nenjukulla oru Sogamilla](https://open.spotify.com/album/6f9c45nTF4RSV1pfFJCnnz) | 2:36 | 2024-01-15 |  |
 | [Neram](https://open.spotify.com/track/38Tb67e6nPNjKxtKFfGI3Y) | [Tarun Lucas](https://open.spotify.com/artist/4CwXkAApZDWux0Ppl6GVLM) | [Neram](https://open.spotify.com/album/7aS9XY7sAnrPg6SXukhrAH) | 3:42 | 2024-05-27 |  |
 | [Nila](https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nila](https://open.spotify.com/album/3uQQfEQdXlqzB8NwLeOuf3) | 2:43 | 2023-06-20 | 2024-01-06 |
+| [Nila](https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Tushar Budhwani](https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq) | [Nila](https://open.spotify.com/album/2QIQo3HAoODX6pU0nWh935) | 3:27 | 2024-06-28 |  |
 | [Nile Nadiye](https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y) | [Amruta Natu](https://open.spotify.com/artist/05oLd4emUQsLievloAOyy5), [Gaurav Bangia](https://open.spotify.com/artist/6gCjKmhyFa8lfu1JSlAIpN) | [Nile Nadiye](https://open.spotify.com/album/1aaICsKcjO6IWmT3KcF4PU) | 3:34 | 2024-04-04 |  |
 | [Ninaivuakle Ninaivukale](https://open.spotify.com/track/1uPQxeisar57nvyqnmCIln) | [Ashwathi Hari](https://open.spotify.com/artist/18Huo8X4RsqJ2WHHA7ha2Y), [Sreenivasan Mahadevan](https://open.spotify.com/artist/2YyxHN6CyhcITIEj7Mwlhd), [Anand Menon](https://open.spotify.com/artist/1lBBbXWJUZJ96siXw7T3OZ) | [Ninaivuakle Ninaivukale](https://open.spotify.com/album/3RvWEOeRiCIejBCr0fTG9d) | 4:32 | 2024-04-01 |  |
 | [Ninaivugal Donadhe](https://open.spotify.com/track/2pdUSqk3pyDT0wZyb6PALD) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninaivugal Donadhe](https://open.spotify.com/album/2L2JonJnz6I7EdwV2K2gjc) | 3:39 | 2023-06-26 | 2023-11-29 |

@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 36 | [Crush](https://open.spotify.com/track/7sejIu4IkJNO64hVmgwGLu) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Crush](https://open.spotify.com/album/0PqMtDy7Xr6jNI6gddjYXg) | 2:35 |
 | 37 | [Cruel Intention](https://open.spotify.com/track/7daaWAY97rcxTkSvuEIxLw) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Cruel Intention](https://open.spotify.com/album/0dUQGioQuV6VpUj9mzhkMV) | 3:58 |
 | 38 | [Rouge](https://open.spotify.com/track/5Lq8jAdhc69KzkrRoc2pjB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [Rouge](https://open.spotify.com/album/208eaI6RT7zPv6lcM2ivII) | 2:28 |
-| 39 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
-| 40 | [Bad Town](https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Bad Town](https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U) | 2:35 |
+| 39 | [Bad Town](https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Bad Town](https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U) | 2:35 |
+| 40 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
 | 41 | [Gold](https://open.spotify.com/track/6GiUUbLouPiQglWFawWdpI) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Gold](https://open.spotify.com/album/5FnLDxa3uXueONAYV41Zpp) | 2:18 |
 | 42 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 |
 | 43 | [We Are the Misfits](https://open.spotify.com/track/0DL6GTZ1WRIzIc5ciS6dzX) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [We Are the Misfits](https://open.spotify.com/album/5qoB0JB5ZLQS1VJs8YesPY) | 2:53 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 104 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 105 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `AbVNdAAAAABPpmk+E44la1u/qlXiOUtM`
+Snapshot ID: `AbVTFAAAAACA45u6hg3r2O3FSN/yjPzU`

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\.  Cover: Raveena.
 
-826 songs - 1 day 18 hr 39 min
+828 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-04-05 |  |
 | [Blow](https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Blow](https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR) | 2:09 | 2022-10-07 | 2022-12-03 |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-05-27 | 2023-08-12 |
+| [Blowing Kisses](https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Blowing Kisses](https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F) | 3:38 | 2024-06-28 |  |
 | [Blue](https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGIC MAN](https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U) | 2:39 | 2022-09-09 | 2023-08-12 |
 | [Blue \(feat\. msftz\)](https://open.spotify.com/track/33boBTXa0glODWaz0jdqQg) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Blue \(feat\. msftz\)](https://open.spotify.com/album/00adV4zPSUtZJQkko7t0Wc) | 3:37 | 2022-05-27 | 2022-07-29 |
 | [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 | 2023-08-25 |  |
@@ -173,6 +174,7 @@
 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 | 2023-09-22 | 2024-04-13 |
 | [deadline](https://open.spotify.com/track/21piSaSVcmB8Q5juvINegj) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the roaring twenties](https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY) | 2:49 | 2024-03-08 | 2024-04-19 |
 | [deadline](https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the roaring twenties](https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz) | 2:49 | 2023-09-22 | 2024-05-05 |
+| [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 | 2024-06-28 |  |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 | 2024-03-23 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-07-22 | 2022-11-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2022-05-27 | 2022-07-29 |
@@ -302,7 +304,7 @@
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-30 | 2024-02-24 |
 | [ground in your hands](https://open.spotify.com/track/3rpwGidGWLzwiYlXRbNwk6) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [ground in your hands](https://open.spotify.com/album/31uZjQ9LuuTWIXe940bAIA) | 4:01 | 2024-06-14 |  |
 | [hair down](https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [hair down](https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5) | 3:30 | 2024-04-12 |  |
-| [HAPPY ENDING](https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [whatislove2u?](https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3) | 1:55 | 2024-04-05 |  |
+| [HAPPY ENDING](https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [whatislove2u?](https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3) | 1:55 | 2024-04-05 | 2024-06-29 |
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-11 | 2024-04-19 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-19 |  |
 | [HARTTBREAK](https://open.spotify.com/track/4yar1Xf64ub25x7z8lzyNJ) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [HARTTBREAK / am I enough?](https://open.spotify.com/album/1ROUWJo8rgIAEt6pm34ToK) | 4:55 | 2024-05-10 |  |
@@ -594,7 +596,7 @@
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2022-06-03 | 2022-07-15 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-06-03 | 2023-08-12 |
 | [Saving Face](https://open.spotify.com/track/2ryATdlWSw5e2QkIZwOWN7) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Saving Face](https://open.spotify.com/album/6lcu11cmsWCGKyee35sb92) | 3:01 | 2023-08-11 | 2023-08-26 |
-| [Say Hello](https://open.spotify.com/track/2CCQSEO1f9vpHN8nMCzJBU) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Say Hello](https://open.spotify.com/album/1KnOMUjcLKoxZY7KUvUP3z) | 2:54 | 2024-06-14 |  |
+| [Say Hello](https://open.spotify.com/track/2CCQSEO1f9vpHN8nMCzJBU) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Say Hello](https://open.spotify.com/album/1KnOMUjcLKoxZY7KUvUP3z) | 2:54 | 2024-06-14 | 2024-06-29 |
 | [sayonara](https://open.spotify.com/track/4GgBRiqk6JCoNP3elEnbIy) | [REBBY](https://open.spotify.com/artist/6SM0FvfOnhrOrf915CKPdh) | [sayonara](https://open.spotify.com/album/2Dlk9MiP54xjdCdrDJHTxO) | 3:07 | 2024-05-24 |  |
 | [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 | 2023-12-01 | 2024-05-09 |
 | [scenic route](https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE) | 3:00 | 2024-03-08 | 2024-04-19 |
@@ -718,7 +720,7 @@
 | [The World Is Mine](https://open.spotify.com/track/2QlHmqaiWxytgiqFn8UL7A) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [The World Is Mine](https://open.spotify.com/album/5QNyRwivuuNW7gw7I9s4zu) | 3:02 | 2023-05-05 | 2023-05-13 |
 | [therapy](https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [therapy](https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF) | 2:16 | 2023-11-24 | 2024-02-24 |
 | [Think Twice](https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Think Twice](https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu) | 3:12 | 2024-01-19 | 2024-06-15 |
-| [think you're falling](https://open.spotify.com/track/4Yi4sBLH09aqGq5J6dzl3W) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [think you're falling](https://open.spotify.com/album/7jvNyWxrf5bwrTC8zvSU1W) | 3:30 | 2024-02-23 |  |
+| [think you're falling](https://open.spotify.com/track/4Yi4sBLH09aqGq5J6dzl3W) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [think you're falling \[inst\]](https://open.spotify.com/album/7jvNyWxrf5bwrTC8zvSU1W) | 3:30 | 2024-02-23 |  |
 | [Thinkin Of U](https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 2:01 | 2023-08-11 | 2024-02-10 |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-05-27 | 2022-10-13 |
 | [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 | 2022-10-14 | 2023-08-12 |

@@ -4860,7 +4860,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 152392,
       "name": "Caro",
       "url": "https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g"
@@ -4916,7 +4916,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 132000,
       "name": "Carpete",
       "url": "https://open.spotify.com/track/4fE1XYFq8yHspXktDmPU95"
@@ -7336,7 +7336,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 237108,
       "name": "Delator",
       "url": "https://open.spotify.com/track/0YhJRVhZETuKxSc5xNGrzj"
@@ -7398,6 +7398,36 @@
       "duration_ms": 146592,
       "name": "DESABAFO",
       "url": "https://open.spotify.com/track/7oSqZv45fVrJmBzlFaUtz6"
+    },
+    {
+      "album": {
+        "name": "Desacreditado",
+        "url": "https://open.spotify.com/album/3dBkxWW3c79WeQ9OkRpvPW"
+      },
+      "artists": [
+        {
+          "name": "MC Neguinho BDP",
+          "url": "https://open.spotify.com/artist/1qjORnMWwHW1ILrXFwkMbX"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Taramps",
+          "url": "https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Desacreditado",
+      "url": "https://open.spotify.com/track/53D9OYFhiy44r1zpLfNibw"
     },
     {
       "album": {
@@ -12679,6 +12709,32 @@
     },
     {
       "album": {
+        "name": "G\u00f3tico",
+        "url": "https://open.spotify.com/album/5ocDYaSoGtOycl4i5AgTF1"
+      },
+      "artists": [
+        {
+          "name": "Shark47",
+          "url": "https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F"
+        },
+        {
+          "name": "Severo OG",
+          "url": "https://open.spotify.com/artist/2YyN20sS25TM7vlkjhkhVg"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "G\u00f3tico",
+      "url": "https://open.spotify.com/track/63011WwwxItHgueASi1Asi"
+    },
+    {
+      "album": {
         "name": "HARD ROCK",
         "url": "https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6"
       },
@@ -13550,6 +13606,36 @@
       "duration_ms": 120149,
       "name": "Jetski",
       "url": "https://open.spotify.com/track/1RrklvAkbL0dtlTdGp5MET"
+    },
+    {
+      "album": {
+        "name": "Jhony Convida #11 - Reis da Rua",
+        "url": "https://open.spotify.com/album/4GyV7gspagECVyPHdsy53f"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174388,
+      "name": "Jhony Convida #11 - Reis da Rua",
+      "url": "https://open.spotify.com/track/1ENugKJoKr7id0HWeGnhuB"
     },
     {
       "album": {
@@ -15310,7 +15396,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 152892,
       "name": "Mais Uma Vez",
       "url": "https://open.spotify.com/track/7DjQ1hL4AvAmEmVJ2bO0hV"
@@ -17254,7 +17340,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 146901,
       "name": "Molejo",
       "url": "https://open.spotify.com/track/500kSmpLH7QptQ2oetR8mN"
@@ -17372,6 +17458,24 @@
       "duration_ms": 136620,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/0Qq27STXI7SzbLfOVRJ32U"
+    },
+    {
+      "album": {
+        "name": "PERFORMANCES DE UM ROMANCE PORF\u00cdRIO",
+        "url": "https://open.spotify.com/album/2I2mngywBEtFDHJ2p3luD3"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129852,
+      "name": "MONTANHA RUSSA",
+      "url": "https://open.spotify.com/track/4jJZnJaXD3T5JzyLyV0nnM"
     },
     {
       "album": {
@@ -18642,6 +18746,28 @@
       "duration_ms": 153166,
       "name": "O Jo\u00e3o \u00c9 S\u00e3o",
       "url": "https://open.spotify.com/track/6uwS9SIje3qOoEJlX3CwgE"
+    },
+    {
+      "album": {
+        "name": "O Mais Procurado",
+        "url": "https://open.spotify.com/album/3uEmAF2DmZkWz8EYB2gW6V"
+      },
+      "artists": [
+        {
+          "name": "Bren Oficial",
+          "url": "https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB"
+        },
+        {
+          "name": "KENNEDYBEATZ",
+          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136585,
+      "name": "O Mais Procurado",
+      "url": "https://open.spotify.com/track/29J7kdNTO3gUelvTfeWfCm"
     },
     {
       "album": {
@@ -20510,7 +20636,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176098,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
@@ -24715,6 +24841,28 @@
     },
     {
       "album": {
+        "name": "Sou Eu Mesma",
+        "url": "https://open.spotify.com/album/3XrbOjWQ3dRDGAynXACRAP"
+      },
+      "artists": [
+        {
+          "name": "Buh",
+          "url": "https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Sou Eu Mesma",
+      "url": "https://open.spotify.com/track/0jBkw14sG2bbWaAWt95INe"
+    },
+    {
+      "album": {
         "name": "SP NIGHTS",
         "url": "https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb"
       },
@@ -27536,10 +27684,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 155307,
       "name": "Vida Real",
       "url": "https://open.spotify.com/track/0Td4ValIMbzUgXDT4rKfjx"
+    },
+    {
+      "album": {
+        "name": "VIL\u00d5ES",
+        "url": "https://open.spotify.com/album/4oCQ0ofLIn9f71MLlRrMfe"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227702,
+      "name": "VIL\u00d5ES",
+      "url": "https://open.spotify.com/track/78FhbELUHkeVaiq3vKezsY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 469412,
+  "num_followers": 469448,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmBlwwAAAACzuXqVpWxnARC6WoR6ZpDb",
+  "snapshot_id": "Zn41QAAAAABAtrZzsZ4xE19lCfZvXz+f",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 318421,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Hoverboard",
+        "url": "https://open.spotify.com/album/1aBRnuCVdqtsmY6CNh8Xjx"
+      },
+      "artists": [
+        {
+          "name": "No More Kings",
+          "url": "https://open.spotify.com/artist/71ayJn19k4ENbNmOmKKgfi"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Hoverboard",
+      "url": "https://open.spotify.com/track/7y6UJdAif8CC0xdyGg2pDh"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 256293,
       "name": "Violent & Funky",
       "url": "https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "My Name Is Mud",
-      "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"
     },
     {
       "added_at": "2022-02-04 05:02:00",

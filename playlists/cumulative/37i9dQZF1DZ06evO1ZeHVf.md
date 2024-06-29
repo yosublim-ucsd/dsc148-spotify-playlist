@@ -2,7 +2,7 @@
 
 ### [This Is CeCe Winans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZeHVf)
 
-> This Is CeCe Winans\. Los temas esenciales, todos en una lista.
+> This is CeCe Winans\. De viktigste sporene samlet i én spilleliste.
 
 85 songs - 6 hr 39 min
 

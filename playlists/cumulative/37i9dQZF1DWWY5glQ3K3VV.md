@@ -4,7 +4,7 @@
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Luciennn, Salmo
 
-246 songs - 12 hr 21 min
+247 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Backwoods](https://open.spotify.com/track/0OOalWuhO3e1fjriNVlvqj) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SKINNY BABY](https://open.spotify.com/album/5IMeTLBNo9M0LUxaHZFx4E) | 2:57 | 2022-05-01 | 2022-07-29 |
 | [BAD BITCH](https://open.spotify.com/track/1gyQ0inxIAFzmSCWSwPWIL) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [BAD BITCH](https://open.spotify.com/album/1D7VO0tJc3bNG3HdV73oDZ) | 2:28 | 2022-05-11 | 2022-05-13 |
 | [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/4zYatWHWblyRliSYAtpsut) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 3:07 | 2023-03-23 | 2023-05-20 |
-| [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf) | 3:07 | 2022-05-01 |  |
+| [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf) | 3:07 | 2022-05-01 | 2024-06-29 |
 | [Bambola](https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bambola](https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB) | 2:49 | 2023-06-08 |  |
+| [Banda Kawasaki](https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Banda Kawasaki](https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t) | 3:11 | 2024-06-27 |  |
 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 | 2022-08-26 |  |
 | [Banlieue](https://open.spotify.com/track/43Yw3ycsVJOb4eDzZ7pwQG) | [Bloy$](https://open.spotify.com/artist/6YnSAmwqze7HFnvSt6lxYj) | [Banlieue](https://open.spotify.com/album/2bz7o8YGDuN1BLD0IMiwR6) | 2:38 | 2022-05-12 | 2022-06-11 |
 | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/track/76xea5TfeyVu8c4dGWpFD2) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Dogslife](https://open.spotify.com/artist/73TvGBOaS1WApWEiMefT9O), [Mago del Blocco](https://open.spotify.com/artist/0MNIz36U44uxk0MZeZ2smX) | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/album/4TSk7THVrLQr1D3E61vHta) | 3:01 | 2022-05-01 |  |

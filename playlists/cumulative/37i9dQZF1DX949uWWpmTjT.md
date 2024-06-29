@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,086 songs - 2 day 22 hr 1 min
+1,087 songs - 2 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Beloved Dance](https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Beloved Dance](https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1) | 3:03 | 2024-01-12 |  |
 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 | 2023-08-18 |  |
 | [BENEDICTION](https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 5:44 | 2022-04-14 |  |
-| [Bestow Itself](https://open.spotify.com/track/6NqQoi0HF4I5eSj9fFQfQv) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Bestow Itself](https://open.spotify.com/album/2Np3DmGfgHSjyz36GH3csd) | 3:23 | 2024-06-11 |  |
+| [Bestow Itself](https://open.spotify.com/track/6NqQoi0HF4I5eSj9fFQfQv) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Bestow Itself](https://open.spotify.com/album/2Np3DmGfgHSjyz36GH3csd) | 3:23 | 2024-06-11 | 2024-06-29 |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-10 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-18 |  |
 | [Bidin My Time](https://open.spotify.com/track/20bB0bptCjNdqQR6tL6knD) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 3:03 | 2021-12-03 | 2023-10-06 |
@@ -443,7 +443,7 @@
 | [In A Valley By A Creek](https://open.spotify.com/track/3iKEjLnz4fnhSppjCC2eG0) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [In A Valley By A Creek](https://open.spotify.com/album/32wsZze5gSM0dMgJdyi9YQ) | 3:27 | 2023-03-30 |  |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-11-10 |  |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-11-10 |  |
-| [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Trio Serena](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 | 2024-06-27 |  |
+| [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [In Every Way](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 | 2024-06-27 |  |
 | [In Love In Vain](https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [In Love In Vain](https://open.spotify.com/album/2Qhxe4KQqMY6vXjimJjLt2) | 2:58 | 2023-08-25 |  |
 | [In Space And Time](https://open.spotify.com/track/64ns7jHUJWaFn25DXc8aMK) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [In Space And Time](https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g) | 3:12 | 2023-08-10 |  |
 | [In the Distance](https://open.spotify.com/track/68ycONiuTtYjbnc7fGoPWX) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 2:53 | 2023-06-01 | 2024-02-04 |
@@ -535,6 +535,7 @@
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-02-09 | 2023-06-02 |
 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2021-12-03 |  |
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
+| [Listen](https://open.spotify.com/track/6fI0UzIJTBiBhSxDhKHwXH) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Listen](https://open.spotify.com/album/1sLnvQFc4FAHufXfm0FhgS) | 4:23 | 2024-06-27 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2023-02-02 |  |
 | [Little Birdy Bean](https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Little Birdy Bean](https://open.spotify.com/album/5yjGBYwU32GcZvR9GKD0Ja) | 3:15 | 2024-02-23 |  |
 | [Live Long and Prosper](https://open.spotify.com/track/5GOhduEJtOxkZ8z3vGA3i0) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Live Long and Prosper](https://open.spotify.com/album/2UQLKr0Z5FqI4cPXvdqWG9) | 3:34 | 2023-08-10 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 ### [This Is Chris Tomlin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MV2cU)
 
-> This Is Chris Tomlin\. Los temas esenciales, todos en una lista.
+> This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,969 likes - 52 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,987 likes - 52 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 51 | [YAHWEH \(No One\) \(with Elevation Worship\)](https://open.spotify.com/track/2ooZId1w8kz1FWe3WOT0iM) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:50 |
 | 52 | [As For Me \(feat\. Chris Tomlin\)](https://open.spotify.com/track/1XFbNf7O1xycvXDZiO8NsK) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Act Justly, Love Mercy, Walk Humbly](https://open.spotify.com/album/66DpqECMsxiqR5YxNKEVxu) | 3:12 |
 
-Snapshot ID: `ZntaAAAAAABwIxlmn8siJMTz7ZJWE1t2`
+Snapshot ID: `ZntaAAAAAACwKJrMGXQTHNYbt4DAVJ2o`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "the best in hardcore. open the pit w/ SPEED.",
+  "description": "the best in hardcore. open the pit w/ GEL.",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -698,6 +698,24 @@
       "duration_ms": 184517,
       "name": "Coming Correct Is Cheaper",
       "url": "https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ"
+    },
+    {
+      "album": {
+        "name": "Compromised",
+        "url": "https://open.spotify.com/album/7JlELI8xTJhJZ8b4x81Sng"
+      },
+      "artists": [
+        {
+          "name": "Reviler",
+          "url": "https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135973,
+      "name": "Compromised",
+      "url": "https://open.spotify.com/track/28TwG43K9sLsTCRqOcT9ex"
     },
     {
       "album": {
@@ -2457,6 +2475,32 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4yTZNu7rNDpwFFdsqm1hm5"
+      },
+      "artists": [
+        {
+          "name": "Trail of Lies",
+          "url": "https://open.spotify.com/artist/6CfRUJrNjN17MgF4sfKE0Z"
+        },
+        {
+          "name": "Scott Vogel",
+          "url": "https://open.spotify.com/artist/29hXSjO5wlSWX5Kwrtms9s"
+        },
+        {
+          "name": "Danny Diablo",
+          "url": "https://open.spotify.com/artist/6rpdUczV3fScAaUUrsnKrl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142601,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1Uw6FE6OvrztdVU7wwY9Oj"
+    },
+    {
+      "album": {
         "name": "Myopic",
         "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
       },
@@ -2967,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132240,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS"
+    },
+    {
+      "album": {
         "name": "World Full Of...",
         "url": "https://open.spotify.com/album/3szSSG9C1WEMUPdkukrybl"
       },
@@ -3212,7 +3274,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 163430,
       "name": "Refrain",
       "url": "https://open.spotify.com/track/4MiEv1tSs9TfrxERXYd6Op"
@@ -3230,7 +3292,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 147546,
       "name": "Relic of Damnation",
       "url": "https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6"
@@ -3302,7 +3364,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 217500,
       "name": "Rose Bather",
       "url": "https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ"

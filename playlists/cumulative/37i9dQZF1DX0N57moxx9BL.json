@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:4uOFEWy9mIcvQbr03IbPcL\">Manafest</a> ",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 193551,
       "name": "Adhd",
       "url": "https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ"
+    },
+    {
+      "album": {
+        "name": "ICU",
+        "url": "https://open.spotify.com/album/1ONx4lNrLIA7Bb6RBYJuwU"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202025,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 223011,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 258888,
       "name": "Angels vs Demons",
       "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 376119,
       "name": "Anger",
       "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 222440,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/3NRhy4mzDwQc6IgPwyQM1x"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 203702,
       "name": "Blood On Me",
       "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 227266,
       "name": "COUNT 'EM",
       "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
@@ -716,10 +734,40 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 281117,
       "name": "Dark Cold Night",
       "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+    },
+    {
+      "album": {
+        "name": "DARKNESS BEFORE THE DAWN!",
+        "url": "https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        },
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "DARKNESS BEFORE THE DAWN!",
+      "url": "https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6"
     },
     {
       "album": {
@@ -849,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Deeper Waters",
+        "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156410,
+      "name": "Deeper Waters",
+      "url": "https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6"
+    },
+    {
+      "album": {
         "name": "DEFENSE MECHANISM",
         "url": "https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR"
       },
@@ -936,7 +1002,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203171,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/6FKMfNgLra01edW4dPpGat"
@@ -961,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "End of Days",
+        "url": "https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260160,
+      "name": "End of Days",
+      "url": "https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU"
+    },
+    {
+      "album": {
         "name": "End of the World (feat. Disciple)",
         "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
       },
@@ -976,7 +1060,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 354815,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
@@ -1074,7 +1158,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
@@ -1128,7 +1212,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH"
@@ -1164,7 +1248,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200176,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB"
@@ -1244,10 +1328,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
+    },
+    {
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem"
+      },
+      "artists": [
+        {
+          "name": "Theocracy",
+          "url": "https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA"
     },
     {
       "album": {
@@ -1269,6 +1371,50 @@
     },
     {
       "album": {
+        "name": "Kenotic Metanoia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7tlOspCNKpF5qRIyFPcxTG"
+      },
+      "artists": [
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Forever & Ever (feat. Lindsey Stirling)",
+      "url": "https://open.spotify.com/track/6mc2rHTCtXcLSSG0b7W6wy"
+    },
+    {
+      "album": {
+        "name": "FREE! (Live)",
+        "url": "https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225617,
+      "name": "FREE! - Live",
+      "url": "https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq"
+    },
+    {
+      "album": {
         "name": "Alpha",
         "url": "https://open.spotify.com/album/5PseGPt9BlRUIwjZCCmt1W"
       },
@@ -1287,6 +1433,46 @@
     },
     {
       "album": {
+        "name": "Learning How To Be Human",
+        "url": "https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Glitch In The Matrix",
+      "url": "https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt"
+    },
+    {
+      "album": {
+        "name": "GOD LIKE MINE",
+        "url": "https://open.spotify.com/album/3kadN9C49ygTXwJT5ANU8q"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "GOD LIKE MINE",
+      "url": "https://open.spotify.com/track/0dxzsEv8UhVAFejUFKrfGa"
+    },
+    {
+      "album": {
         "name": "GODLESS",
         "url": "https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU"
       },
@@ -1302,7 +1488,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 294786,
       "name": "GODLESS",
       "url": "https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm"
@@ -1320,7 +1506,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 218347,
       "name": "Halos",
       "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
@@ -1356,7 +1542,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 265706,
       "name": "HEAVEN DON'T CRY",
       "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
@@ -1396,6 +1582,50 @@
       "duration_ms": 177569,
       "name": "Holding Me Up",
       "url": "https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ"
+    },
+    {
+      "album": {
+        "name": "Holy Savior",
+        "url": "https://open.spotify.com/album/2A5zE1ptlwgo6bLuRYhzUB"
+      },
+      "artists": [
+        {
+          "name": "The Rock Music",
+          "url": "https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk"
+        },
+        {
+          "name": "Kelsea Yetton",
+          "url": "https://open.spotify.com/artist/6PQ6WHlRAdmly59ZGcA7D4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303250,
+      "name": "Holy Savior",
+      "url": "https://open.spotify.com/track/4Iv4RGVktNQmC60UH3HjMu"
+    },
+    {
+      "album": {
+        "name": "I Get Wicked",
+        "url": "https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "I Get Wicked - Reignited",
+      "url": "https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5"
     },
     {
       "album": {
@@ -1497,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/0iQ6ubCreyPmqyDebWPAyf"
+      },
+      "artists": [
+        {
+          "name": "aftrthght",
+          "url": "https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY"
+        },
+        {
+          "name": "CHANGETHEWXRLD",
+          "url": "https://open.spotify.com/artist/2EoePmwsrpFvAgaJa5Soxe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152978,
+      "name": "KINGDOM COME",
+      "url": "https://open.spotify.com/track/4V0XVB84bt1Dhu8kcJXvy5"
+    },
+    {
+      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ"
       },
@@ -1544,7 +1796,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168827,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK"
@@ -1692,7 +1944,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211360,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/3UzWO1IScDGFfdz5pYLsCB"
@@ -1710,7 +1962,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 260232,
       "name": "Melancholy Machines",
       "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
@@ -1746,7 +1998,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 275555,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
@@ -1768,6 +2020,24 @@
       "duration_ms": 206000,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/2izXDYooH01TTikKosMVMO"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/5o6miCyzka5xeGZ9iHPGfU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381692,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL"
     },
     {
       "album": {
@@ -1800,7 +2070,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 209128,
       "name": "No Altars",
       "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
@@ -1858,7 +2128,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 164753,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u"
@@ -1956,7 +2226,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
@@ -1992,7 +2262,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 293538,
       "name": "Promise to Live",
       "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
@@ -2046,7 +2316,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 197480,
       "name": "Psycho In My Head",
       "url": "https://open.spotify.com/track/6VWocK4U2rcTQeVrfDlCMV"
@@ -2089,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Radio Gaga",
+        "url": "https://open.spotify.com/album/5YjbMcs2PRHakKMokq89f4"
+      },
+      "artists": [
+        {
+          "name": "Ignescent",
+          "url": "https://open.spotify.com/artist/6PQENi26ZkXCUo1ksPJ7mm"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224388,
+      "name": "Radio Gaga",
+      "url": "https://open.spotify.com/track/5iU2UE9Z4GXVczPymFbT6A"
+    },
+    {
+      "album": {
         "name": "Last Day Rising",
         "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
       },
@@ -2118,7 +2406,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 235986,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/18nu97knXqpk2HHEjKqOnd"
@@ -2154,7 +2442,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 227486,
       "name": "Rise to the Call",
       "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
@@ -2194,7 +2482,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
@@ -2212,7 +2500,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 249999,
       "name": "Same Old Story",
       "url": "https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa"
@@ -2248,7 +2536,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 294249,
       "name": "See No Evil, Hear No Evil",
       "url": "https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6"
@@ -2306,7 +2594,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 433866,
       "name": "SILENCE THE WORLD",
       "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
@@ -2360,7 +2648,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 257467,
       "name": "Standing in the Storm",
       "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
@@ -2378,7 +2666,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 194040,
       "name": "State of Me",
       "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
@@ -2396,7 +2684,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 199933,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
@@ -2472,7 +2760,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180537,
       "name": "Surrogates",
       "url": "https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z"
@@ -2508,7 +2796,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198500,
       "name": "Surviving The Wasteland",
       "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
@@ -2544,7 +2832,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 248392,
       "name": "The Antihero",
       "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
@@ -2580,7 +2868,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 247124,
       "name": "The Executioner",
       "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
@@ -2674,7 +2962,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214728,
       "name": "The Seventh Seal (feat. Ulf Christiansson)",
       "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
@@ -2732,7 +3020,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 223623,
       "name": "Think of Me",
       "url": "https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy"
@@ -2768,7 +3056,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266503,
       "name": "This Is Not The End",
       "url": "https://open.spotify.com/track/4sR3VyYFteDqBCFlBfxHhI"
@@ -2880,7 +3168,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198673,
       "name": "War of Change - Reignited",
       "url": "https://open.spotify.com/track/1ZEozdTpkYk0FYJ24YWj7t"
@@ -2916,7 +3204,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/7hJtAHrevoIBIJFKvs23gn"
@@ -2952,7 +3240,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
@@ -2970,7 +3258,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172029,
       "name": "Weight of Glory - Live Session",
       "url": "https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5"
@@ -3024,7 +3312,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 204942,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
@@ -3096,10 +3384,28 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 251201,
       "name": "Words of Fire",
       "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
     },
     {
       "album": {
@@ -3121,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191265,
+      "name": "Your Devil Is A Ghost",
+      "url": "https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31"
+    },
+    {
+      "album": {
         "name": "of Beauty and Rage",
         "url": "https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ"
       },
@@ -3132,10 +3456,32 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 289720,
       "name": "Yours Again",
       "url": "https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN"
+    },
+    {
+      "album": {
+        "name": "Fractured Paradise",
+        "url": "https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        },
+        {
+          "name": "Magdalene Rose",
+          "url": "https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214815,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL"

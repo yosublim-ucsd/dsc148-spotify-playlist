@@ -4,7 +4,7 @@
 
 > Escute Raphaela Santos e mais mulheres no volume máximo! Co\-curadoria com Raphaela Santos
 
-1,062 songs - 2 day 6 hr 33 min
+1,064 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A Loba](https://open.spotify.com/track/1GrtIxLbh56ArbN9AkYFRO) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA 2](https://open.spotify.com/album/23cbfoApa2IEWN8rscmIBi) | 1:51 | 2023-11-29 | 2024-04-04 |
 | [A Loba/Ou Ela ou Eu \- Ao Vivo](https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH) | 3:45 | 2023-10-27 | 2023-11-09 |
 | [A Nova Eu](https://open.spotify.com/track/4YpuytpEgBHQQSoOyW4EVu) | [Andrielly Souza](https://open.spotify.com/artist/2uWWjwGR4PAdCDOmcyXO7q) | [A Nova Eu](https://open.spotify.com/album/7xQyYvtB0Ycit9srpDfHsb) | 3:02 | 2024-06-05 |  |
+| [A Otária](https://open.spotify.com/track/6lFDoy6nuaU2q0DK5rZZ6N) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 2:51 | 2024-06-28 |  |
 | [A Partir de Hoje](https://open.spotify.com/track/1pGHO6eeB4QnWEp3xCSg9n) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L) | [A Partir de Hoje](https://open.spotify.com/album/0qEQzBUKaNgrTGJgB8KxBY) | 2:46 | 2022-02-03 | 2022-03-09 |
 | [A Preta é Braba](https://open.spotify.com/track/0vVB8pPr1OIHailckAAqFo) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [A Preta é Braba](https://open.spotify.com/album/6Roitz5RcHXsRTEOTUYZa7) | 2:34 | 2022-04-06 | 2022-12-01 |
 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 | 2024-04-03 | 2024-05-07 |
@@ -641,6 +642,7 @@
 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 | 2024-04-03 |  |
 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 | 2024-03-06 | 2024-04-04 |
 | [Negócio na Cama \- Ao Vivo](https://open.spotify.com/track/1ZIrnCHZhVOeFjedBBVtp2) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Priscila Em Cena \(Ao Vivo no Classic Hall\)](https://open.spotify.com/album/2of2wBTolajrVJ5fEWYdFR) | 2:44 | 2023-04-05 | 2023-05-04 |
+| [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 | 2024-06-28 |  |
 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 | 2023-04-05 | 2023-07-06 |
 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 | 2023-09-06 | 2023-10-05 |
 | [Nem Te Culpo \- Ao Vivo](https://open.spotify.com/track/6WvbrxLv0bebldCrIPIGsL) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Nem Te Culpo \(Ao Vivo\)](https://open.spotify.com/album/6XlZZ1nClQTjNTxFebPpUi) | 3:32 | 2022-08-03 | 2022-09-02 |

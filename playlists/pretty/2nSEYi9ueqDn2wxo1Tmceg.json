@@ -1,12 +1,12 @@
 {
-  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K?si=w8bfuFXaS8up2_BtCVV3zw\">One True Pairing</a>",
+  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ_gbwb9R4EA\">Buscabulla</a>",
   "num_followers": 66914,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPhjnNRIFYqZwEURuEeSK6HdTVb3s2",
+  "snapshot_id": "AAAPiYoH0tqHbULJuF7c2A6W+XFuYzeM",
   "tracks": [
     {
       "added_at": "2024-06-26 11:34:11",
@@ -255,6 +255,30 @@
       "duration_ms": 247500,
       "name": "They",
       "url": "https://open.spotify.com/track/2PPDGJXpa2IoX1tVsi4WBm"
+    },
+    {
+      "added_at": "2024-06-28 09:16:09",
+      "album": {
+        "name": "This Is Memorial Device",
+        "url": "https://open.spotify.com/album/3A4f1wMZMb4aBVuJMjq6IV"
+      },
+      "artists": [
+        {
+          "name": "Stephen Pastel",
+          "url": "https://open.spotify.com/artist/1Mgkzst7Krb2uB3Ourbfby"
+        },
+        {
+          "name": "Gavin Thomson",
+          "url": "https://open.spotify.com/artist/19sJuu2SqWOfW8vDU2PHhL"
+        },
+        {
+          "name": "The Pastels",
+          "url": "https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP"
+        }
+      ],
+      "duration_ms": 286760,
+      "name": "The Morning Of The Executioners",
+      "url": "https://open.spotify.com/track/4l4XfSdjmYM8SODyXKOJyY"
     },
     {
       "added_at": "2024-06-26 11:34:11",

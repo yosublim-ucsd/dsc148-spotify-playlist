@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-952 songs - 1 day 23 hr 28 min
+953 songs - 1 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 | 2022-07-27 |
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
 | [Bir Bela](https://open.spotify.com/track/5kR2RqcjHEyCDXkE9WHhoF) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kraliçe](https://open.spotify.com/album/4kHAWGBdk9ZlMAqSKW7LCU) | 4:33 | 2024-04-24 | 2024-06-09 |
-| [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 |  |
+| [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 | 2024-06-29 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2023-12-15 |  |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-02-11 | 2024-05-13 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-08 |  |
@@ -231,8 +231,9 @@
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 | 2024-06-24 |
 | [Dale Don Dale](https://open.spotify.com/track/1aJUj5Vt8vPCyuuUwz6mOv) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/3Wf3GzXz37AdsYn0D9yq81) | 1:54 | 2024-06-15 | 2024-06-21 |
-| [Dale Don Dale](https://open.spotify.com/track/3OO1tH1VlH6T5vmLUi5coZ) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/263aBWwylDaIo3WzSUc3mR) | 1:54 | 2024-06-23 |  |
+| [Dale Don Dale](https://open.spotify.com/track/3OO1tH1VlH6T5vmLUi5coZ) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/263aBWwylDaIo3WzSUc3mR) | 1:54 | 2024-06-23 | 2024-06-29 |
 | [Dale Don Dale](https://open.spotify.com/track/6d41Qcxk0r5zJFzG683NRt) | [lonut cercel](https://open.spotify.com/artist/65WOws0UU3UN2ZcFlLVcV1) | [Dale Don Dale](https://open.spotify.com/album/7hU5rw9Ey5PdD6gJbf21El) | 1:54 | 2024-06-12 | 2024-06-15 |
+| [Dale Don Dale](https://open.spotify.com/track/12emtTdD2N7bGcS11Z1yKs) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/57Cp4stHR5TxADinMDv5E9) | 1:54 | 2024-06-28 |  |
 | [Dalga](https://open.spotify.com/track/3P0WmQXWzV3yqFyfgVolrT) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dalga](https://open.spotify.com/album/1xAhqFShLFhO65ut0iiQxU) | 2:05 | 2021-09-18 | 2022-04-13 |
 | [Dalga \- Emre Terzioğlu Remix](https://open.spotify.com/track/6Fri3yOIEBWJLVwlniBEQ1) | [Emre Terzioğlu](https://open.spotify.com/artist/5yiOnnmXLyko6TKdHCrtQz) | [Dalga \(Emre Terzioğlu Remix\)](https://open.spotify.com/album/1E7n6INLCRSqlOv3fckmmB) | 2:08 | 2021-09-21 | 2021-09-22 |
 | [DAMLA](https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:04 | 2023-06-17 | 2023-09-09 |
@@ -759,7 +760,7 @@
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-06 | 2022-04-10 |
 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 | 2024-03-16 |  |
 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 | 2023-08-27 |
-| [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-12 | 2024-06-27 |
+| [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-12 |  |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Sen ve Yıldız](https://open.spotify.com/track/3tIoAdD3rSPCYdtR55TXyj) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sen ve Yıldız](https://open.spotify.com/album/1nQRXlzrnkEN8qJAoj4pra) | 3:18 | 2023-11-04 | 2023-11-06 |
 | [Senden Güzeli Mi Var](https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:23 | 2024-02-03 | 2024-05-17 |

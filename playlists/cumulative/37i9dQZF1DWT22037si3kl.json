@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 116869,
       "name": "M\u00cdDIA",
       "url": "https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM"
@@ -7532,6 +7532,28 @@
       "duration_ms": 124003,
       "name": "PLACA DE HXX",
       "url": "https://open.spotify.com/track/1lS4JGGWHaq9MlVnqtkUtG"
+    },
+    {
+      "album": {
+        "name": "PLANO",
+        "url": "https://open.spotify.com/album/6OiJGiGQCnd2zhDKrXy5j0"
+      },
+      "artists": [
+        {
+          "name": "kaua og",
+          "url": "https://open.spotify.com/artist/0rQr1N6193VHYsk5mED6wD"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125788,
+      "name": "PLANO",
+      "url": "https://open.spotify.com/track/6wuPbnVu3lISIiqag9TWSU"
     },
     {
       "album": {

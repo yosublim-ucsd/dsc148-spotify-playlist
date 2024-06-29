@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. Усі улюблені треки в одному плейлісті.
+> This is JJ Hairston\. De viktigste sporene samlet i én spilleliste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,636 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,637 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [All You've Done \(feat\. Cristabel Clack\)](https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 7:01 |
 | 50 | [Agnus Dei \- Live](https://open.spotify.com/track/17IqtGPC2rIwBl65FJh8zc) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 3:29 |
 
-Snapshot ID: `ZntaAAAAAABXh0PV5ZN6s1+AWUGQtKOT`
+Snapshot ID: `ZntaAAAAAADPrJ4qdqXhqRjns6yNeYwg`

@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Lunares",
+        "url": "https://open.spotify.com/album/0McuKHUWKpDgsQ0aPWyX3q"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204649,
+      "name": "Lunares",
+      "url": "https://open.spotify.com/track/0OdQrlMbboMbp4Rdcl7nlD"
+    },
+    {
+      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -3707,6 +3725,32 @@
     },
     {
       "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210965,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG"
+    },
+    {
+      "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
       },
@@ -3726,7 +3770,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
@@ -4064,7 +4108,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 138000,
       "name": "\u00bfQu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"

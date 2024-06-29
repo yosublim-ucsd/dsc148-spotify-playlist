@@ -4,7 +4,7 @@
 
 > ANNA in cover + le migliori uscite di questa settimana!
 
-963 songs - 1 day 23 hr 57 min
+966 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Mi ami solo d’estate](https://open.spotify.com/track/6jlf3VpgGLuAGzoUtHFuso) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Mi ami solo d’estate](https://open.spotify.com/album/1MJSYQ2ZUHDt5Pz7SbOoQC) | 2:38 | 2024-06-06 | 2024-06-14 |
 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 | 2024-06-13 | 2024-06-21 |
 | [MI HA PUNTO UN SERPENTE](https://open.spotify.com/track/0AIqgyRJIjrgGqfwIaNyLZ) | [SAMUEL COSTA](https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2) | [MI HA PUNTO UN SERPENTE](https://open.spotify.com/album/4LDfYOFcJ7Je1c35U4WB3X) | 1:45 | 2024-06-13 | 2024-06-21 |
+| [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-06-28 |  |
 | [Miez A Via \(feat\. Geolier\)](https://open.spotify.com/track/1lKCEBF9dBDOklnyl5tbK9) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 3:07 | 2024-04-26 | 2024-05-03 |
 | [MILLEOCCHI](https://open.spotify.com/track/1aACUM9mA5FNIo50o3OAwv) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [MILLEOCCHI](https://open.spotify.com/album/5ffvL4umx35j7jJQpFW4E6) | 2:42 | 2024-05-31 | 2024-06-07 |
 | [Mine](https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Mine](https://open.spotify.com/album/0ugHcuARkUFmlZTRIpN00U) | 3:41 | 2024-06-27 |  |
@@ -816,6 +817,7 @@
 | [STRESS](https://open.spotify.com/track/1qLJupRlpqolbKNnrVDp9x) | [DIREI](https://open.spotify.com/artist/1xvnIuvn8DLzSwlKRT74IY) | [STRESS](https://open.spotify.com/album/62ObkL6tzkrz1yNXkPBFvE) | 3:13 | 2024-06-13 | 2024-06-21 |
 | [Stu Cafè](https://open.spotify.com/track/5e25jspvwj1CX3OiaTjLUb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [Stu Cafè](https://open.spotify.com/album/7uS36j00H0JrVKTyh6miYt) | 2:56 | 2024-06-20 | 2024-06-28 |
 | [STUPIDA](https://open.spotify.com/track/1yHU38rOiDrRC839QBbN8l) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [STUPIDA](https://open.spotify.com/album/1imcRHiMvoqVMsyRdO4vv5) | 3:00 | 2024-06-20 | 2024-06-28 |
+| [Style Rare \(feat\. Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 | 2024-06-28 |  |
 | [su misura](https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8) | [daze+](https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT), [+sudore](https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC) | [su misura](https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J) | 2:31 | 2024-06-13 | 2024-06-21 |
 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-06-20 | 2024-06-28 |
 | [Sun Comes Up](https://open.spotify.com/track/1blTO8R2KZCocDdquldlIh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Sun Comes Up](https://open.spotify.com/album/3pPKqAo24C6P9KeXZrXvB2) | 2:21 | 2024-05-23 | 2024-06-01 |
@@ -946,6 +948,7 @@
 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 | 2024-06-27 |  |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-23 | 2024-06-01 |
 | [Whenever You Are](https://open.spotify.com/track/1GTNkBaHKcnVrZkFFlaWIW) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Whenever You Are](https://open.spotify.com/album/7isNH3ZySoqj6RK5VlMlQP) | 2:30 | 2024-06-27 |  |
+| [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 | 2024-06-28 |  |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [Who Would I Be](https://open.spotify.com/track/0eSZbdHaaHKQ1nizBbCeyw) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Void](https://open.spotify.com/album/75mEqyUrrBb3wBz5yWNPnu) | 2:06 | 2024-05-02 | 2024-05-10 |
 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-05-09 | 2024-05-17 |

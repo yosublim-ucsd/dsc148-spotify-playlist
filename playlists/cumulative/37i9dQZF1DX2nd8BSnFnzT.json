@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Supercombo",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Tit\u00e3s",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Microfonado",
+        "url": "https://open.spotify.com/album/4PooNcpHa9bDZwTWwegRg6"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Apocalipse S\u00f3 (Microfonado)",
+      "url": "https://open.spotify.com/track/0kjmWJQlLQymaMb7y0iVE6"
+    },
+    {
+      "album": {
         "name": "Aqu\u00e1rio",
         "url": "https://open.spotify.com/album/7yxxEZGcOwhbA7UV01x8Nx"
       },
@@ -1212,6 +1234,46 @@
       "duration_ms": 211714,
       "name": "Cabelo Raspadinho",
       "url": "https://open.spotify.com/track/2f2ZBXAQX8JepNAARbL7Ih"
+    },
+    {
+      "album": {
+        "name": "Microfonado",
+        "url": "https://open.spotify.com/album/4PooNcpHa9bDZwTWwegRg6"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140377,
+      "name": "Cabe\u00e7a Dinossauro (Microfonado)",
+      "url": "https://open.spotify.com/track/1A5Sem3ctjc99sj8vz7MrI"
+    },
+    {
+      "album": {
+        "name": "Cada Dia Eu Vivo Menos",
+        "url": "https://open.spotify.com/album/2X1a960X8Qrgrk8v2yFBAn"
+      },
+      "artists": [
+        {
+          "name": "Reolamos",
+          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167089,
+      "name": "Cada Dia Eu Vivo Menos",
+      "url": "https://open.spotify.com/track/3ng0MeRJqtEot74Rt5HVFg"
     },
     {
       "album": {
@@ -3270,7 +3332,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 224032,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/6wEiEmMHlej0JBEo51gG0q"
@@ -3332,6 +3394,24 @@
       "duration_ms": 125250,
       "name": "Fogo no Rancho",
       "url": "https://open.spotify.com/track/48DWFQPut6tB0z0p3l0GJN"
+    },
+    {
+      "album": {
+        "name": "Fora de Controle (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2TUwLAo4r0VEmcs4SjTSvm"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199208,
+      "name": "Fora de Controle - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/158xy5kYAXVHLSHJEOm3Bj"
     },
     {
       "album": {
@@ -3462,6 +3542,24 @@
       "duration_ms": 199375,
       "name": "Gangorra",
       "url": "https://open.spotify.com/track/2Ww0mvlmvWjSz3vhpBoQNw"
+    },
+    {
+      "album": {
+        "name": "Gari",
+        "url": "https://open.spotify.com/album/62xPwKWp3s1BFkSN8LP9RR"
+      },
+      "artists": [
+        {
+          "name": "Diogo Defante",
+          "url": "https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247104,
+      "name": "Gari",
+      "url": "https://open.spotify.com/track/4FlFD7EK0tBMEp5Ac1w9ZX"
     },
     {
       "album": {
@@ -4306,7 +4404,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 243026,
       "name": "Lucifernandis",
       "url": "https://open.spotify.com/track/22xdBJzPJuBGqFDXhKfmc5"
@@ -4382,6 +4480,24 @@
       "duration_ms": 256130,
       "name": "L\u00famen",
       "url": "https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg"
+    },
+    {
+      "album": {
+        "name": "Voando Pelo Campo Dos Sonhos",
+        "url": "https://open.spotify.com/album/6VSYhUrZa3X4h1Vxcyid96"
+      },
+      "artists": [
+        {
+          "name": "Cogumelo Plut\u00e3o",
+          "url": "https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170745,
+      "name": "Madeira Podre",
+      "url": "https://open.spotify.com/track/04u6VBGapS47se7G685IZZ"
     },
     {
       "album": {
@@ -5616,7 +5732,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 144359,
       "name": "N\u00c3O \u00c9 CULPA DE NINGU\u00c9M",
       "url": "https://open.spotify.com/track/5IO2b23uTZkDNA8LR09hIu"
@@ -6054,7 +6170,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 218161,
       "name": "Obscuro",
       "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
@@ -8890,7 +9006,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 156164,
       "name": "Vendo O Mundo do Topo",
       "url": "https://open.spotify.com/track/2s1OSn5a5DniMzoPWrRriK"
@@ -9110,7 +9226,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 192478,
       "name": "W3",
       "url": "https://open.spotify.com/track/7JvJm2vwRiEbwV5Dq1704F"

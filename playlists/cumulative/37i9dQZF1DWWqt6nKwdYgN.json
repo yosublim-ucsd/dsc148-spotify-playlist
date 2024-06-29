@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 223512,
       "name": "Aire para Vivir",
       "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
@@ -2143,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "Charic",
+        "url": "https://open.spotify.com/album/1H7Xl7VVVoizaRx7P8XJx5"
+      },
+      "artists": [
+        {
+          "name": "GUANACO",
+          "url": "https://open.spotify.com/artist/7hU7xPPEEDgzWw3Ao8SupC"
+        },
+        {
+          "name": "Don De Gente",
+          "url": "https://open.spotify.com/artist/33fV4jYWFmoIiZZVlBGT9N"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203994,
+      "name": "Charic",
+      "url": "https://open.spotify.com/track/5hDWlCSRBsoI5Xb3C4DbAq"
+    },
+    {
+      "album": {
         "name": "Chica Mala",
         "url": "https://open.spotify.com/album/16dPOCzYWJ8xlDXaaYXEjg"
       },
@@ -2486,6 +2508,24 @@
       "duration_ms": 208100,
       "name": "Crime",
       "url": "https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
     },
     {
       "album": {
@@ -3185,6 +3225,32 @@
     },
     {
       "album": {
+        "name": "Dependiente",
+        "url": "https://open.spotify.com/album/0ndJ027vnBAx4MQ58fFYnu"
+      },
+      "artists": [
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        },
+        {
+          "name": "Barragan",
+          "url": "https://open.spotify.com/artist/1cIqvDo17E9xHqz3homiJH"
+        },
+        {
+          "name": "Astrallbass",
+          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259312,
+      "name": "Dependiente",
+      "url": "https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD"
+    },
+    {
+      "album": {
         "name": "Desde el Centro de la Tierra",
         "url": "https://open.spotify.com/album/4b8NCoVOcbaR1HEjvZ0zh7"
       },
@@ -3434,7 +3500,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 147594,
       "name": "Droga",
       "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
@@ -5004,7 +5070,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
@@ -6419,6 +6485,32 @@
     },
     {
       "album": {
+        "name": "Bushido: Kenjutsu",
+        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Cool Maze",
+          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
+    },
+    {
+      "album": {
         "name": "Old Tom Parr",
         "url": "https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K"
       },
@@ -7747,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "Mientras Dorm\u00edas",
+        "url": "https://open.spotify.com/album/42sYXoqlNujD5ohc53zBbw"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mientras Dorm\u00edas",
+      "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
+    },
+    {
+      "album": {
         "name": "Miercoles 14 B",
         "url": "https://open.spotify.com/album/5g6z6Bvu23BqNXXfs5BcJd"
       },
@@ -8488,7 +8598,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 254186,
       "name": "Ni\u00f1os",
       "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
@@ -8598,7 +8708,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 117418,
       "name": "No Era para M\u00ed",
       "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
@@ -8697,6 +8807,28 @@
     },
     {
       "album": {
+        "name": "No Lo Sab\u00eda",
+        "url": "https://open.spotify.com/album/19m2uImtcXFG4l8C7apxDp"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Allen Spyda",
+          "url": "https://open.spotify.com/artist/0bvDY9wa7cOPOpOXZhXSbI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181317,
+      "name": "No Lo Sab\u00eda",
+      "url": "https://open.spotify.com/track/53ElsLZ9pgLzvEv1nkeNii"
+    },
+    {
+      "album": {
         "name": "No Me Quedo Callado",
         "url": "https://open.spotify.com/album/6QPOO1TGd1xu3UT6cjHBKr"
       },
@@ -8742,6 +8874,32 @@
       "duration_ms": 173294,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/2TWNJoaX3RoADj9gxr55Ed"
+    },
+    {
+      "album": {
+        "name": "No Pidas Tanto",
+        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
+      },
+      "artists": [
+        {
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Pedro Navajas",
+          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152441,
+      "name": "No Pidas Tanto",
+      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
     },
     {
       "album": {
@@ -11099,6 +11257,28 @@
     },
     {
       "album": {
+        "name": "SHININ' (PISPO)",
+        "url": "https://open.spotify.com/album/2qJeWkFjVmcK9X11QgkcS6"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "SHININ' (PISPO)",
+      "url": "https://open.spotify.com/track/13GchKfm2oLMK17m0FAkIJ"
+    },
+    {
+      "album": {
         "name": "Si La Ven",
         "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
       },
@@ -11144,7 +11324,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 250105,
       "name": "Sicariato & Robo",
       "url": "https://open.spotify.com/track/3OQzbOfl3KsIHNUOGYZCg1"
@@ -11600,7 +11780,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 208695,
       "name": "TARIMA",
       "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
@@ -12904,7 +13084,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 180906,
       "name": "You Know",
       "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"

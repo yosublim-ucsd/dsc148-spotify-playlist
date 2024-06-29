@@ -2,16 +2,16 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Diego & Victor Hugo
+> O melhor do sertanejo em uma só playlist! Foto: Luan Santana, Luan Pereira
 
-227 songs - 10 hr 42 min
+228 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Cadeados \- Ao Vivo](https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA) | 2:47 | 2024-02-09 | 2024-02-22 |
 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 | 2022-08-05 | 2023-11-11 |
 | [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
-| [A Cerveja Abre Sozinha \- Ao Vivo](https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD) | 2:27 | 2024-01-26 |  |
+| [A Cerveja Abre Sozinha \- Ao Vivo](https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD) | 2:27 | 2024-01-26 | 2024-06-29 |
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2022-12-21 | 2024-02-03 |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-12-31 | 2022-08-23 |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-02-11 | 2023-04-22 |
@@ -216,6 +216,7 @@
 | [Torce o Olho \- Ao Vivo](https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Torce o Olho \(Ao Vivo\)](https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy) | 2:47 | 2023-12-08 |  |
 | [Trauma \- Ao Vivo](https://open.spotify.com/track/0aGBJDgysbTnnE27oYkx0N) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Nunca Deixe De Sonhar \(Ao Vivo\)](https://open.spotify.com/album/2JJPrtXxSCtd2LBdHb5lrK) | 2:31 | 2024-05-31 |  |
 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 | 2023-02-10 | 2023-11-18 |
+| [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 | 2024-06-28 |  |
 | [Troca](https://open.spotify.com/track/6HV630GY0GT3RN2efFRmbP) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:51 | 2021-12-31 | 2022-04-29 |
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2021-12-31 | 2023-02-11 |
 | [Tô Voltando \- \(Boiadeira Internacional\)](https://open.spotify.com/track/7G2yGMHlcPPTCDhMrAaMyZ) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Tô Voltando \(Boiadeira Internacional\)](https://open.spotify.com/album/6XSzObpAsubR64mMnbmyt8) | 2:57 | 2023-09-01 | 2024-04-19 |

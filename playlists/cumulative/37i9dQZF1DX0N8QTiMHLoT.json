@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Silly Putty",
+        "url": "https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "Silly Putty",
+      "url": "https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU"
+    },
+    {
+      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },

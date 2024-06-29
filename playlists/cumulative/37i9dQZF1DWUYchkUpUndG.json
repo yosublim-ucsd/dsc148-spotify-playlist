@@ -34065,6 +34065,28 @@
     },
     {
       "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1rpYCf8XiiU5cEeRf9TwoZ"
+      },
+      "artists": [
+        {
+          "name": "meak\u00e9n",
+          "url": "https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY"
+        },
+        {
+          "name": "Tee Tings",
+          "url": "https://open.spotify.com/artist/3AJQ7nRJ20OKO8glsiw2Q4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148662,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/77GQu7p7eINm6pZ9PGqVJn"
+    },
+    {
+      "album": {
         "name": "Morning Devotion Vol 1",
         "url": "https://open.spotify.com/album/1XS6uZvrcc2zICFQtPMb9h"
       },
@@ -38200,6 +38222,24 @@
       "duration_ms": 170664,
       "name": "Not One Time",
       "url": "https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo"
+    },
+    {
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/3WBY5aUXHTHfNE8yRriGWH"
+      },
+      "artists": [
+        {
+          "name": "Obby Judah",
+          "url": "https://open.spotify.com/artist/3dGdwJNjUkGQmkUIXHbRFo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175716,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/7HiAyOibmal9hNoLHYnEEg"
     },
     {
       "album": {
@@ -42947,6 +42987,28 @@
     },
     {
       "album": {
+        "name": "Prayer (Live)",
+        "url": "https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4"
+      },
+      "artists": [
+        {
+          "name": "Minstrel K.I",
+          "url": "https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559994,
+      "name": "Prayer - Live",
+      "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
+    },
+    {
+      "album": {
         "name": "Prayer Duty II (Deeper Than Words)",
         "url": "https://open.spotify.com/album/6PwnM5jQtAVoeULJUtAtw9"
       },
@@ -44730,6 +44792,28 @@
       "duration_ms": 177480,
       "name": "Rhema",
       "url": "https://open.spotify.com/track/3hyIOUz66ieBxrdLoJymdB"
+    },
+    {
+      "album": {
+        "name": "Riding",
+        "url": "https://open.spotify.com/album/3JjBBCkb3bxnUKcp8GxtlD"
+      },
+      "artists": [
+        {
+          "name": "Megan Tossi",
+          "url": "https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc"
+        },
+        {
+          "name": "De La Cruz",
+          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/6Rst46PdVcm3RLZApWwKoV"
     },
     {
       "album": {
@@ -54929,7 +55013,7 @@
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217613,
+      "duration_ms": 214265,
       "name": "Wapi",
       "url": "https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH"
     },

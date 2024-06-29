@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-379 songs - 1 day 11 hr 10 min
+380 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bind \- Rampa Remix](https://open.spotify.com/track/7wAVCSMQa3WyFFhfGfPDNP) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Bind \(Remixes\)](https://open.spotify.com/album/0ajoDZRY4n3a7KIq9F7qC3) | 6:18 | 2021-11-26 | 2022-11-26 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-05 |  |
 | [Blue Canary](https://open.spotify.com/track/0tcwkZuO5JLDXQNHnExKS7) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj) | [Release Paralysis](https://open.spotify.com/album/6ucmUMOupe8dNVW9bsr7Wz) | 5:54 | 2021-11-26 | 2022-06-15 |
+| [Blue Memory](https://open.spotify.com/track/2Ltq1zC9Z4tWUr0GBNU8qS) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Blue Memory](https://open.spotify.com/album/3W7zqo21XMUIiVXEaLyTBT) | 5:46 | 2023-11-14 |  |
 | [Body Resonance \- Armonica Remix](https://open.spotify.com/track/3eium9yYfDVzjEaRCUUGya) | [Pastaboys](https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy) | [Body Resonance: 15 Years Anniversary Edition, Pt\. 1](https://open.spotify.com/album/4YWYbVDGz0BbaBFejL377I) | 6:14 | 2022-04-04 | 2022-04-16 |
 | [Borax \- Oliver Koletzki Rework](https://open.spotify.com/track/727SCCXFpgIU9nYtS4OqgD) | [Mike Tohr](https://open.spotify.com/artist/1CA9TqR5efbt6FOxakWJB7), [Amari \(BE\)](https://open.spotify.com/artist/3j1e4PGri9Fgi2adt8kKBP), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Oliver's Hands On EP](https://open.spotify.com/album/3k2a4Ed0BqFszLD9giacnl) | 6:50 | 2021-11-26 | 2022-01-06 |
 | [Breaking Hearts feat\. Amos \- Black Coffee Remix](https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Breaking Hearts feat\. Amos](https://open.spotify.com/album/42Qi6nkOLmcUoMK3tJI7Ah) | 8:18 | 2022-01-14 | 2022-10-29 |
@@ -207,7 +208,7 @@
 | [Love You Or Don't](https://open.spotify.com/track/2ihfWFRqpsebImMvBlzc84) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Love You Or Don't](https://open.spotify.com/album/3eJumUNTRkDHN3WpHCCTt7) | 3:18 | 2021-11-26 | 2022-05-19 |
 | [Lunaire](https://open.spotify.com/track/72nMF220X1qe9OBskVHD71) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Lunaire](https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN) | 3:34 | 2021-11-26 | 2024-06-27 |
 | [Magenta](https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Spektrum 4, pt\. I](https://open.spotify.com/album/3uq8sQrLGEyNZfzRGuo6zF) | 6:26 | 2022-11-25 | 2023-01-22 |
-| [Malmedy](https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Malmedy](https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo) | 5:42 | 2023-09-15 |  |
+| [Malmedy](https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Malmedy](https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo) | 5:42 | 2023-09-15 | 2024-06-29 |
 | [Mama Thula](https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS) | [Mama Thula](https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ) | 6:01 | 2023-11-14 |  |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2022-01-14 |  |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-11-26 | 2022-10-01 |

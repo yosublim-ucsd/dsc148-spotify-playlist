@@ -4,13 +4,13 @@
 
 > La banda de sonido de tu día.
 
-291 songs - 19 hr 14 min
+292 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(En\) El Séptimo Día \- Remasterizado 2007](https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:23 | 2023-01-27 | 2023-05-03 |
 | [30 Años](https://open.spotify.com/track/2O7w0qgKXSLBg0mKV0XfOt) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 3:15 | 2022-07-01 | 2022-07-05 |
-| [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2024-04-05 |  |
+| [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2024-04-05 | 2024-06-29 |
 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 | 2022-07-19 | 2024-04-19 |
 | [A las Nueve](https://open.spotify.com/track/0uuEqOyKlABOB7hzWKcEeG) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor del Pleno Invierno](https://open.spotify.com/album/5GsZdydAX1ccb2XPa056ga) | 3:27 | 2022-06-29 | 2022-07-29 |
 | [A los Ojos](https://open.spotify.com/track/5gEAF7YpN0fW44aPNMXCfZ) | [MANJAR](https://open.spotify.com/artist/2cUbO2xUKXa7v3BJQAkKG4), [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [A los Ojos](https://open.spotify.com/album/4bUelne8U5gSVLF9d2XXZZ) | 4:42 | 2022-07-19 | 2022-07-24 |
@@ -286,6 +286,7 @@
 | [Una Vez Más](https://open.spotify.com/track/4gPlgQtE8ZbtWSoADLneBw) | [Lucho Al A77AQUE](https://open.spotify.com/artist/2cloS9NWMDt9emhfy9QUmA) | [Una Vez Más](https://open.spotify.com/album/6iZCkRzYbbwYLiHXLBn2mk) | 3:11 | 2023-08-18 | 2023-09-22 |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-07-19 |  |
 | [Valle de Valium](https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Valle de Valium](https://open.spotify.com/album/6N2LPGfUDWFcxWRL6eOG7S) | 2:07 | 2022-07-19 | 2022-07-25 |
+| [VAS A VER](https://open.spotify.com/track/55TLLmgE5pjLR5zJS4Sskg) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [VAS A VER](https://open.spotify.com/album/4BQhnKDDZEIZnLl3hUe3CS) | 3:49 | 2024-06-28 |  |
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-07-18 | 2022-07-20 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-07-19 | 2023-03-03 |
 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 | 2022-07-01 |  |

@@ -6812,7 +6812,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 148480,
       "name": "EBK",
       "url": "https://open.spotify.com/track/5GF32Lak9flWCNi7qC8ruH"
@@ -7162,7 +7162,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 198000,
       "name": "F*ck U Thought",
       "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
@@ -8306,7 +8306,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 179488,
       "name": "Fuck It",
       "url": "https://open.spotify.com/track/7kNmljSMkECHUdaEZLJJLp"
@@ -12652,10 +12652,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 142451,
       "name": "Keep It Low (feat. Future)",
       "url": "https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh"
+    },
+    {
+      "album": {
+        "name": "King Crook",
+        "url": "https://open.spotify.com/album/6KPMI0S90Y1MKfiwjCpD4Z"
+      },
+      "artists": [
+        {
+          "name": "FTO Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127216,
+      "name": "Keep It Quiet",
+      "url": "https://open.spotify.com/track/5Don2b9tMHULnmmNj3DvG8"
     },
     {
       "album": {
@@ -13541,6 +13559,28 @@
     },
     {
       "album": {
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/3GPnpFxF7JRgDxPSlRHTGR"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199292,
+      "name": "Like This (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/6ZllgyfG5mchJX7HY67oT5"
+    },
+    {
+      "album": {
         "name": "Likka Sto",
         "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
       },
@@ -14125,6 +14165,24 @@
     },
     {
       "album": {
+        "name": "King Crook",
+        "url": "https://open.spotify.com/album/6KPMI0S90Y1MKfiwjCpD4Z"
+      },
+      "artists": [
+        {
+          "name": "FTO Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Made Man",
+      "url": "https://open.spotify.com/track/49e0gZUS67gXhLJA40bYEg"
+    },
+    {
+      "album": {
         "name": "Street Poetry",
         "url": "https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy"
       },
@@ -14556,6 +14614,24 @@
       "duration_ms": 225664,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
+    },
+    {
+      "album": {
+        "name": "Meal Ticket",
+        "url": "https://open.spotify.com/album/76NVZZvhsYW1Ax1LHHomKc"
+      },
+      "artists": [
+        {
+          "name": "Lil Crix",
+          "url": "https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Meal Ticket",
+      "url": "https://open.spotify.com/track/0AE6j43o5zUpDyxbzdoAt7"
     },
     {
       "album": {
@@ -16294,7 +16370,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 146976,
       "name": "No Fake Love",
       "url": "https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg"
@@ -22520,7 +22596,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 116755,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS"
@@ -23918,7 +23994,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 148676,
       "name": "SUVY THEATERS",
       "url": "https://open.spotify.com/track/6FTZImGnoJO5I8eq6XmDOU"
@@ -25148,6 +25224,24 @@
       "duration_ms": 145031,
       "name": "Top Of The Key",
       "url": "https://open.spotify.com/track/3Xm5vrj7mIjXlnYavul1FV"
+    },
+    {
+      "album": {
+        "name": "Shut The Door, Nobody Listening",
+        "url": "https://open.spotify.com/album/6QFw2gKbtC5TNwm3AuGms3"
+      },
+      "artists": [
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "TOPCHEF",
+      "url": "https://open.spotify.com/track/54vagHML7PBKL2BZtGZ83l"
     },
     {
       "album": {
@@ -26503,6 +26597,24 @@
     },
     {
       "album": {
+        "name": "Watch How You Step",
+        "url": "https://open.spotify.com/album/4fkAdecJtKPVw2WypgJFP5"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190062,
+      "name": "Watch How You Step",
+      "url": "https://open.spotify.com/track/4pBqDcUpbZ1PUJNDSDtets"
+    },
+    {
+      "album": {
         "name": "Watchin Now",
         "url": "https://open.spotify.com/album/7riLmoqGYjabjk2D35MGdb"
       },
@@ -26814,6 +26926,24 @@
       "duration_ms": 183047,
       "name": "Went Deaf",
       "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
+    },
+    {
+      "album": {
+        "name": "Went Hollywood For A Year",
+        "url": "https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127425,
+      "name": "Went Hollywood For A Year",
+      "url": "https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT"
     },
     {
       "album": {

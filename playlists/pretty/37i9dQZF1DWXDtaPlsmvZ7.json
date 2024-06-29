@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 109598,
+  "num_followers": 109625,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Cumbias Con Amor",
         "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 208266,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
-      },
-      "artists": [
-        {
-          "name": "Tachame la Doble",
-          "url": "https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p"
-        }
-      ],
-      "duration_ms": 152281,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Fuiste Tu",
         "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 230184,
       "name": "Fuiste Tu",
       "url": "https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
+      },
+      "artists": [
+        {
+          "name": "Tachame la Doble",
+          "url": "https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p"
+        }
+      ],
+      "duration_ms": 152281,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 292338,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7"
       },
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 292338,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Escapate Conmigo",
         "url": "https://open.spotify.com/album/0NkYH6Y00QR1Cds5nRZIHZ"
       },
@@ -1211,30 +1211,6 @@
       "duration_ms": 245106,
       "name": "La Chica De Humo",
       "url": "https://open.spotify.com/track/34PGaH3Ps2I3Tp3nAIOEGG"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp"
-      },
-      "artists": [
-        {
-          "name": "Otto Bunge",
-          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
-        },
-        {
-          "name": "Agu Cartier",
-          "url": "https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW"
-        },
-        {
-          "name": "Cande Grau",
-          "url": "https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1283,6 +1259,30 @@
       "duration_ms": 174640,
       "name": "No Pares Hasta Tener lo Suficiente - Don't Stop 'til You Get Enough",
       "url": "https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp"
+      },
+      "artists": [
+        {
+          "name": "Otto Bunge",
+          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
+        },
+        {
+          "name": "Agu Cartier",
+          "url": "https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW"
+        },
+        {
+          "name": "Cande Grau",
+          "url": "https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
     },
     {
       "added_at": "2023-01-25 00:22:47",

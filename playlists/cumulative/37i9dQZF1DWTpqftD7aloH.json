@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 236229,
       "name": "Cuido dos Detalhes - Ao Vivo",
       "url": "https://open.spotify.com/track/46wtX2PMEkAnUOFtZVmdvs"
@@ -1851,6 +1851,28 @@
     },
     {
       "album": {
+        "name": "Fale com Jesus",
+        "url": "https://open.spotify.com/album/3a7JgWE3mbZuhOpQpRj1Wb"
+      },
+      "artists": [
+        {
+          "name": "Jorginho de Xer\u00e9m",
+          "url": "https://open.spotify.com/artist/6nq4cS9xhLV68S0NrzkDKD"
+        },
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336030,
+      "name": "Fale com Jesus",
+      "url": "https://open.spotify.com/track/7yKgszGPE3kv7ipOiJLOkK"
+    },
+    {
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 359280,
       "name": "Jesus Sempre Tem Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD"
@@ -5588,6 +5610,28 @@
       "duration_ms": 386560,
       "name": "Vai Valer a Pena",
       "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
+    },
+    {
+      "album": {
+        "name": "Vento Impetuoso (ao vivo)",
+        "url": "https://open.spotify.com/album/0Hh7iFFwGykH9FaPiA5MRJ"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Atitude",
+          "url": "https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4"
+        },
+        {
+          "name": "Filipe Bitencourt",
+          "url": "https://open.spotify.com/artist/12eLZflwp21B3NNLVlKKsR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398823,
+      "name": "Vento Impetuoso",
+      "url": "https://open.spotify.com/track/7rV0gKsZndQeQ3OhXxoAGM"
     },
     {
       "album": {

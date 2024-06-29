@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Sevek",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: KVSH, CERES",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1735,6 +1735,46 @@
     },
     {
       "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/0s1UGBVUCw9J8f13CzGJmh"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/6Eaakw6tnG6i7Af9OYb5F4"
+    },
+    {
+      "album": {
+        "name": "Disco Ball",
+        "url": "https://open.spotify.com/album/0nBXiXPst7EC19ht9AKibJ"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "Meriva",
+          "url": "https://open.spotify.com/artist/0w4OwCTrQ36rWkkTeEF9Eh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Disco Ball",
+      "url": "https://open.spotify.com/track/6ktJMFOkWEya3GL3nL02u9"
+    },
+    {
+      "album": {
         "name": "DJ Do Baile",
         "url": "https://open.spotify.com/album/4QOWUDSQxL5eNxVLjXQTcf"
       },
@@ -2409,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Caminhos",
+        "url": "https://open.spotify.com/album/7avFgfOtsyEzKP5NdwCb66"
+      },
+      "artists": [
+        {
+          "name": "Ney Faustini",
+          "url": "https://open.spotify.com/artist/0Y9hOza9fWF1dpk0qlGgte"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333762,
+      "name": "Fevereiro",
+      "url": "https://open.spotify.com/track/3jnAZUkY1h12kGwzHZxaTE"
+    },
+    {
+      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8"
       },
@@ -2566,6 +2624,24 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
+        "name": "Four Elements",
+        "url": "https://open.spotify.com/album/2la5EkFOOLrUCjfgPh03wB"
+      },
+      "artists": [
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Four Elements",
+      "url": "https://open.spotify.com/track/3tgiIyHKe9vuxBbkLSDBT1"
     },
     {
       "album": {
@@ -3176,7 +3252,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 216000,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1"
@@ -3417,6 +3493,32 @@
     },
     {
       "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "album": {
         "name": "In Your Life",
         "url": "https://open.spotify.com/album/5nQrqlyRBi1y4HyuodhLUB"
       },
@@ -3480,7 +3582,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 218489,
       "name": "Inside - Edit",
       "url": "https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9"
@@ -3546,7 +3648,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 183000,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/2q0Aok603ZpxZNzyGAc8SW"
@@ -3754,7 +3856,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 216774,
       "name": "Keep On Dancing - Illusionize, Ashibah Rework",
       "url": "https://open.spotify.com/track/249jhkMIJ6TWBUqrYMvgIG"
@@ -4038,6 +4140,32 @@
       "duration_ms": 190000,
       "name": "Life Be Like",
       "url": "https://open.spotify.com/track/7F0Du6uA4OwKZDVErvNC9F"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157734,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/3aM3elSql2STyiob9POgWY"
     },
     {
       "album": {
@@ -4717,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195744,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+    },
+    {
+      "album": {
         "name": "Never Go Home",
         "url": "https://open.spotify.com/album/2vHFq15Oaj0yBhghE99hzt"
       },
@@ -4896,7 +5042,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
@@ -5552,7 +5698,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 273170,
       "name": "Rapunsel",
       "url": "https://open.spotify.com/track/5kCI4HJm9nMiccsTkaeLca"
@@ -5680,6 +5826,32 @@
       "duration_ms": 158000,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/6t3DMytWrFzBnUwyxIjiFq"
+    },
+    {
+      "album": {
+        "name": "Ressaca De Amor",
+        "url": "https://open.spotify.com/album/45ucmZD5pTJk05W42g6Jwt"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "LEMON DROPS",
+          "url": "https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175931,
+      "name": "Ressaca De Amor",
+      "url": "https://open.spotify.com/track/5E0VQXQQU4m7gIR759nQxm"
     },
     {
       "album": {
@@ -6135,6 +6307,28 @@
     },
     {
       "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Amesens",
+          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265161,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj"
+    },
+    {
+      "album": {
         "name": "Chama De Amor / She Calls Me Love",
         "url": "https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b"
       },
@@ -6488,6 +6682,32 @@
       "duration_ms": 224761,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0KYgrhOR22AirR2Z13KtCg"
+    },
+    {
+      "album": {
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/1ylvIVtXgZcmTiXZ48LEIY"
+      },
+      "artists": [
+        {
+          "name": "Morphy",
+          "url": "https://open.spotify.com/artist/5Q8X9AMJgCaepABZDwdZql"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Little League",
+          "url": "https://open.spotify.com/artist/1Su706KJL5OFFqpbaTmw25"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/303qnQkhKDmtBIWr3No7XY"
     },
     {
       "album": {

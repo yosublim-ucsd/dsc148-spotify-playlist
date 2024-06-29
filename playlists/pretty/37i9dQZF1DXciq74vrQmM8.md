@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Mimi Barks
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,702 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,764 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 29 | [000memories](https://open.spotify.com/track/74pXDAWB08mft6AscgfYFZ) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [000memories](https://open.spotify.com/album/687mZ8VJg6fMZxV912KdeU) | 2:28 |
 | 30 | [HURRICANE](https://open.spotify.com/track/49GAjso5aSfuMXltW7rEBI) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HURRICANE](https://open.spotify.com/album/2RQvJEIegkkUFtkCyapMwT) | 2:39 |
 | 31 | [Lose My Cool](https://open.spotify.com/track/1UEbyNXgbFfJHNUTkCxOiS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:09 |
-| 32 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 |
+| 32 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Ziey Kizzy](https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 |
 | 33 | [K9](https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [K9](https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf) | 2:55 |
 | 34 | [Heart On A Lock](https://open.spotify.com/track/2hwmqbFLL7TDQL1Jmth3rb) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34), [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Heart On A Lock](https://open.spotify.com/album/6lSNBn6QgJ2BZsz1vm7fOk) | 2:43 |
 | 35 | [I Can Only Be Me](https://open.spotify.com/track/4red2zI5Q2enciAX3pRk2p) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [I Can Only Be Me](https://open.spotify.com/album/65hbWKpAyKMvKnnxsupTjW) | 3:05 |

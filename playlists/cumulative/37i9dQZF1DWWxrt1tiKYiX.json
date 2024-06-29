@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Lovely, acoustic pop. Cover: Taylor Swift",
+  "description": "Lovely, acoustic pop. Cover: Liana Flores",
   "name": "Acoustic Pop",
   "tracks": [
     {
@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 210315,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
@@ -752,6 +752,28 @@
       "duration_ms": 168538,
       "name": "Burning Bridges - up close, acoustic",
       "url": "https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao"
+    },
+    {
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
       "album": {

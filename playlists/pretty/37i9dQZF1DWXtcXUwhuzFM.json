@@ -1,12 +1,12 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. ",
-  "num_followers": 94015,
+  "num_followers": 94066,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3S0QAAAAAMJ7r8LGxEjrrCHPTyEBHB",
+  "snapshot_id": "Zn6AGwAAAABFBFoBohC9qI/wtV4ulZZj",
   "tracks": [
     {
       "added_at": "2024-06-27 21:00:00",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/5Ht3EP52DwoEv89HAQheCB"
     },
     {
+      "added_at": "2024-06-28 09:19:23",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
+    },
+    {
       "added_at": "2024-06-27 21:00:00",
       "album": {
         "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
@@ -355,6 +371,26 @@
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "added_at": "2024-06-27 21:00:00",
+      "album": {
+        "name": "Style Rare (feat. Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (feat. Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": "2024-06-27 21:00:00",
@@ -751,6 +787,42 @@
     {
       "added_at": "2024-06-27 21:00:00",
       "album": {
+        "name": "ROCKET",
+        "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
+    },
+    {
+      "added_at": "2024-06-27 21:00:00",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
+    },
+    {
+      "added_at": "2024-06-27 21:00:00",
+      "album": {
         "name": "Yl\u00e4nuotti",
         "url": "https://open.spotify.com/album/6Nv7n3GwJregjGwQII4o3G"
       },
@@ -803,6 +875,34 @@
       "duration_ms": 267096,
       "name": "I Do Love",
       "url": "https://open.spotify.com/track/0S5BZvdfluxlvCFZrEo1Vc"
+    },
+    {
+      "added_at": "2024-06-27 21:00:00",
+      "album": {
+        "name": "Piya Piya Calling (feat. The Quick Style)",
+        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        },
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        },
+        {
+          "name": "The Quick Style",
+          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+        }
+      ],
+      "duration_ms": 286122,
+      "name": "Piya Piya Calling (feat. The Quick Style)",
+      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
     },
     {
       "added_at": "2024-06-27 21:00:00",
@@ -1183,22 +1283,6 @@
       "duration_ms": 185142,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
-    },
-    {
-      "added_at": "2024-06-27 21:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5F5xc1iBjh6IxfNPt4zHwM"
-      },
-      "artists": [
-        {
-          "name": "Beige",
-          "url": "https://open.spotify.com/artist/7i7QfqyjOT0vRU8h2NdAuI"
-        }
-      ],
-      "duration_ms": 189776,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6CRv0HpEaroZ4MpkuVWUQ8"
     },
     {
       "added_at": "2024-06-27 21:00:00",

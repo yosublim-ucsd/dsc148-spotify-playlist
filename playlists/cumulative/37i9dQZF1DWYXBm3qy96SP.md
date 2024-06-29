@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Fontaines D.C.
 
-1,326 songs - 3 day 4 hr 13 min
+1,328 songs - 3 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,7 @@
 | [Merry Old England](https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Merry Old England](https://open.spotify.com/album/1RpgtAy5HNiaRZD1pwCmAb) | 4:49 | 2024-04-04 | 2024-05-17 |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-19 | 2024-03-01 |
 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-17 | 2023-09-15 |
-| [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-02 |  |
+| [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-02 | 2024-06-29 |
 | [Middle Of My Mind](https://open.spotify.com/track/4OQLt8NtPUvHUWhh1m6xlw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/7sYMzXP6YorZYrLV0sTqzK) | 3:17 | 2023-09-21 | 2023-09-23 |
 | [Middle of My Mind](https://open.spotify.com/track/6jlGYMnP3iBwebyfdHM4N3) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/6WCrKVgt2MEKgiW0mvURF8) | 3:17 | 2023-09-21 | 2023-09-29 |
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-08 | 2023-06-16 |
@@ -758,6 +758,7 @@
 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-05-25 | 2023-07-07 |
 | [Move On](https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Move On](https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3) | 2:41 | 2023-10-05 | 2023-10-13 |
 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-19 | 2023-10-27 |
+| [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2024-06-28 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-28 | 2023-10-06 |
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-01-18 | 2024-02-02 |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-01 | 2024-05-03 |
@@ -906,7 +907,7 @@
 | [Power To Undo](https://open.spotify.com/track/0DgGr62ntCpgmjV2yDTOtI) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Power To Undo](https://open.spotify.com/album/7AdwPPWvFmeAdO56JB0Itk) | 2:50 | 2024-02-08 | 2024-02-16 |
 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-04 | 2024-01-26 |
 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 | 2024-04-04 |  |
-| [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 | 2024-06-02 |  |
+| [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 | 2024-06-02 | 2024-06-29 |
 | [pretty good for a bad day](https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [pretty good for a bad day](https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r) | 3:15 | 2023-12-14 | 2023-12-22 |
 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 | 2023-04-27 | 2023-05-05 |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-19 | 2023-11-03 |
@@ -977,6 +978,7 @@
 | [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 | 2024-02-15 | 2024-03-22 |
 | [Savior](https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Die About It](https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X) | 2:59 | 2023-11-02 | 2023-11-10 |
 | [say it](https://open.spotify.com/track/4xFOkjzx24JL0FrplTyMAS) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [say it](https://open.spotify.com/album/1wR2zPQSlFq0o8fqHibOQe) | 3:05 | 2023-12-07 | 2023-12-15 |
+| [Say It Ain't So \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 4:17 | 2024-06-28 |  |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-10 | 2023-09-08 |
 | [SCREAM](https://open.spotify.com/track/5rmUnvLLqhUfE9IpQajosI) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Don't waste my YOUTH](https://open.spotify.com/album/6vIG6mIgQ1ZwWlvVHEE5Aj) | 3:38 | 2023-08-24 | 2023-09-01 |
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-20 | 2023-07-28 |

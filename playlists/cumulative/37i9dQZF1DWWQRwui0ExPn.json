@@ -13780,7 +13780,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 117265,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/0iFP2XOudAZd3Zjns28ncm"
@@ -22580,7 +22580,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 136125,
       "name": "Coastal Cruise",
       "url": "https://open.spotify.com/track/68YY58VmnLhV0Xqoekbdkd"
@@ -39568,7 +39568,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 109312,
       "name": "Fix Something You Broke",
       "url": "https://open.spotify.com/track/11cXLYRRW0OAqlPN5lJzLO"
@@ -42158,7 +42158,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 164097,
       "name": "Forest For Rest",
       "url": "https://open.spotify.com/track/6eQmbEMHQYPkRj44AWf04J"
@@ -67720,6 +67720,24 @@
       "duration_ms": 154941,
       "name": "Love Gone",
       "url": "https://open.spotify.com/track/13YF85tcO7tABHpidBnpgG"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/0eMLIP4iewU0BjiakdWzRz"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115166,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/3mU3WaDlZuSEgFxt3vR4Nz"
     },
     {
       "album": {
@@ -96703,6 +96721,24 @@
     },
     {
       "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/1U1SZXw37Ocbpa2vvaiLCh"
+      },
+      "artists": [
+        {
+          "name": "morefine",
+          "url": "https://open.spotify.com/artist/5baLgCNimsTPQMY2vQMzCk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/3K27WPWvFPE6c5FXJng3WB"
+    },
+    {
+      "album": {
         "name": "Chillhop Vibes Vol. 1",
         "url": "https://open.spotify.com/album/0Xwq4rar6LKYu1SwFsvkU2"
       },
@@ -109352,7 +109388,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 122637,
       "name": "Struggling With Potential",
       "url": "https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga"
@@ -113208,7 +113244,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 132053,
       "name": "Swim",
       "url": "https://open.spotify.com/track/6SQPIwxN4vzoQZNs3IIphy"

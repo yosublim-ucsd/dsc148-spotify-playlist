@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 ### [This Is Maverick City Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek)
 
-> This Is Maverick City Music\. Los temas esenciales, todos en una lista.
+> This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,347 likes - 50 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,418 likes - 50 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Doxology \(feat\. Alton Eugene\)](https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Alton Eugene](https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 2:19 |
 | 50 | [Conmigo \(feat\. Nate Diaz & Amanda Camille\)](https://open.spotify.com/track/6Ikao91sXHsljCRhkSX20j) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Amanda Camille](https://open.spotify.com/artist/6HGQmlvyrjFK2ZWuSK2YIR) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 5:44 |
 
-Snapshot ID: `ZntaAAAAAABwFDPIM4CWQefheEP+mDkK`
+Snapshot ID: `ZntaAAAAAAAoKnV12URZSJPRullGDbi3`

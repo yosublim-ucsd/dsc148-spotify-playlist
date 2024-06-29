@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,971 songs - 3 day 3 hr 5 min
+1,973 songs - 3 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Bisous](https://open.spotify.com/track/1wUOHakggAQ1fg4BCAbaq7) | [yamamay](https://open.spotify.com/artist/0tl8KGqIQCHIhEHhIwideF), [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Bisous](https://open.spotify.com/album/3gaAdTukRzzLUVUYCRP7SA) | 1:50 | 2022-11-11 | 2023-09-16 |
 | [Bittersweet Sophie](https://open.spotify.com/track/5eijXLbnLgl3vGJ4Uu0yhW) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Bittersweet Sophie](https://open.spotify.com/album/1t7COiXg1B3QXkPwAveZ5q) | 3:15 | 2022-10-28 |  |
 | [Blanket](https://open.spotify.com/track/5T6TpKmumMp34okwas1cS7) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Blanket](https://open.spotify.com/album/4snPSNeeozoqCrpFSedKD1) | 2:00 | 2022-10-14 | 2023-01-13 |
-| [blinded by lighthouses](https://open.spotify.com/track/7Fmtd1AaGQ6RHwETNAoDYT) | [loefd50](https://open.spotify.com/artist/0iyxxtYSvJfZPulZqy8qt1) | [blinded by lighthouses](https://open.spotify.com/album/3VPBILa7cPT8Vciie3KvRK) | 1:40 | 2023-03-20 |  |
+| [blinded by lighthouses](https://open.spotify.com/track/7Fmtd1AaGQ6RHwETNAoDYT) | [loefd50](https://open.spotify.com/artist/0iyxxtYSvJfZPulZqy8qt1) | [blinded by lighthouses](https://open.spotify.com/album/3VPBILa7cPT8Vciie3KvRK) | 1:40 | 2023-03-20 | 2024-06-29 |
 | [Bliss](https://open.spotify.com/track/6IpHohsQdyLeujYXbyqhk9) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Bliss](https://open.spotify.com/album/6PowpprpOOEx7TPQKXEgF7) | 2:02 | 2022-04-15 | 2022-10-14 |
 | [Bloom](https://open.spotify.com/track/1D2tsPNJJ99p7suTnZowyZ) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Bloom](https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM) | 1:50 | 2022-08-12 | 2022-12-03 |
 | [Bloom](https://open.spotify.com/track/4rGs4GdBN8gs7OOTV7qMHc) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Bloom](https://open.spotify.com/album/7nV8JqhjlGGnmOOgI2Z31l) | 2:30 | 2022-07-01 | 2022-11-26 |
@@ -761,7 +761,7 @@
 | [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 | 2024-02-23 |  |
 | [Hertz](https://open.spotify.com/track/4iZ2xIWITnUiSJYAsVkKy6) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [Vacations](https://open.spotify.com/album/4abXoseVkIbthiSLFKhIi9) | 1:50 | 2022-04-15 | 2022-10-14 |
 | [hibernation mode](https://open.spotify.com/track/4Kii20h2MsA5HEt7K6mCPy) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [hibernation mode](https://open.spotify.com/album/2mE0S43AM9FVSGuai19oUP) | 2:10 | 2024-02-02 |  |
-| [Hidden Cateract](https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Hidden Cateract](https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr) | 3:03 | 2024-06-21 |  |
+| [Hidden Cataract](https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Hidden Cataract](https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr) | 3:03 | 2024-06-21 |  |
 | [hide and seek](https://open.spotify.com/track/4qLmzt8gY917amivZZw1IO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Childhood](https://open.spotify.com/album/5pJdmQhsZdqUNMPs2uzTxh) | 1:56 | 2023-02-06 |  |
 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 | 2023-03-24 |  |
 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 | 2024-03-08 |  |
@@ -1230,6 +1230,7 @@
 | [Ola](https://open.spotify.com/track/16COXSGDWDje1zmcyexR7g) | [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07) | [Ola](https://open.spotify.com/album/2bDPlMeNryYBFSGPp8wfnY) | 2:01 | 2022-11-11 | 2023-09-14 |
 | [Old School Love](https://open.spotify.com/track/6eNdKA73IIJr2SU4AbFzDf) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [Cinematic Lofi](https://open.spotify.com/album/6ckc7Vooz6ZBurIesj3G2V) | 2:46 | 2022-04-15 | 2023-03-02 |
 | [Old Shoe Dreams](https://open.spotify.com/track/0NO9VHwfvXUQDgvh9aRacG) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Old Shoe Dreams](https://open.spotify.com/album/0qqDozkEvIXaytPt0uClE9) | 1:55 | 2024-02-02 |  |
+| [omw](https://open.spotify.com/track/46PM3cvVVSpFnco90yU4zk) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [omw](https://open.spotify.com/album/15NdTmSabOkFfnm7b9fgCf) | 2:12 | 2024-06-28 |  |
 | [on and off](https://open.spotify.com/track/0im5PdKDz2raraDknVtn8F) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [on and off](https://open.spotify.com/album/3JwndlcwuI3X2eZFWHOC0r) | 2:06 | 2024-01-19 |  |
 | [On Demand](https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [On Demand](https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX) | 1:56 | 2023-02-06 | 2023-09-29 |
 | [On Empty](https://open.spotify.com/track/1UNiVCuUcoKHRol0ykFlBr) | [wovels tune](https://open.spotify.com/artist/2Q0DvYlO2XM5FrZy2dSJYX) | [On Empty](https://open.spotify.com/album/1YMJQUp4mQo2yrtIZ85keu) | 2:12 | 2022-12-23 |  |
@@ -1623,7 +1624,7 @@
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2022-04-15 | 2022-09-09 |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2023-07-13 |  |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 |  |
-| [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 |  |
+| [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 | 2024-06-29 |
 | [Strawberry Blonde](https://open.spotify.com/track/4UcBw2iCihERGKHF9mcC3S) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Gaia](https://open.spotify.com/album/6DBGmUiDexYuVZTMA5D4pp) | 2:08 | 2022-04-15 | 2022-10-01 |
 | [Strawberry Mojito](https://open.spotify.com/track/4tv0OtMtBA5l12gmw20HpO) | [Baby Peppers](https://open.spotify.com/artist/6brahtsoEAq3syNfD48Ovx) | [Drizzle Weather](https://open.spotify.com/album/2i6h4wpnqljpXQwJMLQPSQ) | 1:46 | 2022-08-19 |  |
 | [Straylights](https://open.spotify.com/track/2vwVuPxqckJFtBMIHME8xu) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Straylights](https://open.spotify.com/album/0KwARguET2k5Ue0rovfMrG) | 2:00 | 2022-06-03 | 2023-01-13 |
@@ -1634,6 +1635,7 @@
 | [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 |  |
 | [Study Buddy](https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY) | [UniqeCorn](https://open.spotify.com/artist/6TTcb6j1m5qnVjdSvpEHcC) | [Study Buddy](https://open.spotify.com/album/3sOCnVfTISO2Z0vI3HzrdT) | 2:25 | 2022-04-15 | 2022-09-02 |
 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 | 2022-07-08 | 2022-11-26 |
+| [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 | 2024-06-28 |  |
 | [Sugah Kick](https://open.spotify.com/track/0jvBTSg9Rm8EDuhLg16f6N) | [Anima](https://open.spotify.com/artist/53aEqZJgTm47vAYN2bJW3u) | [Plectrum](https://open.spotify.com/album/1zRI27Dk6Su1M9lvnrPYTo) | 2:08 | 2022-04-15 | 2022-10-14 |
 | [Sugar Kane](https://open.spotify.com/track/5eaN2h2Fzziw7l6XlnHcGb) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Sugar Kane](https://open.spotify.com/album/4Hhs2fheLvSYR9Ci4cRuOl) | 2:25 | 2023-06-06 |  |
 | [sultan](https://open.spotify.com/track/7uxWoUoWE3TEeofSKlCXDo) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [sultan](https://open.spotify.com/album/1umC63bOf9MCYZPHBKHjoA) | 2:26 | 2024-04-12 | 2024-06-13 |

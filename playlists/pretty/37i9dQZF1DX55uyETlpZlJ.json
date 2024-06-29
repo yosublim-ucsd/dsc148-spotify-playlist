@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
-  "num_followers": 23189,
+  "num_followers": 23195,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Znq0KwAAAAC7ZUGuphUzRodhGbdC++zJ",
+  "snapshot_id": "Zn53vQAAAAAjcInR1XB9kLjeK2DZb4gs",
   "tracks": [
     {
       "added_at": "2024-06-25 12:06:05",
@@ -63,6 +63,26 @@
       "duration_ms": 295135,
       "name": "Sakkare Chakori - Kannada",
       "url": "https://open.spotify.com/track/4IB9wfkGxPOLF4br2rPZvp"
+    },
+    {
+      "added_at": "2024-06-28 08:42:39",
+      "album": {
+        "name": "Yaare Nee",
+        "url": "https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Yaare Nee",
+      "url": "https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu"
     },
     {
       "added_at": "2024-06-24 04:41:54",
@@ -147,6 +167,22 @@
       "duration_ms": 154740,
       "name": "HANTHAKA",
       "url": "https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3"
+    },
+    {
+      "added_at": "2024-06-28 08:43:30",
+      "album": {
+        "name": "Amma Endu Karedare",
+        "url": "https://open.spotify.com/album/2LOCsni19lBhB0Ib7zzLot"
+      },
+      "artists": [
+        {
+          "name": "Smitha Dinakar",
+          "url": "https://open.spotify.com/artist/2DM1Y8LnSGXi2qtm3bPAeo"
+        }
+      ],
+      "duration_ms": 238501,
+      "name": "Amma Endu Karedare",
+      "url": "https://open.spotify.com/track/26I3du1XsXyCRYUoXO9xGP"
     },
     {
       "added_at": "2024-06-21 05:40:35",
@@ -1313,22 +1349,6 @@
       "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
     },
     {
-      "added_at": "2023-12-08 09:08:13",
-      "album": {
-        "name": "Howdappa Howdu - The Secret of Life",
-        "url": "https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86"
-      },
-      "artists": [
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
-        }
-      ],
-      "duration_ms": 291898,
-      "name": "Howdappa Howdu - The Secret of Life",
-      "url": "https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z"
-    },
-    {
       "added_at": "2024-01-11 09:51:31",
       "album": {
         "name": "Rocky Bhai 2.0",
@@ -1399,22 +1419,6 @@
       "duration_ms": 85479,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6wTPsKishFYQpQpfv0pxMU"
-    },
-    {
-      "added_at": "2023-12-11 10:27:11",
-      "album": {
-        "name": "Karedaaga Ninna",
-        "url": "https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G"
-      },
-      "artists": [
-        {
-          "name": "Ashwamedha Karthik",
-          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
-        }
-      ],
-      "duration_ms": 129476,
-      "name": "Karedaaga Ninna",
-      "url": "https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj"
     }
   ],
   "unique_name": "Kannada Indie",

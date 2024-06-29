@@ -6,8 +6,208 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGElLgh/9sHnPi14kzlymRNBkb36lO",
+  "snapshot_id": "AAAGFF4faZDkTY6MJVi4rt/H0CYn4BhV",
   "tracks": [
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/2x9bI7VokJQczjqMvUSmrH"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "duration_ms": 193159,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Cold Light (Club Edit)",
+        "url": "https://open.spotify.com/album/0wTlc93bwKqiEFxNDxeY9F"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Cold Light - Club Edit",
+      "url": "https://open.spotify.com/track/2gGXiOP8b6msGuV7PuV7zJ"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Stanton Warriors",
+          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+        }
+      ],
+      "duration_ms": 205492,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0OJ3DA76XJWizWaSFSjkIl"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/68R0H67eY2eXBu6bOHMaQm"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "GRAVITY/TV DREAMS",
+        "url": "https://open.spotify.com/album/6WXkZl8JsLM63KiTxtPYDZ"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "TV DREAMS",
+      "url": "https://open.spotify.com/track/4AXfPyUQUiguV13FZc7O7X"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Heatstroke",
+        "url": "https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/4hCki1eUKLdAWugvm3lIPY"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/1w5HknXbhqJ1hlDKrIBooY"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "OUR LOVE (80'S) [David Penn Remix]",
+        "url": "https://open.spotify.com/album/0GPAZJwK1G6qVLWLhzDjD5"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 203374,
+      "name": "OUR LOVE (80'S) - David Penn Remix",
+      "url": "https://open.spotify.com/track/3XYS2WqPG9Z1OIDPJLY3I3"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Been A Minute...",
+        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 189947,
+      "name": "Been A Minute...",
+      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "duration_ms": 159811,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1"
+    },
+    {
+      "added_at": "2024-06-28 20:02:02",
+      "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
+    },
     {
       "added_at": "2024-06-14 16:16:54",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb?si=Cx8LhBQbQ2mJNk1Xd6hd4Q">ONS</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,132 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,259 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

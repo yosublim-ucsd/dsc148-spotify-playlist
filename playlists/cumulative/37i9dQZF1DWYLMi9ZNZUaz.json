@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
+      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
+    },
+    {
+      "album": {
         "name": "Trap House Live Session",
         "url": "https://open.spotify.com/album/7v3MTXj9UV8Qws6AQmYouN"
       },
@@ -404,6 +426,10 @@
         {
           "name": "B-Wine",
           "url": "https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K"
+        },
+        {
+          "name": "Gxxfy",
+          "url": "https://open.spotify.com/artist/1i9boYyWPAZZLSrDcIov6U"
         }
       ],
       "date_added": "2024-05-20",
@@ -838,7 +864,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188507,
       "name": "COLD L\u1ea0C B\u1ed8",
       "url": "https://open.spotify.com/track/476OvQTK7vTVIS3yDz9ShR"
@@ -1899,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Lu\u1eadt Anh (feat. Andree Right Hand)",
+      "url": "https://open.spotify.com/track/6F1ALV5RXd2Ghs7CNwYC6G"
+    },
+    {
+      "album": {
         "name": "L\u00e0m V\u00ec Y\u00eau",
         "url": "https://open.spotify.com/album/2a9ZQt08Ssnl8ue3BPAQGb"
       },
@@ -2124,7 +2172,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 193902,
       "name": "Mi\u1ec7ng H\u01b0",
       "url": "https://open.spotify.com/track/3sF8tfjW6cI9tl33U1eKy6"
@@ -3102,7 +3150,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 188256,
       "name": "S\u00e0i G\u00f2n \u01a1i",
       "url": "https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp"
@@ -3590,7 +3638,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 133784,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
@@ -3888,7 +3936,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 189111,
       "name": "Xu\u1ea5t Ph\u00e1t \u0110i\u1ec3m",
       "url": "https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn"
@@ -4148,7 +4196,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181333,
       "name": "\u0110\u1eebng Lo \u0110\u1ebfn Anh",
       "url": "https://open.spotify.com/track/3ZD55yfWGzxewMPrQo1Mov"

@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: Durand Bernarr\n",
-  "num_followers": 324155,
+  "num_followers": 324223,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAAD9KUcrf5TP1Egv45D4KP3R",
+  "snapshot_id": "Zn41QAAAAAD1b7l8X406ZkeC8++iGBSO",
   "tracks": [
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Dance 'N Forget",
+        "url": "https://open.spotify.com/album/5oEANUbXBprnhPnc1yekXP"
+      },
+      "artists": [
+        {
+          "name": "Nikka Costa",
+          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
+        }
+      ],
+      "duration_ms": 200527,
+      "name": "Dance 'N Forget",
+      "url": "https://open.spotify.com/track/1LHWhmfgWC2sU9iewXd0cz"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
@@ -335,22 +351,6 @@
       "duration_ms": 178145,
       "name": "It Feels Good To Write A Song",
       "url": "https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "It's Just Love",
-        "url": "https://open.spotify.com/album/3xCDN0KPhUxwE5j9fLts0G"
-      },
-      "artists": [
-        {
-          "name": "Nikka Costa",
-          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
-        }
-      ],
-      "duration_ms": 236283,
-      "name": "It's Just Love",
-      "url": "https://open.spotify.com/track/10b2ljBujXdAeAIWnronO1"
     },
     {
       "added_at": "2024-05-17 04:01:00",

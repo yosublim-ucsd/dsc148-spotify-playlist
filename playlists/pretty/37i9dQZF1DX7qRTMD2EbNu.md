@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Oseikrom Sikanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,903 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 34 | [Drip \- Remix](https://open.spotify.com/track/6yedhXWR8yd2H47VejP23C) | [Gambo](https://open.spotify.com/artist/4neYBnBpddvie2eAxU7p20), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [1Mb](https://open.spotify.com/album/1OoTv336eyujX9fkneitdN) | 3:15 |
 | 35 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
 | 36 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 |
-| 37 | [tension](https://open.spotify.com/track/3EXZuOO3fBodth5pXrIPYG) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 3:19 |
+| 37 | [TENSION](https://open.spotify.com/track/3EXZuOO3fBodth5pXrIPYG) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 3:19 |
 | 38 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 |
 | 39 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
 | 40 | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/track/7MKeGkDG9lvzR9ZjmfwD2m) | [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [Sky Kuu](https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/album/6cAyK6L0wREMTIXrTHeSGd) | 3:01 |

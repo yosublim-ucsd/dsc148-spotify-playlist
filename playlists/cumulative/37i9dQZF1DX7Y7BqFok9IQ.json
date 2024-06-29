@@ -4475,6 +4475,28 @@
     },
     {
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/2iQPYApeM3GraUn8UZzJwB"
+      },
+      "artists": [
+        {
+          "name": "Brave Rival",
+          "url": "https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go"
+        },
+        {
+          "name": "Will Wilde",
+          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/24GtJcOJHupzE0zXfsqaTj"
+    },
+    {
+      "album": {
         "name": "Good for Sumthin'",
         "url": "https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk"
       },
@@ -4678,6 +4700,24 @@
       "duration_ms": 198833,
       "name": "STREET'S QUEEN",
       "url": "https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ"
+    },
+    {
+      "album": {
+        "name": "Proverbial Storm",
+        "url": "https://open.spotify.com/album/6dZOYVVpuX85auwFnikAAB"
+      },
+      "artists": [
+        {
+          "name": "AK & The Red Kites",
+          "url": "https://open.spotify.com/artist/2EXwo4zlnJz7u1o1wBhiHM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147501,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/2gAxL2K1oGqFVZANHsfAkP"
     },
     {
       "album": {

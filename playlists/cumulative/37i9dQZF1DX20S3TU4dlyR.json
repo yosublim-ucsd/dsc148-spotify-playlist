@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 186533,
       "name": "Reggae en el Universo",
       "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
@@ -3704,6 +3704,28 @@
       "duration_ms": 194526,
       "name": "Ruptura",
       "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
+    },
+    {
+      "album": {
+        "name": "Saber a D\u00f3nde ir",
+        "url": "https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259217,
+      "name": "Saber a D\u00f3nde ir",
+      "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
     },
     {
       "album": {

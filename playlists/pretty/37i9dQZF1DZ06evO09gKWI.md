@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is: Bivolt\. Alle wichtigen Tracks in einer Playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 345 likes - 40 songs - 2 hr 18 min
 
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 39 | [Ela Joga](https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb) | [Ela Joga](https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK) | 2:44 |
 | 40 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
 
-Snapshot ID: `ZntaAAAAAABsMWLrTizfi8POlxQM4zmR`
+Snapshot ID: `ZntaAAAAAACNXC98vbb3hpvL2TVfNX4N`

@@ -2,7 +2,7 @@
 
 ### [This Is Pauline Oliveros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cRKhO)
 
-> This is Pauline Oliveros\. The essential tracks, all in one playlist.
+> This is Pauline Oliveros\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 200 songs - 1 day 10 hr 19 min
 

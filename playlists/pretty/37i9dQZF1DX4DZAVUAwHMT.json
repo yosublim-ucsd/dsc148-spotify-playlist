@@ -1,6 +1,6 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Been Stellar ",
-  "num_followers": 791643,
+  "num_followers": 791606,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
@@ -566,6 +566,10 @@
         {
           "name": "Kid Bookie",
           "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        },
+        {
+          "name": "Ziey Kizzy",
+          "url": "https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo"
         }
       ],
       "duration_ms": 204843,

@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-262 songs - 16 hr 34 min
+263 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Feel The Sound](https://open.spotify.com/track/0IDHZMcirW69Z24P52UNHE) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Substance](https://open.spotify.com/artist/4mMszTHT28wg1CvK3TBAJg), [Shadow Society](https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY) | [Feel The Sound](https://open.spotify.com/album/2aNp5bm1Jt3Mkp3Ua3UUv5) | 3:43 | 2024-05-31 |  |
 | [Find Your Way](https://open.spotify.com/track/05xa7uXssS5nOaI5rk3Syb) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Marenn Sukie](https://open.spotify.com/artist/0iCikBx8HjlrYP10DDxzle) | [Find Your Way / This Time](https://open.spotify.com/album/6V6ATIIr6w7PYmsPd5WNpk) | 7:02 | 2022-02-25 | 2022-09-17 |
 | [FINNA](https://open.spotify.com/track/7EV13F7POdlls5TlMuCEF8) | [Laika Beats](https://open.spotify.com/artist/4R6u30PMOLbNNTuR0Jl7x8) | [FINNA](https://open.spotify.com/album/3ogZpKktoz3UhsNYaoousR) | 3:10 | 2021-09-25 | 2022-02-28 |
+| [Flame Thrower](https://open.spotify.com/track/5wX03gSxpFtu3DIDGcQzOZ) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Shadow Society](https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY) | [Flame Thrower](https://open.spotify.com/album/6ysPraVJKRjAj1Sy3N056q) | 3:18 | 2024-06-28 |  |
 | [Flip The Switch](https://open.spotify.com/track/49IK6z6NG2bdRzxksEjxUN) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Flip The Switch](https://open.spotify.com/album/2ZxLmPMahxbTcVjR50Pciw) | 3:26 | 2021-10-22 | 2022-04-16 |
 | [Floating into Space](https://open.spotify.com/track/0rVPYHQGhcUClRyvX9FBEw) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Floating into Space](https://open.spotify.com/album/0ozK4cQ3TNWsaonW0yGgbg) | 2:51 | 2022-01-04 | 2022-04-16 |
 | [FOCUS](https://open.spotify.com/track/2zEROpqqSRJAjIiOZatCBG) | [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [FOCUS](https://open.spotify.com/album/5nwbS0KIR1uG1L37KJxaNt) | 3:17 | 2021-10-15 | 2022-04-16 |

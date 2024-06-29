@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17927,
+  "num_followers": 17924,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Ela S\u00f3 Quer Paz",
+        "url": "https://open.spotify.com/album/0kt2b6HTMmlV4A5f97LZk9"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 174382,
+      "name": "Ela S\u00f3 Quer Paz",
+      "url": "https://open.spotify.com/track/1RPrzKZdkzCNV0Ux0xEHg2"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Poesia Ac\u00fastica #3: Capricorniana",
         "url": "https://open.spotify.com/album/7nB1rBbEkEVdEt29DGgAfV"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 430296,
       "name": "Poesia Ac\u00fastica #3: Capricorniana",
       "url": "https://open.spotify.com/track/1YUWhlQjFv7MQpcbb77zTL"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Ela S\u00f3 Quer Paz",
-        "url": "https://open.spotify.com/album/0kt2b6HTMmlV4A5f97LZk9"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 174382,
-      "name": "Ela S\u00f3 Quer Paz",
-      "url": "https://open.spotify.com/track/1RPrzKZdkzCNV0Ux0xEHg2"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -619,6 +619,42 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -667,42 +703,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
-      },
-      "artists": [
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -739,50 +739,6 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Poetas no Topo 1",
-        "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
-      },
-      "artists": [
-        {
-          "name": "Makalister",
-          "url": "https://open.spotify.com/artist/6oVMjR7Oa9fyVeAnGBjSME"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
-        }
-      ],
-      "duration_ms": 398478,
-      "name": "Poetas no Topo 1",
-      "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -827,6 +783,50 @@
       "duration_ms": 366413,
       "name": "Cantando pro Santo",
       "url": "https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Poetas no Topo 1",
+        "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/6oVMjR7Oa9fyVeAnGBjSME"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        }
+      ],
+      "duration_ms": 398478,
+      "name": "Poetas no Topo 1",
+      "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Falc\u00e3o - O Bagulho \u00c9 Doido",
         "url": "https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 300200,
       "name": "Estilo Vagabundo",
       "url": "https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Prin$",
-        "url": "https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
         "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 191981,
       "name": "Rolo Compressor",
       "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Prin$",
+        "url": "https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

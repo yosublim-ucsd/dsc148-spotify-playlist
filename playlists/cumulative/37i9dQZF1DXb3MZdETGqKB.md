@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-301 songs - 17 hr 49 min
+302 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-07-15 |  |
 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 | 2021-08-30 | 2022-06-19 |
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 | 2023-05-13 |
+| [Believer](https://open.spotify.com/track/24xBL7ddkkVxbaWmkdYF0w) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Believer](https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz) | 3:02 | 2024-06-28 |  |
 | [Better Be Lonely](https://open.spotify.com/track/70EjHDvkFck4j5LZvVzt1Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Better Be Lonely](https://open.spotify.com/album/2k4PfJnRc2kv6o0V7i4J6P) | 3:40 | 2021-08-30 | 2023-03-25 |
 | [Better Days](https://open.spotify.com/track/4XW0ZZJ2avabVMuHUkwonG) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Better Days](https://open.spotify.com/album/4cKtG81r37U4b3vDHxPxRo) | 4:34 | 2021-07-02 | 2022-06-25 |
 | [BIG BOSS](https://open.spotify.com/track/49lBwbL8cwLErPMGUqrcgV) | [T.Howell](https://open.spotify.com/artist/4CzJiPo76fJ1a5Rm2bwxP3), [Jeter Jones](https://open.spotify.com/artist/66cHA84K27hhCReCYTgQVF) | [BIG BOSS](https://open.spotify.com/album/0OCfRsE8CwqK5p3btp1EBv) | 2:35 | 2023-09-08 |  |
@@ -169,7 +170,7 @@
 | [My City](https://open.spotify.com/track/0DpJhcbwE1YtBSQEzNfX9g) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/4RWpRW36Af3RXqcJqmX7AR) | 4:33 | 2022-06-24 | 2024-05-03 |
 | [My City](https://open.spotify.com/track/2ADuHL3sy2Bjs3S4MwyT1M) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/41N9g80QNwWwm9sEdcUw93) | 4:33 | 2022-06-24 | 2024-04-19 |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
-| [Nelson's Blood](https://open.spotify.com/track/2eq0XUQt3n6IvnDmnmhLit) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Nelson's Blood](https://open.spotify.com/album/50f3dw8zYLCtkKyioMd1Qq) | 3:09 | 2023-02-13 |  |
+| [Nelson's Blood](https://open.spotify.com/track/2eq0XUQt3n6IvnDmnmhLit) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Nelson's Blood](https://open.spotify.com/album/50f3dw8zYLCtkKyioMd1Qq) | 3:09 | 2023-02-13 | 2024-06-29 |
 | [NEVER LEAVE GOD BEHIND](https://open.spotify.com/track/0Th39OTENTSQL9MMzi066T) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [NEVER LEAVE GOD BEHIND](https://open.spotify.com/album/6VeSN4dhFnpBKyn5I2ddIc) | 3:21 | 2022-10-14 | 2023-05-27 |
 | [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2021-10-08 | 2023-05-27 |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-04-23 | 2022-05-07 |

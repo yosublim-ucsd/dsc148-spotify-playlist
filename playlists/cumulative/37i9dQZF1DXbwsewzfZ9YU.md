@@ -2,9 +2,9 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> the best in hardcore\. open the pit w/ SPEED.
+> the best in hardcore\. open the pit w/ GEL.
 
-255 songs - 10 hr 20 min
+258 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 | 2024-02-20 |  |
 | [Cocalero](https://open.spotify.com/track/4rKMeOxbIotmiTwWnv8sqz) | [Planet On A Chain](https://open.spotify.com/artist/3APgrosFRdZbDHVIRS8UDf) | [Culture of Death](https://open.spotify.com/album/1PFBTV1nCQVdZgW74XFNpH) | 1:11 | 2024-04-26 |  |
 | [Coming Correct Is Cheaper](https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:04 | 2023-02-24 | 2023-08-26 |
+| [Compromised](https://open.spotify.com/track/28TwG43K9sLsTCRqOcT9ex) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Compromised](https://open.spotify.com/album/7JlELI8xTJhJZ8b4x81Sng) | 2:15 | 2024-06-28 |  |
 | [Constructing a War Against You](https://open.spotify.com/track/7GislxP58SUMLTBophiSuA) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Constructing a War Against You](https://open.spotify.com/album/18PYpYm7csh6OXUkaLl3AE) | 2:05 | 2023-02-24 |  |
 | [Content](https://open.spotify.com/track/1S5okQvjTYN7WgiuANfmlF) | [Infant Island](https://open.spotify.com/artist/34ZIRrOiowNWuyJYt5crZM) | [Beneath](https://open.spotify.com/album/5ycE4NDRcP3gvnwltM8uiU) | 4:21 | 2023-02-24 | 2024-05-06 |
 | [Corrode](https://open.spotify.com/track/2UIu1N8sSW8VzfzDyCz7Ur) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk), [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Life's Cold Grasp](https://open.spotify.com/album/6Z51mOwW4iSIHrhNYZtkXx) | 2:33 | 2024-04-26 |  |
@@ -142,6 +143,7 @@
 | [Modern Fatigue](https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke) | [Long Knife](https://open.spotify.com/artist/3SsyiDM90YglLgxOXaaJCA) | [Curb Stomp Earth](https://open.spotify.com/album/7LziAYYYgbI8Hdn7UrqKoV) | 2:40 | 2023-02-24 | 2024-01-31 |
 | [MONEY](https://open.spotify.com/track/4gGoa5NtwIdsyZ9jY8coU5) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [Change, Change, Change](https://open.spotify.com/album/6yi6vnoFBME61c12lCWDJR) | 3:19 | 2024-03-22 | 2024-05-06 |
 | [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-07-18 | 2023-11-18 |
+| [My Way](https://open.spotify.com/track/1Uw6FE6OvrztdVU7wwY9Oj) | [Trail of Lies](https://open.spotify.com/artist/6CfRUJrNjN17MgF4sfKE0Z), [Scott Vogel](https://open.spotify.com/artist/29hXSjO5wlSWX5Kwrtms9s), [Danny Diablo](https://open.spotify.com/artist/6rpdUczV3fScAaUUrsnKrl) | [My Way](https://open.spotify.com/album/4yTZNu7rNDpwFFdsqm1hm5) | 2:22 | 2024-06-28 |  |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 |  |
 | [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 | 2023-04-03 | 2023-04-30 |
 | [Neila Forever](https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 0:49 | 2023-04-21 | 2023-07-18 |
@@ -169,6 +171,7 @@
 | [Peasants Revolt](https://open.spotify.com/track/2LuM7OyW232MyhXJEJgUr1) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 1:53 | 2024-03-01 |  |
 | [Penalty](https://open.spotify.com/track/6DC0Mm4gfxZg00yry1ek5w) | [\[Ctrl\]](https://open.spotify.com/artist/5jVoRMoUxOcLBzfW9Q4wnc) | [Ex Machina](https://open.spotify.com/album/75yAbKW1IBfKHKnDwwdNiZ) | 1:15 | 2024-03-01 | 2024-04-27 |
 | [Permanent Dark](https://open.spotify.com/track/32ZFuOcwM6fwHSPcWykX3f) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:14 | 2024-06-21 |  |
+| [Persona](https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW) | 2:12 | 2024-06-28 |  |
 | [Playin' Hell Tryin' To Get To Heaven](https://open.spotify.com/track/5dZEWLFTHuaz8lq3ryNYoV) | [Life's Question](https://open.spotify.com/artist/3m7JHlRsZs6jkvzWAnkyuq) | [World Full Of...](https://open.spotify.com/album/3szSSG9C1WEMUPdkukrybl) | 4:13 | 2023-02-24 |  |
 | [PLAYING FAVORITES](https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Playing Favorites](https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY) | 3:39 | 2024-04-26 | 2024-06-22 |
 | [Point of View](https://open.spotify.com/track/0fU9H6KTGKtthrZZ5AHjZ1) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 2:01 | 2023-02-24 | 2023-07-18 |
@@ -182,12 +185,12 @@
 | [Psychic Jailbreak](https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/1g7U1EbReW4TqUHYc1dTsd) | 3:03 | 2023-02-24 | 2023-04-09 |
 | [REAL LIFE LOVE](https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht) | 3:02 | 2024-05-05 | 2024-06-22 |
 | [Reaper](https://open.spotify.com/track/1Z1gDW1hKjKM8HX3tmeKOq) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Ronin](https://open.spotify.com/album/1dMvXfgG3u4lJ144uO4elO) | 1:38 | 2023-02-24 |  |
-| [Refrain](https://open.spotify.com/track/4MiEv1tSs9TfrxERXYd6Op) | [Frail Body](https://open.spotify.com/artist/087dxTWzkw5RjrjOiJCfBH) | [Refrain](https://open.spotify.com/album/52GBvq9WmkMUc1BYaDDEac) | 2:43 | 2024-03-01 |  |
-| [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 | 2023-02-24 |  |
+| [Refrain](https://open.spotify.com/track/4MiEv1tSs9TfrxERXYd6Op) | [Frail Body](https://open.spotify.com/artist/087dxTWzkw5RjrjOiJCfBH) | [Refrain](https://open.spotify.com/album/52GBvq9WmkMUc1BYaDDEac) | 2:43 | 2024-03-01 | 2024-06-29 |
+| [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 | 2023-02-24 | 2024-06-29 |
 | [Resurrection II](https://open.spotify.com/track/6ekWBiiyu5wPAixB5ZtK2H) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Härvest](https://open.spotify.com/album/2BGvd8w4DoxN4DOjC47iQL) | 3:02 | 2023-04-21 | 2024-01-31 |
 | [Retribution](https://open.spotify.com/track/0Jzuwvzp8EpPv0nXBtM2XR) | [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN) | [A Love To Kill For](https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj) | 2:17 | 2023-07-18 |  |
 | [RIDE IT](https://open.spotify.com/track/3oX2umsP57XAnLkaOnIAhy) | [LustSickPuppy](https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3) | [RIDE IT](https://open.spotify.com/album/4YVZqIH91AFGuKJwvBN2TS) | 2:59 | 2023-08-11 | 2023-12-14 |
-| [Rose Bather](https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Rose Bather](https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA) | 3:37 | 2023-12-12 |  |
+| [Rose Bather](https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Rose Bather](https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA) | 3:37 | 2023-12-12 | 2024-06-29 |
 | [Run You Out](https://open.spotify.com/track/48moUW0Vxdov1v4fA6gfKU) | [Bazooka](https://open.spotify.com/artist/5JjaKHxTOvC4JkCSirZIVS) | [Dimo](https://open.spotify.com/album/6lXOlPTEes6l6SWK9qfyKe) | 2:24 | 2023-08-11 | 2023-11-11 |
 | [Seditionist](https://open.spotify.com/track/6fkhrHuaBmonREaaCith0F) | [CLIQUE](https://open.spotify.com/artist/2VsAskD8T8epxy1TuVAO0F) | [Communique](https://open.spotify.com/album/6kx1Ta5DiwysPtz2DXYPee) | 2:35 | 2024-04-26 |  |
 | [Seizure The Day](https://open.spotify.com/track/1J2qs0fVkDgnqncjJPw0LH) | [Last Gasp](https://open.spotify.com/artist/0CAPzuyQdCsgOemfeAWmMK), [The Spudmonsters](https://open.spotify.com/artist/691xdXnx3KlkIRUi4CQ2GY) | [Who Wants to Die Tonight?](https://open.spotify.com/album/0hGt0SPLp3bF7HNcQcu3MF) | 1:33 | 2023-11-10 | 2024-03-02 |

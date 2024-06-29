@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,637 songs - 4 day 16 hr 31 min
+1,638 songs - 4 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-05-03 |  |
 | [felt like we were in heaven \- Radio Edit](https://open.spotify.com/track/0iu8qPgPIDQBW4D23vdZUJ) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [stay just a little while longer \(Instrumental Version\)](https://open.spotify.com/album/6HlCP4xd6DdJmxONC38hFe) | 3:40 | 2022-04-22 | 2022-07-25 |
 | [Felt This Good \(feat\. M\. Bronx\) \- Kap Slap VIP Edit](https://open.spotify.com/track/3c8nej0iPZSrg6P71LIua6) | [Kap Slap](https://open.spotify.com/artist/1yRxS3CXYM7s6amlkEmozI), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Felt This Good \(feat\. M\. Bronx\) \[Kap Slap VIP Edit\]](https://open.spotify.com/album/4roxqbGVnV9L1ve1EZtF9R) | 3:15 | 2020-05-18 | 2020-07-03 |
+| [fever](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [fever](https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG) | 2:20 | 2024-06-21 |  |
 | [Fictionalise \- Anjunadeep 08 Mix](https://open.spotify.com/track/5CRUheuZVSxl0YxDvlLimM) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 4:35 | 2020-05-18 | 2021-12-31 |
 | [Fifty Dollar Bills \- Radio Edit](https://open.spotify.com/track/3wKsVivJ3pRnJ9BLBR639L) | [Sworn Virgins](https://open.spotify.com/artist/5xA3zslV2KbUIZR5QsuNgw) | [Fifty Dollar Bills \(Radio Edit\)](https://open.spotify.com/album/5ni7bnCyY1vmg1VgTeQIPH) | 4:04 | 2020-05-18 | 2020-07-03 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2020-04-14 | 2020-10-09 |
@@ -543,7 +544,7 @@
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-10-28 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
-| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 |  |
+| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 | 2024-06-29 |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |
 | [GG \- Monstergetdown Remix](https://open.spotify.com/track/5ItsigUl8EZKgECyY13DnK) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Monstergetdown](https://open.spotify.com/artist/1D3UqPAp0iBjhlFN2aBuYH) | [mau5ville: Level 2](https://open.spotify.com/album/1avRid1zaRK4UDSrwduIPX) | 6:31 | 2020-05-18 | 2020-07-18 |

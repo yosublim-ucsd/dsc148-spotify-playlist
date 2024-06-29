@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Caminho Estreito",
+        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Siss\u00e1",
+          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
+        },
+        {
+          "name": "Bullara",
+          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204294,
+      "name": "Caminho Estreito",
+      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
+    },
+    {
+      "album": {
         "name": "Soul Hymns (Live Sessions)",
         "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
@@ -1246,7 +1268,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 256161,
       "name": "Raridade (Releitura)",
       "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"

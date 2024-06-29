@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 ### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This is James Newton Howard\. The essential tracks, all in one playlist.
+> This is James Newton Howard\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,544 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,546 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Flow Like Water](https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Last Airbender \(Music from the Motion Picture\)](https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S) | 6:32 |
 | 50 | [Central Park \- From King Kong Original Motion Picture Soundtrack](https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [King Kong](https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a) | 4:36 |
 
-Snapshot ID: `ZntaAAAAAACwTeMRKAA7h7PqTid53zz7`
+Snapshot ID: `ZntaAAAAAACkS4f+DKfPZpUdhTBDZd4k`

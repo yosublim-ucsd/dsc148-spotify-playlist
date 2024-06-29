@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/4pYxWQ2UiprT4ydevkueOf"
+      },
+      "artists": [
+        {
+          "name": "Becky Buller",
+          "url": "https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277640,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5nJu3TOJXxlWud7QgJrb8l"
+    },
+    {
+      "album": {
         "name": "Common Nation Of Sorrow",
         "url": "https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo"
       },
@@ -154,6 +172,24 @@
       "duration_ms": 198557,
       "name": "Another Highway this Time",
       "url": "https://open.spotify.com/track/3FlNz8wQHg70Cl5vgQPDvD"
+    },
+    {
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/1OtlwNBNEHoxug6IgGaPuc"
+      },
+      "artists": [
+        {
+          "name": "Kristy Cox",
+          "url": "https://open.spotify.com/artist/0kDLJ0ty0U1vAUYyVUPJjW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Appalachian Blue",
+      "url": "https://open.spotify.com/track/0LoozIdRE2xH1tka3XH516"
     },
     {
       "album": {
@@ -342,7 +378,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 176493,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/2WuuiyHR2qJzdn8VSJpUWD"
@@ -360,7 +396,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 239000,
       "name": "Chasin' Indigo",
       "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
@@ -382,6 +418,24 @@
       "duration_ms": 199760,
       "name": "Choices And Changes",
       "url": "https://open.spotify.com/track/4hqJJdwJuWx0y6sNcHIHYF"
+    },
+    {
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "album": {
@@ -640,7 +694,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 137493,
       "name": "Fine Times at Our House",
       "url": "https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf"
@@ -658,7 +712,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 214480,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9"
@@ -998,6 +1052,46 @@
       "duration_ms": 176400,
       "name": "I've Got That Old Feeling",
       "url": "https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X"
+    },
+    {
+      "album": {
+        "name": "Silver And Gold",
+        "url": "https://open.spotify.com/album/547VMzLctlE3tqZ2TpyPOi"
+      },
+      "artists": [
+        {
+          "name": "Claire Lynch",
+          "url": "https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "If Wishes Were Horses",
+      "url": "https://open.spotify.com/track/2nA1lz23dIfkjpMPnGKKyg"
+    },
+    {
+      "album": {
+        "name": "The Witch",
+        "url": "https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213837,
+      "name": "In Montreal",
+      "url": "https://open.spotify.com/track/084AB0fzsGnHtrkVHATK95"
     },
     {
       "album": {
@@ -1486,7 +1580,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 203826,
       "name": "One Voice",
       "url": "https://open.spotify.com/track/1p5scXmqROMpCC2Xv6neHe"
@@ -1548,7 +1642,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 234480,
       "name": "Pretty Bird",
       "url": "https://open.spotify.com/track/1WNRR8IKUjz6R7hVLht1qe"
@@ -1610,7 +1704,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 225506,
       "name": "Real Women Drive Trucks",
       "url": "https://open.spotify.com/track/32oTlq7w9VekLge7IonIW4"
@@ -1736,7 +1830,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
@@ -1772,7 +1866,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 181880,
       "name": "Save This Heart",
       "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
@@ -1844,7 +1938,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 175480,
       "name": "Speakin\u2019 to That Mountain",
       "url": "https://open.spotify.com/track/2k0XpAmKF3Xd7pIrNXtZTJ"
@@ -1958,7 +2052,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 269146,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O"
@@ -1998,6 +2092,44 @@
       "duration_ms": 221938,
       "name": "The Riveter",
       "url": "https://open.spotify.com/track/7d14MiXlkIdknKSfBUv2jq"
+    },
+    {
+      "album": {
+        "name": "These Ole Blues",
+        "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        },
+        {
+          "name": "Missy Raines & Allegheny",
+          "url": "https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1"
+        },
+        {
+          "name": "Danny Paisley",
+          "url": "https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi"
+        },
+        {
+          "name": "Darol Anger",
+          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
+        },
+        {
+          "name": "Shad Cobb",
+          "url": "https://open.spotify.com/artist/7jOAerTS5LBS24HXDrD58u"
+        },
+        {
+          "name": "Ellie Hakanson",
+          "url": "https://open.spotify.com/artist/2Co6Ms0rTsymHegZCNVWIu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255178,
+      "name": "These Ole Blues",
+      "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
     },
     {
       "album": {
@@ -2082,7 +2214,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 272894,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/18pyoFqtp4BeZat5hPELtz"
@@ -2129,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "The Grass Is Blue",
+        "url": "https://open.spotify.com/album/1kQ0i9vb1D2TPMNOSTs3i5"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256266,
+      "name": "Travelin\u2019 Prayer",
+      "url": "https://open.spotify.com/track/5ZcI0yKZK6OFW0d7lqc6sx"
+    },
+    {
+      "album": {
         "name": "Tsali's Run",
         "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
@@ -2144,6 +2294,28 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "album": {
+        "name": "I Built A World",
+        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161235,
+      "name": "Up For Losing Sleep",
+      "url": "https://open.spotify.com/track/6OQSKMqfNvz0NiiHHmTVSL"
     },
     {
       "album": {
@@ -2340,7 +2512,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 158480,
       "name": "Will You Ever Be Mine",
       "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
@@ -2376,7 +2548,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 172093,
       "name": "Wolf Moon",
       "url": "https://open.spotify.com/track/1j5eihCJgUaPv2rKl17wwK"
@@ -2430,7 +2602,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 295067,
       "name": "You\u2019ll Never Leave Harlan Alive",
       "url": "https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW"

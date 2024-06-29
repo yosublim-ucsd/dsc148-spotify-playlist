@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Taiki Nulight",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Holly",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 168717,
       "name": "HI-TECH",
       "url": "https://open.spotify.com/track/1HCR9P0ZqA91ylnfJiT4c2"
@@ -1736,6 +1736,24 @@
       "duration_ms": 223098,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71"
+    },
+    {
+      "album": {
+        "name": "Angel In The Rave",
+        "url": "https://open.spotify.com/album/2fJnytrH5LLgsyrC6CI5ON"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "Musikal Touch",
+      "url": "https://open.spotify.com/track/7dDjIHkmntVFshWYERP8K5"
     },
     {
       "album": {

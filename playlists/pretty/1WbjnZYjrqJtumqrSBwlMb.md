@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 940 songs - 2 day 9 hr 56 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 947 songs - 2 day 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -948,5 +948,12 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 938 | [Dance With Me](https://open.spotify.com/track/3xMLPK4mRZMl3Cne3okptx) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 3:44 |
 | 939 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 |
 | 940 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
+| 941 | [Baby](https://open.spotify.com/track/2yvVFLyD8BYgaRf3SiMFmk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:58 |
+| 942 | [Little Things](https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:29 |
+| 943 | [Rid Of Me](https://open.spotify.com/track/79g8oehsdP1jeGVH3WEB38) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 4:58 |
+| 944 | [Big Fish](https://open.spotify.com/track/1eCnDzEnlErxBusF4WzCRM) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 2:18 |
+| 945 | [Frida Kahlo](https://open.spotify.com/track/3Y9cFvZjmiZCMMjTTaY5f9) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 2:33 |
+| 946 | [Houston](https://open.spotify.com/track/5IJ5gi0AuBNpRlfOEqA9Cq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:49 |
+| 947 | [Forwards](https://open.spotify.com/track/3UkG12ln6ZxSaqF1tOYVoE) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:11 |
 
-Snapshot ID: `AAAId5brs4w6ihIpQfU1s3oLXZDUlb1R`
+Snapshot ID: `AAAIfiDR3z9GleUa9cSYSSG/hNsrJ1tP`

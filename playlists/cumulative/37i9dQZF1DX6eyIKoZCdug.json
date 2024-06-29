@@ -65,7 +65,7 @@
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 405032,
+      "duration_ms": 404000,
       "name": "3 Step To Funk",
       "url": "https://open.spotify.com/track/2F5jgSYghpEngFJwrUNqHI"
     },
@@ -277,6 +277,32 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/1qeES9QZaq1xfHfvSTtuo7"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Roots",
+          "url": "https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge"
+        },
+        {
+          "name": "Dj Wonderboy",
+          "url": "https://open.spotify.com/artist/5WiLGiZee73dHXkqEQjKBF"
+        },
+        {
+          "name": "Maz Sings",
+          "url": "https://open.spotify.com/artist/5F7Fe07I1f1mlW312a4dmk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373518,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4StUSthpVX304GEjdTnI0i"
+    },
+    {
+      "album": {
         "name": "Amplified Zone",
         "url": "https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8"
       },
@@ -368,7 +394,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 427993,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/7HEAAxdGcMiuXRRLSLeRxn"
@@ -3075,6 +3101,32 @@
     },
     {
       "album": {
+        "name": "Panakisi",
+        "url": "https://open.spotify.com/album/1QuoWiyyySITxI0wvknG2s"
+      },
+      "artists": [
+        {
+          "name": "Cubique Dj",
+          "url": "https://open.spotify.com/artist/4UAhuYCnnH3OQYcc54muJM"
+        },
+        {
+          "name": "PeeKay Mzee",
+          "url": "https://open.spotify.com/artist/3kjGJR4uVdVSidEHzw1Ebu"
+        },
+        {
+          "name": "West Rhythm",
+          "url": "https://open.spotify.com/artist/77SQEnPVwrZ1FBag5ZzhEr"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363559,
+      "name": "Panakisi",
+      "url": "https://open.spotify.com/track/5lf53Q8wU7xWV9z4LElKUC"
+    },
+    {
+      "album": {
         "name": "Perfect Stranger",
         "url": "https://open.spotify.com/album/16lIzlGUVUfV9nShNzDCQu"
       },
@@ -4940,7 +4992,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 348613,
       "name": "Yonke - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/2aamDNQtsj7FRvKdCr2hzk"

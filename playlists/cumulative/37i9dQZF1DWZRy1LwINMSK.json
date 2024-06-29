@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Cris Mj.",
+  "description": "La casa del trap chileno al mando de Polima Westcoast.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 156387,
       "name": "En el Trap",
       "url": "https://open.spotify.com/track/1NZt5EfQCFMlbOgeywCMq3"
@@ -5210,6 +5210,24 @@
       "duration_ms": 223020,
       "name": "V\u00e1monos (feat. Nfx & DrefQuila)",
       "url": "https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV"
+    },
+    {
+      "album": {
+        "name": "www.Polim\u00e1Westcoast",
+        "url": "https://open.spotify.com/album/1WXCYhu4JBW4afvKyJlmC1"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87926,
+      "name": "www.Polim\u00e1Westcoast",
+      "url": "https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ"
     },
     {
       "album": {

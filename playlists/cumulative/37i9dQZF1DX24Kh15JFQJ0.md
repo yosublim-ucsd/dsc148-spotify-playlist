@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: George Strait
+> The latest music from our Country Heroes\. Cover: Johnny Cash
 
-286 songs - 16 hr 46 min
+287 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Healing Hands Of Time](https://open.spotify.com/track/34sj5y5j85TPf4Q46QAJUD) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Sweet Memories: The Music Of Ray Price & The Cherokee Cowboys](https://open.spotify.com/album/7d5S3zwO2vZn64PbtLZQ9r) | 2:55 | 2023-08-04 |  |
 | [Heartbreak Song](https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Heartbreak Song](https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ) | 3:59 | 2022-07-29 |  |
 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 | 2022-07-22 |  |
+| [Hello Out There](https://open.spotify.com/track/0x1u8snNiyKqfmYmyQg3Kr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songwriter](https://open.spotify.com/album/4Y58KotkrZ32Nnni8CuXRd) | 3:02 | 2024-06-28 |  |
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |
 | [Higher](https://open.spotify.com/track/2T75yzrR6z0ciGATKZUaBA) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:15 | 2023-05-12 | 2024-04-19 |
 | [Higher](https://open.spotify.com/track/3MzJt1QR7YyJAKje1elWUY) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/1191oeD8jhGrVnNHE6Ef36) | 3:15 | 2022-01-28 |  |

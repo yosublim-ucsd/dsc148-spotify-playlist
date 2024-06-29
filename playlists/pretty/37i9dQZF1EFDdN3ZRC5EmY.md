@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,003 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,002 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 63 | [Love Me, Leave Me](https://open.spotify.com/track/76QGdvxvk9lByBSrGlS6fD) | [Casey Bishop](https://open.spotify.com/artist/6LfA72Ad6LWcDYOwUMqpce) | [Love Me, Leave Me](https://open.spotify.com/album/2ubKI92F1ENgrHRufTAnKk) | 3:45 |
 | 64 | [Rain](https://open.spotify.com/track/1HErjwORTBL6V4YwdLNASN) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/7o39Uat02zV7woX9uzUamH) | 2:49 |
 
-Snapshot ID: `AbVNQgAAAAAJ9APs92QXCU2zCPZan2dG`
+Snapshot ID: `AbVS4gAAAACMN7AcbNkVkXR/CDaaxa4e`

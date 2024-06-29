@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: The Avett Brothers
+> Keep your finger on the pulse of Americana\. Cover: Kaitlin Butts
 
-683 songs - 1 day 18 hr 10 min
+685 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 | 2023-10-13 |  |
 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 | 2022-12-02 | 2024-05-18 |
 | [Honey Ain’t No Sweeter](https://open.spotify.com/track/0WUwEHFU368yyh9ShYJZUe) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:42 | 2024-03-29 | 2024-04-19 |
-| [Honey Ain’t No Sweeter](https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Honey Ain’t No Sweeter](https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS) | 3:42 | 2024-01-12 |  |
+| [Honey Ain’t No Sweeter](https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Honey Ain’t No Sweeter](https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS) | 3:42 | 2024-01-12 | 2024-06-29 |
 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 | 2022-05-13 | 2023-06-03 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-02-04 | 2022-05-28 |
 | [Hour on the Hour](https://open.spotify.com/track/2lEihHqyRM7lq1YuxObnb0) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [One to Grow On](https://open.spotify.com/album/01LOjOlYQ4O48xEMNcHHaY) | 4:29 | 2021-12-17 | 2022-05-14 |
@@ -287,7 +287,7 @@
 | [How Many Times](https://open.spotify.com/track/4KFmj1QQKlCUNRO3Xc6b7B) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [How Many Times](https://open.spotify.com/album/6M0VqILBeptCKkm2lCgqMA) | 3:20 | 2023-08-25 | 2024-04-06 |
 | [How to Love](https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:38 | 2022-02-22 | 2022-08-06 |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-05-27 |
-| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-03-01 |  |
+| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-03-01 | 2024-06-29 |
 | [Hunter](https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT) | 3:48 | 2023-04-28 | 2023-06-10 |
 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 | 2023-04-21 | 2023-04-30 |
 | [Hunter](https://open.spotify.com/track/6MT3BGYBY4J7rbr4TEvqml) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/3T3RUDuZbP288R9a92JVFB) | 3:48 | 2023-12-01 |  |
@@ -428,6 +428,7 @@
 | [Only So Much You Can Do](https://open.spotify.com/track/19a2wE63XeHzz0rWdY7fQW) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Only So Much You Can Do](https://open.spotify.com/album/0FMNUahZhLsKOF7EMem8jg) | 3:18 | 2024-01-26 |  |
 | [Orion's Belt](https://open.spotify.com/track/2k6rccSqgz95TpE7gaZuVj) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Avett Brothers](https://open.spotify.com/album/3Z7vd5JXLArFxYz8PxT6Py) | 3:07 | 2024-05-17 |  |
 | [Orphan Child](https://open.spotify.com/track/6aK8AIxvkuiYE1sHdxrYcb) | [Jeremy Ivey](https://open.spotify.com/artist/08Gc0o3GdjIKtQVoNYaVNG) | [Orphan Child](https://open.spotify.com/album/4SyrS57R0V9jB7LB1ty6Qw) | 3:57 | 2022-01-21 | 2022-05-20 |
+| [Other Girls \(Ain't Havin' Any Fun\)](https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 4:13 | 2024-06-28 |  |
 | [Other Side](https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Other Side](https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY) | 4:13 | 2022-05-27 | 2023-09-09 |
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 | 2023-10-28 |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-05-13 | 2023-07-29 |
@@ -560,6 +561,7 @@
 | [Taking Me Back \(Gently\)](https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:36 | 2021-12-17 | 2022-04-02 |
 | [Talkin' to Myself](https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Talkin' to Myself](https://open.spotify.com/album/6kiT74gcWiUjW5VefQeknP) | 2:46 | 2021-12-17 | 2022-07-23 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2021-12-17 | 2023-04-01 |
+| [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2021-12-17 | 2022-11-12 |
 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 | 2024-02-23 |  |
 | [The Crowd Goes Wild](https://open.spotify.com/track/5XuaAzE08QYbEKLhEQEtK3) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/2MUgdyyd6Cl0VjplzIn8UE) | 3:34 | 2024-03-29 |  |

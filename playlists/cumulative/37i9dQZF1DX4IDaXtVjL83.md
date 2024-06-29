@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JUNNY, Levent Geiger\)
 
-180 songs - 9 hr 34 min
+182 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [CWS](https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Genre](https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy) | 3:30 | 2021-12-20 | 2022-09-06 |
 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 | 2022-05-30 |  |
 | [Day by day](https://open.spotify.com/track/7mvy2MRpKoyOjjEFRUp9CC) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Day by day](https://open.spotify.com/album/4eBOodfhDjoNCsPLzj3OHz) | 3:08 | 2021-12-20 | 2022-01-22 |
+| [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 | 2024-06-28 |  |
 | [Delicious](https://open.spotify.com/track/53gU09JrGtZfXTPBFpukKr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/315iKfEODZns5S32HhcapU) | 3:17 | 2023-06-08 |  |
 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-05 |  |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
@@ -72,6 +73,7 @@
 | [Future Perfect \(Pass the MIC\) \- Japanese Ver.](https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:00 | 2022-10-25 | 2024-04-19 |
 | [Future Perfect \(Pass the MIC\) \[Japanese Ver.\]](https://open.spotify.com/track/5dlXBkvmIYBm4Cm5gWEZtO) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [SADAME](https://open.spotify.com/album/7llYRPvDhUzt0HVFAIqHnv) | 2:58 | 2024-04-05 |  |
 | [Galipette \- BIBI Remix](https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Galipette \(BIBI Remix\)](https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus) | 2:02 | 2021-12-20 | 2022-04-20 |
+| [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-06-28 |  |
 | [Give Me a Kiss \- SHAUN Remix](https://open.spotify.com/track/2kivpDuRbWrULiJtEaCfve) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Give Me a Kiss \(SHAUN Remix\)](https://open.spotify.com/album/3wiexsrFfVlq3gFq7OKfe7) | 3:20 | 2023-04-21 |  |
 | [GOOD VIBES](https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg) | [Chad Future](https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [GOOD VIBES](https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj) | 2:59 | 2023-01-25 |  |
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-05-26 |  |

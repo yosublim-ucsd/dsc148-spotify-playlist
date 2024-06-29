@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 ### [This Is Azzy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0P1Sng)
 
-> This is Azzy。アーティストの代表曲をひとつのプレイリストに。
+> This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,915 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,917 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 38 | [Coisa Fina](https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Coisa Fina](https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7) | 2:56 |
 | 39 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 |
 | 40 | [Água de Bala](https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DK Prod](https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq) | [Água de Bala](https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP) | 2:24 |
-| 41 | [Tifanny](https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6), [Bgnobeat](https://open.spotify.com/artist/6FcTMRSDOT5gkCzakAV7aG) | [Tifanny](https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643) | 2:40 |
+| 41 | [Tifanny](https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6), [Bgnobeat](https://open.spotify.com/artist/5V6BONZ5wppD3nyZtFtjqp) | [Tifanny](https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643) | 2:40 |
 | 42 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 |
 | 43 | [Meio Dia](https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Meio Dia](https://open.spotify.com/album/11CDv8nWVPsvCRNuuP5I2y) | 4:03 |
 | 44 | [Espero Que Sinta](https://open.spotify.com/track/6KspNxVx5lEl6eUJaZSbyS) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Espero Que Sinta](https://open.spotify.com/album/6CHnoiMOTD3jiniAOYaTZA) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Ctrl Z](https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:30 |
 | 50 | [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 |
 
-Snapshot ID: `ZntaAAAAAADmq/YVqAx8FeSToSJBs++n`
+Snapshot ID: `ZntaAAAAAADqknv3d7rKnY8bKmygNivx`

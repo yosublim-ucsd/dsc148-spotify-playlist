@@ -1,13 +1,29 @@
 {
   "description": "Chase. Ride. Survive. Listen to the music from Twister and Twisters, coming soon to theaters. ",
-  "num_followers": 674,
+  "num_followers": 710,
   "original_name": "Twisters Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnXnGQAAAACy5xTgY3EQhrimWlIvv21b",
+  "snapshot_id": "Zn8c6AAAAAAFX3lUW/f2PISJ0FYQf0LM",
   "tracks": [
+    {
+      "added_at": "2024-06-28 20:28:24",
+      "album": {
+        "name": "Song While You're Away (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 300800,
+      "name": "Song While You're Away (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
+    },
     {
       "added_at": "2024-06-21 20:48:25",
       "album": {

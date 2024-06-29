@@ -1,12 +1,12 @@
 {
   "description": "ft. charli",
-  "num_followers": 457727,
+  "num_followers": 457848,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Znsc5gAAAADPHzLFUyz6sdg0zzWzXViz",
+  "snapshot_id": "Zn83FAAAAAB4xoWB+dbjYML0rHqaEOAa",
   "tracks": [
     {
       "added_at": "2024-06-14 05:37:00",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
+    },
+    {
       "added_at": "2024-06-14 05:37:00",
       "album": {
         "name": "Upgrade (CROOK's System Update)",
@@ -69,6 +85,22 @@
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Block",
+        "url": "https://open.spotify.com/album/0hlNXCcWerJq4jektVp4dF"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "duration_ms": 130817,
+      "name": "Block",
+      "url": "https://open.spotify.com/track/0jk7BG707tRYtrfcQR6R8y"
+    },
+    {
       "added_at": "2024-05-14 16:01:28",
       "album": {
         "name": "2009",
@@ -83,6 +115,22 @@
       "duration_ms": 142973,
       "name": "2009",
       "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
+    },
+    {
+      "added_at": "2024-06-28 14:25:07",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/3YwG5jr7mC2EzDtbvgTvL0"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 158942,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w"
     },
     {
       "added_at": "2024-05-30 21:41:29",
@@ -135,6 +183,62 @@
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "24 Hours in Paris - Miranda\u2019s Version",
+        "url": "https://open.spotify.com/album/2HWi3HtsNZ6kJw8P8vUSIe"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 166475,
+      "name": "24 Hours in Paris - Miranda's Version",
+      "url": "https://open.spotify.com/track/71UC3KzrsSvRBcyatjtLru"
+    },
+    {
+      "added_at": "2024-06-28 14:25:07",
+      "album": {
+        "name": "We Invented Love",
+        "url": "https://open.spotify.com/album/5pWBArie1qTnabaxWKh8e0"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "atlgrandma",
+          "url": "https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "We Invented Love",
+      "url": "https://open.spotify.com/track/3ph60TsHPtgPYiu5wTTEp6"
+    },
+    {
+      "added_at": "2024-06-28 22:20:04",
+      "album": {
+        "name": "Wallsocket (Director's Cut)",
+        "url": "https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Stupid (Can\u2019t run from the urge)",
+      "url": "https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI"
     },
     {
       "added_at": "2024-06-25 19:39:18",
@@ -221,6 +325,22 @@
       "url": "https://open.spotify.com/track/6ATE1hAfyR5yOmPALVJkpv"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/3pzHTRWnew90tyUXQ3NGQ5"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/7fwG4dJnvzUmFBguGsGznZ"
+    },
+    {
       "added_at": "2024-06-10 16:15:25",
       "album": {
         "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
@@ -269,6 +389,22 @@
       "url": "https://open.spotify.com/track/14LRQ1HVqHyGLEbzQym8I5"
     },
     {
+      "added_at": "2024-06-28 14:25:07",
+      "album": {
+        "name": "day dream",
+        "url": "https://open.spotify.com/album/78xnBHgBi0usbZCeC3xtPV"
+      },
+      "artists": [
+        {
+          "name": "Bayymack",
+          "url": "https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "day dream",
+      "url": "https://open.spotify.com/track/0gEWqEY7HCBp1JtcSGUIUI"
+    },
+    {
       "added_at": "2024-06-14 05:37:00",
       "album": {
         "name": "noxium",
@@ -303,6 +439,22 @@
       "duration_ms": 214210,
       "name": "My guy (Corporate shuffle)",
       "url": "https://open.spotify.com/track/66cB7DbtscHeh1yZDkzJNL"
+    },
+    {
+      "added_at": "2024-06-28 14:25:07",
+      "album": {
+        "name": "DDR (Dance Dance Revolution)",
+        "url": "https://open.spotify.com/album/4OPFTrKsaY0pbRaLxcFCLv"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 131413,
+      "name": "DDR (Dance Dance Revolution)",
+      "url": "https://open.spotify.com/track/71NY8f0OrMX3ty1oqwMTvi"
     },
     {
       "added_at": "2024-06-07 05:00:00",
@@ -401,22 +553,6 @@
       "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
     },
     {
-      "added_at": "2024-06-07 05:00:00",
-      "album": {
-        "name": "PINK LIKE SUKI",
-        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
-      },
-      "artists": [
-        {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "PINK LIKE SUKI",
-      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
-    },
-    {
       "added_at": "2024-04-26 05:00:00",
       "album": {
         "name": "Knock Yourself Out XD",
@@ -433,6 +569,26 @@
       "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
     },
     {
+      "added_at": "2024-06-28 14:25:07",
+      "album": {
+        "name": "Records",
+        "url": "https://open.spotify.com/album/5bdP826dbsN19WFnDrZPWA"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/0uLev2G8kxK1PH8Fsb9BHl"
+    },
+    {
       "added_at": "2024-06-07 05:00:00",
       "album": {
         "name": "Lesbians <3",
@@ -447,6 +603,22 @@
       "duration_ms": 126511,
       "name": "Lesbians <3",
       "url": "https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY"
+    },
+    {
+      "added_at": "2024-06-25 19:39:18",
+      "album": {
+        "name": "spit",
+        "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "spit",
+      "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
     },
     {
       "added_at": "2024-06-14 05:37:00",
@@ -485,6 +657,22 @@
       "url": "https://open.spotify.com/track/2bfLRUOPNdnLtdQpSQObhH"
     },
     {
+      "added_at": "2024-06-28 14:25:07",
+      "album": {
+        "name": "I may be a doe..",
+        "url": "https://open.spotify.com/album/7owgyZJpotoGptLy62DiM3"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "I may be a doe..",
+      "url": "https://open.spotify.com/track/7GcBq9TpieA2Wu1Rnwq1lX"
+    },
+    {
       "added_at": "2024-05-23 20:25:00",
       "album": {
         "name": "SPINNING",
@@ -515,22 +703,6 @@
       "duration_ms": 180157,
       "name": "Lavender Town",
       "url": "https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2"
-    },
-    {
-      "added_at": "2024-06-25 19:39:18",
-      "album": {
-        "name": "spit",
-        "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "spit",
-      "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
     },
     {
       "added_at": "2024-06-07 05:00:00",
@@ -619,6 +791,22 @@
       "duration_ms": 146225,
       "name": "crush",
       "url": "https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Tom Hardy",
+        "url": "https://open.spotify.com/album/2QtMzwPJtgl7E1JLnRIplW"
+      },
+      "artists": [
+        {
+          "name": "Michael Medrano",
+          "url": "https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Tom Hardy",
+      "url": "https://open.spotify.com/track/00X9aiLiNnar3pTRlNCcxL"
     },
     {
       "added_at": "2024-04-19 05:00:00",

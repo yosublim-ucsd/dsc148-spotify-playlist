@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127022,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
+    },
+    {
+      "album": {
         "name": "95",
         "url": "https://open.spotify.com/album/0XcJnYkImcj4rFMXcde7m6"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 137900,
       "name": "Aye Citch",
       "url": "https://open.spotify.com/track/6zyJ3S9wKZ2WQHl8Yz7k10"
@@ -1586,6 +1604,28 @@
       "duration_ms": 154536,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/7agBfdnarV5mFCouvfIVVj"
+    },
+    {
+      "album": {
+        "name": "DEADSTOCK",
+        "url": "https://open.spotify.com/album/4nv9Yo2Ij8Kit5XREOlXaR"
+      },
+      "artists": [
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301108,
+      "name": "BANG YOUR HEAD",
+      "url": "https://open.spotify.com/track/7u6J1agNGrSBvAByZRQu3J"
     },
     {
       "album": {
@@ -1878,6 +1918,28 @@
       "duration_ms": 147911,
       "name": "Big Dog",
       "url": "https://open.spotify.com/track/77bHKMRDnzubz8e9U3tsXl"
+    },
+    {
+      "album": {
+        "name": "From The Eastside With Love",
+        "url": "https://open.spotify.com/album/1ld4ZW84aNerie3A86Rn6r"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "Big Money (feat. John Mackk)",
+      "url": "https://open.spotify.com/track/4jhM4BeYzGFauZzhmYorej"
     },
     {
       "album": {
@@ -2774,7 +2836,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 132000,
       "name": "Can't Lose",
       "url": "https://open.spotify.com/track/057oooH7gg3ph1jaUjge0e"
@@ -3044,7 +3106,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 175377,
       "name": "CHILDREN OF THE SLUMS",
       "url": "https://open.spotify.com/track/6xTd7UidPoM8IQ7ONnqxaP"
@@ -3292,6 +3354,32 @@
       "duration_ms": 154536,
       "name": "Color Blind",
       "url": "https://open.spotify.com/track/1XkYQTEznERxX1SF7fIRBQ"
+    },
+    {
+      "album": {
+        "name": "Colors (feat. stoneda5th & Mozzy)",
+        "url": "https://open.spotify.com/album/3fNQh57LtHJ1uOq4oqPe9y"
+      },
+      "artists": [
+        {
+          "name": "Remble",
+          "url": "https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw"
+        },
+        {
+          "name": "stoneda5th",
+          "url": "https://open.spotify.com/artist/2aqNYQZI10b5GBQJBcxGj4"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254391,
+      "name": "Colors (feat. stoneda5th & Mozzy)",
+      "url": "https://open.spotify.com/track/4dStHgygFvGVwyFPkJLOZO"
     },
     {
       "album": {
@@ -3730,6 +3818,28 @@
       "duration_ms": 163018,
       "name": "Daboii Flexin",
       "url": "https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm"
+    },
+    {
+      "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210804,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
     },
     {
       "album": {
@@ -4598,7 +4708,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 209288,
       "name": "Durango (feat. EBK Young Joc)",
       "url": "https://open.spotify.com/track/45ovKdOkFhNULqbk8E2la7"
@@ -7236,7 +7346,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 177204,
       "name": "Heart Ain't Empty",
       "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
@@ -11159,6 +11269,28 @@
     },
     {
       "album": {
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/5MHYVwdkyPP0qzbTjpX5LA"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/7zJVl2Z4XsYoISPzRawLMr"
+    },
+    {
+      "album": {
         "name": "Next Weekend",
         "url": "https://open.spotify.com/album/42Xdb6VkU7kRBt4HbeJrrA"
       },
@@ -14120,7 +14252,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 120973,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/0n1HZntJwa0YJIRsthWrB3"
@@ -14358,6 +14490,28 @@
       "duration_ms": 110400,
       "name": "She Said (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR"
+    },
+    {
+      "album": {
+        "name": "LA Nights",
+        "url": "https://open.spotify.com/album/2zDpiDdNVACJmuA2G18EdH"
+      },
+      "artists": [
+        {
+          "name": "Joe Moses",
+          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129601,
+      "name": "She Said (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6im9OQto9Zin7ahSLum3NB"
     },
     {
       "album": {
@@ -14974,7 +15128,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 262909,
       "name": "SPILL",
       "url": "https://open.spotify.com/track/1IyMhF5MmEzKDfRSt4qpot"
@@ -15384,7 +15538,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 166530,
       "name": "Strapped Up",
       "url": "https://open.spotify.com/track/0TKPNO7dh3MkGLkSB1ju1D"
@@ -17490,6 +17644,36 @@
       "duration_ms": 171493,
       "name": "What It Cost Us",
       "url": "https://open.spotify.com/track/4sEcRUHvz58OD9PrRfzgtU"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DOIN!?",
+        "url": "https://open.spotify.com/album/36E65j8CJx5tsD240jbt5a"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Richie Rich",
+          "url": "https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220058,
+      "name": "WHAT WE DOIN!?",
+      "url": "https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq"
     },
     {
       "album": {

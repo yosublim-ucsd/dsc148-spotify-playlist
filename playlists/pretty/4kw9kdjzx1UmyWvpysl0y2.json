@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125923,
+  "num_followers": 125921,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASlzEx7gNLOj05Al82z5gasj1IVkqC",
+  "snapshot_id": "AAASmekuJV8TBMCrvyWQdXa3RhnhUkz/",
   "tracks": [
+    {
+      "added_at": "2024-06-28 09:29:37",
+      "album": {
+        "name": "is this real?",
+        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "real 4 me",
+      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
+    },
     {
       "added_at": "2024-06-27 08:23:30",
       "album": {
@@ -1143,26 +1163,6 @@
       "duration_ms": 164748,
       "name": "DO OR DIE",
       "url": "https://open.spotify.com/track/6nrDB1y3mQwgi1tHWJdr9X"
-    },
-    {
-      "added_at": "2024-04-10 17:00:38",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/52zDxxZIO61QgxP0TI256o"
-      },
-      "artists": [
-        {
-          "name": "UZ",
-          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
-        },
-        {
-          "name": "barnacle boi",
-          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

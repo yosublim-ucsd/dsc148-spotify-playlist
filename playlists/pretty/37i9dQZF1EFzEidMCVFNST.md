@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 357 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 355 songs - 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 67 | [Tem Que Ter Você \- Ao Vivo](https://open.spotify.com/track/4kGsTk6pmppL1k0HYq4a5H) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:18 |
 | 68 | [Ar Condicionado no 15](https://open.spotify.com/track/3dZw9O0EtGveuwRZv1yYqM) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [As Melhores](https://open.spotify.com/album/2DtXt6a4mvrtcGMj56c0H4) | 2:47 |
 | 69 | [Preguiça De Conhecer Gente Nova \- Ao Vivo](https://open.spotify.com/track/6PAQmABeUj7XcMqfjyaLBF) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 2:39 |
-| 70 | [Aí Você Chegou \- Ao Vivo](https://open.spotify.com/track/2CnbBhqGAzvPTBxm95pYLx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:41 |
-| 71 | [Por Mim Eu Te Deixava Agora \- Ao Vivo](https://open.spotify.com/track/3Z9YJd5bdrxRVWWFDcFOPW) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [\#Trintou \(Ao Vivo\)](https://open.spotify.com/album/6C8HEltnMup1vEJf7sOZEg) | 2:34 |
+| 70 | [Por Mim Eu Te Deixava Agora \- Ao Vivo](https://open.spotify.com/track/3Z9YJd5bdrxRVWWFDcFOPW) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [\#Trintou \(Ao Vivo\)](https://open.spotify.com/album/6C8HEltnMup1vEJf7sOZEg) | 2:34 |
+| 71 | [Aí Você Chegou \- Ao Vivo](https://open.spotify.com/track/2CnbBhqGAzvPTBxm95pYLx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:41 |
 | 72 | [Todo Santo Dia \- Ao Vivo em Brasília](https://open.spotify.com/track/6oawWaoP5QKnmWfsmnDGfh) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:01 |
 | 73 | [Aprende a Terminar \- Ao Vivo](https://open.spotify.com/track/1xk8JSykNpFxm98jP1AgZI) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Garota Vip Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/497c9omVEZEWxg5YcczG2g) | 2:59 |
 | 74 | [Colinho do Roceiro \- Ao Vivo](https://open.spotify.com/track/5tebpjHtHtnrEkAHDtP0Xi) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Léo & Raphael](https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T) | [Colinho do Roceiro \(Ao Vivo\)](https://open.spotify.com/album/0zGgwVeTZmOricqZdgJLA6) | 2:52 |
@@ -355,15 +355,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 345 | [Aperta o Play](https://open.spotify.com/track/3P2wbK5Ny9AQsQYLDk1w5Y) | [Andresson Costa](https://open.spotify.com/artist/4QX7GiW6GVynn3EaqEF4gg) | [Ao Vivo Em Entre Rios](https://open.spotify.com/album/44EcMGlbupi9n6zZUpzqQI) | 4:00 |
 | 346 | [Água na Boca](https://open.spotify.com/track/5VGIMfnMwloQ4oGN1oDFXn) | [Carlito Gomes](https://open.spotify.com/artist/7hyhcEL9wuINMTpglufzf1) | [Cachaceira](https://open.spotify.com/album/6pq5vEnY3q3phGgllEzwkm) | 3:13 |
 | 347 | [Não Me Engana](https://open.spotify.com/track/4KZj5VcUlfgqWhYNjtyeou) | [João Lucas & Matheus](https://open.spotify.com/artist/0zbKSFfih1ajZeZzmQP0NZ) | [O Mais Solteiro do Brasil](https://open.spotify.com/album/0CUeF8wb4wleCALh5r7ifY) | 2:53 |
-| 348 | [Nenhum Tempo](https://open.spotify.com/track/2yfoCcbOyGNkxWsrJRgqbv) | [Alessandro Maia](https://open.spotify.com/artist/3GzZtVg9uutebpuoFID1Ew) | [Alessandro Maia](https://open.spotify.com/album/5e7I0iIlxGGDMwhIvAkjqK) | 3:08 |
-| 349 | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/track/6sBvtoUiXy3fhgTvkln643) | [Raquel Carvalho](https://open.spotify.com/artist/5tTn59AuiKbHOo5KhGPUtk) | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/album/2gDRclbyCiPaXZ8A6zfMpc) | 2:40 |
-| 350 | [Estilo American Pie](https://open.spotify.com/track/0gf7roKbD6H1VUkyRu6GMZ) | [Ruann Veras](https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI) | [O Don Ruann](https://open.spotify.com/album/6DYbSEwv28Q98JQ0OT90vY) | 2:47 |
-| 351 | [Sai da Minha Vida](https://open.spotify.com/track/4JiLohBkjT1teY0TcIbmEQ) | [Marcelo Café](https://open.spotify.com/artist/7lwErY3K9TVRyF71Cz1nLX) | [Depois do Samba](https://open.spotify.com/album/6QV7T2mC6NrmXiR1V3JzQf) | 3:16 |
-| 352 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 |
-| 353 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
-| 354 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
-| 355 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 356 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
-| 357 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 348 | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/track/6sBvtoUiXy3fhgTvkln643) | [Raquel Carvalho](https://open.spotify.com/artist/5tTn59AuiKbHOo5KhGPUtk) | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/album/2gDRclbyCiPaXZ8A6zfMpc) | 2:40 |
+| 349 | [Estilo American Pie](https://open.spotify.com/track/0gf7roKbD6H1VUkyRu6GMZ) | [Ruann Veras](https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI) | [O Don Ruann](https://open.spotify.com/album/6DYbSEwv28Q98JQ0OT90vY) | 2:47 |
+| 350 | [Sai da Minha Vida](https://open.spotify.com/track/4JiLohBkjT1teY0TcIbmEQ) | [Marcelo Café](https://open.spotify.com/artist/7lwErY3K9TVRyF71Cz1nLX) | [Depois do Samba](https://open.spotify.com/album/6QV7T2mC6NrmXiR1V3JzQf) | 3:16 |
+| 351 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 |
+| 352 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
+| 353 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
+| 354 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
+| 355 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `AbVNVgAAAAAG1y5CdyhUdy7yyWw36RFK`
+Snapshot ID: `AbVS9gAAAAAzPHLIY1utz49cQ4klqO1H`

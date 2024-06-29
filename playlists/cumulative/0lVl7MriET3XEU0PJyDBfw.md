@@ -2,7 +2,7 @@
 
 ### [HOUSEIUM // BANGIN HOUSE](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Straight HOUSE! Submissions: houseiumpromo@gmail.com
+> House Music all life long \- \- \- Submissions: houseiumpromo@gmail.com
 
 241 songs - 12 hr 36 min
 

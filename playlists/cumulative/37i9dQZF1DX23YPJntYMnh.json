@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Hoverboard",
+        "url": "https://open.spotify.com/album/1aBRnuCVdqtsmY6CNh8Xjx"
+      },
+      "artists": [
+        {
+          "name": "No More Kings",
+          "url": "https://open.spotify.com/artist/71ayJn19k4ENbNmOmKKgfi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200660,
+      "name": "Hoverboard",
+      "url": "https://open.spotify.com/track/7y6UJdAif8CC0xdyGg2pDh"
+    },
+    {
+      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 285306,
       "name": "My Name Is Mud",
       "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"

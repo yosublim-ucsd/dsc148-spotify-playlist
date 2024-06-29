@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Chiquis",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Victoria La Mala",
   "name": "Las Chacalosas",
   "tracks": [
     {
@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "El Griffin",
+        "url": "https://open.spotify.com/album/6rqXOjhr66aJF4Nsl0k1Jt"
+      },
+      "artists": [
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "El Griffin",
+      "url": "https://open.spotify.com/track/3h1CpB3hH0ki4ucWAavccy"
+    },
+    {
+      "album": {
         "name": "El Honor",
         "url": "https://open.spotify.com/album/1oXdwFUoYH9IyTpPzTf268"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 195785,
       "name": "Espero",
       "url": "https://open.spotify.com/track/3jm1di95pWAEkdNdb2BUJA"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 224160,
       "name": "La Casa de la Esquina",
       "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 158760,
       "name": "LA QUE MANDA",
       "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
@@ -3017,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Literal",
+      "url": "https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw"
+    },
+    {
+      "album": {
         "name": "Llorar (Live)",
         "url": "https://open.spotify.com/album/7i1P8PYoNXRSpGVHABuOwD"
       },
@@ -3134,7 +3170,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 231750,
       "name": "Lo Que Ten\u00edas Conmigo",
       "url": "https://open.spotify.com/track/6EHwsYAqoCdj5vomuFLzIc"
@@ -3480,7 +3516,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 188087,
       "name": "Mentirme",
       "url": "https://open.spotify.com/track/7fGRXZ1ckRildOj0OCbHD3"
@@ -4051,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "No Gracias",
+        "url": "https://open.spotify.com/album/4e1LQVKvL4ZXhU9buBQuXI"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170804,
+      "name": "No Gracias",
+      "url": "https://open.spotify.com/track/7wFQBSmm08y2kVkqtoWO9m"
+    },
+    {
+      "album": {
         "name": "No Le Lloro A Cabrones",
         "url": "https://open.spotify.com/album/5kerJnaVyLPuxahQ2hhhn8"
       },
@@ -4326,6 +4380,24 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+    },
+    {
+      "album": {
+        "name": "Diosas en Texas",
+        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
     },
     {
       "album": {
@@ -6632,7 +6704,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-29",
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"

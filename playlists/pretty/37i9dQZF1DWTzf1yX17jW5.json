@@ -1,6 +1,6 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 9356,
+  "num_followers": 9368,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "4 PREZ",
+        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 149484,
+      "name": "4 PREZ",
+      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Dennis Daughter",
         "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "4 PREZ",
-        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 149484,
-      "name": "4 PREZ",
-      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
     },
     {
       "added_at": "2023-12-01 14:44:59",
