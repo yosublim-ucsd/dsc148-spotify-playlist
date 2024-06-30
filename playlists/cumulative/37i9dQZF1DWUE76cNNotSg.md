@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-493 songs - 1 day 7 hr 14 min
+494 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 | 2024-05-03 |  |
 | [Better Days](https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Better Days](https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd) | 3:03 | 2023-12-15 |  |
 | [Bibles](https://open.spotify.com/track/3OHpvUlcPZyBBPXrQLHUBi) | [Jaja Bu](https://open.spotify.com/artist/6iTFxnPZmX0HdWmL73irIa) | [Bibles](https://open.spotify.com/album/6xTikQVU7W7ePE5jMkukvl) | 4:33 | 2021-09-10 | 2022-07-29 |
+| [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-06-28 |  |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-03-08 | 2022-07-29 |
 | [Blue Ceiling](https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD) | 2:46 | 2021-03-08 | 2023-10-29 |
 | [Blue Eyes](https://open.spotify.com/track/20jhQ8xRFGeAr5y5PV8Rwe) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Lost In A New Era](https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM) | 3:28 | 2024-04-12 |  |
@@ -386,7 +387,7 @@
 | [Slowly](https://open.spotify.com/track/6kvbQejVPvLcWqBOVLmy81) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Matosic](https://open.spotify.com/artist/5yo76RIviltvqXHd1QcYOR) | [Slowly](https://open.spotify.com/album/1Wtivl62TYCi65MPFT96Zp) | 3:36 | 2020-12-22 | 2022-04-19 |
 | [Smoking Section](https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Smoking Section](https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK) | 3:48 | 2022-05-13 | 2022-06-04 |
 | [Snare \(feat\. Wild Eyed Boy\)](https://open.spotify.com/track/2c2HGeQ42GFZlWFtlHJkK0) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Wild Eyed Boy](https://open.spotify.com/artist/5Cce4VSXNg625g82MoGUwn) | [Snare \(feat\. Wild Eyed Boy\)](https://open.spotify.com/album/2x3KHVLImTsCNuEDLTvo3R) | 3:21 | 2020-12-22 | 2022-04-18 |
-| [So Good to Me \- Radio Edit](https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good to Me \(Radio Edit\)](https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj) | 3:46 | 2020-12-22 |  |
+| [So Good to Me \- Radio Edit](https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good to Me \(Radio Edit\)](https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj) | 3:46 | 2020-12-22 | 2024-06-30 |
 | [Some Kind of Static \- Alan Braxe Remix](https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Some Kind of Static \(Alan Braxe Remix\)](https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV) | 4:03 | 2024-02-23 | 2024-06-02 |
 | [Somethin Bout You \(feat\. Betsy\)](https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Somethin Bout You \(feat\. Betsy\)](https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy) | 3:35 | 2024-06-07 |  |
 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 | 2024-05-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Demae
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,756 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,767 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 46 | [KEEP U](https://open.spotify.com/track/2XOOK7f3WkvufIpJ37c3Sj) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [KEEP U](https://open.spotify.com/album/7F5oNDLDlq5IAtwqfEktGI) | 3:47 |
 | 47 | [Jacked](https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Jacked](https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn) | 4:27 |
 | 48 | [Where Did You Go?](https://open.spotify.com/track/1O27DCAXnWyNDhcRu3V9yg) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Where Did You Go?](https://open.spotify.com/album/0DZngoqCR4TsJIn41m54oW) | 2:54 |
-| 49 | [Old Man's Eyes \- Edit](https://open.spotify.com/track/6MSsRNrMc83o1q5AhPErzi) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Old Man's Eyes](https://open.spotify.com/album/5PpOowtc6JmfqsCxULHCGy) | 3:24 |
+| 49 | [Old Man's Eyes](https://open.spotify.com/track/6MSsRNrMc83o1q5AhPErzi) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Old Man's Eyes](https://open.spotify.com/album/5PpOowtc6JmfqsCxULHCGy) | 3:24 |
 | 50 | [bad days](https://open.spotify.com/track/3UpwtI9rQN9ClbPSN4Quvv) | [Rosa](https://open.spotify.com/artist/29RJXyTjyHr7EapAjoXxuW) | [bad days](https://open.spotify.com/album/4qoHNACiL9pgddqrYbz29r) | 3:29 |
 | 51 | [On My Side](https://open.spotify.com/track/3McZRhRJBxvMIv3toa4Nsw) | [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [On My Side](https://open.spotify.com/album/1q8W0rTJx9Gp8e1XYp4L13) | 3:23 |
 | 52 | [What's Goin' On](https://open.spotify.com/track/50fU4E7Qw7HAZarD8Q0PwJ) | [Amrit Kaur](https://open.spotify.com/artist/7G4R492mjIIVQbQPH2q6JS) | [What's Goin' On](https://open.spotify.com/album/1mhBmwtyla7pDtQ2FEkz8r) | 4:41 |

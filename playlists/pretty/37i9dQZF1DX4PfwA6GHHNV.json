@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17713,
+  "num_followers": 17715,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -731,30 +731,6 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
-        "name": "A\u00ed \u00e9 Bom Demais",
-        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
-      },
-      "artists": [
-        {
-          "name": "Garius",
-          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
-        },
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Deagaene",
-          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
-        }
-      ],
-      "duration_ms": 197667,
-      "name": "A\u00ed \u00e9 Bom Demais",
-      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 162338,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
+        "name": "A\u00ed \u00e9 Bom Demais",
+        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
+      },
+      "artists": [
+        {
+          "name": "Garius",
+          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Deagaene",
+          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
+        }
+      ],
+      "duration_ms": 197667,
+      "name": "A\u00ed \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
-        "name": "Proveito",
-        "url": "https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Proveito",
-      "url": "https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 155744,
       "name": "Doce",
       "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
+        "name": "Proveito",
+        "url": "https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Proveito",
+      "url": "https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs"
     },
     {
       "added_at": "2024-06-28 03:23:34",

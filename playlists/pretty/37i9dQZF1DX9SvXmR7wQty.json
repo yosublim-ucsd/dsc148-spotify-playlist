@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Hubert Lenoir, P'tit Belliveau",
-  "num_followers": 41149,
+  "num_followers": 41160,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -64,7 +64,7 @@
           "url": "https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1"
         }
       ],
-      "duration_ms": 157648,
+      "duration_ms": 156693,
       "name": "Fausse note",
       "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
     },
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Mise \u00e0 jour",
         "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
       },
@@ -395,26 +411,6 @@
       "duration_ms": 200360,
       "name": "Me prends pas la t\u00eate",
       "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Colis\u00e9e (feat. SDM)",
-        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Colis\u00e9e (feat. SDM)",
-      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+        "name": "Colis\u00e9e (feat. SDM)",
+        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 175842,
-      "name": "42",
-      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+      "duration_ms": 168746,
+      "name": "Colis\u00e9e (feat. SDM)",
+      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -483,18 +483,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Nothing Personal - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
       },
       "artists": [
         {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 178122,
-      "name": "Nothing Personal - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -519,6 +523,38 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Nothing Personal - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 178122,
+      "name": "Nothing Personal - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -539,42 +575,6 @@
       "duration_ms": 149000,
       "name": "Vrais salauds (feat. Gazo & Kore)",
       "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Mes Lov\u00e9s",
-        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
-      },
-      "artists": [
-        {
-          "name": "Ponko",
-          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 188717,
-      "name": "Mes Lov\u00e9s",
-      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "HASTA LA VISTA",
-        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "HASTA LA VISTA",
-      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Miss France",
+        "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Miss France",
+      "url": "https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "DLPDA",
         "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 170946,
       "name": "YOMB",
       "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Miss France",
-        "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Miss France",
-      "url": "https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Imad",
-        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Si \u00e7a va",
-      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Nazaland",
         "url": "https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173266,
       "name": "Une histoire",
       "url": "https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 157643,
-      "name": "Sentiments",
-      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "R\u00e9sister (What about Peace?)",
         "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 190840,
       "name": "R\u00e9sister (What about Peace?)",
       "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 157643,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Ton regard",
+        "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Ton regard",
+      "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "RECOMMENCE-MOI",
         "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
       },
@@ -895,26 +911,6 @@
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "GINGER BOY",
-        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 151410,
-      "name": "Bodyguard",
-      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

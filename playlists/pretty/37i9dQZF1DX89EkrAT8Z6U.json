@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1112149,
+  "num_followers": 1112793,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "chinatown!",
         "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
       },
@@ -687,54 +687,6 @@
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "50k",
-        "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
-      },
-      "artists": [
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "50k",
-      "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
-    },
-    {
-      "added_at": "2024-06-11 20:16:14",
-      "album": {
-        "name": "Plenty Guns",
-        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 86928,
-      "name": "Plenty Guns",
-      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Young Kid",
-        "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
-      },
-      "artists": [
-        {
-          "name": "IVOXYGEN",
-          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
-        }
-      ],
-      "duration_ms": 209057,
-      "name": "Young Kid",
-      "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
     },
     {
       "added_at": "2024-06-11 20:16:14",
@@ -757,20 +709,52 @@
       "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-06-11 20:16:14",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+        "name": "Plenty Guns",
+        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
       },
       "artists": [
         {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
+      "duration_ms": 86928,
+      "name": "Plenty Guns",
+      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "50k",
+        "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "50k",
+      "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Young Kid",
+        "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
+      },
+      "artists": [
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        }
+      ],
+      "duration_ms": 209057,
+      "name": "Young Kid",
+      "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Righteous",
-        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
-      },
-      "artists": [
-        {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
-        }
-      ],
-      "duration_ms": 163910,
-      "name": "Righteous",
-      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "S1KE",
         "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Righteous",
+        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
       "added_at": "2024-05-22 11:00:00",

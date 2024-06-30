@@ -1,12 +1,12 @@
 {
-  "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 7843,
+  "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 7855,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAABkNbu3ETQUCdyTF0KeF3lW",
+  "snapshot_id": "Zn39AAAAAABnC41iw00xww4otiu/A7ZN",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5min",
         "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 128181,
       "name": "5min",
       "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": null,
@@ -315,30 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PADRIM",
-        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "CONFIO",
-      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NTGM",
         "url": "https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 177977,
       "name": "SXO",
       "url": "https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PADRIM",
+        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "CONFIO",
+      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
     },
     {
       "added_at": null,
@@ -423,18 +423,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+        "name": "Poetisas no Topo 2",
+        "url": "https://open.spotify.com/album/7MyEI58jpFnvdNlVJS3UXX"
       },
       "artists": [
         {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
         }
       ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+      "duration_ms": 556662,
+      "name": "Poetisas no Topo 2",
+      "url": "https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI"
     },
     {
       "added_at": null,
@@ -511,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Xoxo",
         "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
       },
@@ -527,26 +567,6 @@
       "duration_ms": 130307,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tanto Faz",
-        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
-      },
-      "artists": [
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
     },
     {
       "added_at": null,
@@ -595,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Stars 2020 Pnpl",
         "url": "https://open.spotify.com/album/6e6K1bmmlzkYyN7YzHA1m2"
       },
@@ -631,30 +671,6 @@
       "duration_ms": 280000,
       "name": "Fresh Stars 2020 Pnpl",
       "url": "https://open.spotify.com/track/5ESaWLOFADAep7uQby52Hm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
-        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
-      },
-      "artists": [
-        {
-          "name": "Alligatorz",
-          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
-      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
     },
     {
       "added_at": null,
@@ -707,6 +723,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
+        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
+      },
+      "artists": [
+        {
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 175440,
+      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
+      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoota (feat. Lourena & Ebony)",
         "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
       },
@@ -727,30 +767,6 @@
       "duration_ms": 212580,
       "name": "Shoota (feat. Lourena & Ebony)",
       "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FEBRE AMARELA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
-      },
-      "artists": [
-        {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "FREESTYLE DAS FAIXA ROSA",
-      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
     },
     {
       "added_at": null,
@@ -799,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Dia \u00c9 Hoje",
         "url": "https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O"
       },
@@ -839,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Temporary Lover",
         "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
       },
@@ -875,6 +895,26 @@
       "duration_ms": 231367,
       "name": "Temporary Lover",
       "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -999,38 +1039,6 @@
       "duration_ms": 277500,
       "name": "STRIP",
       "url": "https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fresh Freestyle",
-        "url": "https://open.spotify.com/album/3Jh4xQPfR5azQKd536afSV"
-      },
-      "artists": [
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "TwoV",
-          "url": "https://open.spotify.com/artist/0t9nI5PtaKJIZbYdZWFWr3"
-        },
-        {
-          "name": "Bokage",
-          "url": "https://open.spotify.com/artist/4npdXEx9VZU1RG7vpAQEyh"
-        }
-      ],
-      "duration_ms": 163403,
-      "name": "Fresh Freestyle",
-      "url": "https://open.spotify.com/track/1yRHonnmAUQTa6gEEa10s2"
     }
   ],
   "unique_name": "This Is Ebony",

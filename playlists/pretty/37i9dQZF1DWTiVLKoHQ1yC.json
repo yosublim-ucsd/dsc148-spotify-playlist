@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 184097,
+  "num_followers": 184178,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        }
+      ],
+      "duration_ms": 395500,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "It's Love (Trippin')",
         "url": "https://open.spotify.com/album/2NWsEyK1jCTUINqSKWcVyA"
       },
@@ -747,22 +767,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
       },
       "artists": [
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "GIVVEN",
-          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         }
       ],
-      "duration_ms": 395500,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -807,22 +823,6 @@
       "duration_ms": 240316,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Incomplete Dreaming",
+        "url": "https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 252062,
+      "name": "Incomplete Dreaming",
+      "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0yzOf4gdeVEOK34yvtwJ0t"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 169272,
       "name": "Home",
       "url": "https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Incomplete Dreaming",
-        "url": "https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 252062,
-      "name": "Incomplete Dreaming",
-      "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+        "name": "Watching Over Me",
+        "url": "https://open.spotify.com/album/5n3A23v0indork34sZTUF3"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         }
       ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
+      "duration_ms": 205036,
+      "name": "Watching Over Me",
+      "url": "https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l"
     }
   ],
   "unique_name": "Melodic & Euphoric",

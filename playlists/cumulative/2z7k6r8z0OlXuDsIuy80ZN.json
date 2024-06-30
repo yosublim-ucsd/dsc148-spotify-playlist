@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "150 CANCIONES",
+        "url": "https://open.spotify.com/album/1RlhA6T45ecMGE8h6V5idp"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        },
+        {
+          "name": "Selecta",
+          "url": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127458,
+      "name": "150 CANCIONES",
+      "url": "https://open.spotify.com/track/7B8Oux2lcjPTfInXAbabbx"
+    },
+    {
+      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T"
       },
@@ -346,7 +368,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"

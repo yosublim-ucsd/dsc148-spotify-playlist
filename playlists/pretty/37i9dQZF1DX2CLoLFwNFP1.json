@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 38596,
+  "num_followers": 38619,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 223681,
+      "name": "Me Like Yuh (feat. Hoody) [Korean Version]",
+      "url": "https://open.spotify.com/track/40wb1DugiG4c4ztCt9oaWp"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
       },
@@ -2071,6 +2091,26 @@
       "duration_ms": 227040,
       "name": "V",
       "url": "https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
+        "name": "Yacht (K) (feat. Sik-K)",
+        "url": "https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 246284,
+      "name": "Yacht (K) [feat. Sik-K]",
+      "url": "https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -2095,26 +2135,6 @@
       "duration_ms": 235183,
       "name": "REBORN",
       "url": "https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 223681,
-      "name": "Me Like Yuh (feat. Hoody) [Korean Version]",
-      "url": "https://open.spotify.com/track/40wb1DugiG4c4ztCt9oaWp"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -2251,26 +2271,6 @@
       "duration_ms": 223026,
       "name": "All The Way Up",
       "url": "https://open.spotify.com/track/35MgPN6aHRqkISsSGwTSej"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "Yacht (K) (feat. Sik-K)",
-        "url": "https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 246284,
-      "name": "Yacht (K) [feat. Sik-K]",
-      "url": "https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45"
     },
     {
       "added_at": "2024-04-26 14:42:17",

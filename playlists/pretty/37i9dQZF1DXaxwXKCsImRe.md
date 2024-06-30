@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:1hqxH66i1ZwEBAkzORVRPW">Berre</a> \(cover\), The Indien, Siggy & D1ns en Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,692 likes - 33 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,694 likes - 33 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

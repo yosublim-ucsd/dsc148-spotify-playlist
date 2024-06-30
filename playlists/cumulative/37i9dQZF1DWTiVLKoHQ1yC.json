@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 305401,
       "name": "Lost Gravity",
       "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
@@ -3538,6 +3538,24 @@
       "duration_ms": 228387,
       "name": "Was It The Wind That Stirred The Trees",
       "url": "https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB"
+    },
+    {
+      "album": {
+        "name": "Watching Over Me",
+        "url": "https://open.spotify.com/album/5n3A23v0indork34sZTUF3"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205036,
+      "name": "Watching Over Me",
+      "url": "https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l"
     },
     {
       "album": {

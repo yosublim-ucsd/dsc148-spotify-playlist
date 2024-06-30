@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ne\-Yo x Steve Aoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,215 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,239 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 61 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 |
 | 62 | [Just Belong](https://open.spotify.com/track/5WMMg4VlGcAXkAJPtdNAZx) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Just Belong](https://open.spotify.com/album/2FhH0bdbOrY0cx8m5tig1z) | 4:00 |
 | 63 | [Without You](https://open.spotify.com/track/1FgLZpjPzXKL5L7ooNEYh6) | [MachiChunky](https://open.spotify.com/artist/2wDiLp8j4n3HWvhT5WmXGf), [Ales](https://open.spotify.com/artist/6HfUTsn7MNw2QfpyGYXQzE) | [Without You](https://open.spotify.com/album/1olTxxXycbWp0Hpmkl19HE) | 2:08 |
-| 64 | [Morning](https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Morning](https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu) | 3:04 |
+| 64 | [Morning](https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Morning](https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu) | 3:04 |
 | 65 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 |
 | 66 | [Antecedents](https://open.spotify.com/track/3m9WdpjH4i9dg56OebPNyC) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Antecedents](https://open.spotify.com/album/1nx3DFq6kAG6WGXv6032jr) | 3:36 |
 | 67 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 |

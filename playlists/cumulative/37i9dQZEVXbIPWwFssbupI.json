@@ -6802,7 +6802,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 174426,
       "name": "Ceux qu'on \u00e9tait",
       "url": "https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i"
@@ -16706,6 +16706,24 @@
       "duration_ms": 177705,
       "name": "Jefe",
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "album": {
+        "name": "Jeu De Jambes",
+        "url": "https://open.spotify.com/album/29VGHpvyLnZdJyX1aVkTXZ"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Jeu De Jambes",
+      "url": "https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac"
     },
     {
       "album": {

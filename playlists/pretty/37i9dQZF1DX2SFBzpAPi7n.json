@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: FTISLAND(FT\uc544\uc77c\ub79c\ub4dc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 237958,
+  "num_followers": 237978,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -779,34 +795,18 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
+        "name": "MOTH",
+        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
-        "name": "Troubleshooting",
-        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
+      "duration_ms": 154003,
+      "name": "Phase Me",
+      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -827,18 +827,34 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "MOTH",
-        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
+        "name": "Troubleshooting",
+        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
       },
       "artists": [
         {
-          "name": "WOOSUNG",
-          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
         }
       ],
-      "duration_ms": 154003,
-      "name": "Phase Me",
-      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
+      "duration_ms": 212774,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -891,38 +907,6 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Ordinary Days",
-      "url": "https://open.spotify.com/track/6nZqsYlVsAAN4Q0MHVnLis"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
         "name": "DPR ARCHIVES",
         "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 114380,
       "name": "zombie pop",
       "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/6nZqsYlVsAAN4Q0MHVnLis"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Good Bones",
-      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
         "name": "FLY HIGH PROJECT #2 'Rooftop'",
         "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Good Bones",
+      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 160280,
       "name": "Black Eye",
       "url": "https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
-        "name": "1st Single Album 'Harmony from Discord'",
-        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -1063,6 +1047,22 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
+        "name": "1st Single Album 'Harmony from Discord'",
+        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 176186,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 176186,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
-        "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
-      },
-      "artists": [
-        {
-          "name": "PARK BYEONG HOON",
-          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
-        }
-      ],
-      "duration_ms": 193502,
-      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
-      "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
         "name": "AMNESIA",
         "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
+        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
+        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 188532,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
-        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
+        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
+        "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
         }
       ],
-      "duration_ms": 188532,
-      "name": "We Go",
-      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
+      "duration_ms": 193502,
+      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
+      "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
     },
     {
       "added_at": "2024-06-28 06:38:34",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-06-28 06:38:34",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
-    },
-    {
-      "added_at": "2024-06-28 06:38:34",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 165700,
       "name": "Goodbye (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+    },
+    {
+      "added_at": "2024-06-28 06:38:34",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

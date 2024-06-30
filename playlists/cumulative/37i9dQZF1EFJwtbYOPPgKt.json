@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Do It For Myself",
+        "url": "https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD"
+      },
+      "artists": [
+        {
+          "name": "KAIN",
+          "url": "https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144030,
+      "name": "Do It For Myself",
+      "url": "https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY"
+    },
+    {
+      "album": {
         "name": "DONE WITH YOU",
         "url": "https://open.spotify.com/album/6mzgSAMmEMNbS93V92aLal"
       },

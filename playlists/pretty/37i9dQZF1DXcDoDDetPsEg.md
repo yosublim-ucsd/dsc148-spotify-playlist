@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Stefflon Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,709 likes - 72 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,698 likes - 72 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

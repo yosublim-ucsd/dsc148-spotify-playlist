@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 450422,
+  "num_followers": 450989,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Mob DLA",
-        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Mob DLA",
-      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "DON'T NEED",
         "url": "https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Gift Horse",
-        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+        "name": "Mob DLA",
+        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 249586,
-      "name": "Gift Horse",
-      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+      "duration_ms": 149397,
+      "name": "Mob DLA",
+      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -535,6 +519,38 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Gift Horse",
+        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "The Mosaic",
         "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
       },
@@ -547,38 +563,6 @@
       "duration_ms": 213387,
       "name": "Final Words",
       "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Gone West",
-        "url": "https://open.spotify.com/album/6rm78pZdijc1glSgW5NYXr"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 166618,
-      "name": "Gone West",
-      "url": "https://open.spotify.com/track/3NXT9lETZWovExuaUpRf0I"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -599,18 +583,34 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
       },
       "artists": [
         {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Gone West",
+        "url": "https://open.spotify.com/album/6rm78pZdijc1glSgW5NYXr"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 166618,
+      "name": "Gone West",
+      "url": "https://open.spotify.com/track/3NXT9lETZWovExuaUpRf0I"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "\u2026Is Committed",
-        "url": "https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R"
+        "name": "wallflower",
+        "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
       },
       "artists": [
         {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
         }
       ],
-      "duration_ms": 168619,
-      "name": "AUTO-HARMONIC ASS FIXATION",
-      "url": "https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL"
+      "duration_ms": 190000,
+      "name": "wallflower",
+      "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "\u2026Is Committed",
+        "url": "https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "duration_ms": 168619,
+      "name": "AUTO-HARMONIC ASS FIXATION",
+      "url": "https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Found a Job",
         "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
       },
@@ -775,18 +791,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "wallflower",
-        "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt"
       },
       "artists": [
         {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        },
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
         }
       ],
-      "duration_ms": 190000,
-      "name": "wallflower",
-      "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
+      "duration_ms": 197837,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -827,26 +847,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Sail Away",
-        "url": "https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt"
-      },
-      "artists": [
-        {
-          "name": "Two Trains Left",
-          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
-        },
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 197837,
-      "name": "Sail Away",
-      "url": "https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "God's Country / Body of Mine",
         "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Stormy Weather",
-        "url": "https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 153411,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 174521,
       "name": "worlds greatest emoter",
       "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Stormy Weather",
+        "url": "https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 153411,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "California Sober",
+        "url": "https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "ANTI-FUN PROPAGANDA",
         "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 224899,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "You're My Medicine",
         "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
       },
       "artists": [
         {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
         }
       ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1023,6 +1023,22 @@
       "duration_ms": 195195,
       "name": "Claw",
       "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1123,6 +1139,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Close Call",
         "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
       },
@@ -1155,22 +1187,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "KICKFLIP",
         "url": "https://open.spotify.com/album/19Nuh0OCQfLenVVjjk4K7E"
       },
@@ -1183,26 +1199,6 @@
       "duration_ms": 121000,
       "name": "KICKFLIP",
       "url": "https://open.spotify.com/track/0M1v8YmXRs2bqFy8X0c0di"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
-        "url": "https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm"
-      },
-      "artists": [
-        {
-          "name": "The Barbarians of California",
-          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
-        },
-        {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
-        }
-      ],
-      "duration_ms": 207154,
-      "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
-      "url": "https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1223,6 +1219,26 @@
       "duration_ms": 154561,
       "name": "Churro",
       "url": "https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
+        "url": "https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        },
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "duration_ms": 207154,
+      "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
+      "url": "https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1259,6 +1275,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Big Black X",
+        "url": "https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Big Black X",
+      "url": "https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Call A Doctor",
         "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
       },
@@ -1291,38 +1323,6 @@
       "duration_ms": 179684,
       "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
       "url": "https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Before I Die",
-        "url": "https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T"
-      },
-      "artists": [
-        {
-          "name": "Footballhead",
-          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Before I Die",
-      "url": "https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Orange Leaf",
-        "url": "https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Orange Leaf",
-      "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
     }
   ],
   "unique_name": "Today's Punk",

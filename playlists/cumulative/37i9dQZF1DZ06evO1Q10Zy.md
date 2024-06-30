@@ -2,7 +2,7 @@
 
 ### [This Is Babyface](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Q10Zy)
 
-> This is Babyface\. Todos os maiores hits em uma só playlist.
+> This is Babyface\. The essential tracks, all in one playlist.
 
 87 songs - 6 hr 15 min
 

@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAp0ilZDtUnNgsgcSTKpqo31EsJSBaa",
+  "snapshot_id": "AAAp05KsmH3nnNLev11fPdKeSPuyHefi",
   "tracks": [
     {
       "added_at": "2024-06-24 15:21:58",
@@ -2675,6 +2675,26 @@
       "duration_ms": 273719,
       "name": "Waited 4 U - Disco Lines Remix",
       "url": "https://open.spotify.com/track/5NvHVlACuvo9gxiurxPbxf"
+    },
+    {
+      "added_at": "2024-06-29 17:39:30",
+      "album": {
+        "name": "is this real?",
+        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "real 4 me",
+      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
     }
   ],
   "unique_name": "Moving Castle Monthly",

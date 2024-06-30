@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jotaerre
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,583 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,622 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi LV](https://open.spotify.com/track/5LxmO9KnIpqrG8LNqtFd0D) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [Mi LV](https://open.spotify.com/album/5lsb5kf8XXC4a1pCHPfzIq) | 3:22 |
 | 2 | [Razones](https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Razones](https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY) | 3:42 |
 | 3 | [IMPACTO](https://open.spotify.com/track/1lkCZOBF9iTR84dTDbNWzQ) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G) | [IMPACTO](https://open.spotify.com/album/3po5AgpyQ3ZXm1hRGyFtQ6) | 2:57 |
-| 4 | [PERROS&GATA$](https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Saiko](https://open.spotify.com/artist/3mTZeBUkzqhE0Qk82ET3Yg) | [PERROS&GATA$](https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg) | 2:59 |
+| 4 | [PERROS&GATA$](https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [PERROS&GATA$](https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg) | 2:59 |
 | 5 | [Aura](https://open.spotify.com/track/24boxXUqNKnQuu0HFXb7Xt) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Aura](https://open.spotify.com/album/2cgSOPL9CMDbTbRZy5qBI1) | 3:54 |
 | 6 | [Embuste](https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Embuste](https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5) | 2:39 |
 | 7 | [TURRA & BANDIDA](https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURRA & BANDIDA](https://open.spotify.com/album/7nr3Uu80UMSuJT8RAYbzWb) | 2:36 |

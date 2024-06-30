@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7oAskcd3mX9ZzxMPFHYqoN">Andrew Ripp</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,591 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,661 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Run](https://open.spotify.com/track/4RnsD99DtNmGRHPzEiWULv) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Run](https://open.spotify.com/album/0T6vGfjrTDdpxV5WS1VvfZ) | 3:23 |
 | 2 | [Believe On Jesus \(feat\. Zane Black\)](https://open.spotify.com/track/2PmOVuewThUgyTg7CpjIbA) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Zane Black](https://open.spotify.com/artist/6820zXrv14B4wUqKiGWHTy) | [Jesus Music Deluxe](https://open.spotify.com/album/22269npvtP1J11HLRYouyG) | 4:10 |
 | 3 | [Open Up The Gates](https://open.spotify.com/track/7CtnDUvsmFcH0fRU1Tr0Qf) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Open Up The Gates](https://open.spotify.com/album/0oU3oj1ATcx4WUMyhhTK68) | 4:11 |
-| 4 | [Shout It Down](https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Shout It Down](https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR) | 2:58 |
+| 4 | [Shout It Down](https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [SHOUT IT DOWN](https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR) | 2:58 |
 | 5 | [Do It Again](https://open.spotify.com/track/5ob0IzNcVF3zBBodrAMWBk) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Do It Again](https://open.spotify.com/album/2zIYucTp5hSlLCn65ngiZt) | 2:51 |
 | 6 | [Upside Down](https://open.spotify.com/track/0FGJABa7hPpCE3vyCTCYgB) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Upside Down](https://open.spotify.com/album/6nCXPcL6WMtggDcB8XBqQB) | 2:57 |
 | 7 | [As I Am](https://open.spotify.com/track/64Z4Mc4eSOasJt7DAmDqaE) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [As I Am](https://open.spotify.com/album/3iEegTIr5qwEP2iQmvUMjY) | 3:42 |

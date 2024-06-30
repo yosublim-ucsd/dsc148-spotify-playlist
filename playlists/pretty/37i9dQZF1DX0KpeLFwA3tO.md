@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: X
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,369 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,436 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 4 | [exposed](https://open.spotify.com/track/0ORsUqaBFcGfAQSvyUvC35) | [braveweather](https://open.spotify.com/artist/3Yd3FEjDFcsz18WpgupkwD), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [exposed](https://open.spotify.com/album/7cSgymMF8HrFfq9eeeA8TI) | 2:47 |
 | 5 | [Rock Bottom \- Demo](https://open.spotify.com/track/1BKg6PWpynctmDnxopUFYu) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Two Demos](https://open.spotify.com/album/2VjFQvMuzBpLTMB4TUr4RX) | 2:13 |
 | 6 | [Persona](https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW) | 2:12 |
-| 7 | [Shiver](https://open.spotify.com/track/7jBFe9JOZNQz0DY0Zjr8tP) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Hell or Highwater](https://open.spotify.com/album/0qHijxp6yiHppqTGBJ5hTC) | 3:04 |
+| 7 | [Shiver](https://open.spotify.com/track/7jBFe9JOZNQz0DY0Zjr8tP) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Hell Or Highwater](https://open.spotify.com/album/0qHijxp6yiHppqTGBJ5hTC) | 3:04 |
 | 8 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
 | 9 | [I Wish You Would](https://open.spotify.com/track/0NCCG6BDOiz27Hf8BvRMV4) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [I Wish You Would](https://open.spotify.com/album/0haZW0bIzF1SFVd9leLLzD) | 3:01 |
 | 10 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/album/5oHRBkovo2MwTnjorK3d16) | 2:05 |

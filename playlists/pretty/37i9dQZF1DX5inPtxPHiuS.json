@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85984,
+  "num_followers": 85990,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Un Eterno Loop Sin Fin",
         "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 229671,
       "name": "Un Eterno Loop Sin Fin",
       "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Neum\u00e1ticos",
-        "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
-      },
-      "artists": [
-        {
-          "name": "Rev\u00f3lver Plateado",
-          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
-        }
-      ],
-      "duration_ms": 225456,
-      "name": "Neum\u00e1ticos",
-      "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Voy a Olvidarme de M\u00ed",
         "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 213136,
       "name": "Voy a Olvidarme de M\u00ed",
       "url": "https://open.spotify.com/track/4be75554sgPXfbKdOeLVzI"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Neum\u00e1ticos",
+        "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00f3lver Plateado",
+          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
+        }
+      ],
+      "duration_ms": 225456,
+      "name": "Neum\u00e1ticos",
+      "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Antes de Que Sea Muy Tarde",
-        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
-      },
-      "artists": [
-        {
-          "name": "Sismo",
-          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Antes de Que Sea Muy Tarde",
-      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "La Clase Que Trabaja",
         "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
       },
@@ -775,6 +759,38 @@
       "duration_ms": 187500,
       "name": "La Clase Que Trabaja",
       "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Antes de Que Sea Muy Tarde",
+        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
+      },
+      "artists": [
+        {
+          "name": "Sismo",
+          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Antes de Que Sea Muy Tarde",
+      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -807,22 +823,6 @@
       "duration_ms": 276000,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2023-10-07 00:35:47",

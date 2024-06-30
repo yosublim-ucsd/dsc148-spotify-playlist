@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,936 likes - 103 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,979 likes - 103 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 40 | [Bare min](https://open.spotify.com/track/7ffizU8dmkkx6Mxf0y8lBV) | [INGRID](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Bare min](https://open.spotify.com/album/2H4TcFS5gS0yjY59fJISRf) | 2:53 |
 | 41 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 |
 | 42 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 |
-| 43 | [Som hun er alene](https://open.spotify.com/track/3FSKJQ7rgx3IfRlVgVMvSr) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [som hun er alene](https://open.spotify.com/album/4U7XQsojVF3OTfqNuUvgBr) | 1:55 |
+| 43 | [som hun er alene](https://open.spotify.com/track/3FSKJQ7rgx3IfRlVgVMvSr) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [som hun er alene](https://open.spotify.com/album/4U7XQsojVF3OTfqNuUvgBr) | 1:55 |
 | 44 | [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 |
 | 45 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
 | 46 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 92 | [And It’s Still Alright](https://open.spotify.com/track/2BRl3UjOMwtVasu6gCqY6s) | [Aleksander With](https://open.spotify.com/artist/1F5oUDtMU054ae13hPzBVj) | [And It’s Still Alright](https://open.spotify.com/album/02wNHA4vI4OvxOTXOyM6VR) | 2:57 |
 | 93 | [99](https://open.spotify.com/track/1lXSpURYt6A3cAB9iptzma) | [Mattis](https://open.spotify.com/artist/2I6SRX30aAGgVhi5dpDi2o) | [99](https://open.spotify.com/album/0UTyFG69nqcF5BWiGYKljZ) | 2:51 |
 | 94 | [Play With It](https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Play With It](https://open.spotify.com/album/149jwSDkfMGFnPf0saue6R) | 2:22 |
-| 95 | [cinammon hearts](https://open.spotify.com/track/65XOnyB3Qd96L2hQ1qyeVi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [cinammon hearts](https://open.spotify.com/album/5nB9WhwyYR0dImbpSlM6yN) | 1:55 |
+| 95 | [cinnamon hearts](https://open.spotify.com/track/65XOnyB3Qd96L2hQ1qyeVi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [cinnamon hearts](https://open.spotify.com/album/5nB9WhwyYR0dImbpSlM6yN) | 1:55 |
 | 96 | [Ta min hånd](https://open.spotify.com/track/56FF7RzSWNCe5rbMO5NlJV) | [CHEKK](https://open.spotify.com/artist/4xduwtxS5FUkYJdoeMhoOx) | [Synspunkt](https://open.spotify.com/album/12CUoUgkurFcCaxv4WYbjn) | 2:51 |
 | 97 | [Juli](https://open.spotify.com/track/2bFeVr8AgoDLo9D9dPCCp6) | [EMÍL](https://open.spotify.com/artist/1unKeYt2c6KgL0MQEOxuom) | [Juli](https://open.spotify.com/album/066iORNXCsMlQ25fYZS5F7) | 2:16 |
 | 98 | [Sound Is Gone](https://open.spotify.com/track/3DNFhlSVKh2Ikf1HQFDjvh) | [Zekl](https://open.spotify.com/artist/2SHXLydniWMUiAR6eIuS5u), [Ben Dante](https://open.spotify.com/artist/4QmAQnyiZd2vALuEY3AIc7) | [Sound Is Gone](https://open.spotify.com/album/1wEEyIwFwMcGiWG8HHkMyL) | 3:28 |

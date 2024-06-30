@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Yunk Vino
 
-1,265 songs - 2 day 14 hr 49 min
+1,266 songs - 2 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Arquivos](https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Arquivos](https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9) | 2:15 | 2024-03-29 | 2024-04-13 |
 | [ARRUME\-SE COMIGO](https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [ARRUME\-SE COMIGO](https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa) | 3:46 | 2023-12-22 | 2024-02-03 |
 | [Artista](https://open.spotify.com/track/5UJO9wrnfMDQPdaEQ6aSzm) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Jafari](https://open.spotify.com/artist/3sZ3yyZzWVAf2GrH0Ixdpr), [Junin MC](https://open.spotify.com/artist/2PbmmCTZF7azIxkHxGrOZ9), [Alva](https://open.spotify.com/artist/3h5yiq2bi79gyIVwgAWR9n), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [Artista](https://open.spotify.com/album/0R1tZCO6vMxuNwiWpGBXAf) | 3:48 | 2023-02-10 | 2023-02-25 |
+| [As Ruas Chamam](https://open.spotify.com/track/0Sk2ZsTdzuaK7rQQTkPf2V) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Bolin Batidas](https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j) | [As Ruas Chamam](https://open.spotify.com/album/4hIzV7ARZ7hy6djIXZdAC7) | 2:28 | 2024-06-29 |  |
 | [Assalto](https://open.spotify.com/track/6k5q9iTIXChxyqo4B8IKTD) | [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Mc Tikão](https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Yndjão](https://open.spotify.com/artist/17MauDKLFFguNNCvF2d7FV), [Dkria](https://open.spotify.com/artist/2ePVbElTLzV4pYWxwuTciH) | [Assalto](https://open.spotify.com/album/3lvnOk6EIPjIBeryA5tfRL) | 3:35 | 2022-10-21 | 2022-11-12 |
 | [Assault \(Joias no Pulso\)](https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [Assault \(Joias no Pulso\)](https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs) | 4:34 | 2023-04-07 | 2023-10-14 |
 | [Assunto Particular](https://open.spotify.com/track/44v9eNGRuwFDXzPWu2GkHP) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Assunto Particular](https://open.spotify.com/album/2ul05472ZKutZcmEx4Rk2j) | 4:08 | 2023-03-24 | 2023-06-17 |

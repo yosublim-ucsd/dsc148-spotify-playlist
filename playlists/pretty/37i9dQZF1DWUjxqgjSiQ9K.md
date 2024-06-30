@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs">Tommy Royale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,069 likes - 96 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,149 likes - 96 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kingdom](https://open.spotify.com/track/12EweXE1SWPTqeLYK01o75) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Kingdom](https://open.spotify.com/album/3fOmNTxSmX27DuRdK2RG56) | 2:14 |
 | 2 | [Full Color](https://open.spotify.com/track/0exfmFzo0b90QsYiu4Db6h) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Full Color](https://open.spotify.com/album/6rPs4EXBOmSGienNcx8rwa) | 2:23 |
-| 3 | [Invencible](https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Jadi](https://open.spotify.com/artist/2ryZCRipjteUrsmAgFdUWN), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Invencible](https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw) | 3:37 |
+| 3 | [Invencible](https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jadi](https://open.spotify.com/artist/2ryZCRipjteUrsmAgFdUWN) | [Invencible](https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw) | 3:37 |
 | 4 | [mejor que ayer](https://open.spotify.com/track/1lPCV44nVVAElAxIdyRU8d) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [mejor que ayer](https://open.spotify.com/album/4GSVmHW4lN3IOkXbDFo3cQ) | 3:06 |
 | 5 | [Libre](https://open.spotify.com/track/4A9skme3Jq3bpXoMJx1oYd) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Libre](https://open.spotify.com/album/47QUXdsNTNcn2eL65d6yWV) | 4:19 |
 | 6 | [Locumbia](https://open.spotify.com/track/2poawM0VrjdTWqK9Ib2YdG) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Locumbia](https://open.spotify.com/album/44v05UvKsiiI1fSbkxefb0) | 3:15 |

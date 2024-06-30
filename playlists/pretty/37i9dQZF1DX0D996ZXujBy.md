@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D996ZXujBy.md) - [plain]
 
 > All the songs from the new setlist for Taylor Swift \| The Eras Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,240 likes - 44 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,790 likes - 44 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

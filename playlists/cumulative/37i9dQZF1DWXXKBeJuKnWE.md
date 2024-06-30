@@ -2,7 +2,7 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: IDLES
+> The home for heavy music\. Cover: IDLES \#Glastonbury2024
 
 364 songs - 21 hr 47 min
 

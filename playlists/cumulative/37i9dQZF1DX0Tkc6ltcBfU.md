@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Don Toliver
 
-1,360 songs - 2 day 16 hr 36 min
+1,361 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 | 2023-02-10 | 2023-04-01 |
 | [Momma's Love](https://open.spotify.com/track/4VKcsU0q35soshCh22i17a) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Momma's Love](https://open.spotify.com/album/4WfAf1lx0yhB0fZy9CNSKX) | 2:28 | 2022-05-06 | 2022-05-28 |
 | [Mona Lisa](https://open.spotify.com/track/10QdSJJJflPZ0k6izpUEYG) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Mona Lisa](https://open.spotify.com/album/7cd4kzNVpOjsOCValmZX7w) | 2:20 | 2022-01-21 | 2022-02-05 |
+| [Money Counter \(feat\. Travis Scott\)](https://open.spotify.com/track/0AELJnBLXD2eACfoRFYNOK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:18 | 2024-06-30 |  |
 | [Monster](https://open.spotify.com/track/48SOSe8sqpQuQqDdzQ56iB) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Monster](https://open.spotify.com/album/05xL551uw7yJyDWjM0LAF9) | 2:36 | 2023-05-12 | 2023-06-17 |
 | [Monsters Inc\. \(feat\. Future\)](https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 3:03 | 2024-06-07 |  |
 | [mop \(feat\. Young Thug\)](https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 3:05 | 2022-01-07 | 2022-01-22 |
@@ -795,7 +796,7 @@
 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 | 2023-02-17 | 2023-03-04 |
 | [Ndrangheta \(feat\. Sett\)](https://open.spotify.com/track/2fYtSj7kqxS4pXZPNH0uD5) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Chosen 1K](https://open.spotify.com/album/2MZMbxoGvgp5cQjPXcQZYZ) | 2:15 | 2023-11-03 | 2023-11-25 |
 | [Neck of the Woods](https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Neck of the Woods](https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI) | 2:09 | 2023-06-02 | 2023-07-08 |
-| [Neighborhood \(feat\. Lil Jairmy\)](https://open.spotify.com/track/73NzrjMqjG2SttXgXqUToG) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:29 | 2024-06-28 |  |
+| [Neighborhood \(feat\. Lil Jairmy\)](https://open.spotify.com/track/73NzrjMqjG2SttXgXqUToG) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:29 | 2024-06-28 | 2024-06-30 |
 | [Neighborhood Superstar](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Neighborhood Superstar](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 | 2022-02-28 | 2022-04-09 |
 | [Neighborhood Trapstars](https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Neighborhood Trapstars](https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD) | 2:33 | 2023-01-06 | 2023-02-11 |
 | [Neighbors Know My Name](https://open.spotify.com/track/4H9pCqPKc11WCbfILZSYTt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 1:44 | 2022-02-04 | 2022-04-02 |

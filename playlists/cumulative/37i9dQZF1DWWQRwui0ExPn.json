@@ -8251,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET"
+      },
+      "artists": [
+        {
+          "name": "Quinn Rain",
+          "url": "https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149504,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux"
+    },
+    {
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -13780,7 +13798,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 117265,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/0iFP2XOudAZd3Zjns28ncm"

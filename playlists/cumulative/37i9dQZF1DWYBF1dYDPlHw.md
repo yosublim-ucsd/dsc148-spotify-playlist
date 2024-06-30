@@ -2,7 +2,7 @@
 
 ### [Sing\-Along Indie Hits](https://open.spotify.com/playlist/37i9dQZF1DWYBF1dYDPlHw)
 
-> All killer, no filler, 100% hits\. Cover: Bombay Bicycle Club & Damon Albarn
+> All killer, no filler, 100% hits\. Cover: Bombay Bicycle Club & Damon Albarn \#Glastonbury2024
 
 266 songs - 16 hr 26 min
 

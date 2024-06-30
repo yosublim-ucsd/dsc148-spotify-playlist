@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 174725,
       "name": "Eu Tiro \u00c9 Onda - Remix",
       "url": "https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 180000,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN"
@@ -2226,8 +2226,12 @@
       },
       "artists": [
         {
-          "name": "Oriente, Rebeca",
-          "url": "https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE"
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
         }
       ],
       "date_added": "2022-03-25",

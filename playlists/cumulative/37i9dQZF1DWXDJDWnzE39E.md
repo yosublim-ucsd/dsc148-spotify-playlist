@@ -2,7 +2,7 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women opening up the pit\. Cover: Cassyette
+> A salute to all of the women opening up the pit\. Cover: Voice of Baceprot \#Glastonbury2024
 
 341 songs - 21 hr 46 min
 

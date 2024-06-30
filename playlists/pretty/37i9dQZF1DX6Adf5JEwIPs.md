@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Yuridia
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,794 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,860 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 4 | [Pa' Que No Me Cuenten](https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Pa' Que No Me Cuenten](https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa) | 2:07 |
 | 5 | [Caricias de Prepago](https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Caricias de Prepago](https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH) | 2:52 |
 | 6 | [Modo Diablo](https://open.spotify.com/track/7ae6qFfW0V7l6mRzFwWNip) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Modo Diablo](https://open.spotify.com/album/6iXhagqX8UDiFRHRm5QkXc) | 2:10 |
-| 7 | [Ya la Supe Hacer](https://open.spotify.com/track/01r4caKLqWwKBGlcjuzT9d) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Joaqun Medina](https://open.spotify.com/artist/116gT77X9EyBDPQv9mNj8L) | [Ya la Supe Hacer](https://open.spotify.com/album/4iUAJgOLrD9aiN4i1TB3ut) | 2:30 |
+| 7 | [Ya la Supe Hacer](https://open.spotify.com/track/01r4caKLqWwKBGlcjuzT9d) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya la Supe Hacer](https://open.spotify.com/album/4iUAJgOLrD9aiN4i1TB3ut) | 2:30 |
 | 8 | [Te Daré](https://open.spotify.com/track/4HzyiVGDxeFvyKgIqmkCr3) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Te Daré](https://open.spotify.com/album/3xsdglb6MZVFSOWqqTDetC) | 2:59 |
 | 9 | [Payday](https://open.spotify.com/track/2A2D1vAidDetUEwcYJq1WJ) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Payday](https://open.spotify.com/album/0TRbni7JUj9ItpSZ40ZWR4) | 3:03 |
 | 10 | [Me Porto Bonito](https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Porto Bonito](https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN) | 3:02 |

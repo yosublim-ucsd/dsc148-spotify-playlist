@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: BADVILLAIN\(배드빌런\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,959 likes - 225 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,019 likes - 225 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 160 | [Festival](https://open.spotify.com/track/72HmPpJeSq2frfUreGqqwt) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Festival](https://open.spotify.com/album/6vUaVArvrf9mU4XxHa8xan) | 3:18 |
 | 161 | [avoid!](https://open.spotify.com/track/49PFVGmUj3kS6BovxrAN5m) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [sociavoidance](https://open.spotify.com/album/6QvwA1sCAvYGRxLzTctp8v) | 3:16 |
 | 162 | [When it rains](https://open.spotify.com/track/6JCGjeemBjPSOfRAgg9AWh) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [When it rains](https://open.spotify.com/album/71pp5ZM8UuxP1ZTABdrOoY) | 4:15 |
-| 163 | [Killawhale \(feat\. Keith Ape & Jay Allday\)](https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS) | [KG](https://open.spotify.com/artist/7zX4qBPeqfbRWtLdr1DXzG), [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [JayAllDay](https://open.spotify.com/artist/3tCFRVyQtXCCDS2em4V8wv) | [Hardhitters](https://open.spotify.com/album/4fElVO8jcZuvUQCqfatlIH) | 3:31 |
+| 163 | [Killawhale \(feat\. Keith Ape & JayAllday\)](https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS) | [KG](https://open.spotify.com/artist/7zX4qBPeqfbRWtLdr1DXzG), [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [JayAllDay](https://open.spotify.com/artist/3tCFRVyQtXCCDS2em4V8wv) | [Hardhitters](https://open.spotify.com/album/4fElVO8jcZuvUQCqfatlIH) | 3:31 |
 | 164 | [Trip \(Come travel with me, Mom? X Crush\) \(Original Soundtrack\)](https://open.spotify.com/track/06bUU8Xl4yGPlxgvM6n82t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Trip \(Come travel with me, Mom? X Crush\) \(Original Soundtrack\)](https://open.spotify.com/album/7M4VsGDKBvfULf8ETQbxTH) | 2:47 |
 | 165 | [Galleria \(feat\. YLN Foreign\)](https://open.spotify.com/track/01TAX4shfADEKYjv3GHo9o) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Galleria](https://open.spotify.com/album/1UVo0e9brkRsFwg03IrvgY) | 2:53 |
 | 166 | [Soon](https://open.spotify.com/track/4WAeVKbY7Vhj6uU5vI3juf) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Soon](https://open.spotify.com/album/7e1dTwfn9XInbx5Fxnh7lM) | 3:42 |

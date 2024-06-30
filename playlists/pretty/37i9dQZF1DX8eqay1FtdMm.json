@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Ha Dong Qn(\ud558\ub3d9\uade0)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 379936,
+  "num_followers": 379896,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 244128,
       "name": "\ubcf4\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I\u2032m Sorry",
-      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186333,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 150520,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 216013,
       "name": "I'll Always Be With You",
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 150520,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -947,7 +947,7 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "haeyo (2022)",
+        "name": "Haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
       "artists": [
@@ -957,7 +957,7 @@
         }
       ],
       "duration_ms": 238071,
-      "name": "haeyo (2022)",
+      "name": "Haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
     },
     {
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "Peach Tree",
-      "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
         "name": "Go for a Walk",
         "url": "https://open.spotify.com/album/2uFpFHLMj1SpHx3iP4wDLJ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 275928,
       "name": "Go for a Walk",
       "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
+        "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "Peach Tree",
+      "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "Hug Me",
-        "url": "https://open.spotify.com/album/4l2KIzsKsMlYzn9TNS458F"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 166935,
-      "name": "Hug Me",
-      "url": "https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
         "name": "As always",
         "url": "https://open.spotify.com/album/6tMA69q44j87tm123uSouo"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 229573,
       "name": "As always",
       "url": "https://open.spotify.com/track/2vwbkdH4deV947bonfeKI4"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
+        "name": "Hug Me",
+        "url": "https://open.spotify.com/album/4l2KIzsKsMlYzn9TNS458F"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 166935,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-06-24 05:41:55",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-06-24 05:41:55",
       "album": {
-        "name": "Fall in Fall",
-        "url": "https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 231775,
-      "name": "Fall in Fall",
-      "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
-    },
-    {
-      "added_at": "2024-06-24 05:41:55",
-      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
+    },
+    {
+      "added_at": "2024-06-24 05:41:55",
+      "album": {
+        "name": "Fall in Fall",
+        "url": "https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 231775,
+      "name": "Fall in Fall",
+      "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
     },
     {
       "added_at": "2024-06-24 05:41:55",

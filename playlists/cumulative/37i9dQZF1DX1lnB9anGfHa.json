@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 275906,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
@@ -2980,6 +2980,28 @@
       "duration_ms": 182360,
       "name": "One at a Time",
       "url": "https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN"
+    },
+    {
+      "album": {
+        "name": "Jinxed by Being",
+        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
+      },
+      "artists": [
+        {
+          "name": "Shackleton",
+          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
+        },
+        {
+          "name": "Six Organs Of Admittance",
+          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553600,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
     },
     {
       "album": {

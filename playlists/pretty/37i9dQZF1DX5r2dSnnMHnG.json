@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 7088,
+  "num_followers": 7093,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "A daily adventurer",
-        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Where the Wind Rises",
-      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "our, spring days",
-        "url": "https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "spring days",
-      "url": "https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1011,26 +995,18 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "Paints (feat. 1ho)",
-        "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
+        "name": "our, spring days",
+        "url": "https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt"
       },
       "artists": [
         {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        },
-        {
-          "name": "GODAK",
-          "url": "https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn"
-        },
-        {
-          "name": "1ho",
-          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
         }
       ],
-      "duration_ms": 182315,
-      "name": "Paints (feat. 1ho)",
-      "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
+      "duration_ms": 188841,
+      "name": "spring days",
+      "url": "https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -1063,6 +1039,30 @@
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "Paints (feat. 1ho)",
+        "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "GODAK",
+          "url": "https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        }
+      ],
+      "duration_ms": 182315,
+      "name": "Paints (feat. 1ho)",
+      "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "the 24th spring",
+        "url": "https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP"
+      },
+      "artists": [
+        {
+          "name": "jeong min joo",
+          "url": "https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk"
+        }
+      ],
+      "duration_ms": 241749,
+      "name": "the 24th spring",
+      "url": "https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "Night thinking 'bout you",
         "url": "https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 184615,
       "name": "Stay With Me (feat. Brick)",
       "url": "https://open.spotify.com/track/3hMhTQuyerdLRPATMY61CR"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "the 24th spring",
-        "url": "https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP"
-      },
-      "artists": [
-        {
-          "name": "jeong min joo",
-          "url": "https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk"
-        }
-      ],
-      "duration_ms": 241749,
-      "name": "the 24th spring",
-      "url": "https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk"
     },
     {
       "added_at": "2024-05-09 15:41:17",

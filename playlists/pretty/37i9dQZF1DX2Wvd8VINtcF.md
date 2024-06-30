@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Charli xcx and Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,893 likes - 113 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,910 likes - 113 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

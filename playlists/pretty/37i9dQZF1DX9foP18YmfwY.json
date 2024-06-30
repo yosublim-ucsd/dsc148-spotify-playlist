@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Padre Marcelo Rossi, Simone Mendes",
-  "num_followers": 323841,
+  "num_followers": 323938,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Cantai a Deus Com Alegria 2023",
+        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 308875,
+      "name": "Louvor dos Pequenos",
+      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "Em Sil\u00eancio",
         "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 228125,
       "name": "Em Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2023",
-        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 308875,
-      "name": "Louvor dos Pequenos",
-      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
@@ -651,38 +667,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
-      },
-      "artists": [
-        {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
-        }
-      ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Serei Tudo",
         "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 264566,
       "name": "Serei Tudo",
       "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Pra Frente",
-        "url": "https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft"
+        "name": "Acima dos Telhados (Acoustic)",
+        "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
       },
       "artists": [
         {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        },
+        {
+          "name": "Reale",
+          "url": "https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6"
         }
       ],
-      "duration_ms": 229401,
-      "name": "Pra Frente",
-      "url": "https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV"
+      "duration_ms": 395298,
+      "name": "Acima dos Telhados - Acoustic",
+      "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Acima dos Telhados (Acoustic)",
-        "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
+        "name": "Pra Frente",
+        "url": "https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft"
       },
       "artists": [
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        },
-        {
-          "name": "Reale",
-          "url": "https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6"
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
         }
       ],
-      "duration_ms": 395298,
-      "name": "Acima dos Telhados - Acoustic",
-      "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
+      "duration_ms": 229401,
+      "name": "Pra Frente",
+      "url": "https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -875,8 +875,8 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+        "name": "Gba Stage, Vol. 13",
+        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
       },
       "artists": [
         {
@@ -884,13 +884,13 @@
           "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         }
       ],
-      "duration_ms": 177322,
-      "name": "Cora\u00e7\u00e3o de M\u00e3e",
-      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+      "duration_ms": 294101,
+      "name": "Deixa Deus Sonhar em Ti",
+      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Gba Stage, Vol. 13",
-        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
@@ -1060,13 +1060,13 @@
           "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
         }
       ],
-      "duration_ms": 294101,
-      "name": "Deixa Deus Sonhar em Ti",
-      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
+      "duration_ms": 177322,
+      "name": "Cora\u00e7\u00e3o de M\u00e3e",
+      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Errante",
-        "url": "https://open.spotify.com/album/1RN51iDXNkqgMHgV1Qla6h"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 281490,
-      "name": "Cora\u00e7\u00e3o Errante",
-      "url": "https://open.spotify.com/track/7akiuwbD81CXBK5NNTsPj0"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Quem \u00c9 Essa Que Avan\u00e7a Como Aurora?",
         "url": "https://open.spotify.com/album/01zKN1vkGZLOgbTZysudFi"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 142312,
       "name": "Quem \u00c9 Essa Que Avan\u00e7a Como Aurora?",
       "url": "https://open.spotify.com/track/7bZwSB2GKZ1xKazrxDc6Fp"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Errante",
+        "url": "https://open.spotify.com/album/1RN51iDXNkqgMHgV1Qla6h"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 281490,
+      "name": "Cora\u00e7\u00e3o Errante",
+      "url": "https://open.spotify.com/track/7akiuwbD81CXBK5NNTsPj0"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+      "duration_ms": 268000,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -1275,18 +1271,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2024-06-28 03:01:00",

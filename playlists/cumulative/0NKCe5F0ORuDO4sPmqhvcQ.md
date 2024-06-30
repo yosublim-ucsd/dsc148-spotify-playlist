@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-615 songs - 1 day 10 hr 33 min
+616 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 | 2024-03-23 |
 | [rainonmyparade](https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [rainonmyparade](https://open.spotify.com/album/5kw8ltCF2M15RLZSMBqAjh) | 2:34 | 2024-03-01 | 2024-03-23 |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
+| [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-29 |  |
 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 | 2022-07-01 | 2022-09-19 |
 | [Really Lovers](https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Really Lovers](https://open.spotify.com/album/6ZXsnuY4P6ZuIW3W1EBxBN) | 2:51 | 2022-07-13 | 2023-07-20 |
 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 | 2022-06-29 | 2022-09-17 |

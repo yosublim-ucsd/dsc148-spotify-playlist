@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Timmy Trumpet, Naeleck, POLTERGST
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,822,485 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,822,774 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 33 | [Let Me Go](https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Let Me Go](https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW) | 2:36 |
 | 34 | [Mask Off](https://open.spotify.com/track/07nfBlhn6ZlIkPXSXb8SXJ) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/5ZLE8KDPBqQBH3YoswtUSO) | 2:35 |
 | 35 | [One \(Your Name\)](https://open.spotify.com/track/5IU1Fb9OBuCRUTAWXPO4gC) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Maoam](https://open.spotify.com/artist/7IuCvuIcTx2Rp05kwHuvSv), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [One \(Your Name\)](https://open.spotify.com/album/3MinilcY84XUpX8nSxMeG0) | 2:32 |
-| 36 | [Morning](https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Morning](https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu) | 3:04 |
+| 36 | [Morning](https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Morning](https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu) | 3:04 |
 | 37 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
 | 38 | [Perfect \(Exceeder\)](https://open.spotify.com/track/6aytAfb9zenqKAvbVomkU8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/4goW2DyR21WbuI9rylXJtu) | 2:31 |
 | 39 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |

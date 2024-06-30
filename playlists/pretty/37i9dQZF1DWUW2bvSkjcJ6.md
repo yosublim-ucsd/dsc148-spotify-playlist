@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Chapo102, Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,099 likes - 110 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,261 likes - 110 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,6 +117,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 107 | [Ich ertrage mich nicht](https://open.spotify.com/track/0xcyDTC3O0BMY215m9OpOw) | [Marwin Balsters](https://open.spotify.com/artist/0Pphkx7yya7aVvA2A4IAu5) | [Ich ertrage mich nicht](https://open.spotify.com/album/53Ywvl4uAQqO2KY0KbYpnf) | 2:21 |
 | 108 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
 | 109 | [@t The Club](https://open.spotify.com/track/0avlLX3KhhIDAhKW5g1mbc) | [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [@t The Club](https://open.spotify.com/album/6MZ46QBQ6mct458tFWHGE0) | 3:08 |
-| 110 | [Ausnahmezustand](https://open.spotify.com/track/0MlewTa4Vq3MSyb1Xx24m6) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Ausnahmezustand](https://open.spotify.com/album/1Ik4dC3jxJIq9e9iSnX5qi) | 1:41 |
+| 110 | [AUSNAHMEZUSTAND](https://open.spotify.com/track/0MlewTa4Vq3MSyb1Xx24m6) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [AUSNAHMEZUSTAND](https://open.spotify.com/album/1Ik4dC3jxJIq9e9iSnX5qi) | 1:41 |
 
 Snapshot ID: `Zn6CfQAAAAD6fFvXSCNTJw5SJbEGr15H`

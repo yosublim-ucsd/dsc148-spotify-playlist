@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 
 > Listen to the soundtracks of Lovely Runner\. \(선재 업고 튀어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the ost singers\. \(Ost 가창자들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,523 likes - 104 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,722 likes - 104 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 | 58 | [Curated by Jae Yeon](https://open.spotify.com/track/6aBCdRaoQSf4JszeW5s9pI) | [Lovely Runner](https://open.spotify.com/artist/6oGMJ0SXxbUHhxfwHKsccd) | [Lovely Runner Audio liners](https://open.spotify.com/album/34VqYgGxDnaDjNHyoZE3Ut) | 0:37 |
 | 59 | [Namchinso](https://open.spotify.com/track/0cpQUXsgUqsOCbF8S8OMMQ) | [Daylight](https://open.spotify.com/artist/5Bn6vJVPzTObcNHqjXWov0) | [Namchinso](https://open.spotify.com/album/4YSDDmjpKA9fAjnzkZAHM9) | 3:59 |
 | 60 | [뒷모습](https://open.spotify.com/track/5mZVQ8HeA5kkvEPF9btBRA) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [후](https://open.spotify.com/album/6q1wp8cszfuxglawf5RvB0) | 4:41 |
-| 61 | [그댄 달라요](https://open.spotify.com/track/7xCGCm45Ohc5ExxxqVjucg) | [한예슬](https://open.spotify.com/artist/3a9E8uxClt7gyMIoLKy5eM) | [Nonstop 04 \(Original Television Soundtrack\)](https://open.spotify.com/album/4IotbdYKavbbQyjrYdyv7Z) | 3:38 |
+| 61 | [그댄 달라요](https://open.spotify.com/track/7xCGCm45Ohc5ExxxqVjucg) | [Han ye seul](https://open.spotify.com/artist/7306EctnRvOMVb4U6Id0qz) | [Nonstop 04 \(Original Soundtrack\)](https://open.spotify.com/album/4IotbdYKavbbQyjrYdyv7Z) | 3:38 |
 | 62 | [오래도록 고맙도록](https://open.spotify.com/track/2RGZjmWzjqHQwTcaHCRCtz) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 3:57 |
 | 63 | [우린 제법 잘 어울려요](https://open.spotify.com/track/2eEhmaLIFWdbfqhqiZnu04) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Melodie D’ Amour](https://open.spotify.com/album/5kOTpcNuOvXuAxFFAIOdSA) | 3:34 |
 | 64 | [Curated by UMJI](https://open.spotify.com/track/6pA5coZkiU6SKPVW9CRGVf) | [Lovely Runner](https://open.spotify.com/artist/6oGMJ0SXxbUHhxfwHKsccd) | [Lovely Runner Audio liners](https://open.spotify.com/album/34VqYgGxDnaDjNHyoZE3Ut) | 0:29 |

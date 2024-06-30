@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-501 songs - 1 day 3 hr 32 min
+502 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2024-02-27 |  |
 | [Feel Something](https://open.spotify.com/track/3HqvvZJdmNOLGZZitJsMDh) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Feel Something](https://open.spotify.com/album/7fv9RsUms9XwSPNq0LB4lN) | 1:42 | 2024-02-27 | 2024-04-05 |
 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 3:27 | 2024-02-27 |  |
+| [Feeling Myself](https://open.spotify.com/track/6sQX0TZHZqgmH7klY8Yhsm) | [Don Pareon](https://open.spotify.com/artist/2wbqbzaMDno0XiQGqZIUGp) | [Ghettogod](https://open.spotify.com/album/1oKIzcTFOozVAPfmCTcbcd) | 3:48 | 2024-06-29 |  |
 | [FFF](https://open.spotify.com/track/03IcIKwRQSjMheOdEE7pmY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 3:32 | 2024-02-27 |  |
 | [Fight Sleep](https://open.spotify.com/track/163xyAjP4e0udurQr3Temc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:50 | 2024-02-27 |  |
 | [Finally Feel Good](https://open.spotify.com/track/6AQQg8pMm2tGYk7m8t7D0B) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:35 | 2024-02-27 |  |

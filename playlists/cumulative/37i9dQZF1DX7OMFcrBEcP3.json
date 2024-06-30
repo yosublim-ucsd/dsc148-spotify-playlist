@@ -2616,10 +2616,6 @@
         {
           "name": "Los Cadetes De Linares",
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
         }
       ],
       "date_added": "2023-02-21",
@@ -2667,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "album": {
         "name": "Corridos de Dos Amigos",
         "url": "https://open.spotify.com/album/14vSxHFO71f3miZt7YDSoR"
       },
@@ -2700,28 +2714,6 @@
       "duration_ms": 179017,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/03ypw8MVqto1iN0zLUqwkJ"
-    },
-    {
-      "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
-        }
-      ],
-      "date_added": "2022-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "album": {
@@ -3912,10 +3904,6 @@
         {
           "name": "Los Cadetes De Linares",
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Lupe Tijerina y Rosendo Cantu",
-          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
         }
       ],
       "date_added": "2022-01-01",

@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 197746,
       "name": "gonna make sure",
       "url": "https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF"
@@ -6144,6 +6144,24 @@
       "duration_ms": 154274,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413"
+    },
+    {
+      "album": {
+        "name": "Subaru",
+        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173049,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
     },
     {
       "album": {

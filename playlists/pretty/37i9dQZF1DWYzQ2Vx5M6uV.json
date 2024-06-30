@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 116357,
+  "num_followers": 116361,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -1335,26 +1335,26 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Certainly",
-        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
+        "name": "Tayari",
+        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
       "artists": [
         {
-          "name": "SKN The Divine",
-          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
         },
         {
-          "name": "Anni3",
-          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         },
         {
-          "name": "Joe On The Beat",
-          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
         }
       ],
-      "duration_ms": 133323,
-      "name": "Certainly",
-      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
+      "duration_ms": 158003,
+      "name": "Tayari",
+      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -1383,26 +1383,26 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Tayari",
-        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
+        "name": "Certainly",
+        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
       },
       "artists": [
         {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+          "name": "SKN The Divine",
+          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
         },
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Anni3",
+          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
         },
         {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+          "name": "Joe On The Beat",
+          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
         }
       ],
-      "duration_ms": 158003,
-      "name": "Tayari",
-      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
+      "duration_ms": 133323,
+      "name": "Certainly",
+      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
     },
     {
       "added_at": "2024-06-07 09:14:55",

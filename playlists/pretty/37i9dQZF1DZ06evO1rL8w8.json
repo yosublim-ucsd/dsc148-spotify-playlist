@@ -1,12 +1,12 @@
 {
   "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
-  "num_followers": 203578,
+  "num_followers": 204183,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAACmalD8aC7iMmT/JhuOKfic",
+  "snapshot_id": "Zn39AAAAAAD+gvcyTQ6oTnqhZZYi5JSe",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 134739,
-      "name": "Ranchero Y Gallardo",
-      "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
+      "duration_ms": 243800,
+      "name": "Las Dos Cruces",
+      "url": "https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Las Dos Cruces",
-      "url": "https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr"
+      "duration_ms": 134739,
+      "name": "Ranchero Y Gallardo",
+      "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
+      "duration_ms": 195303,
+      "name": "Soy de Rancho",
+      "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
     },
     {
       "added_at": null,
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+        "name": "El Movimiento Alterado Vol. 3",
+        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 195303,
-      "name": "Soy de Rancho",
-      "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
+      "duration_ms": 142933,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Movimiento Alterado Vol. 3",
-        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "El Tamarindo",
-      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Me Quiero Mas",
         "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 117560,
       "name": "Nom\u00e1s Por Ser Sinaloense",
       "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Me Gustas Mucho (En Vivo)",
+      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Zapopan (En Vivo)",
-        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Me Gustas Mucho (En Vivo)",
-      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Enamorada",
         "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
       },
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+        "name": "En Vivo Desde El Nokia",
+        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+      "duration_ms": 163826,
+      "name": "Tumbate El Rollo feat. Larry Hernandez (Bonus Track)",
+      "url": "https://open.spotify.com/track/3AYMIIqDatBnSYCKqCk6wq"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy de Parral (En Vivo)",
         "url": "https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 194220,
       "name": "Soy de Parral - En Vivo",
       "url": "https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde El Nokia",
-        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Tumbate El Rollo feat. Larry Hernandez (Bonus Track)",
-      "url": "https://open.spotify.com/track/3AYMIIqDatBnSYCKqCk6wq"
     },
     {
       "added_at": null,
@@ -935,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+        "name": "Pixelados",
+        "url": "https://open.spotify.com/album/5TQbAjrY0AlhVITtEnLt9L"
       },
       "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 182212,
-      "name": "Fuga Pa Maza",
-      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
+      "duration_ms": 186781,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/3umb4QpNzwLSG7nVFThhJP"
     }
   ],
   "unique_name": "This Is El Komander",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,462 likes - 103 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,554 likes - 103 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-346 songs - 17 hr 25 min
+348 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,10 @@
 | [B.I.Y.L.C](https://open.spotify.com/track/6xGIQ8VQfH0la3Y3Vq4IBM) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [B.I.Y.L.C](https://open.spotify.com/album/3EJE4xPtidCgKjrJmVwIwO) | 1:36 | 2024-06-14 | 2024-06-28 |
 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 | 2023-03-03 | 2023-03-21 |
 | [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-05-31 | 2024-06-25 |
-| [Before I Die](https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T) | 2:53 | 2024-06-27 |  |
+| [Before I Die](https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T) | 2:53 | 2024-06-27 | 2024-06-30 |
 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 | 2024-06-27 |  |
 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 | 2024-06-27 |  |
+| [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 | 2024-06-27 |  |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-23 | 2024-06-01 |
 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 | 2023-08-23 | 2024-02-16 |
 | [Big Pharma](https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Big Pharma](https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp) | 2:46 | 2023-09-22 | 2024-06-01 |
@@ -61,6 +62,7 @@
 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 | 2022-12-02 | 2023-11-18 |
 | [BUTCHER'S BIN](https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6SfuRdJVKKm9VkbP3HQ3Kj) | 4:00 | 2024-03-15 | 2024-05-19 |
 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 | 2022-12-02 | 2024-06-01 |
+| [California Sober](https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [California Sober](https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9) | 2:42 | 2024-06-27 |  |
 | [Call A Doctor](https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Call A Doctor](https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6) | 5:09 | 2024-05-31 |  |
 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 | 2023-01-09 | 2024-06-01 |
 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 | 2024-06-01 |
@@ -237,7 +239,7 @@
 | [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 | 2023-02-05 |
 | [Off The Rails](https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Off The Rails](https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l) | 2:41 | 2023-08-23 | 2024-04-26 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-12-02 | 2023-11-18 |
-| [Orange Leaf](https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Orange Leaf](https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8) | 2:39 | 2024-05-31 |  |
+| [Orange Leaf](https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Orange Leaf](https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8) | 2:39 | 2024-05-31 | 2024-06-30 |
 | [Overthinking](https://open.spotify.com/track/1cbfJ0jI4qV2dFiVjTucVs) | [The Anti\-Queens](https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3) | [Disenchanted](https://open.spotify.com/album/4uPg5K09mkdPAFrefW0Yfv) | 3:17 | 2024-05-31 |  |
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-12-02 | 2024-01-19 |
 | [Pay Me](https://open.spotify.com/track/1F18iKrRxRNKQaFwCavFe5) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Pay Me](https://open.spotify.com/album/4RAWQKHKrfaideVpNFHEFn) | 1:37 | 2024-05-31 | 2024-06-15 |

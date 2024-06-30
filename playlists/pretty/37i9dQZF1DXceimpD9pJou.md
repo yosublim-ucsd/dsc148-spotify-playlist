@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:3yZLchlyOSmGC6B6bUhgVU">Gracia Soberana Música</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,306 likes - 99 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,334 likes - 99 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 20 | [Te Amo](https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Te Amo](https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp) | 3:58 |
 | 21 | [Todo Te Lo Debo a Tí](https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa) | [Benji Rosales](https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7) | [Todo Te Lo Debo a Tí](https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6) | 2:49 |
 | 22 | [ME SIGUES AMANDO](https://open.spotify.com/track/2PBiz75t0kXnqbj7XscZUx) | [Dony el Enviado](https://open.spotify.com/artist/4VLMED6SEryeN3zExXiBt8), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [ME SIGUES AMANDO](https://open.spotify.com/album/6X93aTvozc3JAjQXEVuxEN) | 3:54 |
-| 23 | [Maranata \- Remix](https://open.spotify.com/track/62ujbDMWXZAMQdhkphT5Ij) | [Adrián Ch](https://open.spotify.com/artist/5UEZABQjbYVZNIMey5gjWj), [Rudolph Gordon](https://open.spotify.com/artist/77oxSzHS4bCMaZOX9qpJT0), [Domusik](https://open.spotify.com/artist/0QG6paFcegxEOU9eyq3G4G), [Wayne Andrew Hooker Macariz](https://open.spotify.com/artist/3HwKADvgmMTLyHs7kZm2LU) | [Maranata \- Remix](https://open.spotify.com/album/4k9tniWn6Xc25kgiLDw9zf) | 2:39 |
-| 24 | [Invencible](https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Jadi](https://open.spotify.com/artist/2ryZCRipjteUrsmAgFdUWN), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Invencible](https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw) | 3:37 |
+| 23 | [Maranata \- Remix](https://open.spotify.com/track/62ujbDMWXZAMQdhkphT5Ij) | [Adrián Ch](https://open.spotify.com/artist/5UEZABQjbYVZNIMey5gjWj), [Rudolph Gordon](https://open.spotify.com/artist/77oxSzHS4bCMaZOX9qpJT0), [Domusik](https://open.spotify.com/artist/0QG6paFcegxEOU9eyq3G4G), [Dj Wahm](https://open.spotify.com/artist/6Yo3WQNQipLi64xLt7Wjfe) | [Maranata \- Remix](https://open.spotify.com/album/4k9tniWn6Xc25kgiLDw9zf) | 2:39 |
+| 24 | [Invencible](https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jadi](https://open.spotify.com/artist/2ryZCRipjteUrsmAgFdUWN) | [Invencible](https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw) | 3:37 |
 | 25 | [Estaré](https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb) | [Brional in Time](https://open.spotify.com/artist/2xIZwSIAi04h7whdRabtTb), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Estaré](https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A) | 2:52 |
 | 26 | [Kingdom](https://open.spotify.com/track/12EweXE1SWPTqeLYK01o75) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Kingdom](https://open.spotify.com/album/3fOmNTxSmX27DuRdK2RG56) | 2:14 |
 | 27 | [Voces](https://open.spotify.com/track/3cr9DZfGeHRLBw0MH0dyPZ) | [Rodri White](https://open.spotify.com/artist/4wmsPTv1iOJihk9wCdxRIq), [beat noise](https://open.spotify.com/artist/1y7A6qIKMZJh07WV3VcQ6V) | [Voces](https://open.spotify.com/album/6Q2Qzk5d9p74KGYCgaVwrJ) | 2:36 |

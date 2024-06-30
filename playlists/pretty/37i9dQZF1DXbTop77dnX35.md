@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna boy, Olamide, Amaarae, Roddy Rich and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,257 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,482 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 7 | [Kel\-P Vibes](https://open.spotify.com/track/5uNWbjRJFAWfOWcumCu0QE) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:33 |
 | 8 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 |
 | 9 | [Ko Possible](https://open.spotify.com/track/6LZrYVJpaTUGmnxUiWSqcd) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Ko Possible](https://open.spotify.com/album/2AQgwujElBT9oTirF9o8ch) | 1:58 |
-| 10 | [SWEET RHYTHYM](https://open.spotify.com/track/2e4HwERJmIbb0yFb4V9JwP) | [Milar](https://open.spotify.com/artist/0y96QnuCguhjxEuYgMpC9I) | [SWEET RHYTHYM](https://open.spotify.com/album/0D4kZ0l1IAEg7WJrv9ZpaJ) | 2:30 |
-| 11 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeed](https://open.spotify.com/artist/6gh2kAunMJcBiKafNaewUc) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 |
+| 10 | [Sweet Rhythm](https://open.spotify.com/track/2e4HwERJmIbb0yFb4V9JwP) | [Milar](https://open.spotify.com/artist/0y96QnuCguhjxEuYgMpC9I) | [Sweet Rhythm](https://open.spotify.com/album/0D4kZ0l1IAEg7WJrv9ZpaJ) | 2:30 |
+| 11 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 |
 | 12 | [Don julio](https://open.spotify.com/track/0pSvdqdPJsQERhVWKjcfhi) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Air drop](https://open.spotify.com/album/63FjH5BrOGQCsCa8NdZcz3) | 2:39 |
 | 13 | [Belle](https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Belle](https://open.spotify.com/album/1zHSD43t39HAZcLGlDvr7H) | 2:40 |
 | 14 | [Busy & Broke](https://open.spotify.com/track/5oGQ7wWe5DxxWJDVbpwNnm) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [Busy & Broke](https://open.spotify.com/album/2beprFW3yOohVHvReH74ei) | 2:11 |

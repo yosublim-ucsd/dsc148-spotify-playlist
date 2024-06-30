@@ -1,12 +1,12 @@
 {
-  "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 55118,
+  "description": "This is Mudvayne. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 55136,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAAu44l4GcmRbZHO5M9JDvil",
+  "snapshot_id": "Zn39AAAAAABsXwwtuhybMt3pz4+8o0D6",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End Of All Things To Come",
-        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 181093,
-      "name": "Silenced",
-      "url": "https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5"
+      "duration_ms": 265373,
+      "name": "Internal Primates Forever",
+      "url": "https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+        "name": "The End Of All Things To Come",
+        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Internal Primates Forever",
-      "url": "https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc"
+      "duration_ms": 181093,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 172986,
-      "name": "All Talk",
-      "url": "https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF"
+      "duration_ms": 238826,
+      "name": "-1",
+      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 238826,
-      "name": "-1",
-      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
+      "duration_ms": 172986,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
       "duration_ms": 279986,
       "name": "A Cinderella Story",
       "url": "https://open.spotify.com/track/3k8IsJILZMzwPCgiRALs3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 328733,
+      "name": "Nothing To Gein",
+      "url": "https://open.spotify.com/track/099F8DBwudywg5KK6WVFox"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 328733,
-      "name": "Nothing To Gein",
-      "url": "https://open.spotify.com/track/099F8DBwudywg5KK6WVFox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The New Game",
         "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 225440,
       "name": "Have It Your Way",
       "url": "https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The New Game",
         "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End Of All Things To Come",
-        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Trapped In the Wake of a Dream",
-      "url": "https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mudvayne",
         "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 303066,
       "name": "Beautiful And Strange",
       "url": "https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End Of All Things To Come",
+        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Trapped In the Wake of a Dream",
+      "url": "https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39"
     },
     {
       "added_at": null,

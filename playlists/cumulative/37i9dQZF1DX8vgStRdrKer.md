@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>
 
-187 songs - 15 hr 13 min
+188 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-04-20 |
 | [After All These Years](https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [after all these years](https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs) | 4:28 | 2024-01-05 | 2024-06-25 |
 | [Agbára Ọlọ́run Pọ̀ \(Live\)](https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Yetunde Are](https://open.spotify.com/artist/4MSflz0Vh6ezIXyfnwwnEh) | [Agbára Ọlọ́run Pọ̀ \(Live\)](https://open.spotify.com/album/0E0Nu2k6iUQhAQXYxDXs2B) | 6:16 | 2024-05-24 |  |
-| [Agidigba God](https://open.spotify.com/track/68DQmgvFvO2HlqQ2oZxdpx) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Agidigba God](https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA) | 2:50 | 2024-04-19 |  |
+| [Agidigba God](https://open.spotify.com/track/68DQmgvFvO2HlqQ2oZxdpx) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Agidigba God](https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA) | 2:50 | 2024-04-19 | 2024-06-30 |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 |  |
 | [Alagbara](https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR) | [Delight\_Ayobola](https://open.spotify.com/artist/57Ev0C5dLMCDxW5vqvzs8h) | [Alagbara](https://open.spotify.com/album/5VvX52HwMMhtuOjPcILYNP) | 3:14 | 2024-03-08 | 2024-06-07 |
 | [Alikho Lelifana Nalo \(Live at Durban Icc\)](https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at Durban Icc\)](https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU) | 11:49 | 2024-05-31 |  |
@@ -154,6 +154,7 @@
 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-10 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-09-15 | 2024-03-16 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-05-13 |
+| [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 |  |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2023-11-03 |
 | [Tenkou! Why Feel Sorry?](https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Souvenirs](https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx) | 4:03 | 2024-02-23 | 2024-03-31 |
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 |  |

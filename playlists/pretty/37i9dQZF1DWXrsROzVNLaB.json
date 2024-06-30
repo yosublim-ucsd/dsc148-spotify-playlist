@@ -1,6 +1,6 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11636,
+  "num_followers": 11635,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,18 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
-        "name": "Poets & Saints",
-        "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
+        "name": "The King Is Alive",
+        "url": "https://open.spotify.com/album/4JNTMZoZVcDlM9i9DZ0mpZ"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 253706,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
+      "duration_ms": 178557,
+      "name": "The King Is Alive",
+      "url": "https://open.spotify.com/track/1vClq5FGlLjR4Rdqm7dMpQ"
     },
     {
       "added_at": "2024-03-20 11:31:22",
@@ -271,18 +263,26 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
-        "name": "The King Is Alive",
-        "url": "https://open.spotify.com/album/4JNTMZoZVcDlM9i9DZ0mpZ"
+        "name": "Poets & Saints",
+        "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 178557,
-      "name": "The King Is Alive",
-      "url": "https://open.spotify.com/track/1vClq5FGlLjR4Rdqm7dMpQ"
+      "duration_ms": 253706,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
     },
     {
       "added_at": "2024-03-20 11:31:22",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 280179,
-      "name": "Greater Things",
-      "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
         "name": "Your Grace Finds Me (Live)",
         "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 334333,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 280179,
+      "name": "Greater Things",
+      "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
     },
     {
       "added_at": "2024-03-20 11:31:22",

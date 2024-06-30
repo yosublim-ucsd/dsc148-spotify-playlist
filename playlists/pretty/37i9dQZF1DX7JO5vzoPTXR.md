@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK?si=z\-L2he2hTlih1L4oq3QYqQ">Yimeeka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,406 likes - 41 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,419 likes - 41 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-631 songs - 1 day 13 hr 41 min
+633 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Hits a Little Different](https://open.spotify.com/track/2yOYqHpfCZQjv7u9dfnK5W) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hits a Little Different](https://open.spotify.com/album/676lVWRKGoaQ9lTBmzPCu9) | 2:54 | 2021-12-17 | 2022-01-08 |
 | [Hometown Hero](https://open.spotify.com/track/03CL7YkJByZRIjciH0uQq1) | [Austin Alexander](https://open.spotify.com/artist/65qp4f5zNeT1bHgikTsc5y) | [Hometown Hero](https://open.spotify.com/album/2EmcaUORGDhzpeYqqSE9AV) | 3:52 | 2022-05-27 | 2022-07-09 |
 | [Honky Tonk City](https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Honky Tonk City](https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR) | 2:32 | 2024-05-17 |  |
-| [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 | 2024-03-15 |  |
+| [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 | 2024-03-15 | 2024-06-30 |
 | [Honky Tonk Roll](https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Somewhere Between the Secret and the Truth](https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj) | 3:48 | 2022-08-12 | 2023-01-29 |
 | [Honky Tonk Song](https://open.spotify.com/track/1fhbyvzbuG8PCOmF8jDtdG) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Honky Tonk Song](https://open.spotify.com/album/56CkqCuPrXkmHoI3OD35MR) | 3:04 | 2023-04-28 | 2023-07-01 |
 | [Honky Tonk Tonight](https://open.spotify.com/track/1NM3qJCL6qlJP6L29jtl2S) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Honky Tonk Tonight](https://open.spotify.com/album/2eaKZqwCA1vSPGSKN5L6HI) | 2:57 | 2022-04-29 | 2022-07-09 |
@@ -344,6 +344,7 @@
 | [Lovin' Not Leavin'](https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Lovin' Not Leavin'](https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy) | 4:41 | 2023-09-15 | 2023-10-29 |
 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 | 2021-12-17 | 2022-03-19 |
 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 | 2023-06-30 | 2023-09-30 |
+| [Luckiest Guy I Know](https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Luckiest Guy I Know](https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4) | 3:36 | 2024-06-28 |  |
 | [Made In Texas](https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Made In Texas](https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ) | 2:24 | 2024-04-26 |  |
 | [Madison](https://open.spotify.com/track/33BaBCFqa8DrV9pj2pUDer) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Madison](https://open.spotify.com/album/6WA8s9UiGc4r7WJWz66VZc) | 4:44 | 2023-08-25 | 2023-09-30 |
 | [Makin' It By](https://open.spotify.com/track/6kEKSLnQOsNsP5E3Xv0Vun) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side B\)](https://open.spotify.com/album/0du8vLQfYBy17zx3Evef9F) | 3:32 | 2022-03-25 | 2022-05-14 |
@@ -395,6 +396,7 @@
 | [Only Need One](https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Only Need One](https://open.spotify.com/album/2LAc0RjCJ2qynoCRN6tUil) | 3:33 | 2022-02-04 | 2022-07-27 |
 | [Open Book](https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Open Book](https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp) | 3:47 | 2022-04-29 | 2022-07-15 |
 | [Open Road](https://open.spotify.com/track/51WG9PYBpY8wgecAZFEMTS) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Buckskin](https://open.spotify.com/album/27K52pfrgwrUqsaAJZ2WLn) | 3:29 | 2022-03-11 | 2022-07-28 |
+| [Other Girls \(Ain't Havin' Any Fun\)](https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 4:13 | 2024-06-28 |  |
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/4yAirqjJEOtOW06WLUqAXa) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:55 | 2023-11-03 | 2024-04-19 |
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 | 2023-11-08 |
 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 | 2021-12-17 | 2022-03-19 |
@@ -638,6 +640,6 @@
 | [You To Me](https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You To Me](https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2) | 3:14 | 2023-11-17 | 2024-01-18 |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Alpine](https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Your Alpine](https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv) | 4:39 | 2023-10-06 | 2023-12-16 |
-| [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |
+| [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 | 2024-06-30 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

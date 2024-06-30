@@ -2,7 +2,7 @@
 
 ### [This Is Judas Priest](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1q6zh6)
 
-> This is Judas Priest\. The essential tracks, all in one playlist.
+> This Is Judas Priest\. Sus mejores éxitos, todos en una playlist.
 
 87 songs - 6 hr 21 min
 

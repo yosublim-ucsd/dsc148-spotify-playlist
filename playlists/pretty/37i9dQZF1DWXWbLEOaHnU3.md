@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,193 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,272 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 23 | [Sicko Drop \- Claudinho Brasil Remix](https://open.spotify.com/track/3Z7UmZWV0qyY7nK076Bqxe) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Claudinho Brasil](https://open.spotify.com/artist/41ggHbtYARi4S4JtbeRrYY) | [Sicko Drop \(Claudinho Brasil Remix\)](https://open.spotify.com/album/1RZKaqedt3r09PaDCZtaCc) | 2:41 |
 | 24 | [Sympathize](https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Davee](https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2), [Ela](https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj) | [Sympathize](https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk) | 5:08 |
 | 25 | [Golden Teacher](https://open.spotify.com/track/4DF78KTbDZ3cGI5h1dzOEJ) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI) | [Golden Teacher](https://open.spotify.com/album/7MEkAFD8PwX7tPy7fIZIzi) | 4:38 |
-| 26 | [You Make Me Feel \- Radio Version](https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [You Make Me Feel](https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug) | 2:39 |
+| 26 | [Drivin Me Insane](https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Drivin Me Insane](https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT) | 3:15 |
 | 27 | [Addiction](https://open.spotify.com/track/15mHk5iNru3j49NsnMaZdV) | [Symphonix](https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm), [Naturalize](https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022) | [Addiction](https://open.spotify.com/album/4J1eK2NDcAsAGyPyGQjZp2) | 4:14 |
-| 28 | [Drivin Me Insane](https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Drivin Me Insane](https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT) | 3:15 |
+| 28 | [You Make Me Feel \- Radio Version](https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [You Make Me Feel](https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug) | 2:39 |
 | 29 | [Formula](https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW) | [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D), [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B) | [Formula](https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ) | 4:31 |
 | 30 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
 | 31 | [Tomorrow](https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [TOX1C](https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Tomorrow](https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ) | 4:46 |

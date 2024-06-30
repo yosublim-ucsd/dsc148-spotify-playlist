@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-386 songs - 1 day 0 hr 9 min
+387 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Girls Just Wanna Have Fun \- Duet](https://open.spotify.com/track/0Z7mIPT4ULM9SJkWX9dH0i) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Girls Just Wanna Have Fun \(Duet\)](https://open.spotify.com/album/5M3japWPgpoSaISvKFOhXJ) | 3:14 | 2022-03-25 | 2022-07-27 |
 | [God Blessed Texas](https://open.spotify.com/track/0NCSOMwJ2JUNEXmoaZd7Mb) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [God Blessed Texas](https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG) | 3:27 | 2023-09-01 | 2023-10-06 |
 | [God is a woman](https://open.spotify.com/track/1u5h8BV9ifg1YGQbNyTdrw) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:15 | 2021-12-10 | 2022-07-16 |
+| [Good Luck Babe](https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Good Luck Babe](https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo) | 3:13 | 2024-06-28 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/0zjJk9nPRn5WnWd0N7umq3) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Grandpa \(Tell Me 'bout the Good Old Days\)](https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Grandpa \(Tell Me 'bout the Good Old Days\)](https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD) | 3:45 | 2022-02-18 |  |
 | [Grandpa \(Tell Me 'Bout The Good Old Days\) \[feat\. Sonya Isaacs\]](https://open.spotify.com/track/6873g9ht9LPVroFgMyyZDO) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:48 | 2023-10-27 | 2023-11-11 |
@@ -364,7 +365,7 @@
 | [Whatever It Is](https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Whatever It Is](https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH) | 3:39 | 2023-12-15 | 2024-02-14 |
 | [What’s Up \(What’s Going On\)](https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:51 | 2023-11-17 | 2024-04-19 |
 | [What’s Up?](https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [What's Up?](https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l) | 4:38 | 2023-09-22 | 2024-02-16 |
-| [When A Man Loves A Woman](https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [When A Man Loves A Woman](https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN) | 3:17 | 2024-02-10 |  |
+| [When A Man Loves A Woman](https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [When A Man Loves A Woman](https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN) | 3:17 | 2024-02-10 | 2024-06-30 |
 | [When I Was Your Man](https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Big Machine Undercover](https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf) | 3:46 | 2021-12-10 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/0zu7EjQ4ij0uVpqp9eGR1J) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [When You Say Nothing At All](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Now That I've Found You: A Collection](https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs) | 4:20 | 2022-07-08 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,871 songs - 4 day 3 hr 8 min
+1,872 songs - 4 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Certitude](https://open.spotify.com/track/0sWt2jdSv0oClkoxuXWlsj) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:33 | 2021-03-27 | 2021-03-30 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-03 | 2022-12-05 |
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-08 | 2024-06-09 |
-| [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 | 2024-06-08 |  |
+| [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 | 2024-06-08 | 2024-06-30 |
 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 | 2024-02-24 | 2024-02-26 |
 | [Chacun \(feat\. Kim\)](https://open.spotify.com/track/3GyhxHaxCe3tPFMAHvMmoF) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:05 | 2023-01-28 | 2023-01-30 |
 | [Chagriné](https://open.spotify.com/track/66LXroHORH7UHp4OdHbmf3) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 2:47 | 2023-06-10 | 2023-06-13 |
@@ -844,6 +844,7 @@
 | [Je te veux toi](https://open.spotify.com/track/3FNc92KG0Zxzvtj3ZkGIxb) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 2:44 | 2022-06-04 | 2022-06-06 |
 | [Je t’aime de ouf](https://open.spotify.com/track/5BUl0EBl4tOmPtT9IN0UUP) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [16 ou pas](https://open.spotify.com/album/3W0kaNeIqkpPlqqqzsHCYZ) | 2:49 | 2021-04-04 | 2021-06-06 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-05 | 2023-01-29 |
+| [Jeu De Jambes](https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Jeu De Jambes](https://open.spotify.com/album/29VGHpvyLnZdJyX1aVkTXZ) | 2:11 | 2024-06-29 |  |
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2021-07-25 | 2021-08-01 |
 | [Jeune soldat](https://open.spotify.com/track/6A29l1WiOjvMY8mOL0Q3N3) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:22 | 2021-09-19 | 2021-09-20 |
 | [Jeune voyou](https://open.spotify.com/track/4YEpm5zIxSYrfGNb06dO7R) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 3:25 | 2021-04-04 | 2021-04-05 |

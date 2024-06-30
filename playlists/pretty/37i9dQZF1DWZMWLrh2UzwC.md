@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,167 likes - 103 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,173 likes - 103 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

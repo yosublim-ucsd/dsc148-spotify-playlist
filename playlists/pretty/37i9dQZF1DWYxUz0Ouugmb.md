@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggis Devaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,816 likes - 33 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,812 likes - 33 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

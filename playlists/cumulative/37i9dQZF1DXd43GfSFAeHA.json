@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Samara",
+  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Dollypran",
   "name": "Arab Hip-Hop",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 168000,
       "name": "3al hady",
       "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 168940,
       "name": "3andy Sahb",
       "url": "https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd"
@@ -285,6 +285,32 @@
     },
     {
       "album": {
+        "name": "3la Wara2a",
+        "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"
+      },
+      "artists": [
+        {
+          "name": "Mared",
+          "url": "https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV"
+        },
+        {
+          "name": "Nubi",
+          "url": "https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172961,
+      "name": "3la Wara2a",
+      "url": "https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk"
+    },
+    {
+      "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP"
       },
@@ -304,7 +330,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 194000,
       "name": "3ma",
       "url": "https://open.spotify.com/track/6moZSAbQBx6wctDKyj2EHo"
@@ -497,6 +523,24 @@
     },
     {
       "album": {
+        "name": "AL ARBA3",
+        "url": "https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200772,
+      "name": "AL ARBA3",
+      "url": "https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs"
+    },
+    {
+      "album": {
         "name": "Ala El Hadi",
         "url": "https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH"
       },
@@ -632,7 +676,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 256945,
       "name": "Ama Ba'ad (Shathar Mathar)",
       "url": "https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv"
@@ -856,7 +900,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 186880,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
@@ -1411,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "CHIRON",
+        "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "CHIRON",
+      "url": "https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD"
+    },
+    {
+      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO"
       },
@@ -1474,7 +1536,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 318987,
       "name": "Cypher Al Valhalla",
       "url": "https://open.spotify.com/track/5q1nQwJ9zYjEYA8DN5MIjP"
@@ -2429,6 +2491,28 @@
     },
     {
       "album": {
+        "name": "525",
+        "url": "https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "ZIEN4L",
+          "url": "https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123310,
+      "name": "GABOLNA HKOMA",
+      "url": "https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg"
+    },
+    {
+      "album": {
         "name": "Galbi Dalili (feat. Narcy)",
         "url": "https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE"
       },
@@ -2578,6 +2662,24 @@
       "duration_ms": 151418,
       "name": "GHAREEB",
       "url": "https://open.spotify.com/track/56HnSz8IBgw9w5crh6gfqr"
+    },
+    {
+      "album": {
+        "name": "RECTOVERSO",
+        "url": "https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251748,
+      "name": "Ghetto Symphony",
+      "url": "https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc"
     },
     {
       "album": {
@@ -2782,10 +2884,28 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 240000,
       "name": "Hajes",
       "url": "https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1"
+    },
+    {
+      "album": {
+        "name": "Hakeem",
+        "url": "https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146316,
+      "name": "Hakeem",
+      "url": "https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK"
     },
     {
       "album": {
@@ -3276,6 +3396,28 @@
       "duration_ms": 145894,
       "name": "Kafi",
       "url": "https://open.spotify.com/track/2TxM4LbxB54gZXprhgPPhU"
+    },
+    {
+      "album": {
+        "name": "Kakashi",
+        "url": "https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288979,
+      "name": "Kakashi",
+      "url": "https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D"
     },
     {
       "album": {
@@ -5332,7 +5474,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 213061,
       "name": "Rajel",
       "url": "https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV"
@@ -5886,7 +6028,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 156736,
       "name": "SHED F TARFO",
       "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
@@ -6862,7 +7004,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 126927,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/621Vt78aQn1xFLJzLctbrT"
@@ -7109,6 +7251,24 @@
     },
     {
       "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/7qJochArUh5WbbFx3Guvai"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/6WHsvBA91O7A4QMMDUdn1k"
+    },
+    {
+      "album": {
         "name": "Vodka",
         "url": "https://open.spotify.com/album/0WzA8Bs7gxzjzFSRp5IWDf"
       },
@@ -7196,7 +7356,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 154953,
       "name": "W Bashot",
       "url": "https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe"
@@ -7487,6 +7647,36 @@
     },
     {
       "album": {
+        "name": "You Never Know (feat. RAYAN)",
+        "url": "https://open.spotify.com/album/55Veq68N6G3DO07QhfA6Jt"
+      },
+      "artists": [
+        {
+          "name": "Big Hass",
+          "url": "https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv"
+        },
+        {
+          "name": "Omar Offendum",
+          "url": "https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA"
+        },
+        {
+          "name": "Flippter",
+          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
+        },
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/5oxUbigQRV6UE3DJgfYdwQ"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "You Never Know (feat. RAYAN)",
+      "url": "https://open.spotify.com/track/4TPVwJSmpakGMqi7nRSZF3"
+    },
+    {
+      "album": {
         "name": "2x1",
         "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
       },
@@ -7727,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0627\u0648\u0644\u0649 : \u0641\u0631\u064a\u0633\u062a\u0627\u064a\u0644",
+        "url": "https://open.spotify.com/album/0UA4g53jHzmPvYdQM0EKEe"
+      },
+      "artists": [
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136842,
+      "name": "\u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0627\u0648\u0644\u0649 : \u0641\u0631\u064a\u0633\u062a\u0627\u064a\u0644",
+      "url": "https://open.spotify.com/track/4dvz8mbfDaERCEFa1gt9fV"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
         "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
       },
@@ -7764,6 +7972,24 @@
       "duration_ms": 218718,
       "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u064a\u0647",
       "url": "https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
+        "url": "https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
+      "url": "https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R"
     },
     {
       "album": {

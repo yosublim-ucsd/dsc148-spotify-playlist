@@ -1,6 +1,6 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 3519441,
+  "num_followers": 3521283,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "Ella Se Contradice (feat. Plan B)",
         "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 256756,
       "name": "Ella Se Contradice (feat. Plan B)",
       "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1343,30 +1343,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
-        "url": "https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb"
+        "name": "Los Mas Sueltos Del Reggaeton",
+        "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 293773,
-      "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
-      "url": "https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn"
+      "duration_ms": 273480,
+      "name": "Un Poco Loca (feat. De La Ghetto)",
+      "url": "https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1395,22 +1387,30 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Los Mas Sueltos Del Reggaeton",
-        "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
+        "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
+        "url": "https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
         }
       ],
-      "duration_ms": 273480,
-      "name": "Un Poco Loca (feat. De La Ghetto)",
-      "url": "https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q"
+      "duration_ms": 293773,
+      "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
+      "url": "https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "In Business",
+        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "El Sobreviviente",
         "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 291658,
       "name": "Quitate Tu Pa Ponerme Yo",
       "url": "https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "In Business",
-        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Alocate",
+      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 228053,
       "name": "Nadie Te Amar\u00e1 Como Yo (Remix) (feat. Zion & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Alocate",
-      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Te Pintaron Pajaritos",
-        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
-      },
-      "artists": [
-        {
-          "name": "Yandar & Yostin",
-          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "Solo Es Mejor",
-      "url": "https://open.spotify.com/track/3nV7QGv51syv5DoXKeo27C"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "Flow la Discoteka 2",
         "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
       },
@@ -2735,6 +2719,22 @@
       "duration_ms": 264212,
       "name": "Chica Virtual (feat. Arcangel)",
       "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "Solo Es Mejor",
+      "url": "https://open.spotify.com/track/3nV7QGv51syv5DoXKeo27C"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 225348,
-      "name": "Yo Voy A Llegar",
-      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2911,6 +2895,22 @@
       "duration_ms": 174126,
       "name": "Linda Estrella (feat. Baby Rasta y Gringo)",
       "url": "https://open.spotify.com/track/4p7NHxROYGVe6wcotaS9CL"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Flow La Discoteca Special Edition",
+        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 225348,
+      "name": "Yo Voy A Llegar",
+      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "El Tra",
-      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "Masterpiece: Nuestra Obra Maestra",
         "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
@@ -3187,6 +3171,22 @@
       "duration_ms": 214973,
       "name": "Dame Lo Que Quiero",
       "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "El Tra",
+      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3335,22 +3335,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "La Perfecta Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "J Balvin Mix Tape",
         "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 223013,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "La Perfecta Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3423,22 +3423,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Echo Presenta: Invasion",
-        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
-      },
-      "artists": [
-        {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Como Toda Una Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "Motivando A La Yal (Special Edition)",
         "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
       },
@@ -3451,6 +3435,22 @@
       "duration_ms": 219010,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Echo Presenta: Invasion",
+        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
+      },
+      "artists": [
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Como Toda Una Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
     },
     {
       "added_at": "2024-06-18 19:46:58",

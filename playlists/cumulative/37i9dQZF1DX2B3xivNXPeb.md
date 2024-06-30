@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-413 songs - 1 day 0 hr 40 min
+416 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,9 +100,11 @@
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2023-11-10 |  |
 | [Don't Change](https://open.spotify.com/track/5tGK2PuBwceiRXdSXiK9D5) | [Miles Graham](https://open.spotify.com/artist/06BXB6LuxhIeZNtVF47fxJ) | [Don't Change](https://open.spotify.com/album/6nydhLMe439gLnh92eJJVM) | 3:32 | 2022-02-14 | 2022-07-29 |
 | [Don't Mess With Love](https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Don't Mess With Love](https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7) | 3:22 | 2022-02-14 | 2022-07-29 |
+| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 |  |
 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 | 2024-02-23 | 2024-05-27 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-02-14 | 2022-12-28 |
 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-06-16 |  |
+| [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-28 |  |
 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 | 2023-01-10 | 2024-03-31 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-26 |  |
 | [Everything Good to You \(Doesn't Have to Be Good for You\)](https://open.spotify.com/track/1NIJluqr87NOBfC4pTNf98) | [Bobby Patterson](https://open.spotify.com/artist/6gCa8F8P0PSVNYUMtoQOgk) | [The Northern Soul Of Jewel\-Paula\-Ronn](https://open.spotify.com/album/1w6RjhC44AK576VKNGn6Ib) | 3:01 | 2022-12-28 | 2023-01-11 |
@@ -198,7 +200,7 @@
 | [IOU](https://open.spotify.com/track/2Yil8y4YADc3sMtY3YqpWY) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [IOU](https://open.spotify.com/album/24GmXwooEdNANcH1eixZCs) | 3:30 | 2024-02-23 | 2024-04-06 |
 | [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 | 2024-04-19 |  |
 | [It Might Take a Woman](https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Might Take a Woman](https://open.spotify.com/album/7HZYjMfb9uZg2rcmbDPF1u) | 3:10 | 2022-02-14 | 2022-07-29 |
-| [It's Been A Week](https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [It’s Been A Week](https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW) | 2:59 | 2024-03-22 |  |
+| [It's Been A Week](https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [It’s Been A Week](https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW) | 2:59 | 2024-03-22 | 2024-06-30 |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2022-12-28 | 2023-01-11 |
 | [Jerk Ribs](https://open.spotify.com/track/1E0Cw35L2iRgCn0aB2tc8z) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Food](https://open.spotify.com/album/7rOLlR197BcHUxYOfvi1BC) | 4:12 | 2023-01-10 | 2023-03-18 |
 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 | 2022-02-14 | 2022-12-28 |
@@ -269,6 +271,7 @@
 | [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 | 2024-04-11 | 2024-04-19 |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-05-03 |
 | [Other Way](https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Other Way](https://open.spotify.com/album/1XXQQrJo7dhTAc1I9btCWC) | 3:03 | 2022-02-14 | 2022-07-29 |
+| [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 |  |
 | [Outrun This Feeling](https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Selfishly Inclined](https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge) | 2:56 | 2024-03-15 | 2024-04-21 |
 | [Outstanding](https://open.spotify.com/track/2gupGvtvyfxTGVx7xAb6o8) | [Al Charles](https://open.spotify.com/artist/6Vq314wZVFHGm4GaeiLhdo) | [Outstanding](https://open.spotify.com/album/7gdu5GtB4yp8PH7ymHFix8) | 5:52 | 2022-12-28 | 2023-01-11 |
 | [over](https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [over](https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj) | 2:13 | 2024-02-23 | 2024-06-22 |
@@ -329,7 +332,7 @@
 | [Stronger](https://open.spotify.com/track/4ARjCGggd0yAjlXd2vmx5D) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/1rD8ALkiUVpxWmxSZPIVU8) | 3:18 | 2022-02-14 | 2022-07-25 |
 | [Subside](https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW) | 3:08 | 2022-02-14 | 2022-12-28 |
 | [Subside](https://open.spotify.com/track/3peNITOhEMw0roXqF6yFMx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:08 | 2022-02-14 | 2022-10-13 |
-| [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 | 2024-06-21 |  |
+| [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 | 2024-06-21 | 2024-06-30 |
 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-02-14 |  |
 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 | 2023-01-10 | 2024-03-23 |
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2022-02-14 | 2022-11-13 |
@@ -357,7 +360,7 @@
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-02-14 |  |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2022-02-14 | 2022-07-29 |
 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 | 2022-02-14 | 2022-08-26 |
-| [That's Life](https://open.spotify.com/track/2ypFEmLB5q5j2l34bFxF8Y) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gettin' Down To It](https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X) | 4:29 | 2023-01-10 |  |
+| [That's Life](https://open.spotify.com/track/2ypFEmLB5q5j2l34bFxF8Y) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gettin' Down To It](https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X) | 4:29 | 2023-01-10 | 2024-06-30 |
 | [The Fear](https://open.spotify.com/track/17bpxYmEJLHVdptkxtjHbh) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:20 | 2022-02-14 | 2022-11-12 |
 | [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 | 2024-05-17 |  |
 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part](https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI) | 2:56 | 2023-06-16 | 2024-06-01 |

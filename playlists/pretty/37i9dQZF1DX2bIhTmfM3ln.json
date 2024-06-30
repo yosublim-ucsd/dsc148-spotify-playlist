@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 36039,
+  "num_followers": 36066,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,30 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Wayo",
-        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "Wayo",
-      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "THE CHOSEN ONE",
         "url": "https://open.spotify.com/album/3m3N6TjGG5Pyzqhv9j3dbp"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 141055,
       "name": "Amg",
       "url": "https://open.spotify.com/track/2Qby1reHz7h5nFDwEI9Afq"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/7FSfXLshwfkcoJyCqj926E"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -887,6 +887,22 @@
       "duration_ms": 188000,
       "name": "Borrow Me Your Baby (feat. Falz)",
       "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 149387,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Kelewele (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Kelewele (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "When I Wake Up (feat. Moliy)",
         "url": "https://open.spotify.com/album/0vtcPSUCkDWJoEFYgVVeTS"
       },
@@ -1283,22 +1303,6 @@
       "duration_ms": 182970,
       "name": "When I Wake Up (feat. Moliy)",
       "url": "https://open.spotify.com/track/2pp6w1jE7bT4EPUHt211HL"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "757",
-        "url": "https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        }
-      ],
-      "duration_ms": 142140,
-      "name": "Abena",
-      "url": "https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1335,6 +1339,42 @@
       "duration_ms": 142373,
       "name": "Finally",
       "url": "https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Island 54",
+        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 172265,
+      "name": "Different Sides (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "757",
+        "url": "https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 142140,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1383,22 +1423,30 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Kelewele (feat. Joeboy)",
-        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+        "name": "JEALOUS (feat. Ambr\u00e9)",
+        "url": "https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU"
       },
       "artists": [
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Loick Essien",
+          "url": "https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Kelewele (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
+      "duration_ms": 159157,
+      "name": "JEALOUS (feat. Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1471,54 +1519,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/3AYBAJRNb7fi9hkqcKagA6"
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx"
       },
       "artists": [
         {
-          "name": "Lexsil",
-          "url": "https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h"
-        },
-        {
-          "name": "RKC",
-          "url": "https://open.spotify.com/artist/1hAAxPEyfrijnKoH9EnNKt"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 163102,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/0wT0YmeVcN1tKaySevcsKb"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/3Eop2mkvqOaCjggYcx8e5z"
-      },
-      "artists": [
-        {
-          "name": "CN Amazing",
-          "url": "https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4QZH6wpyyznGaNAk24DtLl"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/1RAUH3q6reqayy2beMhTQI"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gambini",
-          "url": "https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg"
-        }
-      ],
-      "duration_ms": 178783,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/5vyReRL7ZOhGs54ZGgQmVy"
+      "duration_ms": 155789,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7"
     }
   ],
   "unique_name": "Lovin' Beats",

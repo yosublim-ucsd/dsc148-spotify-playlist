@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,126 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,262 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 24 | [Flirting Again](https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Flirting Again](https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS) | 3:02 |
 | 25 | [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 |
 | 26 | [Neverbloom](https://open.spotify.com/track/3UVlWASiZTfWFVgFyhWuYU) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Neverbloom](https://open.spotify.com/album/43TBeyNWIkw4nE8dz4fG72) | 3:15 |
-| 27 | [Shiver](https://open.spotify.com/track/7jBFe9JOZNQz0DY0Zjr8tP) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Hell or Highwater](https://open.spotify.com/album/0qHijxp6yiHppqTGBJ5hTC) | 3:04 |
+| 27 | [Shiver](https://open.spotify.com/track/7jBFe9JOZNQz0DY0Zjr8tP) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Hell Or Highwater](https://open.spotify.com/album/0qHijxp6yiHppqTGBJ5hTC) | 3:04 |
 | 28 | [SPINNIN' YOU AROUND](https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:44 |
 | 29 | [My Place](https://open.spotify.com/track/0wfQDviYo30szMtzOCtN1k) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Deep in the Trouble](https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me) | 3:55 |
 | 30 | [Messed Up](https://open.spotify.com/track/5PlL00QzLWkbLvGh9QS78C) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Messed Up](https://open.spotify.com/album/4RLoH4gvN6km4MNknvUtFb) | 3:30 |

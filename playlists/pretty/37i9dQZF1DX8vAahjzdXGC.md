@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,334 likes - 109 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,383 likes - 109 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 36 | [Emily](https://open.spotify.com/track/2KT7vr9KLbd5JZaNuSd85O) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [Emily](https://open.spotify.com/album/4EeMy2xG66d55u96B5guOV) | 3:46 |
 | 37 | [Bersabarlah](https://open.spotify.com/track/4eczUTGfhSCIkBPt1Cuk7I) | [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Bersabarlah](https://open.spotify.com/album/7AVJEfkv1oyajgJQkwhqwJ) | 4:30 |
 | 38 | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5A6PgWbDitOtH5eTVZ3Md3) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aGfcjEwK1Zgrz6OepRES5) | 4:38 |
-| 39 | [ARUTALA](https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6) | [Fanny Soegi](https://open.spotify.com/artist/45BKi9DoM8ns6CcSAV6phW) | [ARUTALA](https://open.spotify.com/album/7KIj8dXkRxlSYeL0V896PW) | 4:45 |
+| 39 | [Arutala](https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6) | [Fanny Soegi](https://open.spotify.com/artist/45BKi9DoM8ns6CcSAV6phW) | [Arutala](https://open.spotify.com/album/7KIj8dXkRxlSYeL0V896PW) | 4:45 |
 | 40 | [ONESHOT](https://open.spotify.com/track/3vQrveHT5qt4yxmWTnWN2S) | [Koven Wei](https://open.spotify.com/artist/2pkpqIb8x2VvL9NFeche19), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [ONESHOT](https://open.spotify.com/album/6uDdWxqrKkpNpbdgyFGn8u) | 2:09 |
 | 41 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 |
 | 42 | [HOT OUTSIDE \(feat\. Anycia\)](https://open.spotify.com/track/1QVh3p2qTqojy3MOTTLrLS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [HOT OUTSIDE \(feat\. Anycia\)](https://open.spotify.com/album/51wsMa5IHRPoU2aV5NhF0A) | 2:36 |

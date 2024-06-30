@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98744,
+  "num_followers": 98754,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Dominos",
         "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 150691,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "The Victor",
-          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "The Victor",
+          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Can't Talk Right Now",
         "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 199218,
       "name": "Can't Talk Right Now",
       "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 130491,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/48N52eeLSjB5zJU42Hgefb"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Stand In Line",
         "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 185451,
       "name": "Stand In Line",
       "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        }
-      ],
-      "duration_ms": 130491,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/48N52eeLSjB5zJU42Hgefb"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
-      },
-      "artists": [
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Only You and I",
         "url": "https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3"
       },
@@ -1879,26 +1863,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Like Thunder",
-        "url": "https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
       },
       "artists": [
         {
-          "name": "HIDDN",
-          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
-        },
-        {
-          "name": "N\u00f8way",
-          "url": "https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU"
-        },
-        {
-          "name": "Calumny",
-          "url": "https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R"
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Like Thunder",
-      "url": "https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71"
+      "duration_ms": 139000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1923,6 +1899,30 @@
       "duration_ms": 178800,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0LbJ4vV5xlLp6asZJDtqqH"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Like Thunder",
+        "url": "https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO"
+      },
+      "artists": [
+        {
+          "name": "HIDDN",
+          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
+        },
+        {
+          "name": "N\u00f8way",
+          "url": "https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU"
+        },
+        {
+          "name": "Calumny",
+          "url": "https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Like Thunder",
+      "url": "https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71"
     },
     {
       "added_at": "2024-06-20 22:00:00",

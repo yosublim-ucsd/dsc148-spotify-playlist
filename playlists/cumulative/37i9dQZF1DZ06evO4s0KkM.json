@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is Dropkick Murphys. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
   "name": "This Is Dropkick Murphys",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 207645,
       "name": "Rippin Up The Boundary Line (feat. Jesse Ahern)",
       "url": "https://open.spotify.com/track/4MRZXY4jBPHxGJ1nDr7Avi"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 217866,
       "name": "The Dirty Glass",
       "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 205613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"

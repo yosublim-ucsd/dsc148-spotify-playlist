@@ -106,12 +106,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 96 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
 | 97 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 |
 | 98 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 |
-| 99 | [It's Not My Fault](https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [It's Not My Fault](https://open.spotify.com/album/3V4DkNfNbFA4etZNew0iOU) | 4:22 |
-| 100 | [Funeral](https://open.spotify.com/track/6O4V24RPZXxfV21i53oSe0) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Funeral](https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra) | 3:13 |
+| 99 | [Funeral](https://open.spotify.com/track/6O4V24RPZXxfV21i53oSe0) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Funeral](https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra) | 3:13 |
+| 100 | [It's Not My Fault](https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [It's Not My Fault](https://open.spotify.com/album/3V4DkNfNbFA4etZNew0iOU) | 4:22 |
 | 101 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
 | 102 | [Rose Tinted Glass](https://open.spotify.com/track/0ZFyR9BTGHh3UwEshTCTJ2) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Rose Tinted Glass](https://open.spotify.com/album/4BAOiUD1gpDwGn3X0ehWe2) | 2:19 |
 | 103 | [What I Wanted \- Dub Mix](https://open.spotify.com/track/2hz4fFw6cB0BBX8f9NkI7q) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:48 |
 | 104 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 105 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `AbVTFAAAAACA45u6hg3r2O3FSN/yjPzU`
+Snapshot ID: `AbVYtAAAAABrHTLebNRTu7uQSjDzl15d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes, LUDMILLA com IZA, Baco Exu do Blues e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,265 likes - 69 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,494 likes - 69 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 30 | [Sua Casca de Bala](https://open.spotify.com/track/0Ay12Pb94mP09bJMJqGxxg) | [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8), [DJ CAIO DO NV](https://open.spotify.com/artist/2BycKxiwHh0VCQ6fYTM9gl), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe) | [Sua Casca de Bala](https://open.spotify.com/album/517FinzbWnYUZL0AI2is1C) | 2:27 |
 | 31 | [Não Deixa Secar](https://open.spotify.com/track/6cuwWgFzsPgM2Z8m0RPS4l) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Não Deixa Secar](https://open.spotify.com/album/3wiw2K1gdCxKEGmfvoo57l) | 3:09 |
 | 32 | [Morenaça \- Ao Vivo](https://open.spotify.com/track/204Ih1tx7K3461zA4rR5Cc) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO), [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Morenaça \(Ao Vivo\)](https://open.spotify.com/album/74v3m9LKKjNza7jBE3vxhc) | 2:51 |
-| 33 | [Cê Me Vagabundou \- Ao Vivo](https://open.spotify.com/track/1vGICiBGSIcfjeq2PSsoia) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Loubet 10 anos, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/7CY7fJAhUeHItBalV6YtZw) | 2:59 |
+| 33 | [Cê Me Vagabundou \- Ao Vivo](https://open.spotify.com/track/1vGICiBGSIcfjeq2PSsoia) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Loubet 10 anos, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/7CY7fJAhUeHItBalV6YtZw) | 3:00 |
 | 34 | [Nem Balancei \(Ao Vivo\)](https://open.spotify.com/track/6ENo0tjJEwNi5vjIp0WlIo) | [Pedro Libe](https://open.spotify.com/artist/17BosX8iQj91SXOx7dsi5k), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Nem Balancei \(Ao Vivo\)](https://open.spotify.com/album/6atfirRbM5xZuQgZFGTTaS) | 3:43 |
 | 35 | [Jersey Culture BR](https://open.spotify.com/track/4JDLzoBc8uxuGgK0scCksH) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb) | [Jersey Culture BR](https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG) | 1:59 |
 | 36 | [As Ruas Chamam](https://open.spotify.com/track/0Sk2ZsTdzuaK7rQQTkPf2V) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Bolin Batidas](https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j) | [As Ruas Chamam](https://open.spotify.com/album/4hIzV7ARZ7hy6djIXZdAC7) | 2:28 |

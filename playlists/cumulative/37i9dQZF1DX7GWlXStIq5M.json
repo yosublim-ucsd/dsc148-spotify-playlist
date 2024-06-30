@@ -8599,6 +8599,28 @@
     },
     {
       "album": {
+        "name": "MEDUSA",
+        "url": "https://open.spotify.com/album/0NUNSLOOIBkS8kzkPqHGEH"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "MEDUSA",
+      "url": "https://open.spotify.com/track/6dGgJC9CyiQJXL4dTU6teY"
+    },
+    {
+      "album": {
         "name": "PIRATA",
         "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
       },
@@ -15580,7 +15602,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 175000,
       "name": "Tudo Pra Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"

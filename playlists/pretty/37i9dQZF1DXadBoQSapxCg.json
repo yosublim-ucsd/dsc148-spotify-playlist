@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 311543,
+  "num_followers": 311556,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Saudade daquilo",
+      "url": "https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl"
+    },
+    {
+      "added_at": "2024-06-21 01:07:42",
+      "album": {
         "name": "Grupo bom",
         "url": "https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Saudade daquilo",
-      "url": "https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl"
-    },
-    {
-      "added_at": "2024-06-21 01:07:42",
-      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq"
       },
@@ -527,30 +527,18 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+        "name": "Codinome",
+        "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
         }
       ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+      "duration_ms": 209026,
+      "name": "Codinome",
+      "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
     },
     {
       "added_at": "2024-06-21 01:07:42",
@@ -595,18 +583,30 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
-        "name": "Codinome",
-        "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
       "artists": [
         {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Codinome",
-      "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "added_at": "2024-06-21 01:07:42",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Voc\u00ea n\u00e3o vive sem",
+      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
+    },
+    {
+      "added_at": "2024-06-21 01:07:42",
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": "2024-06-21 01:07:42",
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Voc\u00ea n\u00e3o vive sem",
-      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
     },
     {
       "added_at": "2024-06-21 01:07:42",

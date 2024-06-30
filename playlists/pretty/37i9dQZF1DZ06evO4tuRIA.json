@@ -1,12 +1,12 @@
 {
-  "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 81412,
+  "description": "This Is LEGADO 7. Los temas esenciales, todos en una lista.",
+  "num_followers": 81426,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAADkcwBKTme2yJsKlNCtnxHz",
+  "snapshot_id": "Zn39AAAAAAAKLnA/eSw7t7nOBHwU5K7t",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
+        }
+      ],
+      "duration_ms": 169877,
+      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Charal",
         "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
       },
@@ -287,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cuestionario",
         "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
       },
@@ -319,6 +319,26 @@
       "duration_ms": 188632,
       "name": "El Cuestionario",
       "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Forma De Ser",
+        "url": "https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 177237,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j"
     },
     {
       "added_at": null,
@@ -395,26 +415,6 @@
       "duration_ms": 157749,
       "name": "Chambeando Recio",
       "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Forma De Ser",
-        "url": "https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 177237,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 126249,
-      "name": "Bien Tumbado",
-      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 126249,
+      "name": "Bien Tumbado",
+      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Doble M",
+        "url": "https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 146749,
+      "name": "El Doble M",
+      "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Gori",
         "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 137256,
       "name": "El Gori",
       "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Doble M",
-        "url": "https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 146749,
-      "name": "El Doble M",
-      "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Hasta Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dos Cabrones",
         "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 154232,
       "name": "Dos Cabrones",
       "url": "https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Hasta Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7"
     },
     {
       "added_at": null,
@@ -983,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche Vol. 3",
-        "url": "https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9"
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 168976,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa"
+      "duration_ms": 156779,
+      "name": "Olor a Kush",
+      "url": "https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc"
     }
   ],
   "unique_name": "This Is LEGADO 7",

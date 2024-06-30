@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Rowjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,013 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,011 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 9 | [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 |
 | 10 | [Sens interdit \(feat\. Ninho\)](https://open.spotify.com/track/0SCdkVwfYVHT0OwHIpePdf) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Sens interdit \(feat\. Ninho\)](https://open.spotify.com/album/6MTpjYzuyPkfWa0gkyIAG1) | 2:32 |
 | 11 | [DEMBÉLÉ](https://open.spotify.com/track/7znhCvyqxCEUPFutuLM6jR) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:17 |
-| 12 | [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:37 |
+| 12 | [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:36 |
 | 13 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 |
 | 14 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 |
 | 15 | [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 |

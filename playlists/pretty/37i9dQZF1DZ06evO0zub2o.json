@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 284949,
+  "num_followers": 285066,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAACLhXrPHepKxDnTF/2eyBh2",
+  "snapshot_id": "Zn39AAAAAABf6UJZqWOa2ohVOBVXT5+Y",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 319133,
       "name": "Psycho Holiday",
       "url": "https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Strength Beyond Strength",
+      "url": "https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Strength Beyond Strength",
-      "url": "https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 286693,
       "name": "Heresy",
       "url": "https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Slaughtered",
+      "url": "https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "The Badge",
+      "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Far Beyond Driven",
         "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
@@ -420,25 +436,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Slaughtered",
-      "url": "https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 229015,
-      "name": "Cat Scratch Fever",
-      "url": "https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk"
+      "duration_ms": 336800,
+      "name": "Shedding Skin",
+      "url": "https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "The Badge",
-      "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinventing the Steel (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Goddamn Electric",
-      "url": "https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
         "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 312746,
       "name": "Where You Come From - 2003 Remaster",
       "url": "https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Goddamn Electric",
+      "url": "https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp"
     },
     {
       "added_at": null,
@@ -571,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "We'll Grind That Axe for a Long Time",
-      "url": "https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
         "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 256586,
       "name": "Hole in the Sky - 2003 Remaster",
       "url": "https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "We'll Grind That Axe for a Long Time",
+      "url": "https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl"
     },
     {
       "added_at": null,

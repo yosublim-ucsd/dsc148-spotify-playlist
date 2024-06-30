@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKvqCSbZRTE.md) - [plain]
 
 > Episode yang harus selalu didengarkan di sekitaran radar kamu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 11 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 11 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

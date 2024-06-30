@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
+  "description": "This is Shania Twain. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
   "name": "This Is Shania Twain",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 270026,
       "name": "(If You're Not In It For Love) I'm Outta Here!",
       "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 159382,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 219693,
       "name": "Black Eyes, Blue Tears",
       "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 237939,
       "name": "From This Moment On - Pop On-Tour Version / Remastered 2023",
       "url": "https://open.spotify.com/track/6rsDkvbgiAkMWWudkR57IP"
@@ -356,6 +356,24 @@
       "duration_ms": 214863,
       "name": "Honey, I'm Home",
       "url": "https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh"
+    },
+    {
+      "album": {
+        "name": "I Ain't No Quitter",
+        "url": "https://open.spotify.com/album/5HP97nyysOixNWIugNMclQ"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "I Ain't No Quitter - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0R3OgiEzFBmsBYNfEG8JKk"
     },
     {
       "album": {
@@ -648,7 +666,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 183960,
       "name": "No One Needs To Know",
       "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
@@ -1140,6 +1158,28 @@
     {
       "album": {
         "name": "Encontros Pelo Caminho",
+        "url": "https://open.spotify.com/album/18LdSvS656ricZQyY7p1Px"
+      },
+      "artists": [
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1PkzZoOAwHFEmVjTp2Eaiv"
+    },
+    {
+      "album": {
+        "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
       "artists": [
@@ -1154,7 +1194,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 214440,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"

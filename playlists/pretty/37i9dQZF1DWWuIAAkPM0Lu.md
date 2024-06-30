@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:album:1UwgdrQVaJBueo48c2GM8x">PÅ GENSYN</a> 👀 <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,589 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,595 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 69 | [Violently Patient \(Seife Remix\)](https://open.spotify.com/track/6L5sgdscc4gdqDghgNX0j6) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz), [Seife](https://open.spotify.com/artist/4xxLUfiwrWWKUEMo1vNqbJ) | [Violently Patient \(Seife Remix\)](https://open.spotify.com/album/2dDneL3lRUMhTghHddBsrD) | 3:49 |
 | 70 | [Permission](https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Permission](https://open.spotify.com/album/1cuEHKMtUWcrehv5XeqSlt) | 2:35 |
 | 71 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 |
-| 72 | [PERROS&GATA$](https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Saiko](https://open.spotify.com/artist/3mTZeBUkzqhE0Qk82ET3Yg) | [PERROS&GATA$](https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg) | 2:59 |
+| 72 | [PERROS&GATA$](https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [PERROS&GATA$](https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg) | 2:59 |
 | 73 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 |
 | 74 | [Chemistry](https://open.spotify.com/track/24rdJVqYaTTWa0vs0oQcZY) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Chemistry](https://open.spotify.com/album/0ZtPJtuB41OFFNrzXWPGoL) | 3:24 |
 | 75 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 84 | [Shivers](https://open.spotify.com/track/71NA0mXMhLssO4TYzNvtQ5) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Shivers](https://open.spotify.com/album/198js3GmZdhSrvOhiEJnuQ) | 3:04 |
 | 85 | [Let It Out](https://open.spotify.com/track/66MmXN5uJDfde13YSOXErn) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Let It Out](https://open.spotify.com/album/1ecuth1VASzvanfYE9Km5P) | 2:34 |
 | 86 | [Come Around](https://open.spotify.com/track/0AMb8oicfXbM0u2FVHYbFM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Come Around](https://open.spotify.com/album/4ZDNJrvHXeLWqxrJmT1uFe) | 2:30 |
-| 87 | [cinammon hearts](https://open.spotify.com/track/65XOnyB3Qd96L2hQ1qyeVi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [cinammon hearts](https://open.spotify.com/album/5nB9WhwyYR0dImbpSlM6yN) | 1:55 |
+| 87 | [cinnamon hearts](https://open.spotify.com/track/65XOnyB3Qd96L2hQ1qyeVi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [cinnamon hearts](https://open.spotify.com/album/5nB9WhwyYR0dImbpSlM6yN) | 1:55 |
 | 88 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 |
 | 89 | [Hurt Me Like You Do](https://open.spotify.com/track/1yjVWsuNgxGUB5LfNzmIJ7) | [Jacqline](https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC) | [Hurt Me Like You Do](https://open.spotify.com/album/4gWqOjkTUhvKKzvuMfRpe8) | 2:40 |
 | 90 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 |

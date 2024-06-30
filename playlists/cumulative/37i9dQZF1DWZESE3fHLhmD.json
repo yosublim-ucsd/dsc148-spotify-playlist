@@ -1097,7 +1097,7 @@
     },
     {
       "album": {
-        "name": "Fu\u00df baumeln",
+        "name": "fu\u00df baumeln",
         "url": "https://open.spotify.com/album/2BukPk8h55bGp9vildXq57"
       },
       "artists": [
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 158437,
       "name": "In Der Zeit Verlieren",
       "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"

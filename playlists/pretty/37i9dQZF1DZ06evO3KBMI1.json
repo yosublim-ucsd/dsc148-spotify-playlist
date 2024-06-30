@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 70657,
+  "num_followers": 70676,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAABlyUKhaDwxXEXkUAiVGg0n",
+  "snapshot_id": "Zn39AAAAAAClKbb6518byq+U38m1oQgX",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neo SOUND BEST",
-        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "\u30b7\u30e3\u30ab\u30d3\u30fc\u30c1\u301cLaka Laka La\u301c",
-      "url": "https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202013,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neo SOUND BEST",
+        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "\u30b7\u30e3\u30ab\u30d3\u30fc\u30c1\u301cLaka Laka La\u301c",
+      "url": "https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 291600,
-      "name": "\u30b7\u30ea\u30a6\u30b9",
-      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
+      "duration_ms": 222786,
+      "name": "Q.E.D.",
+      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Q.E.D.",
-      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
+      "duration_ms": 291600,
+      "name": "\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
     },
     {
       "added_at": null,

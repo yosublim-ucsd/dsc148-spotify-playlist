@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADsGDlHi0KooSCnBjj6QgJx",
+  "snapshot_id": "AAAAAAAAAACQVWzTCaO8l0BfrOj+PNnj",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         },
         {
-          "name": "Ian Scott",
-          "url": "https://open.spotify.com/artist/4qnz8cDoORyx3KoY3oYFnh"
+          "name": "Iain Cook",
+          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
         }
       ],
       "duration_ms": 376094,
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "A Bar Song (Tipsy) [Remix]",
-        "url": "https://open.spotify.com/album/2rekeGXe7IdU7o7qnayVbQ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 151961,
-      "name": "A Bar Song (Tipsy) [Remix]",
-      "url": "https://open.spotify.com/track/0baUuonAecT31Sju50YgOB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "\u0421\u043e\u043d / Son",
         "url": "https://open.spotify.com/album/1fcCWRHZESlnXFSPs8piEb"
       },
@@ -791,22 +771,6 @@
       "duration_ms": 284453,
       "name": "Fall In Line",
       "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Rock 'n' Roll Star!",
-        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 142338,
-      "name": "I Can't Explain - Trident Studios Version",
-      "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -859,6 +823,22 @@
       "duration_ms": 223133,
       "name": "Just Like 73 - Tom Morello Version",
       "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Rock 'n' Roll Star!",
+        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 104690,
+      "name": "So Long 60s - San Francisco Hotel Recording",
+      "url": "https://open.spotify.com/track/4atQJpxhZKQQ7iHSRUpNDY"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -991,54 +971,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Bajo el Hechizo de la Resonancia: Explorando tu Reino de Paraguas",
-        "url": "https://open.spotify.com/album/64KURxmmxZDIpnmcMCL6Tj"
-      },
-      "artists": [
-        {
-          "name": "Sol y Lluvia",
-          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
-        },
-        {
-          "name": "Lluvia Relajante",
-          "url": "https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF"
-        },
-        {
-          "name": "Sonidos De Truenos y Lluvia",
-          "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
-        }
-      ],
-      "duration_ms": 108946,
-      "name": "Singular Ecstasy",
-      "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-        "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        },
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        }
-      ],
-      "duration_ms": 240539,
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -1071,54 +1003,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "V de Vendetta",
-        "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
-      },
-      "artists": [
-        {
-          "name": "Dark Moor",
-          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
-        }
-      ],
-      "duration_ms": 300472,
-      "name": "V de Vendetta",
-      "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Parklife (Live at Wembley Stadium)",
-        "url": "https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 230840,
-      "name": "Parklife - Live at Wembley Stadium",
-      "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Pictures of You",
-        "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
       },
@@ -1128,25 +1012,9 @@
           "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 446762,
-      "name": "The Call of Ktulu",
-      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Quer\u00eda Saber",
-        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 348340,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
+      "duration_ms": 258483,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/1eD81S9fMa6IZ7juZsPJzk"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1163,22 +1031,6 @@
       "duration_ms": 199854,
       "name": "Gimme Danger - Early Demo",
       "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "A new bohemia",
-        "url": "https://open.spotify.com/album/6HRsZwU2RK31pMrVz7OXgF"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 266677,
-      "name": "I've got plans (involving you)",
-      "url": "https://open.spotify.com/track/6W2XOPrs33XWgVwjmpIEpr"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1211,6 +1063,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "Tonada para dos poemas de Rub\u00e9n Mart\u00ednez Villena",
+      "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
       },
@@ -1223,22 +1091,6 @@
       "duration_ms": 195099,
       "name": "We Made It Look Easy",
       "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The Born in the U.S.A. Tour '84 - '85",
-        "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 252366,
-      "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
-      "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1319,54 +1171,6 @@
       "duration_ms": 193103,
       "name": "Don't Give Up - Grafix Remix",
       "url": "https://open.spotify.com/track/6cJH8BO7B8Gl3n40q8Inh5"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Sound of the Crowd - Greatest Hits Live in Concert",
-        "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "The Lebanon (Live)",
-      "url": "https://open.spotify.com/track/5lbf0gy6mqpC7NeXeaCeAk"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Let The Canary Sing",
-        "url": "https://open.spotify.com/album/7IN7x4CD7oDfkhOf3RisGR"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 273059,
-      "name": "Money Changes Everything - Live at Irvine Meadows Amphitheater, Laguna Hills, CA - 09/22/1984 - Let The Canary Sing Edit",
-      "url": "https://open.spotify.com/track/2ywYZp3rMpCIwLcj5YdjH8"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

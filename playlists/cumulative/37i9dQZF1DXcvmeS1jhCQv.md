@@ -2,7 +2,7 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: KNEECAP
+> New tunes from Ireland for your discovery\. Cover: KNEECAP \#Glastonbury2024
 
 172 songs - 9 hr 36 min
 

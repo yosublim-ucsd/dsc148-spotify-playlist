@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=T0cHfvZ5QvqWrhWjVYfxBg>Mikhalé Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,170 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,181 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 2 | [It Aint Me](https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Chaise William](https://open.spotify.com/artist/2nYUNL1u2iruJZ80oPy5Rx) | [It Ain't Me](https://open.spotify.com/album/0q7MlqQeZu1eCvtUcuFMot) | 3:08 |
 | 3 | [jaydon's jam](https://open.spotify.com/track/7oV8PJO6SfgFcZbn3VPT2O) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [jaydon's jam](https://open.spotify.com/album/4lhJgthFjUNvIn6Mv0m1mR) | 2:21 |
 | 4 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
-| 5 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 |
+| 5 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 |
 | 6 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 |
 | 7 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 |
 | 8 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |

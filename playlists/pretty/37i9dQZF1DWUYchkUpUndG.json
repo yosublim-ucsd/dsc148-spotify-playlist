@@ -1,12 +1,12 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:  Spotlite Nation",
-  "num_followers": 23206,
+  "num_followers": 23334,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39PAAAAAC/rbGlGwjZQd9spjOpgCRI",
+  "snapshot_id": "Zn/Q8AAAAACxL2bhPlJq8Jn4Ry2i3pHI",
   "tracks": [
     {
       "added_at": "2024-06-28 00:01:00",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
     },
     {
+      "added_at": "2024-06-29 09:11:49",
+      "album": {
+        "name": "Take all the Praise",
+        "url": "https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "duration_ms": 391489,
+      "name": "Take all the Praise",
+      "url": "https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E"
+    },
+    {
       "added_at": "2024-06-28 00:01:00",
       "album": {
         "name": "You Are You",
@@ -115,6 +131,30 @@
       "duration_ms": 559994,
       "name": "Prayer - Live",
       "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
+    },
+    {
+      "added_at": "2024-06-29 09:16:32",
+      "album": {
+        "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
+        "url": "https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 308210,
+      "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
+      "url": "https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ"
     },
     {
       "added_at": "2024-06-28 00:01:00",

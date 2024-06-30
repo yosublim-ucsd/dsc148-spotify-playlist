@@ -1,12 +1,12 @@
 {
-  "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 34661,
+  "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
+  "num_followers": 34702,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAAP5wJasBfVkwhEdzaJgfq0",
+  "snapshot_id": "Zn39AAAAAADtNHvUEKtJgfVZrzPyzWQy",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailando Por Ti",
         "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 165000,
       "name": "Bailando Por Ti",
       "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
     },
     {
       "added_at": null,

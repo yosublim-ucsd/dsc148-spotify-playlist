@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261493,
+      "name": "Alabanza",
+      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 261493,
       "name": "Alabanza",
       "url": "https://open.spotify.com/track/6g0p5ZemM9FUKyNCqlkt69"

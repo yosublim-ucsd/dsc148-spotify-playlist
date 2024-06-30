@@ -639,6 +639,36 @@
     },
     {
       "album": {
+        "name": "Day After",
+        "url": "https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "blndspot",
+          "url": "https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn"
+        },
+        {
+          "name": "h00t",
+          "url": "https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX"
+        },
+        {
+          "name": "Myuga",
+          "url": "https://open.spotify.com/artist/1PGBkdt38wLMukl1HUX6ED"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142325,
+      "name": "Day After",
+      "url": "https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u"
+    },
+    {
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/4EG75OgsOjd6ukj9IzpsFb"
       },
@@ -1184,7 +1214,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 137635,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5"

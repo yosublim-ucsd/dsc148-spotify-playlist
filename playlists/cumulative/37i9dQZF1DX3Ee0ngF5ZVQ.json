@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 237013,
       "name": "Honky Tonk Halo",
       "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
@@ -6233,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Luckiest Guy I Know",
+        "url": "https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216382,
+      "name": "Luckiest Guy I Know",
+      "url": "https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo"
+    },
+    {
+      "album": {
         "name": "Made In Texas",
         "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
       },
@@ -7176,6 +7194,24 @@
       "duration_ms": 209702,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/51WG9PYBpY8wgecAZFEMTS"
+    },
+    {
+      "album": {
+        "name": "Roadrunner!",
+        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Other Girls (Ain't Havin' Any Fun)",
+      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
     },
     {
       "album": {
@@ -11768,7 +11804,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"

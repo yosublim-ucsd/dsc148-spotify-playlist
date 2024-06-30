@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-746 songs - 1 day 16 hr 43 min
+747 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2021-12-15 | 2022-02-12 |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-03-01 |  |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2022-02-11 | 2023-04-15 |
-| [Mangosteen \(feat\. Sailorr & Biako\)](https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:09 | 2024-04-26 |  |
+| [Mangosteen \(feat\. Sailorr & Biako\)](https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:09 | 2024-04-26 | 2024-06-30 |
 | [Many Ways](https://open.spotify.com/track/2AfcTMT8jdpbUAEXYhcj2d) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Many Ways](https://open.spotify.com/album/73nMLfzFweJGeLrW3dmtqN) | 3:27 | 2023-04-21 | 2023-09-15 |
 | [Many Ways](https://open.spotify.com/track/3snRYteaPc80GPKOimhrEF) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:27 | 2023-04-21 | 2023-12-22 |
 | [MARIPOSA](https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:12 | 2023-10-27 | 2024-01-20 |
@@ -634,6 +634,7 @@
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-06-30 | 2023-08-26 |
 | [SunLove.](https://open.spotify.com/track/0F4ztuiA5xMeNCoze1f09l) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [SunLove.](https://open.spotify.com/album/5AhtXEb5LIRUvtQudCPWx1) | 3:26 | 2024-05-31 |  |
 | [Superficial](https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superficial](https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea) | 2:44 | 2024-03-29 |  |
+| [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-06-28 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-09-02 | 2022-09-17 |
 | [Surrender](https://open.spotify.com/track/4yBzXfwyFa1wbCBS3iYF2X) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB), [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ) | [Surrender](https://open.spotify.com/album/63VfVVts4L2wtn6KLBPSzB) | 3:33 | 2023-12-08 | 2024-01-13 |
 | [Sweet Nothing](https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Sweet Nothing](https://open.spotify.com/album/2UWJzgUpIJpurnzuT1bpqT) | 3:29 | 2023-05-26 | 2023-07-15 |

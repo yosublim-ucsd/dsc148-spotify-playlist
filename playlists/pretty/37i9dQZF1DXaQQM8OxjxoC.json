@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 106671,
+  "num_followers": 106707,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Brahms: Complete Piano Music",
+        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 584160,
+      "name": "Scherzo in E flat minor, Op. 4",
+      "url": "https://open.spotify.com/track/6Iz19bcZsTUsQtE6HNlgTn"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Brahms: Symphony No. 3 / Haydn Variations",
         "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 789573,
       "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
       "url": "https://open.spotify.com/track/6zXGDCV9UFzqvGYvQmEdr3"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Brahms: Complete Piano Music",
-        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 584160,
-      "name": "Scherzo in E flat minor, Op. 4",
-      "url": "https://open.spotify.com/track/6Iz19bcZsTUsQtE6HNlgTn"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -695,30 +695,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: Symphonies Nos. 1 & 2, Tragic Overture, Variations on a Theme of Haydn",
-        "url": "https://open.spotify.com/album/6cLNTvV1K2hCXv1ZGlm9jr"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 590800,
-      "name": "Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto",
-      "url": "https://open.spotify.com/track/3PK6GwShPUhwxP2QiCzvYj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Brahms: Symphony No.4; Alto Rhapsody; Nanie",
         "url": "https://open.spotify.com/album/4yCLtnu8ZQzV1MBH05AFyV"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 1029160,
       "name": "Schicksalslied, Op. 54",
       "url": "https://open.spotify.com/track/48mwYgHplAN2ivt8BsXlc5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brahms: Symphonies Nos. 1 & 2, Tragic Overture, Variations on a Theme of Haydn",
+        "url": "https://open.spotify.com/album/6cLNTvV1K2hCXv1ZGlm9jr"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 590800,
+      "name": "Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto",
+      "url": "https://open.spotify.com/track/3PK6GwShPUhwxP2QiCzvYj"
     },
     {
       "added_at": "2022-09-30 04:00:00",

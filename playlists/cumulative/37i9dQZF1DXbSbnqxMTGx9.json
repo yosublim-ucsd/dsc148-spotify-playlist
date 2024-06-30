@@ -5078,7 +5078,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
@@ -5298,7 +5298,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 175026,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 222440,
       "name": "Life",
       "url": "https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve"
@@ -5468,7 +5468,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 163826,
       "name": "Lips of Wine",
       "url": "https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76"
@@ -5742,7 +5742,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 266986,
       "name": "Love Has Found Its Way",
       "url": "https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK"
@@ -8288,7 +8288,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 154360,
       "name": "Rudy, a Message to You",
       "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
@@ -8770,7 +8770,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 148333,
       "name": "Sister Big Stuff",
       "url": "https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy"
@@ -9293,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "Monkey Man",
+        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "Sun Moon and Star",
+      "url": "https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0"
+    },
+    {
+      "album": {
         "name": "Essential Artist Collection: The Maytals",
         "url": "https://open.spotify.com/album/2oT90evBv9AnvDXcIXaq5o"
       },
@@ -9308,24 +9326,6 @@
       "duration_ms": 192386,
       "name": "Sun Moon and Star",
       "url": "https://open.spotify.com/track/40VWRV2m76Ra1nMwOPxSBZ"
-    },
-    {
-      "album": {
-        "name": "Monkey Man",
-        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "date_added": "2021-03-02",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 194653,
-      "name": "Sun Moon and Star",
-      "url": "https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0"
     },
     {
       "album": {

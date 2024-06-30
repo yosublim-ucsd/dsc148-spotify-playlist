@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-953 songs - 1 day 23 hr 30 min
+954 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-12 | 2023-08-14 |
 | [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 | 2023-07-17 |
-| [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-05-18 |  |
+| [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-05-18 | 2024-06-30 |
 | [BANA GAYRET](https://open.spotify.com/track/0y07MvJpFBuMEtsa0bIeJj) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:25 | 2022-01-22 | 2022-01-29 |
 | [BANA GÖNDER!](https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI) | [Lvbel C5](https://open.spotify.com/artist/09ic2uid6mCDyUdFBb4N1B), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BANA GÖNDER!](https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich) | 2:16 | 2023-10-14 | 2023-10-16 |
 | [Bana Sorma](https://open.spotify.com/track/2QxaqKlNW0XZIjppSQJahw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bana Sorma](https://open.spotify.com/album/5qmPZh2dhkvsXrVRZCXwV7) | 2:45 | 2021-04-04 | 2021-04-15 |
@@ -141,7 +141,7 @@
 | [Ben Bilmem](https://open.spotify.com/track/0V3ZiQzJE6q4jTfJjYw6Ib) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Gel De Sevme](https://open.spotify.com/album/6XflKqxcrRKzVzLQN0RNBZ) | 3:10 | 2021-05-10 | 2021-05-30 |
 | [Ben Gibi Bakmaz](https://open.spotify.com/track/3QWpTf2VIdELYUUiKJAXlI) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Ben Gibi Bakmaz](https://open.spotify.com/album/6IU59t2Ujxo6PfliB9y3kQ) | 3:31 | 2021-03-27\* | 2021-05-25 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-04-25 |  |
-| [Ben Sarhoş Oldum](https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [Sev Yeter](https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO) | 3:30 | 2024-06-24 | 2024-06-26 |
+| [Ben Sarhoş Oldum](https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [Sev Yeter](https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO) | 3:30 | 2024-06-24 |  |
 | [Bence de Zor](https://open.spotify.com/track/4h4700vf4w6WDo1Bh9OBAg) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bence de Zor](https://open.spotify.com/album/3C9rw1MMew1lL55I9eJYrB) | 2:36 | 2021-04-11 | 2021-05-23 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/5vbUKpzqUdNHi68OmxdmBC) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Afrodizyak](https://open.spotify.com/album/4TMsAIQX08fIY9pfSE2y7G) | 2:19 | 2023-06-24 | 2023-09-08 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/38t5dhK8APbBXzqGpPgTJP) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Benden Bir Tane Daha Yok](https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0) | 2:19 | 2023-05-03 | 2023-06-25 |
@@ -760,7 +760,7 @@
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-06 | 2022-04-10 |
 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 | 2024-03-16 |  |
 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 | 2023-08-27 |
-| [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-12 |  |
+| [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-12 | 2024-06-30 |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Sen ve Yıldız](https://open.spotify.com/track/3tIoAdD3rSPCYdtR55TXyj) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sen ve Yıldız](https://open.spotify.com/album/1nQRXlzrnkEN8qJAoj4pra) | 3:18 | 2023-11-04 | 2023-11-06 |
 | [Senden Güzeli Mi Var](https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:23 | 2024-02-03 | 2024-05-17 |
@@ -946,6 +946,7 @@
 | [Çok Yazık](https://open.spotify.com/track/6NbXYfMZULpf1sGxp8Qx0P) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [YANGIN](https://open.spotify.com/album/6El74tmpitoS7Z7NoO6xaO) | 3:38 | 2023-06-15 | 2023-12-24 |
 | [Ölebilirim](https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Ölebilirim](https://open.spotify.com/album/0P3wjoDhm36wToI7e2riWK) | 3:49 | 2021-05-17 | 2021-12-12 |
 | [Ölümle Yaşam Arasında](https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Ölümle Yaşam Arasında](https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C) | 2:56 | 2022-10-06 | 2023-07-15 |
+| [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-06-29 |  |
 | [Ömrüm](https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Ömrüm](https://open.spotify.com/album/0Hnmp3HmLAReVVeCc4Bd9Y) | 4:00 | 2021-09-05 | 2022-01-30 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-22 |  |
 | [Öptüm Nefesinden](https://open.spotify.com/track/2ReOPzZ5eaKbZjLhlMjxDT) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [Ekin Uzunlar](https://open.spotify.com/artist/35ngoeYRyOveM0rPvahkot) | [Öptüm Nefesinden](https://open.spotify.com/album/4IA9Ll6okj08r4WOYbudhz) | 2:46 | 2021-03-27\* | 2021-03-29 |

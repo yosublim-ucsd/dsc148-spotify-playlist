@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g">Manana</a>, <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV\-LkmPxCQ">Shallipopi</a> and <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA">Joshua Baraka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,691 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,716 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 16 | [Stena Academy 4 Life \(feat\. Unlimited Soul & Djy Fresh\)](https://open.spotify.com/track/4OqpVdONFjSYOa5axXFquB) | [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Unlimited Soul](https://open.spotify.com/artist/3T58DoilUAtdWD9CHZuo43), [Djy Fresh](https://open.spotify.com/artist/57HO0YVr4PdApm1tM1hurt) | [Stena Academy 4 Life \(feat\. Unlimited Soul & Djy Fresh\)](https://open.spotify.com/album/1HYc2ulLHah6XLCu2an2VJ) | 5:08 |
 | 17 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 |
 | 18 | [CALL ME](https://open.spotify.com/track/6wbiT7ohab2npxpH0Qjfq4) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 3:31 |
-| 19 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 |
+| 19 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 |
 | 20 | [CLUTCH BALANTSI \(TIME IT\)](https://open.spotify.com/track/7ET8R6aYPGU49Rvknyc3vT) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N) | [CLUTCH BALANTSI \(TIME IT\)](https://open.spotify.com/album/1siqX0QA6eKffTmQyEFogH) | 3:36 |
 | 21 | [Blame](https://open.spotify.com/track/4CuOZPjdBYIv2LBH2rjlcO) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Blame](https://open.spotify.com/album/1TaOehFY4w199Js31jlJWq) | 2:21 |
 | 22 | [Cheque](https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Cheque](https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr) | 2:24 |

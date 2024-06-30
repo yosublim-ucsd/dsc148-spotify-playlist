@@ -2,7 +2,7 @@
 
 ### [This Is Jacob Banks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hk7Li)
 
-> This is Jacob Banks\. The essential tracks, all in one playlist.
+> This Is Jacob Banks\. Los temas esenciales, todos en una lista.
 
 81 songs - 4 hr 49 min
 

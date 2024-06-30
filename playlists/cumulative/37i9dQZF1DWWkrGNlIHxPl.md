@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Saint Levant
+> Global crossovers by/with Arab artists\. Cover: Bayou
 
-338 songs - 18 hr 37 min
+339 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 | 2022-02-25 | 2022-12-08 |
 | [HABIBI \(MY LOVE\)](https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [HABIBI \(MY LOVE\)](https://open.spotify.com/album/27wb1fwl2aMDdmoUOCaQY3) | 2:29 | 2022-10-08 | 2023-06-27 |
 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 | 2022-01-09 | 2023-01-26 |
+| [Haifa Wehbe](https://open.spotify.com/track/17b1DCO3Fp60x4Ri8iK1rQ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Haifa Wehbe](https://open.spotify.com/album/5tPaBF7H4a8YMLSzy01yHS) | 2:57 | 2024-06-29 |  |
 | [Hair Up](https://open.spotify.com/track/588UOjXO2vpmEOKT5IL62o) | [Nadine](https://open.spotify.com/artist/4UnznusdX9MEldtlPuh5Oq) | [Hair Up](https://open.spotify.com/album/4GQB0OYAdjKLi3ZvMpIo2S) | 3:07 | 2021-12-16 | 2022-02-22 |
 | [Hala Walla](https://open.spotify.com/track/4eEFZc50WNQxyrJWY9jCru) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Hala Walla](https://open.spotify.com/album/04kLge4bJNgLW6Hot5Dik3) | 2:47 | 2022-12-07 | 2023-04-01 |
 | [Hasni](https://open.spotify.com/track/5CarMlAJR0q27OKXoShOAk) | [Ihan X Twelve](https://open.spotify.com/artist/1c35SkrlVOC3HsHbcCAhQz) | [Hasni](https://open.spotify.com/album/1wuzmewgorfbBPCvVEO9nJ) | 3:25 | 2022-06-06 | 2022-06-24 |
@@ -242,7 +243,7 @@
 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 | 2023-04-07 | 2023-05-08 |
 | [push back \(feat\. GrzzLee\)](https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [push back \(feat\. GrzzLee\)](https://open.spotify.com/album/3VoZJdHv32izzxBHyjQdod) | 2:15 | 2024-02-13 |  |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-08 | 2023-04-01 |
-| [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-20 |  |
+| [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-20 | 2024-06-30 |
 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 | 2023-10-02 |  |
 | [Rani Fi Mouchkila](https://open.spotify.com/track/36hv6TVKtt0O08Z4nV4xVK) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Rani Fi Mouchkila](https://open.spotify.com/album/1ZsOEolN3qlSfG1ejFWpfK) | 4:27 | 2022-06-06 | 2022-06-24 |
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:23zg3TcAtWQy7J6upgbUnj">Usher</a>, Shot by: Robin L Marshall
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,106 likes - 160 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,176 likes - 160 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

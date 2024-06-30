@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: LP Giobbi
 
-1,374 songs - 3 day 14 hr 7 min
+1,375 songs - 3 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Devotion](https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Devotion](https://open.spotify.com/album/2qfoZjWQfXkFml3ZgwkID0) | 3:22 | 2024-01-26 | 2024-03-02 |
 | [DEVOTION \- Mansionair Remix](https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [DEVOTION \(Mansionair Remix\)](https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O) | 4:19 | 2023-09-22 | 2024-01-13 |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-03 | 2022-07-28 |
-| [die for you](https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [die for you](https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt) | 1:58 | 2024-03-22 |  |
+| [die for you](https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [die for you](https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt) | 1:58 | 2024-03-22 | 2024-06-30 |
 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-15 | 2024-06-01 |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-27 | 2023-11-25 |
 | [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 | 2023-02-24 | 2023-07-22 |
@@ -1086,6 +1086,7 @@
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-11-11 | 2023-07-15 |
 | [Small Sanctuary](https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Small Sanctuary](https://open.spotify.com/album/3Hw0CqwBTvGz4HfPscEPfp) | 3:38 | 2023-11-10 | 2024-01-13 |
 | [Small Sanctuary \- nimino Remix](https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Small Sanctuary \(nimino Remix\)](https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0) | 4:12 | 2023-12-15 | 2024-03-09 |
+| [Snog](https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Snog](https://open.spotify.com/album/0yszMLZhCjPj39V54464kX) | 3:27 | 2024-06-29 |  |
 | [So Alive](https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [So Alive](https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra) | 5:22 | 2023-07-21 | 2023-08-26 |
 | [so cold](https://open.spotify.com/track/3WN37jy92FcsxyLSebdnQm) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [valo](https://open.spotify.com/album/3fBbbnUJxjPQ81d8rMZgFr) | 3:01 | 2023-12-15 | 2024-01-13 |
 | [So Fine \(Franc Moody Remix\)](https://open.spotify.com/track/2w8jk4NAkqURAJ7WvTI98W) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [So Fine \(Franc Moody Remix\)](https://open.spotify.com/album/62srGKXy3q2TDTzCLS3zwF) | 3:58 | 2021-08-06 | 2022-02-11 |

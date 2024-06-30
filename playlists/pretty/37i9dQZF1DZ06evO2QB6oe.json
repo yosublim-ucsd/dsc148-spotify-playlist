@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
-  "num_followers": 64350,
+  "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
+  "num_followers": 64379,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAB4F/DVk3tfqeqME7Ei31Nu",
+  "snapshot_id": "Zn39AAAAAAASx+BtSgsYoPydmsaQXfig",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201044,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 179339,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201044,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ"
     },
     {
       "added_at": null,
@@ -355,22 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+        "name": "Mundo Paralelo",
+        "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+      "duration_ms": 197970,
+      "name": "Mundo Paralelo",
+      "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
     },
     {
       "added_at": null,
@@ -391,22 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo Paralelo",
-        "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 197970,
-      "name": "Mundo Paralelo",
-      "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
+      "duration_ms": 185426,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Vibration - Vol. 1",
         "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 200899,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbiana II",
         "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
       },
@@ -679,22 +663,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (Remix)",
-        "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
       },
       "artists": [
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 253586,
-      "name": "Gracias - Remix",
-      "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
+      "duration_ms": 236893,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 192169,
+      "name": "Bandera Blanca",
+      "url": "https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+        "name": "Gracias (Remix)",
+        "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
       },
       "artists": [
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 192169,
-      "name": "Bandera Blanca",
-      "url": "https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo"
+      "duration_ms": 253586,
+      "name": "Gracias - Remix",
+      "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Find Your Voice Episode 4: Pedro Cap\u00f3",
-        "url": "https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 110273,
-      "name": "La Tierra del Olvido - Find Your Voice",
-      "url": "https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUNAY",
         "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 220106,
       "name": "Would You Let Me Go",
       "url": "https://open.spotify.com/track/6hvIfgaWt5jR1gsxfhEIR1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Find Your Voice Episode 4: Pedro Cap\u00f3",
+        "url": "https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 110273,
+      "name": "La Tierra del Olvido - Find Your Voice",
+      "url": "https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP"
     },
     {
       "added_at": null,

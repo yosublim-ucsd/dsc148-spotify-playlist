@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Vlntna B
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,500 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,503 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 29 | [Sismo](https://open.spotify.com/track/5rXwuI5uiv1ZaSOXm9o4Gm) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Sismo](https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO) | 3:52 |
 | 30 | [No Verán](https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 3:25 |
 | 31 | [Arza y Toma](https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Arza y Toma](https://open.spotify.com/album/4dU7Ci3JxiHQdfZWkVVyIe) | 3:34 |
-| 32 | [Sentimiento Real G](https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Sentimiento Real G](https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm) | 3:24 |
-| 33 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
+| 32 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
+| 33 | [Sentimiento Real G](https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Sentimiento Real G](https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm) | 3:24 |
 | 34 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
 | 35 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
 | 36 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
-| 37 | [Y Bailamos Tanto](https://open.spotify.com/track/2416mJlOs5VYd4sJYp5TAk) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 3:48 |
-| 38 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
+| 37 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
+| 38 | [Y Bailamos Tanto](https://open.spotify.com/track/2416mJlOs5VYd4sJYp5TAk) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 3:48 |
 | 39 | [Adentro](https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt) | 3:18 |
-| 40 | [Love It](https://open.spotify.com/track/71ANngN8RaJnVnxLs69tZg) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Love It](https://open.spotify.com/album/102WeTzufZpgQQz9fNS2t4) | 2:10 |
-| 41 | [Volver a los 17](https://open.spotify.com/track/5aDv3zkpumJDaPkrv49Vv6) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las 100 Mejores del Folklore Chileno](https://open.spotify.com/album/1YHw2Ossb71zyHCVGX0Hj0) | 4:17 |
-| 42 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
+| 40 | [Volver a los 17](https://open.spotify.com/track/5aDv3zkpumJDaPkrv49Vv6) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las 100 Mejores del Folklore Chileno](https://open.spotify.com/album/1YHw2Ossb71zyHCVGX0Hj0) | 4:17 |
+| 41 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
+| 42 | [Love It](https://open.spotify.com/track/71ANngN8RaJnVnxLs69tZg) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Love It](https://open.spotify.com/album/102WeTzufZpgQQz9fNS2t4) | 2:10 |
 | 43 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
 | 44 | [Negociemos](https://open.spotify.com/track/2uWe03F58LgGYg1px68izl) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 2:44 |
 | 45 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 |

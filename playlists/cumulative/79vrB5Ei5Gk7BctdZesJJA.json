@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Official Roadrunner Records Playlist - This weeks DEADNOISE.FM playlist is curated by Andrew from Stateside",
+  "description": "Official Roadrunner Records Playlist - We're celebrating 25 years of Slipknot with some of our favorite tracks on this week's DEADNOISE PLAYLIST",
   "name": "DEADNOISE.FM",
   "tracks": [
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "(sic)",
+      "url": "https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb"
+    },
     {
       "album": {
         "name": "Antennas to Hell",
@@ -52,7 +70,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 73835,
       "name": "1503",
       "url": "https://open.spotify.com/track/7gjG7ZZREZwCZzJ5helvkS"
@@ -399,6 +417,24 @@
     },
     {
       "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284760,
+      "name": "All Hope Is Gone",
+      "url": "https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0"
+    },
+    {
+      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -432,6 +468,24 @@
       "duration_ms": 162879,
       "name": "All in a Dream",
       "url": "https://open.spotify.com/track/59rJ1pQ2Rh4azHf1nxIX7j"
+    },
+    {
+      "album": {
+        "name": "All Out Life",
+        "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340132,
+      "name": "All Out Life",
+      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
     },
     {
       "album": {
@@ -482,7 +536,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 168903,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
@@ -608,7 +662,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 205157,
       "name": "An Opposing Argument",
       "url": "https://open.spotify.com/track/7azXOAIL7LtWJozif4ay3x"
@@ -720,6 +774,24 @@
       "duration_ms": 102258,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/3eijCaDwQVMZcQCfdmOKYT"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332906,
+      "name": "AOV",
+      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
     },
     {
       "album": {
@@ -896,7 +968,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 233600,
       "name": "Be My Blues",
       "url": "https://open.spotify.com/track/4eHAxIfxIPbRrnsF8vcvKA"
@@ -921,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "album": {
         "name": "Super Amusement Machine for Your Exciting Heart",
         "url": "https://open.spotify.com/album/6BljRfDJjAi8RRiQ8mgAk4"
       },
@@ -932,7 +1022,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 228693,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/28JSW9XS9KOB75SVAU8GHY"
@@ -968,7 +1058,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 178413,
       "name": "Bicycles For Afghanistan",
       "url": "https://open.spotify.com/track/5i05cPeunvWDgM5oArJb2y"
@@ -1022,7 +1112,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 147774,
       "name": "Big Blind",
       "url": "https://open.spotify.com/track/3EPShpUesTVhsaKilxpHSZ"
@@ -1220,7 +1310,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 176376,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/1eCBtrmxRuFywmne2gdZA0"
@@ -1238,7 +1328,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 95013,
       "name": "Bleeding (Through Your Eyes)",
       "url": "https://open.spotify.com/track/0i3LpoYLVsDQID02BqMPrg"
@@ -1804,7 +1894,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 154706,
       "name": "CAN'T STOP IT",
       "url": "https://open.spotify.com/track/6RJB07ZqQUOb08bnJYKAGv"
@@ -1956,6 +2046,24 @@
       "duration_ms": 248333,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/1z9rTmGfW46p4eXimajRwV"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262986,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/6do7nVH4UOuZlKcA2ZBHbh"
     },
     {
       "album": {
@@ -2114,7 +2222,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 72612,
       "name": "Contention",
       "url": "https://open.spotify.com/track/2d62muhvrRKa8OWsN9G141"
@@ -2280,7 +2388,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 182124,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/2jzvqyKSyTqRry8ZyVjaes"
@@ -2338,6 +2446,24 @@
       "duration_ms": 178224,
       "name": "CtrlAltDelete",
       "url": "https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
     },
     {
       "album": {
@@ -2737,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308306,
+      "name": "Disasterpiece",
+      "url": "https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg"
+    },
+    {
+      "album": {
         "name": "Idle Will Kill",
         "url": "https://open.spotify.com/album/0BGdKihwQAFBRn5QGzgkbQ"
       },
@@ -2784,7 +2928,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 88597,
       "name": "Distance and Luck",
       "url": "https://open.spotify.com/track/4DbTsuQCcIR5rCYZh9K6Wg"
@@ -3079,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252613,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "album": {
         "name": "Dweller",
         "url": "https://open.spotify.com/album/7vDoAoYMMVn61pwq3Cimoj"
       },
@@ -3108,7 +3270,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 242066,
       "name": "Dying in New Brunswick",
       "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
@@ -3277,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
+    },
+    {
+      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -3292,6 +3472,24 @@
       "duration_ms": 127933,
       "name": "Evil Finds Light",
       "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "Eyeless",
+      "url": "https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ"
     },
     {
       "album": {
@@ -3472,7 +3670,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 82051,
       "name": "Falling Man",
       "url": "https://open.spotify.com/track/4S33MvthCY83k05zsoOpQB"
@@ -3526,7 +3724,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 114323,
       "name": "Fate's Hand",
       "url": "https://open.spotify.com/track/4F290bxeV3hopixqV2W1YW"
@@ -3764,7 +3962,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 66254,
       "name": "Fly Over States",
       "url": "https://open.spotify.com/track/0xDkMJdL4KxzxSZCGZHcEb"
@@ -3980,7 +4178,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 185409,
       "name": "Funny How Time Slips Away",
       "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
@@ -3998,7 +4196,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 203983,
       "name": "Further From My Start",
       "url": "https://open.spotify.com/track/7jYpwmTMvn15iEST8t2gE2"
@@ -4077,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361533,
+      "name": "Gematria (The Killing Name)",
+      "url": "https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5"
+    },
+    {
+      "album": {
         "name": "Aesthethica",
         "url": "https://open.spotify.com/album/4qutu7PdlUa7ZdYzsXI1EW"
       },
@@ -4113,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/7yQmrL4bms0JIWamjA2ok1"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/2VZE8io5jR6jb3dv1Ti0yV"
+    },
+    {
+      "album": {
         "name": "Stone Sour",
         "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
       },
@@ -4128,6 +4362,24 @@
       "duration_ms": 193533,
       "name": "Get Inside",
       "url": "https://open.spotify.com/track/2hX2v0U5lKSlxVxnesLEak"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123400,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
     },
     {
       "album": {
@@ -4358,7 +4610,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 186560,
       "name": "Hand Grenade",
       "url": "https://open.spotify.com/track/6kg5LKzlhMB4YzQI0oR3cz"
@@ -4578,6 +4830,24 @@
       "duration_ms": 221445,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/7MaP6xY4sG6aOTImzoQW1f"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
     },
     {
       "album": {
@@ -4920,7 +5190,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 321466,
       "name": "I, Stateside",
       "url": "https://open.spotify.com/track/6kKgjNvBKTzsDqkEPaomjg"
@@ -4938,7 +5208,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 223480,
       "name": "Ian Curtis",
       "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
@@ -5010,7 +5280,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 172706,
       "name": "In Even Time",
       "url": "https://open.spotify.com/track/0xzeyE2Ll8FfyEmL9cJAm8"
@@ -5064,7 +5334,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 140384,
       "name": "In the Land of Nod",
       "url": "https://open.spotify.com/track/5wLDuvlNHHWT5KfWASjMz3"
@@ -5266,7 +5536,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 131126,
       "name": "Intro / Madness Beyond",
       "url": "https://open.spotify.com/track/5wF2xGJi9BBin897kYihNr"
@@ -5302,7 +5572,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 231520,
       "name": "Is Patience Still Waiting?",
       "url": "https://open.spotify.com/track/0u5ARWuX2udjUM3edVeZQl"
@@ -5724,7 +5994,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 177773,
       "name": "Knees",
       "url": "https://open.spotify.com/track/7fwv7JlA2Whh6cvbOsf4tW"
@@ -5839,6 +6109,24 @@
     },
     {
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+    },
+    {
+      "album": {
         "name": "Little Green House",
         "url": "https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj"
       },
@@ -5886,7 +6174,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 181225,
       "name": "Letterman",
       "url": "https://open.spotify.com/track/45xy0rTeMZ8gDH9LDgrKnO"
@@ -6102,7 +6390,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 223793,
       "name": "LINE",
       "url": "https://open.spotify.com/track/51KNw4fodrksPk0yc1cesQ"
@@ -6294,7 +6582,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 106251,
       "name": "Lost in Time",
       "url": "https://open.spotify.com/track/2yipAZF2qKEcwCigGOhDYQ"
@@ -6856,7 +7144,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 201920,
       "name": "Mutual Head Club - Demo",
       "url": "https://open.spotify.com/track/5UYNFezTaq71mYe6dfu9LO"
@@ -6964,7 +7252,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 171280,
       "name": "Mysticism",
       "url": "https://open.spotify.com/track/6fp4BzYeiOMivcA4rg8QD5"
@@ -7076,7 +7364,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 315177,
       "name": "Nero Forte",
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
@@ -7138,7 +7426,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 153835,
       "name": "Never Ending Lies",
       "url": "https://open.spotify.com/track/2rbWZ7WSXPZZcfLos4vTjY"
@@ -7268,6 +7556,24 @@
       "duration_ms": 134647,
       "name": "No Good At Goodbyes",
       "url": "https://open.spotify.com/track/76p9SVJz9HDQxXzN8EwEJj"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "No Life",
+      "url": "https://open.spotify.com/track/0zy365BwajyyRj9NR3FVOU"
     },
     {
       "album": {
@@ -7614,7 +7920,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 159386,
       "name": "Orange Leaf",
       "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
@@ -7931,6 +8237,24 @@
     },
     {
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
+    },
+    {
+      "album": {
         "name": "Re:Selection",
         "url": "https://open.spotify.com/album/2w9ogjJaCU51b193IBPxxS"
       },
@@ -8104,7 +8428,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 163567,
       "name": "Power of Peace",
       "url": "https://open.spotify.com/track/1v3T94ABmEKcy8FGRPasHL"
@@ -8219,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "All Hope Is Gone (10th Anniversary)",
+        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284120,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
+    },
+    {
+      "album": {
         "name": "Urban Discipline",
         "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
       },
@@ -8288,6 +8630,24 @@
       "duration_ms": 131052,
       "name": "Puritan",
       "url": "https://open.spotify.com/track/5lpXtp3DPYdBlaJdAEESS2"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
     },
     {
       "album": {
@@ -9059,6 +9419,42 @@
     },
     {
       "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503427,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/2a0FGkbCFcm72siM9WlruO"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271986,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/1MxB3Qw6wz8IZYSmIPyH6I"
+    },
+    {
+      "album": {
         "name": "27 Miles Underwater",
         "url": "https://open.spotify.com/album/5QS3d3TiNeDsuF4jkwesGD"
       },
@@ -9679,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276146,
+      "name": "Snuff",
+      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
+    },
+    {
+      "album": {
         "name": "So Far No Further",
         "url": "https://open.spotify.com/album/1rybcDe5YnSkjUa8jEMUHv"
       },
@@ -9816,10 +10230,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 194013,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/11ZoGNkrOGyTf4gakMC2Rw"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
     },
     {
       "album": {
@@ -9838,6 +10270,24 @@
       "duration_ms": 642200,
       "name": "Spiders (Kidsmoke)",
       "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
+    },
+    {
+      "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc"
     },
     {
       "album": {
@@ -9906,7 +10356,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 159606,
       "name": "Star 9200",
       "url": "https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB"
@@ -10158,7 +10608,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 177126,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/0hU71kecYB08KaCtkk8hZ4"
@@ -10234,6 +10684,24 @@
       "duration_ms": 144826,
       "name": "Superyacht Ecopark",
       "url": "https://open.spotify.com/track/6Y8FbYUylUrYbo9NayuJU1"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Surfacing",
+      "url": "https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2"
     },
     {
       "album": {
@@ -10392,7 +10860,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 59563,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/14X4ZR07p0VLHHIPutOUVk"
@@ -10673,6 +11141,24 @@
     },
     {
       "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
+    },
+    {
+      "album": {
         "name": "The End of Heartache (Special Edition)",
         "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
       },
@@ -10720,7 +11206,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 333644,
       "name": "The Fate Pt. III",
       "url": "https://open.spotify.com/track/0Jij852qGzQDVCbTYbZQqt"
@@ -10853,6 +11339,24 @@
     },
     {
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "The Heretic Anthem",
+      "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1soWLhNGtuKWwMjNtkCxyQ"
       },
@@ -10940,6 +11444,24 @@
       "duration_ms": 196533,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/3jzAsTL0I2OMebMOSDJSKx"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325171,
+      "name": "The Negative One",
+      "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
     },
     {
       "album": {
@@ -11361,6 +11883,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288320,
+      "name": "Three Nil",
+      "url": "https://open.spotify.com/track/61KpjCXatXtHSv7z9hsv7B"
+    },
+    {
+      "album": {
         "name": "Sunstroke / Bent Blue Split",
         "url": "https://open.spotify.com/album/3xMfc9vAZnPA3aok7o4fZy"
       },
@@ -11484,7 +12024,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 202200,
       "name": "Trading Places",
       "url": "https://open.spotify.com/track/4rPxwcwopSpOH7f04SldID"
@@ -11816,10 +12356,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 189691,
       "name": "Unlike the Times Before",
       "url": "https://open.spotify.com/track/5DEY7hZgJkziYBsEvXnpjV"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260773,
+      "name": "Unsainted",
+      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
     },
     {
       "album": {
@@ -11870,7 +12428,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 316666,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9"
@@ -12040,6 +12598,24 @@
       "duration_ms": 270416,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3n17ukG0hqvuAxJlaAgbic"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Wait and Bleed",
+      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
       "album": {
@@ -12433,6 +13009,24 @@
     },
     {
       "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336893,
+      "name": "Wherein Lies Continue",
+      "url": "https://open.spotify.com/track/4nmXKnPOuMDVI8gVir3D9C"
+    },
+    {
+      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -12664,6 +13258,24 @@
       "duration_ms": 209000,
       "name": "Wring It Out",
       "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
     },
     {
       "album": {

@@ -463,6 +463,34 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
+        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
+      },
+      "artists": [
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Preck",
+          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
+        },
+        {
+          "name": "Nelson Tivane",
+          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
+      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Skin Tight",
         "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
       },
@@ -499,34 +527,6 @@
       "duration_ms": 221603,
       "name": "No Kissing Baby",
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
-        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
-      },
-      "artists": [
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Preck",
-          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
-        },
-        {
-          "name": "Nelson Tivane",
-          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
-      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
     },
     {
       "added_at": "2023-12-08 08:55:17",

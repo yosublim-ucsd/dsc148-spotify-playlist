@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 226118,
+  "num_followers": 226168,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
-      "added_at": "2022-09-27 23:17:09",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
-      },
-      "artists": [
-        {
-          "name": "OKRAA",
-          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
-        }
-      ],
-      "duration_ms": 645372,
-      "name": "Ola De Luz",
-      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
-    },
-    {
       "added_at": "2023-01-07 02:10:08",
       "album": {
         "name": "Ultra Truth",
@@ -371,6 +355,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
+    },
+    {
+      "added_at": "2022-09-27 23:17:09",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
+      },
+      "artists": [
+        {
+          "name": "OKRAA",
+          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
+        }
+      ],
+      "duration_ms": 645372,
+      "name": "Ola De Luz",
+      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
       "added_at": "2023-03-03 04:14:50",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
-      "added_at": "2022-03-30 04:41:43",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2022-01-13 02:57:00",
       "album": {
         "name": "Azure",
@@ -667,6 +651,22 @@
       "duration_ms": 246604,
       "name": "Elysian Heights",
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
+    },
+    {
+      "added_at": "2022-03-30 04:41:43",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2022-07-08 04:56:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "LEGENDO",
-        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
+        "name": "Hodes",
+        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
       },
       "artists": [
         {
-          "name": "Lutto Lento",
-          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
+          "name": "Bengalfuel",
+          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
         }
       ],
-      "duration_ms": 272327,
-      "name": "Fern Flowers",
-      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
+      "duration_ms": 194000,
+      "name": "The Pier",
+      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Hodes",
-        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
+        "name": "LEGENDO",
+        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
       },
       "artists": [
         {
-          "name": "Bengalfuel",
-          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
+          "name": "Lutto Lento",
+          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
         }
       ],
-      "duration_ms": 194000,
-      "name": "The Pier",
-      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
+      "duration_ms": 272327,
+      "name": "Fern Flowers",
+      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
     },
     {
+      "added_at": "2022-02-25 03:59:46",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
       "added_at": "2024-02-08 23:12:47",
       "album": {
         "name": "onomatopoeia",
@@ -961,20 +977,20 @@
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
-      "added_at": "2022-02-25 03:59:46",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -995,22 +1011,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
     },
     {
-      "added_at": "2022-02-18 05:43:49",
-      "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
       "added_at": "2022-08-31 03:57:27",
       "album": {
         "name": "J\u00e4rnn\u00e4tter",
@@ -1199,6 +1183,22 @@
       "duration_ms": 237750,
       "name": "Blush",
       "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
+    },
+    {
+      "added_at": "2022-02-18 05:43:49",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
     },
     {
+      "added_at": "2022-09-30 02:46:46",
+      "album": {
+        "name": "\u307f\u305e\u3046\u3075\u304f",
+        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u6751\u771f\u4e00",
+          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
+        }
+      ],
+      "duration_ms": 388373,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+    },
+    {
       "added_at": "2022-02-16 03:15:58",
       "album": {
         "name": "Aural Drift (T.Raumschmiere Remix)",
@@ -1355,22 +1371,6 @@
       "duration_ms": 347276,
       "name": "Aural Drift - T.Raumschmiere Remix",
       "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
-    },
-    {
-      "added_at": "2022-09-30 02:46:46",
-      "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
-      },
-      "artists": [
-        {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
-        }
-      ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1565,58 +1565,6 @@
       "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
     },
     {
-      "added_at": "2022-08-13 02:22:47",
-      "album": {
-        "name": "Summering (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 88960,
-      "name": "Summer Lawns",
-      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Obit For Sunshade",
-        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
-      },
-      "artists": [
-        {
-          "name": "Hotspring",
-          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
-        }
-      ],
-      "duration_ms": 171020,
-      "name": "Resounding",
-      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
-    },
-    {
-      "added_at": "2023-04-15 02:42:19",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Meemo Comma",
-          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
-        }
-      ],
-      "duration_ms": 336132,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Nightwidth",
@@ -1647,6 +1595,58 @@
       "duration_ms": 404210,
       "name": "sssssmilinggggg",
       "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Obit For Sunshade",
+        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
+      },
+      "artists": [
+        {
+          "name": "Hotspring",
+          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
+        }
+      ],
+      "duration_ms": 171020,
+      "name": "Resounding",
+      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
+    },
+    {
+      "added_at": "2022-08-13 02:22:47",
+      "album": {
+        "name": "Summering (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 88960,
+      "name": "Summer Lawns",
+      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
+    },
+    {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Meemo Comma",
+          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
+        }
+      ],
+      "duration_ms": 336132,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
     },
     {
       "added_at": "2021-10-06 04:42:05",

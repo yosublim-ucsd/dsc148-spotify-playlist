@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: sheidA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,937 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,943 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 34 | [BIG STEP](https://open.spotify.com/track/6CGuYQfsgfjjr6OV6C43cR) | [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ) | [BIG STEP](https://open.spotify.com/album/00b8thjTl2zC6xx8bcwWty) | 3:19 |
 | 35 | [Everyday](https://open.spotify.com/track/1qJIEZREoU48LC9R279WP1) | [Wyatt](https://open.spotify.com/artist/026Rf67pepoNKHMu715bik), [P\-free](https://open.spotify.com/artist/35RnWgsErQjC9JlajX82Pl) | [Everyday](https://open.spotify.com/album/32EzWT3DkMrf5ZoW6anAzL) | 2:33 |
 | 36 | [Danger Race](https://open.spotify.com/track/6N4tRgUWsHFaKUQzoTBIuU) | [SUNRUNTZ](https://open.spotify.com/artist/1NvEA2EDdxk0efOxsF2eHf) | [Danger Race](https://open.spotify.com/album/4yn2qTIIpq8qBNccVYcXkV) | 2:20 |
-| 37 | [Kobra](https://open.spotify.com/track/2lYPQGBza81vM14YJ4714v) | [E.V.P](https://open.spotify.com/artist/5D9NPQT1XN44peiYNVPfQc) | [Kobra](https://open.spotify.com/album/1HOesSFXJbFerd4GJeofo1) | 1:48 |
+| 37 | [Kobra](https://open.spotify.com/track/2lYPQGBza81vM14YJ4714v) | [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU) | [Kobra](https://open.spotify.com/album/1HOesSFXJbFerd4GJeofo1) | 1:48 |
 | 38 | [¥¥](https://open.spotify.com/track/5sU6hVfKv4Dp7uZfKuEQzJ) | [Staxx T](https://open.spotify.com/artist/1GRuzVYie982wZplKsEH71), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [¥¥](https://open.spotify.com/album/23qqjBtscKee388KL9EaAy) | 3:32 |
 | 39 | [jikan](https://open.spotify.com/track/0fKtUNIfiFQCXr0Dzmyv5O) | [Awesome Brothers](https://open.spotify.com/artist/7vcN6PhMx9fZiw5WJgZC6j), [J.Peter](https://open.spotify.com/artist/0bARf1n7M10zgVaZiyLqCg), [TAKAFUMI.](https://open.spotify.com/artist/2xJ8q7qm8zY4JhEr1uBKDk), [MEITO](https://open.spotify.com/artist/6w6JRAxv8jT2eUixIycD7k) | [jikan](https://open.spotify.com/album/2kG2spkLBK0o4bfhkxsCtH) | 3:24 |
 | 40 | [Natural Buzz](https://open.spotify.com/track/19fy3JDujAYlCL0f0LZUHx) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [OHZKEY](https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [castermild](https://open.spotify.com/artist/6gNIKY01gcqrLVU26YJ4RX) | [DAY TIME SNACK](https://open.spotify.com/album/0puKoRo0S118LVlME7ELtp) | 3:01 |

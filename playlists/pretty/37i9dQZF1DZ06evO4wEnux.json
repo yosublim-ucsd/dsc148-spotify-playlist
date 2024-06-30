@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAAafYP6Euu670URVsgGI+Tr",
+  "snapshot_id": "Zn39AAAAAADrhnR75XB/dZtN+gTMRgw9",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 201450,
       "name": "I Like Not Knowing",
       "url": "https://open.spotify.com/track/4fX5Tn7EGAuyYIk2VUaQER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 242868,
-      "name": "Just Past the Point of Breaking",
-      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 178400,
       "name": "Normal People",
       "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 242868,
+      "name": "Just Past the Point of Breaking",
+      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 189792,
-      "name": "Open Book",
-      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 185266,
       "name": "Love For Air",
       "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 189792,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
     },
     {
       "added_at": null,
@@ -228,25 +228,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 200881,
-      "name": "Lost Little Boys",
-      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 257213,
       "name": "Better Friend",
       "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 200881,
+      "name": "Lost Little Boys",
+      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
     },
     {
       "added_at": null,
@@ -292,25 +292,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 253783,
-      "name": "Sleeping Over",
-      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
+      "duration_ms": 242733,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
       "duration_ms": 198413,
       "name": "Honest To God",
       "url": "https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 253783,
+      "name": "Sleeping Over",
+      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 251068,
-      "name": "Wondrous Heart",
-      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 215933,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 251068,
+      "name": "Wondrous Heart",
+      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
     },
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        },
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 319506,
-      "name": "Oh Yes",
-      "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
+      "duration_ms": 284973,
+      "name": "Nothing to No One",
+      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
     },
     {
       "added_at": null,

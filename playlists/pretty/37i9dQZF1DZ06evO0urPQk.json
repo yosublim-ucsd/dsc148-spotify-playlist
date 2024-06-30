@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27175,
+  "num_followers": 27180,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAD/1qkrpeHlmbQgPQL2PFoT",
+  "snapshot_id": "Zn39AAAAAABZpzNWF3AnoBwHeTUZGERj",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn the World",
-        "url": "https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F"
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Turn the World",
-      "url": "https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW"
+      "duration_ms": 200126,
+      "name": "sympathy",
+      "url": "https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ADRENALIZED",
-        "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
+        "name": "Turn the World",
+        "url": "https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 200126,
-      "name": "sympathy",
-      "url": "https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm"
+      "duration_ms": 243600,
+      "name": "Turn the World",
+      "url": "https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "innocent starter",
         "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 296666,
       "name": "\u604b\u306e\u6291\u6b62\u529b-type EXCITER-",
       "url": "https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HYBRID UNIVERSE",
         "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 324586,
       "name": "BRAVE PHOENIX",
       "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM \u2162",
-        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "BRIGHT STREAM",
-      "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "BRIGHT STREAM",
+      "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRIGHT STREAM",
         "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 187066,
       "name": "Sacred Force",
       "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 260201,
-      "name": "DAYBREAKERS",
-      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
     },
     {
       "added_at": null,
@@ -659,6 +659,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "\u56da\u308f\u308c\u306eBabel",
+      "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRIGHT STREAM",
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "FEARLESS HERO",
+      "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DELIGHTED REVIVER",
         "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
       },
@@ -691,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TIME SPACE EP",
+        "url": "https://open.spotify.com/album/1nXz5slmtuHiLbOBYZltHB"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "\u6642\u7a7a\u30b5\u30d5\u30a1\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/6sLCTc6T0HosiGAlzignp8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALIVE&KICKING",
         "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
       },
@@ -707,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRIGHT STREAM",
-        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
       },
       "artists": [
         {
@@ -716,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 254253,
-      "name": "FEARLESS HERO",
-      "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
     },
     {
       "added_at": null,
@@ -735,22 +783,6 @@
       "duration_ms": 271679,
       "name": "Red Breeze",
       "url": "https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 306985,
-      "name": "\u604b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
     },
     {
       "added_at": null,
@@ -783,38 +815,6 @@
       "duration_ms": 305032,
       "name": "FINAL COMMANDER -Aufwachen Form-",
       "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPACT EXCITER",
-        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "\u56da\u308f\u308c\u306eBabel",
-      "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TIME SPACE EP",
-        "url": "https://open.spotify.com/album/1nXz5slmtuHiLbOBYZltHB"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "\u6642\u7a7a\u30b5\u30d5\u30a1\u30a4\u30a2",
-      "url": "https://open.spotify.com/track/6sLCTc6T0HosiGAlzignp8"
     }
   ],
   "unique_name": "This Is Nana Mizuki",

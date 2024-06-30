@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Louane au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,706 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,697 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 45 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
 | 46 | [Don't Turn Away](https://open.spotify.com/track/6jM3dqOUEAzr2IyjPuI98t) | [Bonaar](https://open.spotify.com/artist/5FD7yoHJqUdGe1nVlaAj43) | [Don't Turn Away](https://open.spotify.com/album/121ErZskJdnT3zTYhbYjEH) | 2:59 |
 | 47 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
-| 48 | [LA](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 |
+| 48 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 |
 | 49 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 |
 | 50 | [New Propeller](https://open.spotify.com/track/7jL7NYXj9Ix92PlSno4Qsz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [New Propeller](https://open.spotify.com/album/725xhkAOsCFsKG9c39QtlF) | 5:17 |
 | 51 | [Takes Me Back](https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Takes Me Back](https://open.spotify.com/album/7zkdUduq8wRQwyXusmx8HE) | 3:51 |

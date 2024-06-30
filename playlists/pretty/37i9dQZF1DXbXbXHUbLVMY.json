@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28168,
+  "num_followers": 28174,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "players (feat. Ari Bajgora)",
+        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "players (feat. Ari Bajgora)",
+      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
@@ -355,22 +375,6 @@
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -391,22 +395,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "players (feat. Ari Bajgora)",
-        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
       },
       "artists": [
         {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 151693,
-      "name": "players (feat. Ari Bajgora)",
-      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -447,18 +447,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "En till dans",
-        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 200412,
-      "name": "En till dans",
-      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
+      "duration_ms": 127209,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 127209,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Det Regner Penger (Allez Allez)",
         "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 322431,
       "name": "2X SPEKTRUM FREESTYLE",
       "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "TIL DEG",
-        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 157217,
-      "name": "TIL DEG",
-      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "4 the summer",
+        "url": "https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "rizla (feat. Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "YOUNG THUG P\u00c5 1M",
         "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 163702,
       "name": "Over mitt lik (feat. Molly Hammar)",
       "url": "https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "4 the summer",
-        "url": "https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "rizla (feat. Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Skulle Bare Visst",
+        "url": "https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Skulle bare visst (feat. Isah)",
+      "url": "https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Bed\u00f8velse Gj\u00f8r Mester",
         "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 231666,
       "name": "Stikk i Brystet",
       "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Skulle Bare Visst",
-        "url": "https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Skulle bare visst (feat. Isah)",
-      "url": "https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1115,18 +1115,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+        "name": "Birken",
+        "url": "https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "M4",
+          "url": "https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib"
+        },
+        {
+          "name": "Dio Mudara",
+          "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+      "duration_ms": 188571,
+      "name": "Birken",
+      "url": "https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1171,30 +1179,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Birken",
-        "url": "https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v"
-      },
-      "artists": [
-        {
-          "name": "M4",
-          "url": "https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib"
-        },
-        {
-          "name": "Dio Mudara",
-          "url": "https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Birken",
-      "url": "https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Boys I D Bl\u00e5",
         "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Kvar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 164812,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "STILO",
-        "url": "https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q"
-      },
-      "artists": [
-        {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "STILO",
-      "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Pillow",
         "url": "https://open.spotify.com/album/6HP1PrNI9l1846Z5fpKBVj"
       },
@@ -1383,6 +1351,22 @@
       "duration_ms": 166102,
       "name": "Pillow",
       "url": "https://open.spotify.com/track/08bz3aJ0de6tyArd7aHWnZ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "STILO",
+        "url": "https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "STILO",
+      "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Vidunderbarn",
         "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
       },
@@ -1419,26 +1419,6 @@
       "duration_ms": 187874,
       "name": "Vidunderbarn",
       "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Stikk I Brystet",
-        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Hodet F\u00f8rst (feat. Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/51HoXM7BS3tom5GzMKvPev"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1475,6 +1455,26 @@
       "duration_ms": 203624,
       "name": "dum dum shawty! (feat. Tyr)",
       "url": "https://open.spotify.com/track/0Z20ddeVEX9OW87CDsAEM4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "duration_ms": 135299,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6UrjVpuXEnkXdiGapyT1YQ"
     }
   ],
   "unique_name": "100 (2)",

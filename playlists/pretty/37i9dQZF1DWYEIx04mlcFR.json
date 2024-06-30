@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Maria Centeno en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79654,
+  "num_followers": 79652,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "feliz a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 163451,
       "name": "feliz a\u00f1o nuevo",
       "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "KR1MIN4L",
-        "url": "https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 137532,
-      "name": "KR1MIN4L",
-      "url": "https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 141613,
       "name": "Linda",
       "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "KR1MIN4L",
+        "url": "https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 137532,
+      "name": "KR1MIN4L",
+      "url": "https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "NSQD",
-        "url": "https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "NSQD",
-      "url": "https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "contigo me siento en casa",
         "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 171725,
       "name": "contigo me siento en casa",
       "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "NSQD",
+        "url": "https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "NSQD",
+      "url": "https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "QTVB",
-        "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
+        "name": "las cosas no son lo que parecen",
+        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
       },
       "artists": [
         {
-          "name": "Mita",
-          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
-        },
-        {
-          "name": "MI$HA",
-          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 168000,
-      "name": "QTVB",
-      "url": "https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux"
+      "duration_ms": 174659,
+      "name": "las cosas no son lo que parecen",
+      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1291,18 +1287,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Felicidad y Otros Mitos",
-        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 201182,
-      "name": "Palabras De Papel (Veneno)",
-      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
     }
   ],
   "unique_name": "la pop~wave",

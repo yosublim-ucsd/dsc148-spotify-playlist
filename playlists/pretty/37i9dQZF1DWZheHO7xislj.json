@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140741,
+  "num_followers": 140745,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "It's Your Night",
-        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "How Do You Keep The Music Playing",
-      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "How Do You Keep The Music Playing",
+      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 239906,
       "name": "Gun",
       "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Turn Your Love Around - 2015 GH Version",
-      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
         "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 316306,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5vnoLSptaQlPaypbTgbdQm"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "She's Gone - Live 1982",
-      "url": "https://open.spotify.com/track/4x2qAh9aec2eIvp11mDDU2"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "The Art Of Tea",
         "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 215293,
       "name": "Monkey See-Monkey Do",
       "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5vnoLSptaQlPaypbTgbdQm"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "She's Gone - Live 1982",
+      "url": "https://open.spotify.com/track/4x2qAh9aec2eIvp11mDDU2"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "Fulfillingness' First Finale",
         "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 208097,
       "name": "Smile Please",
       "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
+      },
+      "artists": [
+        {
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "How Do You Do",
-        "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "A Long Time",
-      "url": "https://open.spotify.com/track/6BPg9G2eIbVYPP5aFRvosy"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "Beach Diggin', Vol. 3",
         "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 186617,
       "name": "I Want to Make It with You",
       "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "A Long Time",
+      "url": "https://open.spotify.com/track/6BPg9G2eIbVYPP5aFRvosy"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "Give Me a Reason",
-        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
-      },
-      "artists": [
-        {
-          "name": "The Tibbs",
-          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "Give Me a Reason",
-      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "Loose Fit",
         "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 175466,
       "name": "Traffic Jam",
       "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "Give Me a Reason",
+        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "The Family",
-      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 329254,
       "name": "It's All Over Your Body",
       "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Family",
+      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -2743,6 +2743,22 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 209593,
+      "name": "I Think I'll Call It Morning",
+      "url": "https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
       },
@@ -2775,6 +2791,22 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
+        "name": "Satellite Love",
+        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Forgive My Soul",
+      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
         "name": "The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6"
       },
@@ -2791,22 +2823,6 @@
       "duration_ms": 205573,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
-        "name": "Satellite Love",
-        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
-      },
-      "artists": [
-        {
-          "name": "Giovanca",
-          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Forgive My Soul",
-      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
     },
     {
       "added_at": "2024-06-25 21:30:22",
@@ -2931,22 +2947,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 209593,
-      "name": "I Think I'll Call It Morning",
-      "url": "https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "Side By Side",
         "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
@@ -3011,22 +3011,6 @@
     {
       "added_at": "2024-06-25 21:30:22",
       "album": {
-        "name": "Signed Sealed And Delivered",
-        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "We Can Work It Out",
-      "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
-    },
-    {
-      "added_at": "2024-06-25 21:30:22",
-      "album": {
         "name": "The Ultimate Collection: The Commodores",
         "url": "https://open.spotify.com/album/1ZIP9kXi6QAj0SWzHGfocI"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W"
+    },
+    {
+      "added_at": "2024-06-25 21:30:22",
+      "album": {
+        "name": "Signed Sealed And Delivered",
+        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
     },
     {
       "added_at": "2024-06-25 21:30:22",

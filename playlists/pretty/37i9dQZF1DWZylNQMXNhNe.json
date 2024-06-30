@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Carol Biazin",
-  "num_followers": 224334,
+  "num_followers": 224338,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-06-26 22:39:44",
       "album": {
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Electric Fish",
+      "url": "https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2"
+    },
+    {
+      "added_at": "2024-06-26 22:39:44",
+      "album": {
         "name": "N\u00e3o Me Atende",
         "url": "https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 151846,
       "name": "N\u00e3o Me Atende",
       "url": "https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs"
-    },
-    {
-      "added_at": "2024-06-26 22:39:44",
-      "album": {
-        "name": "Me Chama de Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Electric Fish",
-      "url": "https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2"
     },
     {
       "added_at": "2024-06-26 22:39:44",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-06-26 22:39:44",
       "album": {
+        "name": "Garoto Invis\u00edvel",
+        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Garoto Invis\u00edvel",
+      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
+    },
+    {
+      "added_at": "2024-06-26 22:39:44",
+      "album": {
         "name": "Cavalo de Troia",
         "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 189015,
       "name": "Depois Da Meia Noite",
       "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
-    },
-    {
-      "added_at": "2024-06-26 22:39:44",
-      "album": {
-        "name": "Garoto Invis\u00edvel",
-        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 156712,
-      "name": "Garoto Invis\u00edvel",
-      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
     },
     {
       "added_at": "2024-06-26 22:39:44",

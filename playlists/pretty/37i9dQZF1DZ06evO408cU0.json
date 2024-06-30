@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Carnaval. Los temas esenciales, todos en una lista.",
-  "num_followers": 56324,
+  "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
+  "num_followers": 56344,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAC/L1Zz7tjxW/DK0GZeYG9b",
+  "snapshot_id": "Zn39AAAAAABtl28wtWsx4q+K0JjoqC8Z",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 221626,
       "name": "C\u00f3mo No Adorarla",
       "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 157906,
       "name": "Me Perd\u00ed De Un Amor",
       "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
     },
     {
       "added_at": null,
@@ -591,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
       "artists": [
         {
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
+      "duration_ms": 173600,
+      "name": "En Qu\u00e9 Cabeza Cabe",
+      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 206466,
       "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
       "url": "https://open.spotify.com/track/6kKP6onITDDHShtAeOFRRt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Qu\u00e9 Cabeza Cabe",
-      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 136213,
-      "name": "El Pistolero - En Vivo",
-      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153640,
       "name": "Porque As\u00ed Ten\u00eda Que Ser",
       "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
     },
     {
       "added_at": null,
@@ -911,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+        "name": "Vamos De Nuevo",
+        "url": "https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR"
       },
       "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 191560,
-      "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
+      "duration_ms": 215813,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

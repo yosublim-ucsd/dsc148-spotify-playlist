@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,163 songs - 6 day 14 hr 59 min
+4,165 songs - 6 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Aurora](https://open.spotify.com/track/5QXvre4KBjK3eIIGLxxRU6) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Aurora](https://open.spotify.com/album/02ZPHbsCswRxYlrRSqP8dv) | 2:11 | 2021-09-25 | 2021-11-12 |
 | [Austice](https://open.spotify.com/track/0u2uxVKD5EBRoHmmxInQBU) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Austice](https://open.spotify.com/album/154TDZcefDN8qYc5z9Phyy) | 2:47 | 2022-04-07 | 2022-05-27 |
 | [Autobahn](https://open.spotify.com/track/6PZBrvLWFyNqR5dNygBtuf) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Autobahn](https://open.spotify.com/album/08waMmJCkz4y5BLadtQbpk) | 1:14 | 2021-03-26 | 2021-07-16 |
-| [Autotronic](https://open.spotify.com/track/3jYhi2A2CzlmB0KQLk63yA) | [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Autotronic](https://open.spotify.com/album/3gIAvArG75Fk60QV1LGv9F) | 2:13 | 2024-05-16 |  |
+| [Autotronic](https://open.spotify.com/track/3jYhi2A2CzlmB0KQLk63yA) | [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Autotronic](https://open.spotify.com/album/3gIAvArG75Fk60QV1LGv9F) | 2:13 | 2024-05-16 | 2024-06-30 |
 | [Autumn](https://open.spotify.com/track/5yETD7Sf4q05SbUIdGVx9E) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Autumn](https://open.spotify.com/album/1SDTaoCqCHdwr85Oon989M) | 2:21 | 2020-11-20 | 2021-01-23 |
 | [Autumn 98 \(Bonus Track\)](https://open.spotify.com/track/2dQcQBEsC3tCcw8VvceD48) | [Melvin Alex](https://open.spotify.com/artist/555rduasPeAyfqpV5P4Kt5) | [Autumn 98 \(Bonus Track\)](https://open.spotify.com/album/49GwsEPjY0Df0KDdt7p2Bp) | 2:59 | 2019-05-26\* | 2019-06-15 |
 | [Autumn Again](https://open.spotify.com/track/3w2PBKDamkVvR69RlCr84c) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Autumn Again](https://open.spotify.com/album/7lvxthCxxARIMdTWiySOQw) | 2:30 | 2023-11-16 |  |
@@ -2922,6 +2922,7 @@
 | [Repressed Emotions](https://open.spotify.com/track/3mBH7CsevvdO5VJEM8CuNt) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Mirror of Time](https://open.spotify.com/album/3l0sn0A0E5KvCWqvyw1jg9) | 2:21 | 2021-05-08 | 2021-06-11 |
 | [rescue mission in outer space](https://open.spotify.com/track/3nIIkIYuRkby3hfrnKdnpu) | [your best friend jippy](https://open.spotify.com/artist/2nyEmQWHkN4klNBWnNllLZ) | [rescue mission in outer space / without dreams](https://open.spotify.com/album/6sGQ1Ts7coIcAi1eevR2MI) | 1:20 | 2019-05-28 | 2019-09-27 |
 | [Resin](https://open.spotify.com/track/73FTS7ybPJJ3mVsF3uJTzE) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Resin](https://open.spotify.com/album/409Wzjyf9H3Q6XgdAZW7VL) | 2:38 | 2023-10-19 |  |
+| [Respiro](https://open.spotify.com/track/1jPThz0AXLhXUWyRorLlHq) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Respiro](https://open.spotify.com/album/6X41KwJnhotbBYNf2Z0wHm) | 2:02 | 2024-06-28 |  |
 | [Rest](https://open.spotify.com/track/4k8lA00IZXWsj3FPIpqdtG) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY), [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v), [naims](https://open.spotify.com/artist/00qL3jI9uJfzTdv86F71gT) | [Rest](https://open.spotify.com/album/7ujtqfpmURNpAp9d01IEUK) | 2:29 | 2021-12-12 | 2022-09-09 |
 | [resting](https://open.spotify.com/track/4Yu7SzT9xaMwxikdCfbha7) | [Sugar Cane Davis](https://open.spotify.com/artist/43ICbQzjGykDEdLP7uvFC1), [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [resting / soft wind](https://open.spotify.com/album/74y6wVGXGR2hWOeFX1jQoI) | 1:04 | 2019-05-28 | 2019-09-06 |
 | [Resumption](https://open.spotify.com/track/2uzgygHZMpM078dOb4BVhr) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Resumption](https://open.spotify.com/album/1Abdg73wcpaNAJE1Wrjrke) | 2:23 | 2023-10-19 | 2023-10-27 |
@@ -3150,7 +3151,7 @@
 | [Silk](https://open.spotify.com/track/3U4n66xgcZxPOZCHTT6wz1) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Roam EP](https://open.spotify.com/album/1VduUB1RUtJ1r5KyOk6obj) | 2:33 | 2020-07-24 | 2020-10-23 |
 | [Silk](https://open.spotify.com/track/5shRAbjr263aLdUb7CjpTR) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Silk](https://open.spotify.com/album/2GxBwWibsIoqf87dfrhNId) | 2:09 | 2021-10-16 | 2023-10-27 |
 | [Silk](https://open.spotify.com/track/54lTL6GDlQDD5qPk3JftIl) | [UsualSND](https://open.spotify.com/artist/1ahA9vdjx7aBcfB7XjXT9k), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Silk](https://open.spotify.com/album/66CZo0VLjagh4EmmaBTuU6) | 2:52 | 2023-12-08 |  |
-| [Silk Road](https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Silk Road](https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM) | 1:31 | 2024-05-16 |  |
+| [Silk Road](https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Silk Road](https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM) | 1:31 | 2024-05-16 | 2024-06-30 |
 | [Silky Wine](https://open.spotify.com/track/36v6YFAeZQADLAb7E47KDk) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Silky Wine](https://open.spotify.com/album/78yJIySXbEZ3nxLkLMKGT9) | 2:37 | 2024-04-25 |  |
 | [Sill](https://open.spotify.com/track/73T435Ue8eCR25TnR4rd9X) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Sill](https://open.spotify.com/album/2mY8fAWv1Qrz41WjT7AapX) | 2:40 | 2020-12-01 | 2021-06-18 |
 | [Silo](https://open.spotify.com/track/6DWRJfbKONvPq6KOaKLydk) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Silo](https://open.spotify.com/album/3R9qGQd6C8qAZ4KRPgG3fj) | 3:17 | 2020-08-07 | 2021-04-16 |
@@ -3502,6 +3503,7 @@
 | [Sunset Ballin](https://open.spotify.com/track/7rrZs3EYH83w5IEOwvnpzj) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Sunset Ballin](https://open.spotify.com/album/2Yq9wh0ESLL9p1AgMVZHYp) | 1:50 | 2021-05-29 | 2022-02-11 |
 | [Sunset Blvd](https://open.spotify.com/track/2VhbfT4qyB4KFhVEDplXxX) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Sunset Blvd](https://open.spotify.com/album/0JkqkDXmAOTihmfJ6Ntq25) | 3:16 | 2019-12-20 | 2020-11-07 |
 | [sunset cruise](https://open.spotify.com/track/7gPjBaQ0ezSHIAVlYTk9ad) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [sunset cruise](https://open.spotify.com/album/1MpNJDrh3JnUdl73f7p7w3) | 2:40 | 2019-05-26\* | 2020-05-12 |
+| [Sunset Cruising](https://open.spotify.com/track/41yA0HytRzoAy1Po7PPgAQ) | [Beats by Tobÿ](https://open.spotify.com/artist/7rbiDXzJIkf2MKPh9boQeF), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ) | [Sunset Cruising](https://open.spotify.com/album/6e9KgCToxhxkbGg4ScqQYQ) | 3:05 | 2024-06-28 |  |
 | [Sunset Drive](https://open.spotify.com/track/63VQ090fGxbT4k7betyXdM) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sunset Drive](https://open.spotify.com/album/4awEMVRzupXHNT9hmeqgza) | 2:04 | 2022-02-10 | 2022-03-11 |
 | [Sunset in the Rain](https://open.spotify.com/track/7bPBk1KlW64PZh9atN7vvk) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Sunset in the Rain](https://open.spotify.com/album/4aIwsVgczMABRRtRAbPIjY) | 3:49 | 2021-05-21 | 2021-07-02 |
 | [Sunset Market](https://open.spotify.com/track/2Jrru8EcWDn4LO5BFx744p) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sunset Market](https://open.spotify.com/album/3lAQnf2YlaGPjctKoGkyd7) | 1:27 | 2022-03-24 | 2022-04-22 |

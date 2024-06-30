@@ -4,7 +4,7 @@
 
 > 
 
-1,926 songs - 4 day 7 hr 52 min
+1,927 songs - 4 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [Krystle \- URL Cyber Palace Mix](https://open.spotify.com/track/4kJHxSrzUA9qmYGU6fDHk3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:36 | 2022-06-02 |  |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-08-05 |  |
 | [La Que Me Gusta](https://open.spotify.com/track/59HBsP5zIuEzDsrY9bB2NQ) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/47E8vMHuQF9PlXtac1uVW3) | 3:59 | 2021-08-05 |  |
+| [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2024-06-29 |  |
 | [Lalalatte](https://open.spotify.com/track/5IjTpw72dT98mVjCX6rOab) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Latte and a Muffin](https://open.spotify.com/album/1r3Cw28qOUPLl8Qh7ibDlc) | 2:13 | 2023-01-06 |  |
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2022-04-26 |  |
 | [Last Valentines](https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:13 | 2021-11-14 |  |

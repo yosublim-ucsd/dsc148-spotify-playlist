@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,837 songs - 10 day 19 hr 12 min
+6,838 songs - 10 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [avant garde](https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [avant garde](https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro) | 2:00 | 2023-08-25 | 2023-09-19 |
 | [ave](https://open.spotify.com/track/5HhaAeZReuplSO2gpe4j2z) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 2:16 | 2020-05-07 | 2021-06-18 |
 | [Avenue](https://open.spotify.com/track/6nIthpvwMurzyjcAHibuqh) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Avenue](https://open.spotify.com/album/6zBxwV2KsfZnZtlcX7I01M) | 1:38 | 2023-05-31 | 2023-10-20 |
+| [Avenues](https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Avenues](https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET) | 2:29 | 2024-06-28 |  |
 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 | 2021-12-17 | 2022-06-24 |
 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 | 2022-04-23 | 2022-09-09 |
 | [Avocado Day](https://open.spotify.com/track/2DLpsh43lYE1IDdXT7ZchE) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Avocado Day](https://open.spotify.com/album/2fekwLF3p1G3BmVG3CZ4SF) | 1:03 | 2023-06-14 | 2023-08-11 |
@@ -710,7 +711,7 @@
 | [Blue moon](https://open.spotify.com/track/6dSJW987UnhLZHsMiVfKRW) | [kidstrange](https://open.spotify.com/artist/5SrifLuNGSnEP0v4epVwJ3) | [Blue moon](https://open.spotify.com/album/5DFHQPpgDQtLGdCjCRl1EN) | 2:47 | 2022-04-08 | 2022-08-27 |
 | [Blue Oceans](https://open.spotify.com/track/4FpQ21uYnLxIIOkalwjA76) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Blue Oceans](https://open.spotify.com/album/6bG1J0xfnwhntPq1aMulDe) | 2:06 | 2022-06-03 | 2022-10-21 |
 | [Blue Sky](https://open.spotify.com/track/49QPo2OqREqtCM0bmKmihS) | [Frans Manen](https://open.spotify.com/artist/2XQbhPtT3unr4yHTq3ii1P) | [Blue Sky](https://open.spotify.com/album/1Vd6vbAKyNF85ARf4pleZB) | 2:22 | 2022-10-07 | 2024-02-23 |
-| [Blue Sky](https://open.spotify.com/track/0iFP2XOudAZd3Zjns28ncm) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Selected Instrumental Works 2020\-2024](https://open.spotify.com/album/52Epput1IvCtPQ02gIfSFZ) | 1:57 | 2024-04-26 |  |
+| [Blue Sky](https://open.spotify.com/track/0iFP2XOudAZd3Zjns28ncm) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Selected Instrumental Works 2020\-2024](https://open.spotify.com/album/52Epput1IvCtPQ02gIfSFZ) | 1:57 | 2024-04-26 | 2024-06-30 |
 | [Blue Stones](https://open.spotify.com/track/493J58M1agrTnXVMn5jCDI) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Blue Stones](https://open.spotify.com/album/0Ask5t2pqLVAWoOrQe41sn) | 2:33 | 2023-12-01 |  |
 | [Blue Sunset](https://open.spotify.com/track/1RNvIrwGqibZOadgBN0Jc8) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Blue Sunset](https://open.spotify.com/album/08onzEMnLRS818G4JGpS1b) | 2:12 | 2021-10-20 | 2022-04-24 |
 | [Blue Swirls](https://open.spotify.com/track/187h5ytcA57eSajyqw7GGu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [Blue Swirls](https://open.spotify.com/album/1p8uyJh7phGMeXLWZiu9Xp) | 2:28 | 2022-10-14 | 2023-01-20 |

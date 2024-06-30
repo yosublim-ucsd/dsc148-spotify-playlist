@@ -1,6 +1,6 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2067,
+  "num_followers": 2089,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Made To Love Someone",
         "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 186845,
       "name": "Made To Love Someone",
       "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1127,22 +1127,6 @@
       "duration_ms": 184301,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264150,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264150,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "EPHRATA",
         "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
       },
@@ -1451,6 +1431,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Silver Dagger - Solstice Version",
+      "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "tidal wave",
         "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
       },
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 222133,
-      "name": "Silver Dagger - Solstice Version",
-      "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
-        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Desert Wine (Acoustic)",
-      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Luck Mansion Sessions",
         "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
+        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Desert Wine (Acoustic)",
+      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "If Only There Was a River",
         "url": "https://open.spotify.com/album/7zRf8EaFBN1VjLO7TgoTer"
       },
@@ -1763,26 +1763,6 @@
       "duration_ms": 146058,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0z2NEiu43ZN5r3OuUi2Cud"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hung the Moon",
-        "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Hung the Moon",
-      "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1807,18 +1787,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+        "name": "Hung the Moon",
+        "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 214564,
-      "name": "Green Lights - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
+      "duration_ms": 190613,
+      "name": "Hung the Moon",
+      "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1839,6 +1823,22 @@
       "duration_ms": 157174,
       "name": "I'll Keep You",
       "url": "https://open.spotify.com/track/753h0atsE418iQyz7Jbtci"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "Green Lights - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1903,6 +1903,22 @@
       "duration_ms": 227760,
       "name": "Featherweight - Solstice Version",
       "url": "https://open.spotify.com/track/3N7ECZdXi8Z7RjOA7yuFno"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Not a Number",
+        "url": "https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Not a Number",
+      "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Not a Number",
-        "url": "https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT"
-      },
-      "artists": [
-        {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Not a Number",
-      "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Fallin'",
         "url": "https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U"
       },
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Want To See The Bright Lights Tonight",
-        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
-      },
-      "artists": [
-        {
-          "name": "Richard & Linda Thompson",
-          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Down Where The Drunkards Roll",
-      "url": "https://open.spotify.com/track/6UAeM4hpfyirF8DsNfPqdQ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Prospect (Deluxe)",
         "url": "https://open.spotify.com/album/15utleqV2llYGHYuD72rs8"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 188364,
       "name": "On Your Way - Acoustic",
       "url": "https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Want To See The Bright Lights Tonight",
+        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
+      },
+      "artists": [
+        {
+          "name": "Richard & Linda Thompson",
+          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Down Where The Drunkards Roll",
+      "url": "https://open.spotify.com/track/6UAeM4hpfyirF8DsNfPqdQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Fortune",
-      "url": "https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Taurus (Acoustic)",
         "url": "https://open.spotify.com/album/0N5SkIiwfp92TQJIffOKo4"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 174653,
       "name": "Taurus - Acoustic",
       "url": "https://open.spotify.com/track/68bR29mWcpP6AB7IiI2VaG"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Fortune",
+      "url": "https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Smoke (Acoustic)",
+        "url": "https://open.spotify.com/album/4T9aGWicnCbNrfPrFvHrWH"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/4WkXg0OeMYPY7oM9ZRq6mm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Waverly (Anjimile Version)",
         "url": "https://open.spotify.com/album/5HPDLm7sCPqC9aB5t1QGZE"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 156500,
       "name": "Waverly - Anjimile Version",
       "url": "https://open.spotify.com/track/381NH2HA2mjllxsXuASEm7"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Smoke (Acoustic)",
-        "url": "https://open.spotify.com/album/4T9aGWicnCbNrfPrFvHrWH"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/4WkXg0OeMYPY7oM9ZRq6mm"
     },
     {
       "added_at": "2024-03-15 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The most calming Christmas carols.",
-  "num_followers": 23302,
+  "num_followers": 23299,
   "original_name": "Calming Carols",
   "owner": {
     "name": "Spotify",
@@ -930,6 +930,10 @@
         {
           "name": "Tenebrae",
           "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
         }
       ],
       "duration_ms": 257230,

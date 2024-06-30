@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-185 songs - 8 hr 17 min
+186 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cruise Control](https://open.spotify.com/track/5xSQbBayVvZcjreQ4t3KhQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS), [ALGONZO](https://open.spotify.com/artist/3SK7UL3Cgpgn58MxvfFxy8) | [Cruise Control](https://open.spotify.com/album/7tSLPHy2Sg8YmHTTvREaAB) | 2:24 | 2023-12-12 |  |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
 | [Cut Blue](https://open.spotify.com/track/5D5z2jGcd3ckGdsGlnWaA8) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [Cut Blue](https://open.spotify.com/album/2tTETR7nRSosdmscgsYIY7) | 2:12 | 2024-06-07 |  |
+| [Day After](https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [Myuga](https://open.spotify.com/artist/1PGBkdt38wLMukl1HUX6ED) | [Day After](https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68) | 2:22 | 2024-06-28 |  |
 | [Daydreams](https://open.spotify.com/track/0i175zzCfpfTWA40Y3uqjs) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Daydreams](https://open.spotify.com/album/4EG75OgsOjd6ukj9IzpsFb) | 2:16 | 2023-01-12 |  |
 | [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 | 2023-01-12 | 2023-03-29 |
 | [Delta](https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Delta](https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv) | 2:08 | 2023-01-12 |  |
@@ -64,7 +65,7 @@
 | [frozen biome](https://open.spotify.com/track/1vFxL80Q1etX9noPv9rGmO) | [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [frozen biome](https://open.spotify.com/album/7rbqTTCd4uzPS2UpjMI5r3) | 2:00 | 2024-06-07 | 2024-06-15 |
 | [Full Wet's](https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Full Wet's](https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs) | 2:20 | 2023-04-13 | 2023-06-02 |
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 | 2024-06-08 |
-| [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 | 2023-01-12 |  |
+| [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 | 2023-01-12 | 2024-06-30 |
 | [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 |  |
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |

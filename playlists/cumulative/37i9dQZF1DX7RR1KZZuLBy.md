@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-279 songs - 1 day 1 hr 10 min
+280 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 | 2023-04-14 | 2023-05-12 |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-03-29 | 2024-06-01 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-08-25 | 2024-05-03 |
+| [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 | 2024-05-31 |  |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 | 2024-01-19 |
 | [My Redeemer \(Live in Bryanston, 2022\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/4E9YbKxCfbDyDLxo7ivwVV) | [The Fellowship](https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga), [Mthunzi Namba](https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [My Redeemer \(Live in Bryanston, 2022\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/0Nt7ArLS5vvVzi4SbJ0cgx) | 6:30 | 2024-03-15 | 2024-03-29 |
 | [My Shepherd](https://open.spotify.com/track/5UTYCylVomPTnNpzdsaVBA) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [For His Glory](https://open.spotify.com/album/4bIg1qW3SmBMu59i3uQvXn) | 4:11 | 2020-03-13 | 2023-09-15 |
@@ -172,7 +173,7 @@
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 | 2023-11-03 |
 | [Nkosi Yethu Simakade](https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Yethu Simakade](https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE) | 7:51 | 2023-06-23 | 2023-08-04 |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-02 | 2023-11-03 |
-| [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 | 2024-05-31 |  |
+| [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 | 2024-05-31 | 2024-06-30 |
 | [Not Alone](https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Not Alone](https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU) | 3:44 | 2023-07-28 | 2023-11-03 |
 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 | 2023-12-15 | 2024-03-19 |
 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2019-10-28 | 2023-11-03 |

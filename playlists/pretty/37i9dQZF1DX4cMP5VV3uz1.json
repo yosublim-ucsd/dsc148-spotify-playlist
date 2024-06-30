@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 155141,
+  "num_followers": 155262,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -175,30 +175,6 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
-        "name": "Fine Day Anthem",
-        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 193690,
-      "name": "Fine Day Anthem",
-      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
-    },
-    {
-      "added_at": "2024-06-28 10:40:26",
-      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 148155,
       "name": "Rave Out",
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+    },
+    {
+      "added_at": "2024-06-28 10:40:26",
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "added_at": "2024-06-28 10:40:26",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
+        "name": "Nan Slapper",
+        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 263314,
+      "name": "Nan Slapper",
+      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
+    },
+    {
+      "added_at": "2024-06-28 10:40:26",
+      "album": {
         "name": "Oh Baby (feat. bshp & Issey Cross)",
         "url": "https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 148236,
       "name": "Oh Baby (feat. bshp & Issey Cross)",
       "url": "https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28"
-    },
-    {
-      "added_at": "2024-06-28 10:40:26",
-      "album": {
-        "name": "Nan Slapper",
-        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 263314,
-      "name": "Nan Slapper",
-      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
       "added_at": "2024-06-28 10:40:26",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
-    },
-    {
-      "added_at": "2024-06-28 10:40:26",
-      "album": {
         "name": "CONTEXT",
         "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 137624,
       "name": "CONTEXT",
       "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-06-28 10:40:26",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
       "added_at": "2024-06-28 10:40:26",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
-        "name": "Crunchy Nutter",
-        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        }
-      ],
-      "duration_ms": 204332,
-      "name": "Crunchy Nutter",
-      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
-    },
-    {
-      "added_at": "2024-06-28 10:40:26",
-      "album": {
         "name": "Cluster",
         "url": "https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 260689,
       "name": "Energy In Motion",
       "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
+    },
+    {
+      "added_at": "2024-06-28 10:40:26",
+      "album": {
+        "name": "Crunchy Nutter",
+        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "duration_ms": 204332,
+      "name": "Crunchy Nutter",
+      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
     },
     {
       "added_at": "2024-06-28 10:40:26",
@@ -1523,26 +1523,26 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
-        "name": "Jordan 1s (Effy Rework)",
-        "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
+        "name": "Circus Four",
+        "url": "https://open.spotify.com/album/7qj4xzuZKpPdJ1zx8vM14e"
       },
       "artists": [
         {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "UTILITY",
-          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         },
         {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
         }
       ],
-      "duration_ms": 219577,
-      "name": "Jordan 1s - Effy Rework",
-      "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
+      "duration_ms": 231724,
+      "name": "Bigger Than Bad",
+      "url": "https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K"
     }
   ],
   "unique_name": "Proper Naughty ",

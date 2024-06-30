@@ -4,7 +4,7 @@
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 16 min
+75 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Casal](https://open.spotify.com/track/1wSVpw9pC31zldj3pGnkOp) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Suasória](https://open.spotify.com/album/2Aq4cexoooJTkd0mUmwtAu) | 1:55 | 2023-12-30 | 2024-03-12 |
 | [Clap Clap](https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66) | [Dj Hugo CS](https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6) | [Clap Clap](https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D) | 2:02 | 2024-02-05 |  |
 | [Dentro da Jacuzzi](https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH) | [Dj Mack](https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Dentro da Jacuzzi](https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi) | 2:12 | 2023-12-30 | 2024-06-28 |
+| [Difícil \- Dread Session, Vol\. 1](https://open.spotify.com/track/5kU3UKJVfU48j729fW9oTd) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Difícil \- Dread Session, Vol\. 1](https://open.spotify.com/album/2ucmr0dO5e7dszezzDnRd1) | 2:22 | 2024-06-30 |  |
 | [Dona Onça](https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:00 | 2023-12-30 |  |
 | [Ela Joga Muito na Minha Cara](https://open.spotify.com/track/5qERHS3gAJxUbeXyY3qxKk) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Ela Joga Muito na Minha Cara](https://open.spotify.com/album/68rjxN49e47v971UbMRFAU) | 2:22 | 2024-03-09 |  |
 | [Eu Errei Eu Fui Muleque](https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS) | [Dj Scar](https://open.spotify.com/artist/4TU81hdJFiCuzvaPsajuUo), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Diguinho](https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6) | [Eu Errei Eu Fui Muleque](https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2) | 3:00 | 2023-12-30 |  |

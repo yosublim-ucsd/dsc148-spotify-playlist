@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 33022,
+  "num_followers": 33026,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnVwlwAAAACTO/Ggg5VHaXTJnoEMhuyy",
+  "snapshot_id": "Zn+t+AAAAAAXR2SiQBSnYCf+iQRzb7j/",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -23,6 +23,30 @@
       "duration_ms": 162206,
       "name": "Aata Gaani Aata",
       "url": "https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ"
+    },
+    {
+      "added_at": "2024-06-29 06:47:19",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Dinker kalvala",
+          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
+        },
+        {
+          "name": "Tushar Budhwani",
+          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu"
     },
     {
       "added_at": "2024-06-06 12:06:33",
@@ -107,26 +131,6 @@
       "duration_ms": 174432,
       "name": "hello master!",
       "url": "https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z"
-    },
-    {
-      "added_at": "2024-05-08 11:55:26",
-      "album": {
-        "name": "Chakkani Chukka",
-        "url": "https://open.spotify.com/album/03VLpJtFaAKVobAZV0bnqX"
-      },
-      "artists": [
-        {
-          "name": "Priyanka Gajanan",
-          "url": "https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP"
-        },
-        {
-          "name": "Ricky B",
-          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
-        }
-      ],
-      "duration_ms": 231692,
-      "name": "Chakkani Chukka",
-      "url": "https://open.spotify.com/track/0DwvUGiX0UmrphRVEw0tKk"
     },
     {
       "added_at": "2024-05-27 04:59:04",

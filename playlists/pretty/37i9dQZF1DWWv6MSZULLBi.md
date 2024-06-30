@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Devan, PJ Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,313 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,317 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 42 | [Evening Dream](https://open.spotify.com/track/66Y0XuOxcBoVUFkBZY8Iuv) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [Evening Dream](https://open.spotify.com/album/6cnmkV5RbaFtiQuXX0S7Gm) | 3:14 |
 | 43 | [The Last Year](https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [The Last Year](https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT) | 3:35 |
 | 44 | [Stone of June](https://open.spotify.com/track/3s2uRraehu5aAej8WZi9zo) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Stone of June](https://open.spotify.com/album/1WCFO7Blwa9axLdFz2fLGe) | 3:49 |
-| 45 | [Sweet Dreams \(feat\. Wesley Schultz of The Lumineers\)](https://open.spotify.com/track/79NP7Nqe8cUJgqHnrEBK0a) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Sweet Dreams \(feat\. Wesley Schultz of The Lumineers\)](https://open.spotify.com/album/3jkwHJepVtB9oYjz0Kbxl6) | 3:08 |
+| 45 | [Sweet Dreams](https://open.spotify.com/track/79NP7Nqe8cUJgqHnrEBK0a) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Sweet Dreams](https://open.spotify.com/album/3jkwHJepVtB9oYjz0Kbxl6) | 3:08 |
 | 46 | [i don't feel safe in my body](https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [i don't feel safe in my body](https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3) | 2:43 |
 | 47 | [Ba Ba Song](https://open.spotify.com/track/1Ety9Dt4hIaKZGyocjilLJ) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Ba Ba Song](https://open.spotify.com/album/3p2eePj2vNHZLn8s1WVgJ2) | 2:58 |
 | 48 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 |

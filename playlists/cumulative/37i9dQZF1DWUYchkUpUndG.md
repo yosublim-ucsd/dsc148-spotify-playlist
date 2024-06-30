@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:  Spotlite Nation
 
-2,936 songs - 8 day 19 hr 50 min
+2,938 songs - 8 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1687,6 +1687,7 @@
 | [MOVEMENT](https://open.spotify.com/track/6NglFmvUC1ho123QUvQtRl) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [678NATH](https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [MOVEMENT](https://open.spotify.com/album/2Th9AdlxHPVC5huKjjSrz9) | 2:39 | 2024-06-07 | 2024-06-21 |
 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 | 2023-07-21 | 2023-08-04 |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-03-29 | 2024-04-12 |
+| [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 | 2024-06-29 |  |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-08-25 | 2023-09-08 |
 | [Mpango](https://open.spotify.com/track/2r9iEJtI80kGkLhKwqFhTJ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mpango](https://open.spotify.com/album/0UyldaytlWsu1JfRaS10B2) | 4:50 | 2024-04-19 | 2024-05-03 |
 | [Msaada](https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL), [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Msaada](https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1) | 4:04 | 2023-10-20 | 2023-11-03 |
@@ -2400,6 +2401,7 @@
 | [Tai Mako \- Refix](https://open.spotify.com/track/2kwqjniHIxUe3GAsgMTB3a) | [PANAM MORRISON](https://open.spotify.com/artist/6IOsd9uJd5vCKO3FWOXZfx) | [Tai Mako \(Refix\)](https://open.spotify.com/album/4ROnPONIFc0JhlmbpEmCZ1) | 4:02 | 2024-05-24 | 2024-06-07 |
 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 | 2023-07-14 | 2023-07-28 |
 | [Take a Look at Me Now](https://open.spotify.com/track/2OejXEdoV6aRHD6AErADrk) | [Airhiz](https://open.spotify.com/artist/5I318AZCmDYAMRvwb5AeyD), [Eeso](https://open.spotify.com/artist/5yCiOkfJTSx3iCdMgwms9k), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Take a Look at Me Now](https://open.spotify.com/album/63PZCjfBRNdhJCYPxGLAQI) | 3:20 | 2023-09-29 | 2023-10-14 |
+| [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 |  |
 | [Take Am](https://open.spotify.com/track/7pPri0WELrJeszDYsHPDeM) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq), [kwavez](https://open.spotify.com/artist/5Z5Q8eLfsSoijBwMXVTYSm) | [Take Am](https://open.spotify.com/album/5nTmz8V0FJFBkm0NfGV0JR) | 3:43 | 2024-02-16 | 2024-02-23 |
 | [Take Am](https://open.spotify.com/track/7GA7cVy0jqbGetbYt4BK7V) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [George Bosso](https://open.spotify.com/artist/18uMRZXeHz7MatEqIKXVAN) | [Take Am](https://open.spotify.com/album/1XPbJVIVP7NOiYsh481KwB) | 3:53 | 2024-03-01 | 2024-03-16 |
 | [Take Control](https://open.spotify.com/track/4AYGuOfdBPdZ29GkoNArd3) | [JESSE PRATT](https://open.spotify.com/artist/2UIrBWP9lEJGdMpxYEAwEl), [Arblakolo Toe](https://open.spotify.com/artist/4i4IUjIBRlGgidgt0dmEBR) | [Take Control](https://open.spotify.com/album/59uCBIQ3VIdwVCWxlQ7RBq) | 9:18 | 2024-02-23 | 2024-03-01 |

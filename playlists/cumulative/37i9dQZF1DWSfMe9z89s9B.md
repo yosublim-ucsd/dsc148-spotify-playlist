@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,221 songs - 2 day 16 hr 38 min
+1,222 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [A Friend](https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [A Friend](https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq) | 3:20 | 2022-11-18 | 2023-01-02 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C) | 3:25 | 2022-05-20 | 2022-07-28 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-06-10 | 2022-08-09 |
-| [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-12 |  |
+| [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-12 | 2024-06-30 |
 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-09-10 | 2022-04-16 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-25 | 2022-12-03 |
 | [About A Gemini, Pt\. 3](https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly) | [ImaniCarolyn](https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Into The Blue Light](https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A) | 3:38 | 2022-07-29 | 2022-12-03 |
@@ -308,6 +308,7 @@
 | [Don't Recommend](https://open.spotify.com/track/6t8ZKSOjhFVwvrJdRcKytT) | [Reagan Capaci](https://open.spotify.com/artist/3juQ8wz0DRybHcAQj4Jxvw) | [Don't Recommend](https://open.spotify.com/album/2viuq33ElyD8CXCyrf4fTO) | 3:03 | 2021-06-11 | 2022-07-27 |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-05-13 | 2022-11-05 |
 | [Don't Walk Away](https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Don't Walk Away](https://open.spotify.com/album/6pjgZeaZ44JQ7fkRCODDHh) | 2:22 | 2022-06-03 | 2022-08-09 |
+| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 |  |
 | [Doom Gloom](https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Doom Gloom](https://open.spotify.com/album/7K7AkFYXsmFC3ZvS2AhddS) | 4:01 | 2024-01-26 | 2024-04-27 |
 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 | 2023-12-08 | 2024-06-29 |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2022-04-01 | 2022-04-15 |

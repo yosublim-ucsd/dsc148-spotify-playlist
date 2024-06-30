@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia, A2h
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,209 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,211 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:37 |
+| 1 | [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:36 |
 | 2 | [TARD LA NUIT](https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [DZ D’AMERIQUE](https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi) | 3:36 |
 | 3 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 |
 | 4 | [Conscious Rapper](https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Conscious Rapper](https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce) | 3:34 |

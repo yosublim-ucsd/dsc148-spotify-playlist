@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132472,
+  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 132481,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAACysyInBPnBUXTNEOuS7xvJ",
+  "snapshot_id": "Zn39AAAAAADZ+nLHN3DVnOXYOeZHAKJD",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 266286,
-      "name": "Que Bom Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 275875,
       "name": "Raridade (Ao Vivo)",
       "url": "https://open.spotify.com/track/2Oi3FSF0PT3b5bG4ziq2U8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 266286,
+      "name": "Que Bom Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Shaday (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 323832,
-      "name": "El Shaday (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 483485,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Shaday (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 323832,
+      "name": "El Shaday (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
     },
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aleluya",
-        "url": "https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c"
+        "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
+        "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
       },
       "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         }
       ],
-      "duration_ms": 334831,
-      "name": "Aleluya",
-      "url": "https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4"
+      "duration_ms": 268887,
+      "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
+      "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
     },
     {
       "added_at": null,
@@ -555,34 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
-        "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
+        "name": "Aleluya",
+        "url": "https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c"
       },
       "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 268887,
-      "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
-      "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
+        },
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
+      "duration_ms": 334831,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 291363,
       "name": "Jamais Deixarei Voc\u00ea",
       "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alegria Real",
         "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 224769,
       "name": "F\u00e9 e a Raz\u00e3o",
       "url": "https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254537,
+      "name": "Agora Eu Tenho Voc\u00ea Comigo",
+      "url": "https://open.spotify.com/track/3JAoGcKwkXVRQklnUBT2Gb"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
       },
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 254537,
-      "name": "Agora Eu Tenho Voc\u00ea Comigo",
-      "url": "https://open.spotify.com/track/3JAoGcKwkXVRQklnUBT2Gb"
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele \u00c9 Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 347162,
+      "name": "O Grande Eu Sou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6RnZACBi3dBpe7PPx8yHZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensou em Mim",
         "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 429290,
       "name": "Pensou em Mim",
       "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele \u00c9 Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 347162,
-      "name": "O Grande Eu Sou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6RnZACBi3dBpe7PPx8yHZG"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,902 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,949 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 2 | [La Niña Consentida](https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3) | [La Niña Consentida](https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ) | 4:59 |
-| 3 | [RBD](https://open.spotify.com/track/0HT9jMfOUxZmLkpFuUdqjc) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Pinky](https://open.spotify.com/artist/4ljrPg7NLOtSa2Ev8JpzfT), [CRBRO](https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe) | [RBD](https://open.spotify.com/album/7FKyQVtbPG0PbvRYxJrnVM) | 2:37 |
+| 3 | [RBD](https://open.spotify.com/track/0HT9jMfOUxZmLkpFuUdqjc) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS), [CRBRO](https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe) | [RBD](https://open.spotify.com/album/7FKyQVtbPG0PbvRYxJrnVM) | 2:37 |
 | 4 | [HUMO Y PARTY](https://open.spotify.com/track/00FZJvOpaA9n2OxY1ssB0w) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [HUMO Y PARTY](https://open.spotify.com/album/01eOCK67s3dfG7cn0p9aGK) | 2:20 |
 | 5 | [Sígueme \- Remix](https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sígueme \(Remix\)](https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF) | 3:22 |
 | 6 | [Baby Gangster](https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [Baby Gangster](https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g) | 3:59 |

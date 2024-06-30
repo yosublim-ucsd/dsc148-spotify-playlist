@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,604 likes - 126 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,659 likes - 126 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 94 | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp) | 3:28 |
 | 95 | [Kvar](https://open.spotify.com/track/58UORydBnq4jY1WF92rilw) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Kvar](https://open.spotify.com/album/0I0mG6e6i4StLaRd7ePNlA) | 2:37 |
 | 96 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
-| 97 | [cinammon hearts](https://open.spotify.com/track/65XOnyB3Qd96L2hQ1qyeVi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [cinammon hearts](https://open.spotify.com/album/5nB9WhwyYR0dImbpSlM6yN) | 1:55 |
+| 97 | [cinnamon hearts](https://open.spotify.com/track/65XOnyB3Qd96L2hQ1qyeVi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [cinnamon hearts](https://open.spotify.com/album/5nB9WhwyYR0dImbpSlM6yN) | 1:55 |
 | 98 | [Acuyuye](https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Diva Cruz](https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6) | [Brujas EP](https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9) | 4:29 |
 | 99 | [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 |
 | 100 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 |

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y María Laura.
 
-621 songs - 1 day 13 hr 8 min
+622 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
 | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ), [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR) | 5:00 | 2024-06-21 |  |
-| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 |  |
+| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 | 2024-06-30 |
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [Profecía](https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Profecía](https://open.spotify.com/album/1QoK9uWN9aQZFBlrmWH4Np) | 2:59 | 2024-01-26 | 2024-02-17 |
@@ -600,6 +600,7 @@
 | [Vas a encontrarte \(feat\. Guitarricadelafuente\) \- Acústica](https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Vas a encontrarte \(feat\. Guitarricadelafuente\)](https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7) | 3:31 | 2021-12-24 | 2024-06-29 |
 | [Venecia](https://open.spotify.com/track/3zdzXLCUwHGHyDsoN6PGjK) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Venecia](https://open.spotify.com/album/74sRb1G0vcGebMp5V2wYxb) | 4:24 | 2021-12-24 | 2022-01-12 |
 | [Ventanas Cerradas](https://open.spotify.com/track/1YCbnUYK7ItpTjINDbCPJC) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Ventanas Cerradas](https://open.spotify.com/album/0r9pQ92T0IOgYBNA7RSaqW) | 3:11 | 2022-01-27 | 2022-05-28 |
+| [Ventura \- Live](https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O) | [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Ventura \(Live\)](https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ) | 4:55 | 2024-06-28 |  |
 | [Verde Nocturno](https://open.spotify.com/track/5H94pF1K97qxrx0h7EfPrY) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:14 | 2022-07-22 | 2023-02-07 |
 | [Verde Nocturno](https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Verde Nocturno](https://open.spotify.com/album/7zFM5PeNi4RbgiVcuDjxO0) | 3:14 | 2021-12-24 | 2022-07-29 |
 | [Vidalita Andina](https://open.spotify.com/track/2FTYuEJdej8TkFNWkeYxie) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [CUERO](https://open.spotify.com/album/3P0PpCDh5mEtgcrqAKlDq7) | 1:51 | 2024-03-01 | 2024-03-09 |

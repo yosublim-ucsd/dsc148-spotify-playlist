@@ -1,13 +1,109 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 78,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 29 JUN",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 30 JUN",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJJJfUx+Zq2loipk5gQc3q6vnwuHlb",
+  "snapshot_id": "AAAJKVquO1rYTzDtLHi8PQ9IYiDl4JK5",
   "tracks": [
+    {
+      "added_at": "2024-06-29 22:02:11",
+      "album": {
+        "name": "Don't Change when you're Famous",
+        "url": "https://open.spotify.com/album/532WIY0BFO1M1XXqD4f8Ua"
+      },
+      "artists": [
+        {
+          "name": "D-low",
+          "url": "https://open.spotify.com/artist/5iSw8NFExwSFdQI7GgwAPY"
+        }
+      ],
+      "duration_ms": 206379,
+      "name": "Don't Change when you're Famous",
+      "url": "https://open.spotify.com/track/5PKpasr1utQVztUQmnOoai"
+    },
+    {
+      "added_at": "2024-06-29 10:02:35",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2GYFs2onhSGrP7F7N4fCuZ"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/26XvzvPD9twtlYhDqSpqP6"
+    },
+    {
+      "added_at": "2024-06-29 10:02:35",
+      "album": {
+        "name": "New To Country",
+        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 177123,
+      "name": "New To Country",
+      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+    },
+    {
+      "added_at": "2024-06-29 10:02:35",
+      "album": {
+        "name": "from the back",
+        "url": "https://open.spotify.com/album/2SMbi07p3T8Jq77wWIwbFS"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 236417,
+      "name": "from the back",
+      "url": "https://open.spotify.com/track/3uSOCYtU434wB38bMoVIee"
+    },
+    {
+      "added_at": "2024-06-29 10:02:35",
+      "album": {
+        "name": "Loitering",
+        "url": "https://open.spotify.com/album/6f7VekMNXxDoGZuMgzLtzA"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 102428,
+      "name": "Loitering",
+      "url": "https://open.spotify.com/track/4OCmAdcx65ieClYytjFyPc"
+    },
+    {
+      "added_at": "2024-06-29 10:02:35",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
     {
       "added_at": "2024-06-28 22:02:44",
       "album": {
@@ -95,7 +191,7 @@
     {
       "added_at": "2024-06-28 22:02:44",
       "album": {
-        "name": "Fit Check",
+        "name": "Fit Check (feat. VonOff1700)",
         "url": "https://open.spotify.com/album/7rHLiaVnSaN3satk0iFc5Z"
       },
       "artists": [
@@ -109,7 +205,7 @@
         }
       ],
       "duration_ms": 140904,
-      "name": "Fit Check",
+      "name": "Fit Check (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/5SDhxMtn5Gd87eeMg4gI1H"
     },
     {
@@ -351,104 +447,8 @@
       "duration_ms": 158446,
       "name": "sun to me",
       "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "Getting No Sleep",
-        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Getting No Sleep",
-      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "Lone Ranger",
-        "url": "https://open.spotify.com/album/55j7iGarUmVtwLlcYFvtSQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 167966,
-      "name": "Lone Ranger",
-      "url": "https://open.spotify.com/track/5dSUQCm6IySjSgyoDSR3k5"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Big Mama",
-      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "BEAST",
-        "url": "https://open.spotify.com/album/1C8siiKuEgzSsoYUFPo6hz"
-      },
-      "artists": [
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "BEAST",
-      "url": "https://open.spotify.com/track/24VSgKwwi0TyGAtS6ssZDh"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 29 JUN",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 30 JUN",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

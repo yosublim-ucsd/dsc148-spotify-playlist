@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
+  "description": "This is Bring Me The Horizon. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Bring Me The Horizon",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"

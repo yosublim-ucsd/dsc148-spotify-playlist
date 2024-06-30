@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Saint Levant",
+  "description": "Global crossovers by/with Arab artists. Cover: Bayou",
   "name": "Arab X",
   "tracks": [
     {
@@ -2551,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Haifa Wehbe",
+        "url": "https://open.spotify.com/album/5tPaBF7H4a8YMLSzy01yHS"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177604,
+      "name": "Haifa Wehbe",
+      "url": "https://open.spotify.com/track/17b1DCO3Fp60x4Ri8iK1rQ"
+    },
+    {
+      "album": {
         "name": "Hair Up",
         "url": "https://open.spotify.com/album/4GQB0OYAdjKLi3ZvMpIo2S"
       },
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 185250,
       "name": "Queen",
       "url": "https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba"

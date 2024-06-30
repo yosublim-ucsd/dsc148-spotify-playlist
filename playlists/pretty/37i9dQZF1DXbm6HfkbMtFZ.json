@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 721192,
+  "num_followers": 721320,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2024-06-24 19:21:33",
+      "album": {
         "name": "Dark Days [Feat. Sylvan Esso]",
         "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 181212,
       "name": "Dark Days [Feat. Sylvan Esso]",
       "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2024-06-24 19:21:33",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
-      },
-      "artists": [
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
-    },
-    {
-      "added_at": "2024-06-24 19:21:33",
-      "album": {
         "name": "Telling The Truth",
         "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
       "artists": [
         {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
         }
       ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1283,6 +1267,38 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+    },
+    {
+      "added_at": "2024-06-24 19:21:33",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
+    },
+    {
+      "added_at": "2024-06-24 19:21:33",
+      "album": {
         "name": "Base Camp",
         "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
       "artists": [
         {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2024-06-24 19:21:33",
-      "album": {
         "name": "Sun & Moon",
         "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
         }
       ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 241663,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
-    },
-    {
-      "added_at": "2024-06-24 19:21:33",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
+    },
+    {
+      "added_at": "2024-06-24 19:21:33",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
+    },
+    {
+      "added_at": "2024-06-24 19:21:33",
+      "album": {
         "name": "Agony and Extasy",
         "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
-    },
-    {
-      "added_at": "2024-06-24 19:21:33",
-      "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
     },
     {
       "added_at": "2024-06-24 19:21:33",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-06-24 19:21:33",
       "album": {
-        "name": "Open Road",
-        "url": "https://open.spotify.com/album/4qA2vh48jfsWeTLxwszs00"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Clara Clairvoyant",
-      "url": "https://open.spotify.com/track/6zxLYIQWWvfyz6sYEOzSzf"
-    },
-    {
-      "added_at": "2024-06-24 19:21:33",
-      "album": {
         "name": "Longwave",
         "url": "https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 323263,
       "name": "Long Wave",
       "url": "https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE"
+    },
+    {
+      "added_at": "2024-06-24 19:21:33",
+      "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/4qA2vh48jfsWeTLxwszs00"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Clara Clairvoyant",
+      "url": "https://open.spotify.com/track/6zxLYIQWWvfyz6sYEOzSzf"
     },
     {
       "added_at": "2024-06-24 19:21:33",

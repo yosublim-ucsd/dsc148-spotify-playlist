@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,628 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,645 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 70 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 |
 | 71 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
 | 72 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Don't You Worry 'Bout A Thing \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25walIhXLHe6MyWFCT6vNL) | 4:01 |
-| 73 | [Boomerang](https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ) | [Jojo Siwa \(Kids\)](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Boomerang](https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5) | 3:27 |
-| 74 | [I'm A Believer \- From "Shrek" Motion Picture Soundtrack](https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:05 |
+| 73 | [I'm A Believer \- From "Shrek" Motion Picture Soundtrack](https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:05 |
+| 74 | [Boomerang](https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ) | [Jojo Siwa \(Kids\)](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Boomerang](https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5) | 3:27 |
 | 75 | [Good to Be Bad](https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz), [Anna Cathcart](https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 |
 
 Snapshot ID: `Zn7EowAAAAAy5oMqZiNUlJQhL3cNT+hq`

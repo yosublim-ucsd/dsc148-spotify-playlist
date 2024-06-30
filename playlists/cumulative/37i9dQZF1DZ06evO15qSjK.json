@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 167714,
       "name": "abc",
       "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 192008,
       "name": "About That Time",
       "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 134148,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 172158,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 200933,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/6iCX17mrswsT0QgOclgqy3"
@@ -560,6 +560,24 @@
       "duration_ms": 137395,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/4O9rnTPi9UyuRRk5t5Hzv3"
+    },
+    {
+      "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159679,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv"
     },
     {
       "album": {
@@ -952,7 +970,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 146233,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 119788,
       "name": "Mood",
       "url": "https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 224133,
       "name": "Uptown Funk",
       "url": "https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst"

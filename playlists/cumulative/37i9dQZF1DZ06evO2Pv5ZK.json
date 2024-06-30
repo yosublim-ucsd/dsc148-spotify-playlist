@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Vangelis. Los temas esenciales, todos en una lista.",
+  "description": "This is Vangelis. The essential tracks, all in one playlist.",
   "name": "This Is Vangelis",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 163333,
       "name": "Dreams of Surf",
       "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 331920,
       "name": "Main Theme - From \"Chariots of Fire\"",
       "url": "https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7"

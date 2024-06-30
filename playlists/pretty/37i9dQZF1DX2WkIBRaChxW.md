@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Amaarae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,477 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,487 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 38 | [Persuasion \(feat\. Victoria Monét\)](https://open.spotify.com/track/49v5ttae4SvGE6XqfP7PY4) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:49 |
 | 39 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 |
 | 40 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 |
-| 41 | [aslongas \(feat\. Wakai & Tommy Richman\)](https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [mynameisnt](https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8) | 2:58 |
+| 41 | [aslongas](https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [mynameisnt](https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8) | 2:58 |
 | 42 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
 | 43 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 44 | [act iii: on god? \(she like\) \(feat\. Kanye West\) \- remix](https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
+  "description": "This Is Ryan Adams. Todas as faixas essenciais numa \u00fanica playlist.",
   "name": "This Is Ryan Adams",
   "tracks": [
     {
@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance with Somebody (Live from Saskatoon, SK. 2023)",
+        "url": "https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184369,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Live from Saskatoon, SK. 2023",
+      "url": "https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7"
+    },
+    {
+      "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 139360,
       "name": "Sword and Stone",
       "url": "https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF"

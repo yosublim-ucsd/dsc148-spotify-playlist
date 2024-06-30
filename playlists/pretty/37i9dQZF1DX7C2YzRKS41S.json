@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 120646,
+  "num_followers": 120687,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 208517,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
-    },
-    {
-      "added_at": "2024-05-30 22:04:32",
-      "album": {
         "name": "cardigan (cabin in candlelight version)",
         "url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 228000,
       "name": "cardigan - cabin in candlelight version",
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
+    },
+    {
+      "added_at": "2024-05-30 22:04:32",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -951,18 +951,22 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "Some Type Of Skin (Acoustic)",
-        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
+        "name": "Um Ver\u00e3o Qualquer",
+        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Versos Que Compomos Na Estrada",
+          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
+        },
+        {
+          "name": "Eu Me Chamo Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Some Type Of Skin - Acoustic",
-      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
+      "duration_ms": 162214,
+      "name": "Minha Voz",
+      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -983,22 +987,18 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "Um Ver\u00e3o Qualquer",
-        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
+        "name": "Some Type Of Skin (Acoustic)",
+        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
       },
       "artists": [
         {
-          "name": "Versos Que Compomos Na Estrada",
-          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
-        },
-        {
-          "name": "Eu Me Chamo Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 162214,
-      "name": "Minha Voz",
-      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
+      "duration_ms": 200000,
+      "name": "Some Type Of Skin - Acoustic",
+      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
     },
     {
       "added_at": "2024-05-30 22:04:32",

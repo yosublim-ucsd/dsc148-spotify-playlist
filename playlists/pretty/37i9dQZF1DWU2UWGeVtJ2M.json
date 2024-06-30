@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 159423,
+  "num_followers": 159443,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 183103,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Sorry - Original Demo",
-      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sorry - Original Demo",
+      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "willow tree",
-        "url": "https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH"
-      },
-      "artists": [
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "goodnight, don\u2019t wait",
-      "url": "https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 271506,
       "name": "Wicked Dreams",
       "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
+        "name": "willow tree",
+        "url": "https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "goodnight, don\u2019t wait",
+      "url": "https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "Scarred for Tryin.",
-        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 187027,
-      "name": "Scarred for Tryin.",
-      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+        "name": "Scarred for Tryin.",
+        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
       },
       "artists": [
         {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+      "duration_ms": 187027,
+      "name": "Scarred for Tryin.",
+      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
+      },
+      "artists": [
+        {
+          "name": "hohoman16",
+          "url": "https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk"
+        },
+        {
+          "name": "Isla K",
+          "url": "https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
         "name": "Headspace",
         "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 174907,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
-      },
-      "artists": [
-        {
-          "name": "hohoman16",
-          "url": "https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk"
-        },
-        {
-          "name": "Isla K",
-          "url": "https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 190642,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
       },
@@ -1687,38 +1671,18 @@
     {
       "added_at": "2024-06-24 01:00:00",
       "album": {
-        "name": "I.L.Y.M",
-        "url": "https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
       "artists": [
         {
-          "name": "YQ",
-          "url": "https://open.spotify.com/artist/0YWzXzsfIPLUESrRyfXUyU"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 198450,
-      "name": "I.L.Y.M",
-      "url": "https://open.spotify.com/track/6CadGoWxbIJLMBqQFgaQgL"
-    },
-    {
-      "added_at": "2024-06-24 01:00:00",
-      "album": {
-        "name": "Thursday",
-        "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
-      },
-      "artists": [
-        {
-          "name": "Axel Brizzy",
-          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
-        },
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Thursday",
-      "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
+      "duration_ms": 190642,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
     },
     {
       "added_at": "2024-06-24 01:00:00",
@@ -1735,6 +1699,38 @@
       "duration_ms": 194755,
       "name": "God Must Be Doing Cocaine",
       "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2024-06-24 01:00:00",
+      "album": {
+        "name": "I.L.Y.M",
+        "url": "https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G"
+      },
+      "artists": [
+        {
+          "name": "YQ",
+          "url": "https://open.spotify.com/artist/0YWzXzsfIPLUESrRyfXUyU"
+        }
+      ],
+      "duration_ms": 198450,
+      "name": "I.L.Y.M",
+      "url": "https://open.spotify.com/track/6CadGoWxbIJLMBqQFgaQgL"
     },
     {
       "added_at": "2024-06-24 01:00:00",

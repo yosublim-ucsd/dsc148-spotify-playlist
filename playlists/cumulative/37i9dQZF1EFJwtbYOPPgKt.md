@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 2 hr 26 min
+58 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dark Knight](https://open.spotify.com/track/7aXKDR4IGkQ6vuIk9lju50) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Dark Knight](https://open.spotify.com/album/2Mfk8EdEC676OXy1LbLrQt) | 2:07 | 2024-01-29 |  |
 | [Darkroom](https://open.spotify.com/track/5mE0T9thY86MV0xVAqMUWP) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Darkroom](https://open.spotify.com/album/2HssdyMxj7fyrjiKHIddLM) | 2:22 | 2024-01-29 |  |
 | [Desperados](https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Desperados](https://open.spotify.com/album/5fdrFACoOKVRsSYwP5oiLf) | 2:20 | 2024-01-29 |  |
+| [Do It For Myself](https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY) | [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Do It For Myself](https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD) | 2:24 | 2024-06-29 |  |
 | [DONE WITH YOU](https://open.spotify.com/track/4jogIUuguYYQcggPlAAy2a) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG), [Danny Baldursson](https://open.spotify.com/artist/7DdOl2eNdIGAiHF74dFtYS) | [DONE WITH YOU](https://open.spotify.com/album/6mzgSAMmEMNbS93V92aLal) | 2:31 | 2024-01-29 |  |
 | [Drive](https://open.spotify.com/track/3rxAGH0bZVwBnB6EZD6tiE) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Drive](https://open.spotify.com/album/4sQWWuwbOJvpoLVMXjVPRl) | 2:36 | 2024-01-29 |  |
 | [Empty Promises](https://open.spotify.com/track/2Nt3VdNRFMkDfloEzXywGn) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX), [ZOOO](https://open.spotify.com/artist/217djxmtykyQux74K231Rk) | [Empty Promises](https://open.spotify.com/album/4aG6jVv7wIaqLTF5lW80hg) | 2:16 | 2024-01-29 |  |

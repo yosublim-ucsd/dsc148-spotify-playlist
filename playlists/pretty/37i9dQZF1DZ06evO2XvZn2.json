@@ -1,12 +1,12 @@
 {
-  "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 14972,
+  "description": "This Is Evaluna Montaner. Los temas esenciales, todos en una lista.",
+  "num_followers": 14976,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAB2APPmalOAZePZpyZm/QNN",
+  "snapshot_id": "Zn39AAAAAAAgWEFBQXkJvxySX+zUiwWR",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
       "duration_ms": 179648,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236100,
-      "name": "Gracia Incomparable - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1pyA01cXyIK49MGbjVMMYZ"
     },
     {
       "added_at": null,
@@ -399,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Interludio: La Gloria de Dios",
+      "url": "https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
         "url": "https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4"
       },
@@ -419,26 +419,6 @@
       "duration_ms": 150468,
       "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
       "url": "https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Interludio: La Gloria de Dios",
-      "url": "https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx"
     },
     {
       "added_at": null,
@@ -639,26 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,
@@ -691,18 +663,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
         }
       ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 112496,
+  "num_followers": 112514,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Ritual Piojoso (En Vivo en River Plate)",
-        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 284048,
-      "name": "Pac\u00edfico",
-      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
         "name": "En Vivo Gran Rex",
         "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 250426,
       "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
       "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
+        "name": "Ritual Piojoso (En Vivo en River Plate)",
+        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 284048,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
         "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
+        "name": "En Vivo-Vol.2",
+        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Me Puedo Programar (En Vivo",
+      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -975,18 +991,18 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "En Vivo-Vol.2",
-        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Me Puedo Programar (En Vivo",
-      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1059,46 +1075,6 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
-        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        },
-        {
-          "name": "Fabi\u00e1n Von Quintiero",
-          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
-        }
-      ],
-      "duration_ms": 298263,
-      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1215,22 +1191,26 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
-        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
+        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         },
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "Fabi\u00e1n Von Quintiero",
+          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
         }
       ],
-      "duration_ms": 333394,
-      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
-      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
+      "duration_ms": 298263,
+      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1247,6 +1227,26 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
+        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
+        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        },
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 333394,
+      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
+      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Pantalla Del Mundo Nuevo (En Vivo En B.A.Rock)",
-        "url": "https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56"
-      },
-      "artists": [
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
-        }
-      ],
-      "duration_ms": 410746,
-      "name": "Pantalla Del Mundo Nuevo",
-      "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
         "name": "Amarillo",
         "url": "https://open.spotify.com/album/5DZ3ZUQ6TezUopA8xkI5Rq"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 188347,
       "name": "Morir por Vos (no puedo) - En Vivo",
       "url": "https://open.spotify.com/track/0gJBjTI6ijmS7PNxmhshhl"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
+        "name": "Pantalla Del Mundo Nuevo (En Vivo En B.A.Rock)",
+        "url": "https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56"
+      },
+      "artists": [
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
+        }
+      ],
+      "duration_ms": 410746,
+      "name": "Pantalla Del Mundo Nuevo",
+      "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Rezando Solo (En Vivo)",
-        "url": "https://open.spotify.com/album/6xU4VN8x2AImGFY93l5c8A"
+        "name": "Naranja",
+        "url": "https://open.spotify.com/album/38vD0duL1N07zRlMRQxBi2"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Sol Bassa",
+          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
         }
       ],
-      "duration_ms": 330428,
-      "name": "Rezando Solo - En Vivo",
-      "url": "https://open.spotify.com/track/0XSQ9yqkQ3Kx8U44QhkJ4b"
+      "duration_ms": 202907,
+      "name": "Pieza Inundada - En Vivo",
+      "url": "https://open.spotify.com/track/3CfTr80VCXgBxBDvvxvofd"
     }
   ],
   "unique_name": "Vivo de Rock",

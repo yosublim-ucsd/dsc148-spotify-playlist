@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
-  "num_followers": 45181,
+  "num_followers": 45188,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
-      },
-      "artists": [
-        {
-          "name": "waterweed",
-          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "Cure",
-      "url": "https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "NEW DAWN",
         "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 212745,
       "name": "NEW DAWN",
       "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
+      },
+      "artists": [
+        {
+          "name": "waterweed",
+          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "Cure",
+      "url": "https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends feat. VIGORMAN",
       "url": "https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
+      },
+      "artists": [
+        {
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
         "name": "Catch Up",
         "url": "https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 196199,
-      "name": "DO THE DANCE",
-      "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Cocoon for the Golden Future",
-        "url": "https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Ain't That So Awesome",
-      "url": "https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "VOX",
         "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 250366,
       "name": "VOX",
       "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Cocoon for the Golden Future",
+        "url": "https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Ain't That So Awesome",
+      "url": "https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO"
     },
     {
       "added_at": "2024-06-25 15:00:00",

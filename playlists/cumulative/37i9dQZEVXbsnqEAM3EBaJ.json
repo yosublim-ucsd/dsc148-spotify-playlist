@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 151961,
       "name": "A Bar Song (Tipsy) [Remix]",
       "url": "https://open.spotify.com/track/0baUuonAecT31Sju50YgOB"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 348340,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 240539,
       "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
       "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
@@ -7020,7 +7020,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 252366,
       "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
       "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
@@ -8698,7 +8698,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 152963,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
@@ -11998,7 +11998,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 142338,
       "name": "I Can't Explain - Trident Studios Version",
       "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 266677,
       "name": "I've got plans (involving you)",
       "url": "https://open.spotify.com/track/6W2XOPrs33XWgVwjmpIEpr"
@@ -15812,8 +15812,8 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         },
         {
-          "name": "Ian Scott",
-          "url": "https://open.spotify.com/artist/4qnz8cDoORyx3KoY3oYFnh"
+          "name": "Iain Cook",
+          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
         }
       ],
       "date_added": "2024-06-28",
@@ -17572,7 +17572,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 273059,
       "name": "Money Changes Everything - Live at Irvine Meadows Amphitheater, Laguna Hills, CA - 09/22/1984 - Let The Canary Sing Edit",
       "url": "https://open.spotify.com/track/2ywYZp3rMpCIwLcj5YdjH8"
@@ -20266,7 +20266,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 230840,
       "name": "Parklife - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
@@ -20704,7 +20704,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 231160,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
@@ -24292,7 +24292,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 108946,
       "name": "Singular Ecstasy",
       "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
@@ -24470,6 +24470,24 @@
       "duration_ms": 178863,
       "name": "So Good Right Now",
       "url": "https://open.spotify.com/track/0GbJXh142SGBmH9fsiFsEL"
+    },
+    {
+      "album": {
+        "name": "Rock 'n' Roll Star!",
+        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104690,
+      "name": "So Long 60s - San Francisco Hotel Recording",
+      "url": "https://open.spotify.com/track/4atQJpxhZKQQ7iHSRUpNDY"
     },
     {
       "album": {
@@ -25336,6 +25354,24 @@
       "duration_ms": 230439,
       "name": "Spotlight (Demo)",
       "url": "https://open.spotify.com/track/79BhKSghv4K8AiqeorRyi5"
+    },
+    {
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258483,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/1eD81S9fMa6IZ7juZsPJzk"
     },
     {
       "album": {
@@ -26760,7 +26796,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
@@ -27256,7 +27292,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 263573,
       "name": "The Lebanon (Live)",
       "url": "https://open.spotify.com/track/5lbf0gy6mqpC7NeXeaCeAk"
@@ -28953,6 +28989,24 @@
     },
     {
       "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316600,
+      "name": "Tonada para dos poemas de Rub\u00e9n Mart\u00ednez Villena",
+      "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
+    },
+    {
+      "album": {
         "name": "Toni (Jesu Interpolation)",
         "url": "https://open.spotify.com/album/5LQDz86Isnpu3teDNkokXL"
       },
@@ -30060,7 +30114,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 300472,
       "name": "V de Vendetta",
       "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Shine ttw
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,244 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,257 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 9 | [Inside](https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Finding Nimo Series: The Capsule](https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg) | 2:36 |
 | 10 | [San Pe](https://open.spotify.com/track/2zqHnkOlfCIJoel6nhAxUZ) | [Lakna](https://open.spotify.com/artist/4KPdER6eNWruPkJ8ps4f6c), [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [San Pe](https://open.spotify.com/album/7jk41jBPqxkWma6P741pYQ) | 2:46 |
 | 11 | [Tattoos](https://open.spotify.com/track/4HrRzKo0KMoqTL9ZsJS5sw) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deziire](https://open.spotify.com/artist/5So80X8PYsOwMNyZB6N6kK), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Tattoos](https://open.spotify.com/album/6LEOZsxUOuB68ZG29xYmxG) | 2:19 |
-| 12 | [SWEET RHYTHYM](https://open.spotify.com/track/2e4HwERJmIbb0yFb4V9JwP) | [Milar](https://open.spotify.com/artist/0y96QnuCguhjxEuYgMpC9I) | [SWEET RHYTHYM](https://open.spotify.com/album/0D4kZ0l1IAEg7WJrv9ZpaJ) | 2:30 |
+| 12 | [Sweet Rhythm](https://open.spotify.com/track/2e4HwERJmIbb0yFb4V9JwP) | [Milar](https://open.spotify.com/artist/0y96QnuCguhjxEuYgMpC9I) | [Sweet Rhythm](https://open.spotify.com/album/0D4kZ0l1IAEg7WJrv9ZpaJ) | 2:30 |
 | 13 | [Belle](https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Belle](https://open.spotify.com/album/1zHSD43t39HAZcLGlDvr7H) | 2:40 |
 | 14 | [Sweet Escape](https://open.spotify.com/track/5AexqVtUzB7tDZSfvLeNTk) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Sweet Escape](https://open.spotify.com/album/5X4OeETIbet38Ne3RErY29) | 2:38 |
 | 15 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |

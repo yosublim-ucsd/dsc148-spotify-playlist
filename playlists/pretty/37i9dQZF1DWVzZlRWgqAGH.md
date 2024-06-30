@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Hiatus Kaiyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,641 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,646 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 40 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 41 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 |
 | 42 | [Ajala \- Single Edit](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 |
-| 43 | [aslongas \(feat\. Wakai & Tommy Richman\)](https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [mynameisnt](https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8) | 2:58 |
+| 43 | [aslongas](https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [mynameisnt](https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8) | 2:58 |
 | 44 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 45 | [Will You](https://open.spotify.com/track/5sbCxc99iUS5SZn6SkPf3K) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [KEI\-LI](https://open.spotify.com/artist/48CTgsopg2c6MqmSyQc1mv), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Studio Paradise](https://open.spotify.com/album/3eGbYidNN1C08JObEzEt6C) | 3:11 |
 | 46 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 |

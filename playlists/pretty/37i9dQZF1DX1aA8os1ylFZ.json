@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242180,
+  "num_followers": 242194,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "NICE GIRLS",
-        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "NICE GIRLS",
-      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Sixtape 3",
         "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 156030,
       "name": "Doin Yo Stuff",
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "L o s e M y M i n d",
-        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "L o s e M y M i n d",
-      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Hennessy (feat. Blxst)",
         "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Room Full Of Love",
         "url": "https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "FIRST PLACE",
-        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
-      },
-      "artists": [
-        {
-          "name": "Lavils",
-          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
-        }
-      ],
-      "duration_ms": 121211,
-      "name": "FIRST PLACE",
-      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 214455,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "FIRST PLACE",
+        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "duration_ms": 121211,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Words of Affirmation",
         "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 140663,
       "name": "Spinn On You",
       "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1603,6 +1603,26 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU"
+      },
+      "artists": [
+        {
+          "name": "Maya Mae",
+          "url": "https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv"
+        },
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6"
+        }
+      ],
+      "duration_ms": 181511,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Gone Girl",
-        "url": "https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU"
-      },
-      "artists": [
-        {
-          "name": "Maya Mae",
-          "url": "https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv"
-        },
-        {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6"
-        }
-      ],
-      "duration_ms": 181511,
-      "name": "Gone Girl",
-      "url": "https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Nobody believes me",
-        "url": "https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth"
-      },
-      "artists": [
-        {
-          "name": "Jueles Chloe",
-          "url": "https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Nobody believes me",
-      "url": "https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Toxicology",
         "url": "https://open.spotify.com/album/4p3bXptsCmB97f6AiuA4DL"
       },
@@ -1723,8 +1707,24 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Find Me Again",
-        "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
+        "name": "Nobody believes me",
+        "url": "https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth"
+      },
+      "artists": [
+        {
+          "name": "Jueles Chloe",
+          "url": "https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Nobody believes me",
+      "url": "https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "majestic exclusives",
+        "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
       },
       "artists": [
         {
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
         }
       ],
-      "duration_ms": 167145,
-      "name": "Find Me Again",
-      "url": "https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB"
+      "duration_ms": 152347,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
     },
     {
       "added_at": "2024-06-06 22:00:00",

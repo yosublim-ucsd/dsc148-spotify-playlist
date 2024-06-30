@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: MXFRUIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,219 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,223 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 43 | [When You Almost Give Up](https://open.spotify.com/track/5r6iy5kdnnJmLbb2q8ErPK) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [No Cares Era](https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB) | 2:46 |
 | 44 | [I don't want this song to be about you](https://open.spotify.com/track/1jc4Hp10k5hfy37xin4wbq) | [chaopimburabha](https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err) | [I don't want this song to be about you](https://open.spotify.com/album/2sjwxAJJFHTLB256zBfV1K) | 3:13 |
 | 45 | [สดใส \(Keep it\)](https://open.spotify.com/track/2xO0vsM5wNXXa9LRtQzfXG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [สดใส \(Keep it\)](https://open.spotify.com/album/5wra0606tchWv5Ez6h9yxj) | 2:54 |
-| 46 | [ถ้าเธอมีเพื่อนเป็นแฟนเก่า](https://open.spotify.com/track/2ZU7t0L7vY8EBQTZ7WrGAT) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [ถ้าเธอมีเพื่อนเป็นแฟนเก่า](https://open.spotify.com/album/0oSpec45VWCBGkog8TWaJh) | 3:38 |
+| 46 | [ถ้าเธอมีเพื่อนเป็นแฟนเก่า](https://open.spotify.com/track/2ZU7t0L7vY8EBQTZ7WrGAT) | [JustmineNika](https://open.spotify.com/artist/03JlfGBvmLxfM36M9OlmxR) | [ถ้าเธอมีเพื่อนเป็นแฟนเก่า](https://open.spotify.com/album/0oSpec45VWCBGkog8TWaJh) | 3:38 |
 | 47 | [Lowkeyy](https://open.spotify.com/track/6HDerDuffdSAnpQAQ1dMMD) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Lowkeyy](https://open.spotify.com/album/2ydmBsQxD6oMNwFqV6qg0o) | 4:01 |
 | 48 | [ยื้อเพื่อ? \(Be Honest\)](https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:49 |
 | 49 | [Soulmate \- From "ลออจันทร์"](https://open.spotify.com/track/3VDtnlbgR5mFaqPRUhV29D) | [มารีน่า บาเล็นซิเอก้า](https://open.spotify.com/artist/2wQoMu5vPcyHY4dZlenhzo) | [Soulmate \(From "ลออจันทร์"\)](https://open.spotify.com/album/321qQP0Tc5PdXE00Vv6gMe) | 3:29 |

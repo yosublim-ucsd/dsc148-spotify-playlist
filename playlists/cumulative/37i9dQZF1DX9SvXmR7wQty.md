@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hubert Lenoir, P'tit Belliveau
 
-2,639 songs - 5 day 20 hr 37 min
+2,640 songs - 5 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Blue](https://open.spotify.com/track/0QWTSUL3mTStCXLMkPEh2u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Blue](https://open.spotify.com/album/2pJgvL6pmjgyRsApaegLNP) | 3:12 | 2023-07-21 | 2023-07-29 |
 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 | 2023-01-27 | 2023-02-11 |
 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 | 2024-03-08 | 2024-05-02 |
-| [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-24 |  |
+| [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-24 | 2024-06-30 |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-04-16 |
 | [Boire un coup](https://open.spotify.com/track/7Jl9wKc0k5aeQp7FEMGZ4n) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [Boire un coup](https://open.spotify.com/album/6b1mz1YY8VZ8y4dDRilk3c) | 2:34 | 2022-01-14 | 2022-01-22 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-01-21 | 2022-01-29 |
@@ -793,7 +793,7 @@
 | [Fast life](https://open.spotify.com/track/6irpw70gHd8xI0ZLP0cP3G) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Fast life](https://open.spotify.com/album/1ile4F0ioBX1a2J4U0p0bo) | 2:52 | 2022-11-11 | 2022-11-26 |
 | [Fatiguées](https://open.spotify.com/track/7hOIIR20Djb2uHzAFi5jGJ) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Fatiguées](https://open.spotify.com/album/0eSZLG7NKcfARAFFnJFKRF) | 3:31 | 2022-05-06 | 2022-05-14 |
 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 | 2023-11-10 | 2023-11-18 |
-| [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:37 | 2024-06-28 |  |
+| [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:36 | 2024-06-28 |  |
 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-02 | 2024-04-13 |
 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-15 | 2024-05-18 |
 | [Faut s'y mettre \(tellement\)](https://open.spotify.com/track/2FFFvXx5KGaua3459AO1bz) | [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Faut s'y mettre \(tellement\)](https://open.spotify.com/album/0DpCxwwOVZ44AVV206Pk8e) | 2:49 | 2022-09-16 | 2022-09-24 |
@@ -2358,6 +2358,7 @@
 | [Ton Autre Vie \(feat\. Sarah Dugas\)](https://open.spotify.com/track/4RwWsoTApKah1qXyd774Z5) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Sarah Dugas](https://open.spotify.com/artist/00MWO9aNCxqV0zfezWZ5j6) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-06-11 |
 | [Ton chien](https://open.spotify.com/track/6erT1Q2cUtmLhU7gIYIPKb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Ton chien](https://open.spotify.com/album/4oX8iPSpuIpM2HXlYHY6sH) | 2:52 | 2024-06-07 | 2024-06-15 |
 | [Ton Nom](https://open.spotify.com/track/3KPldl0SG6cunZvSbasmRC) | [B\-sws](https://open.spotify.com/artist/2P7HSGx7ubWNJ1eysMnYGj) | [Ton Nom](https://open.spotify.com/album/1SnQ3EBZp9P4DxdtD24DxT) | 3:23 | 2022-04-01 | 2022-04-09 |
+| [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-28 |  |
 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-08-27 |
 | [Top Fan](https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Top Fan](https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX) | 3:10 | 2023-01-27 | 2023-02-11 |
 | [Top Net](https://open.spotify.com/track/0axAkKSHUtkcjYZwijiQFl) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Top Net](https://open.spotify.com/album/4yCrE37yg9faqk3SHfaHQz) | 2:06 | 2022-04-08 | 2022-04-23 |

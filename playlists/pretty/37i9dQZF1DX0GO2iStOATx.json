@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 153217,
+  "num_followers": 153458,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,30 @@
     {
       "added_at": "2024-06-03 05:55:20",
       "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Big Scene",
+      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
+    },
+    {
+      "added_at": "2024-06-03 05:55:20",
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 154285,
       "name": "Poppin'",
       "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
-    },
-    {
-      "added_at": "2024-06-03 05:55:20",
-      "album": {
-        "name": "Con.Fi.Den.Tial",
-        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Snappy",
-          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
-        },
-        {
-          "name": "Rav Hanjra",
-          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Big Scene",
-      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
     },
     {
       "added_at": "2024-06-03 05:55:20",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-06-03 05:55:20",
       "album": {
-        "name": "El Sue\u00f1o (feat. Tru-Skool)",
-        "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 234435,
-      "name": "El Sue\u00f1o (feat. Tru-Skool)",
-      "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
-    },
-    {
-      "added_at": "2024-06-03 05:55:20",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 180698,
       "name": "Kehkashan",
       "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
+    },
+    {
+      "added_at": "2024-06-03 05:55:20",
+      "album": {
+        "name": "El Sue\u00f1o (feat. Tru-Skool)",
+        "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        }
+      ],
+      "duration_ms": 234435,
+      "name": "El Sue\u00f1o (feat. Tru-Skool)",
+      "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
     },
     {
       "added_at": "2024-06-03 05:55:20",

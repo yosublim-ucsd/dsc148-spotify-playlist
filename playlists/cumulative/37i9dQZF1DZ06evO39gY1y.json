@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
+  "description": "This is Charles Ans. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Charles Ans",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 192500,
       "name": "Anticonceptivos",
       "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
@@ -1390,6 +1390,28 @@
       "duration_ms": 225200,
       "name": "Un Vato Como Yo",
       "url": "https://open.spotify.com/track/33rsnrH0JDKiKBQ2SUxcmz"
+    },
+    {
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280487,
+      "name": "Vamos a Dar el Roll",
+      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
     },
     {
       "album": {

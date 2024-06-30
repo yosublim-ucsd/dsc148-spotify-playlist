@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Ghettogod",
+        "url": "https://open.spotify.com/album/1oKIzcTFOozVAPfmCTcbcd"
+      },
+      "artists": [
+        {
+          "name": "Don Pareon",
+          "url": "https://open.spotify.com/artist/2wbqbzaMDno0XiQGqZIUGp"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228807,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/6sQX0TZHZqgmH7klY8Yhsm"
+    },
+    {
+      "album": {
         "name": "Poster Girl",
         "url": "https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 230749,
+  "num_followers": 230939,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAACKkM39b/x98Vrxhig7kKEq",
+  "snapshot_id": "Zn39AAAAAAAEvOG+DwKPeoqi3LHTgi+9",
   "tracks": [
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Mi Zona",
-        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
       "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Por Mi Zona",
-      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
+      "duration_ms": 182700,
+      "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Locofon\u00edas",
-        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
+        "name": "Por Mi Zona",
+        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
       },
       "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 182700,
-      "name": "La Misi\u00f3n",
-      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
+      "duration_ms": 204800,
+      "name": "Por Mi Zona",
+      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 291974,
-      "name": "Alcoholizados",
-      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 295345,
       "name": "En el Espacio",
       "url": "https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 1",
+        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 291974,
+      "name": "Alcoholizados",
+      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
     },
     {
       "added_at": null,

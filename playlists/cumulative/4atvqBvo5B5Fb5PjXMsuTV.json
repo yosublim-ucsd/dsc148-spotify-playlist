@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 29 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 30 JUN",
   "tracks": [
     {
       "album": {
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 129729,
       "name": "BEAST",
       "url": "https://open.spotify.com/track/24VSgKwwi0TyGAtS6ssZDh"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 174000,
       "name": "Big Mama",
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
@@ -4231,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Don't Change when you're Famous",
+        "url": "https://open.spotify.com/album/532WIY0BFO1M1XXqD4f8Ua"
+      },
+      "artists": [
+        {
+          "name": "D-low",
+          "url": "https://open.spotify.com/artist/5iSw8NFExwSFdQI7GgwAPY"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206379,
+      "name": "Don't Change when you're Famous",
+      "url": "https://open.spotify.com/track/5PKpasr1utQVztUQmnOoai"
+    },
+    {
+      "album": {
         "name": "Don't Go Making Plans",
         "url": "https://open.spotify.com/album/0sa9LDew1lNqr9eER3vhBR"
       },
@@ -5671,7 +5689,7 @@
     },
     {
       "album": {
-        "name": "Fit Check",
+        "name": "Fit Check (feat. VonOff1700)",
         "url": "https://open.spotify.com/album/7rHLiaVnSaN3satk0iFc5Z"
       },
       "artists": [
@@ -5688,7 +5706,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140904,
-      "name": "Fit Check",
+      "name": "Fit Check (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/5SDhxMtn5Gd87eeMg4gI1H"
     },
     {
@@ -5943,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "from the back",
+        "url": "https://open.spotify.com/album/2SMbi07p3T8Jq77wWIwbFS"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "from the back",
+      "url": "https://open.spotify.com/track/3uSOCYtU434wB38bMoVIee"
+    },
+    {
+      "album": {
         "name": "Fruit Wine",
         "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
       },
@@ -6030,6 +6066,24 @@
       "duration_ms": 203248,
       "name": "FXX OFF",
       "url": "https://open.spotify.com/track/3Mx5JKcm5zjlWaLjGtquV7"
+    },
+    {
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2GYFs2onhSGrP7F7N4fCuZ"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/26XvzvPD9twtlYhDqSpqP6"
     },
     {
       "album": {
@@ -6252,7 +6306,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 192000,
       "name": "Getting No Sleep",
       "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
@@ -8995,6 +9049,24 @@
     },
     {
       "album": {
+        "name": "Loitering",
+        "url": "https://open.spotify.com/album/6f7VekMNXxDoGZuMgzLtzA"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102428,
+      "name": "Loitering",
+      "url": "https://open.spotify.com/track/4OCmAdcx65ieClYytjFyPc"
+    },
+    {
+      "album": {
         "name": "Lone Ranger",
         "url": "https://open.spotify.com/album/55j7iGarUmVtwLlcYFvtSQ"
       },
@@ -9006,7 +9078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 167966,
       "name": "Lone Ranger",
       "url": "https://open.spotify.com/track/5dSUQCm6IySjSgyoDSR3k5"
@@ -10513,6 +10585,24 @@
     },
     {
       "album": {
+        "name": "New To Country",
+        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177123,
+      "name": "New To Country",
+      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+    },
+    {
+      "album": {
         "name": "Next 2 U",
         "url": "https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA"
       },
@@ -10748,7 +10838,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
@@ -12680,7 +12770,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
@@ -14298,6 +14388,24 @@
       "duration_ms": 219333,
       "name": "SUMMER FESTA",
       "url": "https://open.spotify.com/track/4QYmuMAQ1iBzspZKCaMZuB"
+    },
+    {
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-179 songs - 12 hr 50 min
+180 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2022-01-14 | 2023-07-24 |
 | [Lose Your Love](https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Lose Your Love](https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi) | 3:12 | 2024-03-29 |  |
 | [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 | 2024-04-05 |  |
-| [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2022-01-14 |  |
+| [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2022-01-14 | 2024-06-30 |
 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 | 2022-01-14 |  |
 | [Love Is Enough](https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Love Is Enough](https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN) | 2:56 | 2024-04-05 | 2024-06-21 |
 | [Love Loud](https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Ciaran McAuley presents Elï](https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp) | [Love Loud](https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x) | 2:54 | 2024-03-01 | 2024-03-15 |
@@ -178,6 +178,7 @@
 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 | 2022-01-14 | 2024-02-16 |
 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 | 2022-11-25 | 2024-04-19 |
 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 | 2022-01-14 | 2023-10-02 |
+| [Watching Over Me](https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Watching Over Me](https://open.spotify.com/album/5n3A23v0indork34sZTUF3) | 3:25 | 2024-06-21 |  |
 | [When Everything Was New](https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [When Everything Was New](https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye) | 4:27 | 2024-04-05 | 2024-06-26 |
 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 | 2022-01-14 | 2024-02-16 |
 | [White Ghost](https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq) | [J\_ulio](https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2) | [Far Away Connections](https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH) | 6:30 | 2022-01-14 | 2022-11-26 |

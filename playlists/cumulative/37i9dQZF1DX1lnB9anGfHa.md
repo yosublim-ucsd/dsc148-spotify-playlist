@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-266 songs - 18 hr 5 min
+267 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Fimmine Fimmine](https://open.spotify.com/track/3PAxNbb4NnIJBnrH5QnFol) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc) | 4:39 | 2022-09-21 | 2023-03-29 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7ANEW2g8PEhk3pLP2UxPVT) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/35LHiySmiksIVj8dex7Xg7) | 4:39 | 2022-09-21 | 2022-11-09 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7xqIXSb4H99NLZbZ15Uoac) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/3Zg8UYhztCXajLc8D6zMTM) | 4:39 | 2022-09-21 | 2022-11-13 |
-| [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 | 2024-02-02 |  |
+| [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 | 2024-02-02 | 2024-06-30 |
 | [Glossy Bingo Stain](https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Eulo Cramps](https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO) | 6:02 | 2023-10-06 | 2024-02-28 |
 | [Good Grounds](https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL) | [Fallwander](https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9) | [Good Grounds](https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO) | 5:05 | 2023-01-07 | 2023-04-01 |
 | [Gumar \(Moon\)](https://open.spotify.com/track/0Zcmk5mD0h4iBpF7jXYnwp) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Gumar EP](https://open.spotify.com/album/5OekI8p8goBmoEOSjoeILc) | 1:36 | 2023-03-03 |  |
@@ -165,6 +165,7 @@
 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 | 2023-08-03 |  |
 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 | 2023-01-03 |  |
 | [One at a Time](https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [One at a Time](https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv) | 3:02 | 2023-02-15 | 2023-04-01 |
+| [Open Your Heart](https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB) | [Shackleton](https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3), [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [Jinxed by Being](https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD) | 9:13 | 2024-06-28 |  |
 | [Oracles](https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Oracles](https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s) | 6:50 | 2022-09-07 | 2023-02-25 |
 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 | 2022-09-07 | 2024-04-19 |
 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 | 2023-10-11 |

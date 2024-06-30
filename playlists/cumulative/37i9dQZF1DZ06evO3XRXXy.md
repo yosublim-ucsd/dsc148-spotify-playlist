@@ -2,7 +2,7 @@
 
 ### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 
-> This is Kenny G\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Kenny G\. Les titres incontournables, réunis dans une seule et même playlist.
 
 52 songs - 3 hr 43 min
 

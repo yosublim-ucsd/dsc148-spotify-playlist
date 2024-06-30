@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: KNEECAP
+> New tunes from Ireland for your discovery\. Cover: KNEECAP \#Glastonbury2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,987 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,004 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Chelsea Bakery](https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Chelsea Bakery](https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc) | 2:57 |
 | 80 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 |
 
-Snapshot ID: `ZnS0cAAAAAA04lkter1t6gzIpedBLu9c`
+Snapshot ID: `ZoCTVAAAAAAXE1kntXvi5IsnerXuQTgw`

@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1040188,
+  "num_followers": 1040354,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
-    },
-    {
-      "added_at": "2024-06-22 07:08:53",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2024-06-22 07:08:53",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "How?",
-        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "How?",
-      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
-    },
-    {
-      "added_at": "2024-06-22 07:08:53",
-      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2024-06-22 07:08:53",
+      "album": {
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-06-22 07:08:53",
-      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "May Ninth",
-        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 192144,
-      "name": "May Ninth",
-      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -947,6 +931,22 @@
       "duration_ms": 184760,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
+    },
+    {
+      "added_at": "2024-06-22 07:08:53",
+      "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "Stay cool",
-        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 207982,
-      "name": "Stay cool",
-      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
-    },
-    {
-      "added_at": "2024-06-22 07:08:53",
-      "album": {
         "name": "Superbloodmoon (feat. d4vd)",
         "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
+        "name": "Stay cool",
+        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 207982,
+      "name": "Stay cool",
+      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
+    },
+    {
+      "added_at": "2024-06-22 07:08:53",
+      "album": {
         "name": "Ha Ha Heartbreak",
         "url": "https://open.spotify.com/album/6LuOPb9O7o8nrUvARf1SDb"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 337700,
       "name": "When I Am With You",
       "url": "https://open.spotify.com/track/1lRyZDsGGOm8fFRhaz0un4"
-    },
-    {
-      "added_at": "2024-06-22 07:08:53",
-      "album": {
-        "name": "April May July",
-        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "April May July",
-      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+        "name": "April May July",
+        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
         }
       ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+      "duration_ms": 233893,
+      "name": "April May July",
+      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2024-06-22 07:08:53",
+      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 214013,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
+    },
+    {
+      "added_at": "2024-06-22 07:08:53",
+      "album": {
+        "name": "Stand up and Dance",
+        "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
+      },
+      "artists": [
+        {
+          "name": "Sweetlemon",
+          "url": "https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stand up and Dance",
+      "url": "https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2024-06-22 07:08:53",
       "album": {
-        "name": "Stand up and Dance",
-        "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
       },
       "artists": [
         {
-          "name": "Sweetlemon",
-          "url": "https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Stand up and Dance",
-      "url": "https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx"
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2024-06-22 07:08:53",
@@ -1311,22 +1327,6 @@
       "duration_ms": 187795,
       "name": "maybe",
       "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2024-06-22 07:08:53",
-      "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2024-06-22 07:08:53",

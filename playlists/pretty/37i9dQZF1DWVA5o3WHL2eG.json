@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Ebow",
-  "num_followers": 34371,
+  "num_followers": 34375,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
-        "name": "Blumengarten",
-        "url": "https://open.spotify.com/album/61GNzhne3rtlDpNLWEWqz5"
-      },
-      "artists": [
-        {
-          "name": "Ronja",
-          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
-        }
-      ],
-      "duration_ms": 219992,
-      "name": "Blumengarten",
-      "url": "https://open.spotify.com/track/1lIpqnkGvNZMkpC2vrXoxC"
-    },
-    {
-      "added_at": "2024-06-07 10:21:54",
-      "album": {
         "name": "Free.",
         "url": "https://open.spotify.com/album/1lc7rQHvH0QwHcfCszcb3z"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 145185,
       "name": "Free.",
       "url": "https://open.spotify.com/track/6xQtS5BKmnUANA5ZWfqha0"
+    },
+    {
+      "added_at": "2024-06-07 10:21:54",
+      "album": {
+        "name": "Blumengarten",
+        "url": "https://open.spotify.com/album/61GNzhne3rtlDpNLWEWqz5"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "duration_ms": 219992,
+      "name": "Blumengarten",
+      "url": "https://open.spotify.com/track/1lIpqnkGvNZMkpC2vrXoxC"
     },
     {
       "added_at": "2024-06-07 10:21:54",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
-        "name": "Zu gut f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2EtJ9Rccm1VAxOzf7jhfXO"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 158302,
-      "name": "Zu gut f\u00fcr dich",
-      "url": "https://open.spotify.com/track/74t5qvVy1aT5FfFdviAL7d"
-    },
-    {
-      "added_at": "2024-06-07 10:21:54",
-      "album": {
         "name": "Schutzschild",
         "url": "https://open.spotify.com/album/1JicfA6oyF0XmxOop8nhcs"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 159312,
       "name": "Schutzschild",
       "url": "https://open.spotify.com/track/3O9cIi1SjaqNIc0iCzXXf8"
+    },
+    {
+      "added_at": "2024-06-07 10:21:54",
+      "album": {
+        "name": "Zu gut f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2EtJ9Rccm1VAxOzf7jhfXO"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 158302,
+      "name": "Zu gut f\u00fcr dich",
+      "url": "https://open.spotify.com/track/74t5qvVy1aT5FfFdviAL7d"
     },
     {
       "added_at": "2024-06-07 10:21:54",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
-        "name": "PROJECT HOES",
-        "url": "https://open.spotify.com/album/1mGXT4coMrzL7dcaVeUeTj"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "PROJECT HOES",
-      "url": "https://open.spotify.com/track/6G2YzSkUt0lEDtuIoExUeD"
-    },
-    {
-      "added_at": "2024-06-07 10:21:54",
-      "album": {
         "name": "Dirty Girls",
         "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
-        "name": "Gift",
-        "url": "https://open.spotify.com/album/3mXd2VDnGCJg5TglZRUwPY"
+        "name": "PROJECT HOES",
+        "url": "https://open.spotify.com/album/1mGXT4coMrzL7dcaVeUeTj"
       },
       "artists": [
         {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
         }
       ],
-      "duration_ms": 155260,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/28eOArdnY7JTblHWod7eAP"
+      "duration_ms": 106285,
+      "name": "PROJECT HOES",
+      "url": "https://open.spotify.com/track/6G2YzSkUt0lEDtuIoExUeD"
     },
     {
       "added_at": "2024-06-07 10:21:54",
@@ -575,6 +559,22 @@
       "duration_ms": 172500,
       "name": "SiLBER",
       "url": "https://open.spotify.com/track/0nPYxrJADftqW14Vk4brIe"
+    },
+    {
+      "added_at": "2024-06-07 10:21:54",
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/3mXd2VDnGCJg5TglZRUwPY"
+      },
+      "artists": [
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "duration_ms": 155260,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/28eOArdnY7JTblHWod7eAP"
     },
     {
       "added_at": "2024-06-07 10:21:54",

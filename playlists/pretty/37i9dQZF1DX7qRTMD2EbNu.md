@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Oseikrom Sikanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,903 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,928 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 37 | [TENSION](https://open.spotify.com/track/3EXZuOO3fBodth5pXrIPYG) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 3:19 |
 | 38 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 |
 | 39 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
-| 40 | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/track/7MKeGkDG9lvzR9ZjmfwD2m) | [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [Sky Kuu](https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/album/6cAyK6L0wREMTIXrTHeSGd) | 3:01 |
+| 40 | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/track/7MKeGkDG9lvzR9ZjmfwD2m) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [Sky Kuu](https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/album/6cAyK6L0wREMTIXrTHeSGd) | 3:01 |
 | 41 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
 | 42 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 |
 | 43 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 |

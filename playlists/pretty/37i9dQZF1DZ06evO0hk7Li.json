@@ -1,12 +1,12 @@
 {
-  "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37597,
+  "description": "This Is Jacob Banks. Los temas esenciales, todos en una lista.",
+  "num_followers": 37605,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZntaAAAAAAATMLo2k/aAJdG+qOG7oUHx",
+  "snapshot_id": "Zn39AAAAAAARqc5pR+0e2gysDieT2EEW",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
       },
       "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 251527,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
+      "duration_ms": 209752,
+      "name": "Unholy War",
+      "url": "https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS"
     },
     {
       "added_at": null,
@@ -103,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
       },
       "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 209752,
-      "name": "Unholy War",
-      "url": "https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS"
+      "duration_ms": 251527,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Love Ain't Enough",
+      "url": "https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Owe You Nothing / Remember",
         "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 252393,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "Love Ain't Enough",
-      "url": "https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Age",
-        "url": "https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 130087,
-      "name": "Every Age",
-      "url": "https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk"
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+        "name": "Every Age",
+        "url": "https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
+      "duration_ms": 130087,
+      "name": "Every Age",
+      "url": "https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk"
     },
     {
       "added_at": null,

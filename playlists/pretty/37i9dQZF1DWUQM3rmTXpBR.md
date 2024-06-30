@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Bigsam
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,798 likes - 84 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,812 likes - 84 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [روح](https://open.spotify.com/track/3j1ZZRsVrvngIsjcNdaUEx) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [روح](https://open.spotify.com/album/6ee69leEsVT8AzviirEgjH) | 3:27 |
 | 2 | [Lw Bs](https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lw Bs](https://open.spotify.com/album/7nxUA2AWsiBIIP8dnvKn4i) | 3:24 |
 | 3 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Red Bull Sika](https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66) | 3:00 |
-| 4 | [Tahet Amrak](https://open.spotify.com/track/5FUdHoT1NIaEpb8ylvhCQ0) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Tahet Amrak](https://open.spotify.com/album/0rnEehZwqWHhyYHbK9EzVi) | 3:59 |
+| 4 | [Tahet Amrak](https://open.spotify.com/track/5FUdHoT1NIaEpb8ylvhCQ0) | [akhras](https://open.spotify.com/artist/2JnQ9H2JD46leGyxxoZoFH) | [Tahet Amrak](https://open.spotify.com/album/0rnEehZwqWHhyYHbK9EzVi) | 3:59 |
 | 5 | [Darje Darje](https://open.spotify.com/track/5G9XsnblainR7Z2Nl2kkOv) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Darje Darje](https://open.spotify.com/album/5oifBz7xSqJW28vwBZyDGD) | 2:24 |
 | 6 | [Nasini](https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Nasini](https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7) | 3:33 |
 | 7 | [Ya Thalam Ya Kabes](https://open.spotify.com/track/4NikczXsuYD29AMrHcx90I) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Manshaa](https://open.spotify.com/album/7IyiJ5H6iF16pXc5cs8RiF) | 3:56 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 9 | [Fattaht](https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Fattaht](https://open.spotify.com/album/44cb4xOeQ0EEkQEt8bFlKQ) | 2:56 |
 | 10 | [Bahlam](https://open.spotify.com/track/6CDcDRNj8we1YWU5ZRJK9F) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Bahlam](https://open.spotify.com/album/4YGoGgUA9CLgusQ8atAVi0) | 3:43 |
 | 11 | [Ya Khsara](https://open.spotify.com/track/3NHzvUVVmkNQ6hQ9VJMbJq) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Ya Khsara](https://open.spotify.com/album/4PSYyfCAw0opDo9xKlv1tz) | 2:52 |
-| 12 | [La Tgheeb](https://open.spotify.com/track/7BPapOLW0tCbpSLhqS1jcd) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [La Tgheeb](https://open.spotify.com/album/1RpMWzBF62Xg9yQq8pVKFi) | 3:16 |
+| 12 | [La Tgheeb](https://open.spotify.com/track/7BPapOLW0tCbpSLhqS1jcd) | [akhras](https://open.spotify.com/artist/2JnQ9H2JD46leGyxxoZoFH) | [La Tgheeb](https://open.spotify.com/album/1RpMWzBF62Xg9yQq8pVKFi) | 3:16 |
 | 13 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 |
 | 14 | [Alby Madas](https://open.spotify.com/track/769lMW5dJ1ooeFzWUlBlxI) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Alby Madas](https://open.spotify.com/album/1pFcWhghTl4YSWaDV4ViH3) | 4:47 |
 | 15 | [Louloua](https://open.spotify.com/track/18D5vLLBehtz7zH7pJdvzL) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks), [Maii and Zeid](https://open.spotify.com/artist/1kqQvcNxWvkzK55bwDvHGP) | [Louloua](https://open.spotify.com/album/16qzDSHZVmTOFNgJez0DqP) | 4:10 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 20 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 |
 | 21 | [Alek Shway](https://open.spotify.com/track/1oxOYMvVimEG6xz2OI7hj2) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Alek Shway](https://open.spotify.com/album/5DnTtizoWcoAW0FoKascoB) | 3:33 |
 | 22 | [Awal Kelmi](https://open.spotify.com/track/3wsvQrjCkPZFoOF8MLGGaz) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Awal Kelmi](https://open.spotify.com/album/2TdxqR34fvEuXo6gnLzrvr) | 3:33 |
-| 23 | [Badareek \- بداريك](https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Badareek \(بداريك\)](https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg) | 2:53 |
+| 23 | [Badareek](https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku) | [akhras](https://open.spotify.com/artist/2JnQ9H2JD46leGyxxoZoFH) | [Badareek](https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg) | 2:53 |
 | 24 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
 | 25 | [حتكبر وحتنسى](https://open.spotify.com/track/1VUtcw0aGzPDPiqyGPW2cE) | [Alaa Wardi](https://open.spotify.com/artist/3tTXwO40pkZrwNLMC2rfGL) | [الموسيقى التصويرية لفيلم شمس المعارف](https://open.spotify.com/album/3l1GqEML0nPDAuVB4cSnEP) | 3:34 |
 | 26 | [عيوني](https://open.spotify.com/track/78q1t44OvELCafFzdvd4ZU) | [Shroof](https://open.spotify.com/artist/3tPp17iDBNUmISlc1KaiDW) | [عيوني](https://open.spotify.com/album/5MUFrWrh1zRlhzx2TgzvcS) | 3:08 |

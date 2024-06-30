@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:3vcFXwLEUdfWMu7gTQKyot">Steven Curtis Chapmam</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,920 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,005 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 16 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
 | 17 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 | 18 | [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 |
-| 19 | [Shout It Down](https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Shout It Down](https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR) | 2:58 |
+| 19 | [Shout It Down](https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [SHOUT IT DOWN](https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR) | 2:58 |
 | 20 | [Where My Joy Comes From](https://open.spotify.com/track/2eWYnZD8g7x7vhNikDTjZa) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Where My Joy Comes From](https://open.spotify.com/album/7JGSP8J3mwi4VdF81Xwvos) | 2:39 |
 | 21 | [As I Am](https://open.spotify.com/track/64Z4Mc4eSOasJt7DAmDqaE) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [As I Am](https://open.spotify.com/album/3iEegTIr5qwEP2iQmvUMjY) | 3:42 |
 | 22 | [Crimson Dust \- Live](https://open.spotify.com/track/1mE0BS6BvuoOgSpHEcx1QI) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worthy is the Lamb \(Live\)](https://open.spotify.com/album/6rAbB8RMxupIRZXUIs8sOs) | 4:12 |

@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 307262,
       "name": "Creed",
       "url": "https://open.spotify.com/track/4q8zQYnNqzYPaEZiBLBFgx"
@@ -1160,6 +1160,24 @@
       "duration_ms": 278706,
       "name": "Though You Slay Me",
       "url": "https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6"
+    },
+    {
+      "album": {
+        "name": "Thy Word / Where Else Would I Go",
+        "url": "https://open.spotify.com/album/4MvZpn0juam6DajxgdwOI2"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297276,
+      "name": "Thy Word / Where Else Would I Go",
+      "url": "https://open.spotify.com/track/4DNg9Fj8uPHFHyP9FiToOr"
     },
     {
       "album": {

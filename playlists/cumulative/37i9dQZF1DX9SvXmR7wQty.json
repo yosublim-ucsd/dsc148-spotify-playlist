@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 151410,
       "name": "Bodyguard",
       "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
@@ -15487,7 +15487,7 @@
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157648,
+      "duration_ms": 156693,
       "name": "Fausse note",
       "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
     },
@@ -45778,6 +45778,24 @@
       "duration_ms": 203368,
       "name": "Ton Nom",
       "url": "https://open.spotify.com/track/3KPldl0SG6cunZvSbasmRC"
+    },
+    {
+      "album": {
+        "name": "Ton regard",
+        "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Ton regard",
+      "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
     },
     {
       "album": {

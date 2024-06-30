@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 174146,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 119428,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA"
@@ -5974,7 +5974,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 504992,
       "name": "Sing Hallelujah (with Natalie Grant) - Live",
       "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
@@ -6120,6 +6120,24 @@
       "duration_ms": 207992,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5"
+    },
+    {
+      "album": {
+        "name": "Take all the Praise",
+        "url": "https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391489,
+      "name": "Take all the Praise",
+      "url": "https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E"
     },
     {
       "album": {

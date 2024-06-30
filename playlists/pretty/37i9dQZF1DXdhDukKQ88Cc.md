@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu <a href="spotify:artist:5IpqfN8Pqjy89nj1IfuOXC">@Baloosh</a> 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,478 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,501 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

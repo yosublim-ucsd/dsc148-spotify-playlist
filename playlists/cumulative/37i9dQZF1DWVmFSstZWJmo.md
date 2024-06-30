@@ -2,7 +2,7 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> Is "indie sleaze" in the room with us now? ft\. LCD Soundsystem
+> Is "indie sleaze" in the room with us now? ft\. LCD Soundsystem \#Glastonbury2024
 
 232 songs - 14 hr 40 min
 

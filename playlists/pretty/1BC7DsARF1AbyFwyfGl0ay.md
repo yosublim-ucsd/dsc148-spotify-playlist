@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 47,224 likes - 97 songs - 6 hr 12 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 47,292 likes - 97 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 | 20 | [Arrival to Earth](https://open.spotify.com/track/4u4VElxO7JM4IR4jR4TL1s) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Transformers: The Score](https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U) | 5:26 |
 | 21 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
 | 22 | [The Irrepressibles \| I am Lost \- Tiktok Version](https://open.spotify.com/track/3qZ5uWgbtunobKiroqzCHr) | [Kausak](https://open.spotify.com/artist/677rjvUtatHCLSKDo2c9VY) | [The Irrepressibles \| I am Lost \- Tiktok Version](https://open.spotify.com/album/4LluXO9EV0fiObf74CIXGX) | 6:08 |
-| 23 | [III\. Presto](https://open.spotify.com/track/3Gz8ExGcRpnu8BSDzepQhy) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC) | 2:41 |
+| 23 | [The Four Seasons \- Violin Concerto in G Minor, Op\. 8 No\. 2, RV 315 "Summer": III\. Presto](https://open.spotify.com/track/3Gz8ExGcRpnu8BSDzepQhy) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC) | 2:41 |
 | 24 | [21 Hungarian Dances, WoO 1: Hungarian Dance No\. 5 in G Minor\. Allegro \(Orch\. Schmeling\)](https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Brahms: 21 Hungarian Dances](https://open.spotify.com/album/4ItbBO7SVJLn7HU6BXrmKV) | 2:18 |
 | 25 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 |
 | 26 | [Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/track/3zLTPuucd3e6TxZnu2dlVS) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Für Elise, Bagatelle No\. 25 in A Minor, WoO 59](https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN) | 3:32 |

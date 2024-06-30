@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: BOYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,793 likes - 94 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,893 likes - 94 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

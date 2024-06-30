@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 220520,
       "name": "17 \u00e5r",
       "url": "https://open.spotify.com/track/7MzmBmyI9KkyQJaPNLdtUi"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 218385,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
@@ -10505,6 +10505,24 @@
     },
     {
       "album": {
+        "name": "Fin & Bad",
+        "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121383,
+      "name": "Fin & Bad",
+      "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
+    },
+    {
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -12475,6 +12493,24 @@
     },
     {
       "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -14236,7 +14272,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 185458,
       "name": "Helluva life",
       "url": "https://open.spotify.com/track/1lxnQq2RI4UXqXXegmiiVY"
@@ -15941,6 +15977,24 @@
     },
     {
       "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/38wRFv5x1KqPeYXQlSHU8W"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/4POdzwp6hDWk0OMH2gNE6v"
+    },
+    {
+      "album": {
         "name": "Jag \u00f6nskar jag brydde mig mer",
         "url": "https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD"
       },
@@ -16120,7 +16174,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 137727,
       "name": "Ikv\u00e4ll Igen",
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
@@ -16540,7 +16594,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 189800,
       "name": "Ingen annan r\u00f6r mig som du",
       "url": "https://open.spotify.com/track/1Vo4peT3VmtdLVtw1s65Cm"
@@ -23206,7 +23260,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 187797,
       "name": "Natthimlen",
       "url": "https://open.spotify.com/track/1ABS9QUpgdLMiNzEDiilAs"
@@ -33298,6 +33352,32 @@
       "duration_ms": 132421,
       "name": "Tillbaka",
       "url": "https://open.spotify.com/track/4a1JogEAJAOSvrCLKPqdHy"
+    },
+    {
+      "album": {
+        "name": "Tillf\u00e4lligheter / Hungry Hearts (Mashup)",
+        "url": "https://open.spotify.com/album/2dJWXi5jTW9MFHJ17ruXFc"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        },
+        {
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+        },
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Tillf\u00e4lligheter / Hungry Hearts - Mashup",
+      "url": "https://open.spotify.com/track/2BCskl15k3IkQmj2YTYk2b"
     },
     {
       "album": {

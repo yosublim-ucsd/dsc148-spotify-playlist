@@ -15984,7 +15984,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 148392,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/38d1M3vfvW3nOBaNHbMMwf"
@@ -17082,7 +17082,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 200814,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/3efzgMi6Fcx8SUFdL6IBCh"
@@ -34323,6 +34323,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/5xvyXcM666P2DpIsrjRXZR"
+      },
+      "artists": [
+        {
+          "name": "Jack Kwon",
+          "url": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/0rsWCP5PW0Yh39kAY27smQ"
+    },
+    {
+      "album": {
         "name": "long way home",
         "url": "https://open.spotify.com/album/6j5Z01WF39JENkXvALSGAH"
       },
@@ -43856,7 +43874,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-30",
       "duration_ms": 213930,
       "name": "OVERTAKE",
       "url": "https://open.spotify.com/track/1NovfWWLFMVrj8ie4NnsWR"
@@ -46395,6 +46413,24 @@
     },
     {
       "album": {
+        "name": "Berlin I",
+        "url": "https://open.spotify.com/album/6U6fIsCGL3tSnceBghGmhM"
+      },
+      "artists": [
+        {
+          "name": "Joey Aronskind",
+          "url": "https://open.spotify.com/artist/2gdTcpZhwzAtoAJYNDysAk"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151989,
+      "name": "Punk Ass",
+      "url": "https://open.spotify.com/track/6kV3ziIHE6gIg4tbgoZIEF"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -47012,6 +47048,28 @@
       "duration_ms": 111044,
       "name": "Rainmaker",
       "url": "https://open.spotify.com/track/00Dm5XJcozaUEAhlZ8PRii"
+    },
+    {
+      "album": {
+        "name": "Rains",
+        "url": "https://open.spotify.com/album/3lISlVBzYBHWZLElo9hC9b"
+      },
+      "artists": [
+        {
+          "name": "Adrian Pena",
+          "url": "https://open.spotify.com/artist/0EWnTsziZC8OnS091v0aXc"
+        },
+        {
+          "name": "Keenan Love",
+          "url": "https://open.spotify.com/artist/4CEalhhGcwO9pukA7EiHeb"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Rains",
+      "url": "https://open.spotify.com/track/04iWyQ0dt6wG4QIg2SAIFq"
     },
     {
       "album": {
@@ -47636,6 +47694,24 @@
       "duration_ms": 141882,
       "name": "Remind Myself of You",
       "url": "https://open.spotify.com/track/1u1zGoMntXeuJxELy3L6yW"
+    },
+    {
+      "album": {
+        "name": "Reminisce The Future",
+        "url": "https://open.spotify.com/album/1BQUC7in7PiD2vMtMeNYS0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Whitt Band",
+          "url": "https://open.spotify.com/artist/5HHeAApLXAImgmWHa0BSrI"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192045,
+      "name": "Reminisce the Future",
+      "url": "https://open.spotify.com/track/1sLt2JX4paS1tpODhGuGve"
     },
     {
       "album": {
@@ -58655,6 +58731,24 @@
     },
     {
       "album": {
+        "name": "throw away",
+        "url": "https://open.spotify.com/album/7awS0ZRELkB9z2dg9gnwKF"
+      },
+      "artists": [
+        {
+          "name": "PRIV",
+          "url": "https://open.spotify.com/artist/0jIqPF7laDAaZmSeoSzLlt"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "throw away",
+      "url": "https://open.spotify.com/track/7mTzqgm80Bu6WUZ4M3WltL"
+    },
+    {
+      "album": {
         "name": "Throw It All On Me",
         "url": "https://open.spotify.com/album/3u11QeneTdhktBLmrRVa6a"
       },
@@ -64404,6 +64498,24 @@
       "duration_ms": 220540,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/2UVG3WfmKvNXLDDV2tmMQl"
+    },
+    {
+      "album": {
+        "name": "Where You From",
+        "url": "https://open.spotify.com/album/3ygvTvzlDrnMLJV7O9Nbxm"
+      },
+      "artists": [
+        {
+          "name": "Boicheckz",
+          "url": "https://open.spotify.com/artist/3kaKch6hjNnU8dRNaW1YT5"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185557,
+      "name": "Where You From",
+      "url": "https://open.spotify.com/track/1xlFki8kIshAgJL0xFUDvT"
     },
     {
       "album": {

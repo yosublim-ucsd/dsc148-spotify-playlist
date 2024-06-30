@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,375 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,472 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 69 | [Gimme More](https://open.spotify.com/track/2RsRnJ9jDCKIjDre8EoSx0) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Gimme More](https://open.spotify.com/album/1EcKlU5Dn7QqN4HlVBGDyE) | 2:37 |
 | 70 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 |
 | 71 | [Shut Up And Drive](https://open.spotify.com/track/4ccink3faiufSiFuRdl1m0) | [Techno Mike](https://open.spotify.com/artist/4AnuN6Wz6nC0eRPPW4OuDt) | [Shut Up And Drive](https://open.spotify.com/album/73DbqP6xTZDHGBfBb92oZ7) | 2:39 |
-| 72 | [Ausnahmezustand](https://open.spotify.com/track/0MlewTa4Vq3MSyb1Xx24m6) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Ausnahmezustand](https://open.spotify.com/album/1Ik4dC3jxJIq9e9iSnX5qi) | 1:41 |
+| 72 | [AUSNAHMEZUSTAND](https://open.spotify.com/track/0MlewTa4Vq3MSyb1Xx24m6) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [AUSNAHMEZUSTAND](https://open.spotify.com/album/1Ik4dC3jxJIq9e9iSnX5qi) | 1:41 |
 | 73 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 |
 | 74 | [Up All Nite](https://open.spotify.com/track/0mhInlNNJXrdH14id6NRAn) | [noonoouri](https://open.spotify.com/artist/7pMGoZUrvOrvoYZqVWR07I), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Up All Nite](https://open.spotify.com/album/3CGpJcaa02fN4aCLjdlMA6) | 3:00 |
 | 75 | [Immer Noch Drunk](https://open.spotify.com/track/4kZWUByOncvIQhvMA3pZj8) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb) | [Immer Noch Drunk](https://open.spotify.com/album/2IUSFXklKQXYlpaMxgO4yh) | 2:20 |

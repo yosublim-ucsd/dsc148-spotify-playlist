@@ -423,6 +423,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Gary",
+      "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Boom Boom Back",
         "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Gary",
-        "url": "https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Gary",
-      "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
     },
     {
       "added_at": "2024-06-27 23:00:00",

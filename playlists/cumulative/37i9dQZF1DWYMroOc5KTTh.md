@@ -2,9 +2,9 @@
 
 ### [Serotonin](https://open.spotify.com/playlist/37i9dQZF1DWYMroOc5KTTh)
 
-> 100% good vibes.
+> 100% good vibes\. Cover: The Streets \#Glastonbury2024
 
-524 songs - 1 day 11 hr 2 min
+525 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2022-04-06 | 2022-04-12 |
 | [Gold](https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Portal EP](https://open.spotify.com/album/78qRrrutMoz2NzbujZ2AFj) | 2:41 | 2022-04-06 | 2022-04-15 |
-| [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-05-22 |  |
+| [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-05-22 | 2024-06-30 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-22 | 2023-07-28 |
 | [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-15 | 2022-07-29 |
 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 | 2022-04-15 | 2022-04-18 |
@@ -323,6 +323,7 @@
 | [Maybe Tomorrow](https://open.spotify.com/track/1tXOHminAM6mmFsEsosfb5) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [Yesterday's Tomorrows](https://open.spotify.com/album/2ogV0dBdQ7DyXectdz8IFf) | 5:15 | 2022-04-06 | 2022-04-21 |
 | [Melody of Love](https://open.spotify.com/track/48q7Pc3Zm2nPPVJPsfG30B) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [A Bath Full of Ecstasy](https://open.spotify.com/album/6lkUImwpLYQnkiygVaMoAJ) | 4:18 | 2022-04-06 | 2022-04-13 |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-07-27 |  |
+| [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 | 2024-06-29 |  |
 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-08-04 | 2023-09-02 |
 | [Missing \(feat\. Andreya Triana & Ben Westbeech\)](https://open.spotify.com/track/5tBKJQuTSZcT50MXdJ5HYu) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [Missing \(feat\. Andreya Triana & Ben Westbeech\)](https://open.spotify.com/album/3Ep5tB0DvvcSD7ixPVjA1n) | 4:41 | 2021-12-03 | 2022-07-27 |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2022-08-01 | 2023-10-06 |
