@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Headie One \(pictured\), SOPHIE, Olivia Dean and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,011 likes - 121 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,080 likes - 121 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 108 | [Dey](https://open.spotify.com/track/3sdmC4XD7vCmiZmrljv6jO) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Dey](https://open.spotify.com/album/7cBiGncBXXx6syF0JxkVEH) | 5:42 |
 | 109 | [WE CANNOT BE FRIENDS](https://open.spotify.com/track/1T21V9uTRE3Rmfujj7jJFS) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [WE CANNOT BE FRIENDS](https://open.spotify.com/album/62XBRbkplmfihS7mpYsxKB) | 1:57 |
 | 110 | [Bring Me Down](https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Bring Me Down](https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs) | 3:25 |
-| 111 | [Dance Through The Night \(with Norma Jean Martine\)](https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Dance Through The Night \(with Norma Jean Martine\)](https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT) | 3:07 |
+| 111 | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT) | 3:07 |
 | 112 | [Safe Space](https://open.spotify.com/track/1LDZtDZFPb0Dqk1AUhLB5h) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Safe Space](https://open.spotify.com/album/2ghUYKQCOar69OXHCOIBzi) | 3:21 |
 | 113 | [Lost In It All \(feat\. Jess Ball\)](https://open.spotify.com/track/7EXqv06WGN7gizShYifTrG) | [Charlie Hedges](https://open.spotify.com/artist/2AFFYBbkKiVSCMF19TSeCb), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lost In It All \(feat\. Jess Ball\)](https://open.spotify.com/album/4uWemIW9sfFBsXbjmGrcPs) | 3:11 |
 | 114 | [WHO AM I](https://open.spotify.com/track/3d96jx3sIZx8upV8JOAITP) | [Louis Rei](https://open.spotify.com/artist/5cJ9OiRVmXUPw9foJCoR0T), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [WHO AM I](https://open.spotify.com/album/0OiKRpya1lm2yrrNnKR4cz) | 3:26 |

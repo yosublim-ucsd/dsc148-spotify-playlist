@@ -2,7 +2,7 @@
 
 ### [CMA Fest](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
 
-> Check out all of these artists and more on "CMA Fest" on June 25 at 8/7c on ABC! Cover: Cody Johnson
+> Thanks for another great year of CMA Fest! Cover: Cody Johnson
 
 333 songs - 18 hr 21 min
 

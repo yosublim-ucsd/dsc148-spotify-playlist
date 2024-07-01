@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 84764,
+  "num_followers": 84812,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "A\u00f1oranza Del Amor",
         "url": "https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4"
       },
@@ -379,22 +399,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
       },
       "artists": [
         {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+      "duration_ms": 314773,
+      "name": "Privilegio",
+      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -411,22 +427,6 @@
       "duration_ms": 183306,
       "name": "Total",
       "url": "https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 314773,
-      "name": "Privilegio",
-      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Mucho Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
+      },
+      "artists": [
+        {
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Esc\u00e1ndalo / Luz y Sombra",
+      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Loca Ansiedad",
         "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 175333,
       "name": "Loca Ansiedad",
       "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Mucho Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
-      },
-      "artists": [
-        {
-          "name": "Tania Libertad",
-          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Esc\u00e1ndalo / Luz y Sombra",
-      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 206908,
-      "name": "Si No Est\u00e1s para Mi",
-      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
         "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 278040,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 206908,
+      "name": "Si No Est\u00e1s para Mi",
+      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Historia: Discograf\u00eda Completa",
+        "url": "https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Alguien Me Dijo",
+      "url": "https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Historia: Discograf\u00eda Completa",
-        "url": "https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Alguien Me Dijo",
-      "url": "https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA"
     },
     {
       "added_at": "2024-06-25 17:49:34",

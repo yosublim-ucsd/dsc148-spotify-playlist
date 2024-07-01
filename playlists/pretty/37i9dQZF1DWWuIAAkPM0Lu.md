@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:album:1UwgdrQVaJBueo48c2GM8x">PÅ GENSYN</a> 👀 <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,595 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,603 likes - 102 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 97 | [Can't Get Over You](https://open.spotify.com/track/6cME0wF4IYM660meJm3b4B) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd) | [Can't Get Over You](https://open.spotify.com/album/3J07bVAVB325OAea7G2nbZ) | 2:20 |
 | 98 | [Spicy Margarita \(A7S Remix\)](https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Spicy Margarita \(A7S Remix\)](https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu) | 2:27 |
 | 99 | [Trippin](https://open.spotify.com/track/3AW26RsW8rUFfgK2Br4z7i) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Trippin](https://open.spotify.com/album/4nyNwg9nGjs38iuFkcqcH8) | 2:11 |
-| 100 | [love song](https://open.spotify.com/track/4ba4V2ubps1k4Eg6FrBt1V) | [fishkid](https://open.spotify.com/artist/7KFPeiBsSeJfFU2fTWvM2e), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [love song](https://open.spotify.com/album/0bhgmG5kUiVy5C3igcgLZP) | 2:21 |
-| 101 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 |
+| 100 | [Runaway](https://open.spotify.com/track/1RM6ETOb3uzl59DJUQAQDZ) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Runaway](https://open.spotify.com/album/3Mc12w1nqHdv5gEVFZxLNA) | 2:29 |
+| 101 | [love song](https://open.spotify.com/track/4ba4V2ubps1k4Eg6FrBt1V) | [fishkid](https://open.spotify.com/artist/7KFPeiBsSeJfFU2fTWvM2e), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [love song](https://open.spotify.com/album/0bhgmG5kUiVy5C3igcgLZP) | 2:21 |
+| 102 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 |
 
 Snapshot ID: `Zn6ALgAAAABdaygvev6C9KEqh9xcJIzP`

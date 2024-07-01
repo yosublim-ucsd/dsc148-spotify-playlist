@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "ESSENCE",
+        "url": "https://open.spotify.com/album/3ZahzHjHInhvpm27H7a49B"
+      },
+      "artists": [
+        {
+          "name": "CASPER",
+          "url": "https://open.spotify.com/artist/1XYotdWaTD6kuiMUXM0keC"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206223,
+      "name": "ESSENCE",
+      "url": "https://open.spotify.com/track/1N3ccS0z7h51fdLrPXaVq2"
+    },
+    {
+      "album": {
         "name": "ETERNAL",
         "url": "https://open.spotify.com/album/0yjEEAFj6vPijY5bnaYBtZ"
       },

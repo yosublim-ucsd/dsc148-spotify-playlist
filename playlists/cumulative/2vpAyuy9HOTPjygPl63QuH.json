@@ -1965,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Back To The Old School",
+        "url": "https://open.spotify.com/album/2TQzlOjX11u2ybG8T4AWyP"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Traglia",
+          "url": "https://open.spotify.com/artist/5Zjobyrn6uW4fMRLk4h9ep"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Back To The Old School - Radio Edit",
+      "url": "https://open.spotify.com/track/3Il0k7P5ujWasVPJdoQ1k3"
+    },
+    {
+      "album": {
         "name": "Back To This (feat. SoShy)",
         "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
       },

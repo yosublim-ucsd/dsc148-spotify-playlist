@@ -2566,6 +2566,28 @@
     {
       "album": {
         "name": "Happy Sad Song",
+        "url": "https://open.spotify.com/album/7r7vD3A2yDWlFJ4NYk2tbk"
+      },
+      "artists": [
+        {
+          "name": "ChampionsLeak",
+          "url": "https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4"
+        },
+        {
+          "name": "Symon",
+          "url": "https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186551,
+      "name": "Happy Sad Song",
+      "url": "https://open.spotify.com/track/45IE0eGMtljSg9ZmN61I5t"
+    },
+    {
+      "album": {
+        "name": "Happy Sad Song",
         "url": "https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl"
       },
       "artists": [
@@ -2580,7 +2602,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 186551,
       "name": "Happy Sad Song (feat. Symon)",
       "url": "https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf"
@@ -5092,7 +5114,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 178793,
       "name": "Need You Now (Originally Performed by Armin van Buuren & Jake Reese) [Instrumental Version]",
       "url": "https://open.spotify.com/track/2tjidqayLnhGjFZNKq7ZXt"
@@ -8004,7 +8026,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 402774,
       "name": "With or Without - Live",
       "url": "https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda"

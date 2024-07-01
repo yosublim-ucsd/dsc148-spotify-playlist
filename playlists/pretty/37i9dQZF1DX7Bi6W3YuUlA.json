@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 44656,
+  "num_followers": 44719,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/00YnXipkL78slCKdSkkdkf"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/7qOVK5VN6pBKUG9CIxtTrS"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Most High",
-        "url": "https://open.spotify.com/album/00YnXipkL78slCKdSkkdkf"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Most High",
-      "url": "https://open.spotify.com/track/7qOVK5VN6pBKUG9CIxtTrS"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "They Didn\u2019t Know II",
-        "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "They Didn\u2019t Know II",
-      "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Talk To Me Nice",
         "url": "https://open.spotify.com/album/5A5sFoe5kD6AO26FgXynON"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213913,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/3S517WPLzc0J1LJUbFNpfm"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "They Didn\u2019t Know II",
+        "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "They Didn\u2019t Know II",
+      "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 156749,
       "name": "Put In Work",
       "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
+        "name": "TIGHTROPE",
+        "url": "https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
         },
         {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
         }
       ],
-      "duration_ms": 198591,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
+      "duration_ms": 184000,
+      "name": "TIGHTROPE",
+      "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "TIGHTROPE",
-        "url": "https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo"
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
       },
       "artists": [
         {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
         },
         {
-          "name": "TuKool Tiff",
-          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         }
       ],
-      "duration_ms": 184000,
-      "name": "TIGHTROPE",
-      "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
+      "duration_ms": 198591,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
-      },
-      "artists": [
-        {
-          "name": "Dreamers",
-          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
-        }
-      ],
-      "duration_ms": 175582,
-      "name": "That's What Happens",
-      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "SIX THIRTY",
         "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 222375,
       "name": "SIX THIRTY",
       "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
+      },
+      "artists": [
+        {
+          "name": "Dreamers",
+          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "That's What Happens",
+      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 242564,
-      "name": "Red Light Green Light",
-      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "PEACE OF MIND",
         "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
       },
@@ -1635,22 +1611,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Everybody Else",
-        "url": "https://open.spotify.com/album/4llvRXqnBnQ9JQJpAqxlnA"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "Everybody Else",
-      "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "I Can't Let Up",
         "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
       },
@@ -1667,24 +1627,8 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "No, I'm Not Ok",
-        "url": "https://open.spotify.com/album/3u4r7PPpeLlX274Ks1wGQp"
-      },
-      "artists": [
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Keeping On",
-      "url": "https://open.spotify.com/track/70d7mKdWHKtw1YL6BZXOrL"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
       "artists": [
         {
@@ -1692,13 +1636,33 @@
           "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         },
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
         }
       ],
-      "duration_ms": 127409,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
+      "duration_ms": 242564,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Everybody Else",
+        "url": "https://open.spotify.com/album/4llvRXqnBnQ9JQJpAqxlnA"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "Everybody Else",
+      "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1731,6 +1695,22 @@
       "duration_ms": 194285,
       "name": "No Popstar",
       "url": "https://open.spotify.com/track/4NOasKvxJd9CSSyDJ9C1DQ"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "No, I'm Not Ok",
+        "url": "https://open.spotify.com/album/3u4r7PPpeLlX274Ks1wGQp"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Keeping On",
+      "url": "https://open.spotify.com/track/70d7mKdWHKtw1YL6BZXOrL"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1771,6 +1751,46 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 127409,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Feelin\u2019 Blessed",
+        "url": "https://open.spotify.com/album/1vqIbWGFy0TchFrbS0ZMGP"
+      },
+      "artists": [
+        {
+          "name": "Message Muzik",
+          "url": "https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Feelin\u2019 Blessed",
+      "url": "https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 200470,
       "name": "Put Me Back Together",
       "url": "https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Feelin\u2019 Blessed",
-        "url": "https://open.spotify.com/album/1vqIbWGFy0TchFrbS0ZMGP"
-      },
-      "artists": [
-        {
-          "name": "Message Muzik",
-          "url": "https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Feelin\u2019 Blessed",
-      "url": "https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV"
     },
     {
       "added_at": "2024-06-28 07:29:32",

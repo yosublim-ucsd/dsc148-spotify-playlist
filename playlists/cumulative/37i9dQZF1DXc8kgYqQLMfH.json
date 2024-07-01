@@ -6144,7 +6144,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 154838,
       "name": "Fall Leaves",
       "url": "https://open.spotify.com/track/70zApwjfafyTs2FSf7DWOV"
@@ -8122,7 +8122,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 185764,
       "name": "heartstone",
       "url": "https://open.spotify.com/track/2odsLwH1d3lqmUBNhxksvT"
@@ -9892,6 +9892,24 @@
       "duration_ms": 121499,
       "name": "Keep it in Lane, Jane",
       "url": "https://open.spotify.com/track/3Qz20D25rp3xMQxe16xoix"
+    },
+    {
+      "album": {
+        "name": "kettle",
+        "url": "https://open.spotify.com/album/6gFxnoGIrBNUBaosFJdMSD"
+      },
+      "artists": [
+        {
+          "name": "morefine",
+          "url": "https://open.spotify.com/artist/5baLgCNimsTPQMY2vQMzCk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "kettle",
+      "url": "https://open.spotify.com/track/1EDXY5GBYVVwqxQLUPth5f"
     },
     {
       "album": {
@@ -15904,6 +15922,24 @@
       "duration_ms": 121358,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL"
+    },
+    {
+      "album": {
+        "name": "restful",
+        "url": "https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz"
+      },
+      "artists": [
+        {
+          "name": "Gaccio",
+          "url": "https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126338,
+      "name": "restful",
+      "url": "https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4"
     },
     {
       "album": {

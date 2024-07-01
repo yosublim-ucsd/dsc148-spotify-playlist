@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 139607,
       "name": "Coldest Man",
       "url": "https://open.spotify.com/track/2JNKAWUdXST888vm2Dn2mI"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 152363,
       "name": "Da Law",
       "url": "https://open.spotify.com/track/0BOW8Tgec2VQu8VuNWNSir"
@@ -386,6 +386,24 @@
       "duration_ms": 135758,
       "name": "Distant (feat. Zk)",
       "url": "https://open.spotify.com/track/6EFzZZWOl27TiJy6GnANXR"
+    },
+    {
+      "album": {
+        "name": "Connecticut Chronicles",
+        "url": "https://open.spotify.com/album/1Fdt0EhVfsVmYquFZtA61M"
+      },
+      "artists": [
+        {
+          "name": "Khaleel Mandel",
+          "url": "https://open.spotify.com/artist/2NSERO3kgZui6BAIiMKaQV"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Don't Wish For It, Work For It",
+      "url": "https://open.spotify.com/track/2FCl3GDKG5az23czo3ojWe"
     },
     {
       "album": {
@@ -542,7 +560,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 166216,
       "name": "FREESOSA",
       "url": "https://open.spotify.com/track/1SWDfZj8YO4FeDr9kAHfWm"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 219200,
       "name": "Krug",
       "url": "https://open.spotify.com/track/7Er6wXTKI7DsQo9n4oK8r3"
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 140800,
       "name": "\u0414\u0430\u0439 \u041c\u043d\u0435 \u0428\u0430\u043d\u0441",
       "url": "https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA"
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 135346,
       "name": "\u042d\u0439",
       "url": "https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw"

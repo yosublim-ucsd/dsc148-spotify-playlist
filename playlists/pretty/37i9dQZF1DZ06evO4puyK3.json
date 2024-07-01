@@ -1,12 +1,12 @@
 {
-  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 158467,
+  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
+  "num_followers": 158504,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAADaEoemEme275FnXZK3zDCu",
+  "snapshot_id": "Zn9OgAAAAADOCLpxmLGIvYsOQTN803kB",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 176923,
-      "name": "Eu Odeio Dia 12 - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Fkp5wrm5EkFsSO1YQhK5D"
+      "duration_ms": 235288,
+      "name": "A Tua Voz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vzSkAwsW0mO5ZM0ks7Bta"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "fome",
+        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "fome",
+      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "fome",
-        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
-      },
-      "artists": [
-        {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "fome",
-      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Headie One
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Ghetts \#Glastonbury2024
 
 1,858 songs - 3 day 21 hr 49 min
 
@@ -1088,7 +1088,7 @@
 | [Most Definitely](https://open.spotify.com/track/098rsNELupiqnutsfFUeKt) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Most Definitely](https://open.spotify.com/album/79BMhiSb5NwMmRhH7etk6y) | 3:26 | 2024-05-10 |  |
 | [Most Hated](https://open.spotify.com/track/7nfkD873HVyPi9gg4dE5kc) | [Shogun](https://open.spotify.com/artist/24mRxdX7LhiLVwYneinr3x) | [Most Hated](https://open.spotify.com/album/3x8mepqO6NAM43n6DzzPDq) | 3:14 | 2021-03-14 | 2021-04-17 |
 | [Motion Sickness](https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [DOGHOUSE](https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx) | 2:13 | 2024-03-15 | 2024-04-26 |
-| [Mount Rushmore \(feat\. Kano & Wretch 32\)](https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [On Purpose, With Purpose](https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd) | 5:05 | 2024-02-23 | 2024-05-03 |
+| [Mount Rushmore \(feat\. Kano & Wretch 32\)](https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [On Purpose, With Purpose](https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd) | 5:05 | 2024-02-23 |  |
 | [Mount Rushmore \(feat\. Kano & Wretch 32\)](https://open.spotify.com/track/00qIL8uavO32InG5YjLBs5) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Mount Rushmore \(feat\. Kano & Wretch 32\)](https://open.spotify.com/album/0dOUZUZsTQin7GO8Xzr0JZ) | 5:05 | 2024-02-23 | 2024-02-24 |
 | [Move](https://open.spotify.com/track/0rHR9QXDQDKvdmo9Xhb9gF) | [Nito NB](https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD) | [Move](https://open.spotify.com/album/0ogaehZo0TM9GkbsQ6rLj2) | 3:34 | 2020-12-18 | 2021-02-09 |
 | [Move](https://open.spotify.com/track/3dnRzNs9QfFYomY3TBT2y4) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Move](https://open.spotify.com/album/1h3CWI1cxr3YvqzDFRlqJb) | 2:48 | 2020-09-11 | 2020-10-24 |

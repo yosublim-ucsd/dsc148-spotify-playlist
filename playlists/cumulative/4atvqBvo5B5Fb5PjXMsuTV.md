@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/4atvqBvo5B5Fb5PjXMsuTV.md) - cumulative - [plain](/playlists/plain/4atvqBvo5B5Fb5PjXMsuTV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4atvqBvo5B5Fb5PjXMsuTV)
 
-### [NEW SINGLES RELEASES \| UPDATED 30 JUN](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
+### [NEW SINGLES RELEASES \| UPDATED 01 JUL](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
 > Updated daily, with the latest popular singles!
 
-909 songs - 2 day 2 hr 4 min
+910 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [HOLY SHIT](https://open.spotify.com/track/6PUisWlSS8JljqmKmOtW5P) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [HOLY SHIT](https://open.spotify.com/album/4gmu6ME6RyQPvnGXdsfp84) | 2:26 | 2024-06-14 | 2024-06-19 |
 | [HOMICIDE](https://open.spotify.com/track/47xzsCqltvufOz3Z3iGbQh) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [HOMICIDE](https://open.spotify.com/album/3wOQrAZ0N4BoGZsdUiSDUt) | 2:43 | 2024-06-14 | 2024-06-16 |
 | [Honolulu](https://open.spotify.com/track/2pYreBBGE8sWlLH12UMfTt) | [Da$H](https://open.spotify.com/artist/6xFrZbce9KH5APjBe4QVNa) | [DOUBLE A\-SIDE: VOL.8](https://open.spotify.com/album/2LjhXvI32wAJNLCk6YlN8K) | 2:45 | 2024-05-09 | 2024-05-11 |
+| [Horseplaying](https://open.spotify.com/track/4RqUpqT3tRwyxQ3FOFCt2P) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Horseplaying](https://open.spotify.com/album/0niqy88lOooFh27BdsW3Go) | 1:43 | 2024-06-30 |  |
 | [Hot Dog Hooker](https://open.spotify.com/track/5obOTPVKDnVdm9pYtyM0SQ) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Hot Dog Hooker](https://open.spotify.com/album/576xa3AgwpabuvHJaZ0xZl) | 3:11 | 2024-06-10 | 2024-06-13 |
 | [Hotboiiz](https://open.spotify.com/track/4RGjfvSTa4Vlu73Nxk9bsL) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Hotboiiz](https://open.spotify.com/album/3N2hhAq5aLo1X5QV1p2HGY) | 2:21 | 2024-06-19 | 2024-06-21 |
 | [How It Ends](https://open.spotify.com/track/3X7afM4V4ZMLNVmwBgqWzp) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [How It Ends](https://open.spotify.com/album/0Vw7DrVmTj4IhV5rae5pKF) | 2:55 | 2024-04-26 | 2024-05-01 |
@@ -759,7 +760,7 @@
 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel), [Reckless Love](https://open.spotify.com/artist/0Nkyv1Zj8Xh7Lux3KzIQCl), [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 | 2024-04-26 | 2024-04-30 |
 | [Summertime Voodoo](https://open.spotify.com/track/5BnqgwkMSUp9gDYy9gHxYF) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Summertime Voodoo](https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P) | 6:28 | 2024-05-14 | 2024-05-17 |
 | [sumn u not](https://open.spotify.com/track/6Kqg6JiiUSWqQGZMmSpmZ8) | [EDDISON](https://open.spotify.com/artist/1ZdYJwtXcobafOFdcvw4YI) | [sumn u not](https://open.spotify.com/album/013gp05y5blfLe4VBO4lj7) | 1:58 | 2024-05-26 | 2024-05-29 |
-| [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 | 2024-06-28 |  |
+| [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 | 2024-06-28 | 2024-07-01 |
 | [Sunchaser](https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Sunchaser](https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd) | 4:15 | 2024-05-15 | 2024-05-18 |
 | [Super Hot](https://open.spotify.com/track/06WjECutJB2RmkCvKUoMQH) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [IC3MANIA](https://open.spotify.com/artist/54z6HGc0bumE5NMraoykmq) | [Super Hot](https://open.spotify.com/album/5MOXfTRaSGtYL0pB8GKOnJ) | 3:09 | 2024-06-06 | 2024-06-08 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 | 2024-06-25 |

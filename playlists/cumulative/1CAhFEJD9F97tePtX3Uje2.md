@@ -4,7 +4,7 @@
 
 > 
 
-229 songs - 13 hr 35 min
+230 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Emerald Halls](https://open.spotify.com/track/7wokPgT5SPTGxit5mVevsB) | [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK) | [Deluge](https://open.spotify.com/album/644GaBkaRaWmjTs9YFbp76) | 3:45 | 2018-11-28 |  |
 | [Enight](https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Enight](https://open.spotify.com/album/0DSsnsN1NWZ8Ykcz7ACTRa) | 4:11 | 2019-09-28 |  |
 | [Enzen](https://open.spotify.com/track/3jBIpmRJaykA2vFyDKRxSr) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Enzen](https://open.spotify.com/album/25E0uiMiVLp2LcyL5u39YU) | 3:17 | 2021-04-29 |  |
+| [ESSENCE](https://open.spotify.com/track/1N3ccS0z7h51fdLrPXaVq2) | [CASPER](https://open.spotify.com/artist/1XYotdWaTD6kuiMUXM0keC) | [ESSENCE](https://open.spotify.com/album/3ZahzHjHInhvpm27H7a49B) | 3:26 | 2024-06-30 |  |
 | [ETERNAL](https://open.spotify.com/track/4NjbueibGnxkvgsF5lw6wa) | [WHITE KATANA](https://open.spotify.com/artist/5OtyZM8MxtHrYqOPxetwji), [ANUBIS\-XIII](https://open.spotify.com/artist/7wz8Chs4J8adhaluogDJBl) | [ETERNAL](https://open.spotify.com/album/0yjEEAFj6vPijY5bnaYBtZ) | 2:56 | 2019-04-29 |  |
 | [ETERNAL PAIN](https://open.spotify.com/track/3peSjzHxueZ5Us5IoNFQmL) | [TRPLSFL](https://open.spotify.com/artist/2TVP0556fwFwUW0TjHCww2) | [ETERNAL PAIN](https://open.spotify.com/album/1p8hIh8lVbRtbgnNQVprJ4) | 3:58 | 2023-02-26 |  |
 | [Eternally Yours](https://open.spotify.com/track/3ju6S1v9i1s9hzOm7hMRQr) | [Klimeks](https://open.spotify.com/artist/5JQljNQvDpk1hhKpJHpwNU) | [wave 002](https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W) | 4:22 | 2019-05-26 |  |

@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Sweetest Tune",
+        "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205757,
+      "name": "Sweetest Tune",
+      "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
+    },
+    {
+      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 238973,
       "name": "\u30ec\u30aa",
       "url": "https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt"

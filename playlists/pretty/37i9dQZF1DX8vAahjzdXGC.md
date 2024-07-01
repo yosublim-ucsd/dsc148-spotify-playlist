@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,383 likes - 109 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,443 likes - 109 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 63 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 |
 | 64 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 |
 | 65 | [Daisy](https://open.spotify.com/track/5u67JhFPaBPkevJAdAop7o) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP \(Deluxe Version\)](https://open.spotify.com/album/1Q58jE4cuR8BCcgcfIIeoa) | 2:21 |
-| 66 | [Perfect feat\. JIMMY & WEESA](https://open.spotify.com/track/3UvFLfJCAKertN6IpEqwpA) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JIMMY](https://open.spotify.com/artist/66tnh3wEp0PUhH93mVfbZG), [WEESA](https://open.spotify.com/artist/0Uzh2Ni1NNcieI323yZO52) | [Perfect feat\. JIMMY & WEESA](https://open.spotify.com/album/7cGVwsF1NzwU5YqB89DP6G) | 2:54 |
+| 66 | [Perfect feat\. JIMMY & WEESA](https://open.spotify.com/track/3UvFLfJCAKertN6IpEqwpA) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [WEESA](https://open.spotify.com/artist/0Uzh2Ni1NNcieI323yZO52) | [Perfect feat\. JIMMY & WEESA](https://open.spotify.com/album/7cGVwsF1NzwU5YqB89DP6G) | 2:54 |
 | 67 | [20](https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [20](https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom) | 3:29 |
 | 68 | [Strawberry Rush](https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Strawberry Rush](https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2) | 2:56 |
 | 69 | [HURRICANE](https://open.spotify.com/track/6oOQzwWhv7RW0QmuPupgQX) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [HURRICANE](https://open.spotify.com/album/7sRIyO45mBnqimcG7Sk4k4) | 2:29 |

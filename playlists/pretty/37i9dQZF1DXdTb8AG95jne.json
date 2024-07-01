@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Volunteers(\ub354 \ubc1c\ub8ec\ud2f0\uc5b4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 468777,
+  "num_followers": 468789,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-26 07:58:52",
       "album": {
-        "name": "2 Minutes",
-        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 120453,
-      "name": "2 Minutes",
-      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
-    },
-    {
-      "added_at": "2024-06-26 07:58:52",
-      "album": {
         "name": "Just as We Were",
         "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 248306,
       "name": "Just as We Were",
       "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
+    },
+    {
+      "added_at": "2024-06-26 07:58:52",
+      "album": {
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
       "added_at": "2024-06-26 07:58:52",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-06-26 07:58:52",
       "album": {
+        "name": "pool vol. 2 - Peanut Butter Sandwich",
+        "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Peanut butter Sandwich",
+      "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
+    },
+    {
+      "added_at": "2024-06-26 07:58:52",
+      "album": {
         "name": "RUNAWAY (feat. Ha Hyun Sang)",
         "url": "https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 210405,
       "name": "RUNAWAY (feat. Ha Hyun Sang)",
       "url": "https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI"
-    },
-    {
-      "added_at": "2024-06-26 07:58:52",
-      "album": {
-        "name": "pool vol. 2 - Peanut Butter Sandwich",
-        "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
-      },
-      "artists": [
-        {
-          "name": "jisokuryClub",
-          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Peanut butter Sandwich",
-      "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

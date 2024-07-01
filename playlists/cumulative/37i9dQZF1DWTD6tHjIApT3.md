@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 鈴木真海子 \(Mamiko Suzuki\)
 
-2,522 songs - 6 day 17 hr 53 min
+2,523 songs - 6 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1060,6 +1060,7 @@
 | [sayonara diver](https://open.spotify.com/track/6qoYr0vIlHYFxfLD6bmyEl) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [sayonara diver](https://open.spotify.com/album/6vKN5q8bIjABG1gi78zOss) | 3:41 | 2023-08-08 | 2023-08-16 |
 | [SAYONARA MAYBE](https://open.spotify.com/track/6RAskN5GPMpjnJgY3P7QBD) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ルール](https://open.spotify.com/album/2xtLw7EyNr9AQ0UXbQDkBv) | 4:04 | 2023-08-10 |  |
 | [Scarlet](https://open.spotify.com/track/00avhcaLNcT8CGEtt4VZE8) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Scarlet](https://open.spotify.com/album/1PjiZEXB01V8rk2PUDFSs9) | 3:32 | 2023-11-14 | 2023-12-13 |
+| [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 | 2024-06-25 |  |
 | [Seaside Hotel](https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [TOKYO TOWER](https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb) | 4:49 | 2023-01-24 | 2023-02-22 |
 | [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 | 2023-04-20 |
 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 | 2023-11-17 |
@@ -1692,7 +1693,7 @@
 | [カナリア](https://open.spotify.com/track/6PQ6583LET7q3J3npUbpTp) | [Mayo Okamoto](https://open.spotify.com/artist/1TEO8St42CVkM7eIimLSlh) | [カナリア](https://open.spotify.com/album/2QDELvrrvWlgaPlFeBmT3Z) | 4:36 | 2022-12-08 | 2022-12-14 |
 | [カナリアの歌](https://open.spotify.com/track/5W0yWLDoF9XYIINTO13Mb8) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [カナリアの歌](https://open.spotify.com/album/3UhChw3jscl6ePbWqhKGrJ) | 4:45 | 2022-05-31 | 2022-07-23 |
 | [カメラロール](https://open.spotify.com/track/32AlCxv4atmuaJ5J73f4b7) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [カメラロール](https://open.spotify.com/album/28VL3OuHhupUZgk3HYiXeD) | 4:23 | 2023-09-05 | 2023-09-07 |
-| [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-01-09 |  |
+| [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-01-09 | 2024-07-01 |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-13 |
 | [キオクの狭間](https://open.spotify.com/track/2tYxJiNdsf94gtraX8noZX) | [marble](https://open.spotify.com/artist/2dc5blvdybsdWvxEeGAbie) | [キオクの狭間](https://open.spotify.com/album/4aPoxmq4aYUBjDlmT9VtWV) | 5:29 | 2022-09-15 | 2022-09-28 |
 | [キスしながらごめんね](https://open.spotify.com/track/3d9eaY8IT1fm2zdYOQvz7I) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv) | [キスしながらごめんね](https://open.spotify.com/album/41avACZelcwP3Fkk132dOe) | 4:16 | 2022-09-27 | 2022-10-05 |

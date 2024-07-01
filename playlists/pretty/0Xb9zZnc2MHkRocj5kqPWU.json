@@ -1,6 +1,6 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62660,
+  "num_followers": 62654,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
@@ -864,10 +864,6 @@
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
           "name": "Chloe Flower",
           "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
         }
@@ -1405,7 +1401,7 @@
         }
       ],
       "duration_ms": 118583,
-      "name": "Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
+      "name": "Bach: Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
       "url": "https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu"
     },
     {
@@ -2330,6 +2326,14 @@
         {
           "name": "Tim Allhoff",
           "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Robert Mehlhart",
+          "url": "https://open.spotify.com/artist/2OW114j1DyCTIpkRsXyW04"
+        },
+        {
+          "name": "Cantatorium",
+          "url": "https://open.spotify.com/artist/4THx13UIBCP7lwpRz49cDe"
         }
       ],
       "duration_ms": 217455,
@@ -2566,6 +2570,14 @@
         {
           "name": "Tim Allhoff",
           "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Robert Mehlhart",
+          "url": "https://open.spotify.com/artist/2OW114j1DyCTIpkRsXyW04"
+        },
+        {
+          "name": "Cantatorium",
+          "url": "https://open.spotify.com/artist/4THx13UIBCP7lwpRz49cDe"
         }
       ],
       "duration_ms": 285103,

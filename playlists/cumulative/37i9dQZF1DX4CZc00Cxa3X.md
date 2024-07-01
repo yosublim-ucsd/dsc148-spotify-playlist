@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-382 songs - 1 day 7 hr 51 min
+383 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [after the rain](https://open.spotify.com/track/22ZVzlpTouAn4TrdIJNv6i) | [echo boi](https://open.spotify.com/artist/3pLgSyPwng015fy5T1QLoq), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [after the rain](https://open.spotify.com/album/6eJETVlEoQ5hsJcDZnxwpX) | 4:23 | 2023-08-04 |  |
 | [Afterglow](https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 3:48 | 2023-10-06 |  |
 | [Aguirre I \(l'acrime di rei\)](https://open.spotify.com/track/0M1pNHDApusajHZrITwyMT) | [Popol Vuh](https://open.spotify.com/artist/5zeiqAaIiDrjiDch33A2lT) | [Aguirre \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S5f7x42llDqzLYwIdlBMs) | 7:22 | 2023-09-22 | 2023-10-07 |
-| [Album 4](https://open.spotify.com/track/2b1rIFVf5aZogxGoDAcEoL) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Album](https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa) | 6:45 | 2023-03-16 |  |
+| [Album 4](https://open.spotify.com/track/2b1rIFVf5aZogxGoDAcEoL) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Album](https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa) | 6:45 | 2023-03-16 | 2024-07-01 |
 | [All We Can't See](https://open.spotify.com/track/5CO4UIfBWDillkIS3a1oTb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/7yAAi4irn34TeF2i7xUZk6) | 1:56 | 2022-03-17 | 2022-07-29 |
 | [All We Can't See](https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF) | 1:56 | 2022-07-08 | 2023-01-07 |
 | [Almost Gone \- Excerpt](https://open.spotify.com/track/3qWjeFVCqktGn5kNJ3Ny09) | [Matchess](https://open.spotify.com/artist/7JbFsfhiuS2Aq2PNMt1bju) | [Almost Gone \(Excerpt\)](https://open.spotify.com/album/4YGfq63RafylPuC7EMD3Jj) | 5:03 | 2023-03-16 |  |
@@ -293,6 +293,7 @@
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-12-21 |
 | [Slow Flight](https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Slow Flight](https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8) | 2:11 | 2022-11-11 |  |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 | 2023-03-18 |
+| [Soft Air](https://open.spotify.com/track/6jXBzO6c78812s7xtV8SBv) | [Nueen](https://open.spotify.com/artist/1nYUDAZ2lx7tq2kkMLzomb) | [Circular Sequence](https://open.spotify.com/album/3QHq0fdsTeYfqNbpfpdpYE) | 4:14 | 2024-05-28 |  |
 | [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 |  |
 | [Soul Alphabet](https://open.spotify.com/track/1TkEWtBcGGo3iEryzHB7LG) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Captain Of None](https://open.spotify.com/album/2gnttPzhPGPnTxOtxhPITE) | 4:54 | 2023-06-30 | 2023-07-14 |
 | [Sound](https://open.spotify.com/track/6KmO0OKYRWtxyh9dxekdr7) | [Cedric IM Brooks & The Light of Saba](https://open.spotify.com/artist/697YONfQhe3i1GqsGVJIgn) | [The Magical Light of Saba](https://open.spotify.com/album/0kxlBCNxF5jEFOwUzR3vna) | 2:03 | 2023-09-22 | 2023-10-07 |

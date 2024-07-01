@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,515 songs - 8 day 6 hr 44 min
+3,517 songs - 8 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [2017](https://open.spotify.com/track/3jg1KibIAZQn0jioczUhG5) | [Dani Boi](https://open.spotify.com/artist/47PMTWWTclESWUZBKjJGF0) | [2017](https://open.spotify.com/album/2gbVLcmiy7wtX0Y3QsCsrT) | 2:00 | 2023-04-02 | 2023-04-23 |
 | [2021](https://open.spotify.com/track/7KeUoG0jp7YVUL7O6HdRKF) | [EMPOWER](https://open.spotify.com/artist/1F146KPN8Pt5RtF3GNmysb) | [2021](https://open.spotify.com/album/6vig6WnPEpY81sPGRunJW0) | 4:54 | 2021-01-08 | 2021-01-23 |
 | [22 Years](https://open.spotify.com/track/0FllyNaq3SwLnyfhfBuJ27) | [Ethan Taylor](https://open.spotify.com/artist/2pTM43BOirAsjO6pKK3qjA) | [22 Years](https://open.spotify.com/album/3iL8gGg9WYAjL8PBwRD0w5) | 3:42 | 2023-03-27 | 2023-04-15 |
+| [23](https://open.spotify.com/track/14UIt9eRQYdS0tVm6G9ixt) | [BIG D](https://open.spotify.com/artist/2MYZ9y9Amw1ApGWuWzzIUs) | [23](https://open.spotify.com/album/3cvxOD19DXtU4N0Ubs2s2G) | 3:16 | 2024-06-30 |  |
 | [27 Thousand Days](https://open.spotify.com/track/6ybwD9zl51hJPZSRyZ6X7B) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:40 | 2022-04-01 | 2022-04-17 |
 | [2:22](https://open.spotify.com/track/5UmCfYzKWLBRoker1oJWVR) | [Pip](https://open.spotify.com/artist/6wYjE80aPC9C0sPFPCzyjb), [2AM](https://open.spotify.com/artist/1hM5rICjqAz92XJHKDuiCg) | [Cotton Candy Skies](https://open.spotify.com/album/0nbZRXvJpaZW9v1S1lhbhQ) | 3:16 | 2022-09-30 | 2022-10-18 |
 | [2:27](https://open.spotify.com/track/4LPdW4U2LJx8jYeDyzgtkx) | [Jo reveles](https://open.spotify.com/artist/3pP2B3kEBQ6gCAvPi3K9Ly) | [2:27](https://open.spotify.com/album/1sedY48tsHMof0RElOOf5S) | 2:28 | 2023-12-01 | 2023-12-19 |
@@ -585,6 +586,7 @@
 | [Cinnamon Skies](https://open.spotify.com/track/63KeW4iebmf2ZXvi6dRLbC) | [Landon Tewers](https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7), [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Cinnamon Skies](https://open.spotify.com/album/4U8bPqTuYLM7ZU1XvkdbRT) | 2:13 | 2023-04-28 | 2023-05-16 |
 | [Circle](https://open.spotify.com/track/0hsPzVl4CBhg9yCUsv9ahJ) | [Phephi](https://open.spotify.com/artist/3zHVwEtxAyULbGwTkJYkn1) | [Nocturnal](https://open.spotify.com/album/4ftSRo0hrwKAbGj5UaXP63) | 3:18 | 2023-01-13 | 2023-02-12 |
 | [Circles](https://open.spotify.com/track/7otM2899LBDzr051hxJqyx) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Circles](https://open.spotify.com/album/0uYF0K7LrkGxLzmVhQGt1M) | 3:09 | 2022-08-18 | 2022-09-04 |
+| [Circles](https://open.spotify.com/track/0mpNb4fxKsIfc5bgx6xG2d) | [Gerina](https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4) | [Circles](https://open.spotify.com/album/074vfRX9wjyoNRRDIFfPq3) | 3:51 | 2024-06-30 |  |
 | [Circles](https://open.spotify.com/track/4jWH0iiS8CwGX2sQ9q2UTl) | [Phatg](https://open.spotify.com/artist/51lwdwFfiqiqnnF9xY4SCk), [Tayo Xander](https://open.spotify.com/artist/0XwQ8MTx9xWiOHqOg6TbcB) | [Unknown](https://open.spotify.com/album/6a0aWt8Y6CRKnUCq1dljYc) | 2:25 | 2023-08-09 | 2023-08-20 |
 | [Circles](https://open.spotify.com/track/3M9qpGEJjkUEvw6juEtYT1) | [v i b e](https://open.spotify.com/artist/0zfqU1ousYz8J86gAa30y7) | [Circles](https://open.spotify.com/album/5QwQ5J7MUCHEH534d8E7Ni) | 1:57 | 2021-08-13 | 2021-08-29 |
 | [City](https://open.spotify.com/track/6gznUijFc3iockW5KwABtj) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [City](https://open.spotify.com/album/7lH9oAQQA3aXt4yMOEUzOv) | 3:10 | 2022-06-04 | 2022-06-29 |

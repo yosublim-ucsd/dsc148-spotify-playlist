@@ -993,7 +993,7 @@
     },
     {
       "album": {
-        "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez & Evelyn Cornejo)",
+        "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
         "url": "https://open.spotify.com/album/6xWukFtWuufu0IvGSwXOST"
       },
       "artists": [
@@ -1022,7 +1022,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256417,
-      "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez & Evelyn Cornejo)",
+      "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
       "url": "https://open.spotify.com/track/4c0KDHLLWVZgtlJLdt2ZDr"
     },
     {
@@ -4404,6 +4404,32 @@
       "duration_ms": 117333,
       "name": "Carteo",
       "url": "https://open.spotify.com/track/1TZhXgVbwVmPDFBTIhxkzH"
+    },
+    {
+      "album": {
+        "name": "La Dieta del Murci\u00e9lago (Instrumentales)",
+        "url": "https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC"
+      },
+      "artists": [
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Terrible",
+          "url": "https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180716,
+      "name": "Casi Normal",
+      "url": "https://open.spotify.com/track/1rRvg5NRNWEexYjEPJ7Tnx"
     },
     {
       "album": {
@@ -9122,7 +9148,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 350722,
       "name": "For a Thousand Mothers - Live",
       "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
@@ -9894,7 +9920,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 199854,
       "name": "Gimme Danger - Early Demo",
       "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
@@ -10550,7 +10576,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 899651,
       "name": "Guitar Solo / Jam - Live",
       "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
@@ -10602,7 +10628,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 196507,
       "name": "Hace Mal",
       "url": "https://open.spotify.com/track/0Q4TCNDF4kDZrZWqQixBnN"
@@ -23452,7 +23478,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 199947,
       "name": "Search And Destroy - Early Demo",
       "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
@@ -29202,7 +29228,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 383204,
       "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
       "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"

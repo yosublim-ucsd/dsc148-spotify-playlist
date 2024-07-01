@@ -1,13 +1,29 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 78,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 30 JUN",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 01 JUL",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJKVquO1rYTzDtLHi8PQ9IYiDl4JK5",
+  "snapshot_id": "AAAJLMaNXGW+hcOfcj6MjG7iKyd2baOU",
   "tracks": [
+    {
+      "added_at": "2024-06-30 22:02:37",
+      "album": {
+        "name": "Horseplaying",
+        "url": "https://open.spotify.com/album/0niqy88lOooFh27BdsW3Go"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 103131,
+      "name": "Horseplaying",
+      "url": "https://open.spotify.com/track/4RqUpqT3tRwyxQ3FOFCt2P"
+    },
     {
       "added_at": "2024-06-29 22:02:11",
       "album": {
@@ -431,24 +447,8 @@
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
-    },
-    {
-      "added_at": "2024-06-28 10:03:12",
-      "album": {
-        "name": "sun to me",
-        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "sun to me",
-      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 30 JUN",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 01 JUL",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Auditory Trauma: Nothing Isolation Sessions (Live)",
+        "url": "https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280941,
+      "name": "The Great Dismal - Live",
+      "url": "https://open.spotify.com/track/1yXYTDOFhfTqhJNjy9c2oq"
+    },
+    {
+      "album": {
         "name": "Spirit of the Stairs - B-Sides & Rarities",
         "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
       },

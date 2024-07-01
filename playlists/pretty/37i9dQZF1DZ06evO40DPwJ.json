@@ -1,12 +1,12 @@
 {
-  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 17062,
+  "description": "This Is Taio Cruz. Los temas esenciales, todos en una lista.",
+  "num_followers": 17064,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAAA5AG8Rl0/iJEBdFFs77ivl",
+  "snapshot_id": "Zn9OgAAAAADQbwd9YwkPl+EwmJCxxJot",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Above The Noise",
-        "url": "https://open.spotify.com/album/0PktNBv5Cem8XPnhkubCjR"
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
       },
       "artists": [
-        {
-          "name": "McFly",
-          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
-        },
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 218615,
-      "name": "Shine A Light - Radio Edit",
-      "url": "https://open.spotify.com/track/5potQQ4p1E51003y375eVC"
+      "duration_ms": 208611,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
     },
     {
       "added_at": null,
@@ -143,6 +139,26 @@
       "duration_ms": 187626,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Above The Noise",
+        "url": "https://open.spotify.com/album/0PktNBv5Cem8XPnhkubCjR"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 218615,
+      "name": "Shine A Light - Radio Edit",
+      "url": "https://open.spotify.com/track/5potQQ4p1E51003y375eVC"
     },
     {
       "added_at": null,
@@ -183,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rokstarr (Special Edition)",
         "url": "https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 212853,
       "name": "Telling The World",
       "url": "https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9"
     },
     {
       "added_at": null,
@@ -327,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },
@@ -383,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Shotcaller",
+      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
       },
@@ -403,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rokstarr (Special Edition)",
-        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "No Other One - Remastered",
-      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },
@@ -431,6 +427,22 @@
       "duration_ms": 228866,
       "name": "I'll Never Love Again",
       "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "No Other One - Remastered",
+      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
     },
     {
       "added_at": null,
@@ -471,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -487,22 +515,6 @@
       "duration_ms": 212613,
       "name": "Come On Girl",
       "url": "https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
     },
     {
       "added_at": null,
@@ -543,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Can't Say Go",
+      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -559,22 +587,6 @@
       "duration_ms": 206253,
       "name": "Take Me Back - 2010 Remix",
       "url": "https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Can't Say Go",
-      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
     },
     {
       "added_at": null,
@@ -615,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Forever Love",
-      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
       },
@@ -651,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
       "artists": [
         {
@@ -660,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 192680,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb"
+      "duration_ms": 252613,
+      "name": "Forever Love",
+      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
     },
     {
       "added_at": null,
@@ -679,22 +675,6 @@
       "duration_ms": 212480,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/7kXgRawfg4ESH4Iwyn80lR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Feel Again - Remastered 2010",
-      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
     },
     {
       "added_at": null,
@@ -735,6 +715,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Feel Again - Remastered 2010",
+      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cryin' Over You",
+        "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
+      },
+      "artists": [
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Cryin Over You - Cahill Radio Edit",
+      "url": "https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NapsterLive Sessions",
         "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
       },
@@ -767,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryin' Over You",
-        "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
-      },
-      "artists": [
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Cryin Over You - Cahill Radio Edit",
-      "url": "https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Annual Compilation 2012 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3"
       },
@@ -807,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NapsterLive Sessions",
-        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "She's Always Gone! - NapsterLive",
-      "url": "https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj"
       },
@@ -835,6 +815,22 @@
       "duration_ms": 180000,
       "name": "Imagine - Big Brothers Big Sisters Charity Single",
       "url": "https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NapsterLive Sessions",
+        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "She's Always Gone! - NapsterLive",
+      "url": "https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs"
     }
   ],
   "unique_name": "This Is Taio Cruz",

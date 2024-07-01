@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 34 min
+92 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Moch Sa Mhadainn](https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 4:35 | 2023-07-08 | 2023-09-22 |
 | [Mothra's Song](https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 2:10 | 2024-03-17 |  |
 | [Murtagh's Oath](https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 3:48 | 2023-09-09 | 2023-10-02 |
+| [Nassau Shores](https://open.spotify.com/track/6WoDhdxJvDSgy6WdSAwa5j) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 2:11 | 2024-07-01 |  |
 | [New Dawn at Fraser's Ridge](https://open.spotify.com/track/28TQujqPTiHBSDO6QNcrZT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/14QEvPK4ChqxgybGRtvREd) | 3:45 | 2023-09-09 | 2023-12-14 |
 | [Nori Brandyfoot](https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:49 | 2022-12-01 |  |
 | [Númenor](https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 4:31 | 2022-12-01 | 2023-11-11 |
@@ -79,7 +80,7 @@
 | [The End of Tomorrow](https://open.spotify.com/track/29aapjfnEERwyaAVuxWQ96) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Brendan McCreary](https://open.spotify.com/artist/7gfnIXQlp4f6VRiTbhksAD) | [The End of Tomorrow](https://open.spotify.com/album/5OUmTuhqQCnnp0P2uUWBro) | 10:49 | 2024-04-26 | 2024-05-21 |
 | [The Fields of Asphodel](https://open.spotify.com/track/0h0goXVEhCV4Dlbfxq10fX) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [Percy Jackson and the Olympians \(Original Series Soundtrack\)](https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8) | 2:21 | 2024-02-05 | 2024-03-01 |
 | [The Hammer of Thor](https://open.spotify.com/track/33H8JSbgPQadjRsBxsNAc7) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:22 | 2022-12-08 | 2023-05-18 |
-| [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 | 2023-04-11 |  |
+| [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 | 2023-04-11 | 2024-07-01 |
 | [The Last Voyage of the Demeter](https://open.spotify.com/track/0kxinHtO8XyKlXHg1XQ5HR) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Last Voyage of the Demeter](https://open.spotify.com/album/445dy9NoSdHSkEa6BYa1h1) | 3:48 | 2023-08-05 | 2023-09-03 |
 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 | 2023-02-27 |  |
 | [The Passage of Time](https://open.spotify.com/track/4VtzaoMcaQBSae0G7JIdNe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Battlestar Galactica: Season 4 \(Original Soundtrack\) \[Remastered\]](https://open.spotify.com/album/0UtUKe502MOiS0zH6S5RHB) | 1:09 | 2023-09-21 | 2023-11-11 |

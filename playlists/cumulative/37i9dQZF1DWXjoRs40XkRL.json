@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 249733,
       "name": "Adaaein",
       "url": "https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 170113,
       "name": "Badra Chhaaye",
       "url": "https://open.spotify.com/track/0ukKvwl5NNllsqv6naQbxT"
@@ -2673,6 +2673,32 @@
     },
     {
       "album": {
+        "name": "Kisi Roz (From \"Auron Mein Kahan Dum Tha\")",
+        "url": "https://open.spotify.com/album/4871XszA8zb4D0KrtYrmq3"
+      },
+      "artists": [
+        {
+          "name": "Maithili Thakur",
+          "url": "https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY"
+        },
+        {
+          "name": "M. M. Kreem",
+          "url": "https://open.spotify.com/artist/5YewttB9YNwpp5u3SGrRER"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311400,
+      "name": "Kisi Roz - From \"Auron Mein Kahan Dum Tha\"",
+      "url": "https://open.spotify.com/track/32pFFYJ4Rhr7JoxupIen7p"
+    },
+    {
+      "album": {
         "name": "Koyeliya Kook Sunave",
         "url": "https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg"
       },
@@ -3238,6 +3264,36 @@
       "duration_ms": 164973,
       "name": "Manwa",
       "url": "https://open.spotify.com/track/1UN27M8r8rmgtBQj8hju5H"
+    },
+    {
+      "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Kavya Singh",
+          "url": "https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Likhari",
+          "url": "https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291234,
+      "name": "Mausam",
+      "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
     },
     {
       "album": {

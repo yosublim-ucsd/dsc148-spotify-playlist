@@ -860,7 +860,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -1022,6 +1022,28 @@
       "duration_ms": 155250,
       "name": "Don't Know Shit",
       "url": "https://open.spotify.com/track/0DUwcYoJl25u8YWMzfCtNH"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Alone (feat. Anne-Marie)",
+        "url": "https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Don't Leave Me Alone (feat. Anne-Marie)",
+      "url": "https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk"
     },
     {
       "album": {

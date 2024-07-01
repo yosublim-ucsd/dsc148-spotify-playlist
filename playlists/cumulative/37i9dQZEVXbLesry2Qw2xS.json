@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -16832,7 +16832,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 162295,
       "name": "kastehein",
       "url": "https://open.spotify.com/track/41XLcwECxYj7tokaF2a7sA"
@@ -24936,7 +24936,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 172173,
       "name": "on l\u00e4inud nii",
       "url": "https://open.spotify.com/track/0RDWNcuFB3Tw3kDBLhoBAt"
@@ -25410,7 +25410,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -28653,6 +28653,32 @@
     },
     {
       "album": {
+        "name": "Run Em Up (Told ya)",
+        "url": "https://open.spotify.com/album/7tf0himfp0nmOS08oKFhTF"
+      },
+      "artists": [
+        {
+          "name": "Rhyme Assassin",
+          "url": "https://open.spotify.com/artist/29QN0J44zZJr2CyPYn9onN"
+        },
+        {
+          "name": "M.O.P.",
+          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+        },
+        {
+          "name": "Ruste Juxx",
+          "url": "https://open.spotify.com/artist/34jkD9MaYCGeY9V1zqDGEP"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223516,
+      "name": "Run Em Up (Told ya)",
+      "url": "https://open.spotify.com/track/7re4ocD74oyQ2AfsFnCz8r"
+    },
+    {
+      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -30044,6 +30070,28 @@
       "duration_ms": 129649,
       "name": "SHEIKH",
       "url": "https://open.spotify.com/track/059YaYSppRHOPojr4Rejdn"
+    },
+    {
+      "album": {
+        "name": "Shine Hard",
+        "url": "https://open.spotify.com/album/7G0FP8qwX0PmqqCEEX9DSX"
+      },
+      "artists": [
+        {
+          "name": "Half Deezy",
+          "url": "https://open.spotify.com/artist/22XjvAA4Fnrz2ZUyeSo79P"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149699,
+      "name": "Shine Hard",
+      "url": "https://open.spotify.com/track/0OaAF40nyWO4y7Nx5hCWha"
     },
     {
       "album": {
@@ -34572,7 +34620,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 146384,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
@@ -39620,6 +39668,24 @@
       "duration_ms": 139925,
       "name": "\u0414\u044b\u043c\u043e\u043a",
       "url": "https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
+        "url": "https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174344,
+      "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
+      "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 24785,
+  "num_followers": 24790,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAAD3hgp07RyE0jnTDJIppvI4",
+  "snapshot_id": "Zn9OgAAAAAB9XpGcPKRb7jilneMcROln",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 300173,
-      "name": "\u541b\u304c\u3044\u305f\u590f",
-      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
+      "duration_ms": 298813,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KINGDOM",
         "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
       },
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 236413,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK"
+      "duration_ms": 300173,
+      "name": "\u541b\u304c\u3044\u305f\u590f",
+      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
     },
     {
       "added_at": null,
@@ -475,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST OF THE BEST",
-        "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Born To Be Loud",
-      "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MILLION",
         "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
@@ -507,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+        "name": "BEST OF THE BEST",
+        "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
       },
       "artists": [
         {
@@ -516,9 +484,25 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 232973,
-      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
+      "duration_ms": 234373,
+      "name": "Born To Be Loud",
+      "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 256413,
       "name": "RE-BIRTH",
       "url": "https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Stand by me",
-      "url": "https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIAR",
         "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 245053,
       "name": "SINGING",
       "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Stand by me",
+      "url": "https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUST LIKE THIS 2023 (Live)",
-        "url": "https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 118053,
-      "name": "Rockin' the World - JUST LIKE THIS 2023 Live",
-      "url": "https://open.spotify.com/track/22ndPp0OYgwaUEx8TNb9cQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNITE",
         "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 214000,
       "name": "STORY",
       "url": "https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUST LIKE THIS 2023 (Live)",
+        "url": "https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 118053,
+      "name": "Rockin' the World - JUST LIKE THIS 2023 Live",
+      "url": "https://open.spotify.com/track/22ndPp0OYgwaUEx8TNb9cQ"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 227066,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV"
+      "duration_ms": 216520,
+      "name": "Come on",
+      "url": "https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Do It",
-        "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Come on",
-      "url": "https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl"
+      "duration_ms": 227066,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV"
     },
     {
       "added_at": null,

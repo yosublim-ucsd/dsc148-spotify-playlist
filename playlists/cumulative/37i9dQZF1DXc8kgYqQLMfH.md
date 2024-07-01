@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,168 songs - 1 day 20 hr 24 min
+1,170 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [f r e sh](https://open.spotify.com/track/3zeliPGpAx7nCI06Vyx88i) | [Dusty Floss](https://open.spotify.com/artist/3Tv0ZB6qVIKnVXAKUQqVkI) | [dusk](https://open.spotify.com/album/0BbzJNm5b5EkAoHFRQGRvS) | 3:40 | 2023-08-03 | 2024-05-16 |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2021-11-10 | 2022-12-10 |
 | [Faded](https://open.spotify.com/track/0pTB6vjZLmjxuD6kAARUV2) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Faded](https://open.spotify.com/album/2HtVPo0g5KvgVWdC1l09N2) | 2:52 | 2022-04-15 | 2022-12-10 |
-| [Fall Leaves](https://open.spotify.com/track/70zApwjfafyTs2FSf7DWOV) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Fall Leaves](https://open.spotify.com/album/12Zad9rjMt8E3kIZbYkcTa) | 2:34 | 2022-12-23 |  |
+| [Fall Leaves](https://open.spotify.com/track/70zApwjfafyTs2FSf7DWOV) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Fall Leaves](https://open.spotify.com/album/12Zad9rjMt8E3kIZbYkcTa) | 2:34 | 2022-12-23 | 2024-07-01 |
 | [Fallen Leaves](https://open.spotify.com/track/2Sz5EDKYQHblue7fwpsPTq) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Aoko](https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO), [RdBeats](https://open.spotify.com/artist/77kFStmiMsr6uQ7w2GE5X9) | [Fallen Leaves](https://open.spotify.com/album/2KPk9BgqNfsGBT40BL4Urf) | 2:43 | 2022-05-13 | 2022-06-10 |
 | [Falling](https://open.spotify.com/track/41x6WguVMsx9Mn0omCYMCO) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Falling](https://open.spotify.com/album/2PC3BMAAknWwEBMvepVhhK) | 2:47 | 2023-10-06 |  |
 | [Falling In Love](https://open.spotify.com/track/2BQZRUDQdU9ewgdQzt1tVi) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1) | [Falling In Love](https://open.spotify.com/album/5SvrpXuxvgc45HmoxwQQdx) | 2:12 | 2022-09-23 | 2023-10-06 |
@@ -433,7 +433,7 @@
 | [Headache](https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Headache](https://open.spotify.com/album/1GTBhTkHMVf6eRvn1K4Ipk) | 2:26 | 2021-11-10 | 2022-05-27 |
 | [heart](https://open.spotify.com/track/7iTG7QvkVeELi8sJHopTDZ) | [DonLear](https://open.spotify.com/artist/2XFmnlp2flbDWWn4lYJGls) | [heart](https://open.spotify.com/album/4WmuNn1pSTCpEY1nsfmh8a) | 2:41 | 2023-01-20 | 2023-04-28 |
 | [Heartbeat](https://open.spotify.com/track/3sOTrbE1oWrv3uJOwy85Tz) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Heartbeat](https://open.spotify.com/album/6wg47TXPepompfOf83tGCQ) | 1:55 | 2023-02-07 |  |
-| [heartstone](https://open.spotify.com/track/2odsLwH1d3lqmUBNhxksvT) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [heartstone](https://open.spotify.com/album/5EBrpkprrs5dHUNmhIwmcs) | 3:05 | 2023-03-16 |  |
+| [heartstone](https://open.spotify.com/track/2odsLwH1d3lqmUBNhxksvT) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [heartstone](https://open.spotify.com/album/5EBrpkprrs5dHUNmhIwmcs) | 3:05 | 2023-03-16 | 2024-07-01 |
 | [Heavy Rain](https://open.spotify.com/track/2XYQdu0pvVvv0sxo1mZsUP) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Heavy Rain](https://open.spotify.com/album/3AtKgHbXGGb0FKohwukFMb) | 3:08 | 2022-07-08 |  |
 | [Helium](https://open.spotify.com/track/5kNOPm4KEZb1rQcuW1Ceib) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Helium](https://open.spotify.com/album/3fkualIq2JDtFczKqsapwD) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 | 2022-01-27 |  |
@@ -527,6 +527,7 @@
 | [Kanashi](https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu) | [Saint Totoro](https://open.spotify.com/artist/4w13HtawCKjVZFCb60zMbM) | [Kanashi](https://open.spotify.com/album/0cC5AFwmnMaAc7GzXFzrRY) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Keep It Calm](https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Keep It Calm](https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN) | 2:12 | 2022-05-20 |  |
 | [Keep it in Lane, Jane](https://open.spotify.com/track/3Qz20D25rp3xMQxe16xoix) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Keep it in Lane, Jane](https://open.spotify.com/album/4qroDgfV7jSXjzO0CD1OaZ) | 2:01 | 2022-11-25 | 2023-08-04 |
+| [kettle](https://open.spotify.com/track/1EDXY5GBYVVwqxQLUPth5f) | [morefine](https://open.spotify.com/artist/5baLgCNimsTPQMY2vQMzCk) | [kettle](https://open.spotify.com/album/6gFxnoGIrBNUBaosFJdMSD) | 2:27 | 2024-06-28 |  |
 | [KeyKeys](https://open.spotify.com/track/39V8fNz1ayuvT7lpdLmbrL) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [KeyKeys](https://open.spotify.com/album/4wSICDvdfqYqO9KayVDGmE) | 1:54 | 2022-07-08 |  |
 | [Khayana](https://open.spotify.com/track/3OCs6iHLZf7NtYqZULM2AY) | [Damien Seul](https://open.spotify.com/artist/0aUdovRwbnx4Z5qLIgBVDE) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:24 | 2021-11-10 | 2022-09-03 |
 | [Kigali](https://open.spotify.com/track/1lfLoX6ua1LTHYDwbH1u0a) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [Kigali](https://open.spotify.com/album/0E1Lk9Qp7N2hm4ihBCgjLT) | 2:12 | 2022-07-29 | 2022-10-29 |
@@ -843,6 +844,7 @@
 | [Reminder](https://open.spotify.com/track/0ZFovY24PezbGWAPlpTCjU) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Reminder](https://open.spotify.com/album/2QhxYPXYMo0h59LIPWjqC3) | 2:15 | 2021-11-10 | 2022-11-20 |
 | [Reminder](https://open.spotify.com/track/7k0xDMZGKTvS8Hl9kEz5CI) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Reminder](https://open.spotify.com/album/63DPvx3MPJMMESZp4UfInX) | 2:15 | 2022-11-11 | 2022-12-10 |
 | [Resistance](https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL) | [Le Giles](https://open.spotify.com/artist/10L8AituT5YOgxLrXwnWkn) | [Capacitance & Resistance](https://open.spotify.com/album/69wvNNzJFYHAUrJGwokZ3L) | 2:01 | 2021-11-10 | 2023-03-02 |
+| [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 |  |
 | [Resurrected](https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Resurrected](https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc) | 2:06 | 2023-09-22 |  |
 | [returning](https://open.spotify.com/track/5U3118Im2OtgDOZiuLerBP) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [returning](https://open.spotify.com/album/1jWv7zMhHEKdVnfU7en8KK) | 1:52 | 2022-10-01 | 2024-05-14 |
 | [riding hollywood](https://open.spotify.com/track/0II1srBETOw8mpzDEdj90p) | [logan finneas](https://open.spotify.com/artist/0lHDsHD5CqzIcgnW7icG6p) | [riding hollywood](https://open.spotify.com/album/6vazPSoWuK2wo9N1kS2QOn) | 2:03 | 2021-11-10 | 2022-10-29 |

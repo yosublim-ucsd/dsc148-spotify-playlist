@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,604 likes - 72 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,812 likes - 72 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

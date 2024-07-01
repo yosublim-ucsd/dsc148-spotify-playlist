@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
   "name": "This Is Inspector",
   "tracks": [
     {
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 232253,
       "name": "Sin Rencor",
       "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 153946,
       "name": "Sombras En El Frio",
       "url": "https://open.spotify.com/track/4J22WG9YKnsVJA4470wOUz"

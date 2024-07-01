@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: CHANMINA\(찬미나\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-708 songs - 1 day 14 hr 16 min
+709 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Jumper \(Feat\. Gaeko, MINO\)](https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [mino](https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X) | [Remember Archive](https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1) | 3:35 | 2023-03-16 | 2023-07-28 |
 | [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 | 2022-04-01 |  |
 | [Just the two of us](https://open.spotify.com/track/5SoN5GIDUG1aNQTuNqsVDu) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Just the two of us](https://open.spotify.com/album/0RoQvfw174dcjxfWjN4I5j) | 3:57 | 2022-04-01 | 2022-07-29 |
+| [K\-DRAMA](https://open.spotify.com/track/2SF9B4bEq1X3P9T4RBB3J6) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP](https://open.spotify.com/album/3qj1t6G1svsRniSYxnergN) | 3:06 | 2024-06-27 |  |
 | [KILL](https://open.spotify.com/track/6u6LO5IHbaaS8wODwx8BGq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:00 | 2022-04-21 | 2022-06-23 |
 | [Killin me softly \(feat\. Skinny Brown\)](https://open.spotify.com/track/1j8H6zxSArZDQsbpBCLtgn) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 3:14 | 2022-04-01 | 2022-04-22 |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2022-07-24 | 2024-04-19 |
@@ -419,7 +420,7 @@
 | [Mull](https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 2:58 | 2022-11-09 | 2022-12-27 |
 | [Mungpal](https://open.spotify.com/track/6tk3dNMLjNCHoIEfQkbF9W) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Mungpal](https://open.spotify.com/album/3n41mgR0BY7QhlBXSaEDIn) | 2:53 | 2022-04-21 | 2022-07-15 |
 | [muse](https://open.spotify.com/track/2Pc2vLBzVmhHuTMpxYfwZq) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Fox and the City](https://open.spotify.com/album/30kFu1nhTCBZuu9Sk0HtVs) | 2:42 | 2023-04-18 | 2023-07-19 |
-| [MUSE! \(Feat\. Loco\)](https://open.spotify.com/track/2lnxrwZDiXYCyyeXp6oQxh) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [AREA : 4](https://open.spotify.com/album/3sgib8Btb7ts3j5NdVoi6k) | 3:13 | 2024-06-27 |  |
+| [MUSE! \(Feat\. Loco\)](https://open.spotify.com/track/2lnxrwZDiXYCyyeXp6oQxh) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [AREA : 4](https://open.spotify.com/album/3sgib8Btb7ts3j5NdVoi6k) | 3:13 | 2024-06-27 | 2024-07-01 |
 | [My Bad \(Feat\. ASH ISLAND, BIG Naughty\)](https://open.spotify.com/track/0jnIjWe4JU19NT0tF4lTtx) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:53 | 2024-04-02 |  |
 | [My pleasure Is That You Ride The Bentley](https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:01 | 2022-08-11 | 2024-01-04 |
 | [My pleasure Is That You Ride The Bentley](https://open.spotify.com/track/7DwLpBaYzlV4EQaNMzm9Bs) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/3Sk7Kyj2vUI0W3sCOV2drx) | 3:01 | 2024-01-08 | 2024-04-19 |

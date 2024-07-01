@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115927,
+  "num_followers": 115946,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
@@ -311,22 +295,6 @@
       "duration_ms": 195693,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -351,6 +319,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 189733,
       "name": "En Un Solo Dia",
       "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
-        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
-      },
-      "artists": [
-        {
-          "name": "El Monchi Papa",
-          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 203253,
       "name": "Que Loco Amor",
       "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
+        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
+      },
+      "artists": [
+        {
+          "name": "El Monchi Papa",
+          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Agua Para El Mar",
-        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 185821,
-      "name": "Quiero!",
-      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "En Las Calles",
         "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 161230,
       "name": "En Las Calles",
       "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Agua Para El Mar",
+        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 185821,
+      "name": "Quiero!",
+      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "I Will Be: Like Big Stars!",
-        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
-      },
-      "artists": [
-        {
-          "name": "Chapa C",
-          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "No Llores por M\u00ed",
-      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Kaimonomacaco",
         "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 267480,
       "name": "El Solo",
       "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "I Will Be: Like Big Stars!",
+        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
+      },
+      "artists": [
+        {
+          "name": "Chapa C",
+          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "No Llores por M\u00ed",
+      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -727,34 +727,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
-        }
-      ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Tu Loquito Vos Mi Loquita",
         "url": "https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE"
       },
@@ -795,6 +767,26 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Verano \u00b499",
+        "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
+      },
+      "artists": [
+        {
+          "name": "VILLAGR\u00c1N",
+          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
+        },
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 163494,
+      "name": "Verano \u00b499",
+      "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Loco Tu Forma de Ser",
         "url": "https://open.spotify.com/album/2BIuDdc0UhRmwEHHFIgqAc"
       },
@@ -815,22 +807,30 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Verano \u00b499",
-        "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
       },
       "artists": [
         {
-          "name": "VILLAGR\u00c1N",
-          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
         },
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
         }
       ],
-      "duration_ms": 163494,
-      "name": "Verano \u00b499",
-      "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2024-06-13 21:06:26",

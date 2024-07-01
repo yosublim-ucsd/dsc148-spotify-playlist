@@ -4,13 +4,13 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-113 songs - 9 hr 35 min
+114 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Baby One More Time](https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [...Baby One More Time](https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M) | 3:21 | 2022-11-18 |  |
 | [5 de Septiembre](https://open.spotify.com/track/2TogT1P31C2hR1KXMaL1c7) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Richard Nant](https://open.spotify.com/artist/2TbC35HAukvJvVhhEhYXXH), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Sergio Verdinelli](https://open.spotify.com/artist/4ujhVf7VBbCNR8HaOnmg8x), [Martín Pantyrer](https://open.spotify.com/artist/756n9N9pvvZAhqG43CuweV) | [Son Dos](https://open.spotify.com/album/6uYzP5FXn8wfcDCv8HVASB) | 5:19 | 2022-08-12 | 2022-09-15 |
-| [9 de Copas](https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [9 de Copas](https://open.spotify.com/album/6s057GCrLIIKLJJIVp6Has) | 3:52 | 2022-08-12 |  |
+| [9 de Copas](https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [9 de Copas](https://open.spotify.com/album/6s057GCrLIIKLJJIVp6Has) | 3:52 | 2022-08-12 | 2024-07-01 |
 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 | 2022-08-12 |  |
 | [A Night in Tunisia](https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7) | [Vo!!](https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4) | 5:53 | 2022-08-12 | 2024-04-19 |
 | [Acuático](https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Studio 2](https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt) | 5:27 | 2022-08-12 |  |
@@ -32,6 +32,7 @@
 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 | 2022-08-12 |  |
 | [Cleanie](https://open.spotify.com/track/15SNYdk5pJfuWCVdrRRCkD) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 6:08 | 2022-08-12 | 2024-04-19 |
 | [Cocodrilos](https://open.spotify.com/track/2HVrhsjXnBWtDnSDJhj6oq) | [Richard Nant](https://open.spotify.com/artist/2TbC35HAukvJvVhhEhYXXH), [Argentos](https://open.spotify.com/artist/136KKsKn1eePVEl2uT0KHn) | [70s](https://open.spotify.com/album/3knz1QngRrFcxrsHWsYprw) | 7:28 | 2022-09-23 | 2022-12-22 |
+| [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 | 2023-12-08 |  |
 | [Coplas de Luna Quieta](https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK) | [Inocencia Repetida](https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX) | 2:37 | 2022-11-18 | 2024-04-19 |
 | [Corre Niña](https://open.spotify.com/track/3JB87Mtpxx777llgvhdpzZ) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Corre Niña](https://open.spotify.com/album/5g0VVvKVm6kcqxr7dizJLf) | 4:17 | 2022-08-12 | 2023-05-06 |
 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 | 2022-09-09 | 2022-09-26 |

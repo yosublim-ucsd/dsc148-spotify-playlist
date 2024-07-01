@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,185 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,187 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/7FjONQN4votV3A31ML756C) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 |
+| 1 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 |
 | 2 | [Objetivo](https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Objetivo](https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83) | 3:00 |
 | 3 | [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 |
 | 4 | [Melhor Vibe \- Remix](https://open.spotify.com/track/6ZJGUNb9JGfXoHvR4dCrBb) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/6ctnagJl49e56M4Vi9vdhK), [Rocco](https://open.spotify.com/artist/7h0T1H0HPypWgO2ef6jkcZ), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Melhor Vibe \(Remix\)](https://open.spotify.com/album/3sb63nywhrqQd4K3SicZoA) | 4:50 |

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 133949,
+  "num_followers": 133989,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-03-26 14:53:19",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
+    },
+    {
+      "added_at": "2024-03-26 14:53:19",
+      "album": {
         "name": "Forest Birds",
         "url": "https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
-    },
-    {
-      "added_at": "2024-03-26 14:53:19",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
     },
     {
       "added_at": "2024-03-26 14:53:19",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-26 14:53:19",
       "album": {
-        "name": "Song Birds",
-        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
-      },
-      "artists": [
-        {
-          "name": "Zen Master",
-          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Spring Shower Bird Songs",
-      "url": "https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A"
-    },
-    {
-      "added_at": "2024-03-26 14:53:19",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
+    },
+    {
+      "added_at": "2024-03-26 14:53:19",
+      "album": {
+        "name": "Song Birds",
+        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
+      },
+      "artists": [
+        {
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Spring Shower Bird Songs",
+      "url": "https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A"
     },
     {
       "added_at": "2024-03-26 14:53:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-26 14:53:19",
       "album": {
-        "name": "Lost in the Rainforest",
-        "url": "https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8"
-      },
-      "artists": [
-        {
-          "name": "Nature Field Recordings",
-          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Storm in the Distance",
-      "url": "https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g"
-    },
-    {
-      "added_at": "2024-03-26 14:53:19",
-      "album": {
         "name": "Happy Birds",
         "url": "https://open.spotify.com/album/0uVgQ8CdK3P98VGpUdLjuw"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169500,
       "name": "Happy Happy Birds",
       "url": "https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY"
+    },
+    {
+      "added_at": "2024-03-26 14:53:19",
+      "album": {
+        "name": "Lost in the Rainforest",
+        "url": "https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Storm in the Distance",
+      "url": "https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g"
     }
   ],
   "unique_name": "Sons da Natureza",

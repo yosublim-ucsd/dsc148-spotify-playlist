@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 339 likes - 229 songs - 13 hr 35 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 339 likes - 230 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,5 +237,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 227 | [Autumn Wind](https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Autumn Wind](https://open.spotify.com/album/6sJ0X7UrBbVkh0VRuMCzaJ) | 2:09 |
 | 228 | [Sepia](https://open.spotify.com/track/4wueJoyWF7x6sO41ddk6IL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [Sepia](https://open.spotify.com/album/2fRde6F0mW6nNZfPpOMLHd) | 2:01 |
 | 229 | [Conversations](https://open.spotify.com/track/4PbxmzJBReVURVxYqManMp) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [No Words \(Instrumentals Pt\. 1\)](https://open.spotify.com/album/2GpCp4A6EBmKggyE396aY3) | 3:57 |
+| 230 | [ESSENCE](https://open.spotify.com/track/1N3ccS0z7h51fdLrPXaVq2) | [CASPER](https://open.spotify.com/artist/1XYotdWaTD6kuiMUXM0keC) | [ESSENCE](https://open.spotify.com/album/3ZahzHjHInhvpm27H7a49B) | 3:26 |
 
-Snapshot ID: `AAAA9UT+gYd9fLrPSLLtfc7lxKlBnMrY`
+Snapshot ID: `AAAA9vnEckzVUvrLj4tWB15Pek1Bgu+v`

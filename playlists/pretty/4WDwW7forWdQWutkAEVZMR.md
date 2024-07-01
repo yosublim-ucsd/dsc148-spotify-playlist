@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: The Kid LAROI
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,014 likes - 50 songs - 2 hr 32 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,012 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

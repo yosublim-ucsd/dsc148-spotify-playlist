@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Ebony. The essential tracks, all in one playlist.",
   "name": "This Is Ebony",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 163403,
       "name": "Fresh Freestyle",
       "url": "https://open.spotify.com/track/1yRHonnmAUQTa6gEEa10s2"

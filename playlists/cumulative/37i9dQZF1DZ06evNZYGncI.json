@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Slipknot. Los temas esenciales, todos en una lista.",
+  "description": "This is Slipknot. The essential tracks, all in one playlist.",
   "name": "This Is Slipknot",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 211320,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "I Am Hated",
       "url": "https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 315177,
       "name": "Nero Forte",
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 258360,
       "name": "Nomadic",
       "url": "https://open.spotify.com/track/4vCG26vd7hzGdLq84pl1tf"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 361573,
       "name": "Orphan",
       "url": "https://open.spotify.com/track/0ipTpoDQ06S5iI4RRQFQjx"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 215600,
       "name": "People = Shit",
       "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 342821,
       "name": "The Devil in I",
       "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 268040,
       "name": "The Nameless",
       "url": "https://open.spotify.com/track/6GCusUym0CAdFS2g1qG79Y"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 224320,
       "name": "Vermilion, Pt. 2",
       "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 283786,
       "name": "Yen",
       "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"

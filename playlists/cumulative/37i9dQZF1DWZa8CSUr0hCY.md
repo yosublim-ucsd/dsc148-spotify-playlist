@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-219 songs - 9 hr 49 min
+220 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [On & On](https://open.spotify.com/track/5STMWcvgi6UiswwZyeWdTG) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [On & On](https://open.spotify.com/album/6g0UYlxUmtnuF5b8ClgdFS) | 3:17 | 2022-01-28 | 2022-08-31 |
 | [On My Mind](https://open.spotify.com/track/5m6upeSIawnN1iVGUaXcPX) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Day Glow](https://open.spotify.com/album/2QwhcO0LoJTYCbIylhao78) | 2:04 | 2022-08-30 |  |
 | [One Nap At a Time](https://open.spotify.com/track/1HPkUkxIEVAyc4AcEUIqIA) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [One Nap At a Time](https://open.spotify.com/album/0Kz8fdcYlkHRYYJVoIQaYT) | 2:20 | 2022-08-30 |  |
+| [Oneiro](https://open.spotify.com/track/66eDd8zgwNPJxYw8OiLYZM) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Oneiro](https://open.spotify.com/album/6CVcKznPodvQeqOntb08U5) | 1:52 | 2024-06-30 |  |
 | [Out for Good](https://open.spotify.com/track/5NxAzx6EtnepywD0oqevtZ) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Hip Dozer, Vol\. 2](https://open.spotify.com/album/4iFI8dc2Ynf7ou7GgI6wUs) | 2:06 | 2020-11-06 | 2022-08-31 |
 | [Outer Worlds](https://open.spotify.com/track/5JJJlEL5qzbDa70iCQPuDN) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Outer Worlds](https://open.spotify.com/album/3ZeWK0zo3KUmDgRyLOrH9M) | 2:14 | 2022-09-08 |  |
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-08-30 |  |

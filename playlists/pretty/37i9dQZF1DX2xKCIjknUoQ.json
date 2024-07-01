@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 44293,
+  "num_followers": 44325,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "L'homme press\u00e9",
-      "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "La cerise",
         "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
       },
@@ -235,22 +219,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Je cours",
-      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro",
         "url": "https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH"
       },
@@ -263,6 +231,38 @@
       "duration_ms": 167306,
       "name": "Manu Chao - Single Version",
       "url": "https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "L'homme press\u00e9",
+      "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Je cours",
+      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Nevermind the Living Dead",
-        "url": "https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW"
+        "name": "Rock'n'Roll Part 9",
+        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
       },
       "artists": [
         {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+          "name": "Les Wampas",
+          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Toy Boy",
-      "url": "https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9"
+      "duration_ms": 163760,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "La part des lions",
-        "url": "https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3"
+        "name": "Nevermind the Living Dead",
+        "url": "https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW"
       },
       "artists": [
         {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 139520,
-      "name": "Mon \u00e9poque",
-      "url": "https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY"
+      "duration_ms": 265000,
+      "name": "Toy Boy",
+      "url": "https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "La part des lions",
+        "url": "https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "Mon \u00e9poque",
+      "url": "https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Dolly (Edition Deluxe)",
         "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 283093,
       "name": "Je n'veux pas rester sage",
       "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Rock'n'Roll Part 9",
-        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
-      },
-      "artists": [
-        {
-          "name": "Les Wampas",
-          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Rimini",
-      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Aeromusical",
+        "url": "https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Tchi Cum Bah",
+      "url": "https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "La t\u00eate en arri\u00e8re",
         "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Notre Epoque",
-        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
-      },
-      "artists": [
-        {
-          "name": "Tarmac",
-          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Notre Epoque",
-      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Jouer dehors",
         "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Aeromusical",
-        "url": "https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF"
+        "name": "Notre Epoque",
+        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
       },
       "artists": [
         {
-          "name": "Superbus",
-          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+          "name": "Tarmac",
+          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
         }
       ],
-      "duration_ms": 143520,
-      "name": "Tchi Cum Bah",
-      "url": "https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5"
+      "duration_ms": 214666,
+      "name": "Notre Epoque",
+      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
     },
     {
       "added_at": "2024-06-24 19:56:15",

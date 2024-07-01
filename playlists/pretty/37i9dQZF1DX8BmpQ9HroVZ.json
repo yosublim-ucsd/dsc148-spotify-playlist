@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks trending in Pakistan. Cover: Hasan Raheem",
-  "num_followers": 112377,
+  "num_followers": 112427,
   "original_name": "Hot Hits Pakistan",
   "owner": {
     "name": "Spotify",
@@ -180,12 +180,12 @@
       },
       "artists": [
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
           "name": "Mohammad Faiz",
           "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         }
       ],
       "duration_ms": 281511,

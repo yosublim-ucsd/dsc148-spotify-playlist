@@ -4,7 +4,7 @@
 
 > <a href="spotify:album:1UwgdrQVaJBueo48c2GM8x">PÅ GENSYN</a> 👀 <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>
 
-1,045 songs - 2 day 5 hr 13 min
+1,046 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Roma](https://open.spotify.com/track/5e9U7xJdDxmlBgvmBufHxr) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Roma](https://open.spotify.com/album/67k5Zv2U62mSFwsonVlyOU) | 1:52 | 2024-06-06 | 2024-06-14 |
 | [Ros Nu Dorthe](https://open.spotify.com/track/6BSFGeVj71lrOylEj2CeRg) | [Prototypen](https://open.spotify.com/artist/4Vb7FQqOgVwhWmsDr2rnln) | [ALBUM](https://open.spotify.com/album/4qk90wo18vaagsfodln5yx) | 3:12 | 2024-05-02 | 2024-05-10 |
 | [Rosa](https://open.spotify.com/track/5wdBt3mdgGiV3RMdgSo8jo) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Rosa](https://open.spotify.com/album/6NESVRTcMO53PSfdHbkJPm) | 3:25 | 2024-05-03 | 2024-05-10 |
+| [Runaway](https://open.spotify.com/track/1RM6ETOb3uzl59DJUQAQDZ) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Runaway](https://open.spotify.com/album/3Mc12w1nqHdv5gEVFZxLNA) | 2:29 | 2024-06-27 |  |
 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-06-27 |  |
 | [S.E.X](https://open.spotify.com/track/3BzDI5ON4yizYAYZGoqTzd) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF) | [No Love](https://open.spotify.com/album/4O1Dkge3P5ISr0I127Wjkb) | 2:36 | 2024-06-27 |  |
 | [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 | 2024-05-02 | 2024-05-10 |

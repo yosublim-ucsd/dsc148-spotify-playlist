@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "3al hady",
       "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 168940,
       "name": "3andy Sahb",
       "url": "https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 129700,
       "name": "3arabawy",
       "url": "https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "3ma",
       "url": "https://open.spotify.com/track/6moZSAbQBx6wctDKyj2EHo"
@@ -809,6 +809,28 @@
     },
     {
       "album": {
+        "name": "Ashrar",
+        "url": "https://open.spotify.com/album/6q6MdDpquSpGP1ZbwCOnJD"
+      },
+      "artists": [
+        {
+          "name": "Xander Ghost",
+          "url": "https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203083,
+      "name": "Ashrar",
+      "url": "https://open.spotify.com/track/1olAHVNRfo5nOg0gBaXrKJ"
+    },
+    {
+      "album": {
         "name": "Belad",
         "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 186880,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 232643,
       "name": "CA VA CHANGER",
       "url": "https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB"
@@ -1536,7 +1558,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 318987,
       "name": "Cypher Al Valhalla",
       "url": "https://open.spotify.com/track/5q1nQwJ9zYjEYA8DN5MIjP"
@@ -1766,7 +1788,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
@@ -2884,7 +2906,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Hajes",
       "url": "https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1"
@@ -3272,7 +3294,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 137443,
       "name": "Jabra Vu",
       "url": "https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ"
@@ -3758,7 +3780,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 166334,
       "name": "Kolo Muthandil",
       "url": "https://open.spotify.com/track/1XGmDAd1isogzMDhF7OvA8"
@@ -4214,7 +4236,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 182106,
       "name": "Loop",
       "url": "https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn"
@@ -4240,6 +4262,24 @@
       "duration_ms": 192000,
       "name": "Luna",
       "url": "https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB"
+    },
+    {
+      "album": {
+        "name": "LUX FREESTYLE",
+        "url": "https://open.spotify.com/album/3Xlkyo7QJJX1Kzk9k4A0qp"
+      },
+      "artists": [
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149957,
+      "name": "LUX FREESTYLE",
+      "url": "https://open.spotify.com/track/2TqVFWAKTKCkGXMFRff6D4"
     },
     {
       "album": {
@@ -4338,7 +4378,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 209070,
       "name": "Machi Lkhatri",
       "url": "https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0"
@@ -4414,7 +4454,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 201535,
       "name": "Malet",
       "url": "https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ"
@@ -4560,7 +4600,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 175172,
       "name": "MATAL3ACH",
       "url": "https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc"
@@ -4808,7 +4848,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 207240,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm"
@@ -4898,7 +4938,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 116525,
       "name": "Msayfeen",
       "url": "https://open.spotify.com/track/0VXGvZD6v5ZfE1OwIkSZBB"
@@ -4934,7 +4974,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 224596,
       "name": "MTV CRIBS",
       "url": "https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF"
@@ -5156,7 +5196,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 219607,
       "name": "OMG",
       "url": "https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J"
@@ -5218,7 +5258,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 142585,
       "name": "PAGHIIIIIIIIIIZ",
       "url": "https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf"
@@ -5474,7 +5514,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 213061,
       "name": "Rajel",
       "url": "https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV"
@@ -5600,7 +5640,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 196521,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/4GGWAVyhrHWysVj3wyk523"
@@ -5676,7 +5716,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 217500,
       "name": "RO7 3ALATOL",
       "url": "https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy"
@@ -6028,7 +6068,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 156736,
       "name": "SHED F TARFO",
       "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
@@ -6288,7 +6328,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 102810,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n"
@@ -6628,7 +6668,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 195096,
       "name": "Tal Abib",
       "url": "https://open.spotify.com/track/2i6giSzSXbv6ByxD1EU2Lg"
@@ -6928,7 +6968,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 206511,
       "name": "TODO BEN\u00c9 - Spotify Singles",
       "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
@@ -7080,7 +7120,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W"
@@ -7786,7 +7826,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 203807,
       "name": "\u00c9chec - Spotify Singles",
       "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"
@@ -7946,7 +7986,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 126101,
       "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
       "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
@@ -8004,7 +8044,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 176679,
       "name": "\u0627\u0644\u0645\u0643\u062a\u0648\u0628",
       "url": "https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br"
@@ -8778,7 +8818,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 169041,
       "name": "\u0647\u062c\u0645\u0629 \u0645\u0631\u062a\u062f\u0629",
       "url": "https://open.spotify.com/track/1EvuN2Orgy4wmNw4I5YwVS"

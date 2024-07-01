@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 22,018 likes - 137 songs - 7 hr 33 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 22,039 likes - 137 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prelude Piano Variation \(From Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Bach: Prelude Piano Variation \(From Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM) | 1:58 |
+| 1 | [Bach: Prelude Piano Variation \(From Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Bach: Prelude Piano Variation \(From Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM) | 1:58 |
 | 2 | [Vårsøg \(Arr\. for Violin and Orchestra by Ben Palmer\)](https://open.spotify.com/track/4R2IJdhyEPflHnWQreYQjh) | [Henning Sommerro](https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Arctic Philharmonic](https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f) | [Vårsøg \(Arr\. for Violin and Orchestra by Ben Palmer\)](https://open.spotify.com/album/5qWnxfBgvzLD75l02jzFeh) | 3:40 |
 | 3 | [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Good Night You Kings](https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI) | 1:03 |
 | 4 | [Adoration \(Arr\. for Cello & Orchestra by Julian Riem\)](https://open.spotify.com/track/7BXEyMmzTPhGVtRmcNC1pK) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Lucerne Festival Strings](https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc), [Daniel Dodds](https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY) | [Femmes](https://open.spotify.com/album/7dXJjabk2Fcn4lE3g3VpPU) | 3:19 |

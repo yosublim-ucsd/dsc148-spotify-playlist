@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion, Bailey Zimmerman, Miranda Lambert and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,007 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,127 likes - 68 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 67 | [Something About It](https://open.spotify.com/track/2qdXHymeI1wCrnUSNw4N4p) | [Stephen Paul](https://open.spotify.com/artist/5W2l0eT41g3L7jAtKbMelp) | [Something About It](https://open.spotify.com/album/71oPQZ2WkYjQewgSqdIOUp) | 2:53 |
 | 68 | [I Want It All](https://open.spotify.com/track/6dCFXuavQoXpLZX2CGq1zv) | [Midnight South](https://open.spotify.com/artist/4LYyR5Zyz2sT4UokGFWJq0) | [I Want It All](https://open.spotify.com/album/6LZidrXfB43mNIZJO4yioH) | 3:10 |
 
-Snapshot ID: `Zn8TSAAAAAAc+i5lzIB133+2cEqgmhtg`
+Snapshot ID: `ZoDYQAAAAADzRS0Hc07uASKJGu5EwZXK`

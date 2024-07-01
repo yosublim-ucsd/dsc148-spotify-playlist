@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,106 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,109 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 9 | [Infiel](https://open.spotify.com/track/2UZKC06xJGWAhdo5FiuJ6y) | [Brayan Vr](https://open.spotify.com/artist/6VbJpJjFWYLbCKKxbIeQlE), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [Dj Blader](https://open.spotify.com/artist/4eslJuU8fWx4WQ1xHSHzue), [Dj Luna](https://open.spotify.com/artist/4PwpBllq6VmXXD1SJySbRM) | [Infiel](https://open.spotify.com/album/1liAbVBpsH23M2hXm9vevP) | 2:57 |
 | 10 | [Dale Bogueto](https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Reggaetoñerito](https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9) | 3:07 |
 | 11 | [Flow](https://open.spotify.com/track/2rQi2aO4NtH6bORFeorsca) | [Mala Santa](https://open.spotify.com/artist/26IeIGjoYZ4QOLFY3TWyve), [Liam Dyablo](https://open.spotify.com/artist/03KqURizAhLWC6nt71K3JX) | [Flow](https://open.spotify.com/album/7mHYwAGJ81suKIz9bsYQtY) | 3:16 |
-| 12 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
+| 12 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 |
 | 13 | [Cuándo Te Ví](https://open.spotify.com/track/7mAb5cfuIcgDW9nH8yX8gQ) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [Cuándo Te Ví](https://open.spotify.com/album/7mSplvOmwXjAobBYvO362f) | 3:05 |
-| 14 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 |
+| 14 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
 | 15 | [Chakalito](https://open.spotify.com/track/1QGrlHRKaTADypgJbF3cyK) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Chakalito](https://open.spotify.com/album/2m9yUDahvaJnKWnjZUD02d) | 2:04 |
 | 16 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 17 | [Hábitos](https://open.spotify.com/track/1eAU9My8o0abs1CJ2ZNaS1) | [KAIISITO](https://open.spotify.com/artist/5f4C4xS08FHKOQrtyx5YCh) | [Hábitos](https://open.spotify.com/album/19gaaklTA10p6WURLDq3lm) | 1:37 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 57 | [Sexo](https://open.spotify.com/track/6judtDwThvpycDZfGgvndc) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Rick Zile](https://open.spotify.com/artist/5EfBV9ktAB1svJx1GNTIa2), [Kinder](https://open.spotify.com/artist/6hd1Dj2GLEgM612JVe3x4p), [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Royalty Music](https://open.spotify.com/artist/1JxJILSuxkoZsqxodCueri) | [Sexo](https://open.spotify.com/album/0iXO9GPQX0WhvMV52HFm4B) | 3:16 |
 | 58 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
 | 59 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 |
-| 60 | [Taka Taka](https://open.spotify.com/track/03GT9SDQ2fNE6L37r8PO8l) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [Taka Taka](https://open.spotify.com/album/7cpw9PTRzTNyxqYbK8CZkJ) | 3:02 |
+| 60 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
 
 Snapshot ID: `Zn5RYQAAAAALBYZFyMg5y2fVL1uZn258`

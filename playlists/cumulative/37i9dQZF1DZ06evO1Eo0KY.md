@@ -2,7 +2,7 @@
 
 ### [This Is Nicholas Craven](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Eo0KY)
 
-> This is Nicholas Craven\. The essential tracks, all in one playlist.
+> This is Nicholas Craven\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 69 songs - 3 hr 16 min
 

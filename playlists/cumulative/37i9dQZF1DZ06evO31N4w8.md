@@ -2,7 +2,7 @@
 
 ### [This Is Los Rieleros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31N4w8)
 
-> This is Los Rieleros Del Norte\. Todos os maiores hits em uma só playlist.
+> This Is Los Rieleros Del Norte\. Los temas esenciales, todos en una lista.
 
 83 songs - 4 hr 25 min
 

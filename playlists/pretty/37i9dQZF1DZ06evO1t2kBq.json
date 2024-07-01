@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 76891,
+  "num_followers": 76906,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAACslY5+agNoZ/sVbJgR1haR",
+  "snapshot_id": "Zn9OgAAAAADB4gxn3aScaPojE2riqSzH",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 133986,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 95466,
       "name": "Social Suicide",
       "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 133986,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
     },
     {
       "added_at": null,

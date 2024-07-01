@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Stemlines on cover. Artwork by Thami Nabil",
-  "num_followers": 164685,
+  "num_followers": 164775,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "At the Door",
@@ -505,22 +489,6 @@
       "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Mind Palace Music",
@@ -537,6 +505,22 @@
       "url": "https://open.spotify.com/track/3jf2rCDNPvdBrAfjEl3THV"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
       "added_at": "2024-05-24 06:00:00",
       "album": {
         "name": "Bearded Fireworm",
@@ -551,6 +535,22 @@
       "duration_ms": 198000,
       "name": "Bearded Fireworm",
       "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/3z3CbypAGkGUz2nDePXN7z"
-      },
-      "artists": [
-        {
-          "name": "s\u00fas",
-          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
-        }
-      ],
-      "duration_ms": 260970,
-      "name": "Abdolmen",
-      "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
-    },
-    {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
         "name": "\u98a8\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/4v1rmFqeN2zX6MEB2oJD5F"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 383090,
       "name": "\u98a8\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/3z3CbypAGkGUz2nDePXN7z"
+      },
+      "artists": [
+        {
+          "name": "s\u00fas",
+          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
+        }
+      ],
+      "duration_ms": 260970,
+      "name": "Abdolmen",
+      "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Us, In Between The Blinded",
-        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
-      },
-      "artists": [
-        {
-          "name": "Unblinded Society",
-          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
-        }
-      ],
-      "duration_ms": 157646,
-      "name": "Virtual Forrest",
-      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -1075,6 +1059,22 @@
       "duration_ms": 211320,
       "name": "Webcrawler",
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Us, In Between The Blinded",
+        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
+      },
+      "artists": [
+        {
+          "name": "Unblinded Society",
+          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
+        }
+      ],
+      "duration_ms": 157646,
+      "name": "Virtual Forrest",
+      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "the mould",
-        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "The Bloodwren pt. II",
@@ -1123,6 +1107,22 @@
       "duration_ms": 496300,
       "name": "The Bloodwren pt. II",
       "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1221,30 +1221,6 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Spiralis Aurea Trio",
-        "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
-      },
-      "artists": [
-        {
-          "name": "Stefano Pilia",
-          "url": "https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v"
-        },
-        {
-          "name": "Adrian Utley",
-          "url": "https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA"
-        },
-        {
-          "name": "Alessandra Novaga",
-          "url": "https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG"
-        }
-      ],
-      "duration_ms": 366549,
-      "name": "CRUX",
-      "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
-    },
-    {
       "added_at": "2024-05-01 17:01:23",
       "album": {
         "name": "Benti",
@@ -1267,6 +1243,30 @@
       "duration_ms": 234713,
       "name": "Algor Mortis",
       "url": "https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Spiralis Aurea Trio",
+        "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
+      },
+      "artists": [
+        {
+          "name": "Stefano Pilia",
+          "url": "https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v"
+        },
+        {
+          "name": "Adrian Utley",
+          "url": "https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA"
+        },
+        {
+          "name": "Alessandra Novaga",
+          "url": "https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG"
+        }
+      ],
+      "duration_ms": 366549,
+      "name": "CRUX",
+      "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Your Light Cannot Be Extinguished",
+        "url": "https://open.spotify.com/album/23lTiMQzWhsiss19jcqm7S"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "Your Light Cannot Be Extinguished",
+      "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "cyanotype memories (joe goddard remix)",
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Your Light Cannot Be Extinguished",
-        "url": "https://open.spotify.com/album/23lTiMQzWhsiss19jcqm7S"
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
       },
       "artists": [
         {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+          "name": "Nima Khaste",
+          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
         }
       ],
-      "duration_ms": 216253,
-      "name": "Your Light Cannot Be Extinguished",
-      "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
+      "duration_ms": 275555,
+      "name": "S1 T3",
+      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1439,42 +1455,6 @@
       "duration_ms": 258293,
       "name": "the REAL",
       "url": "https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
-      },
-      "artists": [
-        {
-          "name": "Nima Khaste",
-          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "S1 T3",
-      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Seedling (Me Lost Me Remix)",
-        "url": "https://open.spotify.com/album/4i5KscQeIWAOYSMOdjumQs"
-      },
-      "artists": [
-        {
-          "name": "Ceitidh Mac",
-          "url": "https://open.spotify.com/artist/6r6YPoX4hfknOTw0tV3mWb"
-        },
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "Seedling - Me Lost Me Remix",
-      "url": "https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1495,6 +1475,26 @@
       "duration_ms": 257091,
       "name": "I Need Time",
       "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Seedling (Me Lost Me Remix)",
+        "url": "https://open.spotify.com/album/4i5KscQeIWAOYSMOdjumQs"
+      },
+      "artists": [
+        {
+          "name": "Ceitidh Mac",
+          "url": "https://open.spotify.com/artist/6r6YPoX4hfknOTw0tV3mWb"
+        },
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "Seedling - Me Lost Me Remix",
+      "url": "https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1573,6 +1573,22 @@
       "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "KAPITA\u0141KA",
+        "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
+      },
+      "artists": [
+        {
+          "name": "Lemta Toro",
+          "url": "https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "KAPITA\u0141KA 7",
+      "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
+    },
+    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "zen jam",
@@ -1593,6 +1609,26 @@
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Sincerely Yours",
+        "url": "https://open.spotify.com/album/7mUWCFlr6u818MjQpx8qKh"
+      },
+      "artists": [
+        {
+          "name": "s7n",
+          "url": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
+        },
+        {
+          "name": "TUNA DISPLAY",
+          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
+        }
+      ],
+      "duration_ms": 198490,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
+    },
+    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "the REAL (HAAi Remix)",
@@ -1611,22 +1647,6 @@
       "duration_ms": 336600,
       "name": "the REAL - HAAi Remix",
       "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "KAPITA\u0141KA",
-        "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
-      },
-      "artists": [
-        {
-          "name": "Lemta Toro",
-          "url": "https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "KAPITA\u0141KA 7",
-      "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1659,26 +1679,6 @@
       "duration_ms": 342146,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Sincerely Yours",
-        "url": "https://open.spotify.com/album/7mUWCFlr6u818MjQpx8qKh"
-      },
-      "artists": [
-        {
-          "name": "s7n",
-          "url": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
-        },
-        {
-          "name": "TUNA DISPLAY",
-          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
-        }
-      ],
-      "duration_ms": 198490,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
     },
     {
       "added_at": "2024-03-06 06:00:00",

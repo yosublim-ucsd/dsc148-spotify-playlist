@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y María Laura.
 
-622 songs - 1 day 13 hr 13 min
+623 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 | 2024-01-19 | 2024-03-08 |
 | [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 |  |
-| [Mírame](https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Mírame](https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8) | 3:10 | 2024-03-01 |  |
+| [Mírame](https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Mírame](https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8) | 3:10 | 2024-03-01 | 2024-07-01 |
 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 | 2023-12-01 | 2024-03-09 |
 | [Nada Importa](https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [Nada Importa](https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b) | 3:16 | 2023-01-16 | 2023-05-20 |
 | [Nadie me lo enseñó](https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Certeza del Dolor](https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5) | 3:32 | 2023-07-21 | 2023-12-16 |
@@ -470,6 +470,7 @@
 | [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 | 2023-09-15 | 2023-10-05 |
 | [Quién Lo Diría](https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Quién Lo Diría](https://open.spotify.com/album/47v626dipoxlz7BCMgum3Q) | 3:17 | 2024-04-05 | 2024-06-15 |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 | 2021-12-24 | 2023-05-30 |
+| [Qué Bonito Lugar](https://open.spotify.com/track/0yTFUbBfdrrInuHfTmzV8d) | [El Alejandro Nano](https://open.spotify.com/artist/6FVqzsyiOZlIVeFH7p7KqC) | [Qué Bonito Lugar](https://open.spotify.com/album/2BE64Lc16hCD3MwboqHR2E) | 3:39 | 2024-06-28 |  |
 | [Qué No Daría](https://open.spotify.com/track/5fm1c7CIUStSiYlvvCuShh) | [Inés Manzano](https://open.spotify.com/artist/0s8H7Mk8puRPuQ2t4nNbHZ) | [Qué No Daría](https://open.spotify.com/album/333NXErtJaPn6bfj7mVMQs) | 4:13 | 2022-04-01 | 2022-04-09 |
 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 | 2023-12-22 | 2024-02-03 |
 | [Qué va a ser de mí?](https://open.spotify.com/track/6Gl97AIqSelC0zoD0FRr1m) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Qué va a ser de mí?](https://open.spotify.com/album/0LmOKjUiFwWzBz7YFCsjSP) | 3:11 | 2023-12-11 | 2024-01-13 |

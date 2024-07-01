@@ -4,7 +4,7 @@
 
 > 
 
-1,927 songs - 4 day 7 hr 56 min
+1,928 songs - 4 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1829,6 +1829,7 @@
 | [Walked In](https://open.spotify.com/track/1tRlGMHsf21FDo6pja27YN) | [Ultradiox](https://open.spotify.com/artist/0rUq829p7JPVGfnSCDpARg) | [Orichalcos](https://open.spotify.com/album/5MfSukYp87RybgT7HqQDVn) | 1:47 | 2021-08-05 |  |
 | [Walking On A Dream](https://open.spotify.com/track/6A6qBFJHid4WutQu6HHEZt) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:18 | 2021-08-05 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/1R6sDs5ovdcweZlFzGxQVD) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Anthology](https://open.spotify.com/album/5IFGCNXdAhnYq6EwR7TGZM) | 4:01 | 2021-08-05 |  |
+| [Waltz Op\. 64, No\. 1 in D\-Flat Major "Minute Waltz"](https://open.spotify.com/track/5PJdoZiLVsMy4cfQjZfum6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:10 | 2024-06-30 |  |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2021-08-05 |  |
 | [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-04-03 |  |
 | [Warm Hands](https://open.spotify.com/track/6CcmXch9doZEkIoIJBVMUV) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Pretty Sick](https://open.spotify.com/album/5hppXRABDCmLBL8kPobypv) | 2:26 | 2023-01-03 |  |

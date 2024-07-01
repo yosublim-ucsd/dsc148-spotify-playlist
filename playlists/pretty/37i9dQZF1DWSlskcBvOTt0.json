@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 470838,
+  "num_followers": 471014,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Imamou",
+        "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 240487,
+      "name": "Imamou",
+      "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "This Is What It Feels Like (Atmos Blaq Remix)",
         "url": "https://open.spotify.com/album/63jVuDM0KyQ5dnH07YcH6Q"
       },
@@ -1407,42 +1427,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Imamou",
-        "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 240487,
-      "name": "Imamou",
-      "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
-      },
-      "artists": [
-        {
-          "name": "Badbwoy",
-          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
-        }
-      ],
-      "duration_ms": 293793,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Midnight Train",
         "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 214656,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        }
+      ],
+      "duration_ms": 293793,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/1dSn5KBjSQjs4pL4Qixw3Y"
+      },
+      "artists": [
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Running Man (Cosmicat Running Woman Remix)",
         "url": "https://open.spotify.com/album/74C98Bj2fzRkMHoyHQog6I"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 209536,
       "name": "Running Man - Cosmicat Running Woman Remix",
       "url": "https://open.spotify.com/track/18xm1kHdrrKVfyo9CA9xnv"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/1dSn5KBjSQjs4pL4Qixw3Y"
-      },
-      "artists": [
-        {
-          "name": "Marasi",
-          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 241983,
+      "name": "Pangea (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Gorah (Francis Mercier Midnight Mix)",
         "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
       },
@@ -1699,46 +1719,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 241983,
-      "name": "Pangea (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Baron (FR)",
-          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Same Dream",
         "url": "https://open.spotify.com/album/1owqxoLfiqNEgSh1Msl6Pl"
       },
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Lovers Game / Game Over",
         "url": "https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f"
       },
@@ -1779,26 +1779,6 @@
       "duration_ms": 213977,
       "name": "Lovers Game",
       "url": "https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/4jUQAiSlGnqwVlEVeE8hR1"
-      },
-      "artists": [
-        {
-          "name": "Satori",
-          "url": "https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0"
-        },
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        }
-      ],
-      "duration_ms": 401400,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/2Vd8i4I7RHdP1QJSGAoEia"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1827,6 +1807,26 @@
       "duration_ms": 284461,
       "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
       "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/4jUQAiSlGnqwVlEVeE8hR1"
+      },
+      "artists": [
+        {
+          "name": "Satori",
+          "url": "https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0"
+        },
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        }
+      ],
+      "duration_ms": 401400,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/2Vd8i4I7RHdP1QJSGAoEia"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1895,30 +1895,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "How It Feels (feat. Lauren L'aimant)",
-        "url": "https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 206580,
-      "name": "How It Feels (feat. Lauren L'aimant)",
-      "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "DIKEBO",
         "url": "https://open.spotify.com/album/2LaAMUq3t9WYTchh44IiiI"
       },
@@ -1939,6 +1915,30 @@
       "duration_ms": 334426,
       "name": "DIKEBO - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "How It Feels (feat. Lauren L'aimant)",
+        "url": "https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 206580,
+      "name": "How It Feels (feat. Lauren L'aimant)",
+      "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2187,6 +2187,30 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Barcelonia",
+        "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
+      },
+      "artists": [
+        {
+          "name": "Nathan Rux",
+          "url": "https://open.spotify.com/artist/6otY3GdTYnxB2hH7nFhwfQ"
+        },
+        {
+          "name": "LuxNite",
+          "url": "https://open.spotify.com/artist/20mcVTvGJs84aubOp0rTzV"
+        },
+        {
+          "name": "feva.",
+          "url": "https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Barcelonia",
+      "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "MONTE",
         "url": "https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt"
       },
@@ -2219,30 +2243,6 @@
       "duration_ms": 332400,
       "name": "Luxo",
       "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Barcelonia",
-        "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
-      },
-      "artists": [
-        {
-          "name": "Nathan Rux",
-          "url": "https://open.spotify.com/artist/6otY3GdTYnxB2hH7nFhwfQ"
-        },
-        {
-          "name": "LuxNite",
-          "url": "https://open.spotify.com/artist/20mcVTvGJs84aubOp0rTzV"
-        },
-        {
-          "name": "feva.",
-          "url": "https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Barcelonia",
-      "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Ay",
+        "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "duration_ms": 246027,
+      "name": "Ay",
+      "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 209031,
       "name": "Calling",
       "url": "https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Ay",
-        "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        }
-      ],
-      "duration_ms": 246027,
-      "name": "Ay",
-      "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Wild Animal",
-        "url": "https://open.spotify.com/album/01xjYoGDdMF7H9RnDmomPv"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 280705,
-      "name": "Wild Animal",
-      "url": "https://open.spotify.com/track/3tt1Tsro73c0EBkj5ZAJtc"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Seraphina EP",
         "url": "https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 444000,
       "name": "Seraphina",
       "url": "https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Wild Animal",
+        "url": "https://open.spotify.com/album/01xjYoGDdMF7H9RnDmomPv"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 280705,
+      "name": "Wild Animal",
+      "url": "https://open.spotify.com/track/3tt1Tsro73c0EBkj5ZAJtc"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Megatron EP",
+        "url": "https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 359387,
+      "name": "Megatron",
+      "url": "https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Legion",
         "url": "https://open.spotify.com/album/4OHhb3FA3DX5LNe3hbCVZu"
       },
@@ -2531,6 +2547,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Temple Of Dreams (Remixes Part 5)",
         "url": "https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001"
       },
@@ -2551,22 +2583,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5DD5RN39R2Xl9j5TpP9fC1"
       },
@@ -2579,22 +2595,6 @@
       "duration_ms": 271390,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/7vHf001EyCd2PuII1wrmBV"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Megatron EP",
-        "url": "https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 359387,
-      "name": "Megatron",
-      "url": "https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU"
     },
     {
       "added_at": "2024-06-28 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Best of South Asian Music. Cover: Diljit Dosanjh",
-  "num_followers": 826551,
+  "num_followers": 826881,
   "original_name": "Desi Hits",
   "owner": {
     "name": "Spotify",
@@ -708,12 +708,12 @@
       },
       "artists": [
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
           "name": "Mohammad Faiz",
           "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         }
       ],
       "duration_ms": 281511,

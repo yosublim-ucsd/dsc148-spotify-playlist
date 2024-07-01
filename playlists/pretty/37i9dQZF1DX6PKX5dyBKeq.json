@@ -1,12 +1,12 @@
 {
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One",
-  "num_followers": 1375569,
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Ghetts #Glastonbury2024",
+  "num_followers": 1375801,
   "original_name": "Rap UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3wbwAAAAB3u6VSqyf9VvXtHJ21uMsZ",
+  "snapshot_id": "ZoHawwAAAAAap8CTVKboKSeJ326PTCYE",
   "tracks": [
     {
       "added_at": "2024-06-27 23:06:23",
@@ -55,6 +55,30 @@
       "duration_ms": 122208,
       "name": "Pink Lemonade (Str8 Reload)",
       "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "added_at": "2024-06-30 22:22:59",
+      "album": {
+        "name": "On Purpose, With Purpose",
+        "url": "https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        },
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "duration_ms": 305240,
+      "name": "Mount Rushmore (feat. Kano & Wretch 32)",
+      "url": "https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0"
     },
     {
       "added_at": "2024-06-27 23:06:23",

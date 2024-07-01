@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-310 songs - 19 hr 39 min
+311 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Take It](https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV) | [Teacup Monster](https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW) | [Take It or Leave It](https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR) | 3:58 | 2021-12-31 |  |
 | [Tant d'années](https://open.spotify.com/track/29HjFpcEU1ckUd7fNp9gRo) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/343fWjyqMTiQJ2ZVTz0ABM) | 3:02 | 2022-04-17 |  |
 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 | 2022-06-30 | 2024-04-19 |
-| [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 |  |
+| [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 | 2024-07-01 |
 | [The Ejector Side](https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [The Ejector Side](https://open.spotify.com/album/4zjmdGy8wezpjAwXwPboBx) | 2:53 | 2021-12-30 | 2022-07-25 |
 | [The Light In The Dark](https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [The Light in The Dark](https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe) | 4:33 | 2023-12-14 | 2023-12-31 |
 | [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 | 2023-04-14 |
@@ -302,6 +302,7 @@
 | [Vasy](https://open.spotify.com/track/6VKJ18DRQjVFzNBb6GG3D0) | [Fils.](https://open.spotify.com/artist/1Tq8z5jrtwLN5OlvsRKB9T) | [Amorphe](https://open.spotify.com/album/69zFYf5KGASOfFkeFzqJfZ) | 2:13 | 2021-12-31 | 2022-07-29 |
 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 | 2021-12-31 |  |
 | [Voices](https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac) | [Lane \(Love And Noise Experiment\)](https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf) | [Pictures of a Century](https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N) | 2:41 | 2021-12-15 | 2022-07-26 |
+| [Vomit Candy](https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Vomit Candy](https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF) | 2:43 | 2024-05-29 |  |
 | [Vulgar](https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Postmodern Blue](https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta) | 2:50 | 2021-12-31 |  |
 | [Wait On Me](https://open.spotify.com/track/21hHG6wPAOsnSeGZYAoS0C) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [As Safe As Yesterday](https://open.spotify.com/album/1uufU9XE4QdcM6BzwrEy4C) | 3:32 | 2022-04-27 | 2022-12-25 |
 | [Wandering Life](https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [Wandering Life](https://open.spotify.com/album/7dDOXyyR3MgSkqoZkW4MdV) | 3:32 | 2021-12-31 | 2022-04-20 |

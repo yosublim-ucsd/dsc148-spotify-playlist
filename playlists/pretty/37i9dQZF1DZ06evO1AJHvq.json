@@ -1,12 +1,12 @@
 {
-  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 404653,
+  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
+  "num_followers": 404753,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAACQOgxK9Stj+5VPZ4ngRjU8",
+  "snapshot_id": "Zn9OgAAAAACDcs1ZDdyNZU7MLIFFNfOi",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 282885,
-      "name": "Yo Quisiera Entrar",
-      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
+      "duration_ms": 256249,
+      "name": "Entre Pl\u00e1ticas y Dudas",
+      "url": "https://open.spotify.com/track/3CHXRZcSxwigA1NIsJjs32"
     },
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 256249,
-      "name": "Entre Pl\u00e1ticas y Dudas",
-      "url": "https://open.spotify.com/track/3CHXRZcSxwigA1NIsJjs32"
+      "duration_ms": 282885,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
     },
     {
       "added_at": null,

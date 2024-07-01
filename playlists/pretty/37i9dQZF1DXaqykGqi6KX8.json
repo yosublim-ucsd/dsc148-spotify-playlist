@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 57606,
+  "num_followers": 57638,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
@@ -219,38 +219,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
-      },
-      "artists": [
-        {
-          "name": "Nawather",
-          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
-        }
-      ],
-      "duration_ms": 302601,
-      "name": "Daret Layyem",
-      "url": "https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
-      },
-      "artists": [
-        {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
-        }
-      ],
-      "duration_ms": 226795,
-      "name": "Quest For Eternity",
-      "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Znousland 2",
         "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 341175,
       "name": "Moongod",
       "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+      },
+      "artists": [
+        {
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+        }
+      ],
+      "duration_ms": 302601,
+      "name": "Daret Layyem",
+      "url": "https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+      },
+      "artists": [
+        {
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+        }
+      ],
+      "duration_ms": 226795,
+      "name": "Quest For Eternity",
+      "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Sidi Arbi 2",
-        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
-      },
-      "artists": [
-        {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Sidi Arbi 2",
-      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Wa Ma Khufiya Kana A'atham",
         "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+        "name": "Sidi Arbi 2",
+        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
       },
       "artists": [
         {
-          "name": "Nawather",
-          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+          "name": "Znous",
+          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
         }
       ],
-      "duration_ms": 240507,
-      "name": "Time to Raise the Curtains",
-      "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
+      "duration_ms": 231000,
+      "name": "Sidi Arbi 2",
+      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -395,6 +379,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Color Blind",
+        "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
+      },
+      "artists": [
+        {
+          "name": "Massive Scar Era",
+          "url": "https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D"
+        }
+      ],
+      "duration_ms": 222156,
+      "name": "Unfollow",
+      "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "GILGAMESH",
         "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Color Blind",
-        "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
       },
       "artists": [
         {
-          "name": "Massive Scar Era",
-          "url": "https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D"
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
         }
       ],
-      "duration_ms": 222156,
-      "name": "Unfollow",
-      "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
+      "duration_ms": 240507,
+      "name": "Time to Raise the Curtains",
+      "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
     },
     {
       "added_at": "2021-10-14 08:16:07",

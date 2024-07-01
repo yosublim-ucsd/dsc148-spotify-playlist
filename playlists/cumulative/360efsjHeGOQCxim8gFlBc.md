@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-359 songs - 14 hr 40 min
+360 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [I Remember](https://open.spotify.com/track/2y7eXoUagvUMkLb8P0T4Wx) | [Soheil Bostani](https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9) | [The End of a Dream](https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY) | 1:45 | 2023-10-29 | 2024-02-15 |
 | [Idea 1](https://open.spotify.com/track/3kJACFlgn1rg0I0l4XmzLI) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 1](https://open.spotify.com/album/189goDikUHhtkmt0Yjbn5O) | 2:34 | 2023-10-29 |  |
 | [Idea 10](https://open.spotify.com/track/3ZPuDhyEPF24w2SvIWYvHr) | [Gabriel Laurent](https://open.spotify.com/artist/75ZWaiSvETPQzvOXF1CixO) | [Idea 10](https://open.spotify.com/album/4R2Z0HemQaOkocIj0UZdJA) | 2:14 | 2023-10-29 |  |
-| [Idea 10](https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE) | 2:08 | 2023-10-29 |  |
+| [Idea 10](https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE) | 2:08 | 2023-10-29 | 2024-07-01 |
+| [Idea 10](https://open.spotify.com/track/3AfD6kwSIp17AfESQqBRDx) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/2OmmJDqS5hsoY6Nbos3fRk) | 2:08 | 2024-06-30 |  |
 | [Idea 15](https://open.spotify.com/track/7MJ8g0egEkhvGu44IamrDE) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 15](https://open.spotify.com/album/3wUrxJDVqMv50SEfvTsHHA) | 1:54 | 2023-10-29 |  |
 | [Idea 20](https://open.spotify.com/track/5gyaM2tbWpVP0e8KIx3S0x) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 20](https://open.spotify.com/album/1YM113gIe7ikRpQ3R13QNf) | 2:52 | 2024-06-17 |  |
 | [Idea 7](https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 2:30 | 2024-02-14 |  |

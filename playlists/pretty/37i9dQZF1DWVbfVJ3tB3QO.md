@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,482 likes - 78 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,505 likes - 78 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 20 | [A Lifetime On The Hips](https://open.spotify.com/track/6fykoj2sAs3lWWt5b9YIHc) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [A Lifetime On The Hips](https://open.spotify.com/album/5dAV5QoPhNwRzcHimnCo7W) | 4:10 |
 | 21 | [Dama s Salon \- Main Mix](https://open.spotify.com/track/0AGoXq0EqhndctR4vuOzcU) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Dama s Salon](https://open.spotify.com/album/1CgCapyceupw6uoIrk3fXM) | 6:23 |
 | 22 | [That's Right \- Edit](https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [That's Right \(Edit\)](https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z) | 4:36 |
-| 23 | [Doing My Own Thing \(Dub\)](https://open.spotify.com/track/2vBerSLtw46gRZonsaCmZp) | [Kid Crème](https://open.spotify.com/artist/21LRoheW1z49N5d52wlQ5X) | [Doing My Own Thing \- Single](https://open.spotify.com/album/5tgyl9Ftt1GdCgRcX7ICEF) | 10:43 |
+| 23 | [Doing My Own Thing \(Dub\)](https://open.spotify.com/track/2vBerSLtw46gRZonsaCmZp) | [Kid Crème](https://open.spotify.com/artist/21LRoheW1z49N5d52wlQ5X), [MC Shurakano](https://open.spotify.com/artist/4O8Z75zXU160coTApiULzu) | [Doing My Own Thing \- Single](https://open.spotify.com/album/5tgyl9Ftt1GdCgRcX7ICEF) | 10:43 |
 | 24 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
 | 25 | [I Want You \- Extended Mix](https://open.spotify.com/track/0JfPrwsBWNIJDoBwYshnId) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 8:30 |
 | 26 | [Count You In](https://open.spotify.com/track/66ccmJw57D8HRXm89dtBFG) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Count You In](https://open.spotify.com/album/0EYFFVUyCzO0aphx48DXGT) | 2:50 |

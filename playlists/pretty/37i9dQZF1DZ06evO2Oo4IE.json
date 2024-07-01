@@ -1,12 +1,12 @@
 {
   "description": "This Is Janis Joplin. Los temas esenciales, todos en una lista.",
-  "num_followers": 179537,
+  "num_followers": 179559,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAACqpehk4D78m+EStFYfcoZU",
+  "snapshot_id": "Zn9OgAAAAACTxCJnyXXIIBo9+qxrb2d8",
   "tracks": [
     {
       "added_at": null,
@@ -883,22 +883,6 @@
       "duration_ms": 103880,
       "name": "Applause & Talk, Pt.3 - Live",
       "url": "https://open.spotify.com/track/1m84RF5HCIUQilJKyCCSop"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 298527,
-      "name": "Coo Coo - Live",
-      "url": "https://open.spotify.com/track/7BylCSADVZkNdxqYjY8TiF"
     }
   ],
   "unique_name": "This Is Janis Joplin",

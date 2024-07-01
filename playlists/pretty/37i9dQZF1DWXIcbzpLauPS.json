@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: Knocked Loose",
-  "num_followers": 928960,
+  "num_followers": 929029,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "Barely Breathing (feat. Against The Current)",
         "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Vol. 2",
         "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
       },
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Kool-Aid",
-        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 228470,
-      "name": "Kool-Aid",
-      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+      "duration_ms": 245947,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "MAGNETIC",
-        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 192729,
-      "name": "MAGNETIC",
-      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Conflict",
-        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
+        "name": "MAGNETIC",
+        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
       },
       "artists": [
         {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Conflict",
-      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+      "duration_ms": 192729,
+      "name": "MAGNETIC",
+      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Don't Reach For Me",
-        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Don't Reach For Me",
-      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Feeding Demons",
         "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 247399,
       "name": "Panic Waves",
       "url": "https://open.spotify.com/track/2UE48m09FyDdc6Ot1sGKqS"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Don't Reach For Me",
+        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Don't Reach For Me",
+      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
-      },
-      "artists": [
-        {
-          "name": "Ocean Grove",
-          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
-        }
-      ],
-      "duration_ms": 161407,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
+      "duration_ms": 161407,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Unforgivable",
-        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
       },
       "artists": [
         {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Unforgivable",
-      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1167,6 +1151,22 @@
       "duration_ms": 234932,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Unforgivable",
+        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Unforgivable",
+      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Crawl Backwards Out of Heaven",
-        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Crawl Backwards Out of Heaven",
-      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Crawl Backwards Out of Heaven",
+        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Crawl Backwards Out of Heaven",
+      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "HIVEMIND",
-        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
-      },
-      "artists": [
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "HIVEMIND",
-      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "I Hope You Choke",
         "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 207660,
       "name": "I Hope You Choke",
       "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "HIVEMIND",
+        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "HIVEMIND",
+      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "A Crooked Melody",
-        "url": "https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 235835,
-      "name": "A Crooked Melody",
-      "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 239934,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "A Crooked Melody",
+        "url": "https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235835,
+      "name": "A Crooked Melody",
+      "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Death Is Little More",
-        "url": "https://open.spotify.com/album/0CmKu8SgKIY2nhDF3BrwRr"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 199127,
-      "name": "Cursed To Remember",
-      "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "False Divinity",
-        "url": "https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0"
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/0CmKu8SgKIY2nhDF3BrwRr"
       },
       "artists": [
         {
-          "name": "Texas In July",
-          "url": "https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya"
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
         }
       ],
-      "duration_ms": 228778,
-      "name": "False Divinity",
-      "url": "https://open.spotify.com/track/6zNWFYMJdYHEdImfNorvEr"
+      "duration_ms": 199127,
+      "name": "Cursed To Remember",
+      "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1675,6 +1659,22 @@
       "duration_ms": 211653,
       "name": "Nothing Inspires Forgiveness Quite Like Revenge",
       "url": "https://open.spotify.com/track/70Q0xePiAhrp7HkGQ21pbp"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "False Divinity",
+        "url": "https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0"
+      },
+      "artists": [
+        {
+          "name": "Texas In July",
+          "url": "https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya"
+        }
+      ],
+      "duration_ms": 228778,
+      "name": "False Divinity",
+      "url": "https://open.spotify.com/track/6zNWFYMJdYHEdImfNorvEr"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+        "name": "Future Proof",
+        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
       },
       "artists": [
         {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
         }
       ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
+      "duration_ms": 210973,
+      "name": "Future Proof",
+      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1891,34 +1891,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Future Proof",
-        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
       },
       "artists": [
         {
-          "name": "Many Eyes",
-          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Future Proof",
-      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "Horror Domain",
-        "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
-      },
-      "artists": [
-        {
-          "name": "Foreign Hands",
-          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Horror Domain",
-      "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1935,6 +1919,22 @@
       "duration_ms": 208235,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Horror Domain",
+        "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Horror Domain",
+      "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
     },
     {
       "added_at": "2024-06-10 14:54:42",

@@ -2,7 +2,7 @@
 
 ### [This Is Måneskin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08w0LV)
 
-> This is Måneskin\. Todos os maiores hits em uma só playlist.
+> This is Måneskin\. The essential tracks, all in one playlist.
 
 42 songs - 2 hr 10 min
 

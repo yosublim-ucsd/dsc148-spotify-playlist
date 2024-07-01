@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 43073,
+  "num_followers": 43244,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAACKWv75i2fdCyKpyKh4883N",
+  "snapshot_id": "Zn9OgAAAAAA8v+Ir46LkNvx6wv3qJxxJ",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 364181,
-      "name": "X",
-      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GREY Area",
         "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 225255,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 364181,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stillness in Wonderland",
-        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 183197,
-      "name": "Picture Perfect",
-      "url": "https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GREY Area",
         "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 185203,
       "name": "Boss",
       "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 183197,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stillness In Wonderland (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 211285,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Location (feat. Little Simz)",
         "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 245045,
       "name": "Location (feat. Little Simz)",
       "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 211285,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-300 songs - 20 hr 4 min
+301 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Illusion](https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX) | 5:44 | 2022-06-20 | 2022-11-13 |
 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 | 2022-06-20 | 2023-05-20 |
 | [Illusion](https://open.spotify.com/track/53CpD7nwNQ7otqPNkzMM86) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/5AnU5BoObGiy8FHWRCNAsj) | 5:45 | 2021-07-24 | 2022-07-29 |
+| [In Control](https://open.spotify.com/track/6ENj47aA41bTZFinUDrYNP) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [In Control](https://open.spotify.com/album/3SD9BUjJvoSY3Uiafm83lb) | 2:31 | 2024-06-28 |  |
 | [In My Soul](https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [In My Soul](https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl) | 4:42 | 2021-07-24 | 2023-06-02 |
 | [In This Life \- Cassara Remix](https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Mandy Jones](https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ), [Cassara](https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi) | [In This Life \(Cassara Remix\)](https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk) | 6:21 | 2023-05-19 |  |
 | [Int'l Swayers Anthem \- Radio Edit](https://open.spotify.com/track/4UACOokrBAawfs584AMmW2) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Int'l Swayers Anthem](https://open.spotify.com/album/3c3zrwLoOqY2god9LfWWaU) | 4:00 | 2021-07-24 | 2022-07-29 |
@@ -255,7 +256,7 @@
 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 | 2024-04-19 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-08 | 2024-04-19 |
 | [Soulsearcher](https://open.spotify.com/track/0ygPVwsl15vlyfAJNE28mj) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Better Will Come](https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv) | 4:08 | 2024-05-10 | 2024-06-29 |
-| [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 | 2024-04-19 |  |
+| [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 | 2024-04-19 | 2024-07-01 |
 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 | 2022-06-20 | 2023-05-20 |
 | [Spice Run](https://open.spotify.com/track/1TkJTS4V23IjVDUxaMWhyf) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/39FVH5JgmFDDGxkF99QsIL) | 5:49 | 2021-07-24 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Stand Up](https://open.spotify.com/album/0RYjPzxyHrBPebqHtUbtIY) | 2:26 | 2024-03-22 | 2024-04-19 |

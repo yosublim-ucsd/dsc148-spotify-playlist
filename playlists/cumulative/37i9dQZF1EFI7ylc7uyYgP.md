@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 6 hr 26 min
+134 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Steal The Show \- Radio Mix](https://open.spotify.com/track/0ZMgOwYmaG9Ph9JhVbcTwv) | [David Campoy](https://open.spotify.com/artist/7zQSea9t3QVdiYuNaICvde), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Steal The Show](https://open.spotify.com/album/0hflsCci66hpJf8TUCpIcE) | 3:45 | 2024-01-29 |  |
 | [Stretch Your Eyes](https://open.spotify.com/track/6v1q1CSP2FAsZ1vOua3ddY) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Maybe I Love Kokomo](https://open.spotify.com/album/1e2vSHj3eyRKjvjdRyaGyO) | 3:17 | 2024-01-29 |  |
 | [STUCK IN MY HEAD](https://open.spotify.com/track/045vckAeaQEbJ3vmatyBWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:56 | 2024-01-29 |  |
-| [Summer Body](https://open.spotify.com/track/6gDSipmXjcMtAXUaUvl3Pt) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4) | [Summer Body](https://open.spotify.com/album/2ke8ta1YW4XI2uCCLdcxmb) | 2:59 | 2024-01-29 |  |
+| [Summer Body](https://open.spotify.com/track/5uB5QgpcMPTLZL268GdbUu) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4) | [Summer Body](https://open.spotify.com/album/0zFi8bajP5xJb65KemVh1t) | 2:59 | 2024-06-30 |  |
+| [Summer Body](https://open.spotify.com/track/6gDSipmXjcMtAXUaUvl3Pt) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4) | [Summer Body](https://open.spotify.com/album/2ke8ta1YW4XI2uCCLdcxmb) | 2:59 | 2024-01-29 | 2024-07-01 |
 | [Swagger Right](https://open.spotify.com/track/2tSPLQSQ4XkFwffpxvrGxm) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Party All the Time](https://open.spotify.com/album/5sAlN16zuw2ruoAbUSkbYw) | 2:59 | 2024-01-29 |  |
 | [Tequila Talkin’](https://open.spotify.com/track/1Qs5B6q9Bjq4qMDLUPlBsj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:18 | 2024-01-29 |  |
 | [The Fanciest Midnight](https://open.spotify.com/track/1IJSQLi50kg514yn6FtjgH) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:33 | 2024-01-29 |  |

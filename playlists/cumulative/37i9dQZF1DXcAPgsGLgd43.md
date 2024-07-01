@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-272 songs - 14 hr 40 min
+273 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 | 2023-11-10 | 2024-03-17 |
 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 | 2021-10-08 | 2023-11-11 |
 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 | 2021-10-08 | 2022-11-13 |
-| [Candela](https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Cosmo](https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE) | [Candela](https://open.spotify.com/album/6z89dz0pfcAJ25nPd4lOJR) | 2:17 | 2024-05-17 |  |
+| [Candela](https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Cosmo](https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE) | [Candela](https://open.spotify.com/album/6z89dz0pfcAJ25nPd4lOJR) | 2:17 | 2024-05-17 | 2024-07-01 |
 | [Candela \- Original Mix](https://open.spotify.com/track/6bBOQ5FirB6p9FuIfRKHss) | [Simon Miceli](https://open.spotify.com/artist/7b7l6CspiIMoXFKY8MRGgv) | [Candela](https://open.spotify.com/album/73mhxwF0L5xnccgIWImNJZ) | 3:32 | 2023-11-17 | 2024-04-27 |
 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 | 2023-12-15 | 2024-03-30 |
 | [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 | 2023-11-10 | 2024-02-11 |
@@ -270,6 +270,7 @@
 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 | 2023-11-10 |  |
 | [Viento](https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl) | 3:48 | 2021-10-08 | 2023-11-11 |
 | [Viento](https://open.spotify.com/track/6ldrrA9dkZjIrX4wUOXTz2) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/6PVaNesFRFCpGKUVq0YTNy) | 3:48 | 2021-10-08 | 2022-07-29 |
+| [Viper](https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [4 ON DA FLOOR](https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu) | 2:37 | 2024-06-28 |  |
 | [Wataqui](https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Wataqui](https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS) | 2:34 | 2024-05-10 |  |
 | [Whine Up](https://open.spotify.com/track/1bbxfTnS17w2D8UXo12dHj) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [Whine Up](https://open.spotify.com/album/7jf1fvzIVmG9hZmPeaKSVB) | 2:49 | 2024-04-12 | 2024-05-18 |
 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 | 2021-10-08 | 2023-11-11 |

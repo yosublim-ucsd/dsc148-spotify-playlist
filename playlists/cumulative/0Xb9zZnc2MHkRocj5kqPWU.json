@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Bach: Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118583,
+      "name": "Bach: Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu"
+    },
+    {
+      "album": {
         "name": "F\u00fcr Elise, Bagatelle No. 25 in A Minor, WoO 59",
         "url": "https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN"
       },
@@ -906,6 +928,14 @@
         {
           "name": "Tim Allhoff",
           "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Robert Mehlhart",
+          "url": "https://open.spotify.com/artist/2OW114j1DyCTIpkRsXyW04"
+        },
+        {
+          "name": "Cantatorium",
+          "url": "https://open.spotify.com/artist/4THx13UIBCP7lwpRz49cDe"
         }
       ],
       "date_added": "2023-02-10",
@@ -2384,10 +2414,6 @@
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
           "name": "Chloe Flower",
           "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
         }
@@ -3314,28 +3340,6 @@
       "duration_ms": 111706,
       "name": "Prelude Piano Variation (After Prelude from Violin Sonata in F Major, Op. 5, No. 10)",
       "url": "https://open.spotify.com/track/778Yq1brkZsJPZxMMb7BcS"
-    },
-    {
-      "album": {
-        "name": "Bach: Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "date_added": "2023-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 118583,
-      "name": "Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu"
     },
     {
       "album": {
@@ -4352,6 +4356,14 @@
         {
           "name": "Tim Allhoff",
           "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Robert Mehlhart",
+          "url": "https://open.spotify.com/artist/2OW114j1DyCTIpkRsXyW04"
+        },
+        {
+          "name": "Cantatorium",
+          "url": "https://open.spotify.com/artist/4THx13UIBCP7lwpRz49cDe"
         }
       ],
       "date_added": "2023-02-10",

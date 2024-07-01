@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes, LUDMILLA com IZA, Baco Exu do Blues e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,494 likes - 69 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,678 likes - 69 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 22 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
 | 23 | [Saudade Sussurrou](https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Saudade Sussurrou](https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD) | 2:55 |
 | 24 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
-| 25 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/7FjONQN4votV3A31ML756C) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 |
+| 25 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 |
 | 26 | [Vacilou, Deu Mole](https://open.spotify.com/track/5Ak58ptg8Bmvxx2cueHj3P) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [Vacilou, Deu Mole](https://open.spotify.com/album/4tel6aAy8a3O85qsPctnFy) | 3:29 |
 | 27 | [Humor](https://open.spotify.com/track/3PAV8YFEK1LXKMSaXrCZYU) | [Oliveira](https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Humor](https://open.spotify.com/album/2aBzpLvjfN6nUwjgcj1OFA) | 2:47 |
 | 28 | [TESLA](https://open.spotify.com/track/5dsx4ngckfV4tf9bhcX8zO) | [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o), [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV), [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [TESLA](https://open.spotify.com/album/4jjqRqOc2jv5VCmmmzFAJf) | 4:07 |

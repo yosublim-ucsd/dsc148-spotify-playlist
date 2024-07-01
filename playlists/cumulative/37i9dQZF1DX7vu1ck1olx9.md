@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-304 songs - 12 hr 18 min
+305 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,13 +204,14 @@
 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Pillow](https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Pillow](https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf) | 2:03 | 2023-12-15 |  |
 | [pillow dreams](https://open.spotify.com/track/3VolXPYyNr222J89OHl8u0) | [evelina mist](https://open.spotify.com/artist/0AUIG5gLgUZhMGeCNBLfcr) | [pillow dreams](https://open.spotify.com/album/5vaW6YNNd77zXYVrAAVTpL) | 2:01 | 2024-03-22 |  |
-| [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 | 2020-11-12 |  |
+| [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 | 2020-11-12 | 2024-07-01 |
 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 | 2023-10-27 |  |
 | [PWR nApp](https://open.spotify.com/track/3uvQsiIBs9ceN3hwSp3WJ1) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [PWR nApp](https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf) | 2:11 | 2023-10-27 |  |
 | [questa terra](https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [questa terra](https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx) | 2:27 | 2023-12-08 |  |
 | [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-13 |  |
 | [rem junction](https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [rem junction](https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp) | 2:03 | 2023-10-27 |  |
 | [Remedies](https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Remedies](https://open.spotify.com/album/4StwBfTJI1FDpX6GhgtwNY) | 2:37 | 2023-10-27 |  |
+| [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-27 |  |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-10-27 |  |
 | [roaming roads](https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [roaming roads](https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0) | 2:36 | 2024-06-13 |  |
 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 | 2023-10-27 |  |

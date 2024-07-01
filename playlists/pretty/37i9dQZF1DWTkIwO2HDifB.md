@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Samba de Malandro e os funks mais 🔑 do Brasil\. Foto: MC Paulin da Capital
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,310,887 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,311,402 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

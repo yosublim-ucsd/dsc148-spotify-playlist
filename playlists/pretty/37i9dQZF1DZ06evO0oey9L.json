@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 89375,
+  "num_followers": 89380,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAABt9AEYNDm/NJF14fPwk+V1",
+  "snapshot_id": "Zn9OgAAAAABRXoiX7CzoAyTMf8vqsTpY",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El 7",
+        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225142,
+      "name": "El 7",
+      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Dicen Rana y Brinco",
         "url": "https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf"
       },
@@ -775,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Calles",
-        "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Dani G",
-          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Por Las Calles",
-      "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.4)",
         "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 7",
-        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
+        "name": "Por Las Calles",
+        "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Dani G",
+          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
         }
       ],
-      "duration_ms": 225142,
-      "name": "El 7",
-      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
+      "duration_ms": 149000,
+      "name": "Por Las Calles",
+      "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
     },
     {
       "added_at": null,

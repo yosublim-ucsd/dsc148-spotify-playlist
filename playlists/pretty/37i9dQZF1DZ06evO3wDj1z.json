@@ -1,12 +1,12 @@
 {
-  "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 96950,
+  "description": "This Is Sergio Vega \"El Shaka\". Los temas esenciales, todos en una lista.",
+  "num_followers": 96983,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAADBUAlcB5QinEBRXIwWmADN",
+  "snapshot_id": "Zn9OgAAAAADYQwlMMfEe+f1tHZp3I3Qg",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Me Vas A Doler",
-      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
+      "duration_ms": 168626,
+      "name": "Ya No Me Preguntes",
+      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 118746,
-      "name": "No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
+      "duration_ms": 185600,
+      "name": "Te Han Dicho de M\u00ed",
+      "url": "https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 168626,
-      "name": "Ya No Me Preguntes",
-      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
+      "duration_ms": 213693,
+      "name": "Me Vas A Doler",
+      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Te Han Dicho de M\u00ed",
-      "url": "https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz"
+      "duration_ms": 118746,
+      "name": "No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
     },
     {
       "added_at": null,

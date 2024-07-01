@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Cát Tường
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Kai Đinh, MIN, Hoàng Dũng
 
 277 songs - 17 hr 47 min
 

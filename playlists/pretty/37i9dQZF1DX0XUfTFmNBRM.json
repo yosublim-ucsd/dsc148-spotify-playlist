@@ -1,6 +1,6 @@
 {
   "description": "Hottest Hindi music served here. Cover - Pushpa 2 The Rule",
-  "num_followers": 2189745,
+  "num_followers": 2192604,
   "original_name": "Hot Hits Hindi",
   "owner": {
     "name": "Spotify",
@@ -92,12 +92,12 @@
       },
       "artists": [
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
           "name": "Mohammad Faiz",
           "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         }
       ],
       "duration_ms": 281511,

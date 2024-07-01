@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,838 songs - 10 day 19 hr 14 min
+6,839 songs - 10 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3778,6 +3778,7 @@
 | [Mirage](https://open.spotify.com/track/7xTxhDp6t1DjxBSpIgsdkK) | [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Mirage](https://open.spotify.com/album/34bsf0GTJ98Sw2N4QsVY5t) | 2:07 | 2022-11-18 | 2023-11-24 |
 | [Mirage](https://open.spotify.com/track/75lkVw6YrP9JhVqL02gAFN) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Calm Sea](https://open.spotify.com/album/0YyuU4cAxsuhb03KXhAfsH) | 1:46 | 2022-12-16 | 2023-06-08 |
 | [Mirage](https://open.spotify.com/track/0ip5iK9MlqO78E5HG5Uhip) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh) | [Mirage](https://open.spotify.com/album/22Dger3tgWc5wS2PudaalP) | 2:19 | 2019-11-22 | 2021-07-29 |
+| [mirage](https://open.spotify.com/track/7dUfQSVulg6z9mYR2kuG0u) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [mirage](https://open.spotify.com/album/4tGLc4CknEVw4YnWZCtOOI) | 2:11 | 2024-06-28 |  |
 | [Mirage](https://open.spotify.com/track/7eKngPbV73979PMS9k3vQV) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Myst Isle](https://open.spotify.com/album/2ZuB62UvDrMPhALL8HWK7s) | 2:00 | 2019-06-19 | 2020-10-21 |
 | [Mirages](https://open.spotify.com/track/24EO0A4OgkJJMxd3MT5uvj) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Mirages](https://open.spotify.com/album/7gO57WSFQ0xoBH4XRrhSQ3) | 4:08 | 2024-01-05 |  |
 | [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 | 2023-03-25 |
@@ -3946,7 +3947,7 @@
 | [Mubin](https://open.spotify.com/track/4Fh1i6FMLglFqEQdThLnV7) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [New Life](https://open.spotify.com/album/22d63rGHqBzQnDitUeL6iZ) | 1:34 | 2022-11-18 | 2022-11-25 |
 | [Mubin](https://open.spotify.com/track/5KxEZ56LRVYkPrHvcWS81I) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [New Life](https://open.spotify.com/album/6RcqzxOe7u1iF2QVyNoVpS) | 1:34 | 2022-08-19 | 2022-11-20 |
 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-09-04 | 2022-04-08 |
-| [Mud Place](https://open.spotify.com/track/54EsBnXKPIpyJSZPOt75VM) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [Mud Place](https://open.spotify.com/album/5ZAUVdXVyOvNFoc1U6CHm4) | 2:55 | 2024-01-26 |  |
+| [Mud Place](https://open.spotify.com/track/54EsBnXKPIpyJSZPOt75VM) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [Mud Place](https://open.spotify.com/album/5ZAUVdXVyOvNFoc1U6CHm4) | 2:55 | 2024-01-26 | 2024-07-01 |
 | [mugen](https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [mugen](https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO) | 2:48 | 2023-06-20 | 2023-09-29 |
 | [Muji](https://open.spotify.com/track/23GCq0VGusMwFEnZy4tdPN) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Muji](https://open.spotify.com/album/2D5buiNOZyH63ijEmktiya) | 1:34 | 2019-11-08 | 2021-07-11 |
 | [Mulberry](https://open.spotify.com/track/1Ty54xPt5arHKn6ecAF9M8) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Mulberry](https://open.spotify.com/album/0gRZ3rhqT0nE6WEOo9KrHo) | 2:58 | 2022-06-03 | 2022-09-30 |

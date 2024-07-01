@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 267840,
       "name": "A Besitos",
       "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
@@ -658,6 +658,24 @@
       "duration_ms": 309655,
       "name": "Despues del Adios",
       "url": "https://open.spotify.com/track/3o3QShHHLuR3gHBhR0Yeve"
+    },
+    {
+      "album": {
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309890,
+      "name": "Despues del Adios",
+      "url": "https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A"
     },
     {
       "album": {
@@ -1178,6 +1196,28 @@
       "duration_ms": 277472,
       "name": "Me Dejaste Sin Nada",
       "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
+    },
+    {
+      "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285840,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/5cxAB2mMjpKrRr7lT7R3Ut"
     },
     {
       "album": {

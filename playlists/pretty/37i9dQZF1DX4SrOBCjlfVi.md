@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Latto, Roddy Ricch, Lil Durk and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,824 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,864 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 29 | [St\. Juliana](https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Across The Tracks](https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt) | 2:17 |
 | 30 | [WHEW LAWD](https://open.spotify.com/track/2nbTq1JQ1CrteXxYF4JAGR) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [WHEW LAWD](https://open.spotify.com/album/6ILknYWa6Y3WOPCLQt1Pw4) | 1:33 |
 | 31 | [GUN SMOKE](https://open.spotify.com/track/7osIdQv8dmv4Ijfu2AEBB5) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [GUN SMOKE](https://open.spotify.com/album/0wuviQR54jgW1IUp09LSFZ) | 1:50 |
-| 32 | [withdrawals \(feat\. Nettspend\)](https://open.spotify.com/track/2y6DnwKOTiWcbJbiIibryI) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [withdrawals \(feat\. Nettspend\)](https://open.spotify.com/album/1u8XbmT230qqv62bHWEdOA) | 2:17 |
+| 32 | [withdrawals](https://open.spotify.com/track/2y6DnwKOTiWcbJbiIibryI) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1), [Nettspend](https://open.spotify.com/artist/2QYQ6psnGpTgkxXA0CxWzY) | [withdrawals](https://open.spotify.com/album/1u8XbmT230qqv62bHWEdOA) | 2:17 |
 | 33 | [WHAT YOU WANT](https://open.spotify.com/track/1uPdPYQV4S2kl1IXjosbe8) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [WHAT YOU WANT](https://open.spotify.com/album/7c8JXgO8g5gs8ZYzI8eOBJ) | 2:07 |
 | 34 | [Grilling Niggas II](https://open.spotify.com/track/7cRfy33pKWqxkJdmQmAEJP) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Dauntless Manifesto](https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3) | 3:04 |
 | 35 | [FIRST OF THE MONTH](https://open.spotify.com/track/7u90QLHJozCFb6KUaFKPe4) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [SANCTIONED VOL\. 1](https://open.spotify.com/album/11VxDKbrYFlqiQCAboDGdz) | 3:06 |

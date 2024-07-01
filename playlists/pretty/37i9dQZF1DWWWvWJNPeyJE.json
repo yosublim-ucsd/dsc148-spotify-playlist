@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 307981,
+  "num_followers": 308067,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 283236,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 283236,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/33QmlmdmJnFBkKgRKXh0SJ"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 200213,
       "name": "Don't",
       "url": "https://open.spotify.com/track/7lxWzjZCSkXndL8eYKfFWU"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "19 - EP",
-        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 259918,
-      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -691,6 +675,22 @@
       "duration_ms": 252371,
       "name": "Late Night Drive",
       "url": "https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
+        "name": "19 - EP",
+        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 259918,
+      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Sip",
-      "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
       "artists": [
         {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
+      "duration_ms": 197285,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "All Have Fallen",
-        "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
       },
       "artists": [
         {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
+      "duration_ms": 169066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -859,6 +843,22 @@
       "duration_ms": 289311,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
+        "name": "All Have Fallen",
+        "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Back To Sleep",
-        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201647,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
         "name": "Gossip Columns",
         "url": "https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 225666,
       "name": "Made Love First",
       "url": "https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
+        "name": "Back To Sleep",
+        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201647,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
+      },
+      "artists": [
+        {
+          "name": "Ro James",
+          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
+        }
+      ],
+      "duration_ms": 281511,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 204631,
       "name": "Rock wit Me (feat. IAMSU!)",
       "url": "https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "Permission",
-        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
-      },
-      "artists": [
-        {
-          "name": "Ro James",
-          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
-        }
-      ],
-      "duration_ms": 281511,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+      "duration_ms": 262053,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 262053,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6"
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2024-06-24 11:06:47",

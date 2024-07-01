@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3cvxOD19DXtU4N0Ubs2s2G"
+      },
+      "artists": [
+        {
+          "name": "BIG D",
+          "url": "https://open.spotify.com/artist/2MYZ9y9Amw1ApGWuWzzIUs"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196521,
+      "name": "23",
+      "url": "https://open.spotify.com/track/14UIt9eRQYdS0tVm6G9ixt"
+    },
+    {
+      "album": {
         "name": "Love With Passion",
         "url": "https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu"
       },
@@ -10984,6 +11002,24 @@
       "duration_ms": 189496,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7otM2899LBDzr051hxJqyx"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/074vfRX9wjyoNRRDIFfPq3"
+      },
+      "artists": [
+        {
+          "name": "Gerina",
+          "url": "https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4"
+        }
+      ],
+      "date_added": "2024-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231810,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0mpNb4fxKsIfc5bgx6xG2d"
     },
     {
       "album": {

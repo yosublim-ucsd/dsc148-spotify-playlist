@@ -2,7 +2,7 @@
 
 ### [This Is Shemekia Copeland](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2I5NIp)
 
-> This is Shemekia Copeland\. The essential tracks, all in one playlist.
+> This is Shemekia Copeland。アーティストの代表曲をひとつのプレイリストに。
 
 84 songs - 5 hr 50 min
 

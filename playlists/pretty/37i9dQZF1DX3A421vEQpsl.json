@@ -1,6 +1,6 @@
 {
   "description": "Hits, repackaged by Bollywood. Cover - Badrinath Ki Dulhania",
-  "num_followers": 193551,
+  "num_followers": 193657,
   "original_name": "Bollywood 2.O",
   "owner": {
     "name": "Spotify",
@@ -204,12 +204,12 @@
       },
       "artists": [
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
           "name": "Mohammad Faiz",
           "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         }
       ],
       "duration_ms": 281511,

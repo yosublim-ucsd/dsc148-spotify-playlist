@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Kim Chi Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,997 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,000 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 16 | [Hôm Nay Anh Say](https://open.spotify.com/track/5r992YL8HbpcGOKDwvlOSQ) | [Khả Hiệp](https://open.spotify.com/artist/3Ess3HrOUbKlRvQoGA1xT7) | [Hôm Nay Anh Say](https://open.spotify.com/album/5vkQH7r7oO6PaDkz73Yqnv) | 4:56 |
 | 17 | [Mùa hoa 29](https://open.spotify.com/track/137D1WTFllGa2MkPnVZYxq) | [Minstu](https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw), [GRabbiX](https://open.spotify.com/artist/5DN3u3a6gUV3KdNbxUmZcU) | [Mùa hoa 29](https://open.spotify.com/album/7r0ppD5OiMbc5bqC9VbKAw) | 2:46 |
 | 18 | [Ai Mới Đổi Thay](https://open.spotify.com/track/1uN56CR9JyG29cv7yBnFC7) | [MAIQUINN](https://open.spotify.com/artist/7FPjP3Nh8flQNif6yDLCHe), [Khánh ĐaLa](https://open.spotify.com/artist/3spC37sc9zr9PMrJPeLNRI) | [Ai Mới Đổi Thay](https://open.spotify.com/album/4Tig1eUuSscfiJySCKgnbg) | 3:37 |
-| 19 | [Liều Thuốc](https://open.spotify.com/track/7JhLzH7oYHvCAxBXBp6GTZ) | [Wind](https://open.spotify.com/artist/2MLUcp8h4D38BrRYvryXgX), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Liều Thuốc](https://open.spotify.com/album/0FTY91aonlmsj7D2BNnlsm) | 4:16 |
+| 19 | [Liều Thuốc](https://open.spotify.com/track/7JhLzH7oYHvCAxBXBp6GTZ) | [Wind](https://open.spotify.com/artist/2jY3vP9eTXeU3UZnQFhNZb), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Liều Thuốc](https://open.spotify.com/album/0FTY91aonlmsj7D2BNnlsm) | 4:16 |
 | 20 | [Blaze Trail](https://open.spotify.com/track/3iFH8qqUgWQwSDRECRdgGz) | [Hustlang Heily](https://open.spotify.com/artist/0ABztwl5ApqMZOllFyaCmP), [Yung Mercci](https://open.spotify.com/artist/076a1CVAgzhsSc9g5ztqXU) | [Blaze Trail](https://open.spotify.com/album/1A64ATKhiCdlWu8YnrumSl) | 3:04 |
 | 21 | [thời gian ngưng đọng](https://open.spotify.com/track/5jBEdVN4uM5ddJ7jFoUvIO) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [vương](https://open.spotify.com/album/3GpwPqchy6hBlywdr73xKT) | 2:16 |
 | 22 | [Oh My Pretty](https://open.spotify.com/track/2JqzDQFFfXNk9GH0WO2Pbv) | [Y.U](https://open.spotify.com/artist/52t5rhbTjDor6rH44fwLEV) | [Oh My Pretty](https://open.spotify.com/album/3VQX10X4wkQaBL6FEu35i7) | 2:39 |

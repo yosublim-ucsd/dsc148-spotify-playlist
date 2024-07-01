@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,977 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,043 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 24 | [ICE AGE \(FEAT\. TRAVIS SCOTT\)](https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:38 |
 | 25 | [Paper Together \(feat\. UGK\)](https://open.spotify.com/track/4bfuT38XJterVJPPdKlneV) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:35 |
 | 26 | [SportsCenter](https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [SportsCenter](https://open.spotify.com/album/6JDj9XoiUTI8PfbvAX8K2W) | 2:23 |
-| 27 | [withdrawals \(feat\. Nettspend\)](https://open.spotify.com/track/2y6DnwKOTiWcbJbiIibryI) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [withdrawals \(feat\. Nettspend\)](https://open.spotify.com/album/1u8XbmT230qqv62bHWEdOA) | 2:17 |
+| 27 | [withdrawals](https://open.spotify.com/track/2y6DnwKOTiWcbJbiIibryI) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1), [Nettspend](https://open.spotify.com/artist/2QYQ6psnGpTgkxXA0CxWzY) | [withdrawals](https://open.spotify.com/album/1u8XbmT230qqv62bHWEdOA) | 2:17 |
 | 28 | [HILARIOUS \(feat\. Cochise\)](https://open.spotify.com/track/0hVzJm5oOVNp57EPcJ3IY6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HILARIOUS \(feat\. Cochise\)](https://open.spotify.com/album/2O3Ucp3isxbLXo87AQkmLl) | 2:11 |
 | 29 | [DONNY DARKO \(FEAT\. LIL UZI VERT\)](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 1:56 |
 | 30 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |

@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:0sD8Amms4kSxs5tBV4CUmR">Smokie Norful</a>
 
-365 songs - 22 hr 10 min
+366 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [More On The Way \(feat\. nobigdyl.\)](https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [More On The Way \(feat\. nobigdyl.\)](https://open.spotify.com/album/6sbOyBtYzDFuhFLfunI85F) | 3:14 | 2023-06-10 | 2024-02-03 |
 | [More Than Able \(feat\. Tasha Cobbs Leonard & Chandler Moore\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 | 2023-11-02 |  |
 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 | 2022-06-01 | 2023-12-16 |
-| [Mr\. McClure](https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Mr\. McClure](https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7) | 3:17 | 2023-07-13 |  |
+| [Mr\. McClure](https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Mr\. McClure](https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7) | 3:17 | 2023-07-13 | 2024-07-01 |
 | [My Banner](https://open.spotify.com/track/4zpbWsXvqzvDE7X9F36aJX) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [My Banner](https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w) | 3:20 | 2023-12-15 | 2024-02-03 |
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-07-13 |  |
 | [My Portion](https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [My Portion](https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C) | 4:10 | 2022-02-18 | 2022-06-01 |
@@ -331,6 +331,7 @@
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-11-02 |  |
 | [Ultimate Self](https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Ultimate Self](https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd) | 3:45 | 2022-12-16 | 2023-11-06 |
 | [Valley \- CalledOut Music Remix](https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf) | [DAYASOUL](https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Valley \(CalledOut Music Remix\)](https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp) | 3:07 | 2023-11-02 |  |
+| [Victory](https://open.spotify.com/track/7jyGhvfzTbwgYPCASt7jaG) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Victory](https://open.spotify.com/album/4dvGmw54RA0Jtx7eguOzmU) | 2:40 | 2024-06-07 |  |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-11-02 |  |
 | [Wade In The Water \- Live](https://open.spotify.com/track/1xcC0GKNgEWDjWxawt29Nl) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Wade In The Water](https://open.spotify.com/album/41ulKBEAa83QkPZC29LBnb) | 3:19 | 2022-02-18 | 2023-07-14 |
 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 | 2022-02-18 | 2022-06-01 |

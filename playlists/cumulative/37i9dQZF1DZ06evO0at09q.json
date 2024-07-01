@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 215625,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 230476,
       "name": "Problem",
       "url": "https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 295993,
       "name": "The Grind - Original Mix",
       "url": "https://open.spotify.com/track/52c6FLGHCN7gM51vMqU74B"
@@ -1560,6 +1560,24 @@
       "duration_ms": 230400,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/68aLmDjCRRm2J8IjKm30nN"
+    },
+    {
+      "album": {
+        "name": "Litterbox 08",
+        "url": "https://open.spotify.com/album/3H4XJ6Mpv3YgcYtX6CCMJJ"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368640,
+      "name": "Want It.",
+      "url": "https://open.spotify.com/track/60RyuJbnrTLuyVCZolzN9m"
     },
     {
       "album": {

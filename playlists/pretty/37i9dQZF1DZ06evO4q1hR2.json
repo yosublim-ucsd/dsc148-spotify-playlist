@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Coyote Y Su Banda Tierra Santa. Los temas esenciales, todos en una lista.",
-  "num_followers": 56730,
+  "description": "This is El Coyote Y Su Banda Tierra Santa. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 56761,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39AAAAAAB0y0UunpKM2vDSQPb18OWu",
+  "snapshot_id": "Zn9OgAAAAABk1GFiWztGeEncLRR5lDKN",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Culebras",
-        "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Las Culebras",
-      "url": "https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como una Huella Digital",
         "url": "https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 146533,
       "name": "Amargo Dolor",
       "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Culebras",
+        "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Las Culebras",
+      "url": "https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "Pase Y Pase",
-      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Decimo Aniversario",
         "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
       },
@@ -831,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK"
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
       "artists": [
         {
@@ -840,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Quiero Charlar Con La Muerte",
-      "url": "https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd"
+      "duration_ms": 149640,
+      "name": "Pase Y Pase",
+      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 181133,
       "name": "El Borrego",
       "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Quiero Charlar Con La Muerte",
+      "url": "https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd"
     },
     {
       "added_at": null,

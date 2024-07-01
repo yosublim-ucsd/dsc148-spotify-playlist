@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Rainy Days",
+        "url": "https://open.spotify.com/album/6yxLBvCcUNcqXxugpmv3s8"
+      },
+      "artists": [
+        {
+          "name": "Willow Drift",
+          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140601,
+      "name": "Alpine Rain",
+      "url": "https://open.spotify.com/track/0rrxVzdNLOykbdr9jCqEo1"
+    },
+    {
+      "album": {
         "name": "Ambience: Forest Rain",
         "url": "https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 134304,
       "name": "Countryside Rain",
       "url": "https://open.spotify.com/track/1q0zoEZMN5aMwMSZgW5eBA"

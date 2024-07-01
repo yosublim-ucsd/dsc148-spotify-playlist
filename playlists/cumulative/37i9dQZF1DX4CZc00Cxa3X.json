@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-01",
       "duration_ms": 405573,
       "name": "Album 4",
       "url": "https://open.spotify.com/track/2b1rIFVf5aZogxGoDAcEoL"
@@ -5484,6 +5484,24 @@
       "duration_ms": 107076,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i"
+    },
+    {
+      "album": {
+        "name": "Circular Sequence",
+        "url": "https://open.spotify.com/album/3QHq0fdsTeYfqNbpfpdpYE"
+      },
+      "artists": [
+        {
+          "name": "Nueen",
+          "url": "https://open.spotify.com/artist/1nYUDAZ2lx7tq2kkMLzomb"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Soft Air",
+      "url": "https://open.spotify.com/track/6jXBzO6c78812s7xtV8SBv"
     },
     {
       "album": {
