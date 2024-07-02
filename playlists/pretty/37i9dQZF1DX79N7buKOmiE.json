@@ -1,0 +1,842 @@
+{
+  "description": "Hallgass n\u0151i el\u0151ad\u00f3kat teljes hanger\u0151n. Az EQUAL nagyk\u00f6vet ajsa luna \u00e1ltal v\u00e1logatott lej\u00e1tsz\u00e1si lista",
+  "num_followers": 3226,
+  "original_name": "EQUAL Hungary",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "Zl+OYAAAAADWKtfuRxa7MxXN8ObsodEg",
+  "tracks": [
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "ILLEG*LIS PARTYK",
+        "url": "https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Illeg*lis party",
+      "url": "https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Kenji (I wish you were real)",
+        "url": "https://open.spotify.com/album/4l1D1tSI5kx88Ds7an8YlP"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 218689,
+      "name": "Kenji - I wish you were real",
+      "url": "https://open.spotify.com/track/3Ax37Bh8HKUT3SFW92Jw2O"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Szikra",
+        "url": "https://open.spotify.com/album/3tygKKl4rHty7EK3EjHY1b"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9terfy Bori & Love Band",
+          "url": "https://open.spotify.com/artist/1rRAJF3FBwQsGx4twrUqiC"
+        }
+      ],
+      "duration_ms": 202696,
+      "name": "Lula Luna",
+      "url": "https://open.spotify.com/track/6bdYoVmaL2abbkWC5i2iFx"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "doh\u00e1nyozni tilos",
+        "url": "https://open.spotify.com/album/3EmYyEQFaZUctscn4aqJEQ"
+      },
+      "artists": [
+        {
+          "name": "Irina",
+          "url": "https://open.spotify.com/artist/1m6kIE7wpQesVEH7GbWOhK"
+        }
+      ],
+      "duration_ms": 244166,
+      "name": "doh\u00e1nyozni tilos",
+      "url": "https://open.spotify.com/track/0TjEJMu6KcXFAKXQ9KUphx"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "T\u00e9bxlykering\u0151",
+        "url": "https://open.spotify.com/album/6mxU4iAFuLGZmIHJK7ERr0"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00ebri Luxio",
+          "url": "https://open.spotify.com/artist/759JnCIthxClKzuRDZ44VN"
+        }
+      ],
+      "duration_ms": 132770,
+      "name": "Kerozin",
+      "url": "https://open.spotify.com/track/64NgPlJnpP9cxOCMPXHzLL"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Rulett",
+        "url": "https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50"
+      },
+      "artists": [
+        {
+          "name": "OHNODY",
+          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Rulett",
+      "url": "https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "\u00dcveghegy",
+        "url": "https://open.spotify.com/album/33hN6YVkrEwynhud4KYfHf"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 179044,
+      "name": "\u00dcveghegy",
+      "url": "https://open.spotify.com/track/3lDRkW0J75dD1hYUjYi8Yu"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Tudom",
+        "url": "https://open.spotify.com/album/26ZSDQJYiRFlxxwmuqXsnb"
+      },
+      "artists": [
+        {
+          "name": "Brenka",
+          "url": "https://open.spotify.com/artist/4MmwQpDMe7vE4E0q4Va7PW"
+        }
+      ],
+      "duration_ms": 144631,
+      "name": "Tudom",
+      "url": "https://open.spotify.com/track/3iOyvbRFPQuQ5IOr1UPC6x"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Looking Down",
+        "url": "https://open.spotify.com/album/4CJTGoHXLCA9sgjxAtwFzV"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Looking Down",
+      "url": "https://open.spotify.com/track/7dLxHTTSIdK6AJIvcwEe3Z"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Pillang\u00f3k",
+        "url": "https://open.spotify.com/album/2guut43lUc02oM6vO0qiLh"
+      },
+      "artists": [
+        {
+          "name": "Honeybeast",
+          "url": "https://open.spotify.com/artist/5Gm4XviPByh3OTMI2tuzF7"
+        }
+      ],
+      "duration_ms": 174191,
+      "name": "Pillang\u00f3k",
+      "url": "https://open.spotify.com/track/4abhT0GhZJfRv0dAJBB8vq"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Az id\u0151 p\u00e9nz",
+        "url": "https://open.spotify.com/album/5SPRZ9X6KhK1jwchF9uWZp"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "duration_ms": 129991,
+      "name": "Az id\u0151 p\u00e9nz",
+      "url": "https://open.spotify.com/track/4I2PnPHXFLlnFOEfwHShkq"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Filter (Live)",
+        "url": "https://open.spotify.com/album/7AQHIosG8cefQF3v9FVz21"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Filter - Live",
+      "url": "https://open.spotify.com/track/1N1pt4N0NaCSERyrfBrX6r"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "hate that i miss u",
+        "url": "https://open.spotify.com/album/3D3Brz3agjIoOJfWwCwFA0"
+      },
+      "artists": [
+        {
+          "name": "Anna Kornis",
+          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "hate that i miss u",
+      "url": "https://open.spotify.com/track/23jTtQL10GYJSZjdAZkR0h"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "L\u00e9gt\u00e9rk\u00e9p",
+        "url": "https://open.spotify.com/album/62sZfosmcfCIxI9YoJrwuI"
+      },
+      "artists": [
+        {
+          "name": "Pal\u00e1gyi Ildik\u00f3",
+          "url": "https://open.spotify.com/artist/2CHj75VtNTSuocCWTfC4S1"
+        }
+      ],
+      "duration_ms": 297281,
+      "name": "L\u00e9gt\u00e9rk\u00e9p",
+      "url": "https://open.spotify.com/track/4SW640ddaxfiziS7R3PtVN"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "ki tudja ez melyik ker\u00fclet (Szelektor 24)",
+        "url": "https://open.spotify.com/album/20cTAFRvxeqskxPnC5rfw3"
+      },
+      "artists": [
+        {
+          "name": "Irina",
+          "url": "https://open.spotify.com/artist/1m6kIE7wpQesVEH7GbWOhK"
+        }
+      ],
+      "duration_ms": 164255,
+      "name": "ki tudja ez melyik ker\u00fclet - Szelektor 24",
+      "url": "https://open.spotify.com/track/7yswYqgoWAHYUUUrIAR2HP"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Nem V\u00e1rt Idegen",
+        "url": "https://open.spotify.com/album/1KoNIGtewUAHO45GWMWeOT"
+      },
+      "artists": [
+        {
+          "name": "Amanna",
+          "url": "https://open.spotify.com/artist/54wEXl1f4JkIWqUdWOodxJ"
+        }
+      ],
+      "duration_ms": 196643,
+      "name": "Nem V\u00e1rt Idegen",
+      "url": "https://open.spotify.com/track/67xAYnNOlDXhYG4v9aeEgv"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "C\u00cdMKE VAGY",
+        "url": "https://open.spotify.com/album/4KJmN3J3J0NGv1NiworTvy"
+      },
+      "artists": [
+        {
+          "name": "Girl in the mirror",
+          "url": "https://open.spotify.com/artist/2mQTU8dOo4PEJF1stERHUe"
+        },
+        {
+          "name": "M3SY",
+          "url": "https://open.spotify.com/artist/3SFq8bzoAeoIn6SQjXHzcX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "C\u00cdMKE VAGY",
+      "url": "https://open.spotify.com/track/2ooAUXbg8qSqN4djnKl0SW"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Disposable",
+        "url": "https://open.spotify.com/album/7KFXhLvqJpCuFamoGXdZ59"
+      },
+      "artists": [
+        {
+          "name": "Borka Balogh",
+          "url": "https://open.spotify.com/artist/7JXmrlsQOhFo0hryd2F2xo"
+        }
+      ],
+      "duration_ms": 211712,
+      "name": "Disposable",
+      "url": "https://open.spotify.com/track/7ucZuHF5Ue77s6jq2FBPv7"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "M\u00e9g azt mondj\u00e1k",
+        "url": "https://open.spotify.com/album/7e3eoQ8dLITVd4EctVPAW8"
+      },
+      "artists": [
+        {
+          "name": "Liana",
+          "url": "https://open.spotify.com/artist/26MyuyMwyf5BjZPaygBl0a"
+        }
+      ],
+      "duration_ms": 213414,
+      "name": "M\u00e9g azt mondj\u00e1k",
+      "url": "https://open.spotify.com/track/6qMNPGFjlaj5G6uGqnM1kK"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "buda:'(pest [Szelektor 24]",
+        "url": "https://open.spotify.com/album/3T3m4SRE0ZU8pOosGffvA0"
+      },
+      "artists": [
+        {
+          "name": "Ani Maxima",
+          "url": "https://open.spotify.com/artist/6h50lx2GFUoPvgmCKLtqfj"
+        }
+      ],
+      "duration_ms": 125527,
+      "name": "buda:'(pest - Szelektor 24",
+      "url": "https://open.spotify.com/track/7hTq0KIwbk0ZAqwoFDtwoW"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Forog",
+        "url": "https://open.spotify.com/album/73KlujMAwF4fPAiKzmepto"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 97992,
+      "name": "Forog",
+      "url": "https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "So good",
+        "url": "https://open.spotify.com/album/2f6Xh472zBWmsKQQDj93bd"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "So good",
+      "url": "https://open.spotify.com/track/0Tjw1Ui47aFMwnMxweFGFV"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "K\u00edgy\u00f3",
+        "url": "https://open.spotify.com/album/2jLhGPCFmcxane4Qq5oQbd"
+      },
+      "artists": [
+        {
+          "name": "Malurid\u00e9",
+          "url": "https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "K\u00edgy\u00f3",
+      "url": "https://open.spotify.com/track/7sUi8ykmnax6Z4S47M0z0S"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Od\u00fa",
+        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 210005,
+      "name": "Od\u00fa",
+      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2NvZ0nhwIepC3A0XodneP6"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9Anne",
+          "url": "https://open.spotify.com/artist/6SHfEXgNp8SlpMOsg26JvH"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7nyA6tPueYZDKqyeTpxL2k"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Rubin",
+        "url": "https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
+        }
+      ],
+      "duration_ms": 184238,
+      "name": "Gond",
+      "url": "https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Minden leveg\u0151v\u00e9tellel \u00fajra megsz\u00fclet\u00fcnk",
+        "url": "https://open.spotify.com/album/0ka8R5kWCdHE3awQ1AS5Qh"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Nem megyek \u00e9n sehova",
+      "url": "https://open.spotify.com/track/5wzGNvW8u0XopvK9QQcPcP"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "S\u00f6t\u00e9t vill\u00e1m",
+        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Nem volt \u00fagy m\u00e9g",
+      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Az \u00c9n Sz\u00edvem",
+        "url": "https://open.spotify.com/album/6ZxCwMqJrv3v3KHYZ6PzaI"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Bab\u00e1m",
+      "url": "https://open.spotify.com/track/2pDC7xMkbVDjAxclZVkMe2"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "'13",
+        "url": "https://open.spotify.com/album/3fRMFPhsOGtbgNze0R0rAv"
+      },
+      "artists": [
+        {
+          "name": "Karola",
+          "url": "https://open.spotify.com/artist/5zm8RkAvafvF2A6c5tdzXi"
+        },
+        {
+          "name": "Valter",
+          "url": "https://open.spotify.com/artist/3g7HTvu3GHHLLFxF1B9Esy"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Hiba",
+      "url": "https://open.spotify.com/track/6QHeKaA91AW1svaYMfdVwq"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Tavasz",
+        "url": "https://open.spotify.com/album/1mhDRenKBo8bmfVHNXCO7l"
+      },
+      "artists": [
+        {
+          "name": "Friderika",
+          "url": "https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Tavasz",
+      "url": "https://open.spotify.com/track/5xB9X4cSH9mko4iSJ1Z1AH"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Zavar",
+        "url": "https://open.spotify.com/album/06vjC95WN9GPWdaHsbnKaT"
+      },
+      "artists": [
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
+        }
+      ],
+      "duration_ms": 177039,
+      "name": "Zavar",
+      "url": "https://open.spotify.com/track/7dm2yr6YRLS4lkJwZA7Rad"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/76SvDGe68sXk9nP9xr1O8f"
+      },
+      "artists": [
+        {
+          "name": "Claudia Balla",
+          "url": "https://open.spotify.com/artist/4ZiDM1wYPCnsZzb8bNo7yK"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/4i7uB7T0MyfbnDOvO2NCgF"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Ny\u00e1ri Viharban",
+        "url": "https://open.spotify.com/album/7no0QyCNBLx636q1mbLm2y"
+      },
+      "artists": [
+        {
+          "name": "Ildik\u00f3 Barta",
+          "url": "https://open.spotify.com/artist/0PceOedTeHRcQGDyB7CmGo"
+        }
+      ],
+      "duration_ms": 182124,
+      "name": "Ny\u00e1ri Viharban",
+      "url": "https://open.spotify.com/track/0FosV6UlKOiwG9oul2mAXR"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3wdYV81jqIngiCrhcBDCzR"
+      },
+      "artists": [
+        {
+          "name": "Szer\u00e9mi Rebeka",
+          "url": "https://open.spotify.com/artist/2AGQum4NVQNIIcybDfDxFP"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Leave you like this",
+      "url": "https://open.spotify.com/track/52uPOZtinELjG1T0pbjefz"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Nikotin",
+        "url": "https://open.spotify.com/album/5HIeFSP3v6jhWEl5uLs4t5"
+      },
+      "artists": [
+        {
+          "name": "Mih\u00e1lyfi Luca",
+          "url": "https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Nikotin",
+      "url": "https://open.spotify.com/track/01aCI0XatGFDWxiOTQ0wLl"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6ycOUo8MnYRhX1jOLDCARG"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6nWYv7FQBsbWlv6Mf8G7Nd"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "TR Album",
+        "url": "https://open.spotify.com/album/2qdmEYhokTMuLa75T9daGG"
+      },
+      "artists": [
+        {
+          "name": "Tolvai Reni",
+          "url": "https://open.spotify.com/artist/1o3h9A8UXmaPyz7nEXdJD4"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "\u00daj Reni",
+      "url": "https://open.spotify.com/track/6XJQIFP1uDTCnDBKSJz3Ie"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "The Worst Thing",
+        "url": "https://open.spotify.com/album/2xfdFJpzvMK9fFvVWKHqLs"
+      },
+      "artists": [
+        {
+          "name": "Claudia Balla",
+          "url": "https://open.spotify.com/artist/4ZiDM1wYPCnsZzb8bNo7yK"
+        }
+      ],
+      "duration_ms": 190655,
+      "name": "The Worst Thing",
+      "url": "https://open.spotify.com/track/3LvrZCROLSkPLR6yeXn8oi"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Sz\u00f6rny vagyok",
+        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Sz\u00f6rny vagyok",
+      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Embernek maradni",
+        "url": "https://open.spotify.com/album/2cAbAGxAizVRNeOxIoa8pu"
+      },
+      "artists": [
+        {
+          "name": "Friderika",
+          "url": "https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Embernek maradni",
+      "url": "https://open.spotify.com/track/6ssiErojPiIvggWhPDcQea"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Titokban",
+        "url": "https://open.spotify.com/album/7pZOzXwkpI6nzDHqEL7Ci4"
+      },
+      "artists": [
+        {
+          "name": "Liana",
+          "url": "https://open.spotify.com/artist/26MyuyMwyf5BjZPaygBl0a"
+        }
+      ],
+      "duration_ms": 177785,
+      "name": "Titokban",
+      "url": "https://open.spotify.com/track/66Y5FeMvNRAAMGtcMcTDQX"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Egy \u00f6lel\u00e9s a vil\u00e1g",
+        "url": "https://open.spotify.com/album/5nemA7YPV1DtZI9xCXayEg"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e9da",
+          "url": "https://open.spotify.com/artist/4CqxabZ2gSzwh36ttI2tHg"
+        },
+        {
+          "name": "Dolhai Attila",
+          "url": "https://open.spotify.com/artist/3R3nMZ1TtCAxgun9ft0BNv"
+        }
+      ],
+      "duration_ms": 216457,
+      "name": "Egy \u00f6lel\u00e9s a vil\u00e1g",
+      "url": "https://open.spotify.com/track/0DomUrKdWGEmYiMJxvCiBp"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cloudy Skies",
+        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "duration_ms": 253171,
+      "name": "Cloudy Skies",
+      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "M\u00e9z",
+        "url": "https://open.spotify.com/album/68LZibuIcfCnlY0HCK1xl4"
+      },
+      "artists": [
+        {
+          "name": "Koll\u00e1r Dea",
+          "url": "https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v"
+        }
+      ],
+      "duration_ms": 236363,
+      "name": "M\u00e9z",
+      "url": "https://open.spotify.com/track/1hXjiVuSCp48ki0iA4G0Dz"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "1. 2. 3 \u2026 Start - \u00daj Hull\u00e1m",
+        "url": "https://open.spotify.com/album/0bNMznOy82QPyl6axDEn0Y"
+      },
+      "artists": [
+        {
+          "name": "Trabant",
+          "url": "https://open.spotify.com/artist/7KLuhUCzlMjAga8h0n55aK"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "Tang\u00f3 - Itt van pedig senki se h\u00edvta - Ragaszthatatlan sz\u00edv",
+      "url": "https://open.spotify.com/track/2e31yajh5iiJmOMZUyuCPO"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/6Sqo5ZnuRpgXlOw4yzAL8l"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 125374,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/5TrS68zEIgprjsc8k9jje4"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Rendetlens\u00e9g remekm\u0171ve",
+        "url": "https://open.spotify.com/album/4DPyaihwZ6lkKbcIKaO2rx"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 140434,
+      "name": "Halkan dobban a sz\u00edv",
+      "url": "https://open.spotify.com/track/0XX82mHq1r8QPhv9arrDRX"
+    }
+  ],
+  "unique_name": "EQUAL Hungary",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX79N7buKOmiE"
+}

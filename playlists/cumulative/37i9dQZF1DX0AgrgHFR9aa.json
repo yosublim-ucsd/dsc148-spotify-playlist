@@ -1,0 +1,840 @@
+{
+  "date_first_scraped": "2024-07-02",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Lacrim",
+  "name": "Lyricistes",
+  "tracks": [
+    {
+      "album": {
+        "name": "10h du mat'",
+        "url": "https://open.spotify.com/album/0sp22JJLnrGFIPILQtBxzG"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200296,
+      "name": "10h du mat'",
+      "url": "https://open.spotify.com/track/1haWmfk43cAfj6M4O3t7NY"
+    },
+    {
+      "album": {
+        "name": "3 lettres",
+        "url": "https://open.spotify.com/album/4eDbnyT6vcIBAC5HHfkTdX"
+      },
+      "artists": [
+        {
+          "name": "Will LCK",
+          "url": "https://open.spotify.com/artist/1AOmxLQB5Drdf3Yf4NiTzm"
+        },
+        {
+          "name": "Kanaye",
+          "url": "https://open.spotify.com/artist/09mEAA5fI8YLTd2uIliz1X"
+        },
+        {
+          "name": "Mehsah",
+          "url": "https://open.spotify.com/artist/7Ggd4PYENVbfzd9tWC2TN5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185033,
+      "name": "3 lettres",
+      "url": "https://open.spotify.com/track/18AgQ8ntZmrEe7ENxrAnhP"
+    },
+    {
+      "album": {
+        "name": "7 VIES (feat. Sofiane Pamart) [Bonus]",
+        "url": "https://open.spotify.com/album/7n7B2br4veokMC1M7mVutH"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273539,
+      "name": "7 VIES (feat. Sofiane Pamart) - Bonus",
+      "url": "https://open.spotify.com/track/3Hh3hbbgmDnSbr8kYuvx98"
+    },
+    {
+      "album": {
+        "name": "93\u00b0 FAHRENHEIT",
+        "url": "https://open.spotify.com/album/5zEqaT3rnoYwmzahYXNbtb"
+      },
+      "artists": [
+        {
+          "name": "Skary",
+          "url": "https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP"
+        },
+        {
+          "name": "Wysko",
+          "url": "https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy"
+        },
+        {
+          "name": "Limsa d'Aulnay",
+          "url": "https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "93\u00b0 FAHRENHEIT",
+      "url": "https://open.spotify.com/track/0BKWziIDMgFsRzQ8d9DpdU"
+    },
+    {
+      "album": {
+        "name": "Alain",
+        "url": "https://open.spotify.com/album/1EW4m0Hyks4GIitJfFwBFr"
+      },
+      "artists": [
+        {
+          "name": "Kemmler",
+          "url": "https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Alain",
+      "url": "https://open.spotify.com/track/0ddKHPkFBKA2UqIQu9YMcj"
+    },
+    {
+      "album": {
+        "name": "Anomalie",
+        "url": "https://open.spotify.com/album/1H6RDsIjlGZliLI078xLsd"
+      },
+      "artists": [
+        {
+          "name": "Heykel",
+          "url": "https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437453,
+      "name": "Anomalie",
+      "url": "https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG"
+    },
+    {
+      "album": {
+        "name": "Avec des mots",
+        "url": "https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu"
+      },
+      "artists": [
+        {
+          "name": "Davodka",
+          "url": "https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn"
+        },
+        {
+          "name": "Sinik",
+          "url": "https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192847,
+      "name": "Avec des mots",
+      "url": "https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ"
+    },
+    {
+      "album": {
+        "name": "LE HORLA",
+        "url": "https://open.spotify.com/album/0zzkrEonDjv3ZVSSek36I4"
+      },
+      "artists": [
+        {
+          "name": "Skary",
+          "url": "https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP"
+        },
+        {
+          "name": "Wysko",
+          "url": "https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy"
+        },
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193944,
+      "name": "B\u00c2TEAU DANS LE CIEL",
+      "url": "https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV"
+    },
+    {
+      "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "album": {
+        "name": "CERCLE FERM\u00c9 - SOS FREESTYLE",
+        "url": "https://open.spotify.com/album/2RdrOCuQna46cYGiKntWFP"
+      },
+      "artists": [
+        {
+          "name": "Selug",
+          "url": "https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi"
+        },
+        {
+          "name": "$enar",
+          "url": "https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114645,
+      "name": "CERCLE FERM\u00c9 - SOS FREESTYLE",
+      "url": "https://open.spotify.com/track/5rhwgQSglUardhzznwgHTw"
+    },
+    {
+      "album": {
+        "name": "J.000.$",
+        "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Cohiba",
+      "url": "https://open.spotify.com/track/7e5vYAwLS9rNuPnUHDXgSJ"
+    },
+    {
+      "album": {
+        "name": "Freestyle 5min #13",
+        "url": "https://open.spotify.com/album/5udVZsakxGZH3H2q3di9bw"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342524,
+      "name": "Freestyle 5min #13",
+      "url": "https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ"
+    },
+    {
+      "album": {
+        "name": "Go 2",
+        "url": "https://open.spotify.com/album/14GK1DuuNYOBJoSqNswsO0"
+      },
+      "artists": [
+        {
+          "name": "LE RISQUE",
+          "url": "https://open.spotify.com/artist/6vYIofTPb6utQIovHOFyG3"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178210,
+      "name": "Go 2",
+      "url": "https://open.spotify.com/track/0Hean3R0bokh8MFJyelfUC"
+    },
+    {
+      "album": {
+        "name": "Hakim",
+        "url": "https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        },
+        {
+          "name": "YL",
+          "url": "https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165191,
+      "name": "Hakim",
+      "url": "https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0"
+    },
+    {
+      "album": {
+        "name": "IN PARIS",
+        "url": "https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118535,
+      "name": "IN PARIS",
+      "url": "https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv"
+    },
+    {
+      "album": {
+        "name": "Mode Op\u00e9ratoire, vol. 1",
+        "url": "https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199546,
+      "name": "Kayano",
+      "url": "https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t"
+    },
+    {
+      "album": {
+        "name": "Particule \u00e9l\u00e9mentaire",
+        "url": "https://open.spotify.com/album/7regmM3e5xX9iggFNBT7Zb"
+      },
+      "artists": [
+        {
+          "name": "Heykel",
+          "url": "https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210279,
+      "name": "L'empreinte de ma plume",
+      "url": "https://open.spotify.com/track/5CNQCPvV0OX3QEu9Wly9NN"
+    },
+    {
+      "album": {
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "La Cour des Miracles",
+      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
+    },
+    {
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g"
+    },
+    {
+      "album": {
+        "name": "La v\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/37HItjP0niHY1s2WTBZL9S"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9my",
+          "url": "https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287395,
+      "name": "La v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/6Xi05MZvsGTf8DIWRKAkkX"
+    },
+    {
+      "album": {
+        "name": "le bus - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c"
+      },
+      "artists": [
+        {
+          "name": "Wallace Cleaver",
+          "url": "https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "le bus - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg"
+    },
+    {
+      "album": {
+        "name": "DIEU MERCI ENCORE (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/16Iu3mwSRNqzlZybmEcmfC"
+      },
+      "artists": [
+        {
+          "name": "Relo",
+          "url": "https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        },
+        {
+          "name": "Shurik\u2019n",
+          "url": "https://open.spotify.com/artist/6ebsq9T5h3pAg6ejkvNICv"
+        },
+        {
+          "name": "Deejay Venum",
+          "url": "https://open.spotify.com/artist/6Lcm5R00ALAwcWmvjhA71g"
+        },
+        {
+          "name": "Sako (Chiens de Paille)",
+          "url": "https://open.spotify.com/artist/5xOnfbs4fCxdmplzc4dd9J"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294648,
+      "name": "LE NOM DU P\u00c8RE",
+      "url": "https://open.spotify.com/track/4DbosJ6sBVGSjDNlUqB1se"
+    },
+    {
+      "album": {
+        "name": "Bitume Caviar (Vol.1)",
+        "url": "https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo"
+        },
+        {
+          "name": "Limsa d'Aulnay",
+          "url": "https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161479,
+      "name": "Le plan B",
+      "url": "https://open.spotify.com/track/2fLtZwOTINAaYP6bJefpUX"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149120,
+      "name": "Ledger (feat. PLK)",
+      "url": "https://open.spotify.com/track/01EyucDcdBiixZdeGkmXmz"
+    },
+    {
+      "album": {
+        "name": "PS: J'\u00e9cris l'album",
+        "url": "https://open.spotify.com/album/0obgTAkC3EABdA9KoJnZD1"
+      },
+      "artists": [
+        {
+          "name": "Eesah Yasuke",
+          "url": "https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259579,
+      "name": "Les vivants qui s'enterrent",
+      "url": "https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8"
+    },
+    {
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j"
+      },
+      "artists": [
+        {
+          "name": "IZAID",
+          "url": "https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9"
+    },
+    {
+      "album": {
+        "name": "No Choice",
+        "url": "https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        },
+        {
+          "name": "Le Shoush",
+          "url": "https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142628,
+      "name": "No Choice",
+      "url": "https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX"
+    },
+    {
+      "album": {
+        "name": "Okocha",
+        "url": "https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC"
+      },
+      "artists": [
+        {
+          "name": "Kerou\u00e9",
+          "url": "https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8"
+        },
+        {
+          "name": "JeanJass",
+          "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146703,
+      "name": "Okocha",
+      "url": "https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq"
+    },
+    {
+      "album": {
+        "name": "Plus fort que l'orage",
+        "url": "https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150399,
+      "name": "Plus fort",
+      "url": "https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E"
+    },
+    {
+      "album": {
+        "name": "BLACK CODE TOME 4",
+        "url": "https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji"
+      },
+      "artists": [
+        {
+          "name": "Falcko",
+          "url": "https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160631,
+      "name": "Psychose",
+      "url": "https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z"
+    },
+    {
+      "album": {
+        "name": "Rebellion",
+        "url": "https://open.spotify.com/album/3mivoTyPvqrpKCcRpAYuK9"
+      },
+      "artists": [
+        {
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145013,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5dH1lt1jGXz8kk4V7ywrT0"
+      },
+      "artists": [
+        {
+          "name": "Austin.",
+          "url": "https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG"
+        },
+        {
+          "name": "Almara",
+          "url": "https://open.spotify.com/artist/1aicMxzdKTNAQhF4jt2b8H"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/45QhuHaA1uDkBfLlRXAvgB"
+    },
+    {
+      "album": {
+        "name": "Ivresse des profondeurs",
+        "url": "https://open.spotify.com/album/7vygsCyNB7x683jqWfDBrI"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294133,
+      "name": "Retours dans les abysses",
+      "url": "https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB"
+    },
+    {
+      "album": {
+        "name": "ROSE (MILKTAPE)",
+        "url": "https://open.spotify.com/album/6gUXAxsd4VXyA64ndb9D9q"
+      },
+      "artists": [
+        {
+          "name": "Hobiwan",
+          "url": "https://open.spotify.com/artist/4lg0P1vyhTD3l4g7JGZ3ui"
+        },
+        {
+          "name": "MILK",
+          "url": "https://open.spotify.com/artist/4MRxeXBlpO1Z5D57c0GymF"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145568,
+      "name": "ROSE (MILKTAPE)",
+      "url": "https://open.spotify.com/track/4bCqWgUfw5muaci4ZN4HZc"
+    },
+    {
+      "album": {
+        "name": "Trap House",
+        "url": "https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Alpha Wann",
+          "url": "https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178574,
+      "name": "Trap House",
+      "url": "https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9"
+    },
+    {
+      "album": {
+        "name": "Une fois ou deux",
+        "url": "https://open.spotify.com/album/0TkgjvxCimgBWYE8vEHtBA"
+      },
+      "artists": [
+        {
+          "name": "Civil",
+          "url": "https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177021,
+      "name": "Une fois ou deux",
+      "url": "https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd"
+    },
+    {
+      "album": {
+        "name": "Dose h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq"
+      },
+      "artists": [
+        {
+          "name": "Caballero",
+          "url": "https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7"
+        },
+        {
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "Vernissage",
+      "url": "https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf"
+    },
+    {
+      "album": {
+        "name": "V\u00e9rit\u00e9 7",
+        "url": "https://open.spotify.com/album/0LlqvuC4mIyal7gFaqifH1"
+      },
+      "artists": [
+        {
+          "name": "ISK",
+          "url": "https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354869,
+      "name": "V\u00e9rit\u00e9 7",
+      "url": "https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB"
+    },
+    {
+      "album": {
+        "name": "Cesium",
+        "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341560,
+      "name": "\u00c0 La Faveur De L'automne",
+      "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
+    },
+    {
+      "album": {
+        "name": "Dire je t'aime",
+        "url": "https://open.spotify.com/album/0UmPcapIPeSln1hGyKL3jb"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "B.B. Jacques",
+          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184361,
+      "name": "\u00c9toiles et satellites",
+      "url": "https://open.spotify.com/track/4rIuseQQZbyvOzkTOJL4Ul"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa"
+}

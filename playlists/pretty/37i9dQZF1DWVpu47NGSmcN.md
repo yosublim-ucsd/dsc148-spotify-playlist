@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain](/playlists/plain/37i9dQZF1DWVpu47NGSmcN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVpu47NGSmcN)
+
+### [EQUAL Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWVpu47NGSmcN)
+
+> Jejeran artis perempuan inspiratif Indonesia\. Cover: Nabila Taqiyyah
+
+[Spotify](https://open.spotify.com/user/spotify) - 39,222 likes - 50 songs - 3 hr 12 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
+| 2 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 |
+| 3 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
+| 4 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 |
+| 5 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 |
+| 6 | [Kini Mereka Tahu](https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kini Mereka Tahu](https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv) | 4:44 |
+| 7 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
+| 8 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
+| 9 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
+| 10 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
+| 11 | [The Girl That I Used To Be](https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [The Girl That I Used To Be](https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332) | 3:11 |
+| 12 | [Same Old Stories](https://open.spotify.com/track/729GfdkSXthv08jDW4yg0o) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:35 |
+| 13 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 |
+| 14 | [Semoga, Selamanya.](https://open.spotify.com/track/7jgm3QUDrLiaYLQv1VHMXy) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Semoga, Selamanya.](https://open.spotify.com/album/1NnHgn9Xx8pgIwV4FT0jtW) | 3:46 |
+| 15 | [Tarian Pembantai](https://open.spotify.com/track/4cO6paTmfs8RamVyROWn8D) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Dunia Tetap Berputar Meskipun Aku Tertidur](https://open.spotify.com/album/44oL1mqGI2v4JwraqLQQBb) | 4:27 |
+| 16 | [Pisah Baik\-Baik](https://open.spotify.com/track/57ALt7I6PfsbIstHr2C8SW) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Pisah Baik\-Baik](https://open.spotify.com/album/26vm4ZZTKZljlzYhHO5bmg) | 3:22 |
+| 17 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
+| 18 | [Katakanlah](https://open.spotify.com/track/2amvo8crQG0NXuDyb4oufo) | [Maira](https://open.spotify.com/artist/575IqK1Km1I86w0e3OzVAL) | [Katakanlah](https://open.spotify.com/album/5wuapuSpdDsAqDrxmPtHzz) | 3:19 |
+| 19 | [Kau Ada](https://open.spotify.com/track/1CQIzDAWvawFRHm6b13pc4) | [Titik Hamzah](https://open.spotify.com/artist/4mg24v8BP717RVt23a9MBk) | [Kau Ada](https://open.spotify.com/album/5mAsKHMgb00BHVwO63JqyP) | 4:02 |
+| 20 | [Badut](https://open.spotify.com/track/7o12WO9nt0euUwWxFmF0JR) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Badut](https://open.spotify.com/album/6YNeGarkB0E3QtPOUa8Vmi) | 4:18 |
+| 21 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 |
+| 22 | [Tak Cukup Baik](https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Tak Cukup Baik](https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe) | 4:14 |
+| 23 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 |
+| 24 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
+| 25 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 |
+| 26 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 27 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 |
+| 28 | [Tak Bisa Gantikannya](https://open.spotify.com/track/2capksSt7xLrddoOSNAeZU) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Tak Bisa Gantikannya](https://open.spotify.com/album/6k1JwNqnKcZTbcYSYIKbHZ) | 4:07 |
+| 29 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
+| 30 | [Nikmati Perjalanannya](https://open.spotify.com/track/7GEct8saqLf7ldt1g2HRTA) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Nikmati Perjalanannya](https://open.spotify.com/album/5oAaVT1eCNMDDDECL2dxHd) | 3:21 |
+| 31 | [Neptune](https://open.spotify.com/track/0mvL8pk8TMTM5wNCNdHfGN) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [Neptune](https://open.spotify.com/album/0UiQsTwNUPQXZUMokedfkF) | 4:23 |
+| 32 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 |
+| 33 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 |
+| 34 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 |
+| 35 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
+| 36 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 |
+| 37 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 |
+| 38 | [Terima Kasih Sudah Bertahan](https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 4:15 |
+| 39 | [Waktunya Sendiri](https://open.spotify.com/track/5XmrCaFEvjgf2dbTpW2697) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Jangan Sampai Pasrah](https://open.spotify.com/album/2Pg6WSInKX2n84hA7Hqw4i) | 4:18 |
+| 40 | [Tak Semanis Dulu](https://open.spotify.com/track/0BadwcjiLlFYPl04GnwtnL) | [Maira](https://open.spotify.com/artist/575IqK1Km1I86w0e3OzVAL) | [Tak Semanis Dulu](https://open.spotify.com/album/7poVuWQWjPhFShrQtx3ITb) | 3:48 |
+| 41 | [Telat Cemburu](https://open.spotify.com/track/1u9pDLLKMz9S2ZdCIEAeTk) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Telat Cemburu](https://open.spotify.com/album/3EHqNyAUL8eRx2lZpGWqdk) | 3:19 |
+| 42 | [Myself](https://open.spotify.com/track/5uSNWAnsHvXnRZOM3uGz8g) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Myself](https://open.spotify.com/album/4v3rgXtalrcPHrYD6I3bMv) | 4:05 |
+| 43 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 |
+| 44 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 |
+| 45 | [Seribu Pelukan](https://open.spotify.com/track/1hJTAqeobG7hQEavj8PUjO) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Seribu Pelukan](https://open.spotify.com/album/2l6X7rCdAjVmUG0KzbfhEW) | 3:53 |
+| 46 | [Siap Terluka](https://open.spotify.com/track/3gWg8FX1McOSBKxyk3BuZc) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Siap Terluka](https://open.spotify.com/album/6PMhx2uEfmSq7cz4a7z70X) | 4:21 |
+| 47 | [Dan, Jika …](https://open.spotify.com/track/4RSFk0p546HJiYJmyrjQiC) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Dunia Tetap Berputar Meskipun Aku Tertidur](https://open.spotify.com/album/44oL1mqGI2v4JwraqLQQBb) | 3:55 |
+| 48 | [23 \(Too Deep, Too Much\)](https://open.spotify.com/track/31fAGtmvKBM2e86zzWtd5g) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [23 \(Too Deep, Too Much\)](https://open.spotify.com/album/3LKZjzbsogFZhhlFskYZQH) | 4:23 |
+| 49 | [Geletar](https://open.spotify.com/track/1OmWeCY5SkqqTFngMy7Olu) | [Titik Hamzah](https://open.spotify.com/artist/4mg24v8BP717RVt23a9MBk) | [Geletar](https://open.spotify.com/album/5SZMvW9w3BRaTVIepV7Ti0) | 3:40 |
+| 50 | [Bertahan Hati](https://open.spotify.com/track/3G4ohJ0PWOqVJ6eYyg9UaG) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7), [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Bertahan Hati](https://open.spotify.com/album/70eDzNiPSeiYvNZWUXJw5V) | 4:21 |
+
+Snapshot ID: `Zl9IEAAAAABuq9oyNWIiVWblArlsrpNx`

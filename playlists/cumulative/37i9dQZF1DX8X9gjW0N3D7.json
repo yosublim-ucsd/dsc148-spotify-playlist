@@ -1,0 +1,1418 @@
+{
+  "date_first_scraped": "2024-07-02",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: 2Fr\u00e8res",
+  "name": "Qu\u00e9b\u00e9cois Contemporain",
+  "tracks": [
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "48H",
+      "url": "https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6ZwPudhybQm5ApJ5glLmQx"
+      },
+      "artists": [
+        {
+          "name": "Zoo Baby",
+          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+        },
+        {
+          "name": "Julia Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165999,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1pJdV1Whbpj1yCtv68uMua"
+    },
+    {
+      "album": {
+        "name": "Balle Courbe",
+        "url": "https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Balle Courbe",
+      "url": "https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9cho des perles",
+        "url": "https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191663,
+      "name": "Beaux",
+      "url": "https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa"
+    },
+    {
+      "album": {
+        "name": "Ma main au feu - ACTE I",
+        "url": "https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Proulx-Cloutier",
+          "url": "https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307133,
+      "name": "Besoin de bras",
+      "url": "https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA"
+    },
+    {
+      "album": {
+        "name": "Leela",
+        "url": "https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi"
+      },
+      "artists": [
+        {
+          "name": "Fuso",
+          "url": "https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh"
+        },
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157863,
+      "name": "C'est comme \u00e7a",
+      "url": "https://open.spotify.com/track/3rDAYokpKb7ImopqqFP41N"
+    },
+    {
+      "album": {
+        "name": "C'est pire et c'est mieux",
+        "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        },
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196572,
+      "name": "C'est pire et c'est mieux",
+      "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
+    },
+    {
+      "album": {
+        "name": "C'\u00e9tait salement romantique (Reprise)",
+        "url": "https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188997,
+      "name": "C'\u00e9tait salement romantique - Reprise",
+      "url": "https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p"
+    },
+    {
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207403,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q"
+    },
+    {
+      "album": {
+        "name": "Chasing Sunsets (V.F)",
+        "url": "https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu"
+      },
+      "artists": [
+        {
+          "name": "Blue Ridge Band",
+          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "Chasing Sunsets (V.F)",
+      "url": "https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve"
+    },
+    {
+      "album": {
+        "name": "Comme Avant",
+        "url": "https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146752,
+      "name": "Comme Avant",
+      "url": "https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV"
+    },
+    {
+      "album": {
+        "name": "dans le silence",
+        "url": "https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo"
+      },
+      "artists": [
+        {
+          "name": "benjamiin",
+          "url": "https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "dans le silence",
+      "url": "https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G"
+    },
+    {
+      "album": {
+        "name": "Dans les marguerites",
+        "url": "https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        },
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220375,
+      "name": "Dans les marguerites",
+      "url": "https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm"
+    },
+    {
+      "album": {
+        "name": "Danser la nuit",
+        "url": "https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB"
+      },
+      "artists": [
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132449,
+      "name": "Danser la nuit",
+      "url": "https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K"
+    },
+    {
+      "album": {
+        "name": "Derri\u00e8re le jour",
+        "url": "https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Derri\u00e8re le jour",
+      "url": "https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l"
+    },
+    {
+      "album": {
+        "name": "Ensemble (Radio Edit)",
+        "url": "https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ensemble - Radio Edit",
+      "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
+    },
+    {
+      "album": {
+        "name": "Huby boy",
+        "url": "https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137671,
+      "name": "Huby boy",
+      "url": "https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg"
+    },
+    {
+      "album": {
+        "name": "I Lost My Baby",
+        "url": "https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133721,
+      "name": "I Lost My Baby",
+      "url": "https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw"
+    },
+    {
+      "album": {
+        "name": "Royaume",
+        "url": "https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL"
+    },
+    {
+      "album": {
+        "name": "Il faut que je migre",
+        "url": "https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em"
+      },
+      "artists": [
+        {
+          "name": "Ir\u00e8ne",
+          "url": "https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Il faut que je migre",
+      "url": "https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p"
+    },
+    {
+      "album": {
+        "name": "J'ai beau essayer mais \u00e7a s'passe moyen",
+        "url": "https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT"
+      },
+      "artists": [
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172646,
+      "name": "J'ai beau essayer mais \u00e7a s'passe moyen",
+      "url": "https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv"
+    },
+    {
+      "album": {
+        "name": "Etienne Dufresne fait des efforts",
+        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "J'fais des efforts",
+      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "album": {
+        "name": "Le ciel est beau regarde les nuages",
+        "url": "https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81"
+      },
+      "artists": [
+        {
+          "name": "Laurence Nerbonne",
+          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175528,
+      "name": "Je ne sais quoi",
+      "url": "https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA"
+    },
+    {
+      "album": {
+        "name": "Je te dirai tout",
+        "url": "https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Cossette",
+          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Je te dirai tout",
+      "url": "https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK"
+    },
+    {
+      "album": {
+        "name": "Jouer pour jouer",
+        "url": "https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq"
+      },
+      "artists": [
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191065,
+      "name": "Jouer pour jouer",
+      "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
+    },
+    {
+      "album": {
+        "name": "Pub Royal",
+        "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436524,
+      "name": "La fin du show",
+      "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
+    },
+    {
+      "album": {
+        "name": "La f\u00eate (Radio Edit)",
+        "url": "https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9onore Lagac\u00e9",
+          "url": "https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "La f\u00eate - Radio Edit",
+      "url": "https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2"
+    },
+    {
+      "album": {
+        "name": "La libert\u00e9 (c'est de suivre le plan)",
+        "url": "https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ"
+      },
+      "artists": [
+        {
+          "name": "Tire Le Coyote",
+          "url": "https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "La libert\u00e9 (c'est de suivre le plan)",
+      "url": "https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE"
+    },
+    {
+      "album": {
+        "name": "Traits d'union",
+        "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "La protagoniste",
+      "url": "https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA"
+    },
+    {
+      "album": {
+        "name": "El GRANDE TORPEDO",
+        "url": "https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00efn",
+          "url": "https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "LAISSE LES BONS TEMPS ROULER",
+      "url": "https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3"
+    },
+    {
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190022,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A"
+    },
+    {
+      "album": {
+        "name": "Antig\u00e9ographiquement",
+        "url": "https://open.spotify.com/album/7rMlJXxFvoYgPIKSCpkPtd"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        },
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305779,
+      "name": "Le bac des objets perdus",
+      "url": "https://open.spotify.com/track/3v04ebsMGllMReChKTAfZw"
+    },
+    {
+      "album": {
+        "name": "La somme des \u00eatres aim\u00e9s",
+        "url": "https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Poulin",
+          "url": "https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Le ciel o\u00f9 je me terre",
+      "url": "https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J"
+    },
+    {
+      "album": {
+        "name": "L'\u00cele",
+        "url": "https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Le grand d\u00e9fi",
+      "url": "https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc"
+    },
+    {
+      "album": {
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "album": {
+        "name": "Le reste du temps",
+        "url": "https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208857,
+      "name": "Le reste du temps",
+      "url": "https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7"
+    },
+    {
+      "album": {
+        "name": "Le Roy, la Rose et le Lou[p] (Chanson th\u00e8me)",
+        "url": "https://open.spotify.com/album/15whtpDeiswR48UotutzI4"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143066,
+      "name": "Le Roy, la Rose et le Lou[p] - Chanson th\u00e8me",
+      "url": "https://open.spotify.com/track/6SOvfUrHfJZz4GXsJPeIkV"
+    },
+    {
+      "album": {
+        "name": "Demain il fera beau",
+        "url": "https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143055,
+      "name": "Le stade",
+      "url": "https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H"
+    },
+    {
+      "album": {
+        "name": "Les ent\u00eat\u00e9.e.s",
+        "url": "https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L"
+      },
+      "artists": [
+        {
+          "name": "Ian Kelly",
+          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206079,
+      "name": "Les ent\u00eat\u00e9.e.s",
+      "url": "https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N"
+    },
+    {
+      "album": {
+        "name": "Les nouveaux infinis",
+        "url": "https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4"
+      },
+      "artists": [
+        {
+          "name": "Nicolet",
+          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "Les nouveaux infinis",
+      "url": "https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088"
+    },
+    {
+      "album": {
+        "name": "Les ponts",
+        "url": "https://open.spotify.com/album/1wLSzqbwKzpndo4tZC36GO"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Les ponts",
+      "url": "https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty"
+    },
+    {
+      "album": {
+        "name": "LVL UP",
+        "url": "https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197894,
+      "name": "LVL UP",
+      "url": "https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX"
+    },
+    {
+      "album": {
+        "name": "Marina",
+        "url": "https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174989,
+      "name": "Marina",
+      "url": "https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD"
+    },
+    {
+      "album": {
+        "name": "Au bar des espoirs",
+        "url": "https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167506,
+      "name": "Mauvais temps",
+      "url": "https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA"
+    },
+    {
+      "album": {
+        "name": "Mes secrets",
+        "url": "https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182094,
+      "name": "Mes secrets",
+      "url": "https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU"
+    },
+    {
+      "album": {
+        "name": "Moi je t'aime",
+        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177556,
+      "name": "Moi je t'aime",
+      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
+    },
+    {
+      "album": {
+        "name": "n'as-tu jamais vu d'oiseaux",
+        "url": "https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137971,
+      "name": "n'as-tu jamais vu d'oiseaux",
+      "url": "https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264"
+    },
+    {
+      "album": {
+        "name": "NOIR SUR NOIR",
+        "url": "https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8"
+      },
+      "artists": [
+        {
+          "name": "Marie-Mai",
+          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "NOIR SUR NOIR",
+      "url": "https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z"
+    },
+    {
+      "album": {
+        "name": "Notre p'tit refrain",
+        "url": "https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw"
+      },
+      "artists": [
+        {
+          "name": "2Fr\u00e8res",
+          "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209191,
+      "name": "Notre p'tit refrain",
+      "url": "https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14"
+    },
+    {
+      "album": {
+        "name": "On va-tu prendre une marche?",
+        "url": "https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186507,
+      "name": "On va-tu prendre une marche?",
+      "url": "https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf"
+    },
+    {
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165870,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW"
+    },
+    {
+      "album": {
+        "name": "Quand il s'en va",
+        "url": "https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9"
+      },
+      "artists": [
+        {
+          "name": "Mario Pelchat",
+          "url": "https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz"
+        },
+        {
+          "name": "Anggun",
+          "url": "https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241384,
+      "name": "Quand il s'en va",
+      "url": "https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo"
+    },
+    {
+      "album": {
+        "name": "Quitter la ville",
+        "url": "https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        },
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Quitter la ville",
+      "url": "https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u"
+    },
+    {
+      "album": {
+        "name": "Rappelle-moi ton nom",
+        "url": "https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209154,
+      "name": "Rappelle-moi ton nom",
+      "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
+    },
+    {
+      "album": {
+        "name": "R\u00e9pondre aux oiseaux",
+        "url": "https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "R\u00e9pondre aux oiseaux",
+      "url": "https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt"
+    },
+    {
+      "album": {
+        "name": "R\u00e9volution (la chanson) [Radio \u00c9dith]",
+        "url": "https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "R\u00e9volution (la chanson) - Radio \u00c9dith",
+      "url": "https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG"
+    },
+    {
+      "album": {
+        "name": "Se laisser aller",
+        "url": "https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Se laisser aller",
+      "url": "https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM"
+    },
+    {
+      "album": {
+        "name": "Shalala",
+        "url": "https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt"
+      },
+      "artists": [
+        {
+          "name": "La Chicane",
+          "url": "https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162416,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE"
+    },
+    {
+      "album": {
+        "name": "Si je rampe",
+        "url": "https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Si je rampe",
+      "url": "https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn"
+    },
+    {
+      "album": {
+        "name": "Sous terre",
+        "url": "https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO"
+      },
+      "artists": [
+        {
+          "name": "Matt Moln",
+          "url": "https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201847,
+      "name": "Sous terre",
+      "url": "https://open.spotify.com/track/78DTEJgFp4ZqEd3WiLm5E0"
+    },
+    {
+      "album": {
+        "name": "St. Denis",
+        "url": "https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh"
+      },
+      "artists": [
+        {
+          "name": "Ponteix",
+          "url": "https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "St. Denis",
+      "url": "https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n"
+    },
+    {
+      "album": {
+        "name": "Moli\u00e8re, le spectacle musical",
+        "url": "https://open.spotify.com/album/5Aq14FvD0eZy5KIlLtsv0k"
+      },
+      "artists": [
+        {
+          "name": "Moli\u00e8re l'op\u00e9ra urbain",
+          "url": "https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd"
+        },
+        {
+          "name": "PETiTOM",
+          "url": "https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "T'aimer est une gal\u00e8re",
+      "url": "https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg"
+    },
+    {
+      "album": {
+        "name": "Ta peine",
+        "url": "https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164479,
+      "name": "Ta peine",
+      "url": "https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0"
+    },
+    {
+      "album": {
+        "name": "Te laisser des mots",
+        "url": "https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193323,
+      "name": "Te laisser des mots",
+      "url": "https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT"
+    },
+    {
+      "album": {
+        "name": "Tous ces doutes",
+        "url": "https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD"
+      },
+      "artists": [
+        {
+          "name": "Jeanick Fournier",
+          "url": "https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209982,
+      "name": "Tous ces doutes",
+      "url": "https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y"
+    },
+    {
+      "album": {
+        "name": "Quatorze",
+        "url": "https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m"
+      },
+      "artists": [
+        {
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Tout passe",
+      "url": "https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O"
+    },
+    {
+      "album": {
+        "name": "Pour tout vous dire",
+        "url": "https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa"
+      },
+      "artists": [
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Tout pour plaire",
+      "url": "https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD"
+    },
+    {
+      "album": {
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
+      },
+      "artists": [
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203935,
+      "name": "Tshitatau",
+      "url": "https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo"
+    },
+    {
+      "album": {
+        "name": "Tu me fais tout oublier",
+        "url": "https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Edgar",
+          "url": "https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198077,
+      "name": "Tu me fais tout oublier",
+      "url": "https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD"
+    },
+    {
+      "album": {
+        "name": "Une semaine \u00e0 Paris",
+        "url": "https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154535,
+      "name": "Un peu trop",
+      "url": "https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r"
+    },
+    {
+      "album": {
+        "name": "Submerg\u00e9",
+        "url": "https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4"
+      },
+      "artists": [
+        {
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142809,
+      "name": "Une bouteille \u00e0 la mer",
+      "url": "https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh"
+    },
+    {
+      "album": {
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9sence d'esprit",
+        "url": "https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208059,
+      "name": "Vol \u00e0 l'\u00e9talage",
+      "url": "https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'envers",
+        "url": "https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT"
+      },
+      "artists": [
+        {
+          "name": "Sophie Grenier",
+          "url": "https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164503,
+      "name": "\u00c0 l'envers",
+      "url": "https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE"
+    },
+    {
+      "album": {
+        "name": "\u00catre moi",
+        "url": "https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0"
+      },
+      "artists": [
+        {
+          "name": "Annie Villeneuve",
+          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193254,
+      "name": "\u00catre moi",
+      "url": "https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7"
+}

@@ -1,0 +1,932 @@
+{
+  "date_first_scraped": "2024-07-02",
+  "description": "indie & indiepop in het Nederlands. Cover: Willem",
+  "name": "indiepuntnl",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aardbei en Vanille",
+        "url": "https://open.spotify.com/album/5GjRV1K4ngwxvORNRo0xfn"
+      },
+      "artists": [
+        {
+          "name": "Rens, Ja\u00efr & Ome Uncle",
+          "url": "https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Aardbei en Vanille",
+      "url": "https://open.spotify.com/track/4TZjJSHcExsyHgHlgvOmwQ"
+    },
+    {
+      "album": {
+        "name": "Adem In, Adem Uit",
+        "url": "https://open.spotify.com/album/5Nufsh4togaizijSgMIW7X"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Adem In, Adem Uit",
+      "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
+    },
+    {
+      "album": {
+        "name": "Alles Begint Bij Vandaag",
+        "url": "https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Alles Begint Bij Vandaag",
+      "url": "https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN"
+    },
+    {
+      "album": {
+        "name": "Alleen Bij Mij",
+        "url": "https://open.spotify.com/album/169JAJ4TYcBRDSw86oGa2B"
+      },
+      "artists": [
+        {
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224830,
+      "name": "Bevrijd Me",
+      "url": "https://open.spotify.com/track/0gahCzF8XX2DqQKJzQQWgR"
+    },
+    {
+      "album": {
+        "name": "Chocoladefontein",
+        "url": "https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181695,
+      "name": "Chocoladefontein",
+      "url": "https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj"
+    },
+    {
+      "album": {
+        "name": "Partijtje",
+        "url": "https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172471,
+      "name": "Disco Zwemmen",
+      "url": "https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv"
+    },
+    {
+      "album": {
+        "name": "Dokter Phil",
+        "url": "https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO"
+      },
+      "artists": [
+        {
+          "name": "Ratel",
+          "url": "https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Dokter Phil",
+      "url": "https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00"
+    },
+    {
+      "album": {
+        "name": "Femboy",
+        "url": "https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp"
+      },
+      "artists": [
+        {
+          "name": "Stippenlift",
+          "url": "https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Femboy",
+      "url": "https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU"
+    },
+    {
+      "album": {
+        "name": "puntpuntpunt",
+        "url": "https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM"
+      },
+      "artists": [
+        {
+          "name": "(...) Centraal",
+          "url": "https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205881,
+      "name": "Geen Steek Veranderd",
+      "url": "https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU"
+    },
+    {
+      "album": {
+        "name": "Of Het Terugkomt",
+        "url": "https://open.spotify.com/album/1YRPxfopR6ICS1ZUIDAmSV"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193738,
+      "name": "Geest Van Het Zuiden",
+      "url": "https://open.spotify.com/track/3aY93NRQyDNARcblm0javK"
+    },
+    {
+      "album": {
+        "name": "Glijpanter",
+        "url": "https://open.spotify.com/album/5VSqpjC7klSeMAztyXlO1O"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Glijpanter",
+      "url": "https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6"
+    },
+    {
+      "album": {
+        "name": "Gloeien",
+        "url": "https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238137,
+      "name": "Gloeien",
+      "url": "https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy"
+    },
+    {
+      "album": {
+        "name": "Geen Signaal",
+        "url": "https://open.spotify.com/album/41XR32hBMfew3oH550j09D"
+      },
+      "artists": [
+        {
+          "name": "Meetsysteem",
+          "url": "https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189002,
+      "name": "Goed Te Doen",
+      "url": "https://open.spotify.com/track/2vwrImhVOVhdzgl25rEVE8"
+    },
+    {
+      "album": {
+        "name": "Hou ik te weinig van mezelf",
+        "url": "https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "Hou ik te weinig van mezelf",
+      "url": "https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS"
+    },
+    {
+      "album": {
+        "name": "Huisje Boompje Hypotheek",
+        "url": "https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J"
+      },
+      "artists": [
+        {
+          "name": "Faske",
+          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184074,
+      "name": "Huisje Boompje Hypotheek",
+      "url": "https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1"
+    },
+    {
+      "album": {
+        "name": "Half",
+        "url": "https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt"
+      },
+      "artists": [
+        {
+          "name": "Babs",
+          "url": "https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "IJs",
+      "url": "https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6"
+    },
+    {
+      "album": {
+        "name": "Ik Ren",
+        "url": "https://open.spotify.com/album/5MkenFzk9r19qPvShJPOVv"
+      },
+      "artists": [
+        {
+          "name": "Sophie",
+          "url": "https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253227,
+      "name": "Ik Ren",
+      "url": "https://open.spotify.com/track/7ATLz1jdCZmwi6n6f3hqlA"
+    },
+    {
+      "album": {
+        "name": "Ik Zet De Toon",
+        "url": "https://open.spotify.com/album/77wFpa6zVyGbMFDcJesvmF"
+      },
+      "artists": [
+        {
+          "name": "(...) Centraal",
+          "url": "https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207836,
+      "name": "Ik Zet De Toon",
+      "url": "https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U"
+    },
+    {
+      "album": {
+        "name": "In Dit Huis",
+        "url": "https://open.spotify.com/album/5wbhjYGbfNoXI36vX7MYkX"
+      },
+      "artists": [
+        {
+          "name": "Luminar",
+          "url": "https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198558,
+      "name": "In Dit Huis",
+      "url": "https://open.spotify.com/track/03oSvQ8rmgc8ex4iFZZDOq"
+    },
+    {
+      "album": {
+        "name": "Interessant",
+        "url": "https://open.spotify.com/album/05KQqX6QcSxntWgHpfYG6d"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        },
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136824,
+      "name": "Interessant",
+      "url": "https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6XDpKxCJKw7yBN8lhjZW2h"
+      },
+      "artists": [
+        {
+          "name": "Clean Pete",
+          "url": "https://open.spotify.com/artist/2dAA5CkO4PeMVmOXxrsl38"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205290,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/6hI6zAfJPnjHHBMsbHfMDU"
+    },
+    {
+      "album": {
+        "name": "Kechseizoen",
+        "url": "https://open.spotify.com/album/3Yxb8mvbNLePJ2GPCxKLkA"
+      },
+      "artists": [
+        {
+          "name": "Linde Sch\u00f6ne",
+          "url": "https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149192,
+      "name": "Kechseizoen",
+      "url": "https://open.spotify.com/track/1XPCEPVwWCNKcXQ3uElIXC"
+    },
+    {
+      "album": {
+        "name": "Eeuwig Voor Een Tijdje",
+        "url": "https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161045,
+      "name": "Kijk me aan als je met me vrijt",
+      "url": "https://open.spotify.com/track/1be5nDVqn24PE8cbhtqc61"
+    },
+    {
+      "album": {
+        "name": "KIJK NAAR M'N NAAM",
+        "url": "https://open.spotify.com/album/3lUb5MgtePsBVwgMnkWLaT"
+      },
+      "artists": [
+        {
+          "name": "Boter bij de Vis",
+          "url": "https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148340,
+      "name": "KIJK NAAR M'N NAAM",
+      "url": "https://open.spotify.com/track/6MyIwypcSrNwZYGPPRCUPO"
+    },
+    {
+      "album": {
+        "name": "ik ben soms bang in het donker",
+        "url": "https://open.spotify.com/album/2lWHBuyE13th6358dardao"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "masker",
+      "url": "https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw"
+    },
+    {
+      "album": {
+        "name": "Meneer de Tijd",
+        "url": "https://open.spotify.com/album/4xmBBbbst60Q106LfQvKMS"
+      },
+      "artists": [
+        {
+          "name": "Jordy Dijkshoorn",
+          "url": "https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Meneer de Tijd",
+      "url": "https://open.spotify.com/track/0TccteiGTooJVCSwuD0t6x"
+    },
+    {
+      "album": {
+        "name": "Mijn Naam Is Niemand",
+        "url": "https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw"
+      },
+      "artists": [
+        {
+          "name": "SKINC",
+          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202749,
+      "name": "Mijn Naam is Niemand",
+      "url": "https://open.spotify.com/track/5I4AagJIE3YslYmASx2QRb"
+    },
+    {
+      "album": {
+        "name": "HIGH SOCIETY SWAGGERBOY",
+        "url": "https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182544,
+      "name": "Misschien (Kwijt)",
+      "url": "https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg"
+    },
+    {
+      "album": {
+        "name": "Samen Tegen Elkaar",
+        "url": "https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204127,
+      "name": "Naakt Op Het Plein",
+      "url": "https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z"
+    },
+    {
+      "album": {
+        "name": "MAR & AR VAN BOTER BIJ DE VIS",
+        "url": "https://open.spotify.com/album/7bAO1sGEqCU6iIj0xRpJdM"
+      },
+      "artists": [
+        {
+          "name": "Boter bij de Vis",
+          "url": "https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170833,
+      "name": "NEEM ER EEN BIJ MEID",
+      "url": "https://open.spotify.com/track/6vdctqis5ixBZewv7oC08f"
+    },
+    {
+      "album": {
+        "name": "Niets Is Voor Altijd",
+        "url": "https://open.spotify.com/album/1Ez2l3IlooHGbTRu9DsTZW"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/3Fn18Mw7IUWlzFCmfPzP7H"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "Niets Is Voor Altijd",
+      "url": "https://open.spotify.com/track/2xPGzCwyQTDZA6qnRxpEfu"
+    },
+    {
+      "album": {
+        "name": "Odysseus",
+        "url": "https://open.spotify.com/album/3d0vgaxBeSvrstgy2fVNXQ"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206386,
+      "name": "Odysseus",
+      "url": "https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL"
+    },
+    {
+      "album": {
+        "name": "Oog om Oog (feat. Spinvis)",
+        "url": "https://open.spotify.com/album/5x5WE4VmjdXv7kLI1HIdOG"
+      },
+      "artists": [
+        {
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        },
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "Oog om Oog (feat. Spinvis)",
+      "url": "https://open.spotify.com/track/58eFsIty3d3vyNRmM9q9T7"
+    },
+    {
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/0cuOUJAcoggXuV88PzqUKn"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178044,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/1Z9B1h99qrDLM2Mg8A2X2y"
+    },
+    {
+      "album": {
+        "name": "Spijt",
+        "url": "https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE"
+      },
+      "artists": [
+        {
+          "name": "Meis",
+          "url": "https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184024,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I"
+    },
+    {
+      "album": {
+        "name": "Telkens Als Ik Jou Hier Zie",
+        "url": "https://open.spotify.com/album/0Kh5Apkoc4KhW8KgGvHKYk"
+      },
+      "artists": [
+        {
+          "name": "Meetsysteem",
+          "url": "https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Telkens Als Ik Jou Hier Zie",
+      "url": "https://open.spotify.com/track/4jNi3dbpwO919Wlk0y1Krx"
+    },
+    {
+      "album": {
+        "name": "Sterrenlopen",
+        "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212471,
+      "name": "Troostzoekers (met Froukje)",
+      "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
+    },
+    {
+      "album": {
+        "name": "Uit Het Oog",
+        "url": "https://open.spotify.com/album/6F4IYp6Q8NJI89W2wBoCtW"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258015,
+      "name": "Uit Het Oog",
+      "url": "https://open.spotify.com/track/05ZXKrj4flHFpkXRhCNJQq"
+    },
+    {
+      "album": {
+        "name": "Venus (ft. Noor)",
+        "url": "https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        },
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170048,
+      "name": "Venus (ft. Noor)",
+      "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"
+    },
+    {
+      "album": {
+        "name": "Verandering",
+        "url": "https://open.spotify.com/album/64MsgVgm6ni1ESraM57AeX"
+      },
+      "artists": [
+        {
+          "name": "Mark Lohmann",
+          "url": "https://open.spotify.com/artist/23mtrfcjOOC8KMAMKDlB3W"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182384,
+      "name": "Verandering",
+      "url": "https://open.spotify.com/track/4d9w7JlpKkJo6CebG6x1Qa"
+    },
+    {
+      "album": {
+        "name": "Vluchten",
+        "url": "https://open.spotify.com/album/6AQ7NbJsj0KxzPBSNGGcFl"
+      },
+      "artists": [
+        {
+          "name": "FR\u00c9",
+          "url": "https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Vluchten",
+      "url": "https://open.spotify.com/track/45KPvfvpbCmluDSS1Q8G8Q"
+    },
+    {
+      "album": {
+        "name": "We Doen Er Allemaal Aan Mee",
+        "url": "https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z"
+      },
+      "artists": [
+        {
+          "name": "SIM\u2014OJ",
+          "url": "https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ"
+        },
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171959,
+      "name": "We Doen Er Allemaal Aan Mee",
+      "url": "https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe"
+    },
+    {
+      "album": {
+        "name": "Noodzakelijk Verdriet",
+        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152730,
+      "name": "We Hebben De Tijd",
+      "url": "https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq"
+    },
+    {
+      "album": {
+        "name": "Wie Ben Ik",
+        "url": "https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR"
+      },
+      "artists": [
+        {
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169625,
+      "name": "Wie Ben Ik",
+      "url": "https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa"
+    },
+    {
+      "album": {
+        "name": "wist je niet",
+        "url": "https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO"
+      },
+      "artists": [
+        {
+          "name": "Rijnbaart",
+          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
+        },
+        {
+          "name": "Jeroen Antoine",
+          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163032,
+      "name": "wist je niet",
+      "url": "https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
+    },
+    {
+      "album": {
+        "name": "Zachte Landing",
+        "url": "https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201229,
+      "name": "Zachte Landing",
+      "url": "https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP"
+    },
+    {
+      "album": {
+        "name": "Atmosfeer",
+        "url": "https://open.spotify.com/album/4FLFr07DNpeBUHj9Aj2CV4"
+      },
+      "artists": [
+        {
+          "name": "FR\u00c9",
+          "url": "https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "Zonder Iets Te Doen",
+      "url": "https://open.spotify.com/track/3seONUa4YlZIsPcIJvkxkE"
+    },
+    {
+      "album": {
+        "name": "Noodzakelijk Verdriet",
+        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Zonder Liedjes",
+      "url": "https://open.spotify.com/track/11eXLYhb5zZT7S54E9xC3b"
+    },
+    {
+      "album": {
+        "name": "Zwijgrecht",
+        "url": "https://open.spotify.com/album/7K8aEYuq4d07q3xzh2em2z"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80711,
+      "name": "Zwijgrecht",
+      "url": "https://open.spotify.com/track/489EDOr96zRHruVh5gH50G"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS"
+}
