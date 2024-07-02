@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marina Sena",
-  "num_followers": 371480,
+  "num_followers": 371468,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 144683,
-      "name": "Voo 1360",
-      "url": "https://open.spotify.com/track/6IK3PL5f3VxhG2cKhpqMSF"
-    },
-    {
-      "added_at": "2024-06-28 14:11:30",
-      "album": {
         "name": "CUBA Remix",
         "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
-        "name": "Pagode Urbano #01",
-        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
       "artists": [
         {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 179820,
-      "name": "Quatro Da Manh\u00e3",
-      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
+      "duration_ms": 144683,
+      "name": "Voo 1360",
+      "url": "https://open.spotify.com/track/6IK3PL5f3VxhG2cKhpqMSF"
     },
     {
       "added_at": "2024-06-28 14:11:30",
@@ -839,6 +823,22 @@
       "duration_ms": 135456,
       "name": "Quase N\u00e3o Namoro",
       "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+    },
+    {
+      "added_at": "2024-06-28 14:11:30",
+      "album": {
+        "name": "Pagode Urbano #01",
+        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "duration_ms": 179820,
+      "name": "Quatro Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
     },
     {
       "added_at": "2024-06-28 14:11:30",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
+        "name": "Se eu fosse homem",
+        "url": "https://open.spotify.com/album/4uVjwahqRIiMVcmOTxaP2k"
+      },
+      "artists": [
+        {
+          "name": "Nina Baiocchi",
+          "url": "https://open.spotify.com/artist/3TSj5k8pivUKJwIlnwsnfi"
+        }
+      ],
+      "duration_ms": 127243,
+      "name": "Se eu fosse homem",
+      "url": "https://open.spotify.com/track/2NFvkzzCeLIvOW6cBJY08f"
+    },
+    {
+      "added_at": "2024-06-28 14:11:30",
+      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 161281,
       "name": "EGO",
       "url": "https://open.spotify.com/track/35UO2aaT0Ct8nipRfMIKPl"
-    },
-    {
-      "added_at": "2024-06-28 14:11:30",
-      "album": {
-        "name": "Se eu fosse homem",
-        "url": "https://open.spotify.com/album/4uVjwahqRIiMVcmOTxaP2k"
-      },
-      "artists": [
-        {
-          "name": "Nina Baiocchi",
-          "url": "https://open.spotify.com/artist/3TSj5k8pivUKJwIlnwsnfi"
-        }
-      ],
-      "duration_ms": 127243,
-      "name": "Se eu fosse homem",
-      "url": "https://open.spotify.com/track/2NFvkzzCeLIvOW6cBJY08f"
     },
     {
       "added_at": "2024-06-28 14:11:30",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
+        "name": "Garoto Invis\u00edvel",
+        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Garoto Invis\u00edvel",
+      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
+    },
+    {
+      "added_at": "2024-06-28 14:11:30",
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 215660,
       "name": "absurdo",
       "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
-    },
-    {
-      "added_at": "2024-06-28 14:11:30",
-      "album": {
-        "name": "Garoto Invis\u00edvel",
-        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 156712,
-      "name": "Garoto Invis\u00edvel",
-      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
     },
     {
       "added_at": "2024-06-28 14:11:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
-    },
-    {
-      "added_at": "2024-06-28 14:11:30",
-      "album": {
         "name": "Pode Chegar",
         "url": "https://open.spotify.com/album/0IwMgTR66UQlWAOE5IcvkW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 174285,
       "name": "Pode Chegar",
       "url": "https://open.spotify.com/track/0RHgZjiG0iANH5QjE5xSfF"
+    },
+    {
+      "added_at": "2024-06-28 14:11:30",
+      "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-06-28 14:11:30",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
-    },
-    {
-      "added_at": "2024-06-28 14:11:30",
-      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 151389,
       "name": "Veste a Camisa",
       "url": "https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI"
+    },
+    {
+      "added_at": "2024-06-28 14:11:30",
+      "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
     },
     {
       "added_at": "2024-06-28 14:11:30",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-28 14:11:30",
       "album": {
+        "name": "MAL\u00cdCIA MINHA",
+        "url": "https://open.spotify.com/album/6104qzApIuCjZsMAgOV3AS"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "MAL\u00cdCIA MINHA",
+      "url": "https://open.spotify.com/track/5NZbdxrTrlqIHQUXZ9ipYp"
+    },
+    {
+      "added_at": "2024-06-28 14:11:30",
+      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2024-06-28 14:11:30",
-      "album": {
-        "name": "MAL\u00cdCIA MINHA",
-        "url": "https://open.spotify.com/album/6104qzApIuCjZsMAgOV3AS"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "MAL\u00cdCIA MINHA",
-      "url": "https://open.spotify.com/track/5NZbdxrTrlqIHQUXZ9ipYp"
     },
     {
       "added_at": "2024-06-28 14:11:30",

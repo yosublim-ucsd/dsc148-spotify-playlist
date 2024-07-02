@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 167724,
+  "num_followers": 167745,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Mr. Broadway",
-        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Stranger in Paradise",
-      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Magic Of Malcolm Vaughan",
         "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 172133,
       "name": "St Therese of the Roses",
       "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Mr. Broadway",
+        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Stranger in Paradise",
+      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Single Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
+      },
+      "artists": [
+        {
+          "name": "The Four Preps",
+          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Single Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
-      },
-      "artists": [
-        {
-          "name": "The Four Preps",
-          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
     },
     {
       "added_at": "2023-10-17 16:18:55",

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Rocketman",
+        "url": "https://open.spotify.com/album/6mrbpYQQijgtoxyF472JEJ"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "Alcatraz",
+      "url": "https://open.spotify.com/track/3z5eBMaMIJHF7JNDCA1RGB"
+    },
+    {
+      "album": {
         "name": "Alcatraz",
         "url": "https://open.spotify.com/album/2NEQkPwH58q77gdlzODUWD"
       },
@@ -678,7 +704,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 204146,
       "name": "M\u00e1s que reales",
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"

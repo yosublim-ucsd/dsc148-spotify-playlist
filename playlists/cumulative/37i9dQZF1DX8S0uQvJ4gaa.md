@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Austin Snell
 
-2,130 songs - 4 day 19 hr 15 min
+2,131 songs - 4 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Covered In Dirt](https://open.spotify.com/track/3EY88M2B3fR0WZodOc1mVq) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Covered In Dirt](https://open.spotify.com/album/411yT7v0WbeGBjTZH9lYMI) | 3:56 | 2021-06-12 | 2021-10-02 |
 | [Cowboy Back](https://open.spotify.com/track/671XjQmF7A0w5aN74AhNWt) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Cowboy Back](https://open.spotify.com/album/10QuywIUAjgUqvMKjM67n8) | 3:11 | 2023-10-06 | 2024-02-03 |
 | [Cowboy Boots](https://open.spotify.com/track/7xa9uj2bo3N5A4MAjlwqgL) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Cowboy Boots](https://open.spotify.com/album/6735zwF78QfE3MuvoFRkdq) | 4:33 | 2023-02-03 | 2023-05-20 |
+| [Cowboy Break My Heart](https://open.spotify.com/track/0OWjq1RpEPwLErq7yiotxm) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cowboy Break My Heart](https://open.spotify.com/album/6veJfIQqQlzpBta1oIdGcZ) | 2:40 | 2024-06-30 |  |
 | [Cowboy Cool](https://open.spotify.com/track/4aNtBOhhvXn7AdP0jKyqAt) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Cowboy Cool](https://open.spotify.com/album/6NMD4CW1OCzvvjefMZ5LtO) | 3:42 | 2020-04-18 | 2020-05-02 |
 | [Cowboy Don’t](https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cowboy Don’t](https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q) | 2:42 | 2023-08-25 | 2023-09-16 |
 | [Cowboy Kind of Love](https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:03 | 2024-02-09 | 2024-05-18 |

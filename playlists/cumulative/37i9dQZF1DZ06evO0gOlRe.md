@@ -2,7 +2,7 @@
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart\. De viktigste sporene samlet i én spilleliste.
+> This is Alexander Stewart\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 59 songs - 2 hr 44 min
 

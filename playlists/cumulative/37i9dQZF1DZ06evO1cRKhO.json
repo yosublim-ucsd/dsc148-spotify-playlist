@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
+  "description": "This is Pauline Oliveros. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 240294,
       "name": "Calluna Vulgaris",
       "url": "https://open.spotify.com/track/5xGlqc9x6bnSAEDWWMF5oP"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 526786,
       "name": "Old Sound, New Sound, Borrowed Sound Blue",
       "url": "https://open.spotify.com/track/3I6nx9swPrIqLD95fpVveO"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 777266,
       "name": "The Well / The Gentle",
       "url": "https://open.spotify.com/track/5CUyYh2tB0d7RizNlkCIYY"
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 555893,
       "name": "Untitled #273",
       "url": "https://open.spotify.com/track/5IZeF6Cn3v6ePZalWN2G5R"

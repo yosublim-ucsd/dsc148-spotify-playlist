@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion, Bailey Zimmerman, Miranda Lambert and more.
 
-7,127 songs - 16 day 6 hr 24 min
+7,128 songs - 16 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,6 +1289,7 @@
 | [Cowboy Back](https://open.spotify.com/track/671XjQmF7A0w5aN74AhNWt) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Cowboy Back](https://open.spotify.com/album/10QuywIUAjgUqvMKjM67n8) | 3:11 | 2023-10-06 | 2023-10-14 |
 | [Cowboy Boots](https://open.spotify.com/track/7xa9uj2bo3N5A4MAjlwqgL) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Cowboy Boots](https://open.spotify.com/album/6735zwF78QfE3MuvoFRkdq) | 4:33 | 2023-02-03 | 2023-02-11 |
 | [Cowboy Boots \(feat\. Gord Bamford\)](https://open.spotify.com/track/2lfwwA24RADOooVyqsp2qy) | [Chris Buck Band](https://open.spotify.com/artist/0ns82mvA25By3a6t2S2Lxr), [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboy Boots \(feat\. Gord Bamford\)](https://open.spotify.com/album/5jqn5EIBC9566HDHDfy9ea) | 3:00 | 2024-04-12 | 2024-04-19 |
+| [Cowboy Break My Heart](https://open.spotify.com/track/0OWjq1RpEPwLErq7yiotxm) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cowboy Break My Heart](https://open.spotify.com/album/6veJfIQqQlzpBta1oIdGcZ) | 2:40 | 2024-06-30 |  |
 | [Cowboy Cocaine](https://open.spotify.com/track/0EsnLi7yZXoqavuJBGkL7b) | [Stu Basham](https://open.spotify.com/artist/0QUEvIhttxeih23qaaQu9j) | [Cowboy Cocaine](https://open.spotify.com/album/1r5ldcZMCJVG9MA9OJPJ1e) | 3:06 | 2024-01-19 | 2024-01-27 |
 | [Cowboy Crazy](https://open.spotify.com/track/60nBWRWTFRRBGxcnUAjdOP) | [Adam Warner](https://open.spotify.com/artist/7GeWZ4fFWxsApoLFcFC5zK) | [Cowboy Crazy](https://open.spotify.com/album/57URQ7tI1FX4icBDPJL8vM) | 2:39 | 2023-04-07 | 2023-04-15 |
 | [Cowboy Cry](https://open.spotify.com/track/7bDf4FJfRCTXPnOqxWu5xG) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cowboy Cry + Me & This Bottle](https://open.spotify.com/album/4U2eiBxJifBFuArPwPWpA0) | 2:11 | 2024-03-29 | 2024-04-06 |

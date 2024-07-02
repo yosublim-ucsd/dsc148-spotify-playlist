@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57803,
+  "num_followers": 57814,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn67ZgAAAACtqaEM584qjW5ei5Arf052",
+  "snapshot_id": "ZoKjzAAAAACHz354o0WK/NjfOf97NqX8",
   "tracks": [
     {
       "added_at": "2024-06-11 10:34:59",
@@ -131,6 +131,34 @@
       "duration_ms": 201600,
       "name": "Aaganthuka - Blink Anthem (From \"Blink\")",
       "url": "https://open.spotify.com/track/704C24oblUrlyZh87uSFb3"
+    },
+    {
+      "added_at": "2024-07-01 12:40:21",
+      "album": {
+        "name": "Double ISMART (Kannada)",
+        "url": "https://open.spotify.com/album/70kOrxctNEWiOaGY51PWxX"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Kaushik Harsha",
+          "url": "https://open.spotify.com/artist/4zTNqvFFrgCFjsZ3CArDso"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 232221,
+      "name": "SteppaMaar",
+      "url": "https://open.spotify.com/track/3kLBHcjJIkbIq60qznve2v"
     },
     {
       "added_at": "2024-06-28 08:44:31",
@@ -1743,42 +1771,6 @@
       "duration_ms": 267718,
       "name": "Baduku Ondu Ranaranga (From \"Yuva\")",
       "url": "https://open.spotify.com/track/2dgnWtoFeiBHR5oyVmlXcf"
-    },
-    {
-      "added_at": "2024-04-18 04:55:12",
-      "album": {
-        "name": "Neenirade (From \"Matinee\")",
-        "url": "https://open.spotify.com/album/0YwAYuejSRoNq0SCUdJIk6"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Poornachandra Tejaswi S.V.",
-          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
-        }
-      ],
-      "duration_ms": 165780,
-      "name": "Neenirade (From \"Matinee\")",
-      "url": "https://open.spotify.com/track/5kOdyuz2zpGRSqT1t4X9Ep"
-    },
-    {
-      "added_at": "2024-04-17 04:58:48",
-      "album": {
-        "name": "Maathalli Donnevarse (From \"Matinee\")",
-        "url": "https://open.spotify.com/album/4DQQpO78ePfyo9Z6kPHQEQ"
-      },
-      "artists": [
-        {
-          "name": "Poornachandra Tejaswi S.V.",
-          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
-        }
-      ],
-      "duration_ms": 117282,
-      "name": "Maathalli Donnevarse (From \"Matinee\")",
-      "url": "https://open.spotify.com/track/5qX8AFALLImg9i4UkYf14V"
     }
   ],
   "unique_name": "Latest Kannada",

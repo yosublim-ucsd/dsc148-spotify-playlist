@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "A Dream is a Wish Your Heart Makes/So This is Love",
       "url": "https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 184533,
       "name": "Bad Time",
       "url": "https://open.spotify.com/track/1YqPDOmooQQIXsRSdbRrwI"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 196458,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188167,
+      "name": "decode",
+      "url": "https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM"
+    },
+    {
+      "album": {
         "name": "Singular Act I",
         "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
@@ -244,7 +262,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 181853,
       "name": "Don't Want It Back",
       "url": "https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva"
@@ -262,7 +280,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 104408,
       "name": "emails i can\u2019t send",
       "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
@@ -298,7 +316,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 164708,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
@@ -396,7 +414,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 277923,
       "name": "Fix Me Up (with Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3tlYKGhlexHCt8Ac5pYG49"
@@ -534,7 +552,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 189980,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 168170,
       "name": "opposite",
       "url": "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu"
@@ -866,7 +884,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 177500,
       "name": "Skin",
       "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 177750,
       "name": "skinny dipping",
       "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 179226,
       "name": "Sue Me",
       "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 280441,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/1CXLy7cfmAuxoIYcVM3wtK"
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 171096,
       "name": "Why",
       "url": "https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk"

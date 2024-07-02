@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "This is Hayley Kiyoko. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
   "name": "This Is Hayley Kiyoko",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 189898,
       "name": "deep in the woods",
       "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "well\u2026",
       "url": "https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI"

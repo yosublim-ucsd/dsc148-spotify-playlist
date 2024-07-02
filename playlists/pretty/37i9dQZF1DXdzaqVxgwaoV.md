@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,153 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,143 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 77 | [Mosaico de Merengues \- Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamoró de Manuel / El Pájaro Amarillo / El Gavilán](https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:59 |
 | 78 | [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 |
 | 79 | [Carita de Ángel](https://open.spotify.com/track/7oeWNxDXjmD6fLyunLunVa) | [Gustavo "El Loco" Quintero](https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl), [Los Graduados](https://open.spotify.com/artist/1JldSq8x5MHlqxHVMDEnlF) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 2:53 |
-| 80 | [Cumbia Sampuesana](https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A) | [Super Orquesta Cartagena](https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC) | [Cumbias Solo Cumbias](https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv) | 2:48 |
+| 80 | [El Cuartetazo](https://open.spotify.com/track/3bvtpzWXdVpU7EoVfoTlVt) | [Guayaba Orquesta](https://open.spotify.com/artist/0fX4OxM4PrXfSh2ic9Fd7N) | [Guayaba Orquesta Éxitos, Vol.1](https://open.spotify.com/album/31X8VuNVdSUA3iiffn35FN) | 2:42 |
 
 Snapshot ID: `ZcQz9QAAAADJKf7brQ76jVeHWucJYeYQ`

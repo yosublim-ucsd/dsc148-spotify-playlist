@@ -1,6 +1,6 @@
 {
   "description": "You know that all mornings call for Fairuz.",
-  "num_followers": 8073,
+  "num_followers": 8080,
   "original_name": "\u0641\u064a\u0631\u0648\u0632\u064a\u0627\u062a \u0627\u0644\u0635\u0628\u0627\u062d",
   "owner": {
     "name": "Spotify",
@@ -59,17 +59,17 @@
     {
       "added_at": "2022-11-10 12:36:32",
       "album": {
-        "name": "Bent El Hares",
+        "name": "",
         "url": "https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5"
       },
       "artists": [
         {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 243278,
-      "name": "Nassam Alayna El Hawa",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
     },
     {

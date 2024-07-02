@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7598,
+  "num_followers": 7600,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "The Man He Sees in Me",
-        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 165058,
-      "name": "The Man He Sees in Me",
-      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Wanna Be Loved",
         "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "The Man He Sees in Me",
+        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "I'll Wait Till You're Really Gone",
         "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 229386,
       "name": "I'll Wait Till You're Really Gone",
       "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
-      },
-      "artists": [
-        {
-          "name": "Donna Blue",
-          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 193426,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
+      },
+      "artists": [
+        {
+          "name": "Donna Blue",
+          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
-      },
-      "artists": [
-        {
-          "name": "Gregory Ackerman",
-          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "When It's Through",
-      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
+      },
+      "artists": [
+        {
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "When It's Through",
+      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Kingdom of Mine",
-        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
-      },
-      "artists": [
-        {
-          "name": "Timo de Jong",
-          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Ring Them Bells",
-      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Nighttime Walk",
         "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 336904,
       "name": "Nighttime Walk",
       "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Big Grey Boxes",
+        "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        }
+      ],
+      "duration_ms": 259374,
+      "name": "Big Grey Boxes",
+      "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Big Grey Boxes",
-        "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
-      },
-      "artists": [
-        {
-          "name": "Timo de Jong",
-          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
-        }
-      ],
-      "duration_ms": 259374,
-      "name": "Big Grey Boxes",
-      "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Safe in the Suburbs",
         "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
+        "name": "The Way I Love You Now",
+        "url": "https://open.spotify.com/album/4AIG9wuEswkHUeQHcIZazL"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
         }
       ],
-      "duration_ms": 158653,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
+      "duration_ms": 249986,
+      "name": "The Way I Love You Now - Bluefinger Version",
+      "url": "https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Kingdom of Mine",
+        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
     }
   ],
   "unique_name": "Route Americana",

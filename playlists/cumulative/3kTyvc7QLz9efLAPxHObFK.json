@@ -14489,6 +14489,24 @@
     },
     {
       "album": {
+        "name": "Kingdoms Hero",
+        "url": "https://open.spotify.com/album/0knPQcjn6NfmAmlCbHnQuE"
+      },
+      "artists": [
+        {
+          "name": "Eufeion",
+          "url": "https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240050,
+      "name": "Kingdoms Hero",
+      "url": "https://open.spotify.com/track/0nKfjIBlvW8s92zrFdLviM"
+    },
+    {
+      "album": {
         "name": "XTREME",
         "url": "https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE"
       },

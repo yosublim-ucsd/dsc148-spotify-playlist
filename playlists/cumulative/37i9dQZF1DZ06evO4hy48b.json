@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Aitana\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is Aitana. The essential tracks, all in one playlist.",
   "name": "This Is Aitana",
   "tracks": [
     {
@@ -176,10 +176,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 146493,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH"
+    },
+    {
+      "album": {
+        "name": "Sus Canciones (Operaci\u00f3n Triunfo 2017)",
+        "url": "https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136570,
+      "name": "Chas! Y Aparezco A Tu Lado",
+      "url": "https://open.spotify.com/track/2NeLIdSs8z8sQ7zLpABVKy"
     },
     {
       "album": {
@@ -260,7 +278,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 181200,
       "name": "CORAZ\u00d3N SIN VIDA",
       "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
@@ -354,7 +372,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 166200,
       "name": "Ella Bailaba",
       "url": "https://open.spotify.com/track/08Aq3EZhoJFc4sLaUt6Ifq"
@@ -372,7 +390,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 125080,
       "name": "En El Coche",
       "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
@@ -660,7 +678,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 153506,
       "name": "LAS BABYS",
       "url": "https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 200126,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/1cS8swS9AR9Oohcidcl8LT"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
@@ -934,7 +952,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 159360,
       "name": "miamor",
       "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 189030,
       "name": "Nada Sale Mal",
       "url": "https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 173159,
       "name": "No Puedo Vivir Sin Ti - Operaci\u00f3n Triunfo 2017",
       "url": "https://open.spotify.com/track/4HlNDiuC5IPGLWmQ2CbWcr"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 210726,
       "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
       "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/31qkCNFBgcbbMO3kk7aoNR"
+    },
+    {
+      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 197723,
       "name": "Procuro Olvidarte",
       "url": "https://open.spotify.com/track/2ZTYZ8toduZdCmuw2fvxpb"
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 198946,
       "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
       "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
@@ -1400,7 +1436,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 179653,
       "name": "Tu Foto Del DNI",
       "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 226213,
       "name": "Vas A Quedarte",
       "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"

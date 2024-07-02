@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,519 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,521 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 39 | [Main Title](https://open.spotify.com/track/05A44JvvE9McpmTDG0HNvJ) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 1:58 |
 | 40 | [Frosty the Snowman](https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:16 |
 | 41 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
-| 42 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\) \- Voice](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
+| 42 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\) \- Voice](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [The American Boychoir](https://open.spotify.com/artist/78crIk6w9PtFUot9T0YY7I), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 43 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |
 | 44 | [First Christmas \(That I Loved You\) \- From The Netflix Film Let It Snow](https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt) | 3:02 |
 | 45 | [Here It Is Christmastime](https://open.spotify.com/track/2yQLP5RVrvJgkViKronxrK) | [Kevin Bacon](https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz), [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 3:26 |

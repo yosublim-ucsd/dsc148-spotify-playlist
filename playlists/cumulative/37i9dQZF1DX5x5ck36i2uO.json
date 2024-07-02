@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 230440,
       "name": "2009 (Feat. unofficialboyy)",
       "url": "https://open.spotify.com/track/1LMzOs2hutvxG88BVh5lkD"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 178197,
       "name": "Dance With Me (feat. Keemhyoeun, CHOILB)",
       "url": "https://open.spotify.com/track/5Qlfc8kcBBiTQ0oWzAPO1q"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 235374,
       "name": "Flowers (feat.Justhis)",
       "url": "https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR"
@@ -1202,6 +1202,28 @@
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3"
+      },
+      "artists": [
+        {
+          "name": "2xxx",
+          "url": "https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180972,
+      "name": "Girl, Interrupted",
+      "url": "https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk"
     },
     {
       "album": {
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 194360,
       "name": "Gwichanist",
       "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
@@ -1514,7 +1536,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 93039,
       "name": "Human fever",
       "url": "https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3"
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 189000,
       "name": "LIFE LOVE LAZY (Feat. CHOILB)",
       "url": "https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh"
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 200620,
       "name": "Light",
       "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
@@ -2368,7 +2390,7 @@
           "url": "https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2"
         },
         {
-          "name": "yonghoon jung",
+          "name": "Yonghoon Jeong",
           "url": "https://open.spotify.com/artist/1EnRFp3BubugSBC8QqV9eL"
         },
         {
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 265517,
       "name": "NUGS (with THAMA)",
       "url": "https://open.spotify.com/track/4HCbPGMKg61aZZ93SMEPpL"
@@ -3065,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "tears",
+        "url": "https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127510,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R"
+    },
+    {
+      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/6b4wJXGf9d8tyncSEeRG06"
       },
@@ -3650,6 +3690,42 @@
       "duration_ms": 190160,
       "name": "You and Me (feat. Gummy)",
       "url": "https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL"
+    },
+    {
+      "album": {
+        "name": "Fresh Soul",
+        "url": "https://open.spotify.com/album/7sRWMxB5twLohS7lsj0V6r"
+      },
+      "artists": [
+        {
+          "name": "Matt Lv",
+          "url": "https://open.spotify.com/artist/71vPRIlP7xw7wawonVE4ax"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228217,
+      "name": "\u5c0f\u5fc3\u6e29\u5dee",
+      "url": "https://open.spotify.com/track/2A9syyjDKXse0q4X4YHmUD"
+    },
+    {
+      "album": {
+        "name": "\u6d6e\u4e16\u64ca",
+        "url": "https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J"
+      },
+      "artists": [
+        {
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "\u7f8a\u76ae\u5148\u751f",
+      "url": "https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x"
     },
     {
       "album": {

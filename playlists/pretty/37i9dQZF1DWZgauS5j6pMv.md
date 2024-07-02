@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,336 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,386 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance 'N Forget](https://open.spotify.com/track/1LHWhmfgWC2sU9iewXd0cz) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dance 'N Forget](https://open.spotify.com/album/5oEANUbXBprnhPnc1yekXP) | 3:20 |
-| 2 | [Whatcha Want](https://open.spotify.com/track/1AE9p52IdrZiLgBcWMU9x8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 3:00 |
+| 1 | [Hip Replacement](https://open.spotify.com/track/0xbRBmn4poZWxCdnbfvmCq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 4:13 |
+| 2 | [Dance 'N Forget](https://open.spotify.com/track/1LHWhmfgWC2sU9iewXd0cz) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dance 'N Forget](https://open.spotify.com/album/5oEANUbXBprnhPnc1yekXP) | 3:20 |
 | 3 | [Jelly Roll](https://open.spotify.com/track/5H6iPB2CyzGoI7Hzlxz9Da) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Jelly Roll](https://open.spotify.com/album/3XyBAOkeZyg7rX9GiNw9eZ) | 3:37 |
 | 4 | [Album of the Year \#1 Funkateer](https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Bootdullivan](https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW), [Myra Washington](https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho) | [Album of the Year \#1 Funkateer](https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK) | 4:15 |
 | 5 | [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 |
 | 100 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 |
 
-Snapshot ID: `Zn41QAAAAAD1b7l8X406ZkeC8++iGBSO`
+Snapshot ID: `ZoLHZgAAAAD1804LJycL+y+paBBodAAL`

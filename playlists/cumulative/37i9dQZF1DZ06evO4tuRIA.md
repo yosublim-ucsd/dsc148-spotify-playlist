@@ -2,7 +2,7 @@
 
 ### [This Is LEGADO 7](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tuRIA)
 
-> This is LEGADO 7\. Todos os maiores hits em uma só playlist.
+> This is LEGADO 7\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 11 min
 

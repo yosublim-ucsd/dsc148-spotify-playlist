@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia, Pandorea in cover 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,287 likes - 95 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,283 likes - 95 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\(Dis\)fare](https://open.spotify.com/track/3UvDkNFCkly5uFD6aBN9xA) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [\(Dis\)fare](https://open.spotify.com/album/6e13IOZ9vjNrzvr5hU7cKi) | 3:30 |
 | 2 | [Come no](https://open.spotify.com/track/10H2O7Rg5GdMjDXVcuxHXP) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Come no](https://open.spotify.com/album/2PjLX5cv86MOlpx7pI56gX) | 2:33 |
-| 3 | [Cicale](https://open.spotify.com/track/2YaQSA2uGjEeVUQtsjX9Ew) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Cicale](https://open.spotify.com/album/67fheAlF6keL8ZDYb5S2W6) | 3:26 |
-| 4 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 |
-| 5 | [ZenZero](https://open.spotify.com/track/5hFUbAijhedjj9tos6QTCd) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [ZenZero](https://open.spotify.com/album/66nM6m4ZrF3R66tInK068a) | 2:53 |
-| 6 | [A fly on the wall](https://open.spotify.com/track/1mXtND7kVenAdLJKoDTpYd) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [A fly on the wall](https://open.spotify.com/album/13VyjgC0uplNM8xjYuUDHj) | 2:38 |
-| 7 | [SELLOUT](https://open.spotify.com/track/5asgUMWlD2FfHIH8Jio5Wx) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [SELLOUT](https://open.spotify.com/album/4PkBqatSXwHCtXeNBVS7b8) | 2:08 |
-| 8 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 |
-| 9 | [Flop](https://open.spotify.com/track/7pfcrYDwNlWiBEbqH1z1uN) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ), [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [Prendersi Cura](https://open.spotify.com/album/1Xl0SgVxdlEC9plEg5KMFY) | 2:40 |
-| 10 | [Nati stelle](https://open.spotify.com/track/4K3pG3mH2QXSO1MpwwpMtH) | [COMRAD](https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT) | [Nati stelle](https://open.spotify.com/album/51UZSmFwSNwweOOKdQ0VLf) | 2:07 |
+| 3 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 |
+| 4 | [ZenZero](https://open.spotify.com/track/5hFUbAijhedjj9tos6QTCd) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [ZenZero](https://open.spotify.com/album/66nM6m4ZrF3R66tInK068a) | 2:53 |
+| 5 | [A fly on the wall](https://open.spotify.com/track/1mXtND7kVenAdLJKoDTpYd) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [A fly on the wall](https://open.spotify.com/album/13VyjgC0uplNM8xjYuUDHj) | 2:38 |
+| 6 | [SELLOUT](https://open.spotify.com/track/5asgUMWlD2FfHIH8Jio5Wx) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [SELLOUT](https://open.spotify.com/album/4PkBqatSXwHCtXeNBVS7b8) | 2:08 |
+| 7 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 |
+| 8 | [Flop](https://open.spotify.com/track/7pfcrYDwNlWiBEbqH1z1uN) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ), [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [Prendersi Cura](https://open.spotify.com/album/1Xl0SgVxdlEC9plEg5KMFY) | 2:40 |
+| 9 | [Nati stelle](https://open.spotify.com/track/4K3pG3mH2QXSO1MpwwpMtH) | [COMRAD](https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT) | [Nati stelle](https://open.spotify.com/album/51UZSmFwSNwweOOKdQ0VLf) | 2:07 |
+| 10 | [Cicale](https://open.spotify.com/track/2YaQSA2uGjEeVUQtsjX9Ew) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Cicale](https://open.spotify.com/album/67fheAlF6keL8ZDYb5S2W6) | 3:26 |
 | 11 | [La forma mutevole della perfezione](https://open.spotify.com/track/2A66Vkewxh46W3uCCN9XF9) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [La forma mutevole della perfezione](https://open.spotify.com/album/3ia1ux1iRA3LPjfUKNMScf) | 3:02 |
 | 12 | [Mi piace quello che è vero](https://open.spotify.com/track/7rEnQc2M6jzto3d6ijNUUz) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Garage Pordenone](https://open.spotify.com/album/2YsXkYTQUjxNhR4XcU386t) | 3:25 |
 | 13 | [666](https://open.spotify.com/track/1ljwn9Y3fqgjexPwCOw0fi) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [666](https://open.spotify.com/album/57WA9HoR4PeU7rB36FKXEQ) | 2:52 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 94 | [Dio Perdona Riganò](https://open.spotify.com/track/32PGvTgE2XnnOEA7q5iBSH) | [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2), [Federico Russo](https://open.spotify.com/artist/59X6Bdr9ODM1JhhPUTAV5r) | [Dio Perdona Riganò](https://open.spotify.com/album/4vugHFUCH2zYj6jXplOJHr) | 3:06 |
 | 95 | [Pistola \(feat\. Tripolare\)](https://open.spotify.com/track/1x4m8pipnJNqg3DnPzN54F) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Il Grande Fulmine](https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ) | 3:49 |
 
-Snapshot ID: `Zn3hHAAAAAB1nBrkrQOlW+0zUJqCdRyN`
+Snapshot ID: `ZoLCKgAAAAAgy2heDLVZETPlHIV0xbOn`

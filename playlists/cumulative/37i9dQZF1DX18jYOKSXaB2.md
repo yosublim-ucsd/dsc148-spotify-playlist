@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX18jYOKSXaB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX18jYOKSXaB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX18jYOKSXaB2)
 
-### [Small Chops ](https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2)
+### [African Wedding Party ](https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2)
 
-> Songs fit for an African wedding
+> Goes best with small chops and party jollof
 
 123 songs - 6 hr 21 min
 

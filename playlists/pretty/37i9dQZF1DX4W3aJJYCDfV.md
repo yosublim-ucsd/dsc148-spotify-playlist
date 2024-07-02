@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Headie One \(pictured\), SOPHIE, Olivia Dean and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,080 likes - 121 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,141 likes - 121 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

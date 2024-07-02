@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,403 songs - 2 day 4 hr 51 min
+1,405 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [indigo](https://open.spotify.com/track/68tQkY1CYZzMVf7PTf4YUa) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [indigo](https://open.spotify.com/album/10h3eJEijIHzjSPePAAcHd) | 1:35 | 2022-10-28 | 2022-11-24 |
 | [Indio Kitchen](https://open.spotify.com/track/7zWAPb4lfB1ablMT1J6OYq) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Indio Kitchen](https://open.spotify.com/album/4oRv3weB5j1QwoRzs8YdgP) | 1:42 | 2024-01-12 |  |
 | [Inexplicable](https://open.spotify.com/track/31jM00OfTqihLIs95Q3DWU) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Inexplicable](https://open.spotify.com/album/2xMmlmjGVdpQRCsLVHV9GS) | 2:38 | 2023-04-20 | 2023-09-29 |
+| [Ink bottle](https://open.spotify.com/track/18PvH11CdBh6R62YT1U1rW) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Ink bottle](https://open.spotify.com/album/6goq1DnyJRTKwsGjJCa4Aq) | 2:32 | 2024-06-28 |  |
 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 | 2022-01-27 | 2022-05-20 |
 | [Inside Time](https://open.spotify.com/track/6SkGbqgn8bi7HmijsKqvik) | [fakename](https://open.spotify.com/artist/0BUWlzdVAow3whRDUIQOV9) | [Inside Time](https://open.spotify.com/album/3J1CZJxth6KUV94yEGJ0Xq) | 2:07 | 2022-11-25 | 2023-09-29 |
 | [Intangible](https://open.spotify.com/track/1zolBVsZLjNy5dBgDv0CCD) | [Southern Structure](https://open.spotify.com/artist/5JJ1xxpb11qLyqR1BktdIk) | [Intangible](https://open.spotify.com/album/0M0pz2DCYdCCOUmZGBPEfV) | 2:27 | 2022-01-27 | 2022-04-08 |
@@ -1000,6 +1001,7 @@
 | [Rendez\-vous](https://open.spotify.com/track/6EgZUpZJofaM76rsbSniTX) | [Hentzup](https://open.spotify.com/artist/46lgw0sjtMASpdeuxkLfq0) | [Rendez\-vous](https://open.spotify.com/album/24BQOSqr6aO5jq0Nqb4H20) | 1:47 | 2022-04-22 | 2022-11-26 |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-01-27 | 2023-03-09 |
 | [Rest Assured](https://open.spotify.com/track/0iNW8VuTW4JopOHFXo9Hmw) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Rest Assured](https://open.spotify.com/album/5rCipxXRKwo2xSf8CEkVw3) | 1:47 | 2023-04-20 |  |
+| [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 |  |
 | [Retro Days](https://open.spotify.com/track/2MXFQr1vpjn0zydw33E6ZR) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [Retro Days](https://open.spotify.com/album/03WAKWZz7kIzkiC9IEL5Ev) | 1:44 | 2022-04-08 | 2023-04-21 |
 | [Retro Jam](https://open.spotify.com/track/0V85fXmfJc9ntKDdr6ghkd) | [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Retro Jam](https://open.spotify.com/album/1j0UX5DoUMifzpwA0P4nym) | 2:18 | 2022-05-13 | 2022-11-20 |
 | [Retro Jam](https://open.spotify.com/track/5jZ5IjsDGXQax377Tslqvh) | [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Retro Jam](https://open.spotify.com/album/7rBw7Zjroo8hf6nqjXoWhC) | 2:18 | 2022-11-11 | 2022-11-26 |
@@ -1133,7 +1135,7 @@
 | [Spanish Tea](https://open.spotify.com/track/0crQI3ryIPyMbWxcI25mYf) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Spanish Tea](https://open.spotify.com/album/5hUlagOKj7afZAb2q09ZcK) | 2:03 | 2022-01-27 | 2023-05-20 |
 | [speakeasy](https://open.spotify.com/track/0UROH815rGAihfICtdgk2r) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [speakeasy](https://open.spotify.com/album/5ZrgqlxNkLV8l0o6PaVNzu) | 1:24 | 2022-09-30 | 2023-09-22 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-27 | 2022-07-01 |
-| [Speed Of Tomorrow](https://open.spotify.com/track/7wIr7S0dD59uhCsspA2y7K) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Speed Of Tomorrow](https://open.spotify.com/album/0OO47hC9O9Y9OkuK9y95d6) | 2:04 | 2022-09-02 |  |
+| [Speed Of Tomorrow](https://open.spotify.com/track/7wIr7S0dD59uhCsspA2y7K) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Speed Of Tomorrow](https://open.spotify.com/album/0OO47hC9O9Y9OkuK9y95d6) | 2:04 | 2022-09-02 | 2024-07-02 |
 | [Spinach](https://open.spotify.com/track/3fhiTiCkp2Vb2T5bpNsopZ) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [GRN](https://open.spotify.com/album/6gVEbL9Gpyx2oYIcNAdr7N) | 2:37 | 2022-01-27 | 2022-09-03 |
 | [Spiritual State](https://open.spotify.com/track/5JrPCcTiJMNvQmZ3OAiHNf) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Spiritual State](https://open.spotify.com/album/1IO6AGIqlwckR4lWUGaVSR) | 1:14 | 2022-11-11 | 2023-09-29 |
 | [springfeel](https://open.spotify.com/track/3tiJSouABGhdavwAdtxaoS) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [springfeel](https://open.spotify.com/album/5B5FChuXQYXVZHXeidfbGM) | 2:12 | 2023-07-13 | 2024-05-14 |
@@ -1142,7 +1144,7 @@
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 | 2024-05-18 |
 | [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 |  |
-| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 |  |
+| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-07-02 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 | 2024-05-18 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-01-27 | 2022-11-12 |

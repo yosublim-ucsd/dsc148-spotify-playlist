@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/6xUMHjAPsjdwBeDpfT42wg.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Brother, Can You Spare A Dime](https://open.spotify.com/track/5DdErvDJ6HOq2qkO31jryS) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Broadway: The American Musical](https://open.spotify.com/album/2BeQ3RCly0E11KKO66jRp4) | 3:11 |
+| 1 | [Brother, Can You Spare A Dime](https://open.spotify.com/track/5DdErvDJ6HOq2qkO31jryS) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [J\. Gorney](https://open.spotify.com/artist/2d4CIeqdughhGLtLbmwufX), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Broadway: The American Musical](https://open.spotify.com/album/2BeQ3RCly0E11KKO66jRp4) | 3:11 |
 | 2 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 3 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 |
 | 4 | [How Can a Poor Man Stand Such Times and Live](https://open.spotify.com/track/3uPImxAltF6FcSGIC3OPWq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [We Shall Overcome: The Seeger Sessions \(American Land Edition\)](https://open.spotify.com/album/2O3avtEIE8xX9F0zcIjIZI) | 3:21 |

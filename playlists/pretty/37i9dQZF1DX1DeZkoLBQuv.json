@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8137,
+  "num_followers": 8135,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Outra Vez, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 282500,
       "name": "Como Um de N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
+        }
+      ],
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "O Primeiro Natal",
         "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 278000,
       "name": "O Primeiro Natal",
       "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
-        }
-      ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",

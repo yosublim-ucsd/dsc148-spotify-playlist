@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 75549,
+  "num_followers": 75551,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAACNdaylMFGELZmPw2Ny7ZRG",
+  "snapshot_id": "ZoCgAAAAAACGiOqTAA1m3+js2ab8acdR",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casas de Madera",
-        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "S\u00f3lo una Patada",
-      "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Norte\u00f1as De Exito Herencia Musical De",
         "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 175840,
       "name": "Bonita Finca de Adobe",
       "url": "https://open.spotify.com/track/3I8xz1gfBtfz4qYC8VzTuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "S\u00f3lo una Patada",
+      "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Central Camionera",
-        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Central Camionera",
-      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pero Yo No La Conozco",
         "url": "https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 173120,
       "name": "Y Lloro Por Ella Mi Gorri\u00f3n",
       "url": "https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Central Camionera",
+      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Y Caricias",
-        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 149586,
-      "name": "Besos Y Caricias",
-      "url": "https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 185280,
       "name": "Recuerdos Tristes",
       "url": "https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Y Caricias",
+        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 149586,
+      "name": "Besos Y Caricias",
+      "url": "https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Tener Alas",
-        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Quisiera Tener Alas",
-      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
         "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 167133,
       "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
       "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Tener Alas",
+        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Quisiera Tener Alas",
+      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
     },
     {
       "added_at": null,

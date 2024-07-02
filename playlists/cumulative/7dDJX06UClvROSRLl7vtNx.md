@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-424 songs - 18 hr 30 min
+425 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Stuck In Paradise](https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U) | 2:04 | 2023-12-27 | 2024-02-05 |
 | [Stuck In The Middle](https://open.spotify.com/track/6niBwol34bKc0LXRRHHIGD) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Benjamin Roustaing](https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI) | [Stuck In The Middle](https://open.spotify.com/album/4UNEF0Hg8VPo86RAaa9Hba) | 3:24 | 2024-01-14 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-05-14 |  |
+| [Stumblin' In](https://open.spotify.com/track/4QECgFL34Co7AdI0YBz3VQ) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Stumblin' In](https://open.spotify.com/album/3wsnQV7qFBqQOe8nedgjPJ) | 2:57 | 2024-07-01 |  |
 | [Sugar \(feat\. Eirik Næss\)](https://open.spotify.com/track/3JWBhbcviDe1gIvZS3wwFa) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Sugar](https://open.spotify.com/album/3wCwbzjcVI6PNPyWGuH3AG) | 2:45 | 2023-09-22 | 2024-06-19 |
 | [Summer](https://open.spotify.com/track/2uyWpCJ6Z0t8IhCzRV1KS9) | [Ana Maria](https://open.spotify.com/artist/2Slr8kvRh1iYRmb2qbfzx9), [Elary](https://open.spotify.com/artist/1s10EzzbWWO6LU4r1dHZ3y) | [Summer](https://open.spotify.com/album/0FvxLUC6vKduCf360e8dvS) | 2:12 | 2024-06-30 |  |
 | [Summer](https://open.spotify.com/track/5LEPFFaFzcjKsImMnhLsvS) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Summer](https://open.spotify.com/album/4XMGrmBKPdMZJtGtrHYpID) | 2:17 | 2024-06-09 |  |

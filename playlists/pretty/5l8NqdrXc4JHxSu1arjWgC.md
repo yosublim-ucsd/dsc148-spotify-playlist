@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,367 likes - 701 songs - 1 day 23 hr 3 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,368 likes - 703 songs - 1 day 23 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,5 +709,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 699 | [Church Bells](https://open.spotify.com/track/4X7odtlm2ufZKXJR5QNHoJ) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:06 |
 | 700 | [They Don't Know How To Fall In Place](https://open.spotify.com/track/39u1WhGogGr2ZJ2WKP6ENt) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:33 |
 | 701 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 |
+| 702 | [So Lo](https://open.spotify.com/track/0wWr1lUi1ia140e8boOGxg) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:48 |
+| 703 | [Black Lung](https://open.spotify.com/track/5BzbAnz2B6mqZCgqiHN7w0) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 4:28 |
 
-Snapshot ID: `AAAGuWGw6W/x6QdMSLnVE1QjcFhRmzZy`
+Snapshot ID: `AAAGu9Wa1pLLAeGYjrtQJz3tIzw/93AE`

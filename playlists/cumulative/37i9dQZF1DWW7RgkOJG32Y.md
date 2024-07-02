@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Koe Wetzel
+> Top trending country tracks from the last few months\. Cover: Riley Green and Ella Langley
 
 419 songs - 22 hr 25 min
 

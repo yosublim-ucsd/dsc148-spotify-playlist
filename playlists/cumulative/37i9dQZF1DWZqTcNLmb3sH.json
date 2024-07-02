@@ -15354,7 +15354,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 117282,
       "name": "Maathalli Donnevarse (From \"Matinee\")",
       "url": "https://open.spotify.com/track/5qX8AFALLImg9i4UkYf14V"
@@ -19764,7 +19764,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 165780,
       "name": "Neenirade (From \"Matinee\")",
       "url": "https://open.spotify.com/track/5kOdyuz2zpGRSqT1t4X9Ep"
@@ -26246,6 +26246,36 @@
       "duration_ms": 251825,
       "name": "Step Love Song Ge (From \"Raj Sounds and Lights\")",
       "url": "https://open.spotify.com/track/2a4dkjFFnaXOBy6sGHtTHy"
+    },
+    {
+      "album": {
+        "name": "Double ISMART (Kannada)",
+        "url": "https://open.spotify.com/album/70kOrxctNEWiOaGY51PWxX"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Kaushik Harsha",
+          "url": "https://open.spotify.com/artist/4zTNqvFFrgCFjsZ3CArDso"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232221,
+      "name": "SteppaMaar",
+      "url": "https://open.spotify.com/track/3kLBHcjJIkbIq60qznve2v"
     },
     {
       "album": {

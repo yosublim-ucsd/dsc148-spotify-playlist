@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > ANNA in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,016 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,043 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 99 | [Calici di gemme](https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD) | [Pufuleti](https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Gotico Romanzo](https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT) | 2:11 |
 | 100 | [Ragazza del ‘99](https://open.spotify.com/track/76uaJQ5isjG1PV998e5ulQ) | [Boetti](https://open.spotify.com/artist/1DBR12wJQpK03Xe1M6G0vt) | [Ragazza del ‘99](https://open.spotify.com/album/0z7UGEskI3o62QgXlSZ2DQ) | 3:00 |
 
-Snapshot ID: `Zn5kOgAAAACQZbmnQLMY5ruCZTJyNDLR`
+Snapshot ID: `ZoK+vwAAAAB5d/UcZdEYJhqfxcfei/nf`

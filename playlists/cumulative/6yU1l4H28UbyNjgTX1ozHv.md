@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-243 songs - 12 hr 37 min
+244 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [I Can't Make You Love Me \- Acoustic](https://open.spotify.com/track/2WuNAjCLYRomvd5eo6vTTl) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Can't Make You Love Me \(Acoustic\)](https://open.spotify.com/album/7vPiUhm51cAId7hkU7Xtb4) | 3:12 | 2023-04-28 | 2023-05-10 |
 | [I Forgot That You Existed \- Acoustic](https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [I Forgot That You Existed \(Acoustic\)](https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276) | 2:51 | 2023-02-26 |  |
 | [I Get The Sweetest Feeling \- Acoustic](https://open.spotify.com/track/6MYxowxw5LT2LzE5pwCdHt) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [I Get The Sweetest Feeling \(Acoustic\)](https://open.spotify.com/album/4w1g8oUimwJzYhmCK4O67j) | 3:35 | 2019-10-13 | 2022-06-18 |
+| [I Got You Babe \- Acoustic](https://open.spotify.com/track/1upeWsF2tpALKVtHrbWNXt) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [I Got You Babe \(Acoustic\)](https://open.spotify.com/album/351g52REOmegsGgbgTGBM5) | 2:46 | 2024-07-01 |  |
 | [I Knew You Were Waiting \(For Me\) \- Acoustic](https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Knew You Were Waiting \(For Me\) \[Acoustic\]](https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn) | 3:17 | 2021-08-20 |  |
 | [I Only Want to Be With You \- Acoustic](https://open.spotify.com/track/7FwXCHczHaCuLoneBque7B) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Only Want to Be With You \(Acoustic\)](https://open.spotify.com/album/0oSKcdd3xTEP3H0qR0oQbf) | 2:10 | 2022-07-15 | 2023-01-07 |
 | [I Say a Little Prayer \- Acoustic](https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [I Say a Little Prayer \(Acoustic\)](https://open.spotify.com/album/2i4NA7UAPKB98sVypxJJr8) | 2:06 | 2022-09-09 | 2023-01-07 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-480 songs - 1 day 1 hr 23 min
+481 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-02-04 | 2024-03-06 |
 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 | 2024-06-25 |  |
 | [Club classics](https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:33 | 2024-06-08 | 2024-06-26 |
-| [COLOMBIANA HOODTRAP](https://open.spotify.com/track/06SdqiJE5RXiqCWWuaWZuw) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [COLOMBIANA HOODTRAP](https://open.spotify.com/album/4ZwII8g800xpsE8bTJ2LnC) | 1:15 | 2024-05-12 |  |
+| [COLOMBIANA HOODTRAP](https://open.spotify.com/track/06SdqiJE5RXiqCWWuaWZuw) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [COLOMBIANA HOODTRAP](https://open.spotify.com/album/4ZwII8g800xpsE8bTJ2LnC) | 1:15 | 2024-05-12 | 2024-07-02 |
 | [Come back to me](https://open.spotify.com/track/62HKW77nt6tudsIHXT2A0M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 6:28 | 2024-05-28 | 2024-06-13 |
 | [CONTENT EXPLICIT](https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [CONTENT EXPLICIT](https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X) | 2:35 | 2024-01-29 | 2024-02-03 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-03-05 | 2024-03-07 |
@@ -336,6 +336,7 @@
 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2024-06-12 |  |
 | [Perna Bamba](https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Diferentão](https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl) | 2:07 | 2024-02-14 | 2024-02-21 |
 | [Perreando Sola](https://open.spotify.com/track/4Mj7m2CEZojrkHQmzihuJ3) | [2mileros](https://open.spotify.com/artist/3OAj7vUyUxSDUO0vSzNNlI), [KEV](https://open.spotify.com/artist/1LyzBzKx2WkyZryRXUf9F2), [Nuno.w](https://open.spotify.com/artist/3w2J3VDmUanaq2U1hO1p33), [Ezelinn](https://open.spotify.com/artist/7t40e6QgPXtjz49hmwy85U), [Chris LA](https://open.spotify.com/artist/7b7CyP9FGowIqxtxPTO4B1) | [Perreando Sola](https://open.spotify.com/album/4zb8FgRRGk74SFTUJ81vCJ) | 2:29 | 2024-04-01 | 2024-04-09 |
+| [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-07-01 |  |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-20 | 2024-05-07 |
 | [PIRLO](https://open.spotify.com/track/5NXGXxxSsJo2HBZC1brxj4) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:43 | 2024-05-07 | 2024-05-15 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-25 |  |

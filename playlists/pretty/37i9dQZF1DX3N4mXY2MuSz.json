@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 62406,
+  "num_followers": 62404,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 127733,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "X Christmas",
         "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 212680,
       "name": "His Favorite Christmas Story",
       "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 127733,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -279,22 +279,6 @@
       "duration_ms": 242186,
       "name": "The Season's Upon Us",
       "url": "https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 109186,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 99573,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
+      "duration_ms": 109186,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -475,22 +459,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "It's Christmas And I Fucking Miss You",
         "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
       },
@@ -511,18 +479,34 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
         }
       ],
-      "duration_ms": 124653,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
+      "duration_ms": 203529,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 99573,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -543,6 +527,22 @@
       "duration_ms": 234893,
       "name": "Things I Want",
       "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Black Christmas",
-        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
-      },
-      "artists": [
-        {
-          "name": "Poly Styrene",
-          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Black Christmas",
-      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Shatner Claus",
         "url": "https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 199110,
       "name": "Jingle Bells - Punk Rock Version",
       "url": "https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Black Christmas",
+        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
+      },
+      "artists": [
+        {
+          "name": "Poly Styrene",
+          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Black Christmas",
+      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christma-ska",
-        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "This Is a Christmas Match",
         "url": "https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 128099,
       "name": "This Is a Christmas Match",
       "url": "https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christma-ska",
+        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "The Double EP",
-        "url": "https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH"
-      },
-      "artists": [
-        {
-          "name": "The Downtown Fiction",
-          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
-        }
-      ],
-      "duration_ms": 145211,
-      "name": "Forgot It Was Christmas",
-      "url": "https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "It's Better to Give Than Receive",
         "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 158552,
       "name": "Lonely This Christmas",
       "url": "https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "The Double EP",
+        "url": "https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH"
+      },
+      "artists": [
+        {
+          "name": "The Downtown Fiction",
+          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
+        }
+      ],
+      "duration_ms": 145211,
+      "name": "Forgot It Was Christmas",
+      "url": "https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Attack of the Killer B-Sides",
         "url": "https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 190137,
       "name": "Christmas At My House",
       "url": "https://open.spotify.com/track/3tNGeh2arYnVYQTsyQs51E"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
     },
     {
       "added_at": "2023-11-18 13:41:26",

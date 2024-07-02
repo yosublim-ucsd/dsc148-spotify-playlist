@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 238614,
       "name": "HERO",
       "url": "https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5"
@@ -5002,6 +5002,24 @@
       "duration_ms": 178623,
       "name": "Party Woman",
       "url": "https://open.spotify.com/track/56SIJ2f1VKqeJouNvTmsdY"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
     },
     {
       "album": {

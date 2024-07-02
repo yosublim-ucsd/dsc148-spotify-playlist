@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 220380,
       "name": "Cerrero Hollywood",
       "url": "https://open.spotify.com/track/0kkkPJLXpZvZMPX0jD0tcK"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 165957,
       "name": "talunan (b4twenty freestyle)",
       "url": "https://open.spotify.com/track/2Pu9B3qjWpAyjqWMFf4quE"
@@ -3274,6 +3274,28 @@
       "duration_ms": 165666,
       "name": "WholeLotta$$$",
       "url": "https://open.spotify.com/track/62RvyiPNzwqUfUlaalPRf3"
+    },
+    {
+      "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/1vm29cEdbgKVxwFHFztmKB"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        },
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185476,
+      "name": "Yes Hello",
+      "url": "https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH"
     },
     {
       "album": {

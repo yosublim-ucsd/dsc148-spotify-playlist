@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,479 songs - 3 day 8 hr 47 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,480 songs - 3 day 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1487,5 +1487,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1477 | [Haunted](https://open.spotify.com/track/1c76N9QprvsTLqLAY51Q6z) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Haunted EP](https://open.spotify.com/album/1waRfrw9AJdVPJbARp2cYQ) | 5:00 |
 | 1478 | [The Unknown](https://open.spotify.com/track/3Zh6HPk8CXyrorF2cYTUkr) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [The Unknown](https://open.spotify.com/album/7uyGlq5083wMjPlklmQVoh) | 3:33 |
 | 1479 | [Electronic Universe](https://open.spotify.com/track/2RNfcVb3cE39PztJECqdDI) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Electronic Universe](https://open.spotify.com/album/4Xb07nPtieoHVPNX5hZsGW) | 4:06 |
+| 1480 | [Kingdoms Hero](https://open.spotify.com/track/0nKfjIBlvW8s92zrFdLviM) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B) | [Kingdoms Hero](https://open.spotify.com/album/0knPQcjn6NfmAmlCbHnQuE) | 4:00 |
 
-Snapshot ID: `AAAF9Cs07zlXQ5xpjeHxv76gX4UUl4tT`
+Snapshot ID: `AAAF9TuMuLIN71JDTpjzERZFQCd4Hets`

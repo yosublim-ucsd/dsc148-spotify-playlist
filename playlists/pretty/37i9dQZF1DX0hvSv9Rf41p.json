@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ISOKNOCK",
-  "num_followers": 976273,
+  "num_followers": 976277,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1525,26 +1525,6 @@
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
-      "added_at": "2024-06-07 04:01:30",
-      "album": {
-        "name": "LSZEE",
-        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "FRENCH DREAM",
-      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "The von dutch remix with skream and benga",
@@ -1567,6 +1547,26 @@
       "duration_ms": 281142,
       "name": "The von dutch remix with skream and benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
+    },
+    {
+      "added_at": "2024-06-07 04:01:30",
+      "album": {
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "FRENCH DREAM",
+      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1673,26 +1673,6 @@
       "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "MARAVILLOSA",
@@ -1713,24 +1693,24 @@
       "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "MELLOFIRE",
-        "url": "https://open.spotify.com/album/0EFGzNvzeRJEwYzxDiavHd"
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         },
         {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 240000,
-      "name": "MELLOFIRE",
-      "url": "https://open.spotify.com/track/050CY7MuMkVwG6SQFGEeTQ"
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1775,6 +1755,26 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "MELLOFIRE",
+        "url": "https://open.spotify.com/album/0EFGzNvzeRJEwYzxDiavHd"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "MELLOFIRE",
+      "url": "https://open.spotify.com/track/050CY7MuMkVwG6SQFGEeTQ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Triumphant",
-        "url": "https://open.spotify.com/album/2iydNHZKt9KIQOFNnDAf4H"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Triumphant",
-      "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "On Forever",
         "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
       },
@@ -1985,6 +1965,26 @@
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Triumphant",
+        "url": "https://open.spotify.com/album/2iydNHZKt9KIQOFNnDAf4H"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Triumphant",
+      "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Mind Pluck",
@@ -2029,26 +2029,6 @@
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/4zgCfMqcRlSSYBd6hABwlm"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
-    },
-    {
       "added_at": "2024-02-12 18:48:17",
       "album": {
         "name": "Rainbow Funk",
@@ -2067,6 +2047,22 @@
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
     }
   ],
   "unique_name": "Bass Arcade",

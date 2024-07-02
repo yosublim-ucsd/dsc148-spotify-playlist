@@ -3359,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "Remember the Music",
+        "url": "https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244687,
+      "name": "Remember the Music",
+      "url": "https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U"
+    },
+    {
+      "album": {
         "name": "Repulsion",
         "url": "https://open.spotify.com/album/1yIRKNnDElaoWnk0bIDPiK"
       },

@@ -4,10 +4,11 @@
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-63 songs - 12 hr 15 min
+63 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 0:00 | 2020-10-13 |  |
 | [Aam Yes'alouni Aalayk](https://open.spotify.com/track/3M8GG5xKAM602ArbAQtSRB) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 5:57 | 2020-10-13 | 2023-04-26 |
 | [Ahwak](https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 4:58 | 2020-10-13 |  |
 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 | 2020-10-13 |  |
@@ -49,7 +50,6 @@
 | [La Mosh Ana Ely Abky](https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Agmal Oghneyat Mohamed Abd El Wahab](https://open.spotify.com/album/35GA4JraTNn23ovQjTWgcP) | 9:40 | 2020-10-13 |  |
 | [Machroul Alik Machroul](https://open.spotify.com/track/3cwqnP80jyybhbb8n1kIfW) | [Karem Mahmoud](https://open.spotify.com/artist/5553HL7hQzLU5cH2xWe0jR) | [Abtal El Ghad](https://open.spotify.com/album/6eKJZSFMeYoB8CqNa6GLft) | 6:15 | 2023-05-02 | 2024-03-12 |
 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 | 2020-10-13 | 2024-03-12 |
-| [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 | 2020-10-13 |  |
 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 | 2020-10-13 |  |
 | [Ounadikom](https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc) | [Ahmad Kaabour](https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi) | [Ounadikom](https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur) | 4:58 | 2020-10-13 | 2023-04-01 |
 | [Ounadikom](https://open.spotify.com/track/7by0pJbqYYAVPezua0a10W) | [Ahmad Kaabour](https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi) | [Ounadikom](https://open.spotify.com/album/6obVNKinoldjQbavxH9Khc) | 4:59 | 2023-02-21 | 2024-03-12 |

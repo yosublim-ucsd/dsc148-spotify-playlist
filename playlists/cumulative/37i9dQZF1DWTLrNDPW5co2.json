@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tove Lo & SG Lewis celebrate pride month with their guest curation takeover of Club Resistance!",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: Romy",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 300000,
       "name": "5 Mins Of Acid",
       "url": "https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 444128,
       "name": "Baby Forgive Me - Floorplan Remix",
       "url": "https://open.spotify.com/track/7cJc8d3xehiCE361kcXDEW"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 142752,
       "name": "Busy Girl",
       "url": "https://open.spotify.com/track/3CtAgFwiMPdKaX7caXldRV"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 158958,
       "name": "Do It For You",
       "url": "https://open.spotify.com/track/3IC5oKi7Fo7OLJlYj3fSOp"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 366306,
       "name": "Do You Wanna Funk?",
       "url": "https://open.spotify.com/track/7u1FUecu9iOM7AkEUHz1ce"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 411853,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/4erOSUsVztcG5FNyuqIA9Y"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 319302,
       "name": "Drift Into The Algorithm",
       "url": "https://open.spotify.com/track/0fi8a9rGYPcxjhdQWC7p1k"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 248215,
       "name": "Fuck The Pain Away (Peaches) - Remix",
       "url": "https://open.spotify.com/track/1AlZYf7mDRrIMI7N1k6Vwa"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 221762,
       "name": "Got Me Started - Bag Raiders Remix",
       "url": "https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 205270,
       "name": "I Need A Man",
       "url": "https://open.spotify.com/track/4gjsrFJjlvtOyuXjLbwIF0"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 238560,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 238286,
       "name": "Let me go OH OH",
       "url": "https://open.spotify.com/track/1Bsj770Tk7TNGMuvNCYWZp"
@@ -2702,10 +2702,32 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "album": {
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 167559,
       "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
@@ -2856,7 +2878,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 307900,
       "name": "Love Is Free - Original Mix",
       "url": "https://open.spotify.com/track/1kv6drs9T6nuijbXfAOBcV"
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 271969,
       "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
       "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
@@ -4016,7 +4038,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
@@ -4194,7 +4216,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 394570,
       "name": "Slow - Radio Slave Remix",
       "url": "https://open.spotify.com/track/62zZDjpafkkAEdnHZ3SeUu"
@@ -4376,7 +4398,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 334595,
       "name": "Sweet Devotion",
       "url": "https://open.spotify.com/track/7MxsDJl8a1piNsqGwheXKS"
@@ -4624,7 +4646,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 295471,
       "name": "Training Season - Chlo\u00e9 Caillet Mix",
       "url": "https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ"
@@ -4722,7 +4744,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 224283,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/4L54iRvfSVTa48NxYhHBIu"

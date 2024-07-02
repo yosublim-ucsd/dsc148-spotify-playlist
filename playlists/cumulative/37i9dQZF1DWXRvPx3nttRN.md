@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-429 songs - 1 day 0 hr 15 min
+430 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [One Dance](https://open.spotify.com/track/1cytFHPioxHjiepRrzfsFO) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Cover Sessions, Vol.3](https://open.spotify.com/album/4E4TWejbvkEMKjfRvjMmqA) | 3:09 | 2021-03-12 | 2022-07-29 |
 | [One Dance](https://open.spotify.com/track/3qUpZQ6JeayIpOPOi8FpbA) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Cover Sessions, Vol.3](https://open.spotify.com/album/4EoMHo5JqS8nF4WVsaLtDx) | 3:09 | 2022-04-22 | 2023-02-14 |
 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 | 2021-03-12 |  |
+| [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-07-01 |  |
 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 | 2021-03-12 |  |
 | [P.Y.T\. \(Pretty Young Thing\) \- Acoustic](https://open.spotify.com/track/3rsvlorTQ6B53i3NWF2bG5) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo) | [P.Y.T\. \(Pretty Young Thing\) \[Remixes\]](https://open.spotify.com/album/1zIuygzVP1yIpQbaKRuSwl) | 2:24 | 2022-04-22 | 2024-04-02 |
 | [P.Y.T\. \(Pretty Young Thing\) \- Acoustic](https://open.spotify.com/track/4IzPiAlXn7xjNEcstgEWYE) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo) | [P.Y.T\. \(Pretty Young Thing\) \[Remixes\]](https://open.spotify.com/album/1k77Ve8g0D9ldenkU3Dyn4) | 2:24 | 2022-04-22 | 2022-10-13 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 227473,
+  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
+  "num_followers": 227508,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAAD4ikuFLI6XiXsYy8nJ3Rwh",
+  "snapshot_id": "ZoCgAAAAAACSkECtIwNtLIl2svcDPB+r",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
       },
@@ -655,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "Perfetto",
+      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 279666,
       "name": "Estrella Gemela",
       "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Completamente Enamorados",
-      "url": "https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros 30 (Spanish/Latin Version)",
-        "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
       "artists": [
         {
@@ -712,25 +728,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "Una storia importante",
-      "url": "https://open.spotify.com/track/17v4BXFKtbYmJFPqBgpGla"
+      "duration_ms": 251866,
+      "name": "Completamente Enamorados",
+      "url": "https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO"
     },
     {
       "added_at": null,
@@ -755,6 +755,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "Una storia importante",
+      "url": "https://open.spotify.com/track/17v4BXFKtbYmJFPqBgpGla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Spanish/Latin Version)",
+        "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vita Ce N'\u00e8",
         "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
       },
@@ -771,6 +803,54 @@
       "duration_ms": 210613,
       "name": "Per Le Strade Una Canzone (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/6e75CS2hDy0ABDiO6Lj0wO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Of Pavarotti",
+        "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Pierangelo Cassano",
+          "url": "https://open.spotify.com/artist/6CqL00R5aLssfYFfxef5b5"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Rob Mathes",
+          "url": "https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC"
+        },
+        {
+          "name": "Robbie Kondor",
+          "url": "https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY"
+        },
+        {
+          "name": "Orchestra filarmonica di Torino",
+          "url": "https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU"
+        },
+        {
+          "name": "Marco Boemi",
+          "url": "https://open.spotify.com/artist/2tYvY5iGtDhQ0eUwEaHnCx"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Se Bastasse Una Canzone",
+      "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
     },
     {
       "added_at": null,
@@ -803,54 +883,6 @@
       "duration_ms": 249893,
       "name": "Ma che bello questo amore",
       "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Battito Infinito",
-        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "Gli ultimi romantici",
-      "url": "https://open.spotify.com/track/2rPRLpdjm0qpXzfM46piJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vita Ce N'\u00e8",
-        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Vita Ce N'\u00e8",
-      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Yo sin ti - Remastered 2021",
-      "url": "https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

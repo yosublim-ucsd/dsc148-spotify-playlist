@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
+  "description": "This is Jelly Roll. Az \u00f6sszes kihagyhatatlan sz\u00e1m egyetlen m\u0171sorlist\u00e1ban.",
   "name": "This Is Jelly Roll",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 161666,
       "name": "Dance With Ghosts",
       "url": "https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 173466,
       "name": "Even Angels Cry",
       "url": "https://open.spotify.com/track/6IubO8kA1YB2rxPMKqXK9N"

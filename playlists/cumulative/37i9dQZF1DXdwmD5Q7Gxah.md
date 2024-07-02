@@ -4,7 +4,7 @@
 
 > happy 5 years of lorem\. thank you for listening :\) cover: coco & clair clair
 
-2,867 songs - 6 day 10 hr 43 min
+2,869 songs - 6 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [2D](https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [2D](https://open.spotify.com/album/3tHc4SsvGMU2W6DcAiGkXT) | 3:11 | 2023-06-23 | 2023-08-16 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-06-24 |
 | [35.31](https://open.spotify.com/track/4vS4FB3HXgOSmICeqEY0Gh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 3:56 | 2020-03-25 | 2021-01-12 |
-| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-10 |  |
+| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-10 | 2024-07-02 |
+| [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-07-01 |  |
 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 | 2022-05-31 | 2022-06-24 |
 | [4am](https://open.spotify.com/track/3DLhIFONTMbC70Pim6wFX7) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [4am](https://open.spotify.com/album/6gg9pFAiI2Ddo0RmVvMwbT) | 3:13 | 2022-02-25 | 2022-04-09 |
 | [4ever](https://open.spotify.com/track/1UgaioSUNBZQ5xyCiAhfAU) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:41 | 2021-07-17 | 2022-01-08 |
@@ -175,6 +176,7 @@
 | [Aphrodite](https://open.spotify.com/track/0XIH3R3fwPOlELF70Oh68h) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [Evangeline](https://open.spotify.com/album/0oHP9K3YUilwr2ngbbAKBU) | 3:05 | 2020-10-07 | 2020-11-11 |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-06 | 2022-08-19 |
 | [Apocalypse Love Song](https://open.spotify.com/track/5sisWMCOONgnbPJ5Q4MZq9) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Apocalypse Love Song](https://open.spotify.com/album/4xb97mzuYxZctEoVl7bhL3) | 2:35 | 2022-07-08 | 2022-09-09 |
+| [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-01 |  |
 | [Apple Eyes](https://open.spotify.com/track/58FNz5tnNUe6CTd3qw0yK0) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Apple Eyes](https://open.spotify.com/album/3NSyGzvWx2LF3cY9rXh8qR) | 2:10 | 2020-10-07 | 2021-03-06 |
 | [Applesauce](https://open.spotify.com/track/2bsTfDQBc5kmDReErSCrtD) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Applesauce](https://open.spotify.com/album/1SI4bzbzGHvIrNzoe0tHl7) | 3:21 | 2019-10-25 | 2020-02-20 |
 | [Apricots](https://open.spotify.com/track/3tWR8p2FEEHbBsmDmTce9l) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/5gj1qZoL0z8cOMWzSP77Ae) | 3:12 | 2020-10-30 | 2021-03-14 |
@@ -797,7 +799,7 @@
 | [Everything \(That Should Go\)](https://open.spotify.com/track/7dhMdKFbUQC3IFCQt7LRQk) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Everything \(That Should Go\)](https://open.spotify.com/album/3UgCI9hh49Zce6uD2IYly8) | 3:21 | 2021-06-05 | 2021-06-11 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2019-11-14 | 2020-04-22 |
 | [Everything Is Quiet](https://open.spotify.com/track/4oSKJkY3P8XOsxliqvn0cy) | [allie](https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC) | [Everything Is Quiet](https://open.spotify.com/album/53aANm9TyGbUrk3ZN6l6xL) | 4:13 | 2021-06-05 | 2021-06-11 |
-| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-09 |  |
+| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-09 | 2024-07-02 |
 | [Everything You Want](https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [WHY NOT](https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz) | 3:00 | 2022-05-06 | 2022-05-28 |
 | [Everything's Fine](https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:52 | 2021-01-13 | 2021-04-15 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-04-22 |

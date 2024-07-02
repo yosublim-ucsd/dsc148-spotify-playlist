@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 220431,
       "name": "Casual",
       "url": "https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 213107,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu"
@@ -5029,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Little by Little",
+        "url": "https://open.spotify.com/album/4LKa943xAqsfz0sU9n2y4m"
+      },
+      "artists": [
+        {
+          "name": "Black Door Band",
+          "url": "https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270123,
+      "name": "Little by Little",
+      "url": "https://open.spotify.com/track/7g7Vv0WnwNwOFnrdHVVepW"
+    },
+    {
+      "album": {
         "name": "Lover For The Day",
         "url": "https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq"
       },
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 208060,
       "name": "Me And You",
       "url": "https://open.spotify.com/track/0vfe8079vTAVIyluKYXQnt"
@@ -6873,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Our Time Together",
+        "url": "https://open.spotify.com/album/3uDEqgHrvm2levSRrq2NWD"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Our Time Together",
+      "url": "https://open.spotify.com/track/4AZcQolMBIHrcm0GevPB00"
+    },
+    {
+      "album": {
         "name": "Out In Post",
         "url": "https://open.spotify.com/album/4jyYeF6yp4Q2g6zmItpBAg"
       },
@@ -7648,7 +7684,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 291506,
       "name": "Simple Pleasures",
       "url": "https://open.spotify.com/track/6T8bDagGPseQN443XT93yr"
@@ -8586,7 +8622,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 196974,
       "name": "That\u00b4s All",
       "url": "https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn"
@@ -8752,6 +8788,24 @@
       "duration_ms": 185301,
       "name": "The Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey"
+    },
+    {
+      "album": {
+        "name": "The expensive kind",
+        "url": "https://open.spotify.com/album/49uuv7SiOwTc1IhFFJ5AFW"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "The expensive kind",
+      "url": "https://open.spotify.com/track/2C6K8sN1UkCUQxq8tQNT8d"
     },
     {
       "album": {
@@ -9090,7 +9144,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 156770,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/0jXJ9u642pUSnPNchzYadK"
@@ -9508,6 +9562,24 @@
       "duration_ms": 159765,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7"
+    },
+    {
+      "album": {
+        "name": "To The Shore",
+        "url": "https://open.spotify.com/album/1tF57mUHs97WPG3pdrDO3p"
+      },
+      "artists": [
+        {
+          "name": "Simple Paradise",
+          "url": "https://open.spotify.com/artist/6lvIL2hc3kaKcKZg0HAGm4"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258456,
+      "name": "To The Shore",
+      "url": "https://open.spotify.com/track/6rGUwt3EPE1GdQdmQr7bTy"
     },
     {
       "album": {

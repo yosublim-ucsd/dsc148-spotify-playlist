@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. The essential tracks, all in one playlist.
+> This Is Mc Luanna\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,047 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,058 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 42 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 |
 | 43 | [Pretinha Treinada](https://open.spotify.com/track/6JF2dUqE5ssSbkXewy69kB) | [Aln MC](https://open.spotify.com/artist/2UKjPOnAv85Gn1A7iQ1xiU), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Pretinha Treinada](https://open.spotify.com/album/3PvHopu3x889KYKNoIp51p) | 2:18 |
 | 44 | [Entre Fã e a Luana](https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:44 |
-| 45 | [Bonde da Hello Kit](https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Bonde da Hello Kit](https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP) | 1:48 |
-| 46 | [Sem Compaixão Bb](https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Sem Compaixão Bb](https://open.spotify.com/album/0TVMU8QT0Pqny3FhhExEOH) | 6:49 |
+| 45 | [Sem Compaixão Bb](https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Sem Compaixão Bb](https://open.spotify.com/album/0TVMU8QT0Pqny3FhhExEOH) | 6:49 |
+| 46 | [Bonde da Hello Kit](https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Bonde da Hello Kit](https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP) | 1:48 |
 | 47 | [SEM BARULHO](https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [REAL R&B](https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j) | 2:42 |
 | 48 | [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 |
 | 49 | [P\# do Caster](https://open.spotify.com/track/7jtmSFz55svHq6dBVle1wf) | [YgRick](https://open.spotify.com/artist/1OfI8AO20T9uF6I1eKVyqr), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [P\# do Caster](https://open.spotify.com/album/38oFdOTv1WRmtqdcyxGQpZ) | 2:58 |
 | 50 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 |
 
-Snapshot ID: `Zn9OgAAAAACDmRDZep3qxwy4gSMfZlx4`
+Snapshot ID: `ZoCgAAAAAABdHYgz7Tw2ynaplNiMjlqB`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-853 songs - 2 day 1 hr 44 min
+854 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,7 +758,7 @@
 | [سمع هس](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [سمع هس](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-07-19 | 2023-09-24 |
 | [سيبك من اللي خلع \(كان فقري مش وش دلع\) عصام صاصا الكروان \- محمود الليثي](https://open.spotify.com/track/4vZihMXPmhRlpON5zwBhLW) | [MINA\_KHALIL](https://open.spotify.com/artist/4NbEJrIXdugmiwkJ5oMRRg) | [سيبك من اللي خلع \(كان فقري مش وش دلع\) عصام صاصا الكروان \- محمود الليثي](https://open.spotify.com/album/2wfpcI11XXS5T5vA88NGQA) | 2:41 | 2023-09-26 | 2023-10-04 |
 | [سيبك من اللي خلع \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [سيبك من اللي خلع \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/5VVLkrKS5EIDoy3ehMbGNX) | 2:52 | 2023-10-12 |  |
-| [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/track/2hVnTuP0zdUEwHhME9ThnC) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/album/01v64ppe2dHzvYGzpIbZrn) | 4:08 | 2024-01-14 |  |
+| [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/track/2hVnTuP0zdUEwHhME9ThnC) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/album/01v64ppe2dHzvYGzpIbZrn) | 4:08 | 2024-01-14 | 2024-07-02 |
 | [سيري](https://open.spotify.com/track/6GC2ckZFyjdbAfAHPYRER2) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [سيري](https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ) | 3:33 | 2022-04-05 | 2022-04-23 |
 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 | 2023-09-23 | 2024-04-04 |
 | [شايفك متابع عصام صاصا و محمود الليثي \- \( سيبك اللي خلع \)](https://open.spotify.com/track/0mHuKt8J66Uvjvot1pM3Lm) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [شايفك متابع عصام صاصا و محمود الليثي](https://open.spotify.com/album/41oKKeUNmcZiWwX7BGRRF0) | 2:42 | 2023-09-24 | 2023-10-07 |
@@ -794,6 +794,7 @@
 | [كان نفسي](https://open.spotify.com/track/7e2Fzu33SbX4ECAB1Y1QDI) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/11HIxTQBH3GeszYzDaBqdG) | 4:13 | 2022-04-05 | 2022-07-29 |
 | [كدا كدا](https://open.spotify.com/track/61hVyNqkRxzDnvNc4OI53I) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [كدا كدا](https://open.spotify.com/album/1oHpj2IGj0cKxCeVgV8Ij9) | 4:15 | 2022-07-19 | 2022-07-21 |
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-09-22 | 2023-12-18 |
+| [كل الحلوين ولا شغلوني](https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [كل الحلوين ولا شغلوني](https://open.spotify.com/album/7eaXyyUI7I65rAKmi9dAEH) | 4:08 | 2024-07-01 |  |
 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 | 2024-03-02 | 2024-05-12 |
 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-09-26 | 2024-06-24 |
 | [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-26 | 2023-03-29 |

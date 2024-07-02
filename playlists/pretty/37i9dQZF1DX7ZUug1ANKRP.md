@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Timmy Trumpet, Naeleck, POLTERGST
+> The biggest Dance hits and the ones to come\. Cover: Phil The Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,822,986 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,823,121 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Seek Love \(On The Beach\)](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O) | 2:30 |
 | 50 | [Find Your Colors](https://open.spotify.com/track/56HxZFf73pHQstCUkkXDCa) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Blue Man Group](https://open.spotify.com/artist/7zHhscQ9kdR9fNGAffWz6z) | [Find Your Colors](https://open.spotify.com/album/7IHKd7eFQyTqWmv3MWFThK) | 2:39 |
 
-Snapshot ID: `ZnaBrwAAAAAF0/FIODP60dxNXsc/05GN`
+Snapshot ID: `ZoKgXwAAAADhZ4KR9DgFxnRpcSmQcynz`

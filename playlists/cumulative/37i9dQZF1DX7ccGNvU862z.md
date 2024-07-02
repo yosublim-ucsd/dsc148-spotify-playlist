@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: MILLI , Flower.far , GALCHANIE
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: OG\-ANIC
 
-402 songs - 22 hr 27 min
+403 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [ชนแก้ว](https://open.spotify.com/track/6M4R5waU23juv82femEYVl) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [ชนแก้ว](https://open.spotify.com/album/6tgu3ZJvtNUxnwtyS8uzdU) | 3:25 | 2023-09-22 | 2024-03-30 |
 | [ชอบทรงไหน](https://open.spotify.com/track/6j4j3ZhsWz89qhxTyBXqT4) | [BABYBIGBOY](https://open.spotify.com/artist/40vACwV6LsV979rQRvvEOD), [THAOWANZ](https://open.spotify.com/artist/1B2M6UfGB1zXfz5rDSEHs0), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [1LIFE](https://open.spotify.com/artist/3VFBXUdlBwoF7gGu8g3Yn3) | [ชอบทรงไหน](https://open.spotify.com/album/0XQzlCi0XrYMdme5M8HgHT) | 3:22 | 2023-09-22 |  |
 | [ชอบผมไหม? \(Do u like hair?\)](https://open.spotify.com/track/54F7OE2UAlSXHNx3TasRBJ) | [spingy](https://open.spotify.com/artist/65IgDP0KdfVt1klR6BzPl6) | [ชอบผมไหม? \(Do u like hair?\)](https://open.spotify.com/album/50xgr31D00Aak4Zqipi4aY) | 2:28 | 2024-02-01 | 2024-03-02 |
-| [ชอบหนู ?](https://open.spotify.com/track/3J0ygzMxPkCd0lwfqLy13B) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ), [DAIDAI](https://open.spotify.com/artist/715cBIQJdCfEsiAY89jopV) | [ชอบหนู ?](https://open.spotify.com/album/65J1dDVV51tn4TUmm43S3K) | 3:00 | 2024-06-20 |  |
+| [ชอบหนู ?](https://open.spotify.com/track/3J0ygzMxPkCd0lwfqLy13B) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ), [DAIDAI](https://open.spotify.com/artist/715cBIQJdCfEsiAY89jopV) | [ชอบหนู ?](https://open.spotify.com/album/65J1dDVV51tn4TUmm43S3K) | 3:00 | 2024-06-20 | 2024-07-02 |
 | [ช่วงเวลาที่มีค่า](https://open.spotify.com/track/5bErgQKOEXVDnKykQnqpS3) | [CHANASUEK](https://open.spotify.com/artist/05xFxJ62JjV5I2lqUfPyAx) | [ช่วงเวลาที่มีค่า](https://open.spotify.com/album/0WypZRjgbu5BcWQIcmYVkA) | 4:03 | 2023-10-06 | 2023-10-13 |
 | [ช่วยเลิกน่ารักสักวินาที](https://open.spotify.com/track/0A7WIDaopCgpEDaKQNvmqO) | [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA) | [ช่วยเลิกน่ารักสักวินาที](https://open.spotify.com/album/41zEIogW1DIxad2Qbeq5Rd) | 3:20 | 2024-01-18 | 2024-02-02 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2023-09-22 | 2024-02-21 |
@@ -369,6 +369,7 @@
 | [เลิกพูด](https://open.spotify.com/track/1TP7e77dujSjfsVeajlKvi) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [เลิกพูด](https://open.spotify.com/album/1WFu00GgNRG1giDjEVyIsd) | 3:37 | 2023-09-22 | 2024-06-15 |
 | [เหงา](https://open.spotify.com/track/3W5XQaWlAn8lTVG5EUoiaW) | [JOE TOSSAKAN](https://open.spotify.com/artist/60VgIYhqBwtISr0qyKLbF4) | [เหงา](https://open.spotify.com/album/6d7QaVRPFunP3TarwxBjA7) | 3:16 | 2023-09-22 | 2023-10-07 |
 | [แขกไม่ได้รับเชิญ](https://open.spotify.com/track/43zAOwpvxOLah65nZfybxZ) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [DAW](https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp), [FATBOII MQT](https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O) | [SAD PASSENGERS](https://open.spotify.com/album/0jT2qMo9gwz1O14p2NV4TG) | 3:18 | 2024-03-22 | 2024-03-30 |
+| [แค่เธอที่รู้](https://open.spotify.com/track/3yBAMHPyzKM9e1aimHNVjb) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [แค่เธอที่รู้](https://open.spotify.com/album/6IHMl6HGXW7pYFdztO04u0) | 4:05 | 2024-07-01 |  |
 | [แค่เผลอ](https://open.spotify.com/track/4RFxskKLyz7goYauK0lMzq) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [แค่เผลอ](https://open.spotify.com/album/7hrgQSom5WddmNq4zIeQOJ) | 3:08 | 2023-09-22 | 2024-01-27 |
 | [แค่เพื่อน](https://open.spotify.com/track/0XpVCIBjh6W2ww4ELcwn3h) | [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP), [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [แค่เพื่อน](https://open.spotify.com/album/6WTdAPkiQjFfwpfqvkwAf0) | 2:37 | 2024-03-01 | 2024-03-09 |
 | [แค่ใจคงไม่พอ](https://open.spotify.com/track/3DYiwfLPxLsCigKEFMJCzS) | [Lil tan](https://open.spotify.com/artist/1xc4qfheU05JJYzDnjs9KR) | [แค่ใจคงไม่พอ](https://open.spotify.com/album/7selVIxOhdcVINhIcsPdJk) | 4:11 | 2023-09-22 | 2023-09-30 |

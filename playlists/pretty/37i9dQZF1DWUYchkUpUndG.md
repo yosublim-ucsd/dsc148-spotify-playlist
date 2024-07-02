@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:  Spotlite Nation
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,531 likes - 72 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,636 likes - 72 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

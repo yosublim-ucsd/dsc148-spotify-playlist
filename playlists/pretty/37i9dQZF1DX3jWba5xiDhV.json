@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 228380,
+  "num_followers": 229208,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
         "name": "The Voice of Q",
         "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -1147,26 +1147,18 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
-        "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
+        "name": "Sciura Milanese",
+        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
       },
       "artists": [
         {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
         }
       ],
-      "duration_ms": 401773,
-      "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
-      "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
+      "duration_ms": 190698,
+      "name": "Sciura Milanese",
+      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -1187,18 +1179,26 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Sciura Milanese",
-        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
+        "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
+        "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
       "artists": [
         {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
         }
       ],
-      "duration_ms": 190698,
-      "name": "Sciura Milanese",
-      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
+      "duration_ms": 401773,
+      "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
+      "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
     },
     {
       "added_at": "2024-06-14 00:01:00",

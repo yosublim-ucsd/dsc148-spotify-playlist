@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "This is Nana Mizuki. Tutti i brani in un'unica playlist.",
+  "description": "This Is Nana Mizuki. Los temas esenciales, todos en una lista.",
   "name": "This Is Nana Mizuki",
   "tracks": [
     {
@@ -596,6 +596,24 @@
       "duration_ms": 302239,
       "name": "Justice to Believe",
       "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
+    },
+    {
+      "album": {
+        "name": "Link or Chains",
+        "url": "https://open.spotify.com/album/2c4hiHWpGm1AU31mfIc4Y4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224150,
+      "name": "Link or Chains",
+      "url": "https://open.spotify.com/track/3KSIV445te911EhHIn25Pn"
     },
     {
       "album": {
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 284400,
       "name": "Vitalization-Aufwachen Form-",
       "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"

@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Anatomy",
+        "url": "https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL"
+      },
+      "artists": [
+        {
+          "name": "TEENWXVE",
+          "url": "https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103360,
+      "name": "Anatomy - Slowed",
+      "url": "https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6"
+    },
+    {
+      "album": {
         "name": "Frysl\u00e2n",
         "url": "https://open.spotify.com/album/0EUaEFRUhjmGkIPaEoEGIY"
       },
@@ -1484,6 +1502,28 @@
       "duration_ms": 124238,
       "name": "Feet & Latex",
       "url": "https://open.spotify.com/track/25Lxa0mbnPx2UocVznljpH"
+    },
+    {
+      "album": {
+        "name": "BOYS WITH GOLDEN BRAINS",
+        "url": "https://open.spotify.com/album/6yKMN1bd00frocX9mu4Hih"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0435\u0439\u0441\u0442\u043b\u0443\u0432",
+          "url": "https://open.spotify.com/artist/5dQSeerk1qUshzAP7v6gLb"
+        },
+        {
+          "name": "Alex L\u00e1m",
+          "url": "https://open.spotify.com/artist/1Bc1Y4T3GxVM7QXHhdjFAM"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219585,
+      "name": "FINAL SONG",
+      "url": "https://open.spotify.com/track/6bLW9eLJkdSlCWFmrI8BRZ"
     },
     {
       "album": {
@@ -6448,7 +6488,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 205609,
       "name": "\u0411\u0435\u043b\u044b\u0439 \u043c\u0435\u0440\u0438\u043d",
       "url": "https://open.spotify.com/track/3LOoZVznbxhrDyWU4xuHqS"
@@ -8598,7 +8638,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 108800,
       "name": "\u041d\u0418\u041a\u0422\u041e \u041d\u0415 \u0425\u041e\u0427\u0415\u0422",
       "url": "https://open.spotify.com/track/6NhKFMtGqQla3vFcV8G6sS"
@@ -8902,7 +8942,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 155806,
       "name": "\u041f\u0435\u0441\u043d\u0438 \u043d\u0430 \u043a\u0430\u0441\u0441\u0435\u0442\u0435",
       "url": "https://open.spotify.com/track/3zFZcn5hCKLo2hlwm9dfKS"
@@ -9580,7 +9620,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 177000,
       "name": "\u0421\u0442\u043e\u0438\u043a",
       "url": "https://open.spotify.com/track/5RIL1S6YekPv12gNwrqYJi"

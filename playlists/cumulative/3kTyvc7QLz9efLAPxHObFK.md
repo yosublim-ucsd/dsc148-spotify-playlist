@@ -4,7 +4,7 @@
 
 > 
 
-1,480 songs - 3 day 8 hr 51 min
+1,481 songs - 3 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [KIKIKAIKAI](https://open.spotify.com/track/2R13ip0tbVOkaOyMNJwHK5) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KIKIKAIKAI](https://open.spotify.com/album/1sNHUsQwe27TwXNbju1ayz) | 3:06 | 2023-04-10 |  |
 | [Kill The Noise](https://open.spotify.com/track/51XUsVWGjX2hwzmREDw2hN) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd) | [Kill The Noise](https://open.spotify.com/album/7G7riEKYVKEGfVb1eFPkFN) | 2:44 | 2024-03-18 |  |
 | [KILLA](https://open.spotify.com/track/4skfYDsDruOC9gFrEh21rT) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [KILLA](https://open.spotify.com/album/6zlGrf0MUOkaByDyPtuU8n) | 3:18 | 2024-03-03 |  |
+| [Kingdoms Hero](https://open.spotify.com/track/0nKfjIBlvW8s92zrFdLviM) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B) | [Kingdoms Hero](https://open.spotify.com/album/0knPQcjn6NfmAmlCbHnQuE) | 4:00 | 2024-07-01 |  |
 | [Knight Rider \- Extended Mix](https://open.spotify.com/track/154JgLui3jz0R0kd05pImU) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:34 | 2022-08-10 |  |
 | [Knocked Out](https://open.spotify.com/track/3dAGQ2aSRpNeNWE904E9va) | [N3bula](https://open.spotify.com/artist/0bKtsZIFkV1M2sl1j0OeGq) | [Knocked Out](https://open.spotify.com/album/5I5n46FiJsUWAIvWdcDP53) | 3:23 | 2024-04-03 |  |
 | [KO](https://open.spotify.com/track/1zk0QdUYmguWujXc5T0NJO) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [Hickz](https://open.spotify.com/artist/7sLMlmiXlbkdDP7OnEYOCO) | [KO](https://open.spotify.com/album/4dBKKdcHSqZe7j6cKpZD4S) | 3:15 | 2024-05-04 |  |

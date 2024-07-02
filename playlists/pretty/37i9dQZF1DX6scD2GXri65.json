@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home",
-  "num_followers": 59016,
+  "num_followers": 11836,
   "original_name": "Hardstyle Gym \ud83d\udcaa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmLvnwAAAAAgfiL8itcY1hTBHgjItTQ5",
+  "snapshot_id": "ZoJ+UQAAAAARiF4x/1RBIoNe/Jh0DD20",
   "tracks": [
     {
       "added_at": "2024-06-07 11:31:43",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU"
-      },
-      "artists": [
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 212322,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "Nightmare Nirvana",
         "url": "https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 270786,
       "name": "Nightmare Nirvana",
       "url": "https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "duration_ms": 212322,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "What You Heard",
-        "url": "https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4"
-      },
-      "artists": [
-        {
-          "name": "Phrantic",
-          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
-        },
-        {
-          "name": "LXCPR",
-          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
-        }
-      ],
-      "duration_ms": 162004,
-      "name": "What You Heard",
-      "url": "https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO"
       },
@@ -1139,6 +1119,26 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4"
+      },
+      "artists": [
+        {
+          "name": "Phrantic",
+          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
+        },
+        {
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+        }
+      ],
+      "duration_ms": 162004,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
         "name": "Unleash The Fire",
         "url": "https://open.spotify.com/album/6uCzjve3I6bB3MsxI7AROY"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 241556,
       "name": "Unleash The Fire",
       "url": "https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
-        "name": "Mind Of A Psycho",
-        "url": "https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l"
-      },
-      "artists": [
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        }
-      ],
-      "duration_ms": 137032,
-      "name": "Mind Of A Psycho",
-      "url": "https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -1243,6 +1227,22 @@
       "duration_ms": 258946,
       "name": "Edge of The Unknown",
       "url": "https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "Mind Of A Psycho",
+        "url": "https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "duration_ms": 137032,
+      "name": "Mind Of A Psycho",
+      "url": "https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2"
     },
     {
       "added_at": "2024-06-07 11:31:43",

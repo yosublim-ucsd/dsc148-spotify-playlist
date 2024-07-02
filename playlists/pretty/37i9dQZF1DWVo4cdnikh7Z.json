@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : GOAT",
-  "num_followers": 664341,
+  "num_followers": 664415,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn6udgAAAACEL6p/eVrpxzX1tiwEmM3q",
+  "snapshot_id": "ZoJyfAAAAABhtxZraauqrDzgjs2f4WzE",
   "tracks": [
     {
       "added_at": "2024-06-22 12:52:29",
@@ -209,6 +209,30 @@
       "url": "https://open.spotify.com/track/1bbOBvCjuXSg5iLKLvvl6s"
     },
     {
+      "added_at": "2024-07-01 09:10:19",
+      "album": {
+        "name": "Ta Takkara (Complex Song) (From \"Kalki 2898 AD\") (Tamil)",
+        "url": "https://open.spotify.com/album/78u1zC9ov6ZslEmhxiysAD"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "duration_ms": 207518,
+      "name": "Ta Takkara (Complex Song) (From \"Kalki 2898 AD\") (Tamil)",
+      "url": "https://open.spotify.com/track/1Hs1mvZUiJZSoBNAD2fQfr"
+    },
+    {
       "added_at": "2024-04-15 10:37:57",
       "album": {
         "name": "Achacho (From \"Aranmanai 4\")",
@@ -273,6 +297,26 @@
       "url": "https://open.spotify.com/track/6B7VV8M68NhKxHsd2nkFsZ"
     },
     {
+      "added_at": "2024-07-01 09:10:19",
+      "album": {
+        "name": "Vennilavae (From \"Wolf\")",
+        "url": "https://open.spotify.com/album/3N5kF8QpzuaH0HqJIA79mB"
+      },
+      "artists": [
+        {
+          "name": "Mugen Rao",
+          "url": "https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Vennilavae (From \"Wolf\")",
+      "url": "https://open.spotify.com/track/5u5IMzpuSo7WeR2ozXflme"
+    },
+    {
       "added_at": "2024-06-10 09:24:56",
       "album": {
         "name": "PT Sir (Original Motion Picture Soundtrack)",
@@ -287,30 +331,6 @@
       "duration_ms": 183471,
       "name": "Tonta Toin",
       "url": "https://open.spotify.com/track/0SXBL29hAUuDwd3ofappW2"
-    },
-    {
-      "added_at": "2024-06-12 13:29:43",
-      "album": {
-        "name": "Maidaan - Tamil",
-        "url": "https://open.spotify.com/album/3RcZ7BPQcNvz84loonQFqM"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Narayanan Ravishankar",
-          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
-        },
-        {
-          "name": "Amina Rafiq",
-          "url": "https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu"
-        }
-      ],
-      "duration_ms": 317945,
-      "name": "Uyir Kaadhal",
-      "url": "https://open.spotify.com/track/7aCKjZATYaiFNZbPqeTPFR"
     },
     {
       "added_at": "2024-06-19 07:32:48",
@@ -433,30 +453,6 @@
       "url": "https://open.spotify.com/track/6xXV7CzjZzc8k4AhUsfHqb"
     },
     {
-      "added_at": "2024-06-20 14:50:41",
-      "album": {
-        "name": "Kannalane (From \"DNA\")",
-        "url": "https://open.spotify.com/album/2YxNT5ZspVscpPuKczNrOH"
-      },
-      "artists": [
-        {
-          "name": "Sharath",
-          "url": "https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Sukanya",
-          "url": "https://open.spotify.com/artist/06xePXpCBom0jHrYBgDKmr"
-        }
-      ],
-      "duration_ms": 271181,
-      "name": "Kannalane (From \"DNA\")",
-      "url": "https://open.spotify.com/track/4bMW1UljYptRlm39dE83fz"
-    },
-    {
       "added_at": "2024-05-24 08:21:01",
       "album": {
         "name": "Nakkal Pudichavan (From \"PT Sir\")",
@@ -523,30 +519,6 @@
       "duration_ms": 217333,
       "name": "Paar Illadha Vaanathil (From \"Bayamariya Brammai\")",
       "url": "https://open.spotify.com/track/7FCvqLJkHKWOd6pgnT18rx"
-    },
-    {
-      "added_at": "2024-06-14 06:01:38",
-      "album": {
-        "name": "Lava Lava (From \"Lockdown\")",
-        "url": "https://open.spotify.com/album/328Jz7mojvAlN6IWmibbVY"
-      },
-      "artists": [
-        {
-          "name": "Siddharth Vipin",
-          "url": "https://open.spotify.com/artist/42RwcBbVe3o5iSO5PfRt3J"
-        },
-        {
-          "name": "Snehan",
-          "url": "https://open.spotify.com/artist/4DPpMuArmlo0gwx2mnPwTL"
-        },
-        {
-          "name": "Priya Jerson",
-          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Lava Lava (From \"Lockdown\")",
-      "url": "https://open.spotify.com/track/2gz9hxXYY0SxR9Nhdshhja"
     },
     {
       "added_at": "2024-04-24 11:07:06",
@@ -645,30 +617,6 @@
       "url": "https://open.spotify.com/track/1yT8EMQ2IdJns8FayxkVhm"
     },
     {
-      "added_at": "2024-06-12 13:29:43",
-      "album": {
-        "name": "Maidaan - Tamil",
-        "url": "https://open.spotify.com/album/3RcZ7BPQcNvz84loonQFqM"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "AR Ameen",
-          "url": "https://open.spotify.com/artist/4eiGIn8CUjszmymNmPhBID"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Team India Vellum",
-      "url": "https://open.spotify.com/track/3meFDtNCPBbU9uDa5nd5Nn"
-    },
-    {
       "added_at": "2024-06-10 09:24:56",
       "album": {
         "name": "PT Sir (Original Motion Picture Soundtrack)",
@@ -689,62 +637,6 @@
       "url": "https://open.spotify.com/track/3tt7jxu1fp8u6zwRpmEVRC"
     },
     {
-      "added_at": "2024-06-07 12:29:06",
-      "album": {
-        "name": "World Cup Cricket Anthem (Composer's Edition)",
-        "url": "https://open.spotify.com/album/5svmQdJA1SKR1u6krN4bgB"
-      },
-      "artists": [
-        {
-          "name": "Raksheet Ramesh",
-          "url": "https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Rahul Vishwa",
-          "url": "https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu"
-        },
-        {
-          "name": "MaPi Rapz",
-          "url": "https://open.spotify.com/artist/1o0LANvTHGyMSfAClJpHE1"
-        },
-        {
-          "name": "Megha Mohan",
-          "url": "https://open.spotify.com/artist/70Aloa60EXT9tjCgZF8DBG"
-        },
-        {
-          "name": "Kamali Sathyamurthi",
-          "url": "https://open.spotify.com/artist/7FYGjkMHgFBcu9RiAxirgV"
-        }
-      ],
-      "duration_ms": 201211,
-      "name": "World Cup Cricket Anthem - Composer's Edition",
-      "url": "https://open.spotify.com/track/1Ngs3eCQcxApDhxoVvL37U"
-    },
-    {
-      "added_at": "2024-06-12 13:29:43",
-      "album": {
-        "name": "Maidaan - Tamil",
-        "url": "https://open.spotify.com/album/3RcZ7BPQcNvz84loonQFqM"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Shridhar Ramesh",
-          "url": "https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y"
-        }
-      ],
-      "duration_ms": 258928,
-      "name": "Unarvai Udaikka Mattome",
-      "url": "https://open.spotify.com/track/4G3T13zkmKzsyVzE4WyNdE"
-    },
-    {
       "added_at": "2024-05-09 12:43:43",
       "album": {
         "name": "Adangaatha Asuran (From \"Raayan\")",
@@ -763,46 +655,6 @@
       "duration_ms": 249027,
       "name": "Adangaatha Asuran (From \"Raayan\")",
       "url": "https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK"
-    },
-    {
-      "added_at": "2024-05-27 13:58:48",
-      "album": {
-        "name": "Vaada Poda (Fom \"Yemmaku Thozhil Romance\")",
-        "url": "https://open.spotify.com/album/1S3f86IQqBwi4MB76J96kw"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Vaishali",
-          "url": "https://open.spotify.com/artist/3mUaeqGjquYnmp3MuXEjQe"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 204123,
-      "name": "Vaada Poda - Fom \"Yemmaku Thozhil Romance\"",
-      "url": "https://open.spotify.com/track/63qsz8oegHWiQhqnwTNVDO"
-    },
-    {
-      "added_at": "2024-05-24 13:02:35",
-      "album": {
-        "name": "Inga Naan Thaan Kingu",
-        "url": "https://open.spotify.com/album/3j4K2NsFNJKkDWLtM3pU9P"
-      },
-      "artists": [
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "Dance Venuma Dance Irukku",
-      "url": "https://open.spotify.com/track/3B6MjFUz6EjbQdOR38cppK"
     },
     {
       "added_at": "2024-06-10 09:26:44",
@@ -1497,30 +1349,6 @@
       "url": "https://open.spotify.com/track/3aMozoUv47XXfPmdBfsSIE"
     },
     {
-      "added_at": "2024-04-29 23:02:49",
-      "album": {
-        "name": "Music Shop Murthy (Tamil)",
-        "url": "https://open.spotify.com/album/1TtpdvYJGnFdTIdEygBKnJ"
-      },
-      "artists": [
-        {
-          "name": "Pavan",
-          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
-        },
-        {
-          "name": "Raazi",
-          "url": "https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi"
-        },
-        {
-          "name": "Abhilash Britto",
-          "url": "https://open.spotify.com/artist/2s5XAsIm0UsRwM670fsHFb"
-        }
-      ],
-      "duration_ms": 192981,
-      "name": "Adada Kaalam",
-      "url": "https://open.spotify.com/track/5QEItaxQhyaUNUrKYUfu7m"
-    },
-    {
       "added_at": "2024-04-29 07:35:51",
       "album": {
         "name": "Muttaama Muttikkittu",
@@ -1605,50 +1433,6 @@
       "url": "https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP"
     },
     {
-      "added_at": "2024-04-08 06:35:36",
-      "album": {
-        "name": "Teenz",
-        "url": "https://open.spotify.com/album/3aq5IWREDn1pTtmbyHTLwT"
-      },
-      "artists": [
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/30K0TrAeBShuzrwvf60Be4"
-        },
-        {
-          "name": "Radhakrishnan Parthiban",
-          "url": "https://open.spotify.com/artist/5TQgCYvAeDLhIASGGUYiDP"
-        }
-      ],
-      "duration_ms": 251273,
-      "name": "Bibli Bibli Bili Bili",
-      "url": "https://open.spotify.com/track/1bYjBCYNMhVbYEzJPyk96U"
-    },
-    {
-      "added_at": "2024-04-19 10:34:38",
-      "album": {
-        "name": "Double Tuckerr (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3RsPIEqxj28Ukm3XbdTa8v"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 241255,
-      "name": "Daluma (From \"Double Tuckerr\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/6S6E7KrDMXNl4IxXWVRyVZ"
-    },
-    {
       "added_at": "2024-04-09 10:27:20",
       "album": {
         "name": "Madhuramum Idha (From \"The Family Star\")",
@@ -1671,30 +1455,6 @@
       "duration_ms": 332175,
       "name": "Madhuramum Idha (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/6rsmlUhCUyZEgsFXaxRhae"
-    },
-    {
-      "added_at": "2024-04-18 22:05:50",
-      "album": {
-        "name": "DeAr (Tamil)",
-        "url": "https://open.spotify.com/album/4R3ph8uR9ygLGq1Cz7MLEI"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "K. Sivaangi",
-          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
-        },
-        {
-          "name": "Harsha Vardhan",
-          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "My Dear Pondatti",
-      "url": "https://open.spotify.com/track/2zdRh41xTEVAGi1QgkFGiC"
     },
     {
       "added_at": "2024-03-26 06:57:39",
@@ -1781,30 +1541,6 @@
       "url": "https://open.spotify.com/track/2i7hOM9vywqMogW7HU3z2F"
     },
     {
-      "added_at": "2024-04-11 06:55:36",
-      "album": {
-        "name": "Bade Miyan Chote Miyan (Title Track - Tamil) [From \"Bade Miyan Chote Miyan - Tamil\"]",
-        "url": "https://open.spotify.com/album/4I0REN20ZTRA3xY9dMAX4e"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Sarath Santosh",
-          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Bade Miyan Chote Miyan (Title Track - Tamil) - From \"Bade Miyan Chote Miyan - Tamil\"",
-      "url": "https://open.spotify.com/track/0NBMpCbv5LDB2UKiGTv1oK"
-    },
-    {
       "added_at": "2024-03-26 03:43:19",
       "album": {
         "name": "Kolluraale (From \"Maanavan\")",
@@ -1823,26 +1559,6 @@
       "duration_ms": 250363,
       "name": "Kolluraale (From \"Maanavan\")",
       "url": "https://open.spotify.com/track/6cCdiiRqpc3nIslPns7WtL"
-    },
-    {
-      "added_at": "2024-04-02 09:12:30",
-      "album": {
-        "name": "Vibe Aavoma (From \"The Boys\")",
-        "url": "https://open.spotify.com/album/2hP6OrcprFiZEb62JOzQax"
-      },
-      "artists": [
-        {
-          "name": "Arun Gautham",
-          "url": "https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1"
-        },
-        {
-          "name": "Soup Sparrow",
-          "url": "https://open.spotify.com/artist/31xTgl4VupV4AqU7QhvRzn"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Vibe Aavoma (From \"The Boys\")",
-      "url": "https://open.spotify.com/track/4snJxO6JxzjzSjYUQ419lU"
     },
     {
       "added_at": "2024-04-01 04:57:08",
@@ -1943,30 +1659,6 @@
       "duration_ms": 359786,
       "name": "PATHIKATHA THEE",
       "url": "https://open.spotify.com/track/1th3PfaVxvE0IP4q2aAoyW"
-    },
-    {
-      "added_at": "2024-03-12 17:12:41",
-      "album": {
-        "name": "Jiloma (From \"The Boys\")",
-        "url": "https://open.spotify.com/album/2uFjpUj2Svs8afDIjz9bX7"
-      },
-      "artists": [
-        {
-          "name": "Arun Gautham",
-          "url": "https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1"
-        },
-        {
-          "name": "Soup Kuruvis",
-          "url": "https://open.spotify.com/artist/3DrCW71Wthxchsf6n7eCWb"
-        },
-        {
-          "name": "T. Rajendar",
-          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
-        }
-      ],
-      "duration_ms": 213583,
-      "name": "Jiloma (From \"The Boys\")",
-      "url": "https://open.spotify.com/track/3kOLzUhApSBgChnPTmTkhD"
     },
     {
       "added_at": "2024-03-17 10:25:40",

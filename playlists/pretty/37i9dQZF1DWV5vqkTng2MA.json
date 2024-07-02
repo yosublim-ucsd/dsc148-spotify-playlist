@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 398802,
+  "num_followers": 398934,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAAAx1G0t3RLkpeUmLQgL+wrm",
+  "snapshot_id": "ZoLFqQAAAACGKcN69+OrcTBnVjDAJbtl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-07-01 15:05:13",
       "album": {
-        "name": "No One Gets Out Alive",
-        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
+        "name": "Kaley / Further Away",
+        "url": "https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG"
       },
       "artists": [
         {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
         }
       ],
-      "duration_ms": 229289,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
+      "duration_ms": 183645,
+      "name": "Kaley",
+      "url": "https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -373,6 +373,22 @@
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "No One Gets Out Alive",
+        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 229289,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "More Than a Love Song",
@@ -407,6 +423,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Pining",
+      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -423,22 +455,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Pining",
-      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Cowboy Nudes",
         "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 221280,
       "name": "Devil in Me",
       "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
-      },
-      "artists": [
-        {
-          "name": "Walker Lukens",
-          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 169120,
       "name": "Quit You",
       "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
+      },
+      "artists": [
+        {
+          "name": "Walker Lukens",
+          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Reelin'",
         "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Fine and Mellow",
-      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -855,6 +855,22 @@
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Fine and Mellow",
+      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Watermelon Oranges",
         "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1003,6 +1019,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 293146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -1019,18 +1051,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+        "name": "Riot In The Streets",
+        "url": "https://open.spotify.com/album/2hcrGEtQpu9v79CoOEFYLL"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
         }
       ],
-      "duration_ms": 293146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
+      "duration_ms": 220346,
+      "name": "Riot In The Streets",
+      "url": "https://open.spotify.com/track/0eLCcBWdvRM6yJSKMte1cj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1051,22 +1083,6 @@
       "duration_ms": 236920,
       "name": "Southern Bells",
       "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Riot In The Streets",
-        "url": "https://open.spotify.com/album/2hcrGEtQpu9v79CoOEFYLL"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Riot In The Streets",
-      "url": "https://open.spotify.com/track/0eLCcBWdvRM6yJSKMte1cj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Too Big World",
-        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
-      },
-      "artists": [
-        {
-          "name": "The Bumper Jacksons",
-          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Too Big World",
+        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
+      },
+      "artists": [
+        {
+          "name": "The Bumper Jacksons",
+          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Blind Ambition",
-        "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bastian",
-          "url": "https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND"
-        }
-      ],
-      "duration_ms": 231729,
-      "name": "Blind Ambition",
-      "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Rolling Over Me",
         "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 289080,
       "name": "Rolling Over Me",
       "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Blind Ambition",
+        "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bastian",
+          "url": "https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND"
+        }
+      ],
+      "duration_ms": 231729,
+      "name": "Blind Ambition",
+      "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1459,22 +1475,6 @@
       "duration_ms": 193066,
       "name": "Lost on the Young",
       "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Painted Image",
-        "url": "https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI"
-      },
-      "artists": [
-        {
-          "name": "Liz Brasher",
-          "url": "https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Living Water",
-      "url": "https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j"
     }
   ],
   "unique_name": "the new retro",

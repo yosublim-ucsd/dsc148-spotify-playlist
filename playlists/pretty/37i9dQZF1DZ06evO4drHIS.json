@@ -1,12 +1,12 @@
 {
-  "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 11050,
+  "description": "This Is Majo Aguilar. Los temas esenciales, todos en una lista.",
+  "num_followers": 11059,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAABf999J6NYjN3eOHWusUY9O",
+  "snapshot_id": "ZoCgAAAAAAD+1HtU1L0L8yglX4T9TebG",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 218573,
       "name": "T\u00fa A M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/4buqIpLCvctlto6dYluSTn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "Me Convierto",
-      "url": "https://open.spotify.com/track/3ScICgWl1iQjYJRU4i8pqy"
     }
   ],
   "unique_name": "This Is Majo Aguilar",

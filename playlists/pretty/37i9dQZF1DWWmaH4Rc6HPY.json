@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
-  "num_followers": 30103,
+  "num_followers": 30119,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-28 19:00:26",
       "album": {
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
+      },
+      "artists": [
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
+    },
+    {
+      "added_at": "2024-06-28 19:00:26",
+      "album": {
         "name": "Rey Ahogado",
         "url": "https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 245586,
       "name": "Rey Ahogado",
       "url": "https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB"
-    },
-    {
-      "added_at": "2024-06-28 19:00:26",
-      "album": {
-        "name": "Te Desenamoraste",
-        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
-      },
-      "artists": [
-        {
-          "name": "Drake Bell",
-          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Te Desenamoraste",
-      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2024-06-28 19:00:26",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-06-28 19:00:26",
       "album": {
+        "name": "Rompehielos",
+        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 180310,
+      "name": "Rompehielos",
+      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
+    },
+    {
+      "added_at": "2024-06-28 19:00:26",
+      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2024-06-28 19:00:26",
       "album": {
-        "name": "Rompehielos",
-        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
+        "name": "Sarajevo",
+        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
       },
       "artists": [
         {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 180310,
-      "name": "Rompehielos",
-      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
+      "duration_ms": 242000,
+      "name": "Cum Laude",
+      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
     },
     {
       "added_at": "2024-06-28 19:00:26",
@@ -563,22 +579,6 @@
       "duration_ms": 153109,
       "name": "Lo Que No Quieres Saber",
       "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
-    },
-    {
-      "added_at": "2024-06-28 19:00:26",
-      "album": {
-        "name": "Sarajevo",
-        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Cum Laude",
-      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
     },
     {
       "added_at": "2024-06-28 19:00:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-28 19:00:26",
       "album": {
-        "name": "Jodido Sin Ti",
-        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Jodido Sin Ti",
-      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
-    },
-    {
-      "added_at": "2024-06-28 19:00:26",
-      "album": {
         "name": "Elemento Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 165306,
       "name": "playaplaya",
       "url": "https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui"
+    },
+    {
+      "added_at": "2024-06-28 19:00:26",
+      "album": {
+        "name": "Jodido Sin Ti",
+        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Jodido Sin Ti",
+      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
     },
     {
       "added_at": "2024-06-28 19:00:26",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-28 19:00:26",
       "album": {
-        "name": "Cuando No Quedan Ganas",
-        "url": "https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1"
-      },
-      "artists": [
-        {
-          "name": "David Otero",
-          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
-        }
-      ],
-      "duration_ms": 204510,
-      "name": "Cuando No Quedan Ganas",
-      "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
-    },
-    {
-      "added_at": "2024-06-28 19:00:26",
-      "album": {
         "name": "M\u00e1s Que Amigas",
         "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 161571,
       "name": "M\u00e1s Que Amigas",
       "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+    },
+    {
+      "added_at": "2024-06-28 19:00:26",
+      "album": {
+        "name": "Cuando No Quedan Ganas",
+        "url": "https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1"
+      },
+      "artists": [
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "duration_ms": 204510,
+      "name": "Cuando No Quedan Ganas",
+      "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
     },
     {
       "added_at": "2024-06-28 19:00:26",

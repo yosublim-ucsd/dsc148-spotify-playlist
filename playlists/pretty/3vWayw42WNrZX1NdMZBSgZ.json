@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Manuel Turizo",
-  "num_followers": 53749,
+  "num_followers": 53746,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARwAL8HwXninfA+ytlJPZUnywd5kga",
+  "snapshot_id": "AAARwv1RLYgh4g0s39p3jJBMGGAbBIuY",
   "tracks": [
     {
       "added_at": "2024-06-28 00:26:53",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
+      "added_at": "2024-06-20 22:53:50",
+      "album": {
+        "name": "LA FOTO",
+        "url": "https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        }
+      ],
+      "duration_ms": 146031,
+      "name": "LA FOTO",
+      "url": "https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h"
+    },
+    {
       "added_at": "2024-06-07 00:26:13",
       "album": {
         "name": "Qui\u00e9reme Menos",
@@ -169,38 +185,6 @@
       "url": "https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b"
     },
     {
-      "added_at": "2024-06-28 04:24:37",
-      "album": {
-        "name": "Gayetano",
-        "url": "https://open.spotify.com/album/1VgOUyqlkk2HZc8WRHEtfQ"
-      },
-      "artists": [
-        {
-          "name": "Pinto \u201cWahin\u201d",
-          "url": "https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55"
-        }
-      ],
-      "duration_ms": 172926,
-      "name": "Gayetano",
-      "url": "https://open.spotify.com/track/3wpCw1I9H4JbsmRBdiD06J"
-    },
-    {
-      "added_at": "2024-06-20 22:53:50",
-      "album": {
-        "name": "LA FOTO",
-        "url": "https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb"
-      },
-      "artists": [
-        {
-          "name": "DOMELIPA",
-          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
-        }
-      ],
-      "duration_ms": 146031,
-      "name": "LA FOTO",
-      "url": "https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h"
-    },
-    {
       "added_at": "2024-05-31 04:18:39",
       "album": {
         "name": "HOLA PERDIDA REMIX",
@@ -223,6 +207,22 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "added_at": "2024-06-28 04:24:37",
+      "album": {
+        "name": "Gayetano",
+        "url": "https://open.spotify.com/album/1VgOUyqlkk2HZc8WRHEtfQ"
+      },
+      "artists": [
+        {
+          "name": "Pinto \u201cWahin\u201d",
+          "url": "https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55"
+        }
+      ],
+      "duration_ms": 172926,
+      "name": "Gayetano",
+      "url": "https://open.spotify.com/track/3wpCw1I9H4JbsmRBdiD06J"
     },
     {
       "added_at": "2024-06-21 00:19:36",

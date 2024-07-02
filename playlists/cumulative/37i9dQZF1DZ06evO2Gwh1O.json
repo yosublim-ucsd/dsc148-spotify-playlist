@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209346,
+      "name": "Damned If You Do, Dead If You Don't",
+      "url": "https://open.spotify.com/track/3CJv75UDeV6hKJQj3Rt48P"
+    },
+    {
+      "album": {
         "name": "The Young And Defenceless EP",
         "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
       },
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 303560,
       "name": "Spinning Over the Island",
       "url": "https://open.spotify.com/track/01X6UyKp6CwFWbEUey7Tli"

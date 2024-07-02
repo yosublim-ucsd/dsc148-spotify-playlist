@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: error",
-  "num_followers": 428143,
+  "num_followers": 428216,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3iDAAAAAB2AZlDjPFYaAfmZ9AXNiWH",
+  "snapshot_id": "ZoJa4QAAAADfW8pstPyZOWMS+s/7oB0C",
   "tracks": [
     {
       "added_at": "2024-06-27 22:05:00",
@@ -99,26 +99,6 @@
     {
       "added_at": "2024-06-27 22:05:00",
       "album": {
-        "name": "Herr Direktor",
-        "url": "https://open.spotify.com/album/1V34hFUBDywXkKxZfWgz7W"
-      },
-      "artists": [
-        {
-          "name": "Rowli",
-          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
-        },
-        {
-          "name": "BEVN",
-          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
-        }
-      ],
-      "duration_ms": 127483,
-      "name": "Herr Direktor",
-      "url": "https://open.spotify.com/track/28yKVTiiHwCoGkw3PO6A7p"
-    },
-    {
-      "added_at": "2024-06-27 22:05:00",
-      "album": {
         "name": "besser als ich",
         "url": "https://open.spotify.com/album/0P0FfMob4BZwUtSZZC5AyT"
       },
@@ -131,22 +111,6 @@
       "duration_ms": 164715,
       "name": "besser als ich",
       "url": "https://open.spotify.com/track/5u86bpikvcqjO0bjOk1Y8T"
-    },
-    {
-      "added_at": "2024-06-27 22:05:00",
-      "album": {
-        "name": "Trauriger Disco Song",
-        "url": "https://open.spotify.com/album/7i5sY6xy7OSM5fGQXJiW6H"
-      },
-      "artists": [
-        {
-          "name": "Ronja",
-          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
-        }
-      ],
-      "duration_ms": 237225,
-      "name": "Trauriger Disco Song",
-      "url": "https://open.spotify.com/track/6GxD5QUeZ1BZRwUhsYDM2h"
     },
     {
       "added_at": "2024-06-27 22:05:00",
@@ -171,34 +135,22 @@
     {
       "added_at": "2024-06-27 22:05:00",
       "album": {
-        "name": "Alles was du brauchst",
-        "url": "https://open.spotify.com/album/2ChWTVvC6kj491VXYcR6gx"
+        "name": "Herr Direktor",
+        "url": "https://open.spotify.com/album/1V34hFUBDywXkKxZfWgz7W"
       },
       "artists": [
         {
-          "name": "BRUCHBUDE",
-          "url": "https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U"
-        }
-      ],
-      "duration_ms": 168313,
-      "name": "Alles was du brauchst",
-      "url": "https://open.spotify.com/track/5VLY2jLhe8uL2JeQ6kdPlo"
-    },
-    {
-      "added_at": "2024-06-27 22:05:00",
-      "album": {
-        "name": "Wisch&Tipp",
-        "url": "https://open.spotify.com/album/1B8KFbuADSLOhj6Johj5Vj"
-      },
-      "artists": [
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        },
         {
-          "name": "JUDI&COCHO",
-          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+          "name": "BEVN",
+          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Wisch&Tipp",
-      "url": "https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi"
+      "duration_ms": 127483,
+      "name": "Herr Direktor",
+      "url": "https://open.spotify.com/track/28yKVTiiHwCoGkw3PO6A7p"
     },
     {
       "added_at": "2024-06-27 22:05:00",
@@ -227,22 +179,50 @@
     {
       "added_at": "2024-06-27 22:05:00",
       "album": {
-        "name": "Umarmung",
-        "url": "https://open.spotify.com/album/0ngSy1IUMXgzqgniNCfNrS"
+        "name": "Alles was du brauchst",
+        "url": "https://open.spotify.com/album/2ChWTVvC6kj491VXYcR6gx"
       },
       "artists": [
         {
-          "name": "Kevin Cool",
-          "url": "https://open.spotify.com/artist/4ELBiOUtDJM4AFWfdX9uyK"
-        },
-        {
-          "name": "vini baby",
-          "url": "https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz"
+          "name": "BRUCHBUDE",
+          "url": "https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U"
         }
       ],
-      "duration_ms": 160793,
-      "name": "Umarmung",
-      "url": "https://open.spotify.com/track/3Mo2Il00FsZ1JGn8nUPcAC"
+      "duration_ms": 168313,
+      "name": "Alles was du brauchst",
+      "url": "https://open.spotify.com/track/5VLY2jLhe8uL2JeQ6kdPlo"
+    },
+    {
+      "added_at": "2024-06-27 22:05:00",
+      "album": {
+        "name": "Trauriger Disco Song",
+        "url": "https://open.spotify.com/album/7i5sY6xy7OSM5fGQXJiW6H"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "duration_ms": 237225,
+      "name": "Trauriger Disco Song",
+      "url": "https://open.spotify.com/track/6GxD5QUeZ1BZRwUhsYDM2h"
+    },
+    {
+      "added_at": "2024-06-27 22:05:00",
+      "album": {
+        "name": "Wisch&Tipp",
+        "url": "https://open.spotify.com/album/1B8KFbuADSLOhj6Johj5Vj"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wisch&Tipp",
+      "url": "https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi"
     },
     {
       "added_at": "2024-06-27 22:05:00",
@@ -259,6 +239,26 @@
       "duration_ms": 96100,
       "name": "Dahinter ist blau",
       "url": "https://open.spotify.com/track/0904VlvpzpJa8UR6vQiDtk"
+    },
+    {
+      "added_at": "2024-06-27 22:05:00",
+      "album": {
+        "name": "Umarmung",
+        "url": "https://open.spotify.com/album/0ngSy1IUMXgzqgniNCfNrS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Cool",
+          "url": "https://open.spotify.com/artist/4ELBiOUtDJM4AFWfdX9uyK"
+        },
+        {
+          "name": "vini baby",
+          "url": "https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz"
+        }
+      ],
+      "duration_ms": 160793,
+      "name": "Umarmung",
+      "url": "https://open.spotify.com/track/3Mo2Il00FsZ1JGn8nUPcAC"
     },
     {
       "added_at": "2024-06-27 22:05:00",

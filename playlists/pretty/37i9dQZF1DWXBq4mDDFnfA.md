@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,513 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,583 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 23 | [Prelude No.1 \- Melodía lírica](https://open.spotify.com/track/246kWB3pAv70EQvA6OrTpt) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [Americano](https://open.spotify.com/album/3TVHDS4WRtLks6XC5ct7E5) | 4:52 |
 | 24 | [2 Arabesques: Arabesque No\. 1 \(Arr\. A\. Miolin\)](https://open.spotify.com/track/15p1shEFbxSlTTwxdGMggG) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anders Miolin](https://open.spotify.com/artist/0BNlCKQPbiGIRTVnzKfJgy) | [Debussy: 2 Arabesques / Preludes \(Selections\) / Pour L'Egyptienne](https://open.spotify.com/album/3WLgXHnZiDlcdyiBV2VHCq) | 6:19 |
 | 25 | [Cancion de cuna](https://open.spotify.com/track/2WfTVYdHjDvFaaVLGN1wEO) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Vicente Coves](https://open.spotify.com/artist/4T4Kpco9Elfm3HvFVVLJif) | [Latin\-American Music for Guitar](https://open.spotify.com/album/6mNnvVKDa9EMkRQNBSnbn6) | 4:42 |
-| 26 | [The Yellow Cake Review, Farewell to Stromness \(Excerpt\)](https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli) | [Peter Maxwell Davies](https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR), [Los Angeles Guitar Quartet](https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5) | [LAGQ](https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO) | 4:18 |
+| 26 | [The Yellow Cake Review, Farewell to Stromness \(Excerpt\)](https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli) | [Peter Maxwell Davies](https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR), [Los Angeles Guitar Quartet](https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5), [Jim Walker](https://open.spotify.com/artist/6smVDGOdX1vySleLfcVDXR) | [LAGQ](https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO) | 4:18 |
 | 27 | [Lieder ohne Worte \(Songs without Words\), Book 1, Op\. 19b: Song without Words, Op\. 19, No\. 6, Venetian Boat Song I](https://open.spotify.com/track/690jGhkElcf7vNPq0lvYtS) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Gerald Garcia](https://open.spotify.com/artist/5yVFKMGcxmH6Sy0nyEOQ1u) | [Romantic Guitar Favourites](https://open.spotify.com/album/5PLszKT70e0hh9wWR4HOv1) | 2:19 |
 | 28 | [El Noy De La Mare](https://open.spotify.com/track/5nJbq6tLA1tvxV7XA562Kf) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Relaxing Guitar for Insomnia, Dreaming and Romance](https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi) | 2:02 |
 | 29 | [Gymnopedie No\. 1](https://open.spotify.com/track/3Z5ypKicdExfF37VpnPOps) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Christopher Parkening](https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96) | [Christopher Parkening: The Great Recordings](https://open.spotify.com/album/7DwlG60CQDfIVEHam3erNE) | 2:50 |

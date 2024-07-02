@@ -2,7 +2,7 @@
 
 ### [This Is Murda Beatz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26qb6H)
 
-> This is Murda Beatz\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Murda Beatz\. The essential tracks, all in one playlist.
 
 44 songs - 2 hr 7 min
 

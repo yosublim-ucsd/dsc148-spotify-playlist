@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 107178,
+  "num_followers": 107204,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 415933,
+      "name": "Shades of Jae",
+      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 235066,
       "name": "Changes (feat. Haze)",
       "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 415933,
-      "name": "Shades of Jae",
-      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "It's Over Now",
-        "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
-      },
-      "artists": [
-        {
-          "name": "Waterstone",
-          "url": "https://open.spotify.com/artist/26EuK5ESLBjKNvR9lAIOG5"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
-        }
-      ],
-      "duration_ms": 377768,
-      "name": "It's Over Now - Extended Vocal Mix",
-      "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "It's Over Now",
+        "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
+      },
+      "artists": [
+        {
+          "name": "Waterstone",
+          "url": "https://open.spotify.com/artist/26EuK5ESLBjKNvR9lAIOG5"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+        }
+      ],
+      "duration_ms": 377768,
+      "name": "It's Over Now - Extended Vocal Mix",
+      "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
-      },
-      "artists": [
-        {
-          "name": "Shazzi",
-          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
-        }
-      ],
-      "duration_ms": 252842,
-      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 342893,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
+      },
+      "artists": [
+        {
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
+        }
+      ],
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Testify (Urban Blues Project present Jay Williams)",
-        "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
-      },
-      "artists": [
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
-        },
-        {
-          "name": "Jay Williams",
-          "url": "https://open.spotify.com/artist/2aR7Liq6qXllMrLVZJpYlR"
-        }
-      ],
-      "duration_ms": 509237,
-      "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
-      "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Never Saw You Coming",
         "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Testify (Urban Blues Project present Jay Williams)",
+        "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
+      },
+      "artists": [
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        },
+        {
+          "name": "Jay Williams",
+          "url": "https://open.spotify.com/artist/2aR7Liq6qXllMrLVZJpYlR"
+        }
+      ],
+      "duration_ms": 509237,
+      "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
+      "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Lost & Found EP Vol. 1",
+        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 440854,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 325773,
       "name": "Music in Me (Come Alive)",
       "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Lost & Found EP Vol. 1",
-        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 440854,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2327,6 +2327,66 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "I Want You All Tonight (DJ Spen & Michele Chiavarini Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZW7ttigriDm9QadYCVbYN"
+      },
+      "artists": [
+        {
+          "name": "Curtis Hairston",
+          "url": "https://open.spotify.com/artist/2lnlPzK1BZuPnaBXxMwGuS"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Michele Chiavarini",
+          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "I Want You All Tonight - DJ Spen & Michele Chiavarini Radio Edit",
+      "url": "https://open.spotify.com/track/1P0w0QbvPaoWiPVJw6EeOe"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
+      },
+      "artists": [
+        {
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
+        },
+        {
+          "name": "Song Williamson",
+          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
+        }
+      ],
+      "duration_ms": 483573,
+      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
+      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge"
+      },
+      "artists": [
+        {
+          "name": "Ken@Work",
+          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+        }
+      ],
+      "duration_ms": 286513,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
       },
@@ -2367,62 +2427,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Here We Go",
-        "url": "https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge"
+        "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
+        "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
       },
       "artists": [
         {
-          "name": "Ken@Work",
-          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
-        }
-      ],
-      "duration_ms": 286513,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Song Williamson",
-          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
-        }
-      ],
-      "duration_ms": 483573,
-      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
-      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "I Want You All Tonight (DJ Spen & Michele Chiavarini Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZW7ttigriDm9QadYCVbYN"
-      },
-      "artists": [
-        {
-          "name": "Curtis Hairston",
-          "url": "https://open.spotify.com/artist/2lnlPzK1BZuPnaBXxMwGuS"
+          "name": "Maysa",
+          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
         },
         {
           "name": "DJ Spen",
           "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
         },
         {
-          "name": "Michele Chiavarini",
-          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+          "name": "Reelsoul",
+          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
         }
       ],
-      "duration_ms": 244918,
-      "name": "I Want You All Tonight - DJ Spen & Michele Chiavarini Radio Edit",
-      "url": "https://open.spotify.com/track/1P0w0QbvPaoWiPVJw6EeOe"
+      "duration_ms": 440975,
+      "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
+      "url": "https://open.spotify.com/track/2V7wbLN0gbQLhY92CLt3un"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2451,26 +2475,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
-        "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
       },
       "artists": [
         {
-          "name": "Maysa",
-          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
         }
       ],
-      "duration_ms": 440975,
-      "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
-      "url": "https://open.spotify.com/track/2V7wbLN0gbQLhY92CLt3un"
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2507,22 +2523,6 @@
       "duration_ms": 446026,
       "name": "Get Ready - Halo City Deep Vocal Dub Mix",
       "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2807,6 +2807,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
         "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
       },
@@ -2823,22 +2839,6 @@
       "duration_ms": 421506,
       "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -2971,26 +2971,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "This Place",
-        "url": "https://open.spotify.com/album/3ARLZdIYzM4HRVeC7e2x1G"
-      },
-      "artists": [
-        {
-          "name": "Harold Matthews Jr",
-          "url": "https://open.spotify.com/artist/3NrvBcEUsZYD9xtE7sh6Ed"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        }
-      ],
-      "duration_ms": 321695,
-      "name": "This Place - Original Mix",
-      "url": "https://open.spotify.com/track/6HCpnVK4qvVdaGI1gpm7E7"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
       },
@@ -3015,6 +2995,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "This Place",
+        "url": "https://open.spotify.com/album/3ARLZdIYzM4HRVeC7e2x1G"
+      },
+      "artists": [
+        {
+          "name": "Harold Matthews Jr",
+          "url": "https://open.spotify.com/artist/3NrvBcEUsZYD9xtE7sh6Ed"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "duration_ms": 321695,
+      "name": "This Place - Original Mix",
+      "url": "https://open.spotify.com/track/6HCpnVK4qvVdaGI1gpm7E7"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -3031,6 +3031,26 @@
       "duration_ms": 419400,
       "name": "Wizeman (feat. Imaani)",
       "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/0WSuifTXmz50xOidZsO0rZ"
+      },
+      "artists": [
+        {
+          "name": "Fybe:One",
+          "url": "https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 264586,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7jokcgwenxH9rBm5s3CYfs"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -3067,26 +3087,6 @@
       "duration_ms": 502764,
       "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
       "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/0WSuifTXmz50xOidZsO0rZ"
-      },
-      "artists": [
-        {
-          "name": "Fybe:One",
-          "url": "https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw"
-        },
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 264586,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7jokcgwenxH9rBm5s3CYfs"
     },
     {
       "added_at": "2024-06-13 22:00:00",

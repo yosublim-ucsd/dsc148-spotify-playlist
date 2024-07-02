@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 205161,
       "name": "Flore Chico (feat. Chico Castillo) - Harry Romero Remix",
       "url": "https://open.spotify.com/track/0bMG2O0EVDSDuzha6iNyCI"
@@ -2153,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/7tdp4Sod7qIknKgEBZKjhR"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Iveta Mukuchyan",
+          "url": "https://open.spotify.com/artist/3GnXDBHZvRstGw7FhcsFn8"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256693,
+      "name": "Make Me Feel feat. Iveta Mukuchyan",
+      "url": "https://open.spotify.com/track/3fVENABGQkhuLgAeujuS9q"
+    },
+    {
+      "album": {
         "name": "Mi Mem",
         "url": "https://open.spotify.com/album/4N8s7QlUXAs0KzohCXECur"
       },
@@ -2286,6 +2308,24 @@
       "duration_ms": 372301,
       "name": "Metaphysical",
       "url": "https://open.spotify.com/track/7Jje3VC334uK8q5lAquuO5"
+    },
+    {
+      "album": {
+        "name": "Miriam's Praise",
+        "url": "https://open.spotify.com/album/2z7ieRKUnROTOfAean3qoN"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Miriam",
+      "url": "https://open.spotify.com/track/52etM3DAcqcCCtRqJIXi6C"
     },
     {
       "album": {

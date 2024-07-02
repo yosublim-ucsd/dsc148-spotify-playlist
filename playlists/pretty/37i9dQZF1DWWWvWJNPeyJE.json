@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 308067,
+  "num_followers": 308139,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "Sex You",
+        "url": "https://open.spotify.com/album/79XLDV4AdHo8v3w0zrfg0n"
+      },
+      "artists": [
+        {
+          "name": "Bando Jonez",
+          "url": "https://open.spotify.com/artist/1EhnxoXhj5r5DJ6lIWrAQe"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Sex You",
+      "url": "https://open.spotify.com/track/4pJt6B16mFRkmHfXUYmmrK"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "King of R&B",
         "url": "https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 206893,
       "name": "Risk It All (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "Sex You",
-        "url": "https://open.spotify.com/album/79XLDV4AdHo8v3w0zrfg0n"
-      },
-      "artists": [
-        {
-          "name": "Bando Jonez",
-          "url": "https://open.spotify.com/artist/1EhnxoXhj5r5DJ6lIWrAQe"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Sex You",
-      "url": "https://open.spotify.com/track/4pJt6B16mFRkmHfXUYmmrK"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "19 - EP",
+        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 259918,
+      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 252371,
       "name": "Late Night Drive",
       "url": "https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "19 - EP",
-        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 259918,
-      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 197285,
-      "name": "Sip",
-      "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
+      "duration_ms": 169066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
       "artists": [
         {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
+      "duration_ms": 197285,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "H.E.R. Volume 2",
+        "url": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
-        "name": "H.E.R. Volume 2",
-        "url": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
         "name": "Gossip Columns",
         "url": "https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 225666,
       "name": "Made Love First",
       "url": "https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "Back To Sleep",
-        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201647,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
     },
     {
       "added_at": "2024-06-24 11:06:47",
@@ -987,6 +971,38 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 191519,
+      "name": "Me & U - US Version",
+      "url": "https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
+        "name": "Back To Sleep",
+        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201647,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 204631,
       "name": "Rock wit Me (feat. IAMSU!)",
       "url": "https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 191519,
-      "name": "Me & U - US Version",
-      "url": "https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3"
     },
     {
       "added_at": "2024-06-24 11:06:47",

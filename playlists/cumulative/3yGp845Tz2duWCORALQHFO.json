@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Fake This Love",
+        "url": "https://open.spotify.com/album/1q7lqoHBV5KVLbQZAOOleT"
+      },
+      "artists": [
+        {
+          "name": "BXNNED",
+          "url": "https://open.spotify.com/artist/1OOAnuIBOoa0sri75C0YI5"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Fake This Love",
+      "url": "https://open.spotify.com/track/7rI0q5H3GvnPl6HLdvuurk"
+    },
+    {
+      "album": {
         "name": "FamilyMart",
         "url": "https://open.spotify.com/album/3hCBaNPcjijARbUvcJMXgQ"
       },
@@ -7636,6 +7654,28 @@
       "duration_ms": 169966,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2zE76iC9afgr4vjpvaDm7h"
+    },
+    {
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/62nnfII15N10IoPcdqCj3B"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154701,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/64XiSf7yj8DpDfNTTsh2qn"
     },
     {
       "album": {

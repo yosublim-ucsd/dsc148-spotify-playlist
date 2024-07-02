@@ -1,31 +1,31 @@
 {
-  "description": "Listen to women at full volume. Cover: Kehlani",
-  "num_followers": 58315,
+  "description": "Listen to women at full volume. Cover: DOE",
+  "num_followers": 58317,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlqcwAAAAABxcBpPnSNncTf9yx4FqMPF",
+  "snapshot_id": "ZoIpwAAAAACi9Uv/hANeVL3wzB6fYu99",
   "tracks": [
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+        "name": "Right Where You Are",
+        "url": "https://open.spotify.com/album/1nM9E1dc2aBJaITJouZT3S"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+      "duration_ms": 187199,
+      "name": "Right Where You Are",
+      "url": "https://open.spotify.com/track/1UscjxjPkZ25Efe8rEaUQM"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -57,7 +57,39 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Phat Butt",
+        "url": "https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129293,
+      "name": "Phat Butt",
+      "url": "https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
@@ -73,23 +105,23 @@
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "IMAN (Two Of Us)",
         "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "BOA",
         "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
@@ -121,7 +153,55 @@
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Suffs (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1R6nRTL81nROSLVJo2PDnl"
+      },
+      "artists": [
+        {
+          "name": "Kim Blanck",
+          "url": "https://open.spotify.com/artist/63aCVj25s2GBm3DYnVCE8a"
+        },
+        {
+          "name": "Ally Bonino",
+          "url": "https://open.spotify.com/artist/0QfBig2wRjlG3LMtXa566b"
+        },
+        {
+          "name": "Hannah Cruz",
+          "url": "https://open.spotify.com/artist/4Okl6bPzDlvptmDBdFwLJw"
+        },
+        {
+          "name": "Nadia Dandashi",
+          "url": "https://open.spotify.com/artist/7ng65Hm0TgSct87mErm5DS"
+        },
+        {
+          "name": "Shaina Taub",
+          "url": "https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Great American Bitch",
+      "url": "https://open.spotify.com/track/2NaNUij0c1fBiFabH2LakC"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Chase It (Mmm Da Da Da)",
         "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
@@ -137,7 +217,23 @@
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Not My Problem (Flyer Than U)",
+        "url": "https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "NANi",
         "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
@@ -153,39 +249,7 @@
       "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Wranglers",
-        "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 178196,
-      "name": "Wranglers",
-      "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Hang Tight Honey",
-        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Hang Tight Honey",
-      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
@@ -201,7 +265,31 @@
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+        "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+      "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Psycho Killer",
         "url": "https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA"
@@ -217,7 +305,23 @@
       "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
@@ -237,7 +341,7 @@
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Watermelon Sugar (Spotify Singles)",
         "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
@@ -253,39 +357,39 @@
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/6iq0bvsgI0En6mjsPN9Z73"
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/3OyDQE1kQawm1xGhVc4uiR"
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
-        "name": "Runnin\u2019 Outta Time",
-        "url": "https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK"
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
       },
       "artists": [
         {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Back Pew",
-      "url": "https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY"
+      "duration_ms": 188039,
+      "name": "truck on fire",
+      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Mis Amigas Las Flores",
         "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
@@ -301,7 +405,7 @@
       "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Cursed Romantics",
         "url": "https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE"
@@ -317,23 +421,7 @@
       "url": "https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Sad Girl Summer",
-        "url": "https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 178307,
-      "name": "Sad Girl Summer",
-      "url": "https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Entre La Maleza",
         "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
@@ -349,23 +437,7 @@
       "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Sound Of A Heartbreak",
-        "url": "https://open.spotify.com/album/3SDuRmpRWHaonAyJgG0wKu"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 158264,
-      "name": "Sound Of A Heartbreak",
-      "url": "https://open.spotify.com/track/2p4m654rK4ovizIpqTGSaF"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Love Over Glory",
         "url": "https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp"
@@ -381,7 +453,7 @@
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Technicolor Dream",
         "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
@@ -397,7 +469,7 @@
       "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Nightvisions",
         "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
@@ -413,7 +485,23 @@
       "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "pesimista",
+        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Moving Day",
         "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
@@ -429,7 +517,7 @@
       "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Streetwise",
         "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
@@ -449,7 +537,23 @@
       "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "End Up Us",
+        "url": "https://open.spotify.com/album/3RwD73q5FIXh52hg4E1a1t"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "duration_ms": 178498,
+      "name": "End Up Us",
+      "url": "https://open.spotify.com/track/0gi0E4MFUatZmrW9LcIeOg"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Cowboy",
         "url": "https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W"
@@ -465,39 +569,7 @@
       "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "The Loneliest Girl In The World",
-        "url": "https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "I Let Him Love Me",
-      "url": "https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Leroy",
-        "url": "https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts"
-      },
-      "artists": [
-        {
-          "name": "Tigirlily Gold",
-          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
-        }
-      ],
-      "duration_ms": 207607,
-      "name": "Leroy",
-      "url": "https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Riding Around In The Dark",
         "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
@@ -513,7 +585,7 @@
       "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Can't Be Still",
         "url": "https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF"
@@ -529,7 +601,7 @@
       "url": "https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Delphinium Blue",
         "url": "https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8"
@@ -545,7 +617,23 @@
       "url": "https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Magnolia Rain",
+        "url": "https://open.spotify.com/album/7b7SNa88HbYj7AWwAdUXa5"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 166257,
+      "name": "Magnolia Rain",
+      "url": "https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Whiskey",
         "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
@@ -561,23 +649,39 @@
       "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
       "album": {
-        "name": "wilt",
-        "url": "https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG"
+        "name": "Leroy",
+        "url": "https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts"
       },
       "artists": [
         {
-          "name": "wilt",
-          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
         }
       ],
-      "duration_ms": 161500,
-      "name": "she wants me too",
-      "url": "https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E"
+      "duration_ms": 207607,
+      "name": "Leroy",
+      "url": "https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq"
     },
     {
-      "added_at": "2024-06-01 04:00:00",
+      "added_at": "2024-07-01 04:00:00",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
+    },
+    {
+      "added_at": "2024-07-01 04:00:00",
       "album": {
         "name": "Handle With Care",
         "url": "https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt"
@@ -599,90 +703,6 @@
       "duration_ms": 168067,
       "name": "Breaking News (feat. Rico Nasty & Kilo Kish)",
       "url": "https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Self Doubt",
-        "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
-      },
-      "artists": [
-        {
-          "name": "Ava Maybee",
-          "url": "https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Self Doubt",
-      "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Got Me Like",
-        "url": "https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK"
-      },
-      "artists": [
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 157900,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/6j5zCVCTLIw4qXRMoseA5r"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "la manera que me ves",
-        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 229549,
-      "name": "la manera que me ves",
-      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "i'm just a grrrl",
-        "url": "https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F"
-      },
-      "artists": [
-        {
-          "name": "Sizzy Rocket",
-          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "i'm just a grrrl",
-      "url": "https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Take What You Need and Then Some",
-        "url": "https://open.spotify.com/album/51g1AZkxAlkmqvv0QRAS2l"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        },
-        {
-          "name": "Vayda",
-          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
-        }
-      ],
-      "duration_ms": 112954,
-      "name": "cult classic (feat. Vayda)",
-      "url": "https://open.spotify.com/track/6SeNaSjWcFBTiXhWYt4kcS"
     }
   ],
   "unique_name": "EQUAL US",

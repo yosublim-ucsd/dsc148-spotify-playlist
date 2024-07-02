@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 15579,
+  "num_followers": 15583,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-28 05:52:00",
       "album": {
-        "name": "The Midnight Studio, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a"
-      },
-      "artists": [
-        {
-          "name": "g1nger",
-          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Love So Beautiful",
-      "url": "https://open.spotify.com/track/1Q7vzuuqv96muUUBDgFNoI"
-    },
-    {
-      "added_at": "2024-06-28 05:52:00",
-      "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2024-06-28 05:52:00",
+      "album": {
+        "name": "The Midnight Studio, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a"
+      },
+      "artists": [
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Love So Beautiful",
+      "url": "https://open.spotify.com/track/1Q7vzuuqv96muUUBDgFNoI"
     },
     {
       "added_at": "2024-06-28 05:52:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-28 05:52:00",
       "album": {
-        "name": "Sea&U&I",
-        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
-      },
-      "artists": [
-        {
-          "name": "polar",
-          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Sea&U&I",
-      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
-    },
-    {
-      "added_at": "2024-06-28 05:52:00",
-      "album": {
         "name": "Sweeet",
         "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 177999,
       "name": "Sugardance",
       "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+    },
+    {
+      "added_at": "2024-06-28 05:52:00",
+      "album": {
+        "name": "Sea&U&I",
+        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
+      },
+      "artists": [
+        {
+          "name": "polar",
+          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Sea&U&I",
+      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
     },
     {
       "added_at": "2024-06-28 05:52:00",

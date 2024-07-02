@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: The Story So Far",
-  "num_followers": 453706,
+  "num_followers": 453740,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "GODDAMNITALL",
-        "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 196301,
-      "name": "GODDAMNITALL",
-      "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "GODDAMNITALL",
+        "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 196301,
+      "name": "GODDAMNITALL",
+      "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Dark Magic",
         "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Year Of The Vulture",
-        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 148882,
-      "name": "Year Of The Vulture",
-      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "WHERE DID IT ALL GO WRONG",
-        "url": "https://open.spotify.com/album/6Vdt0boVVqVHd7IWbZtXvx"
+        "name": "Year Of The Vulture",
+        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
       },
       "artists": [
         {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
         }
       ],
-      "duration_ms": 179811,
-      "name": "WHERE DID IT ALL GO WRONG",
-      "url": "https://open.spotify.com/track/37TMee3XZ60teY32Ivk9s9"
+      "duration_ms": 148882,
+      "name": "Year Of The Vulture",
+      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1063,6 +1047,22 @@
       "duration_ms": 175937,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "WHERE DID IT ALL GO WRONG",
+        "url": "https://open.spotify.com/album/6Vdt0boVVqVHd7IWbZtXvx"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 179811,
+      "name": "WHERE DID IT ALL GO WRONG",
+      "url": "https://open.spotify.com/track/37TMee3XZ60teY32Ivk9s9"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Giant's Despair",
-        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Giant's Despair",
-      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "WARZ0NE",
-        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 158175,
-      "name": "WARZ0NE",
-      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "WARZ0NE",
+        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 158175,
+      "name": "WARZ0NE",
+      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "What's An Hour Really Worth",
-        "url": "https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 213141,
-      "name": "What's An Hour Really Worth",
-      "url": "https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 156673,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "What's An Hour Really Worth",
+        "url": "https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 213141,
+      "name": "What's An Hour Really Worth",
+      "url": "https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
+        "name": "SCUMBAG",
+        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 186910,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
         "name": "There Are Worse Things Than Being Alive",
         "url": "https://open.spotify.com/album/7dqcKOZKfL0P4HzxNTdHFT"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 247025,
       "name": "Really Big Shrimp",
       "url": "https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
-        "name": "SCUMBAG",
-        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 186910,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Girl Shaped Crater",
-        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/05TLaN7QC4nesO4XCQzRT4"
-        }
-      ],
-      "duration_ms": 182855,
-      "name": "Girl Shaped Crater",
-      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Kill My Vibe",
         "url": "https://open.spotify.com/album/2cHTrXqBuuyUNEfwxpoy5A"
       },
@@ -1799,6 +1783,58 @@
       "duration_ms": 165961,
       "name": "Kill My Vibe",
       "url": "https://open.spotify.com/track/7rEna9icPrPPFf9sde2wK4"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Girl Shaped Crater",
+        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/05TLaN7QC4nesO4XCQzRT4"
+        }
+      ],
+      "duration_ms": 182855,
+      "name": "Girl Shaped Crater",
+      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Halloween Mixtape II",
+        "url": "https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "duration_ms": 191539,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1835,58 +1871,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Boys of Fall",
-        "url": "https://open.spotify.com/album/62l1xSAfCTe4M2JWIAdiou"
-      },
-      "artists": [
-        {
-          "name": "Boys of Fall",
-          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
-        }
-      ],
-      "duration_ms": 227370,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3KAntNhAuYTwOXLCJHfOCK"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
-        "name": "Halloween Mixtape II",
-        "url": "https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 191539,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 224899,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "The Fullness of My Being",
         "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 218311,
       "name": "The Fullness of My Being",
       "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Boys of Fall",
+        "url": "https://open.spotify.com/album/62l1xSAfCTe4M2JWIAdiou"
+      },
+      "artists": [
+        {
+          "name": "Boys of Fall",
+          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+        }
+      ],
+      "duration_ms": 227370,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3KAntNhAuYTwOXLCJHfOCK"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Tired Of Lying",
-        "url": "https://open.spotify.com/album/49IsBOpvYnNf9qWln652wg"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 231204,
-      "name": "Tired Of Lying",
-      "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "suraksha",
         "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 279284,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Tired Of Lying",
+        "url": "https://open.spotify.com/album/49IsBOpvYnNf9qWln652wg"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 231204,
+      "name": "Tired Of Lying",
+      "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2043,6 +2043,22 @@
       "duration_ms": 191066,
       "name": "dayz gone",
       "url": "https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Big Al Dente",
+        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 170970,
+      "name": "Big Al Dente",
+      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2083,22 +2099,6 @@
       "duration_ms": 140260,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0AnQTSzoVydSl1LT2F0AFS"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
-        "name": "Big Al Dente",
-        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 170970,
-      "name": "Big Al Dente",
-      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
         "name": "Don't Tempt Me Baby...",
         "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 156395,
       "name": "Don't Tempt Me Baby...",
       "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
-        "name": "Permanent Rebellion",
-        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "Permanent Rebellion",
-      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
-      },
-      "artists": [
-        {
-          "name": "Savings",
-          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
-        }
-      ],
-      "duration_ms": 185873,
-      "name": "American Psycho",
-      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "to me",
         "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+      },
+      "artists": [
+        {
+          "name": "Savings",
+          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+        }
+      ],
+      "duration_ms": 185873,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Dark Paradise",
-        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "BURNOUT",
         "url": "https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 172500,
       "name": "BURNOUT",
       "url": "https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Dark Paradise",
+        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Hopefully Pitchfork Doesn't Hear This",
-        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
-      },
-      "artists": [
-        {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Hopefully Pitchfork Doesn't Hear This",
-      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "The Four Before",
         "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Hopefully Pitchfork Doesn't Hear This",
+        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
+      },
+      "artists": [
+        {
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Hopefully Pitchfork Doesn't Hear This",
+      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
     },
     {
       "added_at": "2024-06-24 15:00:20",

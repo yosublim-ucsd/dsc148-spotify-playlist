@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Jack Kays
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,722 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,770 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Superweak](https://open.spotify.com/track/2TF4DWgC82TZZVFRDU1ZO3) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Superweak](https://open.spotify.com/album/0I61eHjNBR674kPzSdPWWt) | 2:55 |
 | 125 | [bills](https://open.spotify.com/track/14z7tDjODXm7fy3YJpLIeR) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [bills](https://open.spotify.com/album/0kh5VJhwXDcXKhw9i64iY7) | 2:25 |
 
-Snapshot ID: `Zn41QAAAAAB40sc4NfpAnSjICVSRMxso`
+Snapshot ID: `ZoL64QAAAAAdpTnAJb25Fk223oEFwuyg`

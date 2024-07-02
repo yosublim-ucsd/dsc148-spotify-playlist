@@ -3265,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+    },
+    {
+      "album": {
         "name": "Child",
         "url": "https://open.spotify.com/album/0h8CGB1yL8KDwvRTXczkeR"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 167600,
       "name": "Digita",
       "url": "https://open.spotify.com/track/06CaeQTDHlppW9ObQ2to2g"
@@ -6258,7 +6276,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
@@ -7164,7 +7182,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 158961,
       "name": "Fuck Your Ego (ft. Frizzy The Streetz)",
       "url": "https://open.spotify.com/track/3hichQTeR18ZdRzlST5Cp0"
@@ -9616,7 +9634,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 211163,
       "name": "IDK",
       "url": "https://open.spotify.com/track/2GYjSu8UPhlOHDIjmc4ltN"
@@ -10372,7 +10390,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 163845,
       "name": "Jungle - Arcando Remix",
       "url": "https://open.spotify.com/track/3tFq8IZqLaqnZO0rxbcanH"
@@ -10540,7 +10558,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 138415,
       "name": "KAB",
       "url": "https://open.spotify.com/track/1P8mVykZ69jxsydZYwUjmI"
@@ -12082,7 +12100,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 160235,
       "name": "LX-777 (Lunar Data)",
       "url": "https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN"
@@ -12884,7 +12902,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 124249,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0X6ywfxeGw4VMTq2oC06EL"
@@ -18122,7 +18140,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 200500,
       "name": "SILVER LINEN",
       "url": "https://open.spotify.com/track/4RpO4F3dg2KBzqTzXJ2exX"
@@ -18794,7 +18812,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 224000,
       "name": "Stay - Afinity Remix",
       "url": "https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6"
@@ -20992,7 +21010,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 205714,
       "name": "ULTRALIMINAL",
       "url": "https://open.spotify.com/track/4OiUscrOUxuT4KGYsJdyVJ"
@@ -22296,7 +22314,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 207428,
       "name": "When You Fall",
       "url": "https://open.spotify.com/track/0F5c2JHlX0dQsuIIZj3MGd"
@@ -22925,6 +22943,28 @@
     },
     {
       "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/2JNfMAquI3jVKKJ8jTRNHw"
       },
@@ -23068,7 +23108,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 146666,
       "name": "you're hell",
       "url": "https://open.spotify.com/track/7dGY8CoLPJmGEaQgsRLL4f"

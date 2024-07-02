@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 222833,
+  "num_followers": 222892,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Carmina XVII",
         "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 240476,
       "name": "Carmina XVII",
       "url": "https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Jinxed by Being",
+        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
+      },
+      "artists": [
+        {
+          "name": "Shackleton",
+          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
+        },
+        {
+          "name": "Six Organs Of Admittance",
+          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
+        }
+      ],
+      "duration_ms": 553600,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Pt. I",
         "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
       },
@@ -763,6 +783,30 @@
       "duration_ms": 247664,
       "name": "Tunnel Lights",
       "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Shade Under Your Hands",
+        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
+      },
+      "artists": [
+        {
+          "name": "OSOO",
+          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "21 Reasons",
+      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -803,46 +847,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Shade Under Your Hands",
-        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
       "artists": [
         {
-          "name": "OSOO",
-          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
         }
       ],
-      "duration_ms": 60000,
-      "name": "21 Reasons",
-      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Jinxed by Being",
-        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
-      },
-      "artists": [
-        {
-          "name": "Shackleton",
-          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
-        },
-        {
-          "name": "Six Organs Of Admittance",
-          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
-        }
-      ],
-      "duration_ms": 553600,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
         }
       ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+      "duration_ms": 55860,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -891,22 +907,6 @@
       "duration_ms": 277726,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 55860,
-      "name": "Deep Sea",
-      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Da pacem",
-        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
+        "name": "Dois Litorais",
+        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
       },
       "artists": [
         {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+          "name": "Mari\u00e1 Portugal",
+          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
         }
       ],
-      "duration_ms": 275906,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
+      "duration_ms": 520719,
+      "name": "Dois Litorais",
+      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
     }
   ],
   "unique_name": "Terra Incognita",

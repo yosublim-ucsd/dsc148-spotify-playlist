@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alejandro Fern\u00e1ndez. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 797771,
+  "description": "This Is Alejandro Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
+  "num_followers": 797878,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAADd+Qu7LwKca27rkVyAFTQq",
+  "snapshot_id": "ZoCgAAAAAADhyPKD6VW3MRdjgfFdS5hW",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Como Quien Pierde una Estrella",
-      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
       "duration_ms": 254600,
       "name": "Canta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Como Quien Pierde una Estrella",
+      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
     },
     {
       "added_at": null,
@@ -135,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
+      "url": "https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -155,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
       "artists": [
         {
@@ -164,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 245866,
-      "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
-      "url": "https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q"
+      "duration_ms": 186200,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE"
     },
     {
       "added_at": null,
@@ -347,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 246533,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
     },
     {
       "added_at": null,
@@ -591,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Tantita Pena",
-      "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muy Dentro De Mi Corazon",
         "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
       },
@@ -619,6 +635,22 @@
       "duration_ms": 197933,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Tantita Pena",
+      "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
     },
     {
       "added_at": null,
@@ -907,38 +939,6 @@
       "duration_ms": 193213,
       "name": "A Qu\u00e9 Sabe El Olvido",
       "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Qu\u00e9 Bueno",
-      "url": "https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Tus Brazos",
-        "url": "https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 294546,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/6j0rlBbNv9TNfoVhiOC7Fl"
     }
   ],
   "unique_name": "This Is Alejandro Fern\u00e1ndez",

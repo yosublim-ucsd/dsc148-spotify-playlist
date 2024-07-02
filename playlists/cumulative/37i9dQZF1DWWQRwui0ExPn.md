@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,839 songs - 10 day 19 hr 16 min
+6,840 songs - 10 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5111,7 +5111,7 @@
 | [Selkie Fowk](https://open.spotify.com/track/7nfuHdcXccvy30anyBT6Sa) | [green tee](https://open.spotify.com/artist/3gumwjGgamfj1wh8c0iEMO) | [Selkie Fowk](https://open.spotify.com/album/18scTHSa7ekMq6acbmr3A8) | 2:12 | 2022-07-22 | 2022-11-11 |
 | [semi\-hollow](https://open.spotify.com/track/0WZmg03i0vltH03r3pDuex) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [semi\-hollow](https://open.spotify.com/album/4ctfPJLaYEBKhoy5E7aR3k) | 2:38 | 2024-01-19 |  |
 | [send me a song](https://open.spotify.com/track/204Cz11OgZuJzunZZs0yno) | [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO) | [Bedroom Skits](https://open.spotify.com/album/4360Bb2FpRG1AQtIHWThKC) | 2:17 | 2019-05-26\* | 2019-11-08 |
-| [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 | 2023-11-24 |  |
+| [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 | 2023-11-24 | 2024-07-02 |
 | [Sense Maker](https://open.spotify.com/track/3Vd1Teq0uRyxW5wwUImAcn) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Sense Maker](https://open.spotify.com/album/7sXdkbzfcODNzAbuMAVndi) | 2:35 | 2022-04-15 | 2022-10-07 |
 | [Sentaku Shitsu \- Japanese Lofi](https://open.spotify.com/track/0E7v3PNerWsOopv3SusWtZ) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Sentaku Shitsu \(Japanese Lofi\)](https://open.spotify.com/album/2HDoDYRcBEEkSvGXwt4K7w) | 3:13 | 2022-04-08 | 2022-06-03 |
 | [Sentiment](https://open.spotify.com/track/1DXyi8J4qdD9rxqQ9bNMWS) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Sentiment // Between Us](https://open.spotify.com/album/5Uv7rdtdwPohhUxkgExTdr) | 2:15 | 2022-02-25 | 2022-08-05 |
@@ -5741,6 +5741,7 @@
 | [Sunny](https://open.spotify.com/track/5IMN6U2yKva50QhZd8AtqU) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunny](https://open.spotify.com/album/5HiUSNQJvZLUQLBWo0kgbH) | 1:48 | 2023-02-21 | 2023-04-06 |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2019-05-29 | 2020-01-31 |
 | [Sunny](https://open.spotify.com/track/6IryhPRuK4F08XkwLFkD1z) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Sunny](https://open.spotify.com/album/1bXmOsirVMcja5VwV4Feb7) | 2:46 | 2023-01-13 | 2024-01-19 |
+| [Sunny Bossa](https://open.spotify.com/track/3dsFmdKYpgftTk6M22syBO) | [Jonny Wolf](https://open.spotify.com/artist/4hej44aTHWnoNziIuwNtwS), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Sunny Bossa](https://open.spotify.com/album/68oz0MTa8h9kQ3umb1K5GI) | 2:29 | 2024-06-28 |  |
 | [Sunny Day](https://open.spotify.com/track/26566DizCMEaVKT1CQEoAY) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Sunny Day](https://open.spotify.com/album/1iFaOyTS2mM7vQxxBX4db7) | 1:48 | 2021-09-04 | 2022-04-08 |
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |
 | [Sunny Dayz](https://open.spotify.com/track/2HC8RLA2EO5fq82ARn7hqi) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Sunny Dayz](https://open.spotify.com/album/6kHBOVYybQLmGBlW7OmwA0) | 2:19 | 2023-09-15 | 2023-11-11 |

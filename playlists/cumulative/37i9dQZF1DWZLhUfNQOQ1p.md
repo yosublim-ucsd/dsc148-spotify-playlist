@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-381 songs - 1 day 1 hr 43 min
+383 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2023-05-30 |  |
 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 | 2024-03-22 |  |
 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 | 2021-08-05 | 2023-05-31 |
-| [Forgiveness](https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [AOC Records](https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy) | [Forgiveness](https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV) | 4:49 | 2024-05-03 |  |
+| [Forgiveness](https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [AOC Records](https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy) | [Forgiveness](https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV) | 4:49 | 2024-05-03 | 2024-07-02 |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-06-09 |  |
 | [FUNKY LADY](https://open.spotify.com/track/0Q9E8mLUdeLRyYdpWun2iY) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Bobby Soul](https://open.spotify.com/artist/6GEKhpwxiRESLIxGkpXGPw) | [THE NEW ALBUM](https://open.spotify.com/album/6gpCbZAzg4dsaFRvYXxj4M) | 4:11 | 2024-05-19 | 2024-06-03 |
 | [Funkytown](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Mouth To Mouth](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) | 7:50 | 2024-05-19 | 2024-06-03 |
@@ -265,6 +265,7 @@
 | [Portofino](https://open.spotify.com/track/5pAdgRrEDtLAGU83fpkiD6) | [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Glaz](https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3) | 2:55 | 2023-05-14 | 2023-05-30 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-05-30 |  |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2023-05-30 |  |
+| [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 | 2024-07-01 |  |
 | [Prisencolinensinainciusol](https://open.spotify.com/track/0HQf0bd3oSZei450iKuUFR) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Celentano Hit Parade / Le Volte Che Adriano E' Stato Primo](https://open.spotify.com/album/5dP9R1pAhtCoZJXU3iqW4y) | 3:49 | 2024-05-19 | 2024-06-03 |
 | [Psicomagia](https://open.spotify.com/track/1BDfGMy4SK2OaZhX522zB6) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Psicomagia](https://open.spotify.com/album/0htTcwRP2A5J33zOqtkgNV) | 3:10 | 2023-05-14 | 2023-05-30 |
 | [Push It Up](https://open.spotify.com/track/5h5PYUY5NCeCPLvPixTgVl) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 3:24 | 2023-05-14 | 2023-05-30 |
@@ -332,6 +333,7 @@
 | [That's the Way \(I Like It\)](https://open.spotify.com/track/7s3FSodLpnKMzeMj17G5d0) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [The TK Years](https://open.spotify.com/album/770HywB2djZP5QEel6as2l) | 5:06 | 2024-05-19 | 2024-06-03 |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-08-11 |  |
 | [The Blaze](https://open.spotify.com/track/090rxvqKAGpTryUgXOZgsj) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [The Blaze](https://open.spotify.com/album/0PIVIlqxF8ktvD54vVL4T4) | 3:31 | 2021-08-05 | 2022-07-27 |
+| [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Chloe Paige](https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq) | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV) | 3:54 | 2024-07-01 |  |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2023-05-30 |  |
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2021-08-05 | 2023-05-31 |
 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 | 2021-08-05 | 2023-05-31 |
@@ -387,7 +389,7 @@
 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 | 2024-05-19 | 2024-06-03 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-06-07 |  |
 | [You Feel Me](https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [You Feel Me](https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB) | 3:33 | 2023-08-11 |  |
-| [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 | 2024-06-12 |  |
+| [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 | 2024-06-12 | 2024-07-02 |
 | [Zodiacs \- Digitally Remastered](https://open.spotify.com/track/64vmxpTHTMAwDlOfB8lQs5) | [Roberta Kelly](https://open.spotify.com/artist/3DMQA5X4ZA8Lu36nDv3k8F) | [Trouble Maker \(Digitally Remastered Version\)](https://open.spotify.com/album/6byW9Ji5U7TBL9hcFTPJXs) | 5:09 | 2023-05-14 | 2023-05-30 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

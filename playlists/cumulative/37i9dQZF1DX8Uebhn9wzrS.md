@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,973 songs - 3 day 3 hr 9 min
+1,975 songs - 3 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Cape Judge](https://open.spotify.com/track/5GtIpEXs7ZBOz49Y4Tekpb) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Cape Judge](https://open.spotify.com/album/0qBw9ryoN9AhxwkxgPJIrB) | 2:57 | 2022-04-15 | 2022-10-08 |
 | [Capybara Spa](https://open.spotify.com/track/5kSpG7KnpcN3aSvpJ82ydo) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Capybara Spa](https://open.spotify.com/album/4N28xaQ7I9q115v9znKzmk) | 1:58 | 2024-04-12 |  |
 | [Car Ride](https://open.spotify.com/track/6WJjp4tweyEM415TtdFsqx) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Car Ride](https://open.spotify.com/album/793wFdKEFWdOyYLgtX3OL5) | 2:15 | 2024-03-22 |  |
+| [Cardboard](https://open.spotify.com/track/4sfH6LUuVwsUXbifqe0kV0) | [Son Of Emilio](https://open.spotify.com/artist/4Tp7GiwfljbNCqlZ6WFity) | [Cardboard](https://open.spotify.com/album/74Tj2d8l4GmJcp2CPgLOO0) | 1:48 | 2024-06-28 |  |
 | [Carefree](https://open.spotify.com/track/2sGWXNk6QdXbsKII2FYfRt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Carefree](https://open.spotify.com/album/3lItQWRt34iplBcHQYIcxo) | 2:14 | 2022-11-11 | 2022-11-24 |
 | [Carefree](https://open.spotify.com/track/3OMQ3cQynMBphxAoFUVaIZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7) | 2:14 | 2022-12-09 | 2022-12-13 |
 | [Carefree](https://open.spotify.com/track/57i49QYR2zB0AWbct7guqF) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/7JKBLyPB0mqBghCqmTmj9K) | 2:14 | 2022-12-09 | 2022-12-14 |
@@ -1151,7 +1152,7 @@
 | [Nachtschicht](https://open.spotify.com/track/1Nk21HZ5Gdyt0C7Ta7JAFn) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Nachtschicht](https://open.spotify.com/album/5KkUK4Vkla73stLftrjk2z) | 2:04 | 2023-07-13 | 2023-10-27 |
 | [Nadis](https://open.spotify.com/track/3EmmopcqTsF4BvbCoadpMP) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Alpstar](https://open.spotify.com/artist/5LyqaR9qKCY366KoR95KAu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Nadis](https://open.spotify.com/album/7iQ51FgRgNmMi2mIK1i4yt) | 2:06 | 2022-08-12 | 2022-12-17 |
 | [Natsukashii](https://open.spotify.com/track/47CCAzwODti6pWUUKnDHjz) | [nuuxm](https://open.spotify.com/artist/101wXaKcGFhROAYVnIwcAs) | [Natsukashii](https://open.spotify.com/album/6ebtUzJRChi4wPPRqu4gTl) | 2:39 | 2024-02-02 | 2024-04-13 |
-| [Nattchill](https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst) | [JHONGIL](https://open.spotify.com/artist/4g8UVxOoXX3Z1bP5FGJBLy) | [Nattchill](https://open.spotify.com/album/0UAB4QNn24PfMW07cUDmlF) | 2:40 | 2022-11-11 |  |
+| [Nattchill](https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst) | [JHONGIL](https://open.spotify.com/artist/4g8UVxOoXX3Z1bP5FGJBLy) | [Nattchill](https://open.spotify.com/album/0UAB4QNn24PfMW07cUDmlF) | 2:40 | 2022-11-11 | 2024-07-02 |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2022-04-15 | 2022-05-13 |
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-13 |  |
 | [Nature's Love](https://open.spotify.com/track/55ZUuMlOTxhJiLs3LkIqZH) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Spacemoons](https://open.spotify.com/album/48MaOWMleT2N9nmVfZ95BR) | 2:30 | 2022-04-15 | 2023-03-02 |
@@ -1575,7 +1576,7 @@
 | [Someday](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Someday](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:03 | 2022-12-16 | 2024-02-02 |
 | [Something Shines](https://open.spotify.com/track/6m7m9bv8WjlW4I0OlLpLTD) | [Drogra](https://open.spotify.com/artist/46C1yy45Hsu5NlD7QnNFri) | [Something Shines](https://open.spotify.com/album/1ecZUb3TFQ2Egx0TeQmLsA) | 2:15 | 2024-02-02 |  |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2022-04-15 | 2024-05-14 |
-| [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2022-10-01 |  |
+| [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2022-10-01 | 2024-07-02 |
 | [somewhat breezy](https://open.spotify.com/track/3UbbHzb70XtG3ozVzNXR6v) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [somewhat breezy](https://open.spotify.com/album/4YzDP6DkHpOEmRIRajmHQU) | 2:02 | 2022-04-15 | 2022-10-29 |
 | [somewhere in time](https://open.spotify.com/track/3HFdGHqnhjH2QizQW46oBt) | [leonoel](https://open.spotify.com/artist/1kGDwOMmp0ZnSQLP74MHfo), [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9), [Oscar Jakonen](https://open.spotify.com/artist/1uUseRx5lV0ENp9BbNUcng) | [somewhere in time](https://open.spotify.com/album/5mgWGyzUMyDKXtAF0wvvk1) | 2:16 | 2022-08-12 | 2022-12-09 |
 | [sonic colors](https://open.spotify.com/track/76kN4WGmfKyPGUcpZLNvx2) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [sonic colors](https://open.spotify.com/album/5C1vvF0d0KNOWGhsLtSh41) | 2:00 | 2022-05-27 | 2022-11-19 |
@@ -1859,6 +1860,7 @@
 | [urban souls](https://open.spotify.com/track/6AQUO1Nblsmz7BW0wvFCgt) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [urban souls](https://open.spotify.com/album/5YvHSBgHmflcRqJyBopsaK) | 2:46 | 2022-04-15 | 2022-05-27 |
 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2022-10-01 |  |
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2022-04-15 | 2022-12-17 |
+| [van life](https://open.spotify.com/track/4j8uAYMGya8Qn9pTiXusO3) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [van life](https://open.spotify.com/album/4n1tsBwH4DtpmM0jOEKUNT) | 2:21 | 2024-06-28 |  |
 | [Van Von Vinkelvoss](https://open.spotify.com/track/4vCJcqYGVB7hXmmF4eMGV5) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [Van Von Vinkelvoss](https://open.spotify.com/album/5Wh4SnF9dvdtMZzXeIc7h9) | 2:42 | 2023-01-20 |  |
 | [Verge](https://open.spotify.com/track/7DQzqbyPr0GKqNPItMOQEE) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Verge](https://open.spotify.com/album/17JZeITR4GKgGWCnLF6r19) | 1:58 | 2024-03-22 | 2024-05-07 |
 | [Vibe Check](https://open.spotify.com/track/1UZzgXW7aQrbcszxDWleBR) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Days](https://open.spotify.com/album/1ll3McJaLAP6wzADXKfIEc) | 2:24 | 2023-08-03 |  |

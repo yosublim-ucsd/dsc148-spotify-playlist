@@ -2,7 +2,7 @@
 
 ### [This Is yama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lbP7a)
 
-> This is yama\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is yama\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 57 min
 

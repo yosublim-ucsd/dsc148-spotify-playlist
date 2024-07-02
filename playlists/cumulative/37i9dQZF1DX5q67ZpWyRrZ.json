@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Aalas Ka Pedh",
+        "url": "https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313163,
+      "name": "Aaoge Tum Kabhi",
+      "url": "https://open.spotify.com/track/5ivRSlOhVIXN2QMzqgsX0s"
+    },
+    {
+      "album": {
         "name": "Aarzoo",
         "url": "https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW"
       },
@@ -302,7 +320,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 187553,
       "name": "Aisi Woh Baarish",
       "url": "https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF"

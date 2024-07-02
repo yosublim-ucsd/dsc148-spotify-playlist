@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-244 songs - 1 day 0 hr 5 min
+245 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [R U FCKNG SERIOUS \- Moritz Hofbauer Remix](https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [R U FCKNG SERIOUS \(2023 Remaster + Remixes\)](https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22) | 6:31 | 2023-08-25 | 2023-11-25 |
 | [Red Wedding](https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Red Wedding](https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq) | 8:46 | 2023-05-05 |  |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 |  |
+| [Remember the Music](https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Remember the Music](https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy) | 4:04 | 2024-07-01 |  |
 | [Repulsion](https://open.spotify.com/track/3hl0dNGAOK99HqJJKBLsnV) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Repulsion](https://open.spotify.com/album/1yIRKNnDElaoWnk0bIDPiK) | 7:02 | 2023-05-02 | 2023-10-07 |
 | [Rescue Me \- DJ Island Remix](https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Rescue Me](https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU) | 5:44 | 2023-02-17 | 2024-01-27 |
 | [Retroworld](https://open.spotify.com/track/1ZXG5VB314386cqUk2MIru) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Retroworld EP](https://open.spotify.com/album/5UHJ8nskMFmTyCxVhwJEu9) | 5:55 | 2023-06-23 | 2024-01-27 |

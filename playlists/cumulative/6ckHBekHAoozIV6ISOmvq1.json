@@ -12091,6 +12091,32 @@
     },
     {
       "album": {
+        "name": "Palestrina Choral Works",
+        "url": "https://open.spotify.com/album/7nxevVIeNtgBoeuezpoKy7"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "Dominique Vellard",
+          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
+        },
+        {
+          "name": "Arlette Steyer",
+          "url": "https://open.spotify.com/artist/2olRnbf7RAeK4sQYf6IxK2"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456133,
+      "name": "Lamentations for Holy Saturday (3-8 Voices): Lectio I",
+      "url": "https://open.spotify.com/track/6M4y9IG8fYXiwvpoGrSTsq"
+    },
+    {
+      "album": {
         "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
         "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
       },
@@ -12716,32 +12742,6 @@
       "duration_ms": 248186,
       "name": "Leave Her, Johnny (Arr. by Se\u00e1n Dagher)",
       "url": "https://open.spotify.com/track/2OfSreeqGD1osKdzyMfi2P"
-    },
-    {
-      "album": {
-        "name": "Palestrina Choral Works",
-        "url": "https://open.spotify.com/album/7nxevVIeNtgBoeuezpoKy7"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Pierluigi da Palestrina",
-          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
-        },
-        {
-          "name": "Dominique Vellard",
-          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
-        },
-        {
-          "name": "Arlette Steyer",
-          "url": "https://open.spotify.com/artist/2olRnbf7RAeK4sQYf6IxK2"
-        }
-      ],
-      "date_added": "2023-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 456133,
-      "name": "Lectio I",
-      "url": "https://open.spotify.com/track/6M4y9IG8fYXiwvpoGrSTsq"
     },
     {
       "album": {

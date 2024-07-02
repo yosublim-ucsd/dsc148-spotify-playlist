@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 51566,
+  "num_followers": 51601,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Fabulosos Exitos",
         "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Ai",
         "url": "https://open.spotify.com/album/0mMjeFMp1gG5BmGSth4ngC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 233965,
       "name": "Ai",
       "url": "https://open.spotify.com/track/5KjgtZ66c7MnDgWW8MeZ18"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Que te vaya bien.",
-        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
-      },
-      "artists": [
-        {
-          "name": "Las Mambas Mx",
-          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Que te vaya bien.",
-      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Que te vaya bien.",
+        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
+      },
+      "artists": [
+        {
+          "name": "Las Mambas Mx",
+          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Que te vaya bien.",
+      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1687,22 +1687,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Blessed with a Melody",
-        "url": "https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL"
+        "name": "Conscience is Heavy",
+        "url": "https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg"
       },
       "artists": [
         {
-          "name": "JJ Sansaverino",
-          "url": "https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy"
+          "name": "The Inversions",
+          "url": "https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt"
         },
         {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+          "name": "Victor Axelrod",
+          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
         }
       ],
-      "duration_ms": 267346,
-      "name": "Blessed with a Melody",
-      "url": "https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx"
+      "duration_ms": 190866,
+      "name": "Conscience is Heavy",
+      "url": "https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR"
     }
   ],
   "unique_name": "Ska Around The Globe",

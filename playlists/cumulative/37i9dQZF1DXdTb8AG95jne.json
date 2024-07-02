@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "A Letter",
+      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
+    },
+    {
+      "album": {
         "name": "a letter from fall \uc5ec\ub984\uc758 \ub05d, \uac00\uc744\ud3b8\uc9c0",
         "url": "https://open.spotify.com/album/4gHLx1ZdRuKEj08ZY0llxn"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 236000,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/51ttgzyQ0SKKlC92bFK58v"
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 192452,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
@@ -3076,6 +3094,24 @@
       "duration_ms": 278880,
       "name": "Enough",
       "url": "https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV"
+    },
+    {
+      "album": {
+        "name": "Levitation",
+        "url": "https://open.spotify.com/album/0Ltp40tI7gWvTdYctwlvTB"
+      },
+      "artists": [
+        {
+          "name": "Chang Kiha",
+          "url": "https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214166,
+      "name": "Envy None",
+      "url": "https://open.spotify.com/track/196vwD0wtg7XVC1j1Hn1jk"
     },
     {
       "album": {
@@ -6309,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "5.6 [Late Night Walk]",
+        "url": "https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234466,
+      "name": "Late Night Walk",
+      "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
+    },
+    {
+      "album": {
         "name": "lazygirl",
         "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
       },
@@ -8640,7 +8694,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 231386,
       "name": "Peanut butter Sandwich",
       "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
@@ -9504,7 +9558,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 210405,
       "name": "RUNAWAY (feat. Ha Hyun Sang)",
       "url": "https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI"
@@ -9784,6 +9838,24 @@
       "duration_ms": 173210,
       "name": "She's like a Pretty Witch (Feat. Kvsh)",
       "url": "https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf"
+    },
+    {
+      "album": {
+        "name": "Shelter Of Dreams",
+        "url": "https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272080,
+      "name": "Shelter Of Dreams",
+      "url": "https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30"
     },
     {
       "album": {
@@ -10170,6 +10242,24 @@
       "duration_ms": 269722,
       "name": "Snow in Seoul",
       "url": "https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI"
+    },
+    {
+      "album": {
+        "name": "So life goes on",
+        "url": "https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194633,
+      "name": "So life goes on",
+      "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
     },
     {
       "album": {
@@ -11208,7 +11298,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 270720,
       "name": "TEAM 401",
       "url": "https://open.spotify.com/track/6Wnnk2BDGai0SeTv7e48ho"
@@ -11670,7 +11760,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 226779,
       "name": "Through the Lights",
       "url": "https://open.spotify.com/track/3KQHke0IhjnYVCp8TnWS87"
@@ -13086,6 +13176,24 @@
       "duration_ms": 170960,
       "name": "Yongcheon Cave",
       "url": "https://open.spotify.com/track/3wWn5kGPSElAhNjj04n11z"
+    },
+    {
+      "album": {
+        "name": "The",
+        "url": "https://open.spotify.com/album/2F55LJ7r0rNmiRwAt5Jm0a"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208320,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4QWehEg5WW9PVyEW70GwXa"
     },
     {
       "album": {

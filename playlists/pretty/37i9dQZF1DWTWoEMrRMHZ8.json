@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 345034,
+  "num_followers": 345033,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -67,18 +67,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+        "name": "ME LIGA",
+        "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
         }
       ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+      "duration_ms": 133212,
+      "name": "ME LIGA",
+      "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -99,22 +103,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "ME LIGA",
-        "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 133212,
-      "name": "ME LIGA",
-      "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
+        "url": "https://open.spotify.com/album/652ZVwlCpBlUlOZGKwkJcH"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 222758,
+      "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
+      "url": "https://open.spotify.com/track/5gXebJZbpKRHl32Ft44Kxh"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Amar\u00edssima",
         "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 193949,
       "name": "S\u00f3 Mais Um Pouquinho",
       "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
-        "url": "https://open.spotify.com/album/652ZVwlCpBlUlOZGKwkJcH"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 222758,
-      "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
-      "url": "https://open.spotify.com/track/5gXebJZbpKRHl32Ft44Kxh"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Quem dir\u00e1?",
         "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Mar dos desejos",
+        "url": "https://open.spotify.com/album/7t0rgbtuvmEb8s4ep1gnHC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "Amanh\u00e3 talvez",
+      "url": "https://open.spotify.com/track/3PncaZwjzGlIIP4x7U86vy"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Porvir",
         "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
       },
@@ -1039,18 +1055,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Mar dos desejos",
-        "url": "https://open.spotify.com/album/7t0rgbtuvmEb8s4ep1gnHC"
+        "name": "De: Terra; Para: Humanidade",
+        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+          "name": "Madu",
+          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
+        },
+        {
+          "name": "Mariana Milani",
+          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
         }
       ],
-      "duration_ms": 222101,
-      "name": "Amanh\u00e3 talvez",
-      "url": "https://open.spotify.com/track/3PncaZwjzGlIIP4x7U86vy"
+      "duration_ms": 230441,
+      "name": "De: Terra; Para: Humanidade",
+      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "De: Terra; Para: Humanidade",
-        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
-      },
-      "artists": [
-        {
-          "name": "Madu",
-          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
-        },
-        {
-          "name": "Mariana Milani",
-          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
-        }
-      ],
-      "duration_ms": 230441,
-      "name": "De: Terra; Para: Humanidade",
-      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Olho D'\u00c1gua",
         "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
@@ -1139,38 +1139,6 @@
       "duration_ms": 148037,
       "name": "Esporte Fino",
       "url": "https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Sou Eu Que Vou Trabalhar",
-        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
-      },
-      "artists": [
-        {
-          "name": "TRAGO",
-          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Gustavo Ruiz",
-          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
-        },
-        {
-          "name": "Alexandre Orion",
-          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
-        },
-        {
-          "name": "Rica Amabis",
-          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
-        }
-      ],
-      "duration_ms": 167713,
-      "name": "Sou Eu Que Vou Trabalhar",
-      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1223,6 +1191,38 @@
       "duration_ms": 189206,
       "name": "Esque\u00e7a Tudo",
       "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Sou Eu Que Vou Trabalhar",
+        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "duration_ms": 167713,
+      "name": "Sou Eu Que Vou Trabalhar",
+      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
     },
     {
       "added_at": "2024-06-28 03:00:00",

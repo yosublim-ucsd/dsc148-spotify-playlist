@@ -11107,6 +11107,24 @@
     },
     {
       "album": {
+        "name": "Ink bottle",
+        "url": "https://open.spotify.com/album/6goq1DnyJRTKwsGjJCa4Aq"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Ink bottle",
+      "url": "https://open.spotify.com/track/18PvH11CdBh6R62YT1U1rW"
+    },
+    {
+      "album": {
         "name": "Inside All Day",
         "url": "https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc"
       },
@@ -19025,6 +19043,24 @@
     },
     {
       "album": {
+        "name": "restful",
+        "url": "https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz"
+      },
+      "artists": [
+        {
+          "name": "Gaccio",
+          "url": "https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126338,
+      "name": "restful",
+      "url": "https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4"
+    },
+    {
+      "album": {
         "name": "Retro Days",
         "url": "https://open.spotify.com/album/03WAKWZz7kIzkiC9IEL5Ev"
       },
@@ -21574,7 +21610,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 124437,
       "name": "Speed Of Tomorrow",
       "url": "https://open.spotify.com/track/7wIr7S0dD59uhCsspA2y7K"
@@ -21736,7 +21772,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 136296,
       "name": "stellar",
       "url": "https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa"

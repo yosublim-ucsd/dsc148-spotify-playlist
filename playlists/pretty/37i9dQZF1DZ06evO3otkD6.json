@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 67348,
+  "num_followers": 67373,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAAAuoFqX3QuBCJc3uim5KMvr",
+  "snapshot_id": "ZoCgAAAAAABhYES60fkI4UKSAkbZRL7m",
   "tracks": [
     {
       "added_at": null,
@@ -1015,22 +1015,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventuras En El Tiempo",
-        "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
+        "name": "Madrid X Marbella",
+        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Aventuras En El Tiempo",
-      "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
+      "duration_ms": 194576,
+      "name": "Madrid X Marbella",
+      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
     },
     {
       "added_at": null,
@@ -1083,6 +1083,26 @@
       "duration_ms": 174626,
       "name": "Contigo Siempre",
       "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aventuras En El Tiempo",
+        "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Aventuras En El Tiempo",
+      "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
     },
     {
       "added_at": null,
@@ -1163,22 +1183,6 @@
       "duration_ms": 160979,
       "name": "Eden",
       "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg"
     }
   ],
   "unique_name": "This Is Belinda",

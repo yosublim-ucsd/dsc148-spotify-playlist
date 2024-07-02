@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Showtek
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,318 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,530 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [WARHORN \(E2 We Rise Or Fall\)](https://open.spotify.com/track/19Lm5UIDheWcngR6ApupP8) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Maintain](https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0) | [WARHORN \(E2 We Rise Or Fall\)](https://open.spotify.com/album/2ER06lGXSEBKo7aDe3XrAy) | 3:12 |
 | 100 | [Electricity](https://open.spotify.com/track/31Ga0NFKXegEWnoF7q3CzE) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Electricity](https://open.spotify.com/album/0Vgrsf93VWqzbbqQbhi70K) | 3:33 |
 
-Snapshot ID: `Zn/jtgAAAACNoSzHEH2HWgr1XiJsnufU`
+Snapshot ID: `ZoJ+UQAAAAARVyRpxJYYMHhy4fwAJrXS`

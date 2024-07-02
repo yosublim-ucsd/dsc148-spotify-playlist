@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-374 songs - 22 hr 13 min
+375 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Sneaky Link \(feat\. Barney Bones\)](https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sneaky Link \(feat\. Barney Bones\)](https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg) | 2:44 | 2024-02-18 | 2024-03-25 |
 | [Snogo](https://open.spotify.com/track/1k4KObZOwAg4Xld5At9hiV) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Snogo](https://open.spotify.com/album/5ycaiG74PVEjmvgfKP5It4) | 4:00 | 2023-07-30 | 2023-08-28 |
 | [Snow is Falling \- Tony Romera Remix](https://open.spotify.com/track/2VS6opNQchKzV5jERSYjZB) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Snow is Falling \(Tony Romera Remix\)](https://open.spotify.com/album/0XaIqOn9u4wa6muOQ9OPIG) | 4:30 | 2023-03-31 | 2023-04-17 |
+| [So Bad](https://open.spotify.com/track/2it0K7P3FoPI4aq2ufYO1f) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [So Bad](https://open.spotify.com/album/7iu6jVSKSbQYT6aGBzEjAY) | 3:18 | 2024-07-01 |  |
 | [So Delicious!](https://open.spotify.com/track/2DOZrh6r6QwGdtSyWqje6a) | [Sera De Villalta](https://open.spotify.com/artist/36QNZGUOB4BqczrvthRI3T) | [Alexa's On Drugs](https://open.spotify.com/album/4Cqd3AXI9Z6spcXv342akZ) | 5:33 | 2023-07-02 | 2023-08-09 |
 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 | 2024-03-10 | 2024-04-15 |
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-14 | 2023-05-30 |
@@ -353,7 +354,7 @@
 | [Touch](https://open.spotify.com/track/2AsEtnstQ2rOThdttbqTbL) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [I'm Ready EP](https://open.spotify.com/album/66h6uOgDSkRrTD0eG0PE4W) | 3:07 | 2024-03-10 | 2024-04-15 |
 | [Toxic](https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Toxic](https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP) | 3:00 | 2023-03-19 | 2023-04-10 |
 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 | 2023-05-14 | 2023-06-12 |
-| [Trees](https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Trees](https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg) | 3:02 | 2023-05-12 |  |
+| [Trees](https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Trees](https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg) | 3:02 | 2023-05-12 | 2024-07-02 |
 | [Twentyk](https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv) | [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Break The Roof EP](https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ) | 3:35 | 2023-12-10 | 2024-02-19 |
 | [Ur Soul](https://open.spotify.com/track/6Wo1JXT5HBSDwbuMwXboh1) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Ur Soul](https://open.spotify.com/album/2neMSzeB6NODYQ65h6jrx9) | 3:29 | 2024-03-24 | 2024-05-20 |
 | [Vankara](https://open.spotify.com/track/6RtjeiSNc8aS1t7jB7A60k) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Vankara](https://open.spotify.com/album/0iEDRaHlD05PL0CgXQQb86) | 2:36 | 2023-01-15 | 2023-02-13 |

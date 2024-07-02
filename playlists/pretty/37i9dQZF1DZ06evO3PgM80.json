@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19171,
+  "num_followers": 19177,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAACUnXE2p8IsKQyFiQ/yDQrL",
+  "snapshot_id": "ZoCgAAAAAAB1guAc75XEqrHPRLKPsa2w",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fome e Sede",
-        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Fome e Sede",
-      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 366814,
-      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hambre Y Sed",
         "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
       },
@@ -731,26 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
+        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chidima",
-          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
         },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 281414,
-      "name": "Lindo Jesus",
-      "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
+      "duration_ms": 366814,
+      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
     },
     {
       "added_at": null,
@@ -783,6 +759,30 @@
       "duration_ms": 554498,
       "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
       "url": "https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 281414,
+      "name": "Lindo Jesus",
+      "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
     },
     {
       "added_at": null,

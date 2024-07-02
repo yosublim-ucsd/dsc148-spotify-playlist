@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: error
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,143 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,216 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
 | 4 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
 | 5 | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/track/72hMYvQTGPDYmeg3MwtLFD) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/album/3qb2P3WetqAkqQ5u186pii) | 2:46 |
-| 6 | [Herr Direktor](https://open.spotify.com/track/28yKVTiiHwCoGkw3PO6A7p) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Herr Direktor](https://open.spotify.com/album/1V34hFUBDywXkKxZfWgz7W) | 2:07 |
-| 7 | [besser als ich](https://open.spotify.com/track/5u86bpikvcqjO0bjOk1Y8T) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [besser als ich](https://open.spotify.com/album/0P0FfMob4BZwUtSZZC5AyT) | 2:44 |
-| 8 | [Trauriger Disco Song](https://open.spotify.com/track/6GxD5QUeZ1BZRwUhsYDM2h) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Trauriger Disco Song](https://open.spotify.com/album/7i5sY6xy7OSM5fGQXJiW6H) | 3:57 |
-| 9 | [Van Gogh](https://open.spotify.com/track/3MWBw4s7TTCp6g0GDxI3LO) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Yu & Me](https://open.spotify.com/album/02z0imGAclK26oxzu2mVr1) | 2:27 |
+| 6 | [besser als ich](https://open.spotify.com/track/5u86bpikvcqjO0bjOk1Y8T) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [besser als ich](https://open.spotify.com/album/0P0FfMob4BZwUtSZZC5AyT) | 2:44 |
+| 7 | [Van Gogh](https://open.spotify.com/track/3MWBw4s7TTCp6g0GDxI3LO) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Yu & Me](https://open.spotify.com/album/02z0imGAclK26oxzu2mVr1) | 2:27 |
+| 8 | [Herr Direktor](https://open.spotify.com/track/28yKVTiiHwCoGkw3PO6A7p) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Herr Direktor](https://open.spotify.com/album/1V34hFUBDywXkKxZfWgz7W) | 2:07 |
+| 9 | [Herz](https://open.spotify.com/track/6HaiZCsCIsFYStVrv29Og3) | [Proberaum](https://open.spotify.com/artist/5l1T3FsDFO0Tie509PzbPH), [Milxn](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE), [Peezy](https://open.spotify.com/artist/6fk4NZo3VEqrlI3lzXUgHv) | [Herz](https://open.spotify.com/album/5GOppLw1DApsFjX6bmGm66) | 2:24 |
 | 10 | [Alles was du brauchst](https://open.spotify.com/track/5VLY2jLhe8uL2JeQ6kdPlo) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Alles was du brauchst](https://open.spotify.com/album/2ChWTVvC6kj491VXYcR6gx) | 2:48 |
-| 11 | [Wisch&Tipp](https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Wisch&Tipp](https://open.spotify.com/album/1B8KFbuADSLOhj6Johj5Vj) | 3:00 |
-| 12 | [Herz](https://open.spotify.com/track/6HaiZCsCIsFYStVrv29Og3) | [Proberaum](https://open.spotify.com/artist/5l1T3FsDFO0Tie509PzbPH), [Milxn](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE), [Peezy](https://open.spotify.com/artist/6fk4NZo3VEqrlI3lzXUgHv) | [Herz](https://open.spotify.com/album/5GOppLw1DApsFjX6bmGm66) | 2:24 |
-| 13 | [Umarmung](https://open.spotify.com/track/3Mo2Il00FsZ1JGn8nUPcAC) | [Kevin Cool](https://open.spotify.com/artist/4ELBiOUtDJM4AFWfdX9uyK), [vini baby](https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz) | [Umarmung](https://open.spotify.com/album/0ngSy1IUMXgzqgniNCfNrS) | 2:40 |
-| 14 | [Dahinter ist blau](https://open.spotify.com/track/0904VlvpzpJa8UR6vQiDtk) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Dahinter ist blau](https://open.spotify.com/album/2JSazwh5Chyqj6X7QGxjNJ) | 1:36 |
+| 11 | [Trauriger Disco Song](https://open.spotify.com/track/6GxD5QUeZ1BZRwUhsYDM2h) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Trauriger Disco Song](https://open.spotify.com/album/7i5sY6xy7OSM5fGQXJiW6H) | 3:57 |
+| 12 | [Wisch&Tipp](https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Wisch&Tipp](https://open.spotify.com/album/1B8KFbuADSLOhj6Johj5Vj) | 3:00 |
+| 13 | [Dahinter ist blau](https://open.spotify.com/track/0904VlvpzpJa8UR6vQiDtk) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Dahinter ist blau](https://open.spotify.com/album/2JSazwh5Chyqj6X7QGxjNJ) | 1:36 |
+| 14 | [Umarmung](https://open.spotify.com/track/3Mo2Il00FsZ1JGn8nUPcAC) | [Kevin Cool](https://open.spotify.com/artist/4ELBiOUtDJM4AFWfdX9uyK), [vini baby](https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz) | [Umarmung](https://open.spotify.com/album/0ngSy1IUMXgzqgniNCfNrS) | 2:40 |
 | 15 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
 | 16 | [Jungs](https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Jungs](https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV) | 2:36 |
 | 17 | [PLANLOS](https://open.spotify.com/track/0F6IxFTC51t82jREszsQtb) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [PLANLOS](https://open.spotify.com/album/07cnvUEajLMKQLEv0qMWTr) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Zuhause](https://open.spotify.com/track/6Ckz6CmLcNhifQaK8wA3Qz) | [Kion](https://open.spotify.com/artist/0WbcFo9kEIl6pGSiYfacXi), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Mo.Nomad](https://open.spotify.com/artist/6Q5VDkKVrWWxjsXvH87vPs) | [Zuhause](https://open.spotify.com/album/04Ev035HpFnYFL0ydiKZqI) | 2:29 |
 | 75 | [Feuerzeug](https://open.spotify.com/track/6aokqeWVGvGG1vztSoJnjA) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Feuerzeug](https://open.spotify.com/album/1fTlxIz8PkKxbOwv8e7cgZ) | 2:03 |
 
-Snapshot ID: `Zn3iDAAAAAB2AZlDjPFYaAfmZ9AXNiWH`
+Snapshot ID: `ZoJa4QAAAADfW8pstPyZOWMS+s/7oB0C`

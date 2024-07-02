@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 75773,
+  "num_followers": 75787,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAAA/KXb/QbJ7LTxhLdULROT6",
+  "snapshot_id": "ZoCgAAAAAADujyh1ni/ELlMmZWVM7cRk",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137800,
-      "name": "Whatever (Folk Song In C)",
-      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 193240,
-      "name": "No Name #3",
-      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 159746,
-      "name": "The Biggest Lie",
-      "url": "https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV"
+      "duration_ms": 193240,
+      "name": "No Name #3",
+      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "The Biggest Lie",
+      "url": "https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 269360,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Oh Well, OK",
-      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "The White Lady Loves You More",
+      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 238013,
       "name": "A Fond Farewell",
       "url": "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
       "artists": [
         {
@@ -504,9 +504,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
+      "duration_ms": 187133,
+      "name": "Tomorrow Tomorrow",
+      "url": "https://open.spotify.com/track/1cYudm5fk5igcsjroJKmFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 190573,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "The White Lady Loves You More",
-      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith: Expanded 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -568,9 +568,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 180120,
-      "name": "St. Ides Heaven - 25th Anniversary Remaster",
-      "url": "https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL"
+      "duration_ms": 231560,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2"
     },
     {
       "added_at": null,
@@ -591,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "Elliott Smith: Expanded 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT"
       },
       "artists": [
         {
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 145786,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2"
+      "duration_ms": 180120,
+      "name": "St. Ides Heaven - 25th Anniversary Remaster",
+      "url": "https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 297973,
       "name": "King's Crossing",
       "url": "https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Talking To Mary",
-      "url": "https://open.spotify.com/track/2Z2k9x8eR2cgSTePICcn7P"
     }
   ],
   "unique_name": "This Is Elliott Smith",

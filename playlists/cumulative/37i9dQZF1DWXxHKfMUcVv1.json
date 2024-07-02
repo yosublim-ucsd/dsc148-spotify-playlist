@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
+        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
+      },
+      "artists": [
+        {
+          "name": "S.K.A.",
+          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Que Divague",
+      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
+    },
+    {
+      "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 190280,
       "name": "Tu Foto",
       "url": "https://open.spotify.com/track/2YEicE28GPbm53Ta4q2iVO"

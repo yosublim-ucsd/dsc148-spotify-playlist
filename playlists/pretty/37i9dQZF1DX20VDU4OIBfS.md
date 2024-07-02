@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,039,792 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,039,889 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,11 +121,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 111 | [Hoy Quiero Confesarme](https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 4:49 |
 | 112 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
 | 113 | [Qué Canten los Niños \- Homenaje a las Aldeas SOS](https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Con el Paso del Tiempo](https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx) | 4:48 |
-| 114 | [Enamorandonos \(Just Like Starting Over\)](https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [La Más Completa Colección \(CD2\)](https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5) | 4:02 |
-| 115 | [Escándalo](https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ave Fénix](https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO) | 5:04 |
-| 116 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/5kOaV8C3Fyts7Hreae1Lrn) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:42 |
+| 114 | [Escándalo](https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ave Fénix](https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO) | 5:04 |
+| 115 | [Enamorandonos \(Just Like Starting Over\)](https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [La Más Completa Colección \(CD2\)](https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5) | 4:02 |
+| 116 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
 | 117 | [Si tú no vuelves](https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Mejor De Bosé](https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup) | 4:38 |
-| 118 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
+| 118 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/5kOaV8C3Fyts7Hreae1Lrn) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:42 |
 | 119 | [Mamma Maria](https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 2:59 |
 | 120 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
 | 121 | [La Loca](https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 3:57 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 136 | [Las mañanitas](https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Las Mañanitas con Pedro Infante](https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE) | 2:55 |
 | 137 | [Te Amaré](https://open.spotify.com/track/1GE253J05v6oCUmuav7zq2) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Esencial Miguel Bose](https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK) | 3:30 |
 | 138 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:16 |
-| 139 | [Deja De Llorar](https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK) | [Manolo Galvan](https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA) | [20 Secretos de Amor \- Manolo Galván](https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR) | 3:25 |
-| 140 | [Estoy Perdido](https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 3:13 |
+| 139 | [Estoy Perdido](https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 3:13 |
+| 140 | [Deja De Llorar](https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK) | [Manolo Galvan](https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA) | [20 Secretos de Amor \- Manolo Galván](https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR) | 3:25 |
 | 141 | [Señora..\. Señora..\. Señora](https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW) | [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr) | [Denise De Kalafe 10 Exitos](https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR) | 3:03 |
 | 142 | [La Malagueña](https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Serie De Oro](https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG) | 3:59 |
 | 143 | [Como una Ola](https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Coleccion Original: Rocio Jurado](https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4) | 4:16 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 147 | [Por Ese Hombre \(with Dyango\)](https://open.spotify.com/track/7Lw1CMlaUzFICJGTwz6wvZ) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo), [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [20 Exitos Originales](https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35) | 4:49 |
 | 148 | [Quererte a Ti](https://open.spotify.com/track/5zAsPH4Ji2oNSncFGGMSQA) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Ellas Cantan Asi](https://open.spotify.com/album/1BgKg20qdA7FBX958CiXSe) | 4:36 |
 | 149 | [El último beso \- The Last Kiss](https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:42 |
-| 150 | [Coincidir](https://open.spotify.com/track/3SrhjtntSNqwP70ksoTxmA) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Vestida De Besos](https://open.spotify.com/album/7pNndCTTAskilWzSjKwaFU) | 5:14 |
+| 150 | [El Loco \(with Javier Solís\)](https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:52 |
 
 Snapshot ID: `Zl9n9AAAAACUaKWNAYNEJegBkpW7fR5W`

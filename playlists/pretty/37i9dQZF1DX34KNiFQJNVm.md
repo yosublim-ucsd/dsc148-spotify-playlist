@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes, LUDMILLA com IZA, Baco Exu do Blues e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,678 likes - 69 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,788 likes - 69 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. The essential tracks, all in one playlist.
+> This Is League of Legends\. Todas as faixas essenciais numa única playlist.
 
 64 songs - 3 hr 39 min
 

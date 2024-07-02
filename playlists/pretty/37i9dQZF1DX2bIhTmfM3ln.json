@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 36101,
+  "num_followers": 36127,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Wayo",
-        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 149454,
-      "name": "Wayo",
-      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
       },
       "artists": [
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
+      },
+      "artists": [
+        {
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Men Are Crazy",
         "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Bad Intentions",
-        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
-      },
-      "artists": [
-        {
-          "name": "Deola",
-          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Kelewele (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Kelewele (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Sunflawa",
         "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 153250,
       "name": "Sunflawa",
       "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "YP & Azanti, Vol. 2",
-        "url": "https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA"
-      },
-      "artists": [
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 170613,
-      "name": "2 Hot 2 Handle",
-      "url": "https://open.spotify.com/track/15C5fa7gr12ufsvVeYcZ4c"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Kelewele (feat. Joeboy)",
-        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+        "name": "YP & Azanti, Vol. 2",
+        "url": "https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA"
       },
       "artists": [
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Kelewele (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
+      "duration_ms": 170613,
+      "name": "2 Hot 2 Handle",
+      "url": "https://open.spotify.com/track/15C5fa7gr12ufsvVeYcZ4c"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Island 54",
+        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 172265,
+      "name": "Different Sides (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 165283,
       "name": "Bodija",
       "url": "https://open.spotify.com/track/3GPZo2tH4a5U2z89a0rRr3"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Island 54",
-        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 172265,
-      "name": "Different Sides (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "LOVE OR LAMBA",
+        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "LOVE OR LAMBA",
+      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "757",
         "url": "https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "LOVE OR LAMBA",
-        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
-      },
-      "artists": [
-        {
-          "name": "Kobi Jonz",
-          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "LOVE OR LAMBA",
-      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "JEALOUS (feat. Ambr\u00e9)",
         "url": "https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU"
       },
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Del Beast",
-        "url": "https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq"
-      },
-      "artists": [
-        {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "BOOK OF VASA",
         "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
       },
@@ -1479,6 +1455,26 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
+      },
+      "artists": [
+        {
+          "name": "Konstance",
+          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
+        },
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 156448,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1503,22 +1499,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
+        "name": "Del Beast",
+        "url": "https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq"
       },
       "artists": [
         {
-          "name": "Konstance",
-          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
         },
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 156448,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
+      "duration_ms": 135653,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic"
     }
   ],
   "unique_name": "Lovin' Beats",

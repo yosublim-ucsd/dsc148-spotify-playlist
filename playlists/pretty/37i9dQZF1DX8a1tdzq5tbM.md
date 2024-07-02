@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,285 likes - 120 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,479 likes - 120 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 64 | [Behind \- Callea Radio Mix](https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD) | [Flanders](https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u) | [Behind](https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M) | 3:40 |
 | 65 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
 | 66 | [The Girl You Lost to Cocaine \- Sander van Doorn Edit](https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost To Cocaine](https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID) | 3:00 |
-| 67 | [Love Don't Let Me Go \(Walking Away\) \- David Guetta & Joachim Garraud's F\*\*\* Me I'm Famous Mix](https://open.spotify.com/track/2Wy13KxFZT49M05qcT4EJA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [DJ Ricardo! pres\. Out Anthems 2](https://open.spotify.com/album/5CahiejF4QqKoAAwjDkxSR) | 4:31 |
-| 68 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
+| 67 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
+| 68 | [Love Don't Let Me Go \(Walking Away\) \- David Guetta & Joachim Garraud's F\*\*\* Me I'm Famous Mix](https://open.spotify.com/track/2Wy13KxFZT49M05qcT4EJA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [DJ Ricardo! pres\. Out Anthems 2](https://open.spotify.com/album/5CahiejF4QqKoAAwjDkxSR) | 4:31 |
 | 69 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
 | 70 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5rFOQi6066JvXPMQWxB5BJ) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
 | 71 | [The World Is Mine](https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:39 |

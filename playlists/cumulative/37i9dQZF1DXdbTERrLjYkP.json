@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Noah Rinker on the Fresh Finds rooftop",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Juliet Ivy",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 190822,
       "name": "30 Loose Ends",
       "url": "https://open.spotify.com/track/78FuGmNfW4xexQE9CYIDg7"
+    },
+    {
+      "album": {
+        "name": "4 foot 2",
+        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154936,
+      "name": "4 foot 2",
+      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
     },
     {
       "album": {
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 230576,
       "name": "Boy From Home",
       "url": "https://open.spotify.com/track/3Tbe6ohCLkQwuQEWQSyLBl"
@@ -1727,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7gc956PnIlEBzEqKRzT66f"
       },
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 180946,
       "name": "cape cod",
       "url": "https://open.spotify.com/track/6WtjO8jDFxMRiixTCKbHyF"
@@ -2026,7 +2066,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 240581,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S"
@@ -4310,7 +4350,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 187839,
       "name": "guitar center",
       "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
@@ -5142,7 +5182,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
@@ -7508,7 +7548,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 190853,
       "name": "Maybe Life Is Good",
       "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
@@ -8081,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199683,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
+    },
+    {
+      "album": {
         "name": "No Wonder",
         "url": "https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx"
       },
@@ -8384,6 +8442,24 @@
       "duration_ms": 195130,
       "name": "parasite",
       "url": "https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o"
+    },
+    {
+      "album": {
+        "name": "paris",
+        "url": "https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149164,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk"
     },
     {
       "album": {
@@ -10826,7 +10902,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 177904,
       "name": "The Girl Who Cried Love",
       "url": "https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi"

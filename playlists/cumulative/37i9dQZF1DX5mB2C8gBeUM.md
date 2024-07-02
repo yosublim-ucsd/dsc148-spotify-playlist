@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Beyoncé
+> Country gone wild! You never know what you're gonna get\. Cover: Kassi Ashton
 
-469 songs - 23 hr 19 min
+470 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Built For A Small Town](https://open.spotify.com/track/63nM0Om7cYR9QJvpUVSweR) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Built For A Small Town](https://open.spotify.com/album/6QQwflGJROGzl0tYLM36if) | 3:09 | 2023-05-26 | 2023-09-30 |
 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-12-10 | 2022-02-26 |
 | [Call Me No One](https://open.spotify.com/track/51PlkWpEn9QtgPfl6Ez57x) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Back To That Summer](https://open.spotify.com/album/1FPGEuly4QNbQTdZlykKOm) | 3:04 | 2021-12-10 | 2022-06-11 |
+| [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 | 2024-07-01 |  |
 | [Can't Dance](https://open.spotify.com/track/0jeTqNR72VhOfWzeZlexFT) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Can't Dance](https://open.spotify.com/album/6omFh9DsYrsxs5uAJDSTa3) | 2:42 | 2021-12-10 | 2022-07-02 |
 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 | 2021-12-10 | 2023-05-04 |
 | [Can't Hide Love](https://open.spotify.com/track/2U1drF0wHxIHWhkl4JN7js) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 2:29 | 2022-02-11 | 2024-03-02 |
@@ -211,7 +212,7 @@
 | [Hold My Horses](https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Hold My Horses](https://open.spotify.com/album/47OPSr5UHAyc2XG4M9utmq) | 3:00 | 2022-10-07 | 2022-11-07 |
 | [Holding Out For A Cowboy](https://open.spotify.com/track/3gMD6iX82HbPPzrfWywaIa) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [In This Kind Of Light](https://open.spotify.com/album/0Xgvy0oHafjU6zqJWrVfNO) | 3:30 | 2021-12-10 | 2023-05-04 |
 | [Holy Cowboy](https://open.spotify.com/track/1TPpvjNoanUE1UUE2Ap8jA) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/7xAa2ez0jljaSsJMgoQB3L) | 2:39 | 2023-11-10 | 2024-04-19 |
-| [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 | 2023-03-24 |  |
+| [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 | 2023-03-24 | 2024-07-02 |
 | [Home](https://open.spotify.com/track/6EHISRTJVCSsFDsBEePdj5) | [SirLockeHolmes](https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev) | [Home](https://open.spotify.com/album/4jDlxu8CYiC2ErVo1Hxbmk) | 2:14 | 2024-05-10 |  |
 | [Home For The Summer](https://open.spotify.com/track/3vlj2o1ahG1g6AM6Qnm2gu) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Lord Lawrence](https://open.spotify.com/artist/5qlCQduWfylSo5aVFqiT7i) | [Home For The Summer](https://open.spotify.com/album/76hs4C3wpey6xz2lF03JCa) | 3:34 | 2021-12-10 | 2022-04-09 |
 | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/track/68GQ3ZhlzqDNvzq20bdg1o) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/album/30ULuUPigC0c89kztNco5s) | 3:25 | 2021-12-10 | 2022-02-26 |

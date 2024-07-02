@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,858 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,866 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 39 | [Milonga de la Anunciación](https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fernando Ruiz Diaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:51 |
 | 40 | [Bailemos](https://open.spotify.com/track/0AQsA3OPmd4zXQtiip1Gf4) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Bailemos](https://open.spotify.com/album/1Y9yvMJ173jWvE0ho8WEOy) | 4:31 |
 | 41 | [La Triste Historia de Rosa Brown](https://open.spotify.com/track/6YO14y9tXHpZe1Km4eg83j) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Federico Mizrahi](https://open.spotify.com/artist/2L2vj05sMjVY6kh1UEHhjg), [Luis Longhi](https://open.spotify.com/artist/4Cgo07ZCIZW8VnYn2sjflH), [Pedro Aznar](https://open.spotify.com/artist/75pnGx561Mm7PQzlJ07z0G) | [El Tango Es Puro Cuento](https://open.spotify.com/album/4wee0rFwBNvKpKIWHmhm6c) | 3:48 |
-| 42 | [Toda Mi Vida](https://open.spotify.com/track/75gpWV9FUZ1SfndAECb5qv) | [María José Mentana](https://open.spotify.com/artist/2YbZKgdAtwTIpabYIfUJ5X), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Cien Troilos](https://open.spotify.com/album/3TvrHvdAHn3tLcDAI1CFxo) | 2:50 |
-| 43 | [La Vida](https://open.spotify.com/track/4MUaHpY0xqJK4Kmw7o4XOQ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L) | [Seremos Tango](https://open.spotify.com/album/7m7svuLhtOj342FEDVOevp) | 3:39 |
+| 42 | [La Vida](https://open.spotify.com/track/4MUaHpY0xqJK4Kmw7o4XOQ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L) | [Seremos Tango](https://open.spotify.com/album/7m7svuLhtOj342FEDVOevp) | 3:39 |
+| 43 | [Toda Mi Vida](https://open.spotify.com/track/75gpWV9FUZ1SfndAECb5qv) | [María José Mentana](https://open.spotify.com/artist/2YbZKgdAtwTIpabYIfUJ5X), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Cien Troilos](https://open.spotify.com/album/3TvrHvdAHn3tLcDAI1CFxo) | 2:50 |
 | 44 | [Yendo a la Casa de Damián](https://open.spotify.com/track/27JpiXdW4QmLwYQaQYymY2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6ZLNLqqFwnoyqrzRxtHEzt) | 4:16 |
 | 45 | [Como Dos Extraños](https://open.spotify.com/track/7BUT4kOdIMMgcK1aniQVDy) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Néstor Marconi](https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H) | [Cuerpo y Alma](https://open.spotify.com/album/28vkzoDZhQP2sCdvzWfYTG) | 2:54 |
 

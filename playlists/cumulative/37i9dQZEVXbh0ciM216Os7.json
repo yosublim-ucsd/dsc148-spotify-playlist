@@ -7152,7 +7152,7 @@
     {
       "album": {
         "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/31SzRDP08ktiJ7ZRDb3PiS"
+        "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
       },
       "artists": [
         {
@@ -7167,6 +7167,28 @@
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 116733,
+      "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
+      "url": "https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/31SzRDP08ktiJ7ZRDb3PiS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-07-02",
       "duration_ms": 116733,
       "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
       "url": "https://open.spotify.com/track/50pQhQXKqqMPZUEKi7BnFC"

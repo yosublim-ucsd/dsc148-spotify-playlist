@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-273 songs - 14 hr 43 min
+274 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [DALE](https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [DALE](https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA) | 2:33 | 2024-03-01 | 2024-06-01 |
 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 | 2023-12-08 |  |
 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 | 2021-10-08 | 2023-11-11 |
+| [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 | 2024-06-28 |  |
 | [Dame Mas](https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Dame Mas](https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B) | 3:05 | 2024-04-12 |  |
 | [Delante](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN) | [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE) | [Delante](https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag) | 2:25 | 2024-02-02 |  |
 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 | 2023-12-01 | 2024-06-24 |
@@ -108,7 +109,7 @@
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 | 2024-03-21 |
 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 | 2024-04-19 |  |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 | 2024-06-07 |
-| [Eu Vou Pra Bahia \- Felguk, Watzgood Remix](https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb) | [DOT \(BR\)](https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Eu Vou Pra Bahia \(Felguk, Watzgood Remix\)](https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW) | 3:50 | 2024-06-07 |  |
+| [Eu Vou Pra Bahia \- Felguk, Watzgood Remix](https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb) | [DOT \(BR\)](https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Eu Vou Pra Bahia \(Felguk, Watzgood Remix\)](https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW) | 3:50 | 2024-06-07 | 2024-07-02 |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 | 2024-03-27 |
 | [Falso Amor](https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn) | [Krexxton](https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir), [MARÍARROSA](https://open.spotify.com/artist/6kaJ3A4a3SjwyBSzPPuYEm) | [Falso Amor](https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk) | 2:48 | 2024-04-19 | 2024-06-29 |
 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-02-23 |  |

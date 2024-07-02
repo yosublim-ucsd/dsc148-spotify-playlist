@@ -1,12 +1,12 @@
 {
-  "description": "This Is Linked Horizon. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 7348,
+  "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
+  "num_followers": 7354,
   "original_name": "This Is Linked Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAABitF/K0jK0C3osqMqGmbX9",
+  "snapshot_id": "ZoCgAAAAAADMIxwtCA9d6ImAel62ZVje",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 155328,
-      "name": "\u865a\u308d\u306a\u6708\u306e\u4e0b\u3067 - Vocalized Version",
-      "url": "https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg"
+      "duration_ms": 315255,
+      "name": "\u96db\u9ce5 - Vocalized Version",
+      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 315255,
-      "name": "\u96db\u9ce5 - Vocalized Version",
-      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
+      "duration_ms": 155328,
+      "name": "\u865a\u308d\u306a\u6708\u306e\u4e0b\u3067 - Vocalized Version",
+      "url": "https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg"
     }
   ],
   "unique_name": "This Is Linked Horizon",

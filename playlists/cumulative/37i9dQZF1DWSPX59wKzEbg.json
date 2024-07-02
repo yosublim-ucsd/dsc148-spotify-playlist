@@ -226,8 +226,16 @@
           "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
         },
         {
+          "name": "Katherine Davis",
+          "url": "https://open.spotify.com/artist/46V53G0dgL8TOX9NldaiJv"
+        },
+        {
           "name": "Steven Mercurio",
           "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
+        },
+        {
+          "name": "Gumpoldskirchner Spatzen",
+          "url": "https://open.spotify.com/artist/3dIOUJ3IOOCFxtgmOLIKr5"
         },
         {
           "name": "Wiener Symphoniker",
@@ -286,6 +294,22 @@
         {
           "name": "Jackie Evancho",
           "url": "https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI"
+        },
+        {
+          "name": "City of Prague Orchestra",
+          "url": "https://open.spotify.com/artist/7i3gDK9rnzQ1HwnlOoz3PB"
+        },
+        {
+          "name": "Sally Herbert",
+          "url": "https://open.spotify.com/artist/4TtWiCEUhyeiw99Fm4CXbV"
+        },
+        {
+          "name": "Richard Cottle",
+          "url": "https://open.spotify.com/artist/56U8tXKZlZUqiiWEgULxkG"
+        },
+        {
+          "name": "Shelly Poole",
+          "url": "https://open.spotify.com/artist/2t6FY6HyP5mbyTy8lcapAJ"
         }
       ],
       "date_added": "2023-12-08",
@@ -633,10 +657,6 @@
         "url": "https://open.spotify.com/album/0YOdrzckghjEdWcBvXRLd8"
       },
       "artists": [
-        {
-          "name": "Adolphe Adam",
-          "url": "https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS"
-        },
         {
           "name": "Joshua Bell",
           "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"

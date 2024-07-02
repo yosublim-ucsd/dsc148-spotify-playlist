@@ -4,7 +4,7 @@
 
 > MC IG e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-534 songs - 1 day 7 hr 9 min
+535 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 | 2022-03-28 | 2022-05-12 |
 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 | 2023-04-17 | 2023-05-16 |
 | [Pauperrecido](https://open.spotify.com/track/5vc69sUZhHdirTDxOx7ns9) | [Vinny Santa Fé](https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d) | [Pauperrecido](https://open.spotify.com/album/2F1jwwXKvwdaEgLEAtX5Hk) | 3:33 | 2022-03-18 | 2022-04-12 |
+| [pausa da sua tristeza](https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:13 | 2024-07-01 |  |
 | [Pela Vida Inteira / Vergonha Na Cara \- Ao Vivo](https://open.spotify.com/track/2sC9NcBWmZX2gt3gM0ZEmo) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha Bis \(Ao Vivo\)](https://open.spotify.com/album/0PGS3Oa79boNay0QSOhLDx) | 3:46 | 2024-02-09 |  |
 | [Pelo](https://open.spotify.com/track/6QcE06hPxLApPITC6lGLdx) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 2:53 | 2022-12-12 | 2023-01-03 |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-10-27 | 2024-02-10 |
@@ -416,7 +417,7 @@
 | [Pretinha \(de Salcity\)](https://open.spotify.com/track/4qhPkOGRUlwjGKO2FsuOxW) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED) | [ONDAS](https://open.spotify.com/album/4b1O7wtENvaRiNtj2EwxcR) | 3:48 | 2023-06-19 | 2023-07-29 |
 | [Preto Demais](https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP) | [Hugo Ojuara](https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D) | [Preto Demais](https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6) | 2:52 | 2023-09-04 | 2023-10-25 |
 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 | 2024-02-04 | 2024-04-29 |
-| [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 | 2024-03-22 |  |
+| [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 | 2024-03-22 | 2024-07-02 |
 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 | 2022-03-18 | 2022-06-14 |
 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 | 2024-03-22 |  |
 | [Quando Ela Passa](https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:44 | 2024-03-29 | 2024-06-09 |

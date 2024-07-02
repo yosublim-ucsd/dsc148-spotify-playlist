@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,972 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,973 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 84 | [Music Box](https://open.spotify.com/track/3kxr8R2FrhQcENEDvWPNqa) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:55 |
 | 85 | [Up Out My Face](https://open.spotify.com/track/5PIbdp9yrXFQnBe5hwwM29) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:41 |
 | 86 | [The Star](https://open.spotify.com/track/0hLwOAorcYaNTrFLQtw69C) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:01 |
-| 87 | [Head Over Heels](https://open.spotify.com/track/40tF4AA5hOwgQFmnN4KoSV) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Head Over Heels](https://open.spotify.com/album/4hhAHjqULEmVZFEvL9oa4Q) | 2:33 |
-| 88 | [Lil Love](https://open.spotify.com/track/4OcLeBfVjxjBn2LHEqHJVR) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 3:52 |
+| 87 | [Lil Love](https://open.spotify.com/track/4OcLeBfVjxjBn2LHEqHJVR) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 3:52 |
+| 88 | [Head Over Heels](https://open.spotify.com/track/40tF4AA5hOwgQFmnN4KoSV) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Head Over Heels](https://open.spotify.com/album/4hhAHjqULEmVZFEvL9oa4Q) | 2:33 |
 | 89 | [Cruise Control](https://open.spotify.com/track/6bjMyqdNxOr6ZSYZdqYMIF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:32 |
 | 90 | [Never Forget You](https://open.spotify.com/track/03VtT9Da5Ivxh8n3PHnQem) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:44 |
 | 91 | [I Am Free](https://open.spotify.com/track/0cCJ8mOuvpqb3Ic2FAooW6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:07 |
@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 237 | [Honey \- Def Club Mix](https://open.spotify.com/track/7KYUMnOtA07ZC99xpMhVIE) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 6:18 |
 | 238 | [Don't Go Looking for Love \(feat\. Blaque Ivory\)](https://open.spotify.com/track/5FxR2GoCKjFt5COFRqaBIh) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [Blaque Ivory](https://open.spotify.com/artist/0yXe7p9gCK8nDcuHXFvdc8) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 4:01 |
 | 239 | [Honey \- Smooth Version with Intro](https://open.spotify.com/track/0F9lHbQf1belQE8OUloAw5) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 5:06 |
-| 240 | [The One \- So So Def Remix](https://open.spotify.com/track/1oT1BXjumbebylXXcdTryU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bone Crusher](https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa) | [The One \- EP](https://open.spotify.com/album/7KvgKCcgXHuHfQL8B6i3JT) | 4:36 |
-| 241 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 240 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 241 | [The One \- So So Def Remix](https://open.spotify.com/track/1oT1BXjumbebylXXcdTryU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bone Crusher](https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa) | [The One \- EP](https://open.spotify.com/album/7KvgKCcgXHuHfQL8B6i3JT) | 4:36 |
 | 242 | [Make It Happen \- Radio Edit](https://open.spotify.com/track/37FRTuegFlX7AnWlrGOQE1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Make It Happen EP](https://open.spotify.com/album/4eEYKyd209YmQGjOlfhGMA) | 4:05 |
 | 243 | [Make It Happen \- Extended Version](https://open.spotify.com/track/5aWo5orXncK7RRj4ay4NLN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Make It Happen EP](https://open.spotify.com/album/4eEYKyd209YmQGjOlfhGMA) | 6:19 |
 | 244 | [Make It Happen \- Dub Version](https://open.spotify.com/track/3sZZtxhmOk9ofIHAvw6RcP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Make It Happen EP](https://open.spotify.com/album/4eEYKyd209YmQGjOlfhGMA) | 7:27 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbVeYAAAAADLWSENYgAS6k6dDNkOHDv7`
+Snapshot ID: `AbVjwgAAAABhA6RULUWJjiUzRnkSsiZI`

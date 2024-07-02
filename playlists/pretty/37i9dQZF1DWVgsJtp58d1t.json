@@ -1,49 +1,13 @@
 {
-  "description": "New music from Black artists every Friday. Happy Black Music Month! Cover: <a href=\"spotify:artist:23zg3TcAtWQy7J6upgbUnj\">Usher</a>, Shot by: Robin L Marshall",
-  "num_followers": 1020236,
+  "description": "New music from Black artists every Friday. Cover: <a href=\"spotify:artist:63XBtGSEZINSyXylZxEUbv\">Victoria Mon\u00e9t</a>",
+  "num_followers": 1020311,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn73BAAAAAB6ngUzF4zgSoV/r//GlYyD",
+  "snapshot_id": "ZoLO3AAAAADhsUGCfOKpzwzPJdtEJfVg",
   "tracks": [
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "Uuugly",
-      "url": "https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 181646,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/69xUWViVN91PiKByNGI2tC"
-    },
     {
       "added_at": "2024-06-28 17:46:44",
       "album": {
@@ -115,6 +79,22 @@
       "duration_ms": 186346,
       "name": "STANK ROSE",
       "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
+    },
+    {
+      "added_at": "2024-06-28 17:46:44",
+      "album": {
+        "name": "Power of Two (From \"Star Wars: The Acolyte\")",
+        "url": "https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 196727,
+      "name": "Power of Two - From \"Star Wars: The Acolyte\"",
+      "url": "https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV"
     },
     {
       "added_at": "2024-06-28 17:46:44",
@@ -543,26 +523,6 @@
       "duration_ms": 209866,
       "name": "Chain Hang Low (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/5FByRC0MNQpoA88jEk7URl"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 169835,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
     },
     {
       "added_at": "2024-06-28 17:46:44",
@@ -1047,26 +1007,6 @@
       "duration_ms": 224005,
       "name": "Robbery 7",
       "url": "https://open.spotify.com/track/2sqc7KkHcxy53gXbhA9PFa"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 223189,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
       "added_at": "2024-06-28 17:46:44",
@@ -1675,26 +1615,6 @@
     {
       "added_at": "2024-06-28 17:46:44",
       "album": {
-        "name": "Lost in You (Remix)",
-        "url": "https://open.spotify.com/album/5b0O22iOiDpPF0XpK99kK0"
-      },
-      "artists": [
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        },
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lost in You (Remix)",
-      "url": "https://open.spotify.com/track/0AVHxaVk4idIDz7LOyLfSD"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
         "name": "Moth",
         "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
       },
@@ -1707,22 +1627,6 @@
       "duration_ms": 219861,
       "name": "Sweet Like",
       "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "Power of Two (From \"Star Wars: The Acolyte\")",
-        "url": "https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 196727,
-      "name": "Power of Two - From \"Star Wars: The Acolyte\"",
-      "url": "https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV"
     },
     {
       "added_at": "2024-06-28 17:46:44",
@@ -2675,22 +2579,6 @@
     {
       "added_at": "2024-06-28 17:46:44",
       "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 164074,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
@@ -2767,46 +2655,6 @@
     {
       "added_at": "2024-06-28 17:46:44",
       "album": {
-        "name": "Handle With Care",
-        "url": "https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt"
-      },
-      "artists": [
-        {
-          "name": "Kitty Ca$h",
-          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
-        }
-      ],
-      "duration_ms": 168067,
-      "name": "Breaking News (feat. Rico Nasty & Kilo Kish)",
-      "url": "https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "Baddest In The Room",
-        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 158338,
-      "name": "Baddest In The Room",
-      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
         "name": "Shudder",
         "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
       },
@@ -2819,38 +2667,6 @@
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 74378,
-      "name": "misses",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
-    },
-    {
-      "added_at": "2024-06-28 17:46:44",
-      "album": {
-        "name": "\"Roses\"",
-        "url": "https://open.spotify.com/album/3sFAerfTDCAol4ZZeteKzQ"
-      },
-      "artists": [
-        {
-          "name": "Jaden",
-          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "\"Roses\"",
-      "url": "https://open.spotify.com/track/6ea2h0fftulhGhWEODoU2V"
     },
     {
       "added_at": "2024-06-28 17:46:44",

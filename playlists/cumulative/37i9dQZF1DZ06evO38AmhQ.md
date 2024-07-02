@@ -2,7 +2,7 @@
 
 ### [This Is John Williamson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38AmhQ)
 
-> This is John Williamson\. The essential tracks, all in one playlist.
+> This is John Williamson\. Todos os maiores hits em uma só playlist.
 
 72 songs - 4 hr 4 min
 

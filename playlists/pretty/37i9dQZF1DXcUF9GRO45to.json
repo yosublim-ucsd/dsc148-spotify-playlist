@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38104,
+  "num_followers": 38106,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Kaioty",
-        "url": "https://open.spotify.com/album/0wSJlmSKVzARspRSz0VD98"
-      },
-      "artists": [
-        {
-          "name": "Tip Stevens",
-          "url": "https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3suH330uWXsMHBM8PrJiAg"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Pas d'Accord !",
         "url": "https://open.spotify.com/album/3FmbPQ4RQOQOz2dZfLAw10"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 218466,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6CFMwf7AVVyh6i30NlcVwG"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Kaioty",
+        "url": "https://open.spotify.com/album/0wSJlmSKVzARspRSz0VD98"
+      },
+      "artists": [
+        {
+          "name": "Tip Stevens",
+          "url": "https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3suH330uWXsMHBM8PrJiAg"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 320813,
-      "name": "Disappointed",
-      "url": "https://open.spotify.com/track/6i6YwnjYh7v56DQsk2bcbv"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Long Life",
         "url": "https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 182800,
       "name": "Long Life",
       "url": "https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "duration_ms": 320813,
+      "name": "Disappointed",
+      "url": "https://open.spotify.com/track/6i6YwnjYh7v56DQsk2bcbv"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Ennemis",
-        "url": "https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu"
-      },
-      "artists": [
-        {
-          "name": "No One Is Innocent",
-          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Forces du d\u00e9sordre",
-      "url": "https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "What Does Moon Think",
         "url": "https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 180706,
       "name": "What Does Moon Think",
       "url": "https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Ennemis",
+        "url": "https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu"
+      },
+      "artists": [
+        {
+          "name": "No One Is Innocent",
+          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Forces du d\u00e9sordre",
+      "url": "https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Pop Pop Pop",
-      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Teenage Ends",
         "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Daddy Issues",
-        "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
       },
       "artists": [
         {
-          "name": "Grandma's Ashes",
-          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 289476,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+      "duration_ms": 177040,
+      "name": "Pop Pop Pop",
+      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "Daddy Issues",
+        "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
+      },
+      "artists": [
+        {
+          "name": "Grandma's Ashes",
+          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+        }
+      ],
+      "duration_ms": 289476,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Hara",
         "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW"
-      },
-      "artists": [
-        {
-          "name": "Laura Cox",
-          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Fire Fire",
-      "url": "https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Liquor Liquor",
         "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 222288,
       "name": "Liquor Liquor",
       "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "RAVENOUS",
-        "url": "https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w"
-      },
-      "artists": [
-        {
-          "name": "Greyborn",
-          "url": "https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis"
-        }
-      ],
-      "duration_ms": 253694,
-      "name": "RAVENOUS",
-      "url": "https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Billy Believe",
         "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 286173,
       "name": "Vegan Porn Food",
       "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "RAVENOUS",
+        "url": "https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w"
+      },
+      "artists": [
+        {
+          "name": "Greyborn",
+          "url": "https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis"
+        }
+      ],
+      "duration_ms": 253694,
+      "name": "RAVENOUS",
+      "url": "https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Chantal",
-        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
-      },
-      "artists": [
-        {
-          "name": "Equipe de Foot",
-          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
-        }
-      ],
-      "duration_ms": 253906,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 228080,
       "name": "HORIZON",
       "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Chantal",
+        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
+      },
+      "artists": [
+        {
+          "name": "Equipe de Foot",
+          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Healing Is Not Linear",
-        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
-      },
-      "artists": [
-        {
-          "name": "COLISION",
-          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Sitcoms for Aliens",
         "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 185218,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Healing Is Not Linear",
+        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+      },
+      "artists": [
+        {
+          "name": "COLISION",
+          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "Songs from the Deepwater",
+        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
+      },
+      "artists": [
+        {
+          "name": "Stone From the Sky",
+          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
+        }
+      ],
+      "duration_ms": 284098,
+      "name": "Le Squinfus",
+      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Songs from the Deepwater",
-        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
+        "name": "Fall Away",
+        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
       },
       "artists": [
         {
-          "name": "Stone From the Sky",
-          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
         }
       ],
-      "duration_ms": 284098,
-      "name": "Le Squinfus",
-      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+      "duration_ms": 182008,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Fall Away",
-        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
       },
       "artists": [
         {
-          "name": "Hype Lights",
-          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
         }
       ],
-      "duration_ms": 182008,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Centaur Desire",
         "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 209426,
       "name": "No Brain No Shame",
       "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Only Weird People Can Fly",
+        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
+      },
+      "artists": [
+        {
+          "name": "Dust On Earth",
+          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
+        }
+      ],
+      "duration_ms": 258372,
+      "name": "Only Weird People Can Fly",
+      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1479,22 +1495,6 @@
       "duration_ms": 138083,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
-        "name": "Only Weird People Can Fly",
-        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
-      },
-      "artists": [
-        {
-          "name": "Dust On Earth",
-          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
-        }
-      ],
-      "duration_ms": 258372,
-      "name": "Only Weird People Can Fly",
-      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Future Me",
-        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
+        "name": "From The Sea To Your Mind",
+        "url": "https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9"
       },
       "artists": [
         {
-          "name": "Do It Later",
-          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
-        },
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+          "name": "SIZ",
+          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
         }
       ],
-      "duration_ms": 187299,
-      "name": "Didn\u2019t Know",
-      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
+      "duration_ms": 329909,
+      "name": "From The Sea To Your Mind",
+      "url": "https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF"
     }
   ],
   "unique_name": "French Noise",

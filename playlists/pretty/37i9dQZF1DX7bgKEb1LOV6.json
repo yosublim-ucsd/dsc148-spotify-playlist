@@ -1,18 +1,18 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 646255,
+  "num_followers": 646252,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnqCCQAAAACZt07aUGRwnoKXZjkJ9GqZ",
+  "snapshot_id": "ZoJwEAAAAAAsYa4EDY9ccmICa/2bYkz3",
   "tracks": [
     {
-      "added_at": "2024-06-25 08:38:33",
+      "added_at": "2024-07-01 09:00:00",
       "album": {
         "name": "Songbird",
-        "url": "https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2"
+        "url": "https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
         }
       ],
-      "duration_ms": 181760,
-      "name": "Songbird - Japanese Ver.",
-      "url": "https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE"
+      "duration_ms": 181746,
+      "name": "Songbird - Korean Version",
+      "url": "https://open.spotify.com/track/1cMpJsa4qpXyjmVkck6u0f"
     },
     {
       "added_at": "2024-06-25 08:38:33",

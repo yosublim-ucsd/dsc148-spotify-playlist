@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: LP Giobbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,058 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,060 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 |
 | 75 | [End Of The Queue](https://open.spotify.com/track/7LxXego9BWbdZmUXe6YZ5Y) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [End Of The Queue](https://open.spotify.com/album/4PoAd5i6oyzaqDvaqO046x) | 3:14 |
 
-Snapshot ID: `Zn3g4AAAAABn5ICmNX7mbepbIwKtLwYq`
+Snapshot ID: `ZoJ5XAAAAABpuEMivwTFNSkgisFZUfmL`

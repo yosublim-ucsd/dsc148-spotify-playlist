@@ -4829,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Lars",
+        "url": "https://open.spotify.com/album/3iLA94IhIKONzR0PfNP8Fo"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik",
+          "url": "https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158105,
+      "name": "Lars",
+      "url": "https://open.spotify.com/track/7MYDpvoJIRfIhqibITZytN"
+    },
+    {
+      "album": {
         "name": "Last Autumn",
         "url": "https://open.spotify.com/album/3boHmHCziMNORiNfKvb6iD"
       },
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 280850,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X"
@@ -6500,6 +6518,24 @@
       "duration_ms": 177153,
       "name": "Once In A Serenade",
       "url": "https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42"
+    },
+    {
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y"
+      },
+      "artists": [
+        {
+          "name": "Julius Palladini",
+          "url": "https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/6jGLXKyJvMW6mQ8oIBINtN"
     },
     {
       "album": {
@@ -9477,6 +9513,24 @@
     },
     {
       "album": {
+        "name": "Vancouver",
+        "url": "https://open.spotify.com/album/2pCswMzxRFRMbfmrr7ApDw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Meir",
+          "url": "https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166939,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/3rZ0Si8Hadvn7cpV5UJTuG"
+    },
+    {
+      "album": {
         "name": "Velvet Gloves & Spit",
         "url": "https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK"
       },
@@ -9866,7 +9920,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 170767,
       "name": "Who Could Have Known",
       "url": "https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib"

@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8779,
+  "num_followers": 8777,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Kaitlin",
         "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Good Advice",
         "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
       },
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq"
       },
       "artists": [
         {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
         }
       ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS"
     },
     {
       "added_at": "2023-06-30 23:59:00",

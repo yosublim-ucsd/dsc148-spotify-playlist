@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 495228,
+  "num_followers": 495367,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Blue Suicide",
+        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+      },
+      "artists": [
+        {
+          "name": "Coma Cinema",
+          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "Her Sinking Sun",
+      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Safe House",
         "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
       },
@@ -769,20 +785,20 @@
       "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
     },
     {
-      "added_at": "2023-12-02 02:07:22",
+      "added_at": "2023-12-12 12:57:54",
       "album": {
-        "name": "Blue Suicide",
-        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+        "name": "Mammalian Sighing Reflex",
+        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
       },
       "artists": [
         {
-          "name": "Coma Cinema",
-          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+          "name": "Wilbur Soot",
+          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
         }
       ],
-      "duration_ms": 153234,
-      "name": "Her Sinking Sun",
-      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+      "duration_ms": 159141,
+      "name": "Around the Pomegranate",
+      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -799,22 +815,6 @@
       "duration_ms": 203444,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2023-12-12 12:57:54",
-      "album": {
-        "name": "Mammalian Sighing Reflex",
-        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
-      },
-      "artists": [
-        {
-          "name": "Wilbur Soot",
-          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
-        }
-      ],
-      "duration_ms": 159141,
-      "name": "Around the Pomegranate",
-      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Chopper",
-        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
-      },
-      "artists": [
-        {
-          "name": "Kiwi jr.",
-          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "blood on the pavement",
         "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 221333,
       "name": "blood on the pavement",
       "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Chopper",
+        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Dreams of Losing Teeth",
-        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 202818,
-      "name": "Dreams of Losing Teeth",
-      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Dreams of Losing Teeth",
+        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 202818,
+      "name": "Dreams of Losing Teeth",
+      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7thBT0lQIZdoJIzaEY0yLM"
+      },
+      "artists": [
+        {
+          "name": "Julian Skiboat",
+          "url": "https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi"
+        }
+      ],
+      "duration_ms": 148474,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Elizabethtown.",
         "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 252631,
       "name": "No Smoke",
       "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7thBT0lQIZdoJIzaEY0yLM"
-      },
-      "artists": [
-        {
-          "name": "Julian Skiboat",
-          "url": "https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi"
-        }
-      ],
-      "duration_ms": 148474,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0"
     },
     {
       "added_at": "2023-12-02 02:07:22",

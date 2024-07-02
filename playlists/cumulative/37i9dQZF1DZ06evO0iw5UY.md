@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0iw5UY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0iw5UY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0iw5UY)
 
-### [This Is Krewella](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
+### [This Is クルーウェラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
 
-> This is Krewella\. The essential tracks, all in one playlist.
+> This is クルーウェラ。アーティストの代表曲をひとつのプレイリストに。
 
 63 songs - 3 hr 44 min
 

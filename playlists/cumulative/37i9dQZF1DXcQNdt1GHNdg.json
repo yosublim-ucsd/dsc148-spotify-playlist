@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "410",
+        "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "Offgrid",
+          "url": "https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "410",
+      "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
+    },
+    {
+      "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
       },
@@ -166,7 +192,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 212461,
       "name": "Balle Jatta",
       "url": "https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ"
@@ -421,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Dollar (From \"Dakuaan Da Munda\")",
+        "url": "https://open.spotify.com/album/2keQd2w6kV8FJD2ZSGPlp7"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157516,
+      "name": "Dollar - From \"Dakuaan Da Munda\"",
+      "url": "https://open.spotify.com/track/7rXDc2ImBGwcypUFbNqbFB"
+    },
+    {
+      "album": {
         "name": "Droptop",
         "url": "https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD"
       },
@@ -554,7 +602,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 182097,
       "name": "Free Flow",
       "url": "https://open.spotify.com/track/1fzWamSoWOa7JDKuhj8Ph7"
@@ -704,6 +752,28 @@
       "duration_ms": 120251,
       "name": "GODFATHER",
       "url": "https://open.spotify.com/track/4bY7k88P0CiTKSh8E0Qlzi"
+    },
+    {
+      "album": {
+        "name": "Goin' Off",
+        "url": "https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Goin' Off",
+      "url": "https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU"
     },
     {
       "album": {
@@ -1216,7 +1286,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 131751,
       "name": "Ragde",
       "url": "https://open.spotify.com/track/6xLL74gaBomkzTvXmZLIEb"

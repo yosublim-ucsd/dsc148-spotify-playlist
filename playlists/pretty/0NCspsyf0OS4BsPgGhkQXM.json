@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2019555,
+  "num_followers": 2019639,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5WPOVUbHoL2i9myyKGIE8Vb6PTO09",
+  "snapshot_id": "AAA5bIlw1HRARIfanpZosp82YzTZE/bC",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -233,20 +233,24 @@
       "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
     },
     {
-      "added_at": "2024-06-19 23:11:26",
+      "added_at": "2024-07-01 20:10:47",
       "album": {
-        "name": "Pop like this Pt. 2 (Slowed)",
-        "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
       },
       "artists": [
         {
           "name": "prodbycpkshawn",
           "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
         }
       ],
-      "duration_ms": 122187,
-      "name": "Pop like this Pt. 2 - Slowed",
-      "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -335,6 +339,22 @@
       "duration_ms": 258933,
       "name": "Habits (Stay High) - Hippie Sabotage Remix",
       "url": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf"
+    },
+    {
+      "added_at": "2024-07-01 20:10:21",
+      "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -553,44 +573,20 @@
       "url": "https://open.spotify.com/track/1DBra8wN9Gh9emkHot3FXk"
     },
     {
-      "added_at": "2024-01-30 02:18:46",
+      "added_at": "2024-06-19 23:11:26",
       "album": {
-        "name": "LX-777 (Lunar Data)",
-        "url": "https://open.spotify.com/album/1CMFHMO78oM6fkDIknyUzN"
+        "name": "Pop like this Pt. 2 (Slowed)",
+        "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
       },
       "artists": [
         {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
         }
       ],
-      "duration_ms": 160235,
-      "name": "LX-777 (Lunar Data)",
-      "url": "https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN"
-    },
-    {
-      "added_at": "2024-03-04 18:49:43",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Stay - Afinity Remix",
-      "url": "https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6"
+      "duration_ms": 122187,
+      "name": "Pop like this Pt. 2 - Slowed",
+      "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
     },
     {
       "added_at": "2024-04-09 18:13:50",
@@ -611,22 +607,6 @@
       "duration_ms": 85090,
       "name": "x64",
       "url": "https://open.spotify.com/track/7ctc71EmaCvC4fP6524f4T"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/3n50gOQTJOqXQipa4RNevS"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/2GYjSu8UPhlOHDIjmc4ltN"
     },
     {
       "added_at": "2024-02-02 20:11:19",
@@ -663,30 +643,6 @@
       "duration_ms": 192000,
       "name": "The Machine",
       "url": "https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3"
-    },
-    {
-      "added_at": "2024-05-10 20:26:44",
-      "album": {
-        "name": "Fuck Your Ego (ft. Frizzy The Streetz)",
-        "url": "https://open.spotify.com/album/06Gp6tJu4aw6bSJ4R2hUq6"
-      },
-      "artists": [
-        {
-          "name": "SFRNG",
-          "url": "https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2"
-        },
-        {
-          "name": "Simbai",
-          "url": "https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg"
-        },
-        {
-          "name": "Frizzy The Streetz",
-          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Fuck Your Ego (ft. Frizzy The Streetz)",
-      "url": "https://open.spotify.com/track/3hichQTeR18ZdRzlST5Cp0"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -817,66 +773,6 @@
       "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "When You Fall",
-        "url": "https://open.spotify.com/album/656kk0ZtKVQtyMq5blvRMO"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "When You Fall",
-      "url": "https://open.spotify.com/track/0F5c2JHlX0dQsuIIZj3MGd"
-    },
-    {
-      "added_at": "2024-02-02 18:35:09",
-      "album": {
-        "name": "CONTRA",
-        "url": "https://open.spotify.com/album/41Em8Q3QD3o5DPPHdEGI0y"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "SILVER LINEN",
-      "url": "https://open.spotify.com/track/4RpO4F3dg2KBzqTzXJ2exX"
-    },
-    {
-      "added_at": "2024-03-08 22:12:38",
-      "album": {
-        "name": "you're hell",
-        "url": "https://open.spotify.com/album/0FRoQBC3w2gh4jDmh7Oq1H"
-      },
-      "artists": [
-        {
-          "name": "brxly",
-          "url": "https://open.spotify.com/artist/1cGqXGh8OUcbf53Hg57AHk"
-        },
-        {
-          "name": "Angel Hill",
-          "url": "https://open.spotify.com/artist/0v4Iw2QsGo7sa1kzpccz6k"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "you're hell",
-      "url": "https://open.spotify.com/track/7dGY8CoLPJmGEaQgsRLL4f"
-    },
-    {
       "added_at": "2024-02-02 20:11:30",
       "album": {
         "name": "PLUS VIBE",
@@ -917,34 +813,6 @@
       "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
     },
     {
-      "added_at": "2024-02-13 18:17:25",
-      "album": {
-        "name": "Jungle (Remixes)",
-        "url": "https://open.spotify.com/album/1neo0jmhJ3mY4MBMPrTIFa"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        },
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 163845,
-      "name": "Jungle - Arcando Remix",
-      "url": "https://open.spotify.com/track/3tFq8IZqLaqnZO0rxbcanH"
-    },
-    {
       "added_at": "2024-05-10 21:38:50",
       "album": {
         "name": "MASHA ULTRAFUNK",
@@ -963,26 +831,6 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 189517,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
     },
     {
       "added_at": "2024-02-13 23:00:52",
@@ -1021,22 +869,6 @@
       "url": "https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z"
     },
     {
-      "added_at": "2024-05-14 22:39:27",
-      "album": {
-        "name": "ULTRALIMINAL",
-        "url": "https://open.spotify.com/album/170KIOZdH7mUBd1wBeK2Ik"
-      },
-      "artists": [
-        {
-          "name": "UNLEAZER",
-          "url": "https://open.spotify.com/artist/6aANlbQEeuyCvSVmCiQJR7"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "ULTRALIMINAL",
-      "url": "https://open.spotify.com/track/4OiUscrOUxuT4KGYsJdyVJ"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Poker Face",
@@ -1051,22 +883,6 @@
       "duration_ms": 124316,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/7tQPXgC9h5m7XyzSpRCYkD"
-    },
-    {
-      "added_at": "2024-04-02 18:59:06",
-      "album": {
-        "name": "Digita",
-        "url": "https://open.spotify.com/album/3dM078GQ05Droml2dgYeYV"
-      },
-      "artists": [
-        {
-          "name": "Ephex",
-          "url": "https://open.spotify.com/artist/137d6SNcjHO2XxtuXcpPKu"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Digita",
-      "url": "https://open.spotify.com/track/06CaeQTDHlppW9ObQ2to2g"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2009,22 +1825,6 @@
       "url": "https://open.spotify.com/track/0HumgZbyZFJIIbyI7dZzCn"
     },
     {
-      "added_at": "2024-05-17 22:42:35",
-      "album": {
-        "name": "KAB",
-        "url": "https://open.spotify.com/album/0rj867XnV1xTCger7ujGG4"
-      },
-      "artists": [
-        {
-          "name": "Bloody Pierro",
-          "url": "https://open.spotify.com/artist/3X5IoWsoVLqaRxBSy1IhXQ"
-        }
-      ],
-      "duration_ms": 138415,
-      "name": "KAB",
-      "url": "https://open.spotify.com/track/1P8mVykZ69jxsydZYwUjmI"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "tokyo krush",
@@ -2059,22 +1859,6 @@
       "duration_ms": 283724,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4OyNDHdIbTavrdQ7mhmDYN"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/3UWHvzVXaBA8EeFY5qQIle"
-      },
-      "artists": [
-        {
-          "name": "COWBELL DYNASTY",
-          "url": "https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p"
-        }
-      ],
-      "duration_ms": 124249,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/0X6ywfxeGw4VMTq2oC06EL"
     },
     {
       "added_at": "2024-04-29 20:20:37",

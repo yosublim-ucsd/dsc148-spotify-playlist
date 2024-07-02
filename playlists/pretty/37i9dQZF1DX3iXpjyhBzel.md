@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Nivea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,299 likes - 100 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,392 likes - 100 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 81 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
 | 82 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 83 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/1xq082rReneWUY1TCp9A5Y) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Estou Seguro \(Ao Vivo\)](https://open.spotify.com/album/6TkF6PgdQ04omotO399jAG) | 5:14 |
-| 84 | [Futuro](https://open.spotify.com/track/0wK0nkenoFSj19Z2KDUW4v) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7) | [Futuro](https://open.spotify.com/album/1g8s3AmajpM7pCZ4GoEm6X) | 7:03 |
-| 85 | [O Nome Dele \- Ao Vivo](https://open.spotify.com/track/44XCyKAb6ECG03AtB6pGUd) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Nome Dele \(Ao Vivo\)](https://open.spotify.com/album/5ECQRS4h6lUUtbcnowpsPu) | 8:05 |
+| 84 | [O Nome Dele \- Ao Vivo](https://open.spotify.com/track/44XCyKAb6ECG03AtB6pGUd) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Nome Dele \(Ao Vivo\)](https://open.spotify.com/album/5ECQRS4h6lUUtbcnowpsPu) | 8:05 |
+| 85 | [Futuro](https://open.spotify.com/track/0wK0nkenoFSj19Z2KDUW4v) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7) | [Futuro](https://open.spotify.com/album/1g8s3AmajpM7pCZ4GoEm6X) | 7:03 |
 | 86 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 |
 | 87 | [Se Não Fosse Deus \(Ao Vivo\)](https://open.spotify.com/track/3sDtrtsRkE40uFkbG3Vdg0) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ) | [Se Não Fosse Deus \(Ao Vivo\)](https://open.spotify.com/album/5N7g3J3ZBPL2QCDVdUIKAM) | 5:12 |
 | 88 | [Estou Te Esperando \(Ao Vivo\)](https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Estou Te Esperando \(Ao Vivo\)](https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V) | 6:51 |

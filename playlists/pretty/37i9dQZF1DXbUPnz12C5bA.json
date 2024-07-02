@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 115460,
+  "num_followers": 115569,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Rafael Orozco\u2026 Vive, Vol. 2",
+        "url": "https://open.spotify.com/album/5dHmdqVE60ZfRQN6cBgf1s"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3g2gO0Nzqt351ehQQdf63j"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "El Caballero Del Vallenato",
         "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 297413,
       "name": "Quiero Saber de Ti",
       "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "La Creciente",
-      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -887,18 +871,34 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Mis Nuevos Cantares",
-        "url": "https://open.spotify.com/album/0XCGWbApuVV51sfZSmvWoz"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 233073,
-      "name": "Eras Diferente",
-      "url": "https://open.spotify.com/track/1xVud4kEVDa8mnZAcEUAsP"
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "La Creciente",
+      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
     },
     {
       "added_at": "2024-05-28 19:20:48",

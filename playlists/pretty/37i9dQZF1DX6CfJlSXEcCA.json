@@ -1,6 +1,6 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34723,
+  "num_followers": 34718,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy"
-      },
-      "artists": [
-        {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
-        }
-      ],
-      "duration_ms": 171065,
-      "name": "X4 - BOSS",
-      "url": "https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30bc\u30ed4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 139266,
       "name": "Esperanto",
       "url": "https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        }
+      ],
+      "duration_ms": 171065,
+      "name": "X4 - BOSS",
+      "url": "https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30de\u30f311 \u904b\u547d\u306e\u6b6f\u8eca!! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u"
-      },
-      "artists": [
-        {
-          "name": "Marika Suzuki",
-          "url": "https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Dr.WILY STAGE",
-      "url": "https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u6226\u56fdBASARA 15th Anniversary BEST",
         "url": "https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 117460,
       "name": "SENGOKU BASARA",
       "url": "https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f311 \u904b\u547d\u306e\u6b6f\u8eca!! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u"
+      },
+      "artists": [
+        {
+          "name": "Marika Suzuki",
+          "url": "https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Dr.WILY STAGE",
+      "url": "https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u6226\u56fdBASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5"
+      },
+      "artists": [
+        {
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+        }
+      ],
+      "duration_ms": 107752,
+      "name": "\u4e0a\u7530\u5408\u6226",
+      "url": "https://open.spotify.com/track/4BBVB1w8MVktJAcjKYAYRC"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u5e30\u3063\u3066\u304d\u305f \u9b54\u754c\u6751 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 102588,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u6226\u56fdBASARA 15th Anniversary BEST",
-        "url": "https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5"
-      },
-      "artists": [
-        {
-          "name": "CHAMY.Ishi",
-          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
-        }
-      ],
-      "duration_ms": 107752,
-      "name": "\u4e0a\u7530\u5408\u6226",
-      "url": "https://open.spotify.com/track/4BBVB1w8MVktJAcjKYAYRC"
     },
     {
       "added_at": "2021-06-30 15:18:23",

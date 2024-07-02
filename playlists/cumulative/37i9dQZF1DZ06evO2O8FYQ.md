@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2O8FYQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2O8FYQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2O8FYQ)
 
-### [This Is Dinosaur Pile\-Up](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O8FYQ)
+### [This Is ダイナソー・パイルアップ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O8FYQ)
 
-> This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
+> This is ダイナソー・パイルアップ。アーティストの代表曲をひとつのプレイリストに。
 
 56 songs - 3 hr 6 min
 

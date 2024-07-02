@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 155251,
+  "num_followers": 155311,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "Don't Forget Me (When I'm Gone)",
-        "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
-      },
-      "artists": [
-        {
-          "name": "Les Crossaders",
-          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
-        },
-        {
-          "name": "Julie Benson",
-          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 249860,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
+        "name": "Don't Forget Me (When I'm Gone)",
+        "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
+      },
+      "artists": [
+        {
+          "name": "Les Crossaders",
+          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
+        },
+        {
+          "name": "Julie Benson",
+          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "What Love Is For",
-        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
-      },
-      "artists": [
-        {
-          "name": "PRD",
-          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "What Love Is For",
-      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
         "name": "The Best of George White Group",
         "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 248921,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
+        "name": "What Love Is For",
+        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
+      },
+      "artists": [
+        {
+          "name": "PRD",
+          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "What Love Is For",
+      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
+        "name": "Aspects",
+        "url": "https://open.spotify.com/album/0JDjSDgxKY0HkKKpY11H1Q"
+      },
+      "artists": [
+        {
+          "name": "\u00d8yunn",
+          "url": "https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL"
+        }
+      ],
+      "duration_ms": 252049,
+      "name": "Why Am I Doubting",
+      "url": "https://open.spotify.com/track/1QJS8rCr4SvVunqh9fGTQw"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/5Vcb7yL3C7yujqgA36S5Pr"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 209600,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
-        "name": "Aspects",
-        "url": "https://open.spotify.com/album/0JDjSDgxKY0HkKKpY11H1Q"
-      },
-      "artists": [
-        {
-          "name": "\u00d8yunn",
-          "url": "https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL"
-        }
-      ],
-      "duration_ms": 252049,
-      "name": "Why Am I Doubting",
-      "url": "https://open.spotify.com/track/1QJS8rCr4SvVunqh9fGTQw"
     },
     {
       "added_at": "2024-05-30 06:12:21",

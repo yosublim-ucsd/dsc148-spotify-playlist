@@ -1,6 +1,6 @@
 {
   "description": "2024 yaz\u0131na damga vuracak \u015fark\u0131lar. Kapak: Simge",
-  "num_followers": 240668,
+  "num_followers": 240841,
   "original_name": "Yaz Hitleri 2024",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-06-27 21:00:00",
       "album": {
+        "name": "Yolun Sonu",
+        "url": "https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011fba Yurt",
+          "url": "https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv"
+        }
+      ],
+      "duration_ms": 161071,
+      "name": "Yolun Sonu",
+      "url": "https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K"
+    },
+    {
+      "added_at": "2024-06-27 21:00:00",
+      "album": {
         "name": "Elfida",
         "url": "https://open.spotify.com/album/6Lq1lgZaxNvBQi8zsDTT4n"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 168362,
       "name": "Elfida",
       "url": "https://open.spotify.com/track/1K21duGDbieOPk1D3Pb9p7"
-    },
-    {
-      "added_at": "2024-06-27 21:00:00",
-      "album": {
-        "name": "Yolun Sonu",
-        "url": "https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR"
-      },
-      "artists": [
-        {
-          "name": "Tu\u011fba Yurt",
-          "url": "https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv"
-        }
-      ],
-      "duration_ms": 161071,
-      "name": "Yolun Sonu",
-      "url": "https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K"
     },
     {
       "added_at": "2024-06-27 21:00:00",

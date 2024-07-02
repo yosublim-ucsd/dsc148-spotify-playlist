@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-926 songs - 1 day 11 hr 58 min
+927 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [are and be](https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [pair of dice](https://open.spotify.com/album/1BnIHuiuZhxltLIVlKXKcO) | 1:40 | 2022-05-13 |  |
 | [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 |  |
 | [At Ease](https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [At Ease](https://open.spotify.com/album/3EPVotUCRpa0YRTfwsVehX) | 2:27 | 2024-03-01 |  |
+| [At Eventide](https://open.spotify.com/track/19NGKR9VbsWUgf7RfAkm71) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [At Eventide](https://open.spotify.com/album/2cXvOERfSWEvHWjNKA7jvJ) | 2:14 | 2024-06-28 |  |
 | [At Peace](https://open.spotify.com/track/6JKRbYRi8UH8zfy0oGZ8TQ) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [At Peace](https://open.spotify.com/album/5cIXJGnEEmxcowS9ADX5F1) | 2:31 | 2022-05-20 | 2022-06-25 |
 | [ataraxia](https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF) | [VAL](https://open.spotify.com/artist/2kd96OmUnYMBGn6dEuV9iP), [saege](https://open.spotify.com/artist/55uDvpZtzLXtM7aV7MJupC) | [ataraxia](https://open.spotify.com/album/5DETKvGvHhWO06gk3OO2EX) | 1:42 | 2022-11-25 | 2023-10-06 |
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2022-04-15 | 2022-05-27 |
@@ -504,7 +505,7 @@
 | [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2022-04-15 |  |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-04-15 | 2022-07-29 |
-| [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-04-15 |  |
+| [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-04-15 | 2024-07-02 |
 | [new apartment](https://open.spotify.com/track/1BN4HXxjwBf5cUUh5eJPyo) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [new apartment](https://open.spotify.com/album/4osMRsytBGU8nfZZexrK2E) | 2:07 | 2022-07-15 | 2023-09-29 |
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-04-15 | 2023-07-20 |
 | [New Season](https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [New Season](https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9) | 2:00 | 2023-11-24 |  |

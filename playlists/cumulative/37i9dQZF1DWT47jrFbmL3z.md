@@ -4,7 +4,7 @@
 
 > Wrench your heart out with NIKI but she's letting go
 
-86 songs - 4 hr 45 min
+87 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Around](https://open.spotify.com/track/3UIxHki9PY9pWZI925dPFr) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/1u69qM5ATwhuRSHQd3FD6s) | 3:03 | 2022-08-11 | 2024-04-19 |
 | [Around](https://open.spotify.com/track/6tv9CzrMUHQFrm9VHHO1hv) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX) | 3:03 | 2022-08-11 |  |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-08-11 |  |
+| [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-07-01 |  |
 | [California \(feat\. Jackson Wang & Warren Hue\) \- \[Remix\]](https://open.spotify.com/track/1SZcEr3Wo7vvK4UUn3bi8v) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Jackson Wang & Warren Hue\) \[Remix\]](https://open.spotify.com/album/2gg6B0XKlAW0XwIMIrwk2n) | 4:33 | 2022-08-11 |  |
 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/3Qj2f7BrpJNGj3dbxKpOlp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Warren Hue\)](https://open.spotify.com/album/2gCRiVJ8w6f64f2rtb3TAD) | 3:50 | 2022-08-11 |  |
 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/7qmqC8dgl2BXWgJRW4xseD) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Jackson Wang & Warren Hue\) \[Remix\]](https://open.spotify.com/album/2gg6B0XKlAW0XwIMIrwk2n) | 3:50 | 2022-08-11 | 2024-04-19 |

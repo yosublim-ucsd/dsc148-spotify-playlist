@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Ikkimel
 
-1,968 songs - 3 day 20 hr 54 min
+1,969 songs - 3 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1151,7 +1151,7 @@
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2023-02-02 | 2023-03-10 |
 | [MR\. MEYER](https://open.spotify.com/track/414rOgwyJUcY49sGW5CsZy) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [MR\. MEYER](https://open.spotify.com/album/40UKsm4Xvm08BNf68th3PV) | 3:51 | 2023-03-09 | 2023-04-14 |
 | [MR\. SWAG \(feat\. makko\)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [MR\. SWAG \(feat\. makko\)](https://open.spotify.com/album/2N9RaXmZvgLMLYGj1pQV0E) | 2:39 | 2024-03-28 | 2024-05-10 |
-| [Mrs\. Potato Head](https://open.spotify.com/track/3K1tdhoeE6koNnWgAxEK9Y) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:37 | 2024-06-06 |  |
+| [Mrs\. Potato Head](https://open.spotify.com/track/3K1tdhoeE6koNnWgAxEK9Y) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:37 | 2024-06-06 | 2024-07-02 |
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2023-09-07 | 2023-09-22 |
 | [Ms\. Jackson](https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Ms\. Jackson](https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln) | 2:27 | 2023-08-24 | 2023-11-17 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-06-09 | 2022-12-02 |
@@ -1338,6 +1338,7 @@
 | [petit frère](https://open.spotify.com/track/7vuPce1FALeir0VHLkRZYL) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [petit frère](https://open.spotify.com/album/4MRj1ISdjbESnmgFMSKcDg) | 2:24 | 2022-06-13 | 2022-07-05 |
 | [pferdeenergie](https://open.spotify.com/track/2gzuC19W2r00KjfVCYrlG0) | [beslik](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [junge, sieh zu dass du mal klarkommst](https://open.spotify.com/album/1kFuJSuM8q118geJMg1cgD) | 2:26 | 2023-11-09 | 2023-12-01 |
 | [Phase](https://open.spotify.com/track/7lDkcb4KnW1nyvsqReosBy) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Phase](https://open.spotify.com/album/4iU12aijNY0TwwoYvCdqDn) | 2:50 | 2023-02-02 | 2023-02-24 |
+| [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 | 2024-07-01 |  |
 | [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-11 | 2022-11-20 |
 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-11-17 | 2023-02-25 |
 | [Phonky Tribu \- FØSS Hard Remix](https://open.spotify.com/track/3pelxcL50SzT993QJ5pYhm) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [FØSS](https://open.spotify.com/artist/6vTmc95PVNY1tkfuNiDkG2) | [Phonky Tribu \(FØSS Hard Remix\)](https://open.spotify.com/album/3Hbv2BInIVmBY401XuY1Tj) | 6:28 | 2024-01-11 | 2024-01-19 |

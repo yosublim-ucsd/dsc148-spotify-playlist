@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Chike",
-  "num_followers": 236553,
+  "num_followers": 236594,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "4 Days",
-        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 154199,
-      "name": "4 Days",
-      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "In Her Thoughts",
+        "url": "https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Love Lust",
         "url": "https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 182656,
       "name": "All Good",
       "url": "https://open.spotify.com/track/5jtnLmxG92vA96CuxAZ3I5"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "In Her Thoughts",
-        "url": "https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx"
-      },
-      "artists": [
-        {
-          "name": "T'neeya",
-          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
     }
   ],
   "unique_name": "Ginger Me",

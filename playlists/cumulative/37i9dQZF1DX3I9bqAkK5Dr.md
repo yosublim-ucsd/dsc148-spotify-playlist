@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-260 songs - 15 hr 47 min
+261 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Oota Neeru](https://open.spotify.com/track/1qHFXTlWexjlCZhcHSJX8e) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/6neziU9771kT7qum5sg6as) | 5:25 | 2023-09-04 | 2024-01-06 |
 | [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 | 2023-08-04 |  |
 | [Padessave Pilla](https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkat Chaitanya](https://open.spotify.com/artist/2GNR01LjMoSuhvp4GSuFX8), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Padessave Pilla](https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA) | 3:06 | 2023-04-06 | 2023-12-09 |
+| [Pakkane Le](https://open.spotify.com/track/06E5EKUu6AaWTkVcsvqWNR) | [Nirvan Athreya](https://open.spotify.com/artist/18kYD2Ao3kj1oGb0Ao2Aay), [Yuti Harshavardhana](https://open.spotify.com/artist/0qC5hxZMZIC8MIkyrjFPsA) | [Pakkane Le](https://open.spotify.com/album/2ZTTOKRMhEYjPj6VJ7UPuI) | 3:03 | 2024-07-01 |  |
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 | 2023-11-08 |
 | [Pedavi Pilichina](https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu) | [Pedavi Pilichina](https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e) | 3:49 | 2023-08-25 | 2023-09-21 |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
@@ -228,7 +229,7 @@
 | [Sin Amor](https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Sin Amor](https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb) | 2:54 | 2023-05-31 | 2023-07-11 |
 | [Sinnadhani Soopule](https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Dasari Meghanaa Naidu](https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU) | [Sinnadhani Soopule](https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL) | 2:42 | 2024-05-20 |  |
 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 | 2023-09-11 | 2024-04-19 |
-| [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 | 2023-09-11 |  |
+| [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 | 2023-09-11 | 2024-07-02 |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 | 2023-05-23 |
 | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/track/6gPhUV80DvchiVxUZmgUi7) | [VuSe](https://open.spotify.com/artist/71I1aowbFdmoD5ydQ4TObT) | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/album/5w3AoIm6vGGMYPqaVzq2CY) | 1:29 | 2024-03-26 | 2024-04-19 |
 | [Sweet Nothings](https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [First Things First](https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb) | 3:50 | 2022-11-02 | 2023-09-22 |

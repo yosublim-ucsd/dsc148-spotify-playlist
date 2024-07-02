@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-380 songs - 20 hr 34 min
+382 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fable \- Radio](https://open.spotify.com/track/1eBkl1dDbU47Dz7VEQnWrw) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Fable](https://open.spotify.com/album/5ns2MXeOZuDn196ykWAP2n) | 2:29 | 2024-05-24 | 2024-06-01 |
 | [Face Down \(Hands Up\)](https://open.spotify.com/track/1yt4lFQALSV3rqKM9x9nIv) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Face Down \(Hands Up\)](https://open.spotify.com/album/7uOjUD3alf1a7nMuJdWmhC) | 2:41 | 2024-06-07 | 2024-06-17 |
 | [Fair](https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Fair](https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO) | 3:28 | 2024-06-16 | 2024-06-21 |
+| [Fake This Love](https://open.spotify.com/track/7rI0q5H3GvnPl6HLdvuurk) | [BXNNED](https://open.spotify.com/artist/1OOAnuIBOoa0sri75C0YI5) | [Fake This Love](https://open.spotify.com/album/1q7lqoHBV5KVLbQZAOOleT) | 4:06 | 2024-07-02 |  |
 | [FamilyMart](https://open.spotify.com/track/4iZiSC8kS0IEueNhbGTzVf) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [FamilyMart](https://open.spotify.com/album/3hCBaNPcjijARbUvcJMXgQ) | 2:33 | 2024-06-16 | 2024-06-21 |
 | [Far Beyond](https://open.spotify.com/track/5AV6PtBpxUZEcTGS2Zr49h) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Far Beyond](https://open.spotify.com/album/6D4vHfeDewEwxm8Vq6uDaM) | 3:29 | 2024-06-16 | 2024-06-29 |
 | [Fast Cash](https://open.spotify.com/track/6T2DAhMOOyFv6zufTsylTR) | [Enrique James](https://open.spotify.com/artist/0ISbDYXN15j6m3mONGjBNU) | [Fast Cash](https://open.spotify.com/album/5QN0t2zYnoSGgs6PB4j20V) | 3:37 | 2024-06-16 | 2024-06-21 |
@@ -361,6 +362,7 @@
 | [Tropical Depression](https://open.spotify.com/track/6MeRpzacSW02GTAYM6qsb8) | [jcSubterfuge](https://open.spotify.com/artist/00xOgISXmnMDZ8NoU7SGUL) | [Tropical Depression](https://open.spotify.com/album/7CpzFy0LTUOZ1bPLk3VFpS) | 3:28 | 2024-06-18 | 2024-06-22 |
 | [Turn! Turn! Turn!](https://open.spotify.com/track/2V3NVm4RWFjb6gXrfTFjkb) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Sir Ivan](https://open.spotify.com/artist/65Es5dYCk8l5Vvaf4dbjvs) | [Turn! Turn! Turn!](https://open.spotify.com/album/7AixLfvtBeIjJZmXxNzDHa) | 3:40 | 2024-05-17 | 2024-05-25 |
 | [Twilight](https://open.spotify.com/track/2zE76iC9afgr4vjpvaDm7h) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [Waves\_On\_Waves](https://open.spotify.com/artist/4l1KlqrM9fywoEDVKKiR9u) | [Twilight](https://open.spotify.com/album/3ZapfNjtJ97EbkGwPDT1Z8) | 2:49 | 2024-05-30 | 2024-06-08 |
+| [Umbrella](https://open.spotify.com/track/64XiSf7yj8DpDfNTTsh2qn) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [Umbrella](https://open.spotify.com/album/62nnfII15N10IoPcdqCj3B) | 2:34 | 2024-07-02 |  |
 | [Under Pressure](https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Under Pressure](https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE) | 3:46 | 2024-05-24 | 2024-06-01 |
 | [Under The Sun \(with Alok\)](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Under The Sun \(with Alok\)](https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I) | 2:45 | 2024-05-30 | 2024-06-08 |
 | [Unite \(feat\. Eke\)](https://open.spotify.com/track/6lMZwR33yJnUrGijdwk0EU) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Unite \(feat\. Eke\)](https://open.spotify.com/album/3cTxbtajyPC5TsiEoL0xat) | 2:47 | 2024-06-16 | 2024-06-21 |

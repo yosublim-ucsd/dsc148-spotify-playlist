@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 947027,
+  "num_followers": 947164,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "You\u2019re So High (10 Years On)",
+        "url": "https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 272573,
+      "name": "You\u2019re So High (10 Years On)",
+      "url": "https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Bloom In The Cold",
         "url": "https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 263575,
       "name": "Bloom In The Cold",
       "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "You\u2019re So High (10 Years On)",
-        "url": "https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 272573,
-      "name": "You\u2019re So High (10 Years On)",
-      "url": "https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP"
     },
     {
       "added_at": "2024-06-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Scene Queen
 
-6,796 songs - 19 day 3 hr 46 min
+6,797 songs - 19 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5237,7 +5237,8 @@
 | [Solar Witch](https://open.spotify.com/track/59tgpJap3pxVGFKeJcm843) | [Thantifaxath](https://open.spotify.com/artist/7DcSKG8ruWMgHsUh1rqZFh) | [Hive Mind Narcosis](https://open.spotify.com/album/33j7lFZ3OdXerDKwdVHLJf) | 6:01 | 2023-06-02 | 2023-06-10 |
 | [Solarpunk](https://open.spotify.com/track/5UsZvtdFr2XU48maI88T44) | [Dweller](https://open.spotify.com/artist/40vvbBsbrvP1td0kwsI9GK) | [Solarpunk](https://open.spotify.com/album/7fWaWsnzChoXUPtAQeHthc) | 3:18 | 2023-05-12 | 2023-05-20 |
 | [Sold!](https://open.spotify.com/track/1YFr8vK0dEfSl1DmTxcncY) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 3:29 | 2023-09-01 | 2023-09-09 |
-| [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-06-28 |  |
+| [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-06-28 | 2024-07-02 |
+| [Soldier In The Army Of Love](https://open.spotify.com/track/43zPNC1Ba7FTKH6ixOsdtB) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army Of Love](https://open.spotify.com/album/5W8zfj8FM6UqJMxl6yXGnA) | 2:58 | 2024-07-01 |  |
 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 | 2022-01-07 | 2022-01-28 |
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-12 | 2022-08-20 |
 | [Solitude's Bane](https://open.spotify.com/track/3S4FfGDSpmPSHqSR0DyMH4) | [Gladenfold](https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe) | [Nemesis](https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo) | 3:37 | 2022-04-29 | 2022-05-06 |

@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 136000,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/4KwetoJ2Hi9KN0K0oIcWNE"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -3276,6 +3276,32 @@
       "duration_ms": 179738,
       "name": "Fighter - Eurovision Version",
       "url": "https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh"
+    },
+    {
+      "album": {
+        "name": "Finale",
+        "url": "https://open.spotify.com/album/01Ui8OP1IuHLeb3mLJNMlO"
+      },
+      "artists": [
+        {
+          "name": "Calvin Kleinen",
+          "url": "https://open.spotify.com/artist/2iVvuS4ESGMD3pcjEcg2MW"
+        },
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139701,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/2yQEg5sQc3lckBBGsP1vWw"
     },
     {
       "album": {
@@ -10872,7 +10898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 181225,
       "name": "und du suchst noch \u00fcberall, alles was mal von mir war",
       "url": "https://open.spotify.com/track/5qT9OaIANAEMcLmWkuYRfH"

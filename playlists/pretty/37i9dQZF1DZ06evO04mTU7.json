@@ -1,12 +1,12 @@
 {
-  "description": "This is Ajuliacosta. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 4251,
+  "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
+  "num_followers": 4260,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn9OgAAAAAD7ueQGg5Lf0yrSJ5LOubo4",
+  "snapshot_id": "ZoCgAAAAAABahgFHfOGUZ3baANc/LFey",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Chavosa (Remix)",
-        "url": "https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P"
       },
       "artists": [
-        {
-          "name": "DJ LOBA BOSS",
-          "url": "https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV"
-        },
         {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 101090,
-      "name": "Queen Chavosa - Remix",
-      "url": "https://open.spotify.com/track/2898k850lyu9U35V7zzSDY"
+      "duration_ms": 129407,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P"
+        "name": "Queen Chavosa (Remix)",
+        "url": "https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv"
       },
       "artists": [
+        {
+          "name": "DJ LOBA BOSS",
+          "url": "https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV"
+        },
         {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 129407,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO"
+      "duration_ms": 101090,
+      "name": "Queen Chavosa - Remix",
+      "url": "https://open.spotify.com/track/2898k850lyu9U35V7zzSDY"
     },
     {
       "added_at": null,

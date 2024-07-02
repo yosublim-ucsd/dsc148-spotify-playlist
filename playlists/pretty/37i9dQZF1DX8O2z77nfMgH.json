@@ -1,33 +1,13 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: Nicki Nicole, Saiko",
-  "num_followers": 883386,
+  "num_followers": 883365,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAAB4K7osaLw4GZzmy6nmLx2U",
+  "snapshot_id": "ZoKrngAAAACXbuyiZDXo1U08L8Is2SCs",
   "tracks": [
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "PERROS&GATA$",
-        "url": "https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "PERROS&GATA$",
-      "url": "https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM"
-    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -59,26 +39,42 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "IMPACTO",
-        "url": "https://open.spotify.com/album/3po5AgpyQ3ZXm1hRGyFtQ6"
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt"
       },
       "artists": [
         {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         },
         {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Renn",
-          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 177272,
-      "name": "IMPACTO",
-      "url": "https://open.spotify.com/track/1lkCZOBF9iTR84dTDbNWzQ"
+      "duration_ms": 186013,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "PERROS&GATA$",
+        "url": "https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "PERROS&GATA$",
+      "url": "https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -147,26 +143,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Tu Boca",
-        "url": "https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Tu Boca",
-      "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Aquella Noche",
         "url": "https://open.spotify.com/album/7qBIRGutaZAPV92R53R5TI"
       },
@@ -179,6 +155,30 @@
       "duration_ms": 213904,
       "name": "Aquella Noche",
       "url": "https://open.spotify.com/track/3ej88nx5Zvee0XmVHVFMem"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "IMPACTO",
+        "url": "https://open.spotify.com/album/3po5AgpyQ3ZXm1hRGyFtQ6"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "IMPACTO",
+      "url": "https://open.spotify.com/track/1lkCZOBF9iTR84dTDbNWzQ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -199,22 +199,42 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "PEGAO",
-        "url": "https://open.spotify.com/album/0M14CfcIzGqHE9q6OE6d81"
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/47GGw63ynikX8t2emaG8Do"
       },
       "artists": [
         {
-          "name": "Jose De Las Heras",
-          "url": "https://open.spotify.com/artist/7trKViRlVbKr7Yrh9ygHnS"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 159555,
-      "name": "PEGAO",
-      "url": "https://open.spotify.com/track/45tRzL1gVmEbwHTaII0RT8"
+      "duration_ms": 212240,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/2XOmIHSBEqe3UxQmSJFQdb"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 210965,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -239,22 +259,6 @@
       "duration_ms": 171061,
       "name": "Que Haces Hoy",
       "url": "https://open.spotify.com/track/3KBXMH1QJPgB5ulcct75Ft"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Perdida",
-        "url": "https://open.spotify.com/album/47GGw63ynikX8t2emaG8Do"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/2XOmIHSBEqe3UxQmSJFQdb"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -295,6 +299,98 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "PEGAO",
+        "url": "https://open.spotify.com/album/0M14CfcIzGqHE9q6OE6d81"
+      },
+      "artists": [
+        {
+          "name": "Jose De Las Heras",
+          "url": "https://open.spotify.com/artist/7trKViRlVbKr7Yrh9ygHnS"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 159555,
+      "name": "PEGAO",
+      "url": "https://open.spotify.com/track/45tRzL1gVmEbwHTaII0RT8"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+        "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 170751,
+      "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+      "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Lunares",
+        "url": "https://open.spotify.com/album/0McuKHUWKpDgsQ0aPWyX3q"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        }
+      ],
+      "duration_ms": 204649,
+      "name": "Lunares",
+      "url": "https://open.spotify.com/track/0OdQrlMbboMbp4Rdcl7nlD"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Casualidad",
+        "url": "https://open.spotify.com/album/4SvKUdqMaUXREbLdrma25Y"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 205340,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/3hxjOU3voK4ESd1SX1s1W5"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Ve y Diles V2 (Remix)",
+        "url": "https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Ve y Diles V2 - Remix",
+      "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "www.Polim\u00e1Westcoast",
         "url": "https://open.spotify.com/album/1WXCYhu4JBW4afvKyJlmC1"
       },
@@ -307,58 +403,6 @@
       "duration_ms": 87926,
       "name": "www.Polim\u00e1Westcoast",
       "url": "https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Miss Misogyny",
-        "url": "https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "FruityBoy",
-      "url": "https://open.spotify.com/track/3hSJJsUkP7CQ9Hl5pGxgop"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "LOWKEY",
-        "url": "https://open.spotify.com/album/3LK3adb4LcPpPRQH2aK24A"
-      },
-      "artists": [
-        {
-          "name": "Denni Den",
-          "url": "https://open.spotify.com/artist/3BlpDYnHdlKijqDvT4bw2k"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 204871,
-      "name": "LOWKEY",
-      "url": "https://open.spotify.com/track/2ZuxiVbNP6dVb8U1Pqxkxz"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "PAGANI",
-        "url": "https://open.spotify.com/album/3Xk11c5xgMZ3OF07Ks4Ad8"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        }
-      ],
-      "duration_ms": 182242,
-      "name": "PAGANI",
-      "url": "https://open.spotify.com/track/0iVAHT7bsXiwLuB5eaWMqK"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -387,6 +431,74 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "LOWKEY",
+        "url": "https://open.spotify.com/album/3LK3adb4LcPpPRQH2aK24A"
+      },
+      "artists": [
+        {
+          "name": "Denni Den",
+          "url": "https://open.spotify.com/artist/3BlpDYnHdlKijqDvT4bw2k"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 204871,
+      "name": "LOWKEY",
+      "url": "https://open.spotify.com/track/2ZuxiVbNP6dVb8U1Pqxkxz"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "De Repente",
+        "url": "https://open.spotify.com/album/0YnFmayvcgCGZlaXjGsaKq"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "De Repente",
+      "url": "https://open.spotify.com/track/2rdIwRAiQUigchIXOCzshk"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Miss Misogyny",
+        "url": "https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "FruityBoy",
+      "url": "https://open.spotify.com/track/3hSJJsUkP7CQ9Hl5pGxgop"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "PAGANI",
+        "url": "https://open.spotify.com/album/3Xk11c5xgMZ3OF07Ks4Ad8"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        }
+      ],
+      "duration_ms": 182242,
+      "name": "PAGANI",
+      "url": "https://open.spotify.com/track/0iVAHT7bsXiwLuB5eaWMqK"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Le Falta la Forty",
         "url": "https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue"
       },
@@ -407,62 +519,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Mi Primer Concierto",
-        "url": "https://open.spotify.com/album/6OZc9CuOWT8U1a0rpvgf5x"
-      },
-      "artists": [
-        {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "Mi Primer Concierto",
-      "url": "https://open.spotify.com/track/44UCB65Fg4VqNn8wLkzOeN"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Lunares",
-        "url": "https://open.spotify.com/album/0McuKHUWKpDgsQ0aPWyX3q"
-      },
-      "artists": [
-        {
-          "name": "Servando & Florentino",
-          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
-        }
-      ],
-      "duration_ms": 204649,
-      "name": "Lunares",
-      "url": "https://open.spotify.com/track/0OdQrlMbboMbp4Rdcl7nlD"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Chyno Miranda",
-          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
-        },
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 210965,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Literal",
         "url": "https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR"
       },
@@ -479,18 +535,38 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "El Cielo Te Mand\u00f3 para M\u00ed",
-        "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
+        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
+        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 170751,
-      "name": "El Cielo Te Mand\u00f3 para M\u00ed",
-      "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
+      "duration_ms": 196895,
+      "name": "Yo Nunca Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Mi Primer Concierto",
+        "url": "https://open.spotify.com/album/6OZc9CuOWT8U1a0rpvgf5x"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "Mi Primer Concierto",
+      "url": "https://open.spotify.com/track/44UCB65Fg4VqNn8wLkzOeN"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -571,46 +647,6 @@
       "duration_ms": 155777,
       "name": "Me la llev\u00e9",
       "url": "https://open.spotify.com/track/0Ll5GAJSuAzkPjnnbKv2Ch"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Casualidad",
-        "url": "https://open.spotify.com/album/4SvKUdqMaUXREbLdrma25Y"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 205340,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/3hxjOU3voK4ESd1SX1s1W5"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Ve y Diles V2 (Remix)",
-        "url": "https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Ve y Diles V2 - Remix",
-      "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -711,42 +747,6 @@
       "duration_ms": 182608,
       "name": "Party En California",
       "url": "https://open.spotify.com/track/4HNx0xJYS4eJRRuMNYNX4q"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "De Repente",
-        "url": "https://open.spotify.com/album/0YnFmayvcgCGZlaXjGsaKq"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "De Repente",
-      "url": "https://open.spotify.com/track/2rdIwRAiQUigchIXOCzshk"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
-        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 196895,
-      "name": "Yo Nunca Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
     },
     {
       "added_at": "2024-06-28 04:00:00",

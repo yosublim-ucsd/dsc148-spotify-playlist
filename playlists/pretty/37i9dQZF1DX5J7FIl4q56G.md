@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Scene Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,988 likes - 56 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,021 likes - 56 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STUCK \(feat\. Sinizter\)](https://open.spotify.com/track/6krmuuApbHM1tFhH8Cjhw8) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 3:29 |
 | 2 | [Girls Gone Wild](https://open.spotify.com/track/7IWR5lQJ0DpNClwYaxQhox) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Hot Singles In Your Area](https://open.spotify.com/album/44bMy39zfe5g8aoobC6cjq) | 2:22 |
 | 3 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 |
-| 4 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 |
+| 4 | [Soldier In The Army Of Love](https://open.spotify.com/track/43zPNC1Ba7FTKH6ixOsdtB) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army Of Love](https://open.spotify.com/album/5W8zfj8FM6UqJMxl6yXGnA) | 2:58 |
 | 5 | [Neverbloom](https://open.spotify.com/track/3UVlWASiZTfWFVgFyhWuYU) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Neverbloom](https://open.spotify.com/album/43TBeyNWIkw4nE8dz4fG72) | 3:15 |
 | 6 | [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 |
 | 7 | [Faded AF](https://open.spotify.com/track/0ji7KwO8C0s8cMO8nyMt0L) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [A Muse](https://open.spotify.com/album/4Eh2AFPDWQyyv8hAFUDN4A) | 4:10 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Infinite Grey](https://open.spotify.com/track/1x3xA5pXfOiqTxaqvvXf45) | [Sear Bliss](https://open.spotify.com/artist/5h1vktUNKEYPDaQUUaOKAA) | [Heavenly Down](https://open.spotify.com/album/0rq0IgZLKkiYAxLxjThnwU) | 6:16 |
 | 56 | [Under The Black](https://open.spotify.com/track/4JRWvmN5VvMG57MhwfctoL) | [The Eternal](https://open.spotify.com/artist/2uCKA5H0fEPfF0PxLooHvn) | [Skinwalker](https://open.spotify.com/album/1cNeea5Ew8MnmHaENp1XKJ) | 5:22 |
 
-Snapshot ID: `Zn41QAAAAABLH/UJ0iaaC4NT6ZadAyMc`
+Snapshot ID: `ZoK6ewAAAAAcLWl3GbcjTqFyATQ6aR1q`

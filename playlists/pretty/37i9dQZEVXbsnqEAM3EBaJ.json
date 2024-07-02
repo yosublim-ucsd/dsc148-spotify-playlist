@@ -6,27 +6,39 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADFjrs2r/phhCJKxeiPfY3C",
+  "snapshot_id": "AAAAAAAAAADKngCO1tmzgJ4PC6UaT5MY",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Linger (Iain Cook Remix)",
-        "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
+        "name": "Attack Phase (Live Los Angeles '84)",
+        "url": "https://open.spotify.com/album/2MkLcXpAaiTCW6Uas7bpCN"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "name": "Iain Cook",
-          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
         }
       ],
-      "duration_ms": 376094,
-      "name": "Linger - Iain Cook Remix",
-      "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
+      "duration_ms": 377785,
+      "name": "Three Nights - Live",
+      "url": "https://open.spotify.com/track/0Y2xuqMfLOs0y5bQ3jVhfm"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Higher (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 364894,
+      "name": "Higher - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -51,38 +63,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Higher (Live At Freeman Coliseum / 1999)",
-        "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 364894,
-      "name": "Higher - Live At Freeman Coliseum / 1999",
-      "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "You Are Here (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1stqMzVEOMvNSQ5jXOsYfa"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Mr.Freeze",
-      "url": "https://open.spotify.com/track/1A7iM5jn5m7bROmLS6rqZt"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
       },
@@ -103,6 +83,58 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "Surf Wax America - Spotify Anniversaries Version - Live",
+      "url": "https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "You Are Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1stqMzVEOMvNSQ5jXOsYfa"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Mr.Freeze",
+      "url": "https://open.spotify.com/track/1A7iM5jn5m7bROmLS6rqZt"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
+        "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 252648,
+      "name": "You Are Here - Ultimate Mix",
+      "url": "https://open.spotify.com/track/5cYo63NgwuSqc2AvTE2RBl"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
         "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
       },
@@ -115,6 +147,102 @@
       "duration_ms": 259763,
       "name": "Accidents - Live",
       "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Linger (Iain Cook Remix)",
+        "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Iain Cook",
+          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
+        }
+      ],
+      "duration_ms": 376094,
+      "name": "Linger - Iain Cook Remix",
+      "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
+        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
+      },
+      "artists": [
+        {
+          "name": "E.Cais",
+          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Omnisciencia",
+      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+        },
+        {
+          "name": "Cyhra",
+          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        }
+      ],
+      "duration_ms": 196103,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -151,134 +279,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
-        "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 252648,
-      "name": "You Are Here - Ultimate Mix",
-      "url": "https://open.spotify.com/track/5cYo63NgwuSqc2AvTE2RBl"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 185286,
-      "name": "Surf Wax America - Spotify Anniversaries Version - Live",
-      "url": "https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Focus 13",
-        "url": "https://open.spotify.com/album/6vCJKzle4S8iFsK14ohitg"
-      },
-      "artists": [
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        }
-      ],
-      "duration_ms": 308852,
-      "name": "Focus 13",
-      "url": "https://open.spotify.com/track/0wBpSezl32HJpktpTAJMCW"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Early Daze",
-        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
-        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
-      },
-      "artists": [
-        {
-          "name": "E.Cais",
-          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Omnisciencia",
-      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Undefeated Eyes",
-        "url": "https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 266429,
-      "name": "Undefeated Eyes",
-      "url": "https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Peaceful Ambient Melodies for Sleep",
         "url": "https://open.spotify.com/album/789vZ6vwtU6fbIw6lq0wCq"
       },
@@ -303,26 +303,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu"
+        "name": "Focus 13",
+        "url": "https://open.spotify.com/album/6vCJKzle4S8iFsK14ohitg"
       },
       "artists": [
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
-        },
-        {
-          "name": "Cyhra",
-          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
         }
       ],
-      "duration_ms": 196103,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz"
+      "duration_ms": 308852,
+      "name": "Focus 13",
+      "url": "https://open.spotify.com/track/0wBpSezl32HJpktpTAJMCW"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -344,41 +336,65 @@
           "url": "https://open.spotify.com/artist/3NQXNfw4O0uZ3BGnUrZYWh"
         }
       ],
-      "duration_ms": 354092,
-      "name": "Yoga Paz De M\u00fasica Ambiental",
-      "url": "https://open.spotify.com/track/7EXyZeGobHyDafhyiD0yDc"
+      "duration_ms": 278366,
+      "name": "Yoga Tranquilidad De M\u00fasica Ambiental",
+      "url": "https://open.spotify.com/track/6PVNgHmWodQif05hgth88K"
     },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD"
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/6JDgkJx4wohyYjStrr2Yrc"
       },
       "artists": [
         {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
         }
       ],
-      "duration_ms": 195555,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr"
+      "duration_ms": 198453,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/21YXMFoMeuNm42zKMjsnmm"
     },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Attack Phase (Live Los Angeles '84)",
-        "url": "https://open.spotify.com/album/2MkLcXpAaiTCW6Uas7bpCN"
+        "name": "Undefeated Eyes",
+        "url": "https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF"
       },
       "artists": [
         {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 377785,
-      "name": "Three Nights - Live",
-      "url": "https://open.spotify.com/track/0Y2xuqMfLOs0y5bQ3jVhfm"
+      "duration_ms": 266429,
+      "name": "Undefeated Eyes",
+      "url": "https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Early Daze",
+        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -403,18 +419,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "I Feel It Coming",
-        "url": "https://open.spotify.com/album/6JDgkJx4wohyYjStrr2Yrc"
+        "name": "Spicy Margarita (A7S Remix)",
+        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 198453,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/21YXMFoMeuNm42zKMjsnmm"
+      "duration_ms": 147230,
+      "name": "Spicy Margarita (A7S Remix)",
+      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -443,30 +467,6 @@
       "duration_ms": 148767,
       "name": "My Favourite Game (feat. The Cardigans & P Money) - P Money Remix",
       "url": "https://open.spotify.com/track/7ulxfXLMgNo7yUX34fHyoU"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Spicy Margarita (A7S Remix)",
-        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 147230,
-      "name": "Spicy Margarita (A7S Remix)",
-      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9"
         }
       ],
-      "duration_ms": 180716,
-      "name": "Casi Normal",
-      "url": "https://open.spotify.com/track/1rRvg5NRNWEexYjEPJ7Tnx"
+      "duration_ms": 251498,
+      "name": "No Nos Encontrar\u00e1n",
+      "url": "https://open.spotify.com/track/3froYwOJees9keYu5Z0MkG"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -571,22 +571,6 @@
       "duration_ms": 251040,
       "name": "Only The Strong Survive - Live, Hamburg, 1979",
       "url": "https://open.spotify.com/track/2mTSeu5k2k9RwhWeo77TJq"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Worlds Collide Tour (Live in Amsterdam)",
-        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270100,
-      "name": "Faster - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Worlds Collide Tour (Live in Amsterdam)",
+        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270100,
+      "name": "Faster - Live in Amsterdam",
+      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Younger Than Today (Live)",
         "url": "https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj"
       },
@@ -668,33 +668,9 @@
           "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 247536,
-      "name": "Nowadays Clancy Can't Even Sing - Live",
-      "url": "https://open.spotify.com/track/0BxcKEltd0mC4d6z5UTPzd"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Jewel (Remastered and Expanded)",
-        "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
-      },
-      "artists": [
-        {
-          "name": "Marcella Detroit",
-          "url": "https://open.spotify.com/artist/37zKpwMQ7NFzk0MPR4FUJe"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Ain't Nothing Like the Real Thing (feat. Elton John) - Kenny Dope Extended Mix",
-      "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
+      "duration_ms": 164519,
+      "name": "Love Is Surrender - Live",
+      "url": "https://open.spotify.com/track/2xcCsyB31VuQLMjM67ktOb"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -731,6 +707,30 @@
       "duration_ms": 267314,
       "name": "Moon River / Audrey\u2019s Letter",
       "url": "https://open.spotify.com/track/6g7uwja1iFcOEPFHWEZN8I"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Jewel (Remastered and Expanded)",
+        "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
+      },
+      "artists": [
+        {
+          "name": "Marcella Detroit",
+          "url": "https://open.spotify.com/artist/37zKpwMQ7NFzk0MPR4FUJe"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Ain't Nothing Like the Real Thing (feat. Elton John) - Kenny Dope Extended Mix",
+      "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5DxxXEVXAQa8P8OgTARXL5"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Rock 'n' Roll Star!",
         "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 104690,
       "name": "So Long 60s - San Francisco Hotel Recording",
       "url": "https://open.spotify.com/track/4atQJpxhZKQQ7iHSRUpNDY"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Saldek 2024",
-        "url": "https://open.spotify.com/album/5DxxXEVXAQa8P8OgTARXL5"
-      },
-      "artists": [
-        {
-          "name": "Las Bibas",
-          "url": "https://open.spotify.com/artist/3tyACE7GyPeRchIPjNpn7S"
-        },
-        {
-          "name": "Dead Can Dance",
-          "url": "https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja"
-        }
-      ],
-      "duration_ms": 385573,
-      "name": "Saldek 2024",
-      "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -947,22 +943,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "The Quest for Tanelorn (Revisited)",
-        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 366906,
-      "name": "The Quest for Tanelorn - Revisited",
-      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -979,6 +959,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "The Quest for Tanelorn (Revisited)",
+        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 366906,
+      "name": "The Quest for Tanelorn - Revisited",
+      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
       },
@@ -988,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 258483,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/1eD81S9fMa6IZ7juZsPJzk"
+      "duration_ms": 407450,
+      "name": "Ride the Lightning",
+      "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1004,9 +1000,25 @@
           "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
         }
       ],
-      "duration_ms": 199947,
-      "name": "Search And Destroy - Early Demo",
-      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
+      "duration_ms": 199854,
+      "name": "Gimme Danger - Early Demo",
+      "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "Tonada para dos poemas de Rub\u00e9n Mart\u00ednez Villena",
+      "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1039,22 +1051,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Quer\u00eda Saber",
-        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "Tonada para dos poemas de Rub\u00e9n Mart\u00ednez Villena",
-      "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
       },
@@ -1080,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 899651,
-      "name": "Guitar Solo / Jam - Live",
-      "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
+      "duration_ms": 350722,
+      "name": "For a Thousand Mothers - Live",
+      "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
     },
     {
       "added_at": "2024-06-28 04:00:00",

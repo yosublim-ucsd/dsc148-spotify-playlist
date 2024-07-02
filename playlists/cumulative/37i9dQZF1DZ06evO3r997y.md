@@ -2,7 +2,7 @@
 
 ### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is Akari Kito\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Akari Kito\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 40 min
 

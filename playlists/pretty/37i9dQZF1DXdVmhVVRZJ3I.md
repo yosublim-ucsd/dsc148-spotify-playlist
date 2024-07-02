@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,521 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,528 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 45 | [Stay High \- Zerb Remix](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High \(Zerb Remix\)](https://open.spotify.com/album/3WNwoy8cC9kcksFSf4d0kM) | 3:07 |
 | 46 | [Two Sides \(feat\. Julia Temos\)](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f) | [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Two Sides \(feat\. Julia Temos\)](https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7) | 2:33 |
 | 47 | [Tequila](https://open.spotify.com/track/6JDjacug968YX4P56tJwMt) | [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [Francisco](https://open.spotify.com/artist/0t2ewh8ZZdrDruJgjnMTCF), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Tequila](https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP) | 2:40 |
-| 48 | [Mami](https://open.spotify.com/track/293FR9YVtNOqAQhTXq3zEB) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Mami](https://open.spotify.com/album/4HdCnUOdk6zCGaBoDgHZGL) | 2:18 |
-| 49 | [Feeling](https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Feeling](https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub) | 2:38 |
+| 48 | [Feeling](https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Feeling](https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub) | 2:38 |
+| 49 | [Mami](https://open.spotify.com/track/293FR9YVtNOqAQhTXq3zEB) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Mami](https://open.spotify.com/album/4HdCnUOdk6zCGaBoDgHZGL) | 2:18 |
 | 50 | [Shingaling Shingaling](https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Shingaling Shingaling](https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w) | 2:52 |
 
 Snapshot ID: `Zn4n5AAAAACwcFDBgv2tz+afuQAXmZy5`

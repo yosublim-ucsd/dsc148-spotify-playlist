@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5DxxXEVXAQa8P8OgTARXL5"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
+    },
+    {
+      "album": {
         "name": "BANSHEE/#REBEL",
         "url": "https://open.spotify.com/album/6PjFaskT6uwLjRmvrJgg2V"
       },
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 180716,
       "name": "Casi Normal",
       "url": "https://open.spotify.com/track/1rRvg5NRNWEexYjEPJ7Tnx"
@@ -9148,7 +9166,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 350722,
       "name": "For a Thousand Mothers - Live",
       "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
@@ -9920,7 +9938,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 199854,
       "name": "Gimme Danger - Early Demo",
       "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
@@ -10576,7 +10594,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 899651,
       "name": "Guitar Solo / Jam - Live",
       "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
@@ -16589,6 +16607,24 @@
     },
     {
       "album": {
+        "name": "Younger Than Today (Live)",
+        "url": "https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164519,
+      "name": "Love Is Surrender - Live",
+      "url": "https://open.spotify.com/track/2xcCsyB31VuQLMjM67ktOb"
+    },
+    {
+      "album": {
         "name": "Sound of the Crowd - Greatest Hits Live in Concert",
         "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
       },
@@ -18853,6 +18889,32 @@
     },
     {
       "album": {
+        "name": "La Dieta del Murci\u00e9lago (Instrumentales)",
+        "url": "https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC"
+      },
+      "artists": [
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Terrible",
+          "url": "https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251498,
+      "name": "No Nos Encontrar\u00e1n",
+      "url": "https://open.spotify.com/track/3froYwOJees9keYu5Z0MkG"
+    },
+    {
+      "album": {
         "name": "La Gran Masacre Vol.2",
         "url": "https://open.spotify.com/album/0tej1idxDtzam4WRMzAASt"
       },
@@ -19132,7 +19194,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 247536,
       "name": "Nowadays Clancy Can't Even Sing - Live",
       "url": "https://open.spotify.com/track/0BxcKEltd0mC4d6z5UTPzd"
@@ -22351,6 +22413,24 @@
     },
     {
       "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407450,
+      "name": "Ride the Lightning",
+      "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
+    },
+    {
+      "album": {
         "name": "Riders On The Storm",
         "url": "https://open.spotify.com/album/2cvwu3N5we9ShQ6xiU0LjX"
       },
@@ -23021,28 +23101,6 @@
     },
     {
       "album": {
-        "name": "Saldek 2024",
-        "url": "https://open.spotify.com/album/5DxxXEVXAQa8P8OgTARXL5"
-      },
-      "artists": [
-        {
-          "name": "Las Bibas",
-          "url": "https://open.spotify.com/artist/3tyACE7GyPeRchIPjNpn7S"
-        },
-        {
-          "name": "Dead Can Dance",
-          "url": "https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja"
-        }
-      ],
-      "date_added": "2024-06-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 385573,
-      "name": "Saldek 2024",
-      "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
-    },
-    {
-      "album": {
         "name": "Salt (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP"
       },
@@ -23478,7 +23536,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 199947,
       "name": "Search And Destroy - Early Demo",
       "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
@@ -25394,7 +25452,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 258483,
       "name": "St. Anger",
       "url": "https://open.spotify.com/track/1eD81S9fMa6IZ7juZsPJzk"
@@ -32144,10 +32202,36 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 354092,
       "name": "Yoga Paz De M\u00fasica Ambiental",
       "url": "https://open.spotify.com/track/7EXyZeGobHyDafhyiD0yDc"
+    },
+    {
+      "album": {
+        "name": "Elevar La Tranquilidad Del Yoga: Asanas De M\u00fasica Ambiental",
+        "url": "https://open.spotify.com/album/6GGURJeuMLhARDsDsu3uEN"
+      },
+      "artists": [
+        {
+          "name": "Kundalini: Yoga Meditaci\u00f3n Relajaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1lAybs5Azekc3cELJA29HR"
+        },
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        },
+        {
+          "name": "Musica Reiki",
+          "url": "https://open.spotify.com/artist/3NQXNfw4O0uZ3BGnUrZYWh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278366,
+      "name": "Yoga Tranquilidad De M\u00fasica Ambiental",
+      "url": "https://open.spotify.com/track/6PVNgHmWodQif05hgth88K"
     },
     {
       "album": {

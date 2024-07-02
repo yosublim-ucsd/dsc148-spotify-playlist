@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Michael Warren, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,019 likes - 197 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,041 likes - 197 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

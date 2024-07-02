@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 552567,
+  "num_followers": 552547,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Devil's Backbone",
-      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 358601,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Devil's Backbone",
+      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
     },
     {
       "added_at": "2024-05-23 16:54:13",

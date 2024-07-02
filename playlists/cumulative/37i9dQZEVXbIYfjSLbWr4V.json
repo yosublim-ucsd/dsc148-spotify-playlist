@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 227369,
       "name": "Don't Wish For It, Work For It",
       "url": "https://open.spotify.com/track/2FCl3GDKG5az23czo3ojWe"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 144000,
       "name": "Not Obama",
       "url": "https://open.spotify.com/track/0KcPjLCxQGKUOhTjjfb5g0"
@@ -2174,6 +2174,24 @@
       "duration_ms": 139574,
       "name": "\u0412\u0440\u0435\u043c\u044f \u043d\u0430 \u0432\u0435\u0441\u0435\u043b\u044c\u0435",
       "url": "https://open.spotify.com/track/4hAz8sq2eIVMPCDaXVveUx"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0438\u0432\u043e\u0442\u043d\u044b\u0439 \u043c\u0438\u0440",
+        "url": "https://open.spotify.com/album/6nR8jV3aFQBLfzqWpSCDRP"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "\u0413\u0434\u0435 \u0442\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c?",
+      "url": "https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW"
     },
     {
       "album": {
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 130123,
       "name": "\u0422\u0443\u0434\u0430 \u0421\u044e\u0434\u0430 \u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440",
       "url": "https://open.spotify.com/track/5pVoWJcrs67551V6KAP6EH"
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 135346,
       "name": "\u042d\u0439",
       "url": "https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw"
@@ -4468,7 +4486,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 279250,
       "name": "\u042d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC"

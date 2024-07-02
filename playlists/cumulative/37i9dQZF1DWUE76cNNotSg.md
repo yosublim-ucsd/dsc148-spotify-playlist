@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-494 songs - 1 day 7 hr 19 min
+495 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [6's to 9's \(feat\. Rationale\)](https://open.spotify.com/track/4DAaQ5InUO23d8yNRbB0Yj) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:26 | 2022-05-13 | 2022-06-04 |
 | [875 Dollars](https://open.spotify.com/track/0Z5onPOaXhY85ZSPMeLLNl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [875 Dollars](https://open.spotify.com/album/3V5VuiwOT6klao54o6veS7) | 5:59 | 2020-12-22 | 2022-04-21 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 |  |
-| [<3 beat](https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:17 | 2023-12-15 |  |
+| [<3 beat](https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:17 | 2023-12-15 | 2024-07-02 |
 | [A City’s Never](https://open.spotify.com/track/73KU886Nys7jzLIc9CZ1f8) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [A City's Never](https://open.spotify.com/album/5CHhdJ38De58aT5zPutiGo) | 2:42 | 2024-02-23 | 2024-04-06 |
 | [Acid Rain \- Edit](https://open.spotify.com/track/7fFdUC2J917YgkTKPzuySl) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Acid Rain \(Edit\)](https://open.spotify.com/album/0wG2Ose6eAKTyohO1JoPJd) | 2:56 | 2020-12-22 | 2022-04-21 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-12-01 | 2024-01-27 |
@@ -468,6 +468,7 @@
 | [Virtue](https://open.spotify.com/track/1lH0AIm04sZ0JMobsjnjY8) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Virtue](https://open.spotify.com/album/45vFTzjnSUkFTOger4vHoM) | 3:42 | 2020-12-22 | 2022-04-21 |
 | [Voodoo?](https://open.spotify.com/track/4Ni2AUpC7d4M7nFMa3oquY) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Voodoo?](https://open.spotify.com/album/1OnNF5FbfdbbwHKEhJT3TK) | 4:15 | 2020-12-22 | 2022-04-15 |
 | [Voyage](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 | 2023-05-16 | 2023-06-01 |
+| [Wait on You](https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Notes from a Quiet Life](https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue) | 2:56 | 2024-06-28 |  |
 | [Waiting for You](https://open.spotify.com/track/3roIMJGZbUwNCIl0UbxtgE) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Waiting for You](https://open.spotify.com/album/5mmhQhOyxwTmaRq2DVOnLU) | 4:44 | 2020-12-22 | 2022-04-17 |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2024-01-27 |
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2020-12-22 | 2022-07-29 |

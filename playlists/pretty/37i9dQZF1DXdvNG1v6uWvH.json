@@ -99,6 +99,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Bad Cameo",
         "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 298882,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Our Way",
-        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -307,30 +307,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-        "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
-        }
-      ],
-      "duration_ms": 232374,
-      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-      "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
@@ -343,6 +319,22 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 153005,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -363,18 +355,26 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK"
+        "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+        "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 153005,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Spicy Margarita (A7S Remix)",
         "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 147230,
       "name": "Spicy Margarita (A7S Remix)",
       "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Crazy Woman",
+        "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 168517,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Don't Call",
         "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
       },
@@ -707,18 +723,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Crazy Woman",
-        "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
       "artists": [
         {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
         }
       ],
-      "duration_ms": 168517,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -759,26 +779,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "Lever Livet",
         "url": "https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 173307,
       "name": "Lever Livet",
       "url": "https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 238246,
+      "name": "HOW DARE YOU",
+      "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 155238,
       "name": "Permission",
       "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Dear Joe,",
-        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 238246,
-      "name": "HOW DARE YOU",
-      "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "This Is The Moment (ft. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 208660,
-      "name": "This Is The Moment (ft. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "White Cadillac",
         "url": "https://open.spotify.com/album/4myFDplcycLyNT1Tlfd00o"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 249306,
       "name": "Security",
       "url": "https://open.spotify.com/track/22dFLZtw7uOkgL2kSk1GWJ"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "This Is The Moment (ft. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 208660,
+      "name": "This Is The Moment (ft. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Dance For Me",
+        "url": "https://open.spotify.com/album/41HUSFElXNd38RuvpSUP7H"
+      },
+      "artists": [
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        },
+        {
+          "name": "Jacob Ubizz",
+          "url": "https://open.spotify.com/artist/6ck7EQKNpcEjS3slgvM8gg"
+        },
+        {
+          "name": "RICH ALIEN$",
+          "url": "https://open.spotify.com/artist/4CG4U1AcCNA1Q35S5GMa1h"
+        }
+      ],
+      "duration_ms": 139573,
+      "name": "Dance For Me",
+      "url": "https://open.spotify.com/track/3zJMBUbMQBfguBczyHnG8L"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -1387,30 +1411,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Dance For Me",
-        "url": "https://open.spotify.com/album/41HUSFElXNd38RuvpSUP7H"
-      },
-      "artists": [
-        {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
-        },
-        {
-          "name": "Jacob Ubizz",
-          "url": "https://open.spotify.com/artist/6ck7EQKNpcEjS3slgvM8gg"
-        },
-        {
-          "name": "RICH ALIEN$",
-          "url": "https://open.spotify.com/artist/4CG4U1AcCNA1Q35S5GMa1h"
-        }
-      ],
-      "duration_ms": 139573,
-      "name": "Dance For Me",
-      "url": "https://open.spotify.com/track/3zJMBUbMQBfguBczyHnG8L"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "Dying Light",
         "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 173694,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 199683,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 162240,
       "name": "Don't Break My Heart In July",
       "url": "https://open.spotify.com/track/1o4UmeppyRtxw4Xais4IJb"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 199683,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "help yourself",
-        "url": "https://open.spotify.com/album/5b1USqUGvbDVnISkZg6Pfe"
-      },
-      "artists": [
-        {
-          "name": "sweepy",
-          "url": "https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "help yourself",
-      "url": "https://open.spotify.com/track/3vD9C2JO0toH79oZfPaAKu"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "love song",
         "url": "https://open.spotify.com/album/0bhgmG5kUiVy5C3igcgLZP"
       },
@@ -1527,6 +1511,38 @@
       "duration_ms": 141600,
       "name": "love song",
       "url": "https://open.spotify.com/track/4ba4V2ubps1k4Eg6FrBt1V"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "help yourself",
+        "url": "https://open.spotify.com/album/5b1USqUGvbDVnISkZg6Pfe"
+      },
+      "artists": [
+        {
+          "name": "sweepy",
+          "url": "https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "help yourself",
+      "url": "https://open.spotify.com/track/3vD9C2JO0toH79oZfPaAKu"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3Mc12w1nqHdv5gEVFZxLNA"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 149976,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1RM6ETOb3uzl59DJUQAQDZ"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "My Film Noir",
-        "url": "https://open.spotify.com/album/0mlPP1NCEkZmFJpUA8Saxj"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00ed\u00f0a D\u00eds",
-          "url": "https://open.spotify.com/artist/4cckBfNyKtdEBQprtgIRUN"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Film Noir",
-      "url": "https://open.spotify.com/track/3xFlJaKGl9ZWTokNctcAgp"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "Keep on running off",
         "url": "https://open.spotify.com/album/5e172q7lNrtoi3BjDy58H1"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3Mc12w1nqHdv5gEVFZxLNA"
+        "name": "My Film Noir",
+        "url": "https://open.spotify.com/album/0mlPP1NCEkZmFJpUA8Saxj"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+          "name": "Fr\u00ed\u00f0a D\u00eds",
+          "url": "https://open.spotify.com/artist/4cckBfNyKtdEBQprtgIRUN"
         }
       ],
-      "duration_ms": 149976,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/1RM6ETOb3uzl59DJUQAQDZ"
+      "duration_ms": 200000,
+      "name": "My Film Noir",
+      "url": "https://open.spotify.com/track/3xFlJaKGl9ZWTokNctcAgp"
     }
   ],
   "unique_name": "New Music Friday Iceland",

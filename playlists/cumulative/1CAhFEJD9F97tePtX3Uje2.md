@@ -4,7 +4,7 @@
 
 > 
 
-230 songs - 13 hr 39 min
+231 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cold Sun](https://open.spotify.com/track/4xCqHRvk04gOcjk7jvkLpn) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx) | [Delirium](https://open.spotify.com/album/2OiRcGOaCnf1QFqUVW1nCz) | 4:16 | 2019-04-01 |  |
 | [Compulsory to Denounce](https://open.spotify.com/track/33L7Kq9taaw0bJepKbSaaF) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Compulsory to Denounce](https://open.spotify.com/album/5tObD3qcKd2sPRamA1MlwV) | 3:40 | 2020-07-12 |  |
 | [Contact](https://open.spotify.com/track/6LJajfVgTG4q9HrL6BHTWd) | [Noah B](https://open.spotify.com/artist/4F4w1Gkfja6wPJzuMKCLmk) | [Night's Edge](https://open.spotify.com/album/3iBo6Zw5NbDfTDzddQ4OKb) | 4:01 | 2018-11-28 |  |
+| [CONTINUUM](https://open.spotify.com/track/3whVFArKDX3XasJudGcZBy) | [ENXK](https://open.spotify.com/artist/0Iio0ktGrreO3fIaD9K8tL) | [CONTINUUM](https://open.spotify.com/album/3rEggCiu6F22p39ueuIrvM) | 3:38 | 2024-07-01 |  |
 | [Contracts](https://open.spotify.com/track/5cJbTzX6S4t1Zw49qBVLGd) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Contracts](https://open.spotify.com/album/08hratSaDsTw0vv1Cci0Di) | 3:24 | 2023-02-22 |  |
 | [Control](https://open.spotify.com/track/4uFOh9hHQVCWLAZ0Wtah78) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx) | [Fall](https://open.spotify.com/album/2cbjAJshqrtMfOfR7gSOif) | 4:19 | 2018-11-27 |  |
 | [Conversations](https://open.spotify.com/track/4PbxmzJBReVURVxYqManMp) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [No Words \(Instrumentals Pt\. 1\)](https://open.spotify.com/album/2GpCp4A6EBmKggyE396aY3) | 3:57 | 2024-06-21 |  |

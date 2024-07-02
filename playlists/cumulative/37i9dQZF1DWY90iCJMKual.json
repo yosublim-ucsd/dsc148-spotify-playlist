@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 223000,
       "name": "Drunk Instead",
       "url": "https://open.spotify.com/track/1gdps8vCFs6MOk0pJTlf9j"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 260000,
       "name": "FLYYY",
       "url": "https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl"
@@ -1594,6 +1594,24 @@
       "duration_ms": 190509,
       "name": "Hey, Fave!",
       "url": "https://open.spotify.com/track/1jmrd7hdHC5cxEYMpeFO43"
+    },
+    {
+      "album": {
+        "name": "Highschool",
+        "url": "https://open.spotify.com/album/3iicfDQLWCyTSXpQoLYXmz"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Highschool",
+      "url": "https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88"
     },
     {
       "album": {
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 192396,
       "name": "Like I Would",
       "url": "https://open.spotify.com/track/55Nj8pbl4elsm6YOUnJ2fE"
@@ -3052,6 +3070,24 @@
       "duration_ms": 192603,
       "name": "my bad",
       "url": "https://open.spotify.com/track/3pNF853kMhVlJvlnDu2ImB"
+    },
+    {
+      "album": {
+        "name": "My Boo",
+        "url": "https://open.spotify.com/album/1WXRuW3UuCSp66ckCoZJFB"
+      },
+      "artists": [
+        {
+          "name": "Jr Crown",
+          "url": "https://open.spotify.com/artist/3r0NbTTxtCBUyxcIR4prXr"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184451,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/1TbkeE5t46kxqRXzGpQ60t"
     },
     {
       "album": {
@@ -4264,6 +4300,24 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "album": {
+        "name": "Sinungaling",
+        "url": "https://open.spotify.com/album/4hx8NuNU0uHFxWxI2MziaM"
+      },
+      "artists": [
+        {
+          "name": "Matthaios",
+          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Sinungaling",
+      "url": "https://open.spotify.com/track/7EchZq7Pg2h9e8IhFM6kPu"
     },
     {
       "album": {

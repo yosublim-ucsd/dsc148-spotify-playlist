@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=T0cHfvZ5QvqWrhWjVYfxBg>Mikhalé Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,203 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,232 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

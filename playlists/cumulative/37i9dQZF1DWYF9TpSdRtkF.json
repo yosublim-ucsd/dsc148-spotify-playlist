@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 313306,
       "name": "Brand New Theater! - Brand New Year Ver.",
       "url": "https://open.spotify.com/track/24mXkppgNPCTjaYbCL4NFz"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 271200,
       "name": "Glow Map",
       "url": "https://open.spotify.com/track/79OU4I5FkeGb9yKmlD23bn"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "LOVE is GAME",
       "url": "https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ"
@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 242440,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/0eSnPMln0L2taBufLZhbuA"
@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 290320,
       "name": "\u30b8\u30ec\u308b\u30cf\u30fc\u30c8\u306b\u706b\u3092\u3064\u3051\u3066",
       "url": "https://open.spotify.com/track/2WmhxxA2cnZdz74KGF1RBk"
@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "\u30e9\u30d3\u30c3\u30c8\u30d5\u30a1\u30fc",
       "url": "https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi"
@@ -5484,7 +5484,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 301573,
       "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
       "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 234946,
       "name": "\u4fe0\u6c17\u4e71\u821e",
       "url": "https://open.spotify.com/track/0ErE3PUHS4SUL9MvSqRqe1"
@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 231133,
       "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
       "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
@@ -6282,6 +6282,24 @@
       "duration_ms": 287293,
       "name": "\u77b3\u306e\u4e2d\u306e\u30b7\u30ea\u30a6\u30b9",
       "url": "https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 08",
+        "url": "https://open.spotify.com/album/04LqpjfZj0C6Rhhoh6SHxA"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289213,
+      "name": "\u7a7a\u306b\u624b\u304c\u89e6\u308c\u308b\u5834\u6240",
+      "url": "https://open.spotify.com/track/2tCyPUyugrIjVn8oI9qaoR"
     },
     {
       "album": {

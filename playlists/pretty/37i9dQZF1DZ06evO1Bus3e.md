@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 ### [This Is Arsenal Efectivo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Bus3e)
 
-> This is Arsenal Efectivo\. The essential tracks, all in one playlist.
+> This is Arsenal Efectivo。アーティストの代表曲をひとつのプレイリストに。
 
 [Spotify](https://open.spotify.com/user/spotify) - 11,975 likes - 22 songs - 1 hr 4 min
 
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 21 | [Calorsitos Del Desierto](https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:29 |
 | 22 | [L.A\. Dank](https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:32 |
 
-Snapshot ID: `Zn9OgAAAAABWyRA5FCDqJRnFV70wcURs`
+Snapshot ID: `ZoCgAAAAAADrFJ3roONmXgCphKpOI+kk`

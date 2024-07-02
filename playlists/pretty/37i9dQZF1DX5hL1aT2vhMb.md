@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,875 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,895 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 21 | [Nuit d'automne](https://open.spotify.com/track/2TDIyCdkHzakr9lUunBxkf) | [Wanda Landowska](https://open.spotify.com/artist/1L4ntGcjd7D13AJnaeANHU), [David Kadouch](https://open.spotify.com/artist/6pkRjdkwMEEJTILeBF45OC) | [Wanda Landowska: Nuit d'automne](https://open.spotify.com/album/3JCFwkurG2mataym70QKyN) | 4:29 |
 | 22 | [The Calm Before](https://open.spotify.com/track/0CWc90Rn2hOFZPJKTFFh7z) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [The Calm Before](https://open.spotify.com/album/28N1ZccZ8kDN0BfNbhA59i) | 6:09 |
 | 23 | [The Sound of Trees: Apaisé, boisé](https://open.spotify.com/track/12SMdBqkKEN1suZm6twiR5) | [Camille Pépin](https://open.spotify.com/artist/10A8WbBJ0zW8MnvTsUL6os), [Orchestre De Picardie](https://open.spotify.com/artist/1qEKqMdcYyvTbSVftkkyGe), [Arie Van Beek](https://open.spotify.com/artist/6eBL19o6AgZ18IwmNoUJQs), [Julien Hervé](https://open.spotify.com/artist/6jPWZ9tLOFCD0IOx8bo3Xn), [Yan Levionnois](https://open.spotify.com/artist/5tvtoZxDofOOSfBZ4HYD4O) | [The Sound of Trees](https://open.spotify.com/album/26mAuDYOGoIGQ8HAUQk40M) | 3:27 |
-| 24 | [Ancient Suite](https://open.spotify.com/track/3XwJjvwpwLc8Epy4jhNlty) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Roots](https://open.spotify.com/album/2XqomEod8q8RhsSF3kll3P) | 3:30 |
+| 24 | [Ancient Suite](https://open.spotify.com/track/3XwJjvwpwLc8Epy4jhNlty) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Adolf Fredriks Flickkör](https://open.spotify.com/artist/7AtQFHvLsVPNUuvi10QnjT) | [Roots](https://open.spotify.com/album/2XqomEod8q8RhsSF3kll3P) | 3:30 |
 | 25 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 |
 | 26 | [Cello Sonata, Op\. 46: II\. Andante Sostenuto \(Arr\. for Violin and String Ensemble by Ellie Consta\)](https://open.spotify.com/track/5kZrrNIfz9lfDdTVivyFzp) | [Louise Farrenc](https://open.spotify.com/artist/3cCP79U05k4MrNSU06eBy2), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Cello Sonata, Op\. 46: II\. Andante Sostenuto \(Arr\. for Violin and String Ensemble by Ellie Consta\)](https://open.spotify.com/album/6ssxox9onGUTt5WtmMPkkD) | 3:46 |
 | 27 | [Billow Gently](https://open.spotify.com/track/0y35QjZtAK3bGxwsiKmssf) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 3:15 |

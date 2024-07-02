@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Stemlines on cover. Artwork by Thami Nabil",
-  "num_followers": 164775,
+  "num_followers": 164845,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -521,38 +521,6 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Bearded Fireworm",
-        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "065 (Scorpio)",
@@ -571,6 +539,38 @@
       "duration_ms": 481160,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Bearded Fireworm",
+        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
-    },
-    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "A time to love, a time to die",
@@ -831,6 +815,22 @@
       "duration_ms": 312770,
       "name": "LA",
       "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "Un Sasso Nero",
-        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
-      },
-      "artists": [
-        {
-          "name": "Porta D'Oro",
-          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
-        }
-      ],
-      "duration_ms": 341875,
-      "name": "Un Sasso Nero",
-      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
-    },
-    {
       "added_at": "2024-04-24 04:00:00",
       "album": {
         "name": "Bizou",
@@ -979,6 +963,22 @@
       "duration_ms": 184745,
       "name": "Fleur en poly\u00e9thyl\u00e8ne",
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "Un Sasso Nero",
+        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
+      },
+      "artists": [
+        {
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+        }
+      ],
+      "duration_ms": 341875,
+      "name": "Un Sasso Nero",
+      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "\u305d\u306e\u524d\u591c",
-        "url": "https://open.spotify.com/album/0Hli1pRq11bDnu31ujJRmm"
+        "name": "Us, In Between The Blinded",
+        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
       },
       "artists": [
         {
-          "name": "The Wisely Brothers",
-          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
+          "name": "Unblinded Society",
+          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
         }
       ],
-      "duration_ms": 136905,
-      "name": "clarinette de nuit",
-      "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
+      "duration_ms": 157646,
+      "name": "Virtual Forrest",
+      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1061,20 +1061,20 @@
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Us, In Between The Blinded",
-        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
+        "name": "\u305d\u306e\u524d\u591c",
+        "url": "https://open.spotify.com/album/0Hli1pRq11bDnu31ujJRmm"
       },
       "artists": [
         {
-          "name": "Unblinded Society",
-          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
+          "name": "The Wisely Brothers",
+          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
         }
       ],
-      "duration_ms": 157646,
-      "name": "Virtual Forrest",
-      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
+      "duration_ms": 136905,
+      "name": "clarinette de nuit",
+      "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -1609,24 +1609,20 @@
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "Sincerely Yours",
-        "url": "https://open.spotify.com/album/7mUWCFlr6u818MjQpx8qKh"
+        "name": "Forgotten Flower",
+        "url": "https://open.spotify.com/album/7j9Cx2dJNKoAPVVU1LPye4"
       },
       "artists": [
         {
-          "name": "s7n",
-          "url": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
-        },
-        {
-          "name": "TUNA DISPLAY",
-          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
+          "name": "Henryne Girls",
+          "url": "https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R"
         }
       ],
-      "duration_ms": 198490,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
+      "duration_ms": 136317,
+      "name": "Forgotten Flower",
+      "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1649,20 +1645,24 @@
       "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Forgotten Flower",
-        "url": "https://open.spotify.com/album/7j9Cx2dJNKoAPVVU1LPye4"
+        "name": "Sincerely Yours",
+        "url": "https://open.spotify.com/album/7mUWCFlr6u818MjQpx8qKh"
       },
       "artists": [
         {
-          "name": "Henryne Girls",
-          "url": "https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R"
+          "name": "s7n",
+          "url": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
+        },
+        {
+          "name": "TUNA DISPLAY",
+          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
         }
       ],
-      "duration_ms": 136317,
-      "name": "Forgotten Flower",
-      "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
+      "duration_ms": 198490,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
     },
     {
       "added_at": "2024-03-06 06:00:00",

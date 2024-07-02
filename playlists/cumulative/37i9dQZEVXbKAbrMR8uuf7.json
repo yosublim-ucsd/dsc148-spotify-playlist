@@ -4462,7 +4462,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 160113,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/2tFcqyXXBUdtPIrGk19juw"
@@ -6208,7 +6208,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "DEMASIADO FLOW",
       "url": "https://open.spotify.com/track/7toThDUb8eVV4tgqSYWw0x"
@@ -6430,7 +6430,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -13696,7 +13696,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "La Pampara",
       "url": "https://open.spotify.com/track/5CMYuOwdkbwCGz9QY1nII6"
@@ -14008,7 +14008,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "LA VIDA BUENA",
       "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
@@ -14386,6 +14386,24 @@
       "duration_ms": 208934,
       "name": "LEJOS DEL CIELO",
       "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
+    },
+    {
+      "album": {
+        "name": "Lengueteo",
+        "url": "https://open.spotify.com/album/2PDYj8sXdhaggKFRVmaMty"
+      },
+      "artists": [
+        {
+          "name": "King Fara",
+          "url": "https://open.spotify.com/artist/1mVTlJBeGNJcdEZK9QOBUC"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95153,
+      "name": "Lengueteo",
+      "url": "https://open.spotify.com/track/1V90SGl7TILjTczVpI0sPp"
     },
     {
       "album": {
@@ -17551,6 +17569,28 @@
     },
     {
       "album": {
+        "name": "Millonario",
+        "url": "https://open.spotify.com/album/279AWCbdChEdoXnNvxOEkG"
+      },
+      "artists": [
+        {
+          "name": "Unik0",
+          "url": "https://open.spotify.com/artist/61QLOHMl58jhCqIBw6s82c"
+        },
+        {
+          "name": "Mozbeeth",
+          "url": "https://open.spotify.com/artist/6TZOCncvkxgkNrcLwIuUYD"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121025,
+      "name": "Millonario",
+      "url": "https://open.spotify.com/track/0Dd5ZquKi6G7y12Dh4mZrJ"
+    },
+    {
+      "album": {
         "name": "Milo J: Bzrp Music Sessions, Vol. 57",
         "url": "https://open.spotify.com/album/5NwbUP5QkkMndzwJp9kkxr"
       },
@@ -17734,7 +17774,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -19428,7 +19468,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -22818,7 +22858,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 222727,
       "name": "Razones",
       "url": "https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ"
@@ -29250,7 +29290,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"
@@ -30270,7 +30310,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 143225,
       "name": "WOA",
       "url": "https://open.spotify.com/track/77BeE5CasHQzrVxKXKVTR7"
@@ -30372,7 +30412,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

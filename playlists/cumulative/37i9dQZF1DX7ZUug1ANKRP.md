@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Timmy Trumpet, Naeleck, POLTERGST
+> The biggest Dance hits and the ones to come\. Cover: Phil The Beat
 
 597 songs - 1 day 3 hr 25 min
 

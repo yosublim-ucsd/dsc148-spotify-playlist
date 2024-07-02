@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-536 songs - 22 hr 10 min
+537 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [LUSTER](https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj) | [SAIRU](https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw) | [LUSTER](https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR) | 4:37 | 2024-04-12 |  |
 | [Mad Skillz](https://open.spotify.com/track/6TjxqtYXNC0TIhq03rDJ9n) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Mad Skillz](https://open.spotify.com/album/73XpuHdsSUhYWIfmqugGVj) | 2:31 | 2020-08-30 | 2022-07-28 |
 | [Magic Hoodie](https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Dazzle](https://open.spotify.com/album/3lJ3wJoBUclrt7c1QNHAwv) | 1:58 | 2019-05-26\* | 2020-01-14 |
+| [mahogany](https://open.spotify.com/track/5kfT4wqQPUX94Ske9tAg6k) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [deep forest](https://open.spotify.com/album/3U6IW47ndf3rwqLW7ZMd5B) | 2:18 | 2024-06-28 |  |
 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 | 2020-08-30 |  |
 | [Mantra](https://open.spotify.com/track/0YujDBL42417VRfnHi2rdo) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Mantra](https://open.spotify.com/album/4NxHtseeKcZCw2EK6rPFTl) | 2:20 | 2020-06-29 | 2021-10-16 |
 | [maybe](https://open.spotify.com/track/36FIbREZjR8soQrelZeT0E) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Daylight](https://open.spotify.com/album/2R3VQAbHUCATRzBIgEN2nL) | 3:59 | 2020-01-14 | 2020-10-21 |
@@ -428,7 +429,7 @@
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 |  |
 | [Smooth Stones](https://open.spotify.com/track/0b4WYHrVYbIMKLyDHLua03) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Smooth Stones](https://open.spotify.com/album/1PYZ4y5W26UQxe74eUdCgJ) | 1:56 | 2019-05-26\* | 2021-05-28 |
 | [Snow Cap](https://open.spotify.com/track/4URLqvRCn4FOt367artiRa) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lo Tide](https://open.spotify.com/album/6sbEmWEhSE3YziLBPwa2hh) | 2:20 | 2019-05-26\* | 2022-04-20 |
-| [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-16 |  |
+| [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-16 | 2024-07-02 |
 | [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 | 2022-11-17 | 2024-04-11 |
 | [So They Say](https://open.spotify.com/track/1DniIBl2EA2OtOrrW8CJJe) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/0rMhANpygU5WO7RYo2xq54) | 2:18 | 2022-07-28 | 2022-11-20 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2022-07-29 |

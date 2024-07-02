@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-565 songs - 1 day 4 hr 55 min
+568 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Knowing Myself](https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Knowing Myself](https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB) | 2:22 | 2023-08-10 |  |
 | [La Luna](https://open.spotify.com/track/6pmKMTiOh1xMF0ngYvurAI) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [La Luna](https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext) | 2:26 | 2023-06-22 |  |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
+| [Lars](https://open.spotify.com/track/7MYDpvoJIRfIhqibITZytN) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Lars](https://open.spotify.com/album/3iLA94IhIKONzR0PfNP8Fo) | 2:38 | 2024-07-01 |  |
 | [Last Autumn](https://open.spotify.com/track/2BTP3xdGQ2WtZevZAGvvPV) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Last Autumn](https://open.spotify.com/album/3boHmHCziMNORiNfKvb6iD) | 2:49 | 2023-11-17 |  |
 | [Last Rounds](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 | 2021-12-07 | 2024-06-28 |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
@@ -334,7 +335,7 @@
 | [My Buddy](https://open.spotify.com/track/7ghPHs5mGyk84qHcCaTPvR) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [My Buddy](https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm) | 3:08 | 2022-08-09 |  |
 | [My Confidant](https://open.spotify.com/track/1Dpp6Mfle3B7LOYMu2oFD9) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [My Confidant](https://open.spotify.com/album/5j4kWDbtE1ImHbXjKViBPH) | 3:00 | 2023-08-10 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-01-05 | 2024-02-23 |
-| [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2022-08-09 |  |
+| [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2022-08-09 | 2024-07-02 |
 | [My Foolish Heart](https://open.spotify.com/track/1tNqV5MzAOOkuFT2VkmYVo) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 4:49 | 2021-12-07 | 2022-04-02 |
 | [My Foolishness](https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [My Foolishness](https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ) | 2:46 | 2023-10-27 |  |
 | [My Funny Valentine](https://open.spotify.com/track/16ux8DXCSRapY8mxHavplM) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [My Funny Valentine](https://open.spotify.com/album/0N33fi2a8iGqcs5WWbnIdC) | 2:50 | 2022-08-29 |  |
@@ -369,6 +370,7 @@
 | [On a Slow Boat to China](https://open.spotify.com/track/5n9PdWYQcdMVS7XpySQuFx) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [On a Slow Boat to China](https://open.spotify.com/album/5FUtwTa3a5E42ciM1e8Tcw) | 3:22 | 2023-06-01 | 2024-05-24 |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 |  |
 | [Once In A Serenade](https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Once In A Serenade](https://open.spotify.com/album/21tgArGIfB91eKUkndpfJG) | 2:57 | 2023-10-27 |  |
+| [One Last Time](https://open.spotify.com/track/6jGLXKyJvMW6mQ8oIBINtN) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [One Last Time](https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y) | 3:06 | 2024-07-01 |  |
 | [Only Trust Your Heart](https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Only Trust Your Heart](https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta) | 2:22 | 2024-02-23 |  |
 | [Orion](https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Orion](https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI) | 2:04 | 2024-06-27 |  |
 | [Our Time](https://open.spotify.com/track/41AJ4gZHoL7JOpgUPXl4vr) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Our Time](https://open.spotify.com/album/4uX4neguBj1gfq3xum5kSs) | 2:16 | 2024-04-23 |  |
@@ -534,6 +536,7 @@
 | [Two Sleepy People](https://open.spotify.com/track/7udQZdxalcTkCugZmyRCxr) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Two Sleepy People](https://open.spotify.com/album/3REMUdSTgxqfTquLsbt8km) | 2:52 | 2023-08-24 |  |
 | [Uncovered](https://open.spotify.com/track/5Z3PHF1ZTunKCQR47AwSMd) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Uncovered](https://open.spotify.com/album/5gX3IA4EQOELEVnpOa4YYH) | 2:29 | 2023-04-20 |  |
 | [Unforgettable](https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Unforgettable](https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X) | 1:57 | 2022-08-09 | 2023-08-19 |
+| [Vancouver](https://open.spotify.com/track/3rZ0Si8Hadvn7cpV5UJTuG) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Vancouver](https://open.spotify.com/album/2pCswMzxRFRMbfmrr7ApDw) | 2:46 | 2024-07-01 |  |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-07 | 2022-07-29 |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-28 | 2022-12-02 |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-01-18 |  |
@@ -555,7 +558,7 @@
 | [When We Meet Again](https://open.spotify.com/track/71vWUMeyrgikHr6MwkUpCv) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [When We Meet Again](https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm) | 2:47 | 2021-12-07 |  |
 | [When You Come Over](https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [When You Come Over](https://open.spotify.com/album/2gos7UfVuuzx5mF0QIVy1s) | 3:00 | 2024-03-08 |  |
 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 | 2021-12-07 |  |
-| [Who Could Have Known](https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:50 | 2023-03-16 |  |
+| [Who Could Have Known](https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:50 | 2023-03-16 | 2024-07-02 |
 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 | 2021-12-07 |  |
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-09 | 2023-06-23 |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |

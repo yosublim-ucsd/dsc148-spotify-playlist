@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: GUPE
 
-633 songs - 1 day 7 hr 23 min
+634 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [roda de bamba](https://open.spotify.com/track/3p1sKst6UehseITknM5z1b) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:42 | 2022-11-11 | 2022-11-26 |
 | [Romântica Demais](https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Romântica Demais](https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE) | 3:00 | 2023-05-05 | 2023-06-10 |
-| [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-08 |  |
+| [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-08 | 2024-07-02 |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-11-18 |
 | [Sacada](https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sacada](https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7) | 2:41 | 2023-11-10 | 2023-12-16 |
 | [Samba Azul](https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Samba Azul](https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo) | 3:02 | 2023-10-13 |  |
@@ -485,6 +485,7 @@
 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 | 2022-12-23 | 2023-07-08 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 | 2023-03-25 |
 | [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 | 2022-11-04 | 2023-08-19 |
+| [Saudade Sussurrou](https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Saudade Sussurrou](https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD) | 2:55 | 2024-07-01 |  |
 | [Se Bastasse Amor](https://open.spotify.com/track/3K4gyEycEmKCtFowP0QfAq) | [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU), [Ort1](https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1) | [Se Bastasse Amor](https://open.spotify.com/album/1aUb1yTxUpdGWZSti1olv9) | 2:41 | 2023-02-25 | 2023-03-25 |
 | [Se eu não te amasse tanto assim](https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Se eu não te amasse tanto assim](https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH) | 2:17 | 2023-07-21 | 2023-11-11 |
 | [SE EU TE PEDIR PRA FICAR?](https://open.spotify.com/track/1gw8hh1Pm2uVpqKnbunRcq) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [SE EU TE PEDIR PRA FICAR?](https://open.spotify.com/album/497SksWA65f4SLZCD0s5Te) | 3:45 | 2023-04-14 | 2023-05-13 |

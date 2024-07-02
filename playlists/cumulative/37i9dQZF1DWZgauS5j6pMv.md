@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-437 songs - 1 day 1 hr 44 min
+438 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [High Class](https://open.spotify.com/track/3BM6HmfZVhw2HZ3UxkSHNy) | [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2), [Slynk](https://open.spotify.com/artist/4V7ap2HEMGNvgwdmOv4dth) | [High Class](https://open.spotify.com/album/3hxQU0FS1oa42dkaUX7fYj) | 3:22 | 2023-03-31 | 2024-02-17 |
 | [Higher \(Escalators\)](https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Higher \(Escalators\)](https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE) | 2:19 | 2023-07-28 |  |
 | [Highly Compatible](https://open.spotify.com/track/3FMZsyg0weeAzesHLC0sdU) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Highly Compatible](https://open.spotify.com/album/2JD2i0URkUYRzaO1zMVKAK) | 6:05 | 2020-11-20 | 2022-04-09 |
+| [Hip Replacement](https://open.spotify.com/track/0xbRBmn4poZWxCdnbfvmCq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 4:13 | 2024-07-01 |  |
 | [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm) | 3:56 | 2021-10-15 | 2022-07-23 |
 | [Hit Man](https://open.spotify.com/track/72w7lsGmb61HaFkXahpwGo) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ) | [Hit Man](https://open.spotify.com/album/1gfzAzi7KZOpVd5RVmW65M) | 4:00 | 2024-05-17 |  |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 | 2024-05-18 |
@@ -419,7 +420,7 @@
 | [What Can We Do? \(feat\. Nate Dogg\)](https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 2:56 | 2020-11-20 | 2022-01-29 |
 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 | 2022-04-01 | 2022-07-02 |
 | [What's the Move](https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [What's the Move](https://open.spotify.com/album/431U10Fvg2NtgECribydtZ) | 3:07 | 2023-09-22 | 2024-06-08 |
-| [Whatcha Want](https://open.spotify.com/track/1AE9p52IdrZiLgBcWMU9x8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 3:00 | 2024-06-21 |  |
+| [Whatcha Want](https://open.spotify.com/track/1AE9p52IdrZiLgBcWMU9x8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 3:00 | 2024-06-21 | 2024-07-02 |
 | [When You Call Me](https://open.spotify.com/track/32Ub8BdYSOCwiW0JitWEMA) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [When You Call Me](https://open.spotify.com/album/6to8WSGNLBK7zZYEUOfTqm) | 4:55 | 2022-04-08 | 2022-09-24 |
 | [When You Call Me](https://open.spotify.com/track/7bemHdceJfoCOeoF3lRGup) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [When You Call Me](https://open.spotify.com/album/24MRi6AuljdWhxVfPCyJGB) | 4:55 | 2022-04-08 | 2022-07-29 |
 | [Where's My Money?](https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [JAMS](https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY) | 2:44 | 2021-11-05 | 2023-01-06 |

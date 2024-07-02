@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,575 likes - 82 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,751 likes - 82 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 63 | [The Kiss](https://open.spotify.com/track/5umoZmJLW98rlImZulfLp5) | [Trevor Jones](https://open.spotify.com/artist/5928hF4c1MriHfAgpFf8ya) | [Last of the Mohicans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3msCAE2EZOM94uyivazQN8) | 2:49 |
 | 64 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
 | 65 | [The Magnificent Seven](https://open.spotify.com/track/0lEtONdoCJJwUfmXUS2Zmk) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [The Magnificent Seven \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XyqDuYkkEyTWmjUfUfHpb) | 1:49 |
-| 66 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\) \- Voice](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
+| 66 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\) \- Voice](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [The American Boychoir](https://open.spotify.com/artist/78crIk6w9PtFUot9T0YY7I), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 67 | [The John Dunbar Theme \(From "Dances With Wolves"\)](https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:17 |
 | 68 | [Tennessee](https://open.spotify.com/track/2O0UWIMFeMtFR0LJMuIPjJ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pearl Harbor \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6d0LelwtKFd0F0ZfImWWDz) | 3:39 |
 | 69 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |

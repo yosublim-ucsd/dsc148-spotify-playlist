@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 155386,
+  "num_followers": 155561,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 191022,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
-    },
-    {
-      "added_at": "2024-06-28 10:40:26",
-      "album": {
         "name": "CONTEXT",
         "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 137624,
       "name": "CONTEXT",
       "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-06-28 10:40:26",
+      "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
       "added_at": "2024-06-28 10:40:26",
@@ -1459,6 +1459,30 @@
     {
       "added_at": "2024-06-28 10:40:26",
       "album": {
+        "name": "RAW!",
+        "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Scorpio MC",
+          "url": "https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "RAW!",
+      "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
+    },
+    {
+      "added_at": "2024-06-28 10:40:26",
+      "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
       },
@@ -1527,22 +1551,6 @@
       "duration_ms": 231724,
       "name": "Bigger Than Bad",
       "url": "https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K"
-    },
-    {
-      "added_at": "2024-06-28 10:40:26",
-      "album": {
-        "name": "Relapse EP",
-        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 268285,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
     }
   ],
   "unique_name": "Proper Naughty ",

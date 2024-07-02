@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,486 likes - 226 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,547 likes - 226 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Karol G
 
-493 songs - 1 day 0 hr 35 min
+495 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Cerquita de Ti](https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Cerquita de Ti](https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc) | 3:15 | 2023-05-19 | 2023-06-07 |
 | [Chica Pretty](https://open.spotify.com/track/7Gz1murbRFFspT9zauscvz) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Chica Pretty](https://open.spotify.com/album/5TZgUYZIUDYi6mGFipICr0) | 3:02 | 2023-04-03 | 2023-04-18 |
 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 | 2023-07-10 | 2023-08-02 |
-| [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 | 2024-06-21 |  |
+| [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 | 2024-06-21 | 2024-07-02 |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-05-03 | 2023-09-01 |
 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 | 2023-10-16 |  |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-12 | 2023-09-26 |
@@ -316,7 +316,7 @@
 | [Necesito silencio](https://open.spotify.com/track/1731Kg4nGnLl1Rtwo5q5GF) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Necesito silencio](https://open.spotify.com/album/6Aq2rxyoCmE86tHnMpVroj) | 3:04 | 2023-03-13 | 2023-03-22 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-01 | 2024-02-13 |
 | [Ni la mitad](https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Ni la mitad](https://open.spotify.com/album/3uGM9ztZYoni87Jy8Bq2QZ) | 2:40 | 2023-05-30 | 2023-06-21 |
-| [NO HABERTE CONOCIDO](https://open.spotify.com/track/7KoOiHh77ObAJow6AaOHCu) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [NO HABERTE CONOCIDO](https://open.spotify.com/album/1FeJRIgcUBjfoOxjTKGJaN) | 3:04 | 2024-06-17 |  |
+| [NO HABERTE CONOCIDO](https://open.spotify.com/track/7KoOiHh77ObAJow6AaOHCu) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [NO HABERTE CONOCIDO](https://open.spotify.com/album/1FeJRIgcUBjfoOxjTKGJaN) | 3:04 | 2024-06-17 | 2024-07-02 |
 | [No m'estima +](https://open.spotify.com/track/4s5KyYlznavXf3d7BXdIDj) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7yUbCLtJz5ueBFCOEJLUYN), [Roots](https://open.spotify.com/artist/6NmkG2p4k7Tp1sPLe5KUTf) | [No m'estima +](https://open.spotify.com/album/2YEW4hKqlHUKKWkDqBMXck) | 3:12 | 2023-08-14 | 2023-08-19 |
 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 | 2023-08-14 | 2023-08-25 |
 | [No me dices na](https://open.spotify.com/track/0bpTFh7XfJ8GaDJQ5rDP24) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [No me dices na](https://open.spotify.com/album/7fpbh56VMf9CRYIu4LUIil) | 2:45 | 2024-03-04 | 2024-03-19 |
@@ -332,9 +332,11 @@
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-03-13 | 2023-04-26 |
 | [Nunca Volverás](https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nunca Volverás](https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9) | 2:51 | 2023-09-21 | 2023-10-24 |
 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 | 2023-09-21 | 2023-10-17 |
+| [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-01 |  |
 | [Ojalá](https://open.spotify.com/track/0ynhih5BLvyPnoE3wrsxpp) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Ojalá](https://open.spotify.com/album/6MLKbOL2UhpTMFl3uUQnwT) | 2:58 | 2024-06-28 |  |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-25 | 2024-05-07 |
 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 | 2023-06-12 | 2024-02-13 |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-07-01 |  |
 | [Otra vez](https://open.spotify.com/track/2CxOABw2Ji81eLASxMbu0Y) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Otra Vez](https://open.spotify.com/album/0Ty8c2O11nvyGxSpoa8cFk) | 3:18 | 2024-01-25 | 2024-02-13 |
 | [Oye Baby](https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Oye Baby](https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d) | 2:15 | 2023-08-21 | 2023-09-01 |
 | [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 | 2023-05-19 | 2023-06-07 |

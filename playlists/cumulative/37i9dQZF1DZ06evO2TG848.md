@@ -2,7 +2,7 @@
 
 ### [This Is Gustavo Santaolalla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TG848)
 
-> This Is Gustavo Santaolalla\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
 82 songs - 3 hr 21 min
 
@@ -18,7 +18,7 @@
 | [Apertura](https://open.spotify.com/track/2pUfIeF044S7DQNdaOEAoR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:48 | 2023-08-31 | 2024-03-01 |
 | [Beyond Desolation](https://open.spotify.com/track/7FJl0uqxLDfH9bhQ1Gte0x) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:24 | 2024-04-14 |  |
 | [Bravery](https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:26 | 2023-08-31 |  |
-| [Brokeback Mountain 1](https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 2:32 | 2023-08-31 | 2024-07-01 |
+| [Brokeback Mountain 1](https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 2:32 | 2023-08-31 |  |
 | [Brokeback Mountain 2](https://open.spotify.com/track/56zGM574ZkZqiU4E2IVjJ3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:59 | 2024-02-10 | 2024-02-26 |
 | [Calmamente](https://open.spotify.com/track/0plusgVzCSjJIN69OVi99w) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 1:29 | 2023-12-13 |  |
 | [Can Things Be Better?](https://open.spotify.com/track/4picv6NPkhMDEBNTk8uenV) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [21 Grams \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VjqWzO8AsxgpOhjnbzJTr) | 1:19 | 2024-01-11 | 2024-04-21 |
@@ -88,7 +88,7 @@
 | [Unbroken](https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 4:38 | 2023-08-31 |  |
 | [Vanishing Grace](https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:06 | 2023-08-31 |  |
 | [Yarará](https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:50 | 2023-12-13 |  |
-| [Zenda \- 2024 Remaster](https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:23 | 2024-06-21 |  |
+| [Zenda \- 2024 Remaster](https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:23 | 2024-06-21 | 2024-07-02 |
 | [¿Qué Ves?](https://open.spotify.com/track/2yJMtBIyGkFmzvYj9vW4lf) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [Divididos en Vélez \- Agradecer y Seguir](https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy) | 9:31 | 2024-01-28 | 2024-02-14 |
 
 \*This playlist was first scraped on 2023-09-01. Prior content cannot be recovered.

@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "I Got You Babe (Acoustic)",
+        "url": "https://open.spotify.com/album/351g52REOmegsGgbgTGBM5"
+      },
+      "artists": [
+        {
+          "name": "Sands of Summer",
+          "url": "https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz"
+        },
+        {
+          "name": "Cloudsmiff",
+          "url": "https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166741,
+      "name": "I Got You Babe - Acoustic",
+      "url": "https://open.spotify.com/track/1upeWsF2tpALKVtHrbWNXt"
+    },
+    {
+      "album": {
         "name": "I Knew You Were Waiting (For Me) [Acoustic]",
         "url": "https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn"
       },

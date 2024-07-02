@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-236 songs - 14 hr 12 min
+237 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,11 +175,12 @@
 | [Rage](https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rage](https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35) | 2:38 | 2024-02-23 | 2024-03-02 |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-19 |  |
 | [Ravers' Rules \- K\-Traxx Remix](https://open.spotify.com/track/62mnm7wEbz3os0bjVxNHdE) | [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C) | [Ravers' Rules](https://open.spotify.com/album/0CUWceBDz851YDIxzFapQt) | 6:22 | 2023-12-27 | 2024-01-12 |
+| [RAW!](https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Scorpio MC](https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1) | [RAW!](https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj) | 3:07 | 2024-06-28 |  |
 | [Ready](https://open.spotify.com/track/1iDIuvbeA0DHGP7wgO7j2s) | [Calvin Logue](https://open.spotify.com/artist/6yMiYiZl198h7j4cZrp5lr) | [Ready](https://open.spotify.com/album/4vZsxEAO0ThwoC87IToFEg) | 2:31 | 2023-12-27 | 2024-01-12 |
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2023-01-25 |  |
 | [Ready, Steady, Go!](https://open.spotify.com/track/1PjHS1uSWheegGGvNkT0uE) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Ready, Steady, Go!](https://open.spotify.com/album/2lE9VpPcva2HQA4QjlJkmt) | 3:08 | 2023-12-27 | 2024-01-12 |
 | [Reflect \- 2021 Remaster](https://open.spotify.com/track/134s8xyISmWPCaOvkDj2QS) | [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Reflect \(Remixes\)](https://open.spotify.com/album/5ubHtMK0HaGJxYp9SSqlBP) | 3:38 | 2023-12-27 | 2024-01-12 |
-| [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 | 2023-12-01 |  |
+| [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 | 2023-12-01 | 2024-07-02 |
 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 | 2023-11-17 |  |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-09-30 | 2023-05-20 |
 | [Remedies \- Vibe Chemistry Remix](https://open.spotify.com/track/3yQ516QezlWKO2jbWNgZrA) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Remedies \(Vibe Chemistry Remix\)](https://open.spotify.com/album/1WbjxqUd6FddMU9cKJQReX) | 3:31 | 2023-03-14 | 2023-05-23 |

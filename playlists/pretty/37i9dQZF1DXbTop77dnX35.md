@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna boy, Olamide, Amaarae, Roddy Rich and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,665 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,794 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 35 | [Wellsfargo 2.0](https://open.spotify.com/track/7168fgWPrIZ3yCTrxiTIqp) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Wellsfargo 2.0](https://open.spotify.com/album/6N6zHlB3SzI7qVifLqMsxg) | 1:54 |
 | 36 | [Focus](https://open.spotify.com/track/5PrV2pNuK9THNbBbtqqwe0) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Focus](https://open.spotify.com/album/0oF4i9ok4kEImD5dEdoCYO) | 2:34 |
 | 37 | [SHOW WORKINGS \(feat\. Magnito, DanDizzy, Oladips & Kabex\)](https://open.spotify.com/track/6nPT4WMAquPU1SSCIeAhqq) | [BIG VYBZ](https://open.spotify.com/artist/43mhT86yUu3iSmTWL4TYAS), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Magnito](https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU) | [SHOW WORKINGS \(feat\. Magnito, DanDizzy, Oladips & Kabex\)](https://open.spotify.com/album/2ukShFKYrJOb91a6MTOHY1) | 3:24 |
-| 38 | [BOMBING](https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BOMBING](https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g) | 3:09 |
+| 38 | [BOMBING](https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BOMBING](https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g) | 3:13 |
 | 39 | [WET](https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [WET](https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg) | 1:32 |
 | 40 | [Evil World](https://open.spotify.com/track/7kKW1vsrNgwvNP1Whm85Fh) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Lift Off, Vol.1](https://open.spotify.com/album/2c64j9Dopk5GbqrK7Lydu5) | 2:50 |
 | 41 | [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:21 |

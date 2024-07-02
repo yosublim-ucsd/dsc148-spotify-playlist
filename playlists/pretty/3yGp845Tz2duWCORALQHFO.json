@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25734,
+  "num_followers": 25731,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgExsPxdVmeOADvZoidDtrzeQwllEX",
+  "snapshot_id": "AABgFe17gzWjJDcmf8zWVDzjyp/IOLyb",
   "tracks": [
     {
       "added_at": "2024-06-28 11:51:17",
@@ -267,6 +267,42 @@
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "added_at": "2024-07-02 00:01:51",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/62nnfII15N10IoPcdqCj3B"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/64XiSf7yj8DpDfNTTsh2qn"
+    },
+    {
+      "added_at": "2024-07-02 00:00:52",
+      "album": {
+        "name": "Fake This Love",
+        "url": "https://open.spotify.com/album/1q7lqoHBV5KVLbQZAOOleT"
+      },
+      "artists": [
+        {
+          "name": "BXNNED",
+          "url": "https://open.spotify.com/artist/1OOAnuIBOoa0sri75C0YI5"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Fake This Love",
+      "url": "https://open.spotify.com/track/7rI0q5H3GvnPl6HLdvuurk"
     },
     {
       "added_at": "2024-06-28 19:04:52",

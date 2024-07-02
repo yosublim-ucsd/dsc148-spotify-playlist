@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 174610,
       "name": "Alarm Clock",
       "url": "https://open.spotify.com/track/2zkiwigwXhvi1YBdiczVhT"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Best Of Me (Part 1)",
+        "url": "https://open.spotify.com/album/3aybkAHGgsXJclDhzl8J55"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156789,
+      "name": "Bad Side",
+      "url": "https://open.spotify.com/track/5sP3cH0Gw02dt9mBT5n9Xz"
+    },
+    {
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k"
       },
@@ -506,6 +524,24 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182419,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/24xBL7ddkkVxbaWmkdYF0w"
     },
     {
       "album": {
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 265755,
       "name": "Geometry",
       "url": "https://open.spotify.com/track/6vR6PqBvhUFM0lFJtfJm79"
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 333280,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
@@ -2720,7 +2756,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 253320,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma"
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
@@ -2944,7 +2980,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 277177,
       "name": "Home for the Weekend",
       "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
@@ -3002,7 +3038,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
@@ -3407,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Just A Bird",
+        "url": "https://open.spotify.com/album/1Kaq6jOADIHCjwlkeulV2n"
+      },
+      "artists": [
+        {
+          "name": "Blind Pilot",
+          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "Just A Bird",
+      "url": "https://open.spotify.com/track/6zP85HijAKg1RvRWcHF1dX"
+    },
+    {
+      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG"
       },
@@ -3548,6 +3602,24 @@
       "duration_ms": 203608,
       "name": "Knockin - Single Version",
       "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
+    },
+    {
+      "album": {
+        "name": "Knockoff Elvis",
+        "url": "https://open.spotify.com/album/0BIsuDyAXmFwhDFX0rWGw7"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174111,
+      "name": "Knockoff Elvis",
+      "url": "https://open.spotify.com/track/24W9i3Wa8ZpST4CTg292qi"
     },
     {
       "album": {
@@ -4070,7 +4142,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
@@ -4113,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138506,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "album": {
         "name": "You Deserve Love",
         "url": "https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR"
       },
@@ -4142,7 +4232,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 220961,
       "name": "Miles And Miles - Single Version",
       "url": "https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr"
@@ -4718,7 +4808,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 208006,
       "name": "Nu-Grape",
       "url": "https://open.spotify.com/track/2lHavDhFoVwqspUakBUCZe"
@@ -4834,6 +4924,24 @@
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
+    },
+    {
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/6WQIQXFnUUDASxfg0WygI9"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1qMujJpda7A5NGWxbR3jeQ"
     },
     {
       "album": {
@@ -5536,7 +5644,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
@@ -5914,7 +6022,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 180046,
       "name": "Someday, Someday",
       "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
@@ -6138,7 +6246,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 185317,
       "name": "Stay Out Of It",
       "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
@@ -6300,7 +6408,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 194475,
       "name": "Strong Swimmer",
       "url": "https://open.spotify.com/track/1B7pQD64u7zqQzhz6iHf1b"
@@ -6444,7 +6552,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 242576,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD"
@@ -7046,7 +7154,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 173074,
       "name": "Tough Season",
       "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
@@ -7367,6 +7475,24 @@
     },
     {
       "album": {
+        "name": "We Were Never Alive",
+        "url": "https://open.spotify.com/album/7aWa7BJ3QPhGbXhYonhW2U"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248463,
+      "name": "We Were Never Alive",
+      "url": "https://open.spotify.com/track/2dwXQaUKEq5CTBbAjW5cYU"
+    },
+    {
+      "album": {
         "name": "We're All Gonna Die",
         "url": "https://open.spotify.com/album/0MqKndfaTwYeXcaBfrLuGp"
       },
@@ -7474,13 +7600,13 @@
       },
       "artists": [
         {
-          "name": "Andy Frasco & the U.N.",
+          "name": "Andy Frasco & The U.N.",
           "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
         }
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 195147,
       "name": "What We Used To Be Is Not Who We Are",
       "url": "https://open.spotify.com/track/7qMJfopcQrfegqylcyCq9V"
@@ -7678,7 +7804,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 231240,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"

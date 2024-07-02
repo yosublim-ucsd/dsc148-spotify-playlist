@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1585285,
+  "num_followers": 1585479,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Put 'Em Up",
+        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
+      },
+      "artists": [
+        {
+          "name": "Edun",
+          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Put `em Up",
+      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "DJ Ricardo! pres. Out Anthems 2",
         "url": "https://open.spotify.com/album/5CahiejF4QqKoAAwjDkxSR"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 271000,
       "name": "Love Don't Let Me Go (Walking Away) - David Guetta & Joachim Garraud's F*** Me I'm Famous Mix",
       "url": "https://open.spotify.com/track/2Wy13KxFZT49M05qcT4EJA"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Put 'Em Up",
-        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
-      },
-      "artists": [
-        {
-          "name": "Edun",
-          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Put `em Up",
-      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
     },
     {
       "added_at": "2023-03-22 14:00:00",

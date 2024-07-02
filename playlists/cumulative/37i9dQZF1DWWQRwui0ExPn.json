@@ -99498,7 +99498,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-02",
       "duration_ms": 156800,
       "name": "Senescence",
       "url": "https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L"
@@ -111708,6 +111708,28 @@
       "duration_ms": 166465,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/6IryhPRuK4F08XkwLFkD1z"
+    },
+    {
+      "album": {
+        "name": "Sunny Bossa",
+        "url": "https://open.spotify.com/album/68oz0MTa8h9kQ3umb1K5GI"
+      },
+      "artists": [
+        {
+          "name": "Jonny Wolf",
+          "url": "https://open.spotify.com/artist/4hej44aTHWnoNziIuwNtwS"
+        },
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Sunny Bossa",
+      "url": "https://open.spotify.com/track/3dsFmdKYpgftTk6M22syBO"
     },
     {
       "album": {

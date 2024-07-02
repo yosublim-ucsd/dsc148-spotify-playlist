@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA\">Ziggy4x</a> ",
-  "num_followers": 1651,
+  "num_followers": 1653,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Evil Is Nogsteeds Maklik",
-        "url": "https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX"
-      },
-      "artists": [
-        {
-          "name": "Hemelbesem",
-          "url": "https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds"
-        },
-        {
-          "name": "Stuwi W",
-          "url": "https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ"
-        }
-      ],
-      "duration_ms": 309003,
-      "name": "Is Dope",
-      "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Violence (Afrikaans Drill)",
         "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 220366,
       "name": "Violence - Afrikaans Drill",
       "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Evil Is Nogsteeds Maklik",
+        "url": "https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX"
+      },
+      "artists": [
+        {
+          "name": "Hemelbesem",
+          "url": "https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds"
+        },
+        {
+          "name": "Stuwi W",
+          "url": "https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ"
+        }
+      ],
+      "duration_ms": 309003,
+      "name": "Is Dope",
+      "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
     },
     {
       "added_at": "2024-04-05 04:23:02",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Sal Alright is",
-        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
-      },
-      "artists": [
-        {
-          "name": "Shameel Afrikaans Music",
-          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
-        },
-        {
-          "name": "BIGDMUZIC",
-          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
-        }
-      ],
-      "duration_ms": 252395,
-      "name": "Sal Alright is",
-      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Hou Vas",
         "url": "https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU"
       },
@@ -779,18 +759,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "OGlizzy",
-        "url": "https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH"
+        "name": "Sal Alright is",
+        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
       },
       "artists": [
         {
-          "name": "Jossi-Boy",
-          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "BIGDMUZIC",
+          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
         }
       ],
-      "duration_ms": 196595,
-      "name": "OGlizzy",
-      "url": "https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS"
+      "duration_ms": 252395,
+      "name": "Sal Alright is",
+      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 121208,
       "name": "Los Hom",
       "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "OGlizzy",
+        "url": "https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH"
+      },
+      "artists": [
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        }
+      ],
+      "duration_ms": 196595,
+      "name": "OGlizzy",
+      "url": "https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -875,22 +875,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Blokfluit",
-        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
+        "name": "Da Money",
+        "url": "https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN"
       },
       "artists": [
         {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
         },
         {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a"
         }
       ],
-      "duration_ms": 192783,
-      "name": "Blokfluit",
-      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
+      "duration_ms": 224000,
+      "name": "Da Money",
+      "url": "https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -915,22 +915,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Da Money",
-        "url": "https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN"
+        "name": "4EvR",
+        "url": "https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN"
       },
       "artists": [
         {
-          "name": "Jossi-Boy",
-          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
-        },
-        {
-          "name": "Cee Jay Zondagh",
-          "url": "https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a"
+          "name": "Hxnry",
+          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Da Money",
-      "url": "https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM"
+      "duration_ms": 88737,
+      "name": "4EvR",
+      "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

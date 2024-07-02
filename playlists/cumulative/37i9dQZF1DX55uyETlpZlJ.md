@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-352 songs - 19 hr 2 min
+353 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Nemmadi](https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl), [Manujjes](https://open.spotify.com/artist/5fjJ0wwxbYv20BeN5IQuFK) | [Nemmadi](https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx) | 2:20 | 2023-12-29 | 2024-06-04 |
 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 | 2023-12-09 |
 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 | 2023-11-02 |
+| [Nettana Mugina Hudugi](https://open.spotify.com/track/7ykUCq7PqPn1PzQbTDYJzh) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Nettana Mugina Hudugi](https://open.spotify.com/album/5qjMYqIsGGT01LQTlJXgpA) | 3:03 | 2024-07-01 |  |
 | [Never](https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz) | [Derrick You Kno Me](https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3), [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Never](https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS) | 3:00 | 2023-04-14 | 2023-06-09 |
 | [Never Ever Follow The Girl](https://open.spotify.com/track/7Idjqfzp8LRN0EbX3HxK2E) | [Style King Kumar](https://open.spotify.com/artist/2cpe8d5uD4KkfPA4mJ7uFY) | [Never Ever Follow The Girl](https://open.spotify.com/album/6T1XrCJFma60INvzYDEubT) | 3:14 | 2023-02-17 | 2023-06-08 |
 | [Never Love Again](https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Shubhangini](https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q) | [Never Love Again](https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6) | 3:41 | 2023-10-25 | 2024-06-26 |

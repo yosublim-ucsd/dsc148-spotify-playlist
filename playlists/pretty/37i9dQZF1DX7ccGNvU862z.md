@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: MILLI , Flower.far , GALCHANIE
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: OG\-ANIC
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,803 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,810 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 |
 | 2 | [กลับกับผมได้ไหม?](https://open.spotify.com/track/1EYYGgYbBd94Ws6mF8etG1) | [Bogey](https://open.spotify.com/artist/3jyyG8EihuppZucFGnyKY8), [Chxid!](https://open.spotify.com/artist/0EqiTQKKBV3wUAy7TS09gL), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [กลับกับผมได้ไหม?](https://open.spotify.com/album/3a8DWQaRcWkkgAz3x1WRn6) | 3:08 |
-| 3 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
-| 4 | [Kiss for luv](https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho) | [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP), [Jungji](https://open.spotify.com/artist/6mAPxjjlPXBT4PCcrfRxJX), [Migbizzy](https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM) | [Kiss for luv](https://open.spotify.com/album/0e7bxXmH5DbN8PzCZJnHkV) | 2:14 |
-| 5 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 |
-| 6 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
-| 7 | [หวังว่าจะดี](https://open.spotify.com/track/4x8v9usS4BBpWZVE080Dc2) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ), [VIPER](https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL) | [หวังว่าจะดี](https://open.spotify.com/album/3zy7LxS0OpFSV8F10LNK0n) | 4:02 |
-| 8 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
-| 9 | [ชอบหนู ?](https://open.spotify.com/track/3J0ygzMxPkCd0lwfqLy13B) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ), [DAIDAI](https://open.spotify.com/artist/715cBIQJdCfEsiAY89jopV) | [ชอบหนู ?](https://open.spotify.com/album/65J1dDVV51tn4TUmm43S3K) | 3:00 |
+| 3 | [แค่เธอที่รู้](https://open.spotify.com/track/3yBAMHPyzKM9e1aimHNVjb) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [แค่เธอที่รู้](https://open.spotify.com/album/6IHMl6HGXW7pYFdztO04u0) | 4:05 |
+| 4 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
+| 5 | [Kiss for luv](https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho) | [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP), [Jungji](https://open.spotify.com/artist/6mAPxjjlPXBT4PCcrfRxJX), [Migbizzy](https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM) | [Kiss for luv](https://open.spotify.com/album/0e7bxXmH5DbN8PzCZJnHkV) | 2:14 |
+| 6 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 |
+| 7 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
+| 8 | [หวังว่าจะดี](https://open.spotify.com/track/4x8v9usS4BBpWZVE080Dc2) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ), [VIPER](https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL) | [หวังว่าจะดี](https://open.spotify.com/album/3zy7LxS0OpFSV8F10LNK0n) | 4:02 |
+| 9 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
 | 10 | [One Day](https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [One Day](https://open.spotify.com/album/3jVjKSg3PSdq1shyMIa9Rz) | 2:15 |
 | 11 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 12 | [Sexy Girl](https://open.spotify.com/track/5YxH99t2aXNAUCF33JKCFv) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Sexy Girl](https://open.spotify.com/album/5R2DbU5WD1GKVQb6es0tNv) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [ฉบับท้ายสุด](https://open.spotify.com/track/6OTlqL40FtkkwBEjiQSiDT) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [ฉบับท้ายสุด](https://open.spotify.com/album/1mBxtzaoEjfBJrKoiDe8xi) | 2:31 |
 | 50 | [เมาจัด](https://open.spotify.com/track/3Olk6l3VTiHcqK4nXUX6sY) | [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5), [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT), [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ), [LOMAX](https://open.spotify.com/artist/3eiNvaC2ld4aGm4Iaqzaos) | [เมาจัด](https://open.spotify.com/album/4vI26mtb0mVxfPrUBBSt9a) | 2:57 |
 
-Snapshot ID: `Zn7rJQAAAADnFRG22YceyyRMkRFfrjwQ`
+Snapshot ID: `ZoLAlAAAAACDptxDTU5Vc2TDDQ9JA1DY`
