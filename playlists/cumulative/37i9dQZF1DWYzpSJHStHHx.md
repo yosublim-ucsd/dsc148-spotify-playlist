@@ -4,7 +4,7 @@
 
 > All new surf rock.
 
-330 songs - 18 hr 35 min
+331 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Poor Relations](https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Poor Relations](https://open.spotify.com/album/52XthHFl0TIgAikopVpv1g) | 4:21 | 2021-02-05 | 2022-07-02 |
 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 | 2023-08-18 |  |
 | [Prefiro Vila Velha](https://open.spotify.com/track/2N3likJH7vvBvJrUVtqycW) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Prefiro Vila Velha](https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq) | 2:27 | 2023-07-13 |  |
+| [Preloved](https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Awake](https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr) | 3:53 | 2024-07-02 |  |
 | [Preoccupied](https://open.spotify.com/track/6N4WUdbz6HVKy6u6JX1KqK) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:59 | 2021-02-05 | 2022-07-09 |
 | [Pretend](https://open.spotify.com/track/71WzoGZcDWzrKZqSkiY3Tz) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Taster](https://open.spotify.com/album/49qODAoetbcHJOggZePV1m) | 2:33 | 2021-02-05 | 2022-06-28 |
 | [Prom Queen](https://open.spotify.com/track/3MtGstTnbaZaVOLcfpuiiE) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/5oCpbhgCKnqNHaUAtVA2Cg) | 2:16 | 2021-02-05 | 2022-04-21 |

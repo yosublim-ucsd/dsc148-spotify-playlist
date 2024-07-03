@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110143,
+  "num_followers": 110155,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+      },
+      "artists": [
+        {
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Kainn \u00c6 F\u00e5 Lov",
-      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Jag \u00e4r taggad",
         "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
@@ -947,22 +931,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Alt du vil ha",
         "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 180826,
       "name": "Alt du vil ha",
       "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+      },
+      "artists": [
+        {
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Kainn \u00c6 F\u00e5 Lov",
+      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Bygdas Rebell",
-        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
+        "name": "Rull\u00e6r",
+        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
       },
       "artists": [
         {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
         }
       ],
-      "duration_ms": 221833,
-      "name": "Bygdas Rebell",
-      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+      "duration_ms": 147934,
+      "name": "Rull\u00e6r",
+      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Rull\u00e6r",
-        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
+        "name": "Bygdas Rebell",
+        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
         }
       ],
-      "duration_ms": 147934,
-      "name": "Rull\u00e6r",
-      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
+      "duration_ms": 221833,
+      "name": "Bygdas Rebell",
+      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "B\u00f8gda (Remix)",
+        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 171938,
+      "name": "B\u00f8gda - Remix",
+      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Flammer og Bensin",
         "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "B\u00f8gda (Remix)",
-        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 171938,
-      "name": "B\u00f8gda - Remix",
-      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
     },
     {
       "added_at": "2024-06-27 22:00:00",

@@ -1,15 +1,163 @@
 {
   "description": "You know. Epik High Is Here.",
-  "num_followers": 51922,
+  "num_followers": 51929,
   "original_name": "This Is Epik High",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZUSG/QAAAADLjhMFrLIwWIVcs4FJHwpi",
+  "snapshot_id": "ZoSYcQAAAAA3Xgu4I+x433DZLD9j847W",
   "tracks": [
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 197547,
+      "name": "ANTIHERO",
+      "url": "https://open.spotify.com/track/3l9XcrPZwg37swSJD3AmcC"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 186447,
+      "name": "K-DRAMA",
+      "url": "https://open.spotify.com/track/1ceNvrZDao9XB34qN3p6aB"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 46123,
+      "name": "PRETTY MUCH (INTRO)",
+      "url": "https://open.spotify.com/track/3SfBSoViWOcjWpiTFCdztH"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 186864,
+      "name": "LATE CHECKOUT",
+      "url": "https://open.spotify.com/track/6lSEUcbgcVjaHkmBM7VXfn"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 56583,
+      "name": "GOOD RIDDANCE",
+      "url": "https://open.spotify.com/track/7ohav2oGTiobizjtn7lOxM"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 76077,
+      "name": "GROUP CHAT FREESTYLE",
+      "url": "https://open.spotify.com/track/6jRW5GCXNGuvGWSsor0AXq"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 183169,
+      "name": "OK GOOD",
+      "url": "https://open.spotify.com/track/3S2lkG5tdhwsxDXiyuK3ZG"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 89625,
+      "name": "OFF DAY",
+      "url": "https://open.spotify.com/track/0mghHnk9vIkmj2fdobsvZJ"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
+      "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "I WAS HAPPY (Feat. Kim Jong Wan)",
+      "url": "https://open.spotify.com/track/5JxNvjOKluGINwPAiql6MU"
+    },
+    {
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/5E5xpayOlNMK28OxS7deDq"
@@ -29,7 +177,7 @@
       "url": "https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -49,7 +197,7 @@
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -69,7 +217,7 @@
       "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -85,7 +233,7 @@
       "url": "https://open.spotify.com/track/3h9IR7NydHISEr2b2kq4FB"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -101,7 +249,7 @@
       "url": "https://open.spotify.com/track/2DWlYJ9KOYJEifleOpIavG"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -125,7 +273,7 @@
       "url": "https://open.spotify.com/track/6YuJzx4yiTMhia4aM1M9kU"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -141,7 +289,7 @@
       "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -157,7 +305,7 @@
       "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -177,7 +325,7 @@
       "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -205,7 +353,7 @@
       "url": "https://open.spotify.com/track/6ue5eOPduRSZDqVw2QBvhe"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -221,7 +369,7 @@
       "url": "https://open.spotify.com/track/4l967KhnqHm5xSzS1mR4ng"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -241,7 +389,7 @@
       "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -257,7 +405,7 @@
       "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Rain Song",
         "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
@@ -277,7 +425,7 @@
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -301,7 +449,7 @@
       "url": "https://open.spotify.com/track/12QfVb1TGSSaSL7922KGyf"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -321,7 +469,7 @@
       "url": "https://open.spotify.com/track/4pRjeAuTly3cNDVTJdOVT7"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -337,7 +485,7 @@
       "url": "https://open.spotify.com/track/61oCUBkGRfVEeJWXfdKUZ9"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -357,7 +505,7 @@
       "url": "https://open.spotify.com/track/4n4B2bDZuelBa1xAyXFdrN"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -377,7 +525,7 @@
       "url": "https://open.spotify.com/track/5HGb06uR7zYFCADrkZ6ech"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -405,7 +553,7 @@
       "url": "https://open.spotify.com/track/6Ht1fE0yLOw8ODeaSYJphi"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -425,7 +573,7 @@
       "url": "https://open.spotify.com/track/55P9EAHXSp006VmxIImwTm"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -441,7 +589,7 @@
       "url": "https://open.spotify.com/track/5Qk9oyQzdN8M5CzTzW97Lm"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -461,7 +609,7 @@
       "url": "https://open.spotify.com/track/1GjkQuVBJUDOblY2dpTHKl"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
@@ -477,7 +625,7 @@
       "url": "https://open.spotify.com/track/1oBaGGKbs9R9Y4mfi0JpqB"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -497,7 +645,7 @@
       "url": "https://open.spotify.com/track/7A2RLTIRAbncB7EwCV2JRq"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -517,7 +665,7 @@
       "url": "https://open.spotify.com/track/4q9zQ8wm3J2O8fzrV18XwP"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -537,7 +685,7 @@
       "url": "https://open.spotify.com/track/1zaJP6bRuGYBnSaZ7ad22D"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -557,7 +705,7 @@
       "url": "https://open.spotify.com/track/6xQuo2abg2I5Hcbf0HhD2n"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -573,7 +721,7 @@
       "url": "https://open.spotify.com/track/0Q3jiHxV8nefT8de4eO0Uq"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -609,7 +757,7 @@
       "url": "https://open.spotify.com/track/5U7tpgpGPatDwrpUn5MuZg"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 6",
         "url": "https://open.spotify.com/album/1BeWYcLEYlD2rOaa0EWdSr"
@@ -629,7 +777,7 @@
       "url": "https://open.spotify.com/track/7n5eQJYX7e6H5gkzgyEfQG"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Remapping the Human Soul",
         "url": "https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa"
@@ -645,7 +793,7 @@
       "url": "https://open.spotify.com/track/7hlEhmg5h9XuFtaGfgvqjF"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -665,7 +813,7 @@
       "url": "https://open.spotify.com/track/00JtB9hdWM8PO2gSBP9nd3"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -685,7 +833,7 @@
       "url": "https://open.spotify.com/track/2uQ2sakAeeGhevyZQwprxN"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
@@ -705,7 +853,7 @@
       "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Lovescream",
         "url": "https://open.spotify.com/album/6rIZFsL2RzXX1PDXhAth1z"
@@ -725,7 +873,7 @@
       "url": "https://open.spotify.com/track/5ZvOiFNa14akPXHddJgYFW"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -745,7 +893,7 @@
       "url": "https://open.spotify.com/track/6rQziSE3oyCV5I8xCOhtBt"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -773,7 +921,7 @@
       "url": "https://open.spotify.com/track/2YwPo7S3aSkafouarC7Gyn"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Remapping the Human Soul",
         "url": "https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa"
@@ -789,7 +937,7 @@
       "url": "https://open.spotify.com/track/4X0IXobYpLPiAN2ilOtMnM"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -809,7 +957,7 @@
       "url": "https://open.spotify.com/track/6zmayRg1p6jqkSNqEG2Tiu"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Sleeping Beauty (End of the World x EPIK HIGH)",
         "url": "https://open.spotify.com/album/37bIc0ETYUhgwOeFj02CEg"
@@ -829,7 +977,7 @@
       "url": "https://open.spotify.com/track/3DaEdOs0IIj9vCZxO9ZfVT"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -849,7 +997,7 @@
       "url": "https://open.spotify.com/track/4iI2SFBIuzZj0JyUNII5Rr"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
@@ -869,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2tSPS5dRintqVulKAKni2T"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -889,7 +1037,7 @@
       "url": "https://open.spotify.com/track/7Dhm6ckiZCs4ASHmuTQWrN"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -909,7 +1057,7 @@
       "url": "https://open.spotify.com/track/63c9xNPqkXqeK7eLQcuyzg"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
@@ -925,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6TIDaGS7X7bsZyg4VzR9gv"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -941,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1APplB7nYRz4UbwkLGq7Dq"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "sleepless in __________",
         "url": "https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv"
@@ -961,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4PA4shomDPO4XTHUYbNmjB"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
@@ -977,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3kUJ9u148oaHwdKFT45qb3"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
@@ -997,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -1013,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6dMUcbtIC30gWi05LUtNJJ"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -1029,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5TVCpIsRzpidZzyD2Xor4q"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
@@ -1045,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3pEnw8lI3cmoItuKfVysWX"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
@@ -1065,7 +1213,7 @@
       "url": "https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
@@ -1081,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7qLvwgaoM9L3FflkaJT0Dt"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
@@ -1097,7 +1245,7 @@
       "url": "https://open.spotify.com/track/3Cu2cZW292bhfGEl7j6plB"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "\u9b42 Map the Soul",
         "url": "https://open.spotify.com/album/1e8oyAuXoF4DTtycaUGd7Z"
@@ -1125,7 +1273,7 @@
       "url": "https://open.spotify.com/track/5D1vzchjH805WYLLVpeUjr"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
@@ -1141,7 +1289,7 @@
       "url": "https://open.spotify.com/track/6MuZfRhS5xIUiKRBFYax8j"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -1165,7 +1313,7 @@
       "url": "https://open.spotify.com/track/0rQNYBCP3CjYgQpGfrLa50"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Remixing the Human Soul (Remixed By Planet Shiver)",
         "url": "https://open.spotify.com/album/58VVHvydGyNwBNnBQq2mvA"
@@ -1185,7 +1333,7 @@
       "url": "https://open.spotify.com/track/0pUOaT3hfXUFWuNONhGzdm"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
@@ -1205,7 +1353,7 @@
       "url": "https://open.spotify.com/track/1DfZwCfbJkYoJCMZ07xPSs"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -1225,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5wYAfjPChvnZQJVRzbCWv4"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
@@ -1241,7 +1389,7 @@
       "url": "https://open.spotify.com/track/0EzaUUqBHH4T4QuuQJ1TuJ"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
@@ -1261,7 +1409,7 @@
       "url": "https://open.spotify.com/track/1CjVSDqhTehDvMeKjSIWGm"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
@@ -1281,7 +1429,7 @@
       "url": "https://open.spotify.com/track/6UDSxBNbxg7DSRbx9fGvFK"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
@@ -1297,7 +1445,7 @@
       "url": "https://open.spotify.com/track/24alBNZB7pae16SJlgs9R9"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
@@ -1317,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4Sg70hPGA5zrbAhFYycOXN"
     },
     {
-      "added_at": "2023-11-03 05:37:01",
+      "added_at": "2024-07-03 00:16:49",
       "album": {
         "name": "WE'VE DONE SOMETHING WONDERFUL",
         "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"

@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop c'est ici\. Cover: Ibtissam Tiskat
 
-128 songs - 6 hr 57 min
+129 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3lah 3lah](https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [3lah 3lah](https://open.spotify.com/album/3lznrciIl9B3q553B3CiVw) | 3:02 | 2023-07-07 | 2024-04-08 |
 | [9AD BIA](https://open.spotify.com/track/5qV1jHWF80Pe3jQHHFzIol) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [9AD BIA](https://open.spotify.com/album/5OW9hrQBgVAB4oDBuDEJp1) | 2:46 | 2023-11-07 |  |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-07-07 | 2024-04-24 |
-| [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-07-07 |  |
+| [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-07-07 | 2024-07-03 |
 | [Ach Dani](https://open.spotify.com/track/03hSOAM899HlEuFTKVblWf) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Ach Dani](https://open.spotify.com/album/1wTs4aENoCZCWFWGSeOord) | 2:55 | 2024-05-29 |  |
 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 | 2023-07-07 | 2024-04-19 |
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2024-04-17 | 2024-06-15 |
@@ -116,6 +116,7 @@
 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 | 2023-10-03 |  |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2023-07-07 | 2024-02-25 |
 | [Taline](https://open.spotify.com/track/0RwL13X9AdtPI2SCSaJd3J) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Taline](https://open.spotify.com/album/1RKFJci69gAvYiezUyPB89) | 3:19 | 2023-11-29 |  |
+| [Tawaak Galbek](https://open.spotify.com/track/7CvVm3ZVBm5JkjncF81qf5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Tawaak Galbek](https://open.spotify.com/album/15b9P4HH0B7iEchlgr819B) | 3:40 | 2024-07-02 |  |
 | [TIMSAH](https://open.spotify.com/track/2K0u1U552dwiOotsAjes78) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [TIMSAH](https://open.spotify.com/album/6nRL0m3xVakYIHPgcYbyjC) | 4:42 | 2024-01-05 |  |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2023-07-07 | 2023-08-01 |
 | [Toxicomane](https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Toxicomane](https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS) | 3:36 | 2024-01-26 |  |

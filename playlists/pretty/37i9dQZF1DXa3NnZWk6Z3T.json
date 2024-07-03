@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 611261,
+  "num_followers": 611324,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
       "duration_ms": 222170,
       "name": "Universos paralelos (feat. Ana Tijoux)",
       "url": "https://open.spotify.com/track/25wkmsggPrmVeDHv0QBMgW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -99,26 +119,6 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 322223,
-      "name": "Butterflies (feat. Tim Bernardes)",
-      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Que Lindos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5v27oyFLBcK5Sv4hXkyEME"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Dar Vida",
         "url": "https://open.spotify.com/album/17kVGKI88jjmL2XH4MNjYd"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 235413,
       "name": "Barco del Tiempo",
       "url": "https://open.spotify.com/track/4qApGI6Nt1Mryef3KLJTY0"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Que Lindos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5v27oyFLBcK5Sv4hXkyEME"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -999,6 +999,30 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "La Tania",
+          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
+        },
+        {
+          "name": "Yerai Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
+        }
+      ],
+      "duration_ms": 300383,
+      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "A M\u00ed y a Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
       },
@@ -1131,6 +1155,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Eucalipto",
+        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1187,62 +1227,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Eucalipto",
-        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "La Tania",
-          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
-        },
-        {
-          "name": "Yerai Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
-        }
-      ],
-      "duration_ms": 300383,
-      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Ola Adi\u00f3s",
         "url": "https://open.spotify.com/album/2u4DIClRI7TDUbRY4mDZyr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 183973,
       "name": "Ola Adi\u00f3s",
       "url": "https://open.spotify.com/track/4Ko9JaLUvf54PmluMaDCqm"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Hawaii Aloha",
-        "url": "https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq"
-      },
-      "artists": [
-        {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
-        }
-      ],
-      "duration_ms": 235408,
-      "name": "Hawaii Aloha",
-      "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Amor Arrayano",
         "url": "https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 220413,
       "name": "Amor Arrayano",
       "url": "https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Hawaii Aloha",
+        "url": "https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq"
+      },
+      "artists": [
+        {
+          "name": "La Familia de Ukeleles",
+          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+        }
+      ],
+      "duration_ms": 235408,
+      "name": "Hawaii Aloha",
+      "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "gaita zuliana",
-        "url": "https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 188106,
-      "name": "gaita zuliana",
-      "url": "https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa"
+      "duration_ms": 181280,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
+        "name": "gaita zuliana",
+        "url": "https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
+      "duration_ms": 188106,
+      "name": "gaita zuliana",
+      "url": "https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Con Tu Nombre",
-        "url": "https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 246250,
-      "name": "Con Tu Nombre",
-      "url": "https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 162192,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Con Tu Nombre",
+        "url": "https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 246250,
+      "name": "Con Tu Nombre",
+      "url": "https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Como Ayer",
-        "url": "https://open.spotify.com/album/3rebn49jHNlKMocuvNGfLU"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 218035,
-      "name": "Como Ayer",
-      "url": "https://open.spotify.com/track/4AiQjcvho0c3wc2TuDzy2F"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Uno Que Tropieza Y Cae Al Mar",
         "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Como Ayer",
+        "url": "https://open.spotify.com/album/3rebn49jHNlKMocuvNGfLU"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 218035,
+      "name": "Como Ayer",
+      "url": "https://open.spotify.com/track/4AiQjcvho0c3wc2TuDzy2F"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2239,6 +2239,22 @@
       "duration_ms": 210745,
       "name": "Pelo Rojo",
       "url": "https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Domingo De Extra\u00f1arte",
+        "url": "https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 153596,
+      "name": "Domingo De Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2279,18 +2295,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Domingo De Extra\u00f1arte",
-        "url": "https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg"
+        "name": "La Creatividad",
+        "url": "https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN"
       },
       "artists": [
         {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
         }
       ],
-      "duration_ms": 153596,
-      "name": "Domingo De Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP"
+      "duration_ms": 124685,
+      "name": "La Creatividad",
+      "url": "https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2307,22 +2323,6 @@
       "duration_ms": 205048,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "La Creatividad",
-        "url": "https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s del Real",
-          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
-        }
-      ],
-      "duration_ms": 124685,
-      "name": "La Creatividad",
-      "url": "https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8"
     },
     {
       "added_at": "2024-06-28 04:00:00",

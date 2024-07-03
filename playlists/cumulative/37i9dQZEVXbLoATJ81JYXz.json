@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 220520,
       "name": "17 \u00e5r",
       "url": "https://open.spotify.com/track/7MzmBmyI9KkyQJaPNLdtUi"
@@ -8454,7 +8454,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 154533,
       "name": "Dum",
       "url": "https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx"
@@ -12845,6 +12845,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -16594,7 +16612,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 189800,
       "name": "Ingen annan r\u00f6r mig som du",
       "url": "https://open.spotify.com/track/1Vo4peT3VmtdLVtw1s65Cm"
@@ -20070,7 +20088,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -22370,7 +22388,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 194133,
       "name": "Miss Decibel",
       "url": "https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB"
@@ -23998,7 +24016,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 188466,
       "name": "N\u00e4r vi tv\u00e5 blir en",
       "url": "https://open.spotify.com/track/2EKzS2s2VKnbQ7jxyk2WHi"
@@ -30218,7 +30236,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"

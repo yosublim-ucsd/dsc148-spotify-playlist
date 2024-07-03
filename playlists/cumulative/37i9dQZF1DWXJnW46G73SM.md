@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: احمد كامل و زاب ثروت
 
-1,011 songs - 2 day 9 hr 1 min
+1,012 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,8 +761,9 @@
 | [انا بكيت](https://open.spotify.com/track/53aBCmnMQpIbWrDo3b9VXI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [عندي كلام](https://open.spotify.com/album/1ftMwFolOx5hURYoTxu7Vu) | 4:20 | 2023-01-27 | 2023-03-08 |
 | [انا بلا فخر](https://open.spotify.com/track/0p1K8ARs8n2fli5c7aOimZ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [انا بلا فخر](https://open.spotify.com/album/7Ei9Ec11ZWpG1AaJbYqMJb) | 2:32 | 2024-02-20 | 2024-05-08 |
 | [انا لسة بفتكرك](https://open.spotify.com/track/4qFrbwNcpoWyhh8sNlFtrU) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [انا لسة بفتكرك](https://open.spotify.com/album/2jmuhAKSdnc6zPC3zcEXpT) | 3:08 | 2023-12-14 | 2024-01-24 |
-| [انا مش بديل](https://open.spotify.com/track/0GQ6yRwhiGHq2CPTUuladQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [انا مش بديل](https://open.spotify.com/album/4ZPYA3NZgnqyzfWcHrfOUv) | 3:47 | 2024-05-30 |  |
+| [انا مش بديل](https://open.spotify.com/track/0GQ6yRwhiGHq2CPTUuladQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [انا مش بديل](https://open.spotify.com/album/4ZPYA3NZgnqyzfWcHrfOUv) | 3:47 | 2024-05-30 | 2024-07-03 |
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2022-04-07 | 2022-07-15 |
+| [انا مشيتلك](https://open.spotify.com/track/4eS5K7sqMbB6MAT9xUWOmu) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [انا مشيتلك](https://open.spotify.com/album/41NRnwquNfvZfhDC8plGL7) | 4:38 | 2024-07-02 |  |
 | [انا هونت عليك](https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ) | [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [انا هونت عليك](https://open.spotify.com/album/0sC9BUp4DaTQrBGfeZISX8) | 4:08 | 2023-05-11 | 2023-06-30 |
 | [انت الأصل](https://open.spotify.com/track/1qciOUzxpvVm3oNxPr7fWb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 2:57 | 2023-01-12 | 2023-02-17 |
 | [انت الأصل](https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انت الأصل](https://open.spotify.com/album/7vEmSTmBgz3fUaCVnjyf6H) | 2:57 | 2023-01-06 | 2023-01-14 |

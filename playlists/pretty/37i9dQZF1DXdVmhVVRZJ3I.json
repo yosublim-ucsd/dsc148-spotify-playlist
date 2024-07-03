@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276528,
+  "num_followers": 276536,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-06-28 03:03:00",
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ],
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
+    },
+    {
+      "added_at": "2024-06-28 03:03:00",
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 160000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/6JDjacug968YX4P56tJwMt"
-    },
-    {
-      "added_at": "2024-06-28 03:03:00",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        }
-      ],
-      "duration_ms": 158639,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     },
     {
       "added_at": "2024-06-28 03:03:00",

@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192375,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r"
+    },
+    {
+      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },

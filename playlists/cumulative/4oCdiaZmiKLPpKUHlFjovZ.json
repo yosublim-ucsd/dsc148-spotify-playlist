@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Saucefather 2",
+        "url": "https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202764,
+      "name": "304 Bounty Hunter",
+      "url": "https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL"
+    },
+    {
+      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -1854,6 +1872,24 @@
       "duration_ms": 134377,
       "name": "UHN UHN",
       "url": "https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/7rqRBEB0cvYofa2OQgQi4G"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym"
     },
     {
       "album": {

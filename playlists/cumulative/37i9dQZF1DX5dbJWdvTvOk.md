@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-705 songs - 1 day 6 hr 0 min
+706 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Stolen Moments](https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Stolen Moments](https://open.spotify.com/album/1VVynhg0E343qOHIlqfULV) | 2:42 | 2023-04-21 |  |
 | [Stop and Look Around](https://open.spotify.com/track/1BfJtG4eD6TElscodj2YdK) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Stop and Look Around](https://open.spotify.com/album/6eywL18F7LHmJm5KqCCfdI) | 1:58 | 2024-06-14 |  |
 | [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
+| [Straight Through My Heart](https://open.spotify.com/track/0LBN0uMXR5sJ7WSxFF8c3A) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Straight Through My Heart](https://open.spotify.com/album/5ozSncuInN9MHvJ6LPJ6I2) | 3:01 | 2024-06-28 |  |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-04-21 |  |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
@@ -601,7 +602,7 @@
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-02 |  |
 | [Supernova](https://open.spotify.com/track/3fdOkah1IiOii4fpHg5b0C) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Supernova](https://open.spotify.com/album/2K0EhxeFypyV9DWdbDYBiW) | 2:34 | 2023-09-29 |  |
 | [Sweet mantlepiece](https://open.spotify.com/track/4EHIlisqf27PmF1xVdYVNk) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Sweet mantlepiece](https://open.spotify.com/album/3KBqIWtoA9lkZ9Sma8arKD) | 1:40 | 2023-04-21 | 2023-06-23 |
-| [Sweet Sister](https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Sweet Sister](https://open.spotify.com/album/0hLGvDz6LTn2CBQzVpu36f) | 2:28 | 2023-04-21 |  |
+| [Sweet Sister](https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Sweet Sister](https://open.spotify.com/album/0hLGvDz6LTn2CBQzVpu36f) | 2:28 | 2023-04-21 | 2024-07-03 |
 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-02-24 | 2023-04-22 |
 | [Syr Darya](https://open.spotify.com/track/5aPyQLy7KhxjIqj5CgNF8w) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Syr Darya](https://open.spotify.com/album/0dhQLVfDkDJekJAK3Tg6QE) | 3:35 | 2023-04-21 |  |
 | [Take Me Home](https://open.spotify.com/track/1w6k1oy9LqMtxpNhBLFCi0) | [Jaime Escalera](https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf) | [Take Me Home](https://open.spotify.com/album/6IzxxbNa1mU7ohL1By7OeF) | 2:52 | 2023-06-02 |  |

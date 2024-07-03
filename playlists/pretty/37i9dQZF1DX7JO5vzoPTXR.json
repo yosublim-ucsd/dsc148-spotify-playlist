@@ -1,18 +1,162 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK?si=z-L2he2hTlih1L4oq3QYqQ\">Yimeeka</a>",
-  "num_followers": 71436,
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFDmc9mJCPQno?si=e371f985a69844d5\">Lauren Aquilina</a>",
+  "num_followers": 71451,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmBVxgAAAACTxwmOESUro5YY6RPGQc+f",
+  "snapshot_id": "ZoSTVAAAAAChrOUF51iGgiVCHMSYUAmj",
   "tracks": [
     {
-      "added_at": "2024-06-04 23:58:00",
+      "added_at": "2024-07-02 23:55:00",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT"
+      },
+      "artists": [
+        {
+          "name": "LonelyTwin",
+          "url": "https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "forget",
+      "url": "https://open.spotify.com/track/0DF8IsRDJFYtyv1DWi5j8N"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "scared to go to sleep",
+        "url": "https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "duration_ms": 163718,
+      "name": "6 feet under",
+      "url": "https://open.spotify.com/track/7f0PmkmERyNF5p9zMkdU69"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 344960,
+      "name": "It's Gonna Be Okay, Baby",
+      "url": "https://open.spotify.com/track/5lH5KTgUiP5CSjGctZusTQ"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 466466,
+      "name": "A House In Nebraska",
+      "url": "https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 268979,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "CLEARING",
+        "url": "https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/3RnXz9keNmkqSRAgZFK0b8"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "We Only Go In One Direction",
+        "url": "https://open.spotify.com/album/4FGc1TwLW6TfJFFijaUPDH"
+      },
+      "artists": [
+        {
+          "name": "Texada",
+          "url": "https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn"
+        }
+      ],
+      "duration_ms": 214825,
+      "name": "We Only Go In One Direction",
+      "url": "https://open.spotify.com/track/2b4Zvpl9joXMB8YrEtPEOu"
+    },
+    {
+      "added_at": "2024-07-02 23:55:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
@@ -20,9 +164,9 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+      "duration_ms": 196426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
     },
     {
       "added_at": "2024-06-04 23:58:00",
@@ -427,22 +571,6 @@
     {
       "added_at": "2024-04-03 00:01:00",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/17x9sehv8aThjt5SjzShn4"
-      },
-      "artists": [
-        {
-          "name": "Anna Mae",
-          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Heartthrob",
-      "url": "https://open.spotify.com/track/21fvtJqzyGcXBePIg8waUm"
-    },
-    {
-      "added_at": "2024-04-03 00:01:00",
-      "album": {
         "name": "The After Taste",
         "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
       },
@@ -489,26 +617,6 @@
       "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
     },
     {
-      "added_at": "2024-04-03 00:01:00",
-      "album": {
-        "name": "SUGAR",
-        "url": "https://open.spotify.com/album/3nztsVZZnVMTIGOEsgX7oo"
-      },
-      "artists": [
-        {
-          "name": "Bishat",
-          "url": "https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr"
-        },
-        {
-          "name": "GLAMHOUSE",
-          "url": "https://open.spotify.com/artist/33lQfkAm6jLcuWDQcrWnRj"
-        }
-      ],
-      "duration_ms": 210616,
-      "name": "SUGAR (GLAMHOUSE REMIX)",
-      "url": "https://open.spotify.com/track/4y1y5SZuWy9yJMhH0q1xC4"
-    },
-    {
       "added_at": "2023-12-06 05:00:00",
       "album": {
         "name": "Oral",
@@ -531,146 +639,22 @@
     {
       "added_at": "2024-04-03 00:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/3nztsVZZnVMTIGOEsgX7oo"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "How Do I Do This",
-      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Backstreets",
-        "url": "https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0"
-      },
-      "artists": [
+          "name": "Bishat",
+          "url": "https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr"
+        },
         {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+          "name": "GLAMHOUSE",
+          "url": "https://open.spotify.com/artist/33lQfkAm6jLcuWDQcrWnRj"
         }
       ],
-      "duration_ms": 209954,
-      "name": "My Theme Song",
-      "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Escapism. (4am Remix)",
-        "url": "https://open.spotify.com/album/4ivzJoBQmSiY79v1dcInfg"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 208542,
-      "name": "Escapism. - 4am Remix",
-      "url": "https://open.spotify.com/track/5AIUQWoMELIpAOi1WPMeSD"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 262062,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Paranoia Purple",
-      "url": "https://open.spotify.com/track/6thXydmPxnHkSzdeI4mFEi"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Rachel's Song - Spotify Singles",
-        "url": "https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw"
-      },
-      "artists": [
-        {
-          "name": "Navvy",
-          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Rachel's Song - Spotify Singles",
-      "url": "https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Exit Simulation",
-        "url": "https://open.spotify.com/album/2ev7kijeHHRcqXz8ke5KjG"
-      },
-      "artists": [
-        {
-          "name": "Niecy Blues",
-          "url": "https://open.spotify.com/artist/3iiPUUTrbJ4ObYjWgYoXfD"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Violently Rooted",
-      "url": "https://open.spotify.com/track/10pCUmtkGJ2IZSEhzVJKkc"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 230522,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo"
+      "duration_ms": 210616,
+      "name": "SUGAR (GLAMHOUSE REMIX)",
+      "url": "https://open.spotify.com/track/4y1y5SZuWy9yJMhH0q1xC4"
     },
     {
       "added_at": "2024-04-03 16:48:49",

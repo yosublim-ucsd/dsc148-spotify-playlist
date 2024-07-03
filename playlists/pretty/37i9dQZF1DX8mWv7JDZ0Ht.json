@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
-  "num_followers": 434023,
+  "num_followers": 434019,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Flor de Outono",
-        "url": "https://open.spotify.com/album/3Pvb6EwXutHUc2LPTlIVBn"
+        "name": "Sorte (Ao Vivo / EP02)",
+        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         },
         {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 189783,
-      "name": "Flor de Outono",
-      "url": "https://open.spotify.com/track/0tUFGtuyiDhhxgw3FBFFZ6"
+      "duration_ms": 182694,
+      "name": "Febre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -143,6 +143,26 @@
       "duration_ms": 142144,
       "name": "Balada do Amor Inabal\u00e1vel",
       "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Flor de Outono",
+        "url": "https://open.spotify.com/album/3Pvb6EwXutHUc2LPTlIVBn"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        },
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "Flor de Outono",
+      "url": "https://open.spotify.com/track/0tUFGtuyiDhhxgw3FBFFZ6"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -243,26 +263,6 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
-        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Febre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "FICA",
-        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 206781,
-      "name": "FICA",
-      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Segue o Jogo",
         "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 222714,
       "name": "Segue o Jogo",
       "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "FICA",
+        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "FICA",
+      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "DEJAVU",
-        "url": "https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 183679,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "DEJAVU",
+        "url": "https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 183679,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -671,18 +671,26 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "AGRIDOCE (PARTE 1)",
-        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+        "name": "meu am\u00f4 chegou",
+        "url": "https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
         }
       ],
-      "duration_ms": 162835,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
+      "duration_ms": 220160,
+      "name": "meu am\u00f4 chegou",
+      "url": "https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -723,26 +731,18 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "meu am\u00f4 chegou",
-        "url": "https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y"
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
       },
       "artists": [
         {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        },
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
         }
       ],
-      "duration_ms": 220160,
-      "name": "meu am\u00f4 chegou",
-      "url": "https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe"
+      "duration_ms": 162835,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
-        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 290502,
-      "name": "Teu Ch\u00e1",
-      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
+        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 290502,
+      "name": "Teu Ch\u00e1",
+      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Todo Azul",
         "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Quando a Gente Existe",
-        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Quando a Gente Existe",
-      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Guaec\u00e1",
         "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 156240,
       "name": "Guaec\u00e1",
       "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Quando a Gente Existe",
+        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Quando a Gente Existe",
+      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Sem Saber Seu Nome",
         "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 228631,
       "name": "Sem Saber Seu Nome",
       "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Vem C\u00e1, Me Beija",
-        "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        },
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        }
-      ],
-      "duration_ms": 158170,
-      "name": "Vem C\u00e1, Me Beija",
-      "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 161632,
       "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
       "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Vem C\u00e1, Me Beija",
+        "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        },
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "Vem C\u00e1, Me Beija",
+      "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
     },
     {
       "added_at": "2024-07-01 18:44:05",

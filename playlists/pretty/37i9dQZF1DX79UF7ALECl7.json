@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121718,
+  "num_followers": 121711,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+      },
+      "artists": [
+        {
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+        }
+      ],
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Loud Enough (Didier Armeni Remix)",
         "url": "https://open.spotify.com/album/4Fh2mDMVslKby7dt0oO0sd"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 173937,
       "name": "Loud Enough - Didier Armeni Remix",
       "url": "https://open.spotify.com/track/77PlfRB6KA0WAcBBt6IU9N"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
-      },
-      "artists": [
-        {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
-        }
-      ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -271,18 +271,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "After Midnyte",
-        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
       "artists": [
         {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
         }
       ],
-      "duration_ms": 191819,
-      "name": "Got to Fall Out",
-      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -323,22 +327,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+        "name": "After Midnyte",
+        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
       },
       "artists": [
         {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+      "duration_ms": 191819,
+      "name": "Got to Fall Out",
+      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Socorro & J\u00fcpiter",
-        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 415527,
-      "name": "Socorro & J\u00fcpiter",
-      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Electric Visions",
         "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 369346,
       "name": "Electric Visions",
       "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Socorro & J\u00fcpiter",
+        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 415527,
+      "name": "Socorro & J\u00fcpiter",
+      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
-      },
-      "artists": [
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 390485,
-      "name": "Anima",
-      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 390485,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Back In Time",
         "url": "https://open.spotify.com/album/5XaWwPKMwZmfzgmpHD82IZ"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 148800,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/6sLrbxhXg0kOnqPocIbVPZ"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -647,18 +631,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -679,6 +663,22 @@
       "duration_ms": 386508,
       "name": "Objects",
       "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
-      },
-      "artists": [
-        {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
-        }
-      ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
@@ -851,18 +831,38 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+        "name": "Love All",
+        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
       },
       "artists": [
         {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
         }
       ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+      "duration_ms": 474166,
+      "name": "The Forgiven",
+      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+      },
+      "artists": [
+        {
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+        }
+      ],
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -887,6 +887,22 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Love All",
-        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
-        }
-      ],
-      "duration_ms": 474166,
-      "name": "The Forgiven",
-      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Mr. Magic",
         "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Reconnect",
         "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Ritmo Freak",
         "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 297838,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
       "artists": [
         {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+        "name": "Fleur d'Hiver",
+        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
         }
       ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+      "duration_ms": 231500,
+      "name": "Fleur d'Hiver",
+      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1215,22 +1231,6 @@
       "duration_ms": 294995,
       "name": "At The Horizon",
       "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Fleur d'Hiver",
-        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
-      },
-      "artists": [
-        {
-          "name": "Bootie Grove",
-          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Fleur d'Hiver",
-      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Coffee (Edit)",
         "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 182686,
       "name": "Ngoni",
       "url": "https://open.spotify.com/track/3hPm5lbKRPLPt2JCcezKlX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "I Need Ya EP",
         "url": "https://open.spotify.com/album/54XKFvPS5IImE566X12hpA"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 452586,
       "name": "Alive",
       "url": "https://open.spotify.com/track/66IW3XfLvm6zvMtVLM6pTS"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2024-06-03 13:14:44",

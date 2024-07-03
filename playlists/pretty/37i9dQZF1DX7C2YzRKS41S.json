@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 120786,
+  "num_followers": 120838,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "Some Type Of Skin (Acoustic)",
-        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Some Type Of Skin - Acoustic",
-      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
+      "duration_ms": 206693,
+      "name": "Princess of China - Acoustic",
+      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

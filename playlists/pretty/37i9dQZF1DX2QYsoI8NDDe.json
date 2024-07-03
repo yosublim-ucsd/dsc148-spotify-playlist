@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Victoria La Mala",
-  "num_followers": 488104,
+  "num_followers": 488115,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Choro",
-        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Choro",
-      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
         "name": "Terca",
         "url": "https://open.spotify.com/album/3VsZuGjic5VTjiNrXfbAlp"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 140554,
       "name": "De Mal En Peor",
       "url": "https://open.spotify.com/track/0zNj2vBwUPu7jP26S9SPGh"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
+        "name": "Choro",
+        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
     },
     {
       "added_at": "2024-06-28 20:10:54",

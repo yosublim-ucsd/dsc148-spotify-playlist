@@ -4,10 +4,11 @@
 
 > Tunes from your favourite coffee shop.
 
-131 songs - 7 hr 36 min
+132 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 | 2024-07-02 |  |
 | [6 \- acoustic](https://open.spotify.com/track/303Cqs37BnJDIkbbL0WGcA) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [basement acoustic sessions](https://open.spotify.com/album/08RXGSZ8G42gij0NUld8tc) | 2:40 | 2023-12-08 | 2023-12-16 |
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-14 |  |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-12 | 2024-02-03 |
@@ -51,7 +52,7 @@
 | [For The Living](https://open.spotify.com/track/1ubDKiPd70vAcckgoyA4Ot) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [For The Living](https://open.spotify.com/album/61Yso4pxiob9KFC4Mmomus) | 2:59 | 2024-02-23 |  |
 | [Forever Was Never Enough](https://open.spotify.com/track/15GmDt2VKLQmcB8q9tkJh8) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Forever Was Never Enough](https://open.spotify.com/album/5OPbWgMmKfLsir6Er33VIm) | 2:55 | 2024-01-26 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-26 |  |
-| [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 | 2024-05-24 |  |
+| [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 | 2024-05-24 | 2024-07-03 |
 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 | 2024-04-05 |  |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-12-08 | 2024-02-24 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-08 |  |

@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-628 songs - 1 day 10 hr 39 min
+629 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 | 2024-06-02 |
 | [Ginger](https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4) | 3:22 | 2023-08-01 | 2023-09-07 |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-10 | 2023-08-16 |
+| [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-03 |  |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-03-30 | 2023-07-19 |
 | [Going Kokomo](https://open.spotify.com/track/51p3vKgHGVYjWr63eGH6jd) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Going Kokomo](https://open.spotify.com/album/3j83OoSgq6I6CFUq5Wlxl6) | 3:10 | 2023-03-30 | 2023-04-01 |
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-04-13 | 2023-06-23 |
@@ -600,7 +601,7 @@
 | [恋はこれから](https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [恋はこれから / 君の笑顔につられて](https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1) | 4:19 | 2023-03-30 | 2023-05-24 |
 | [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 | 2023-05-16 | 2023-06-28 |
 | [春はグラデーション](https://open.spotify.com/track/1IkCdCF5JlgKQYhgO34G3o) | [The Yogurts](https://open.spotify.com/artist/5Dxf63fwaN5YDewdjxuumR) | [春はグラデーション](https://open.spotify.com/album/5XGXLJsorSR2qMt3ZmqfNx) | 4:16 | 2023-04-27 | 2023-05-24 |
-| [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-01-09 |  |
+| [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-01-09 | 2024-07-03 |
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-03-07 | 2024-04-13 |
 | [朝にキス](https://open.spotify.com/track/5PFy1uFAj36rRRM0utMWHG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [だからそれは真実](https://open.spotify.com/album/5noipbOuAkxwxJ3Mbmw806) | 3:01 | 2023-03-28 | 2023-05-08 |
 | [本能Dance](https://open.spotify.com/track/0o9bXdLnBNSe0qTSsMyLqZ) | [THE NUGGETS](https://open.spotify.com/artist/0fOhZsgOFCjPpNVKAaO7EC) | [ODD](https://open.spotify.com/album/0bkNANJdWqwvKgQZ9Mku3U) | 3:31 | 2023-09-06 | 2023-09-22 |

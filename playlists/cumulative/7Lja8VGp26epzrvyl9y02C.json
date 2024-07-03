@@ -6255,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "Mr Beat The Road",
+        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104470,
+      "name": "Talk My Shit",
+      "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
+    },
+    {
+      "album": {
         "name": "tears in the club (feat. the weeknd)",
         "url": "https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA"
       },

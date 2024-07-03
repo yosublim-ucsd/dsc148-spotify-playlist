@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. The essential tracks, all in one playlist.
+> This is Meg Smith\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 23 songs - 1 hr 8 min
 

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,032 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,036 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aata Gaani Aata](https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Aata Gaani Aata](https://open.spotify.com/album/3zuzsB3BkRQRUrzvPHdSR2) | 2:42 |
-| 2 | [Pakkane Le](https://open.spotify.com/track/06E5EKUu6AaWTkVcsvqWNR) | [Nirvan Athreya](https://open.spotify.com/artist/18kYD2Ao3kj1oGb0Ao2Aay), [Yuti Harshavardhana](https://open.spotify.com/artist/0qC5hxZMZIC8MIkyrjFPsA) | [Pakkane Le](https://open.spotify.com/album/2ZTTOKRMhEYjPj6VJ7UPuI) | 3:03 |
+| 2 | [Pakkane Le](https://open.spotify.com/track/06E5EKUu6AaWTkVcsvqWNR) | [Nirvan Athreya](https://open.spotify.com/artist/18kYD2Ao3kj1oGb0Ao2Aay), [Yuti Harshavardhana](https://open.spotify.com/artist/4j9INPIti4FK5aC6YGBHDe) | [Pakkane Le](https://open.spotify.com/album/2ZTTOKRMhEYjPj6VJ7UPuI) | 3:03 |
 | 3 | [Kala](https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Tushar Budhwani](https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq) | [Kala](https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp) | 3:27 |
 | 4 | [Macha Vachey Ra \- Vibe Anthem](https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Macha Vachey Ra \(Vibe Anthem\)](https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98) | 3:16 |
 | 5 | [Thaanu](https://open.spotify.com/track/2wOflzlWeTjOtzq5xWce1E) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u) | [Thaanu](https://open.spotify.com/album/5l0c9ZBV6Y3NQza3E7m3jL) | 3:12 |

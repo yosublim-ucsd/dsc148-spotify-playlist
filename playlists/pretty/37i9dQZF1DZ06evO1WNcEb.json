@@ -1,12 +1,12 @@
 {
-  "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66948,
+  "description": "This is Eyshila. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 66949,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACuBgwIFfOJbwBzpfK1t/7H",
+  "snapshot_id": "ZoHxgAAAAABhUl9ASBQGdVUbP5/L6dMQ",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sopra Esp\u00edrito - Na Igreja (In Memoriam Ludmila Ferber, Ao Vivo)",
+        "url": "https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 326547,
+      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
+      "url": "https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -399,30 +423,6 @@
       "duration_ms": 326264,
       "name": "Existe Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sopra Esp\u00edrito - Na Igreja (In Memoriam Ludmila Ferber, Ao Vivo)",
-        "url": "https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 326547,
-      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
-      "url": "https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO"
     },
     {
       "added_at": null,
@@ -475,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 426039,
-      "name": "At\u00e9 Tocar o C\u00e9u",
-      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -507,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus, o Brasil Te Adora",
         "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 353893,
       "name": "Eu Me Arrependo",
       "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,

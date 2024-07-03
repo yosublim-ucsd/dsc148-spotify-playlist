@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8039,
+  "num_followers": 8043,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAAH1HIZdnvBMpMR6Kl6mA/u",
+  "snapshot_id": "ZoHxgAAAAABN9XpyQxiOpLg1aj+U8UYn",
   "tracks": [
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 237357,
-      "name": "Death by Disco",
-      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+        "name": "Say Tell Me",
+        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 101161,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/5XRYpfQZnOPUx4fNhmEzMm"
+      "duration_ms": 241750,
+      "name": "Say Tell Me",
+      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Tell Me",
-        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 241750,
-      "name": "Say Tell Me",
-      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
+      "duration_ms": 101161,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/5XRYpfQZnOPUx4fNhmEzMm"
     },
     {
       "added_at": null,

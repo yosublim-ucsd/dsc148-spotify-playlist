@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Olamide",
-  "num_followers": 154101,
+  "num_followers": 154157,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Fly Girl",
         "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 194100,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -779,6 +779,22 @@
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "coMPRess",
-        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 194811,
-      "name": "coMPRess",
-      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Evil Twin",
         "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Guy Man",
+        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Guy Man",
+      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Back In Uni",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -987,6 +1007,22 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1067,42 +1103,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Guy Man",
-        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Guy Man",
-      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Before the Smoke",
         "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
       },
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Sex Over Love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
@@ -1179,6 +1159,58 @@
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1239,6 +1271,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Crazy Crazy",
+        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru"
       },
@@ -1251,58 +1299,6 @@
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/0pChf8s46kdE5dS7eLv88S"
-      },
-      "artists": [
-        {
-          "name": "Stogie T",
-          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
-        },
-        {
-          "name": "BONJ",
-          "url": "https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL"
-        }
-      ],
-      "duration_ms": 212835,
-      "name": "Too Late for Mama",
-      "url": "https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1327,6 +1323,46 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/0pChf8s46kdE5dS7eLv88S"
+      },
+      "artists": [
+        {
+          "name": "Stogie T",
+          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
+        },
+        {
+          "name": "BONJ",
+          "url": "https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL"
+        }
+      ],
+      "duration_ms": 212835,
+      "name": "Too Late for Mama",
+      "url": "https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM"
       },
@@ -1347,42 +1383,6 @@
       "duration_ms": 196904,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Madina to the Universe",
-        "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
-      },
-      "artists": [
-        {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 220847,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/2RTJ8I0U32wZaKLuQj624z"
     }
   ],
   "unique_name": "Afro Bars ",

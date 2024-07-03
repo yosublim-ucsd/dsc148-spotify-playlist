@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289214,
+  "num_followers": 289197,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -67,26 +67,6 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Aquariana",
-        "url": "https://open.spotify.com/album/5nOjg27AnUcrvTv7qOic0F"
-      },
-      "artists": [
-        {
-          "name": "Abayomi",
-          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
-        },
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 225587,
-      "name": "Aquariana",
-      "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
         "name": "Seu Z\u00e9",
         "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
+        "name": "Aquariana",
+        "url": "https://open.spotify.com/album/5nOjg27AnUcrvTv7qOic0F"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        },
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 225587,
+      "name": "Aquariana",
+      "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
     },
     {
       "added_at": "2024-06-21 12:18:46",

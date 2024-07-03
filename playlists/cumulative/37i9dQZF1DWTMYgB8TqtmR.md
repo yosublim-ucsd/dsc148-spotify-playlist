@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-762 songs - 1 day 14 hr 25 min
+763 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Electric](https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Electric](https://open.spotify.com/album/0p1JV81BhYbX8dQWuQVmvE) | 2:52 | 2024-03-21 | 2024-05-17 |
 | [Ella mai](https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Ella mai](https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe) | 3:15 | 2023-04-06 | 2023-05-03 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-01-24 | 2022-02-18 |
-| [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-20 |  |
+| [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-20 | 2024-07-03 |
 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-01-29 | 2024-03-29 |
 | [EN GÅNG TILL](https://open.spotify.com/track/2Yx3zbKVkim7W19MWm06Up) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [EN GÅNG TILL](https://open.spotify.com/album/3yu6mnpWIbRyYmddifko1A) | 2:21 | 2024-05-09 | 2024-06-01 |
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-04-20 | 2023-06-16 |
@@ -224,6 +224,7 @@
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-12-16 | 2022-01-21 |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-01-31 | 2023-05-03 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-20 |  |
+| [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 | 2024-07-02 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2022-04-15 |
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-12-16 | 2022-01-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-07 | 2022-06-18 |

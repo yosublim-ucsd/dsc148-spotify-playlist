@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 32126,
+  "num_followers": 32134,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAB4lPUrxQyHMvTCdXFCGY2c",
+  "snapshot_id": "ZoHxgAAAAACbpOaHNo6/0OLAPuqvpLkf",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2vwDIlA1KGBOriSuCa39iC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 126973,
       "name": "Wouldn't It Be Nice - 2005 Remaster",
       "url": "https://open.spotify.com/track/1Id8boomLmiBoq7hurug9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2vwDIlA1KGBOriSuCa39iC"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle (2005 Remaster)",
         "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
@@ -331,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "About Time (2005 Remaster)",
-        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
@@ -340,9 +324,25 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Perfect People - 2005 Remaster",
-      "url": "https://open.spotify.com/track/09CibftU63IIhXuGa1Xzzo"
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 136720,
+      "name": "Homesick - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+        "name": "About Time (2005 Remaster)",
+        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 136720,
-      "name": "Homesick - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o"
+      "duration_ms": 185920,
+      "name": "Perfect People - 2005 Remaster",
+      "url": "https://open.spotify.com/track/09CibftU63IIhXuGa1Xzzo"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 151160,
-      "name": "Keep Moving On",
-      "url": "https://open.spotify.com/track/6G49UJ2IFAgMQemGNZW2lL"
+      "duration_ms": 131480,
+      "name": "American Lies",
+      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 131480,
-      "name": "American Lies",
-      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
+      "duration_ms": 151160,
+      "name": "Keep Moving On",
+      "url": "https://open.spotify.com/track/6G49UJ2IFAgMQemGNZW2lL"
     },
     {
       "added_at": null,

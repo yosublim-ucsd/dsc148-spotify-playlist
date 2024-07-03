@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 367318,
+  "num_followers": 367403,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
+        "name": "Expresion",
+        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 290413,
+      "name": "Que Alguien Me Diga",
+      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
-        "name": "Expresion",
-        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 290413,
-      "name": "Que Alguien Me Diga",
-      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 261591,
       "name": "Mujer Ara\u00f1a",
       "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
         "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Solo Salsa",
-        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 290742,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "Colecci\u00f3n De Oro",
         "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 278986,
       "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
       "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
+        "name": "Solo Salsa",
+        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 290742,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
     },
     {
       "added_at": "2024-04-08 22:55:02",

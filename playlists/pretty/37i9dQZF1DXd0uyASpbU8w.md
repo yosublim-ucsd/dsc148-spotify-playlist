@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=lEo05sboQw6l8l5RA6rlXQ">DJ Lag</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,556 likes - 73 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,630 likes - 73 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 36 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 |
 | 37 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
 | 38 | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg) | 3:23 |
-| 39 | [Kancane \- Live](https://open.spotify.com/track/5opKVwEiVZ31ESmXhOm58V) | [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [MODAR Sessions \(Live\)](https://open.spotify.com/album/2aKrSIt9lnPuDZ8ROes41z) | 5:00 |
+| 39 | [Kancane \- Live](https://open.spotify.com/track/5opKVwEiVZ31ESmXhOm58V) | [MODAR Studio](https://open.spotify.com/artist/3U6jiUXWzhCJ3CLplogPQz), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [MODAR Sessions \(Live\)](https://open.spotify.com/album/2aKrSIt9lnPuDZ8ROes41z) | 5:00 |
 | 40 | [Zekete \(feat\. Khanyi Golden Rhythms, Golden Ladies & Bongi Madlala\)](https://open.spotify.com/track/5i97xD0378t7FZ0Zg0EKZX) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [Khanyi Golden Rhythms](https://open.spotify.com/artist/47zD9ymJtnIfBEII81Hmg2), [Golden Ladies](https://open.spotify.com/artist/1eeWv9CwzMGoQUGV8UOoMj), [Bongi Madlala](https://open.spotify.com/artist/5iEw2WqIqIwo5vQymIxkXt) | [Zekete \(feat\. Khanyi Golden Rhythms, Golden Ladies & Bongi Madlala\)](https://open.spotify.com/album/5RH6acsA3hRcrhK1EHlQQ3) | 5:34 |
 | 41 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 |
 | 42 | [Sweet Escape](https://open.spotify.com/track/5Jkkjn5Ur4cWgJS4taJ9cM) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Sweet Escape](https://open.spotify.com/album/4A8p0LGa7QVi7fv0jtHhEL) | 3:06 |

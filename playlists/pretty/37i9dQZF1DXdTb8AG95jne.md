@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\(더 발룬티어스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,967 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,196 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 43 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
 | 44 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 |
 | 45 | [BAPPI](https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [BAPPI](https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG) | 2:54 |
-| 46 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 |
-| 47 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
+| 46 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
+| 47 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 |
 | 48 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
-| 49 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 |
-| 50 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 |
+| 49 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 |
+| 50 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 |
 
-Snapshot ID: `ZoKHxwAAAABvo2keVHZqbGTnfMUusDTL`
+Snapshot ID: `ZoSjkAAAAAADCDgY1qA2eLJaYPiNLxr4`

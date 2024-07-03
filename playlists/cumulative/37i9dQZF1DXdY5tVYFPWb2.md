@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-835 songs - 2 day 6 hr 58 min
+836 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-12-14 |
 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2023-04-05 |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-11-11 |
-| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 |  |
+| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 | 2024-07-03 |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2023-11-10 | 2024-04-19 |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2023-11-10 |  |
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |
@@ -811,6 +811,7 @@
 | [眩しい街、黒い犬](https://open.spotify.com/track/4iWMAej6JVsPKf0TrmkhsF) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [City & Bops](https://open.spotify.com/album/53fKjDCrTAVr9MU4fkXFsc) | 3:07 | 2022-05-24 | 2022-06-02 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 | 2023-02-22 |
 | [硝子窓](https://open.spotify.com/track/7jCSLx1qIlvj7LHiWe1sBD) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:39 | 2023-12-12 | 2024-01-31 |
+| [神様お願い](https://open.spotify.com/track/3kPwZWvUGFrQ8lHded8MpN) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [神様お願い](https://open.spotify.com/album/01uUjXUX9ftIKvvI7UAQCc) | 3:40 | 2024-07-03 |  |
 | [笑ってほしいよ](https://open.spotify.com/track/6IcZU5CPGK8x5V9GTwxfJ3) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [笑ってほしいよ](https://open.spotify.com/album/4cBISpXQQZkbO29bQj0ZJl) | 2:56 | 2022-06-28 | 2022-07-06 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-05-24 | 2022-07-27 |
 | [終電で帰ります](https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [終電で帰ります](https://open.spotify.com/album/4ja62FoYYdfe7Ioao9A9Rr) | 4:04 | 2022-05-28 | 2022-07-25 |

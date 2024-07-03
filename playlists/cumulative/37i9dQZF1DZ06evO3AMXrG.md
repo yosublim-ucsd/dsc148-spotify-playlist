@@ -2,7 +2,7 @@
 
 ### [This Is Cultura Profética](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3AMXrG)
 
-> This Is Cultura Profética\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Cultura Profética\. The essential tracks, all in one playlist.
 
 71 songs - 6 hr 6 min
 

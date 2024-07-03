@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,635 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,633 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 6 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 |
 | 7 | [Beautiful Scandalous Night](https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Beautiful Scandalous Night](https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e) | 4:11 |
 | 8 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 |
-| 9 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 |
+| 9 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 |
 | 10 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 |
-| 11 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 |
+| 11 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 |
 | 12 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
 | 13 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
 | 14 | [The King Is Alive](https://open.spotify.com/track/1vClq5FGlLjR4Rdqm7dMpQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [The King Is Alive](https://open.spotify.com/album/4JNTMZoZVcDlM9i9DZ0mpZ) | 2:58 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 53 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 54 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
 | 55 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
-| 56 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
-| 57 | [It Was Finished](https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:45 |
+| 56 | [It Was Finished](https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:45 |
+| 57 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
 | 58 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
 | 59 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 | 60 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 |

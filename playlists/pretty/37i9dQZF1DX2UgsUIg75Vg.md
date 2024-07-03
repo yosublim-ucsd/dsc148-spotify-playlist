@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345,009 likes - 165 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,345,191 likes - 165 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 107 | [Reason](https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:00 |
 | 108 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
 | 109 | [Can I Have This Groove](https://open.spotify.com/track/0jZb3hm5NSnwHaLjiwZoV0) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [The R&B You Love: Soul Of The '70s](https://open.spotify.com/album/7I92re0t1xeZk0V4gaAKRT) | 4:47 |
-| 110 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 |
+| 110 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
 | 111 | [Luckiest Man](https://open.spotify.com/track/5I6Duv6Y95FMpbujmguKIk) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:21 |
 | 112 | [Top Tier](https://open.spotify.com/track/2AU8TS2fzaXwtKqPz2ca4i) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [The Rebirth 3: The Party & The Bedroom](https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS) | 5:07 |
 | 113 | [Love Is](https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives: The Gallery](https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 259697,
+  "num_followers": 260012,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Where'd All the Time Go?",
-      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 189693,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Shame, Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Where'd All the Time Go?",
+      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Undercover Martyn",
-      "url": "https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 536471,
       "name": "Dance Yrself Clean",
       "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Undercover Martyn",
+      "url": "https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 352003,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+      "duration_ms": 162906,
+      "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/67SrO8B3O8iUq0AmEh0VzJ"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -323,38 +323,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Total Life Forever",
-        "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 409560,
-      "name": "Spanish Sahara",
-      "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 162906,
-      "name": "Something Good Can Work",
-      "url": "https://open.spotify.com/track/67SrO8B3O8iUq0AmEh0VzJ"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Congratulations",
         "url": "https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL"
       },
@@ -367,6 +335,38 @@
       "duration_ms": 235386,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 352003,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Total Life Forever",
+        "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 409560,
+      "name": "Spanish Sahara",
+      "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "I Can Talk",
-      "url": "https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "The Suburbs",
         "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Why Won't You Make Up Your Mind?",
-      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Body Talk, Pt.1",
         "url": "https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 288670,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "I Can Talk",
+      "url": "https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Why Won't You Make Up Your Mind?",
+      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Star of Love",
         "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 230480,
       "name": "Plage",
       "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "It Is Not Meant To Be",
-      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 364493,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 364493,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw"
+      "duration_ms": 321533,
+      "name": "It Is Not Meant To Be",
+      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -795,22 +795,6 @@
       "duration_ms": 266053,
       "name": "Wide Eyes",
       "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
         "name": "Dark Night of The Soul",
         "url": "https://open.spotify.com/album/0DmKQGWmKXQ3zmjTIQQzK1"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 404413,
-      "name": "Desire Lines",
-      "url": "https://open.spotify.com/track/34OYZJDVLJC0HS401190FN"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "The Suburbs",
         "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Flaws",
-        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
         }
       ],
-      "duration_ms": 176071,
-      "name": "Ivy & Gold",
-      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
+      "duration_ms": 404413,
+      "name": "Desire Lines",
+      "url": "https://open.spotify.com/track/34OYZJDVLJC0HS401190FN"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -999,6 +983,22 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
+        "name": "Flaws",
+        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 176071,
+      "name": "Ivy & Gold",
+      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
         "name": "Brothers (Deluxe Remastered Anniversary Edition)",
         "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 186001,
       "name": "She's Long Gone",
       "url": "https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "I Can't Handle Change",
-      "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU"
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
         }
       ],
-      "duration_ms": 286160,
-      "name": "Giving Up the Gun",
-      "url": "https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af"
+      "duration_ms": 198213,
+      "name": "I Can't Handle Change",
+      "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1091,6 +1075,22 @@
       "duration_ms": 449373,
       "name": "He Would Have Laughed",
       "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Giving Up the Gun",
+      "url": "https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Treats",
-        "url": "https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2"
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne"
       },
       "artists": [
         {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Rill Rill",
-      "url": "https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO"
+      "duration_ms": 288720,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1444,9 +1444,9 @@
           "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1463,6 +1463,22 @@
       "duration_ms": 237293,
       "name": "Don't Let It Pass",
       "url": "https://open.spotify.com/track/0D5Dq5VGkZ2IBuHiStOxMr"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Bloodbuzz Ohio",
-      "url": "https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Sometimes The Blues Is Just A Passing Bird",
         "url": "https://open.spotify.com/album/3qjQE1u461QuhH1JjcjaP0"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne"
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR"
+      "duration_ms": 275933,
+      "name": "Bloodbuzz Ohio",
+      "url": "https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1588,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
     },
     {
       "added_at": "2024-03-18 13:17:02",

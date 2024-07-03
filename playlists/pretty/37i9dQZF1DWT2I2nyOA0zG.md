@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,086 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,087 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 4 | [Tequila](https://open.spotify.com/track/2hYAJlWTCGudlEsjR9D0Bn) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [No Overthinking](https://open.spotify.com/album/6CNWE1pHJvDPl42MGmf3gh) | 3:15 |
 | 5 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 |
 | 6 | [Qoma](https://open.spotify.com/track/7xCravOtt3QiSSVC9sC1nZ) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Qoma](https://open.spotify.com/album/1fsqPg291cO98V4ZTC7k5R) | 4:02 |
-| 7 | [Kancane \- Live](https://open.spotify.com/track/5opKVwEiVZ31ESmXhOm58V) | [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [MODAR Sessions \(Live\)](https://open.spotify.com/album/2aKrSIt9lnPuDZ8ROes41z) | 5:00 |
+| 7 | [Kancane \- Live](https://open.spotify.com/track/5opKVwEiVZ31ESmXhOm58V) | [MODAR Studio](https://open.spotify.com/artist/3U6jiUXWzhCJ3CLplogPQz), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [MODAR Sessions \(Live\)](https://open.spotify.com/album/2aKrSIt9lnPuDZ8ROes41z) | 5:00 |
 | 8 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 |
 | 9 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 10 | [It Is What It Is](https://open.spotify.com/track/3MtcEJe6xJuDBdl0xcYFad) | [Samantha Mogwe](https://open.spotify.com/artist/5utjxVcFVHVsKU6rGyL7uR), [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX), [SarmyFire](https://open.spotify.com/artist/37uygzNuPeBXxrXKtsrRx9), [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [Owen Ross](https://open.spotify.com/artist/5k0MaapPiHMUe5uiZjyP88), [Phonikz](https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5) | [It Is What It Is](https://open.spotify.com/album/37rlFEyME3yDGuHpTAr2Du) | 2:31 |

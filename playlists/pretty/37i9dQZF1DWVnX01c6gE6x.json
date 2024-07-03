@@ -1,31 +1,15 @@
 {
-  "description": "Podcasts que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ?si=f4e302281419482f\">Lclub Podcast</a>",
-  "num_followers": 890,
+  "description": "Podcasts que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf?si=6a965904f3154f5c\">Chisme Corporativo</a>",
+  "num_followers": 2790,
   "original_name": "RADAR Podcasters M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmNs5AAAAABJNQwZRXFpPrEMHPhJbynX",
+  "snapshot_id": "ZoRAbQAAAAAR07GcKvKOmgI8N+7upde9",
   "tracks": [
     {
-      "added_at": "2024-06-07 20:26:12",
-      "album": {
-        "name": "Lclub Podcast",
-        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
-      },
-      "artists": [
-        {
-          "name": "Lclub Podcast",
-          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
-        }
-      ],
-      "duration_ms": 4276151,
-      "name": "T3 I EP.1 I LAS GRANDES GATADAS!",
-      "url": "https://open.spotify.com/episode/4nan6dRWBzwh7cByevJey3"
-    },
-    {
-      "added_at": "2024-06-06 17:15:31",
+      "added_at": "2024-07-02 17:55:52",
       "album": {
         "name": "Chisme Corporativo",
         "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
@@ -36,28 +20,12 @@
           "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
         }
       ],
-      "duration_ms": 3070996,
-      "name": "RYANAIR: El \u00c9xito y la Controversia",
-      "url": "https://open.spotify.com/episode/3TsnomCCChKhSAgxgn4f5f"
+      "duration_ms": 4043520,
+      "name": "NETFLIX: Innovaci\u00f3n, Supervivencia y \u00c9xito",
+      "url": "https://open.spotify.com/episode/4k77uaFBqWvSZTvpzXIm6T"
     },
     {
-      "added_at": "2024-06-06 17:15:31",
-      "album": {
-        "name": "Casos de la Risa Real",
-        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
-      },
-      "artists": [
-        {
-          "name": "Casos de la Risa Real",
-          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
-        }
-      ],
-      "duration_ms": 3318804,
-      "name": "Cap\u00edtulo 13: Abuelxs",
-      "url": "https://open.spotify.com/episode/5PklQYuwVgeC1c1irB3DX6"
-    },
-    {
-      "added_at": "2024-06-06 17:15:31",
+      "added_at": "2024-07-02 17:55:52",
       "album": {
         "name": "Buz\u00f3n de quejas",
         "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
@@ -68,44 +36,28 @@
           "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
         }
       ],
-      "duration_ms": 4150016,
-      "name": "Episodio 089 / Enamorando y generando",
-      "url": "https://open.spotify.com/episode/1Y0FhoJhEeapmrePtSgm8m"
+      "duration_ms": 3950016,
+      "name": "Episodio 096 / Quejitas dosmileras",
+      "url": "https://open.spotify.com/episode/7y890MjTLIv5LymrE3T7yT"
     },
     {
-      "added_at": "2024-06-06 17:15:31",
+      "added_at": "2024-07-02 17:55:52",
       "album": {
-        "name": "Se Regalan Sustos",
-        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
       },
       "artists": [
         {
-          "name": "Se Regalan Sustos",
-          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
         }
       ],
-      "duration_ms": 6751018,
-      "name": "Las MADRES que aterraron a todo internet | Feliz 10 de mayo Sustologas",
-      "url": "https://open.spotify.com/episode/4VPVjeyMHEpv8ugZemHqXl"
+      "duration_ms": 3800581,
+      "name": "Cap\u00edtulo 17: Cruda",
+      "url": "https://open.spotify.com/episode/60s6JaajXpdIAumKX9dwjW"
     },
     {
-      "added_at": "2024-06-06 17:15:31",
-      "album": {
-        "name": "LAS BOTARGAS PODCAST",
-        "url": "https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t"
-      },
-      "artists": [
-        {
-          "name": "LAS BOTARGAS PODCAST",
-          "url": "https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t"
-        }
-      ],
-      "duration_ms": 3431888,
-      "name": "ACEPTARME O RESIGNARME",
-      "url": "https://open.spotify.com/episode/7B8geGNxZtjPXEiZvkgPkE"
-    },
-    {
-      "added_at": "2024-06-06 17:15:31",
+      "added_at": "2024-07-02 17:55:52",
       "album": {
         "name": "Lclub Podcast",
         "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
@@ -116,60 +68,12 @@
           "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
         }
       ],
-      "duration_ms": 4530336,
-      "name": "T2 I EP.13 I HAY QUE CHIGARLE!!! I FT. KIKA EDGAR",
-      "url": "https://open.spotify.com/episode/1vHdp8qzyIVCZwzgQMZYrd"
+      "duration_ms": 4655448,
+      "name": "T3 I EP.2 I RETOS I FT. TEO ",
+      "url": "https://open.spotify.com/episode/6GzweweyNX4mwBLcd3salZ"
     },
     {
-      "added_at": "2024-06-06 17:15:31",
-      "album": {
-        "name": "Chisme Corporativo",
-        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
-      },
-      "artists": [
-        {
-          "name": "Chisme Corporativo",
-          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
-        }
-      ],
-      "duration_ms": 4785386,
-      "name": "Nvidia: La compa\u00f1\u00eda que va ganando la carrera de AI y vale $2T USD",
-      "url": "https://open.spotify.com/episode/7AdilwFQVutDukhhDrVj4x"
-    },
-    {
-      "added_at": "2024-06-06 17:15:31",
-      "album": {
-        "name": "Casos de la Risa Real",
-        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
-      },
-      "artists": [
-        {
-          "name": "Casos de la Risa Real",
-          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
-        }
-      ],
-      "duration_ms": 3858311,
-      "name": "Cap\u00edtulo 12: Tr\u00e1fico",
-      "url": "https://open.spotify.com/episode/6yfD5vBthjtXIbEkFdSGeq"
-    },
-    {
-      "added_at": "2024-06-06 17:15:31",
-      "album": {
-        "name": "Buz\u00f3n de quejas",
-        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
-      },
-      "artists": [
-        {
-          "name": "Buz\u00f3n de quejas",
-          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
-        }
-      ],
-      "duration_ms": 4020010,
-      "name": "Episodio 090 / Cosas nuevas (Con \"El Pecas\")",
-      "url": "https://open.spotify.com/episode/0DDzK55AADdX8xfqWUhQPd"
-    },
-    {
-      "added_at": "2024-06-06 17:15:31",
+      "added_at": "2024-07-02 17:55:52",
       "album": {
         "name": "Se Regalan Sustos",
         "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
@@ -180,12 +84,12 @@
           "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
         }
       ],
-      "duration_ms": 6407422,
-      "name": "Feliz D\u00eda del Ni\u00f1o, Ni\u00f1a y Ni\u00f1e | El Lado Oscuro de los Ni\u00f1os Estrellas",
-      "url": "https://open.spotify.com/episode/6odbgvQ8qBwFHz6zGt3Hcd"
+      "duration_ms": 4941738,
+      "name": "Practicas Paranormales y Mi Experiencia con el Catolicismo Ft Mariana Maus",
+      "url": "https://open.spotify.com/episode/6kFZV8QvIW750mUbYRftSc"
     },
     {
-      "added_at": "2024-06-06 17:15:31",
+      "added_at": "2024-07-02 17:55:52",
       "album": {
         "name": "LAS BOTARGAS PODCAST",
         "url": "https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t"
@@ -196,9 +100,105 @@
           "url": "https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t"
         }
       ],
-      "duration_ms": 3414752,
-      "name": "ENAMOR\u00c1NDOME DESDE MIS TRAUMAS",
-      "url": "https://open.spotify.com/episode/0qxX9Sc2YY2Rur91ckKauh"
+      "duration_ms": 4753057,
+      "name": "OVULANDO Y PELIGRANDO",
+      "url": "https://open.spotify.com/episode/5JxLBlw6oVhRUSOEP8TBNe"
+    },
+    {
+      "added_at": "2024-07-02 17:55:52",
+      "album": {
+        "name": "Chisme Corporativo",
+        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
+      },
+      "artists": [
+        {
+          "name": "Chisme Corporativo",
+          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
+        }
+      ],
+      "duration_ms": 4335023,
+      "name": "OnlyFans: La revoluci\u00f3n del contenido XXX",
+      "url": "https://open.spotify.com/episode/47ZDLi2R623z0wNMaa5twZ"
+    },
+    {
+      "added_at": "2024-07-02 17:55:52",
+      "album": {
+        "name": "Buz\u00f3n de quejas",
+        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
+      },
+      "artists": [
+        {
+          "name": "Buz\u00f3n de quejas",
+          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
+        }
+      ],
+      "duration_ms": 3990016,
+      "name": "Episodio 097 / Embruj\u00e9 a mi pareja",
+      "url": "https://open.spotify.com/episode/0qAWa06rBOlExTGtsDzZrM"
+    },
+    {
+      "added_at": "2024-07-02 17:55:52",
+      "album": {
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
+      },
+      "artists": [
+        {
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
+        }
+      ],
+      "duration_ms": 4175908,
+      "name": "Cap\u00edtulo 16: Fantasmas en escuelas",
+      "url": "https://open.spotify.com/episode/7f43c6gsbvdKP1iTCtwUJ4"
+    },
+    {
+      "added_at": "2024-07-02 17:55:52",
+      "album": {
+        "name": "Lclub Podcast",
+        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
+      },
+      "artists": [
+        {
+          "name": "Lclub Podcast",
+          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
+        }
+      ],
+      "duration_ms": 4206840,
+      "name": "T3 I EP.3 I LO JAM\u00c1S CONTADO",
+      "url": "https://open.spotify.com/episode/3jkAmmA86Ibl8LVqSDMVyi"
+    },
+    {
+      "added_at": "2024-07-02 17:55:52",
+      "album": {
+        "name": "Se Regalan Sustos",
+        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+      },
+      "artists": [
+        {
+          "name": "Se Regalan Sustos",
+          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+        }
+      ],
+      "duration_ms": 5487360,
+      "name": "Los Pap\u00e1s m\u00e1s Siniestros de la Internet | Especial D\u00eda del Padre",
+      "url": "https://open.spotify.com/episode/6yKXiLUiydYQmVdcOhvT6P"
+    },
+    {
+      "added_at": "2024-07-02 17:55:52",
+      "album": {
+        "name": "LAS BOTARGAS PODCAST",
+        "url": "https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t"
+      },
+      "artists": [
+        {
+          "name": "LAS BOTARGAS PODCAST",
+          "url": "https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t"
+        }
+      ],
+      "duration_ms": 3764271,
+      "name": "ROMPIENDO MOLDES",
+      "url": "https://open.spotify.com/episode/0NcofAbWfRkRkPMovCmaH1"
     }
   ],
   "unique_name": "RADAR Podcasters M\u00e9xico",

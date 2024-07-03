@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-704 songs - 1 day 22 hr 9 min
+706 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Agnus Dei](https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 5:45 | 2024-01-27 |  |
 | [Ain't Nice \- Live](https://open.spotify.com/track/3gdKrnlB0WmJtlxSur73Rm) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Shrimp Sessions 2 \(Live\)](https://open.spotify.com/album/5eSg2ejmod1kGMjCR7giv7) | 3:32 | 2023-12-23 |  |
 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 |  |
-| [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 |  |
+| [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 | 2024-07-03 |
 | [Alagbon Close](https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Alagbon Close](https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy) | 17:01 | 2023-06-14 | 2023-07-09 |
 | [Alewife](https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2023-11-03 | 2024-01-04 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2024-04-07 |  |
@@ -481,6 +481,7 @@
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-04-25 |  |
 | [Psychedelics: I\. Deep Blue \(You Beat Me\)](https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon) | [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Rough Magic](https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d) | 4:39 | 2024-01-29 |  |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
+| [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2024-07-02 |  |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2024-01-08 |  |
 | [Quivering In Time](https://open.spotify.com/track/20droT4qrvOsNlAhUpuI2r) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Quivering In Time](https://open.spotify.com/album/0C0mGs17Sqyfbty2Fkii82) | 6:36 | 2022-05-18 |  |
 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2022-08-19 |  |
@@ -545,7 +546,7 @@
 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 | 2023-06-23 |  |
 | [Sky Saw \- 2004 Remaster](https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:27 | 2024-06-17 |  |
 | [Sleep to Dream](https://open.spotify.com/track/51HiIbv8gO0HvwpmAxXAFe) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:08 | 2023-06-08 | 2023-06-14 |
-| [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 | 2023-04-10 |  |
+| [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 | 2023-04-10 | 2024-07-03 |
 | [Sleeping Ute](https://open.spotify.com/track/2PoqnzWrZku3y90o50wVNi) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 4:35 | 2023-06-19 | 2024-01-07 |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2023-05-21 | 2023-06-27 |
 | [Slo Fuzz](https://open.spotify.com/track/3TXgeGMfOq4jcZT4cfAbQc) | [Sol Seppy](https://open.spotify.com/artist/0qj5XOYNq5KuJbvcWCa9vZ) | [The Bells of 1 2](https://open.spotify.com/album/5XgQr3mTgK0OZhbRA2U4M8) | 6:25 | 2024-01-17 |  |
@@ -689,7 +690,7 @@
 | [White Room](https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Gongjoong Doduk](https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR) | 4:24 | 2024-02-07 |  |
 | [Who I Am](https://open.spotify.com/track/2ak64lN0RARj28Vpj074Zm) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [The Dreaming Room \(Special Edition\)](https://open.spotify.com/album/3zbxHIsyjD7NmglV6cYb4D) | 1:18 | 2024-01-18 |  |
 | [Whole Lotta Love \- Remaster](https://open.spotify.com/track/3OuMIIFP5TxM8tLXMWYPGV) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 5:34 | 2023-09-06 |  |
-| [Why?](https://open.spotify.com/track/6ZfbRzC0HfmjDnpXQPXY6T) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Crumbling](https://open.spotify.com/album/0p4awV64ILfveFGtZBsaAD) | 4:41 | 2024-06-17 |  |
+| [Why?](https://open.spotify.com/track/6ZfbRzC0HfmjDnpXQPXY6T) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Crumbling](https://open.spotify.com/album/0p4awV64ILfveFGtZBsaAD) | 4:41 | 2024-06-17 | 2024-07-03 |
 | [Wife You Up](https://open.spotify.com/track/3kVXnFQkCWegpVmONNraop) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 4:36 | 2023-08-14 |  |
 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 | 2023-12-15 | 2024-05-17 |
 | [Willow Tree](https://open.spotify.com/track/5H8gGN15unaHwUSNhKWPxm) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [Soft Airplane](https://open.spotify.com/album/2pKjG5kGU8DAJSey6cUmjB) | 3:13 | 2023-11-03 |  |
@@ -712,5 +713,6 @@
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2024-01-18 |  |
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |
+| [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |
 
 \*This playlist was first scraped on 2023-03-31. Prior content cannot be recovered.

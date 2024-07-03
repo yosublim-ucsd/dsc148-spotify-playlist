@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
@@ -3467,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358581,
+      "name": "Blackened (feat. Dave Lombardo)",
+      "url": "https://open.spotify.com/track/1KF7vtHz0vPrqjHkqVnFmL"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0"
       },
@@ -3948,6 +3970,24 @@
       "duration_ms": 686000,
       "name": "Budapest - Live - Remastered 2023",
       "url": "https://open.spotify.com/track/0rjwoRP5XV7SMSj38sq1bR"
+    },
+    {
+      "album": {
+        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163330,
+      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
+      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
     },
     {
       "album": {
@@ -4930,6 +4970,24 @@
       "duration_ms": 203636,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+    },
+    {
+      "album": {
+        "name": "Younger Than Today (Live)",
+        "url": "https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126328,
+      "name": "Cinderella Rockafella - Live",
+      "url": "https://open.spotify.com/track/1zz08GQbQ95N2qUXiVakQq"
     },
     {
       "album": {
@@ -9166,7 +9224,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 350722,
       "name": "For a Thousand Mothers - Live",
       "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
@@ -16618,7 +16676,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 164519,
       "name": "Love Is Surrender - Live",
       "url": "https://open.spotify.com/track/2xcCsyB31VuQLMjM67ktOb"
@@ -17544,7 +17602,7 @@
       },
       "artists": [
         {
-          "name": "The Dead Rabbitts",
+          "name": "Dead Rabbitts",
           "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
         },
         {
@@ -18184,6 +18242,24 @@
       "duration_ms": 221333,
       "name": "My Light",
       "url": "https://open.spotify.com/track/1p2NZRtAhMVfdgJamzM3RC"
+    },
+    {
+      "album": {
+        "name": "Attack Phase (Live Los Angeles '84)",
+        "url": "https://open.spotify.com/album/2MkLcXpAaiTCW6Uas7bpCN"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216124,
+      "name": "My War - Live",
+      "url": "https://open.spotify.com/track/4JnMxVOWWBf49qOgzlHm2E"
     },
     {
       "album": {
@@ -19144,6 +19220,24 @@
       "duration_ms": 235714,
       "name": "Nothing Ever After",
       "url": "https://open.spotify.com/track/1YWT9j6SVGwvdwofuxRBe7"
+    },
+    {
+      "album": {
+        "name": "Boston Tea Party, Boston 1970",
+        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326718,
+      "name": "Nothing Is Easy - Live",
+      "url": "https://open.spotify.com/track/4vvblEUbUHH1HRN35ZxN8g"
     },
     {
       "album": {
@@ -22424,7 +22518,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 407450,
       "name": "Ride the Lightning",
       "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
@@ -25866,7 +25960,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 185286,
       "name": "Surf Wax America - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr"
@@ -28870,7 +28964,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 377785,
       "name": "Three Nights - Live",
       "url": "https://open.spotify.com/track/0Y2xuqMfLOs0y5bQ3jVhfm"

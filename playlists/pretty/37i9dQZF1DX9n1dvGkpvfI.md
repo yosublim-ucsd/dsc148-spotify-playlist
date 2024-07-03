@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="spotify:artist:5gznATMVO85ZcLTkE9ULU7">Lenny Kravitz</a> and the songs that shape their alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,273 likes - 32 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,280 likes - 32 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

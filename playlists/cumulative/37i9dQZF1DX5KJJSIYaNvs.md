@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Neha Bhasin
+> Listen to women at full volume\. Cover \- Sukriti Kakar, Prakriti Kakar
 
 330 songs - 19 hr 25 min
 

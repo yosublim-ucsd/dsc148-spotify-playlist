@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,170 songs - 1 day 20 hr 28 min
+1,171 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [Let's stay here forever](https://open.spotify.com/track/5M4NSsW6J63KGMHc1y0c6c) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Let's stay here forever](https://open.spotify.com/album/7f6G4nEcP8zfHdFE61MABP) | 2:29 | 2024-02-09 |  |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2021-11-10 | 2022-07-29 |
 | [Lickity Strings](https://open.spotify.com/track/5DgGR97f1mJVghYHiRIrpT) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [lickity strings](https://open.spotify.com/album/1RDTcxXVvp9HCXRUwL5LF9) | 2:08 | 2022-07-08 | 2023-04-28 |
-| [Life](https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Life](https://open.spotify.com/album/06zhjwSw4KeDhxJJj7QX3h) | 2:03 | 2023-03-16 |  |
+| [Life](https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Life](https://open.spotify.com/album/06zhjwSw4KeDhxJJj7QX3h) | 2:03 | 2023-03-16 | 2024-07-03 |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2021-11-10 | 2022-04-08 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-11-10 | 2022-05-27 |
 | [Lifted](https://open.spotify.com/track/2TiPnK5thdkQPHpGJDhf4m) | [Lumini](https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu), [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Lifted](https://open.spotify.com/album/1tRGn7tdLi2a4Z9MHxNZOM) | 2:29 | 2022-11-25 |  |
@@ -819,6 +819,7 @@
 | [Pretty Machine](https://open.spotify.com/track/4meg3qbldu4dlTv5e6hWsj) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pretty Machine](https://open.spotify.com/album/5EQ08AeGmReXRD17x2ybJc) | 2:05 | 2023-02-07 |  |
 | [Propaganda](https://open.spotify.com/track/4pGFAdZGXhH0sdsygb6wIP) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Propaganda](https://open.spotify.com/album/523RDjlbLVarxB690TTS50) | 2:13 | 2023-02-17 |  |
 | [Pulse](https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Pulse](https://open.spotify.com/album/1eCNVdcm396voeH3TvvGMg) | 2:01 | 2022-08-19 | 2023-10-06 |
+| [Pulses Of Light](https://open.spotify.com/track/42AhAYqu0InMQts7uo2JcR) | [pósza](https://open.spotify.com/artist/7hJFmedA1zOESZECgDPvKq), [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Pulses Of Light](https://open.spotify.com/album/14YjvBZxtfpBRGJs8IPqJN) | 2:36 | 2024-06-28 |  |
 | [Puppy Love](https://open.spotify.com/track/0VjZvP7Lr8Pkeq1v0QAkNt) | [overthemoon](https://open.spotify.com/artist/3wvbWEn9z1AcCS2sGF5fgz), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Puppy Love](https://open.spotify.com/album/72ykVcSpu8JIYFp1E8KxC3) | 1:54 | 2022-12-09 |  |
 | [Purple](https://open.spotify.com/track/0VGdOE6W9O8D4RoVhO1vb9) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Purple](https://open.spotify.com/album/2xKHNEKqEBPnz6iJKpW4yv) | 1:50 | 2023-02-07 | 2023-10-13 |
 | [Purple & Yellow](https://open.spotify.com/track/5Q4X6JGfoZM89iGSNGt2XR) | [Idyllik Beat](https://open.spotify.com/artist/2iIteXiNI5fVOATQamujmX) | [Purple & Yellow](https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz) | 2:15 | 2021-11-10 | 2023-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,168 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,171 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 51 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 52 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 53 | [Hard Luck](https://open.spotify.com/track/6d9k2qiL2MNiOkTflqQyvi) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [While I'm Livin'](https://open.spotify.com/album/4tydPSka2twxxoBiS2HTkU) | 3:22 |
-| 54 | [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 |
-| 55 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
+| 54 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
+| 55 | [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 |
 | 56 | [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 |
 | 57 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 | 58 | [Prisoner Of The Highway](https://open.spotify.com/track/17ovUJrgt7GvsemAskk0Vs) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:44 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 60 | [Drunken Poet's Dream \[feat\. Ray Wylie Hubbard\] \(Alone Together Sessions\)](https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Alone Together Sessions](https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE) | 4:53 |
 | 61 | [Everything Is Broken](https://open.spotify.com/track/3UHyIr4CEma2wusb208Wyl) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Everything Is Broken](https://open.spotify.com/album/6wBh8mo97CY42OTfh1DjHi) | 4:32 |
 | 62 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/5zTpwOHztQElKRizyTayWa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/album/0uZDVcg1RcF8WoWbyN0R5Y) | 2:52 |
-| 63 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 |
+| 63 | [Wrangled](https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN) | [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Wrangled](https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58) | 4:42 |
 | 64 | [Wild Love](https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:51 |
-| 65 | [Wrangled](https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN) | [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Wrangled](https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58) | 4:42 |
+| 65 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 |
 | 66 | [Terlingua Girl](https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Terlingua Girl](https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF) | 4:14 |
 | 67 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
 | 68 | [Be There](https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 3:06 |

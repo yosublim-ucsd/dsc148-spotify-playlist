@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,975 songs - 3 day 3 hr 14 min
+1,978 songs - 3 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 | 2022-04-15 | 2022-09-09 |
 | [Clowder](https://open.spotify.com/track/2kqlD6qDW2lEneH0JiJWkW) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM) | [Clowder](https://open.spotify.com/album/2WZPZEwHcMq3NIWOXBFYu4) | 2:20 | 2022-12-02 | 2023-09-16 |
 | [Coastal Rock Cafe](https://open.spotify.com/track/0EIHrZotApWG5NtQUwTrEL) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [The Roar Shack](https://open.spotify.com/album/6ZOBFrnnIHJHLI7Vkh9T5s) | 2:38 | 2023-03-08 |  |
+| [coconut coffee](https://open.spotify.com/track/5a3ADzSwj3AW8T54W5fY6i) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [coconut coffee](https://open.spotify.com/album/56R9MfE2lSx6JvDe3Lhqxy) | 2:52 | 2024-06-28 |  |
 | [Coconut Cup](https://open.spotify.com/track/1KdXLFsrKF4bRlWXw9skui) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Coconut Cup](https://open.spotify.com/album/6aAeUCH9XWIPsVrYLSFmA1) | 2:22 | 2022-08-19 | 2022-12-24 |
 | [Coffee Break](https://open.spotify.com/track/3TF8Y8OD9lpxLOfmu2SMmn) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Coffee Break](https://open.spotify.com/album/1ZK1GmOmLyr265KdL2R8Vq) | 2:02 | 2022-04-15 | 2022-08-12 |
 | [Coffee Jazz](https://open.spotify.com/track/2JnVnqt3M2mUw1BJcCqI0U) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Coffee Jazz](https://open.spotify.com/album/7cQ81TcqB4raY5AfZx0e3u) | 2:22 | 2022-06-17 | 2022-11-19 |
@@ -550,6 +551,7 @@
 | [Fading Colors](https://open.spotify.com/track/4Su1EazQcPKvETX64OhB8t) | [Newline](https://open.spotify.com/artist/1I4wkU56nEpzuLLEm2ldge) | [Fading Colors](https://open.spotify.com/album/0P2Fczuh7nB3AuAzzLEkrL) | 1:55 | 2022-04-15 | 2023-02-14 |
 | [Faint Light](https://open.spotify.com/track/5XtvHaPeewGmFmTsOUNSvF) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Faint Light](https://open.spotify.com/album/7ukkwqkIMsfgYyQwiYXGG5) | 2:04 | 2023-12-22 | 2024-03-30 |
 | [Fairy Tale](https://open.spotify.com/track/33x57rcYVkrWtkWB9y2PF2) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Fairy Tale](https://open.spotify.com/album/7rGiBNEMGF8BY4pLWf0VcU) | 2:15 | 2022-04-15 | 2022-07-08 |
+| [Falcon](https://open.spotify.com/track/2ayC31AGGoGHISl3BP0qSs) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Falcon](https://open.spotify.com/album/71xM5XgklqQxrh2AZaoaNY) | 2:53 | 2024-06-28 |  |
 | [Fall](https://open.spotify.com/track/4ktQlvpAp24OHHseNyqpPR) | [Mellowy](https://open.spotify.com/artist/0WWCPlUte6BqFbkgqrPUk3), [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Fall](https://open.spotify.com/album/0r9gnF9JGwLs32kXHvwgKH) | 1:50 | 2023-01-06 | 2023-03-09 |
 | [falling](https://open.spotify.com/track/0JwITaadgbbBnQIioNbjrD) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [falling](https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS) | 2:40 | 2022-04-15 | 2022-10-14 |
 | [Falling Rain](https://open.spotify.com/track/7iTsPfmlc3GG6IG79co6z3) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Falling Rain](https://open.spotify.com/album/6vd7QtHRpTPqkV5G3jdX8U) | 1:49 | 2024-05-13 |  |
@@ -844,7 +846,7 @@
 | [Into The Night](https://open.spotify.com/track/0vavSTMt54bNKGZhuZqSUp) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Into The Night](https://open.spotify.com/album/4Tegesw0Dq6pqB0QI61WMs) | 1:13 | 2024-05-13 |  |
 | [Into The Unknown](https://open.spotify.com/track/1Fafr7uDbeM6V4UoA9BtNC) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Into The Unknown](https://open.spotify.com/album/3wcBHJ4HLjelIoxd7qrJ2A) | 2:51 | 2023-09-08 | 2023-10-06 |
 | [Iron Pan Love](https://open.spotify.com/track/3Gf8p9tWhMqE1pTiCXBoAo) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Iron Pan Love](https://open.spotify.com/album/1FdWrYSVPdYzE1WK9LpDTc) | 2:01 | 2022-10-01 |  |
-| [Issa thang](https://open.spotify.com/track/6HyECvfMgS1SfMMnz1fJjG) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Amu](https://open.spotify.com/album/0orzuB5fBME9S1tDhxwZjx) | 2:20 | 2022-10-28 |  |
+| [Issa thang](https://open.spotify.com/track/6HyECvfMgS1SfMMnz1fJjG) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Amu](https://open.spotify.com/album/0orzuB5fBME9S1tDhxwZjx) | 2:20 | 2022-10-28 | 2024-07-03 |
 | [It hasn't rained in like this in years](https://open.spotify.com/track/6Cm89dtQ8Is63NmkNcb5ha) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [It hasn't rained in like this in years](https://open.spotify.com/album/2KFQ1RLysJsdKvG2XBk0Hz) | 2:24 | 2023-02-06 |  |
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 | 2022-11-12 |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 | 2022-09-02 |
@@ -982,7 +984,7 @@
 | [lonely paradise](https://open.spotify.com/track/4PayKAGYOAQY0IgD4Lj7Gd) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [lonely paradise](https://open.spotify.com/album/0TZzs1RY8tom6nAG4TLhNV) | 2:47 | 2024-02-02 |  |
 | [Lonely Ride](https://open.spotify.com/track/1Eye203Jrl7hqNh3Fp0W7B) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Lonely Ride](https://open.spotify.com/album/53Jt4oMPoYd1o68Ptaicfl) | 2:15 | 2022-11-18 | 2023-02-07 |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2022-04-15 | 2022-05-27 |
-| [Long Green](https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro) | [ULMÄR](https://open.spotify.com/artist/68q8XXsA6PTuUJGRge3sR5) | [Long Green](https://open.spotify.com/album/08vHVer2zsqXCop1SKBA5Y) | 2:52 | 2022-11-18 |  |
+| [Long Green](https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro) | [ULMÄR](https://open.spotify.com/artist/68q8XXsA6PTuUJGRge3sR5) | [Long Green](https://open.spotify.com/album/08vHVer2zsqXCop1SKBA5Y) | 2:52 | 2022-11-18 | 2024-07-03 |
 | [Longing](https://open.spotify.com/track/05GlRiSvnaggtZNRUa2uC0) | [beatmon](https://open.spotify.com/artist/57e9NWmKBJnNbKmEf4qOrk) | [Longing](https://open.spotify.com/album/7bmRiZrMzbxwGPcvXw7sP6) | 1:55 | 2023-12-15 |  |
 | [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 | 2022-04-15 | 2023-08-18 |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2023-02-21 |  |
@@ -1385,7 +1387,7 @@
 | [Radiotravel](https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W) | [stockcosmos](https://open.spotify.com/artist/7n38ifmZ65xQpC6pTcnhDE) | [Radiotravel](https://open.spotify.com/album/50fdifiTlkBgWudCuZRdzA) | 2:25 | 2023-11-17 |  |
 | [Radish Style](https://open.spotify.com/track/07B5jrUOKWraSjvL0Dzm4H) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Radish Style](https://open.spotify.com/album/51QxaDPh0rDqpBIiqD5AzF) | 2:14 | 2022-12-02 | 2023-09-16 |
 | [raft](https://open.spotify.com/track/4vBLwo8KRVOnq0J3tnJZaL) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [raft](https://open.spotify.com/album/3RkwB73fuQQPtX2r6ccjB5) | 2:18 | 2024-05-23 | 2024-06-02 |
-| [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 |  |
+| [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 | 2024-07-03 |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2022-11-12 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 |  |
 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 | 2022-04-15 | 2022-09-02 |
@@ -1418,6 +1420,7 @@
 | [Remote View](https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Remote View](https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza) | 1:16 | 2023-10-27 |  |
 | [resonance](https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [resonance](https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ) | 2:53 | 2023-02-13 |  |
 | [Resonance](https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Resonance](https://open.spotify.com/album/2sl0CVYk9JPGp5ub68hqd2) | 2:31 | 2023-06-06 | 2023-10-06 |
+| [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 |  |
 | [Resting Days](https://open.spotify.com/track/6FKD7NlcNchJckU1LxjN5U) | [Chizu](https://open.spotify.com/artist/6NQ1aKb4xNup2HIbJFaJdF) | [Resting Days](https://open.spotify.com/album/4MTSGuIddwLkv38fWmMHvq) | 2:20 | 2024-06-21 |  |
 | [Resting My Eyes](https://open.spotify.com/track/6kw2yo60FfpYIFF52zWwUd) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Resting My Eyes](https://open.spotify.com/album/7I2hfGM9gY1hZpnZUJDIdx) | 2:12 | 2023-03-08 |  |
 | [Restless](https://open.spotify.com/track/5xYTsbx3aGOGv3mvIxny97) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Restless](https://open.spotify.com/album/30DSkNqh7iM9CoxpoYhNde) | 1:55 | 2022-04-15 | 2023-02-14 |

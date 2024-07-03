@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 164 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 164 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 49 | [Murder](https://open.spotify.com/track/1x2Lwsmw3nHlitV31w3Hwu) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Fable](https://open.spotify.com/album/2KKnbxUK3ycERX2d9qINVP) | 3:09 |
 | 50 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 |
 | 51 | [Impossible Is Nothing](https://open.spotify.com/track/0wjP81vqcXgjkCZDdIdwoL) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:10 |
-| 52 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
-| 53 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
+| 52 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
+| 53 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
 | 54 | [MISBEHAVE](https://open.spotify.com/track/32lyiJgk8LYfVBTkhq7kCW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 3:24 |
 | 55 | [When I Lie \(Remix\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6lLDL0dGG00wcyo1yQTnUY) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:13 |
 | 56 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 141 | [Nobody but You](https://open.spotify.com/track/3xc9WGY2CSKSxjY7YhVnEl) | [Nadeah](https://open.spotify.com/artist/0aTt9pxnOoozI8UoyJ7jSc) | [Venus Gets Even \(International Version\)](https://open.spotify.com/album/0Nyk48bnfHK6KEgQ1a1SjP) | 5:43 |
 | 142 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
 | 143 | [Trapped In The Car](https://open.spotify.com/track/5MxTZtqUmFkrpYREy81x6V) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Lost But Found](https://open.spotify.com/album/0K9YYtCyU5ePduZcnwdN2H) | 2:46 |
-| 144 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
-| 145 | [Heartslap](https://open.spotify.com/track/4K81soo8r8lpB711m7E0ze) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:09 |
+| 144 | [Heartslap](https://open.spotify.com/track/4K81soo8r8lpB711m7E0ze) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:09 |
+| 145 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
 | 146 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 |
 | 147 | [History](https://open.spotify.com/track/3JN6wykoBHA9nfTQSZpcHH) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:37 |
 | 148 | [You Make It so Easy, Don't You \(feat\. Sam Sparro\)](https://open.spotify.com/track/08XXFoYJNdPnYGxVS9a7A9) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fun City](https://open.spotify.com/album/2sxw4rC5lerPPb5gDbOwWm) | 3:18 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 163 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 164 | [What You Waiting For](https://open.spotify.com/track/5XoO5CqmGa6CT8qOZI9IuV) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/0GgDhgPS8j48IASnd7LZEa) | 3:46 |
 
-Snapshot ID: `AbVj6gAAAACCr9f4x0rGq5t+0R7loZFw`
+Snapshot ID: `AbVpigAAAADCET2BRmh8kS96tDMNrHrG`

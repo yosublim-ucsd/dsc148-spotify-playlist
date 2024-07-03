@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103160,
+  "num_followers": 103222,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2024-06-28 12:12:46",
       "album": {
-        "name": "Mirkelam",
-        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
+        "name": "Unuttum Derdimi",
+        "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
       },
       "artists": [
         {
-          "name": "Mirkelam",
-          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
         }
       ],
-      "duration_ms": 271426,
-      "name": "Tavla",
-      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
+      "duration_ms": 229787,
+      "name": "Unuttum Derdimi",
+      "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
     },
     {
       "added_at": "2024-06-28 12:12:46",
@@ -223,22 +227,18 @@
     {
       "added_at": "2024-06-28 12:12:46",
       "album": {
-        "name": "Unuttum Derdimi",
-        "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
+        "name": "Mirkelam",
+        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
       },
       "artists": [
         {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+          "name": "Mirkelam",
+          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
         }
       ],
-      "duration_ms": 229787,
-      "name": "Unuttum Derdimi",
-      "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
+      "duration_ms": 271426,
+      "name": "Tavla",
+      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
     },
     {
       "added_at": "2024-06-28 12:12:46",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-06-28 12:12:46",
       "album": {
+        "name": "Uzun Uzun (feat. Jabbar)",
+        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Uzun Uzun (feat. Jabbar)",
+      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
+    },
+    {
+      "added_at": "2024-06-28 12:12:46",
+      "album": {
         "name": "Divane",
         "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
       },
@@ -387,26 +407,6 @@
     {
       "added_at": "2024-06-28 12:12:46",
       "album": {
-        "name": "Uzun Uzun (feat. Jabbar)",
-        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Uzun Uzun (feat. Jabbar)",
-      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
-    },
-    {
-      "added_at": "2024-06-28 12:12:46",
-      "album": {
         "name": "\u00c7apk\u0131nca",
         "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
       },
@@ -423,6 +423,26 @@
       "duration_ms": 218789,
       "name": "\u00c7apk\u0131nca",
       "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
+    },
+    {
+      "added_at": "2024-06-28 12:12:46",
+      "album": {
+        "name": "Bildi\u011fim Gibi",
+        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Bildi\u011fim Gibi",
+      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2024-06-28 12:12:46",
@@ -555,26 +575,6 @@
       "duration_ms": 217186,
       "name": "\u015eark\u0131lar G\u00fczelse Hala",
       "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
-    },
-    {
-      "added_at": "2024-06-28 12:12:46",
-      "album": {
-        "name": "Bildi\u011fim Gibi",
-        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Bildi\u011fim Gibi",
-      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2024-06-28 12:12:46",

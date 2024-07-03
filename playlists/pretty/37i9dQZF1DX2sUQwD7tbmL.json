@@ -1,6 +1,6 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2298847,
+  "num_followers": 2298911,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Oracular Spectacular",
@@ -231,6 +215,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "help herself",
         "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 188571,
       "name": "help herself",
       "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Walk The Moon",
@@ -867,6 +851,22 @@
       "duration_ms": 321280,
       "name": "Anna Sun",
       "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Thoughts on Letting Go",
-        "url": "https://open.spotify.com/album/1FNraVqmo20A7u9b1Y7FcF"
-      },
-      "artists": [
-        {
-          "name": "HARBOUR",
-          "url": "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
-        }
-      ],
-      "duration_ms": 271137,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "I'm in Love",
-        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
+        "name": "Thoughts on Letting Go",
+        "url": "https://open.spotify.com/album/1FNraVqmo20A7u9b1Y7FcF"
       },
       "artists": [
         {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+          "name": "HARBOUR",
+          "url": "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
         }
       ],
-      "duration_ms": 196724,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
+      "duration_ms": 271137,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 142333,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 196724,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1519,38 +1535,6 @@
       "duration_ms": 173975,
       "name": "My Body ft Your Lips",
       "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Stella Brown",
-        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 170701,
       "name": "He Loves Me Yeah!",
       "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Stella Brown",
+        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
     },
     {
       "added_at": "2024-06-28 22:56:02",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Shudder",
-        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Shudder",
-      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Your Life Your Time",
         "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
       },
@@ -1701,6 +1685,22 @@
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Romanticism",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+        "name": "Shudder",
+        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
         }
       ],
-      "duration_ms": 203037,
-      "name": "Sickly Sweet",
-      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+      "duration_ms": 167271,
+      "name": "Shudder",
+      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1813,6 +1813,22 @@
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
     },
     {
+      "added_at": "2024-06-28 22:56:02",
+      "album": {
+        "name": "I Got Cracked",
+        "url": "https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 219896,
+      "name": "I Got Cracked",
+      "url": "https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm"
+    },
+    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "LP3",
@@ -1843,38 +1859,6 @@
       "duration_ms": 168173,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "May Ninth",
-        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 192144,
-      "name": "May Ninth",
-      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1911,6 +1895,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0"
       },
@@ -1925,20 +1925,20 @@
       "url": "https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0"
     },
     {
-      "added_at": "2024-06-28 22:56:02",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "I Got Cracked",
-        "url": "https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe"
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
       "artists": [
         {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 219896,
-      "name": "I Got Cracked",
-      "url": "https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm"
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Sour Patch",
-        "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 201735,
-      "name": "Sour Patch",
-      "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "My Grandma Says We Have No Future",
         "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 174600,
       "name": "My Grandma Says We Have No Future",
       "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Sour Patch",
+        "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 201735,
+      "name": "Sour Patch",
+      "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2197,6 +2197,22 @@
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
       "added_at": "2024-06-28 22:56:02",
       "album": {
         "name": "LOVEBITES",
@@ -2215,18 +2231,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+        "name": "Superbloomer",
+        "url": "https://open.spotify.com/album/43M8szELX9et29YildxYbP"
       },
       "artists": [
         {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
         }
       ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+      "duration_ms": 277175,
+      "name": "Superbloomer",
+      "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2243,22 +2259,6 @@
       "duration_ms": 177662,
       "name": "zzz",
       "url": "https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Superbloomer",
-        "url": "https://open.spotify.com/album/43M8szELX9et29YildxYbP"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 277175,
-      "name": "Superbloomer",
-      "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 245496,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "You Are Who You Hang Out With",
         "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 245496,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
     },
     {
       "added_at": "2024-05-10 04:00:00",

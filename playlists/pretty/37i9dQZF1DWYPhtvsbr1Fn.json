@@ -1,13 +1,77 @@
 {
-  "description": "resurging tracks coming in hot. cover: Frank Ocean in his \"Ivy\" era",
-  "num_followers": 112077,
+  "description": "resurging tracks coming in hot. cover: Eminem in his \"Marshall Mathers\" era",
+  "num_followers": 112734,
   "original_name": "reheat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZloHgAAAAAAjM2QQFghwPcJcqnY4vbIU",
+  "snapshot_id": "ZoNwFAAAAADqf8gkB54seSQn+niCc7np",
   "tracks": [
+    {
+      "added_at": "2024-07-02 03:12:19",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 377893,
+      "name": "Kim",
+      "url": "https://open.spotify.com/track/20oenBXlmwIfK0F3fQIjhM"
+    },
+    {
+      "added_at": "2024-07-02 03:12:19",
+      "album": {
+        "name": "The Happy Song",
+        "url": "https://open.spotify.com/album/4JmrIJbpHWHZxOJg4awGh4"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 157924,
+      "name": "The Happy Song",
+      "url": "https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws"
+    },
+    {
+      "added_at": "2024-07-02 03:12:19",
+      "album": {
+        "name": "Cum Cake",
+        "url": "https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Deepthroat",
+      "url": "https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd"
+    },
+    {
+      "added_at": "2024-07-02 03:12:19",
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
     {
       "added_at": "2024-03-20 00:03:13",
       "album": {
@@ -463,22 +527,6 @@
     {
       "added_at": "2024-03-20 00:03:13",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-03-20 00:03:13",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
       },
@@ -657,38 +705,6 @@
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
-      "added_at": "2024-04-17 21:57:09",
-      "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
-    },
-    {
-      "added_at": "2024-03-20 00:03:13",
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
-    },
-    {
       "added_at": "2024-03-20 00:03:13",
       "album": {
         "name": "The Colour And The Shape",
@@ -723,26 +739,6 @@
       "duration_ms": 289000,
       "name": "Superstar (feat. Matthew Santos)",
       "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
-    },
-    {
-      "added_at": "2024-03-20 00:03:13",
-      "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2024-04-08 22:34:37",

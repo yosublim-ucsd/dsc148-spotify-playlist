@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 10987,
+  "num_followers": 10992,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAAdXEUa2PtIhq8el5tVbcVw",
+  "snapshot_id": "ZoHxgAAAAAAt/ebPrigTqElMDT1Q1/4m",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Rider (feat. Wrabel)",
-        "url": "https://open.spotify.com/album/4Ghd5HEQg3vxneCjqRBu8N"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Moon Rider (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/3PP9CXeE0PYaM5GIGQqBIV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moonlight (The Remixes)",
         "url": "https://open.spotify.com/album/3gmbHl9gfRU8KTOh9z26E7"
       },
@@ -139,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn"
+        "name": "Moon Rider (feat. Wrabel)",
+        "url": "https://open.spotify.com/album/4Ghd5HEQg3vxneCjqRBu8N"
       },
       "artists": [
         {
@@ -148,13 +128,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Mr Gabriel",
-          "url": "https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS"
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 223058,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI"
+      "duration_ms": 218000,
+      "name": "Moon Rider (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/3PP9CXeE0PYaM5GIGQqBIV"
     },
     {
       "added_at": null,
@@ -171,6 +151,26 @@
       "duration_ms": 258545,
       "name": "Lose My Mind (feat. Mr Gabriel)",
       "url": "https://open.spotify.com/track/0zEKfIm5b8EUcDM3qoPXKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Mr Gabriel",
+          "url": "https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS"
+        }
+      ],
+      "duration_ms": 223058,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI"
     },
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/16CCJo59jCko0476mRMmQu"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "JMR",
-          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Gravity (feat. JMR)",
-      "url": "https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 234986,
       "name": "Better Apart (feat. Dresage)",
       "url": "https://open.spotify.com/track/1TFC1wutiIHQQ9buf8bxQI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/16CCJo59jCko0476mRMmQu"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "JMR",
+          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Gravity (feat. JMR)",
+      "url": "https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan. Cover: Hasan Raheem",
+  "description": "The hottest tracks trending in Pakistan. Cover: Karpe, Kaifi Khalil,  Delara, The Quick Style ",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 214750,
       "name": "Admirin' You (feat. Preston Pablo)",
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
@@ -1038,6 +1038,32 @@
       "duration_ms": 168300,
       "name": "Bikhra",
       "url": "https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X"
+    },
+    {
+      "album": {
+        "name": "Blockbuster",
+        "url": "https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8"
+      },
+      "artists": [
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        },
+        {
+          "name": "Umair Butt",
+          "url": "https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P"
+        },
+        {
+          "name": "Gharvi Group",
+          "url": "https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274570,
+      "name": "Blockbuster",
+      "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
     },
     {
       "album": {
@@ -2179,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "G.O.A.T.",
+      "url": "https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"
+    },
+    {
+      "album": {
         "name": "Galliyan Returns (From \"Ek Villain Returns\")",
         "url": "https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD"
       },
@@ -2282,7 +2326,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 167234,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m"
@@ -2304,7 +2348,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 163000,
       "name": "Goin' Off",
       "url": "https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU"
@@ -3335,6 +3379,28 @@
     },
     {
       "album": {
+        "name": "Kaun Talha",
+        "url": "https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269409,
+      "name": "Kaun Talha",
+      "url": "https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu"
+    },
+    {
+      "album": {
         "name": "Kehdena",
         "url": "https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1"
       },
@@ -3552,7 +3618,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 203520,
       "name": "Koi Si",
       "url": "https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6"
@@ -3936,7 +4002,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 218600,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg"
@@ -4511,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "nadaaniyan",
+        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "nadaaniyan",
+      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+    },
+    {
+      "album": {
         "name": "4 Saal",
         "url": "https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q"
       },
@@ -4522,7 +4606,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 285656,
       "name": "Nahin Milta",
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
@@ -4658,7 +4742,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
@@ -4728,7 +4812,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
@@ -4772,6 +4856,24 @@
       "duration_ms": 190877,
       "name": "No Other Place",
       "url": "https://open.spotify.com/track/1GwcxZZvnshqiDqeD7EP8D"
+    },
+    {
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "album": {
@@ -5193,6 +5295,36 @@
     },
     {
       "album": {
+        "name": "Piya Piya Calling (feat. The Quick Style)",
+        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        },
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        },
+        {
+          "name": "The Quick Style",
+          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286122,
+      "name": "Piya Piya Calling (feat. The Quick Style)",
+      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
+    },
+    {
+      "album": {
         "name": "3:00 AM Sessions",
         "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
       },
@@ -5216,6 +5348,24 @@
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "album": {
@@ -5979,6 +6129,36 @@
     },
     {
       "album": {
+        "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
+        "url": "https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176875,
+      "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
+      "url": "https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ"
+    },
+    {
+      "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
       },
@@ -6540,7 +6720,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/0ptqV9ySE8HVbWblGdv3Eb"
@@ -7000,7 +7180,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 266181,
       "name": "Turri Jandi",
       "url": "https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX"

@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca
 
-1,507 songs - 3 day 10 hr 32 min
+1,508 songs - 3 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2022-03-24 | 2022-07-29 |
 | [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 | 2022-06-29 | 2023-01-21 |
 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-03-24 | 2022-04-17 |
-| [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-05-24 |  |
+| [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-05-24 | 2024-07-03 |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-17 | 2023-03-04 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-03-31 |
@@ -655,7 +655,7 @@
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-21 |  |
 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-09-01 | 2024-03-16 |
 | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/track/5PpPbVrs8A420BrabyPOGa) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/album/15g03MvPSXzmvra2cLxvgc) | 2:36 | 2022-02-10 | 2022-03-01 |
-| [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-05-10 | 2024-07-02 |
+| [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-05-10 |  |
 | [Kippe](https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Kippe](https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk) | 2:39 | 2022-09-16 | 2022-12-03 |
 | [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-29 | 2022-08-02 |
 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 | 2024-04-19 | 2024-06-29 |
@@ -815,6 +815,7 @@
 | [Mutuo Acuerdo](https://open.spotify.com/track/20wlK9lI8cq4tE5wJPK2WW) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Mutuo Acuerdo](https://open.spotify.com/album/4iQ8MdNuhc9N5B1PMbEa3T) | 2:38 | 2022-03-24 | 2022-04-19 |
 | [My best love!](https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [My best love!](https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim) | 3:34 | 2024-01-12 | 2024-03-02 |
 | [My Dream](https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [My Dream](https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K) | 3:19 | 2023-12-27 | 2024-05-18 |
+| [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-06-28 |  |
 | [MY I ONI](https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ZGRZYT](https://open.spotify.com/album/02wQzXoSwOPKZHik90xH3Q) | 2:42 | 2023-11-10 | 2024-03-24 |
 | [My Mr.Right](https://open.spotify.com/track/7jg3UyQr4zJdiBcjrXN0rd) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [My Mr.Right](https://open.spotify.com/album/77R5JWquBVS0tqeB2J0pG9) | 3:26 | 2022-02-03 | 2022-03-11 |
 | [MY WAY \(Prod\. R.Tee\)](https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 6:17 | 2023-05-30 | 2024-01-13 |
@@ -1439,7 +1440,7 @@
 | [只要妳喜歡](https://open.spotify.com/track/451RJJ6kEmtr4uM3Ygw0Be) | [DripO](https://open.spotify.com/artist/4UDaKqA1HCtrgZBlzcTAIk), [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [只要妳喜歡](https://open.spotify.com/album/7IArK90rR0kDA5XWOehxUv) | 3:02 | 2022-03-24 | 2022-03-28 |
 | [台北宵夜指南](https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [台北宵夜指南](https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn) | 3:44 | 2023-05-30 | 2023-11-18 |
 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 | 2022-03-21 | 2023-04-18 |
-| [咖啡氤](https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [咖啡氤](https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V) | 3:23 | 2024-05-17 |  |
+| [咖啡氤](https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [咖啡氤](https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V) | 3:23 | 2024-05-17 | 2024-07-03 |
 | [喜歡你](https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [喜歡你](https://open.spotify.com/album/28K6BO4fYxKi3xD6sgQWWb) | 2:22 | 2024-04-19 | 2024-05-11 |
 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 | 2023-10-13 | 2024-03-16 |
 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2022-02-03 | 2022-09-03 |

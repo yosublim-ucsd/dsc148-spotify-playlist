@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Musica da gridare 🖤 Cover: Sally Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,633 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,636 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

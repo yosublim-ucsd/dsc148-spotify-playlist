@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire, Marcelo Markes
 
-1,076 songs - 3 day 15 hr 20 min
+1,076 songs - 3 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Maranata](https://open.spotify.com/track/34xtS6GYIxEo59L7hvgnt9) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Setenta / Maranata](https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch) | 2:00 | 2023-09-01 | 2023-09-09 |
 | [Maranata](https://open.spotify.com/track/7szKdaCLiqXXpll6PvfYvx) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Maranata](https://open.spotify.com/album/2nuMp98fjHe1QnFIFCtLXq) | 4:18 | 2023-11-03 | 2023-11-25 |
 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 | 2024-04-19 | 2024-06-22 |
-| [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 6:44 | 2024-06-28 |  |
+| [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 | 2024-06-28 |  |
 | [Marca De Sangue \- Piano e Voz](https://open.spotify.com/track/5vtliMBC78JkppH3b8NNDA) | [Daniel Renovado](https://open.spotify.com/artist/0NWtWAXadyumDoXvvYwawf) | [Marca De Sangue \(Piano e Voz\)](https://open.spotify.com/album/0pUEXaIdGfXFNENE2Ipn2g) | 6:02 | 2023-09-01 | 2023-09-09 |
 | [Marcas \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/1mRvi0fZEVNCowLdYyGbeF) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [Marcas \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/2FZdBayTFw4lr6L1yj98P3) | 4:22 | 2023-07-28 | 2023-08-05 |
 | [Maria de Minha Infância](https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Gba Stage, Vol\. 11](https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG) | 5:02 | 2023-08-18 | 2023-09-02 |

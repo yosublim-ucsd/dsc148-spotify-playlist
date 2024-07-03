@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "It Won't Be Soon Before Long (International Version)",
+        "url": "https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "Makes Me Wonder",
+      "url": "https://open.spotify.com/track/3PNOYDruQplC92lNc7mE9W"
+    },
+    {
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 281880,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"

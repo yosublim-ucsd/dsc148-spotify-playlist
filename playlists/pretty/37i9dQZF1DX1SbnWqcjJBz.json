@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 111547,
+  "num_followers": 111627,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Gourmandises",
-        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
-      },
-      "artists": [
-        {
-          "name": "Aliz\u00e9e",
-          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
-        }
-      ],
-      "duration_ms": 264282,
-      "name": "Moi... Lolita",
-      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Gourmandises",
+        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
+      },
+      "artists": [
+        {
+          "name": "Aliz\u00e9e",
+          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
+        }
+      ],
+      "duration_ms": 264282,
+      "name": "Moi... Lolita",
+      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 177600,
       "name": "Alice",
       "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Break the Rules",
         "url": "https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+        "name": "Froot",
+        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
+      "duration_ms": 331324,
+      "name": "Froot",
+      "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Froot",
-        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 331324,
-      "name": "Froot",
-      "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1407,6 +1407,22 @@
       "duration_ms": 219999,
       "name": "I Begin to Wonder",
       "url": "https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1439,22 +1455,6 @@
       "duration_ms": 224200,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Lost In My Bedroom",
+      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 221205,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Lost In My Bedroom",
-      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
     },
     {
       "added_at": "2024-06-02 21:23:10",

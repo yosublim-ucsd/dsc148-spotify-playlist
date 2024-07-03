@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-336 songs - 19 hr 45 min
+336 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Teenage Fever](https://open.spotify.com/track/5ACkknqH2GcrVtmBB7LaRv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/7Ix0FS4f1lK42C3rix5rHg) | 3:39 | 2019-06-19\* | 2022-07-29 |
 | [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 | 2022-07-28 | 2024-04-19 |
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 | 2022-12-29 |  |
-| [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2024-02-02 |  |
+| [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 | 2024-02-02 |  |
 | [The Falls](https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Falls](https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB) | 2:52 | 2022-05-20 | 2022-07-29 |
 | [The Makeup Song](https://open.spotify.com/track/6M3i2UuZwjK8WH6lZ6yj43) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [The Makeup Song](https://open.spotify.com/album/6y3ijUB7hZt3FMWaWk0vw0) | 2:40 | 2024-05-31 |  |
 | [The Morning](https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:12 | 2019-05-26\* | 2022-04-16 |

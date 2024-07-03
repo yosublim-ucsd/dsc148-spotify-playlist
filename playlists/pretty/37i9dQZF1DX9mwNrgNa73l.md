@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,600 likes - 65 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,666 likes - 65 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 64 | [Haq Nama](https://open.spotify.com/track/4h00nIZhd1S6uJDKDpkEKj) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Haq Nama](https://open.spotify.com/album/5J7Qzd4bmQCqBXuhmhXVyw) | 5:06 |
 | 65 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 |
 
-Snapshot ID: `ZnUigAAAAADOfDc6qH8v0DsQnD2MfaEc`
+Snapshot ID: `ZoPiygAAAABUW+ucR1c3zWOVMn8ypgKW`

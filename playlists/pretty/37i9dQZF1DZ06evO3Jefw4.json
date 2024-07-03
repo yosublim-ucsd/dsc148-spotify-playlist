@@ -1,12 +1,12 @@
 {
   "description": "This Is Katy Perry. Los temas esenciales, todos en una lista.",
-  "num_followers": 1159965,
+  "num_followers": 1160148,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACTCMm4/JbtAj3p2ahDGvEP",
+  "snapshot_id": "ZoHxgAAAAACzs53TfrYCy6sSForybB6f",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
@@ -123,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Harleys In Hawaii",
-      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
       },
@@ -151,6 +155,22 @@
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "added_at": null,
@@ -191,28 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO"
     },
     {
       "added_at": null,
@@ -279,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock Value II",
-        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
       "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 292706,
-      "name": "If We Ever Meet Again (Featuring Katy Perry)",
-      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
+      "duration_ms": 206373,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO"
     },
     {
       "added_at": null,
@@ -319,22 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 229573,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
+      "duration_ms": 292706,
+      "name": "If We Ever Meet Again (Featuring Katy Perry)",
+      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
     },
     {
       "added_at": null,
@@ -351,6 +331,26 @@
       "duration_ms": 246410,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK"
       },
@@ -431,6 +447,30 @@
       "duration_ms": 203474,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Calma (Remix)",
+        "url": "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Con Calma - Remix",
+      "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
     },
     {
       "added_at": null,
@@ -467,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -515,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -551,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Tucked",
-      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teenage Dream - Remix EP",
         "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
       },
@@ -579,6 +567,22 @@
       "duration_ms": 234920,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Tucked",
+      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
     },
     {
       "added_at": null,
@@ -615,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -627,22 +655,6 @@
       "duration_ms": 178641,
       "name": "Not the End of the World",
       "url": "https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot N Cold",
-        "url": "https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Hot N Cold - Rock Version",
-      "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
     },
     {
       "added_at": null,
@@ -679,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 189772,
-      "name": "Cry About It Later",
-      "url": "https://open.spotify.com/track/7cLrrJ1Dk6WAQyDIj9j26A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
@@ -707,6 +703,22 @@
       "duration_ms": 176762,
       "name": "I Kissed A Girl - Rock Remix",
       "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 189772,
+      "name": "Cry About It Later",
+      "url": "https://open.spotify.com/track/7cLrrJ1Dk6WAQyDIj9j26A"
     },
     {
       "added_at": null,
@@ -743,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Worn White",
+        "url": "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 225039,
+      "name": "Never Worn White",
+      "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -755,22 +783,6 @@
       "duration_ms": 196218,
       "name": "Champagne Problems",
       "url": "https://open.spotify.com/track/5iKXqTVr88ghRPwMEeVKVM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Peacock",
-      "url": "https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU"
     },
     {
       "added_at": null,
@@ -807,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Worn White",
-        "url": "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 225039,
-      "name": "Never Worn White",
-      "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Of The Boys (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
       },
@@ -839,8 +835,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firework",
-        "url": "https://open.spotify.com/album/2oKE3HhxPaI0EsUBajZHJg"
+        "name": "Smile (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/7c47yayjXtwCHIz9fKdUkn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 181604,
+      "name": "Smile - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/4HpgUlwIh3JbSW4r8C2SmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
       "artists": [
         {
@@ -848,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 30232,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/2G6yyJJ1zElkVeGKSoRx8K"
+      "duration_ms": 197840,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ"
     },
     {
       "added_at": null,
@@ -864,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 226597,
-      "name": "This Moment",
-      "url": "https://open.spotify.com/track/0NfwNHAyi4s9HVes4JkaXA"
+      "duration_ms": 203362,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW"
     }
   ],
   "unique_name": "This Is Katy Perry",

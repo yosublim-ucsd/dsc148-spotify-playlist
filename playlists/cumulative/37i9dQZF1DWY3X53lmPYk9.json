@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 298482,
       "name": "Alice In Wonderland",
       "url": "https://open.spotify.com/track/4UJzmVIGyu3k4exTbjk5Yd"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 240000,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/0cC3JukQCOX5gyi2Zvh2J3"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 179874,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca"
@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 253056,
       "name": "Forest Flower",
       "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 208764,
       "name": "Hello, Young Lovers",
       "url": "https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz"
@@ -4686,7 +4686,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 144000,
       "name": "Looking Glass",
       "url": "https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z"
@@ -5698,6 +5698,24 @@
       "duration_ms": 293217,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/7LLw6w4VwOzLIKxEoV58lK"
+    },
+    {
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/0BCwxgvqpwuTdZyfW4kEg8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Garland",
+          "url": "https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/000sIz4pDu580oiCo9JDXc"
     },
     {
       "album": {
@@ -7800,7 +7818,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 169446,
       "name": "That Old Fashioned Moon",
       "url": "https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v"

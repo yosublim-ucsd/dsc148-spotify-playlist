@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,684 likes - 130 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,683 likes - 130 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 31 | [F&MU](https://open.spotify.com/track/24QjawKdGJmsAIVe3EhzGH) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:14 |
 | 32 | [Like It \(with 6LACK\)](https://open.spotify.com/track/4CNzuSQoL5jgCxzYmuMvcz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:51 |
 | 33 | [WATER](https://open.spotify.com/track/5vIiGOCqhPwnQDZhWhewGU) | [Salatiel](https://open.spotify.com/artist/3jO7uMLDPJngUhguQlaDFP), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:32 |
-| 34 | [Back Home \(feat\. Summer Walker\)](https://open.spotify.com/track/6t51aLe7rjZhKgONwt6btQ) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:14 |
-| 35 | [Potential](https://open.spotify.com/track/4YNrBVo8fv6qiTNwHLVDai) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:53 |
+| 34 | [Potential](https://open.spotify.com/track/4YNrBVo8fv6qiTNwHLVDai) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:53 |
+| 35 | [Back Home \(feat\. Summer Walker\)](https://open.spotify.com/track/6t51aLe7rjZhKgONwt6btQ) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:14 |
 | 36 | [a&t](https://open.spotify.com/track/6ho88pvz4c8WCSFbdVXNia) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:31 |
 | 37 | [Make It Hot](https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Make It Hot](https://open.spotify.com/album/5lVFS3eenpf4H7u26eiyng) | 2:48 |
 | 38 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 71 | [Spend It](https://open.spotify.com/track/49k2A3TtO0emRciVKKiWnC) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:20 |
 | 72 | [Deeper](https://open.spotify.com/track/58z9odzkFuph91CkBcmOzY) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:34 |
 | 73 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
-| 74 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/6wXDDAl8ZgZainRC5hH6O9) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:46 |
-| 75 | [Irresponsible](https://open.spotify.com/track/3zJIvDeV6LBrlYYWFh8Amu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:11 |
+| 74 | [Irresponsible](https://open.spotify.com/track/3zJIvDeV6LBrlYYWFh8Amu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:11 |
+| 75 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/6wXDDAl8ZgZainRC5hH6O9) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:46 |
 | 76 | [How It Feels](https://open.spotify.com/track/74styyfb7QzIjIvxeyNylh) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [TrapStar Turnt PopStar](https://open.spotify.com/album/3TaYhEM7MtqukeISKBV2cx) | 3:16 |
 | 77 | [Finesse](https://open.spotify.com/track/7ifz6wYLdZ1ujxzXSnBTvd) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:53 |
 | 78 | [Lucked Up \(feat\. Nija\)](https://open.spotify.com/track/1HiJBQgR00UltPnoRWHjiM) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:40 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 129 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 130 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `AbVj/gAAAAAmAKTRSzomzPlJJlEEMbzz`
+Snapshot ID: `AbVpngAAAAAvlPzbRm98ij8OfB6ZMKL2`

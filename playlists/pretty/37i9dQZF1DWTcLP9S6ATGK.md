@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Jaz, Mawar de Jongh
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,475 likes - 104 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,474 likes - 104 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

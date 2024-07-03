@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-53 songs - 2 hr 50 min
+54 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [24 Hours](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24 Hours](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) | 3:21 | 2023-04-03 | 2024-04-19 |
 | [ADDICT](https://open.spotify.com/track/2k75ZjRth50bLdyjFpAv7f) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 1:52 | 2022-07-12 | 2024-04-19 |
 | [ADDICT](https://open.spotify.com/track/4SKDBovL7V7JzFz4BtAaUd) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 1:52 | 2022-03-11 |  |
+| [Balloon in Love](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Balloon in Love](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) | 3:14 | 2024-07-03 |  |
 | [Black Pearl](https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 | 2022-07-12 | 2024-04-19 |
 | [Black Pearl](https://open.spotify.com/track/6f5h8n8UR4fsz8LjCkAOFy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 3:19 | 2022-03-11 |  |
 | [Borderline](https://open.spotify.com/track/2ufe0UMTd8ay3irNf1kIsX) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 2:54 | 2022-03-11 |  |

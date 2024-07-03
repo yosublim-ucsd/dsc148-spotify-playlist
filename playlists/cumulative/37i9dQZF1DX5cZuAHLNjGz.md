@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-383 songs - 19 hr 45 min
+384 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-15 | 2024-01-31 |
 | [Likhari](https://open.spotify.com/track/14r3uhYqRQbbm7jwcU6kHx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Likhari](https://open.spotify.com/album/4Yv1xU5GycGXbaTMzhTkJF) | 3:06 | 2022-05-29 | 2022-10-18 |
 | [Love & Lies](https://open.spotify.com/track/7y0hZYQN2xad34bW9tIVsc) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love & Lies](https://open.spotify.com/album/245Za82H4W7H9sUKPMSwjC) | 2:30 | 2024-01-25 | 2024-02-03 |
-| [Love Sick](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 | 2022-05-29 |  |
+| [Love Sick](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 | 2022-05-29 | 2024-07-03 |
 | [Love Ya](https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB) | 2:41 | 2024-01-05 | 2024-04-19 |
 | [Love Ya](https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Love Ya](https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7) | 2:41 | 2024-01-05 |  |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2022-05-29 |  |
@@ -337,6 +337,7 @@
 | [Talent](https://open.spotify.com/track/2Q5Z33wab7dtT91hUHC4EL) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Goranation](https://open.spotify.com/artist/5TsYKOgFnGb7OZ30hZubLz), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 3:12 | 2024-05-31 | 2024-06-06 |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2022-05-29 | 2022-12-16 |
 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 | 2023-09-20 |  |
+| [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2024-07-02 |  |
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2022-12-14 |  |
 | [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2022-05-29 | 2023-08-31 |
 | [Tha Karke](https://open.spotify.com/track/6MotWtT7jgCheTxEfMbXCz) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:05 | 2022-10-17 | 2022-11-03 |

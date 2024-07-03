@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,786 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,783 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 86 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Canciones, Mis Amigos](https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t) | 2:23 |
 | 87 | [Lo Que Tú Necesitas](https://open.spotify.com/track/6fWodFG700HPzTeVz5uhC3) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Lo Que Tú Necesitas](https://open.spotify.com/album/3wlF7RXXhJnCPShqWaZ48U) | 2:49 |
 | 88 | [Cuando Más Te Amaba](https://open.spotify.com/track/0znMUux7ItGZNjOwEVzXYu) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:27 |
-| 89 | [Tú Solo Tú](https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Le Canta a los Grandes Compositores de México](https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM) | 3:17 |
-| 90 | [Tienes Que Entender \- Live](https://open.spotify.com/track/5AB3Q224aReRDYLIYVJss1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras \(Deluxe\)](https://open.spotify.com/album/6Fi4hf29Zw8AaGTWc0IBhD) | 3:37 |
+| 89 | [Tienes Que Entender \- Live](https://open.spotify.com/track/5AB3Q224aReRDYLIYVJss1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras \(Deluxe\)](https://open.spotify.com/album/6Fi4hf29Zw8AaGTWc0IBhD) | 3:37 |
+| 90 | [Tú Solo Tú](https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Le Canta a los Grandes Compositores de México](https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM) | 3:17 |
 | 91 | [Prenda del Alma](https://open.spotify.com/track/70r0u0KuBKSkn3ahnNVbcw) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 3:43 |
 | 92 | [Al Mayor de Los Fernández \(with Alejandro Fernández & Vicente Fernández Hijo\)](https://open.spotify.com/track/0P1JUSl6Avzm2MESR86FAd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH) | [Se me hizo tarde la Vida](https://open.spotify.com/album/5izem5EQRzF5MUeGV6ECtQ) | 3:56 |
 | 93 | [No Lo Beses \- Mariachi](https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Lo Beses \(Mariachi\)](https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw) | 3:23 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 114 | [Juro Que Nunca Volveré](https://open.spotify.com/track/1rfeGMVF5HvcsTdXVZGHwo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 2:41 |
 | 115 | [El Caballo de Mi Padre](https://open.spotify.com/track/7geALLlb83RRB8FX4BEBIw) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:21 |
 | 116 | [Para Sacarte De Mi Vida \- Versión Norteña](https://open.spotify.com/track/4itGUqG0j7mOHfAzTZSkAO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Para Sacarte De Mi Vida \(Versión Norteña\)](https://open.spotify.com/album/3zdLxMDh5JtA6afQj9L5Yw) | 3:56 |
-| 117 | [Agua Salada](https://open.spotify.com/track/0zpwifNScjNcCxcpwjQs5N) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:20 |
-| 118 | [Mío](https://open.spotify.com/track/05W7sXbjnSnwRiPbzHQMMD) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Mío](https://open.spotify.com/album/47P4pfzxCuOjNEy0aCeS7q) | 3:10 |
+| 117 | [Mío](https://open.spotify.com/track/05W7sXbjnSnwRiPbzHQMMD) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Mío](https://open.spotify.com/album/47P4pfzxCuOjNEy0aCeS7q) | 3:10 |
+| 118 | [Agua Salada](https://open.spotify.com/track/0zpwifNScjNcCxcpwjQs5N) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:20 |
 | 119 | [Flores Negras](https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:30 |
 | 120 | [Para Nada](https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:29 |
 | 121 | [Que Dios Te Bendiga \(with Ana Gabriel\) \- Remasterizado 2005](https://open.spotify.com/track/5Qhiu3TMNfZMv6CUoDdwyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:33 |

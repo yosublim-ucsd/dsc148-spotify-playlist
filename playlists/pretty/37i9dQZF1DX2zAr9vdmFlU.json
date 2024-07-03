@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 431346,
+  "num_followers": 431375,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,30 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "La Tania",
+          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
+        },
+        {
+          "name": "Yerai Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
+        }
+      ],
+      "duration_ms": 300383,
+      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Si estuvieras aqu\u00ed",
         "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 301925,
       "name": "Game On",
       "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "La Tania",
-          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
-        },
-        {
-          "name": "Yerai Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
-        }
-      ],
-      "duration_ms": 300383,
-      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "duration_ms": 138151,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 199398,
       "name": "A fuego lento (feat. Vicente Garcia)",
       "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 138151,
-      "name": "sweet nothings",
-      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Quemar La Casa",
         "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 243356,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "No Pasa Na",
         "url": "https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 230556,
       "name": "No Pasa Na",
       "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Lady Mandona",
-        "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
-      },
-      "artists": [
-        {
-          "name": "Literal",
-          "url": "https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G"
-        }
-      ],
-      "duration_ms": 155122,
-      "name": "Lady Mandona",
-      "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Nain",
         "url": "https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Lady Mandona",
+        "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
+      },
+      "artists": [
+        {
+          "name": "Literal",
+          "url": "https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G"
+        }
+      ],
+      "duration_ms": 155122,
+      "name": "Lady Mandona",
+      "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
     },
     {
       "added_at": "2024-06-28 04:00:00",

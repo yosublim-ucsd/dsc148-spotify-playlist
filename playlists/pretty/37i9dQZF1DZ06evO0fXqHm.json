@@ -1,12 +1,12 @@
 {
-  "description": "This is Mac J\u00falia. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1396,
+  "description": "This is Mac J\u00falia. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 1397,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADev9D5EjvcQXQtEXcPapV6",
+  "snapshot_id": "ZoHxgAAAAAD8c+BrEfKhB39S83PxB8H/",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ela Joga Muito na Minha Cara",
         "url": "https://open.spotify.com/album/68rjxN49e47v971UbMRFAU"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 142153,
       "name": "Ela Joga Muito na Minha Cara",
       "url": "https://open.spotify.com/track/5qERHS3gAJxUbeXyY3qxKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Para de Brincar Comigo",
-      "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Acontece L\u00e1 na Favela",
         "url": "https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh"
       },
@@ -1011,46 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clap Clap",
-        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
-      },
-      "artists": [
-        {
-          "name": "Dj Hugo CS",
-          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DAL\u00c3MA",
-          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
-        }
-      ],
-      "duration_ms": 122307,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+        "name": "Mete Mac Vol 1",
+        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
       "artists": [
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 164850,
-      "name": "Sainha",
-      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
+      "duration_ms": 116000,
+      "name": "Para de Brincar Comigo",
+      "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
     },
     {
       "added_at": null,
@@ -1083,6 +1039,50 @@
       "duration_ms": 147284,
       "name": "Hoje Eu Vou Te Dar Trabalho",
       "url": "https://open.spotify.com/track/4b6e1r9jRoQaHfEHrB1w7x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 164850,
+      "name": "Sainha",
+      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
+      },
+      "artists": [
+        {
+          "name": "Dj Hugo CS",
+          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
     },
     {
       "added_at": null,

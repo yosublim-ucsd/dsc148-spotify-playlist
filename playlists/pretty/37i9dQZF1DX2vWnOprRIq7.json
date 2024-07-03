@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Alex Anwandter.",
-  "num_followers": 18660,
+  "num_followers": 18680,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "anhelo",
         "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 240764,
       "name": "anhelo",
       "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 237888,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "\u00a1Tierra a la Vista!",
         "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
@@ -743,42 +723,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "El Im\u00e1n (Remix)",
-        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+        "name": "como antes :(",
+        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
         },
         {
-          "name": "Santiago Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 228000,
-      "name": "El Im\u00e1n - Remix",
-      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Cuando la Luna Caiga",
-        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        },
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        }
-      ],
-      "duration_ms": 273056,
-      "name": "Cuando la Luna Caiga",
-      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
+      "duration_ms": 237888,
+      "name": "como antes :(",
+      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -803,6 +763,46 @@
       "duration_ms": 371857,
       "name": "Ojos De Fuego - Sinego Remix",
       "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Cuando la Luna Caiga",
+        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "duration_ms": 273056,
+      "name": "Cuando la Luna Caiga",
+      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "El Im\u00e1n (Remix)",
+        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "El Im\u00e1n - Remix",
+      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Butoh iA",
-        "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
-      },
-      "artists": [
-        {
-          "name": "Estro Pascal",
-          "url": "https://open.spotify.com/artist/5oPmEYoBA6Z5flhejZDjas"
-        },
-        {
-          "name": "nohedormidonada",
-          "url": "https://open.spotify.com/artist/0N9NlW4au3lXD1xrnjhy2K"
-        }
-      ],
-      "duration_ms": 143418,
-      "name": "Butoh iA",
-      "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "p\u00e9talos",
         "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 210330,
       "name": "p\u00e9talos",
       "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Butoh iA",
+        "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
+      },
+      "artists": [
+        {
+          "name": "Estro Pascal",
+          "url": "https://open.spotify.com/artist/5oPmEYoBA6Z5flhejZDjas"
+        },
+        {
+          "name": "nohedormidonada",
+          "url": "https://open.spotify.com/artist/0N9NlW4au3lXD1xrnjhy2K"
+        }
+      ],
+      "duration_ms": 143418,
+      "name": "Butoh iA",
+      "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s (Lado B)",
-        "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        }
-      ],
-      "duration_ms": 208278,
-      "name": "Luminosidad - Remix",
-      "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "LOGO",
         "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 225000,
       "name": "AMANECER (Remix)",
       "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Como Bailan los Dem\u00e1s (Lado B)",
+        "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        }
+      ],
+      "duration_ms": 208278,
+      "name": "Luminosidad - Remix",
+      "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Nueva forma",
-        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Nueva forma",
-      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "KRAUT!",
         "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
       },
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Nada que ver",
-        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
+        "name": "Nueva forma",
+        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
       },
       "artists": [
         {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        },
-        {
-          "name": "Solo Juan",
-          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 193971,
-      "name": "Nada que ver",
-      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
+      "duration_ms": 194000,
+      "name": "Nueva forma",
+      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1243,6 +1223,26 @@
       "duration_ms": 407500,
       "name": "Hemofilia - Remix",
       "url": "https://open.spotify.com/track/5OK0uhqJ6OZYonsxGK17lQ"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Nada que ver",
+        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
+      },
+      "artists": [
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        },
+        {
+          "name": "Solo Juan",
+          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
+        }
+      ],
+      "duration_ms": 193971,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Encandilante divino",
         "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
       },
@@ -1339,26 +1355,6 @@
       "duration_ms": 163676,
       "name": "Azar",
       "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Secretos (Remix)",
-        "url": "https://open.spotify.com/album/4xtu6EYTviWDoVkS2CutVZ"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Las Flores Dalt\u00f3nicas",
-          "url": "https://open.spotify.com/artist/5NyKl6KWpDwoWHAxJPfJ70"
-        }
-      ],
-      "duration_ms": 248833,
-      "name": "Secretos - Remix",
-      "url": "https://open.spotify.com/track/3L3C9TZyHJVnr4IOQcZ9hZ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+        "name": "Secretos (Remix)",
+        "url": "https://open.spotify.com/album/4xtu6EYTviWDoVkS2CutVZ"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Las Flores Dalt\u00f3nicas",
+          "url": "https://open.spotify.com/artist/5NyKl6KWpDwoWHAxJPfJ70"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+      "duration_ms": 248833,
+      "name": "Secretos - Remix",
+      "url": "https://open.spotify.com/track/3L3C9TZyHJVnr4IOQcZ9hZ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Amor (Remix)",
-        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
-      },
-      "artists": [
-        {
-          "name": "Kush Mama",
-          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
-        }
-      ],
-      "duration_ms": 306500,
-      "name": "Amor - Remix",
-      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Bocado a Bocado",
         "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 187433,
       "name": "Bocado a Bocado",
       "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Amor (Remix)",
+        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
+      },
+      "artists": [
+        {
+          "name": "Kush Mama",
+          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "Amor - Remix",
+      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Modernos",
+        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Modernos",
+      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Remaches (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 225640,
       "name": "Remaches - DJ TOI Remix",
       "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Modernos",
-        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Modernos",
-      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "fribRitni",
-        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
-      },
-      "artists": [
-        {
-          "name": "Carolo",
-          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 196556,
-      "name": "fribRitni",
-      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Salto al Alba",
         "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 247149,
       "name": "Tiene Sentido",
       "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "fribRitni",
+        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
+      },
+      "artists": [
+        {
+          "name": "Carolo",
+          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 196556,
+      "name": "fribRitni",
+      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Morbo",
-        "url": "https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD"
-      },
-      "artists": [
-        {
-          "name": "Carolo",
-          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
-        }
-      ],
-      "duration_ms": 223789,
-      "name": "Morbo",
-      "url": "https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Affaire",
         "url": "https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 202625,
       "name": "Hoy me di cuenta",
       "url": "https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Morbo",
+        "url": "https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD"
+      },
+      "artists": [
+        {
+          "name": "Carolo",
+          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        }
+      ],
+      "duration_ms": 223789,
+      "name": "Morbo",
+      "url": "https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP"
     },
     {
       "added_at": "2024-06-14 03:00:00",

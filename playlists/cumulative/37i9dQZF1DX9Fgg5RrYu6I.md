@@ -4,10 +4,11 @@
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-43 songs - 2 hr 41 min
+44 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100 Days of Dreams](https://open.spotify.com/track/1rCsFIeUOgf5vR6eVMg1GD) | [Yeyoung](https://open.spotify.com/artist/2tb67TRuqXwyLjfrspqCUO) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 6 \- 100 Days of Dreams](https://open.spotify.com/album/1f5JIkQ2YuKq6tS9OUMGpb) | 3:10 | 2024-07-03 |  |
 | [AcDaJi\-歌](https://open.spotify.com/track/4ms3ziNYCXCh6hXXcpNEs2) | [SamSan](https://open.spotify.com/artist/0Mqb4ZExEqQNOkEFSyZiql), [Han Woong Won](https://open.spotify.com/artist/6gYgsMseEMY6iYkUsL662N) | [AcDaJi\-歌](https://open.spotify.com/album/4zEPfoiIle9t6UAIN9u8sV) | 3:15 | 2024-05-07 |  |
 | [Asurajang](https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Asurajang](https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j) | 3:10 | 2024-05-07 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2024-05-07 |  |

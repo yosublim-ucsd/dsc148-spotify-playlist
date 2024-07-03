@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 114855,
+  "num_followers": 114867,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAD0YRot9cbKzchzElov3SUw",
+  "snapshot_id": "ZoHxgAAAAAByPXs/epdd1u/APsz6n0mN",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "Had Enough (feat. Quavo & Offset)",
+      "url": "https://open.spotify.com/track/6SPgp2qK3fb4wPX1SldrNf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -331,26 +355,6 @@
       "duration_ms": 265480,
       "name": "No Complaints (feat. Offset & Drake) (Bonus)",
       "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Danger (Spider) (Offset & JID)",
-      "url": "https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG"
     },
     {
       "added_at": null,
@@ -379,6 +383,26 @@
       "duration_ms": 257600,
       "name": "Rap Saved Me (feat. Quavo)",
       "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Danger (Spider) (Offset & JID)",
+      "url": "https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG"
     },
     {
       "added_at": null,
@@ -615,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 244941,
-      "name": "Legacy (feat. Travis Scott & 21 Savage)",
-      "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where The Shooters Be",
         "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby On Baby",
         "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 157693,
       "name": "Baby Sitter (feat. Offset)",
       "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 204515,
-      "name": "Lick",
-      "url": "https://open.spotify.com/track/4W9XGjEUVG9junR70FOLii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -1055,26 +1039,6 @@
       "duration_ms": 104863,
       "name": "Violation Freestyle",
       "url": "https://open.spotify.com/track/0NTypJrNfmemkF1GevCWSf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CODE (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 192427,
-      "name": "CODE (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
     },
     {
       "added_at": null,
@@ -1139,6 +1103,54 @@
       "duration_ms": 168000,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/2D7diy0xyUWvXZCQGoTqNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Patek Water (feat. Offset)",
+      "url": "https://open.spotify.com/track/7r6LNJT2LqpLpEyZQJPygt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Perfect LUV Tape",
+        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 261982,
+      "name": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
+      "url": "https://open.spotify.com/track/0gqfvyewE2Sh8TwKBFajCF"
     }
   ],
   "unique_name": "This Is Offset",

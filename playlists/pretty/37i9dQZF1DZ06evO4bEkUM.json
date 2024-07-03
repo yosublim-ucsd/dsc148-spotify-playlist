@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 875513,
+  "num_followers": 875751,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAABH4XQspsHA6fHXV3bIrSIE",
+  "snapshot_id": "ZoHxgAAAAABHD5Q6uCXTQxzwnfcRq7NV",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
       },
@@ -87,38 +103,6 @@
       "duration_ms": 261959,
       "name": "Decode",
       "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
       "added_at": null,
@@ -155,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 52600,
       "name": "Interlude: I'm Not Angry Anymore",
       "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ignorance",
-      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
     },
     {
       "added_at": null,
@@ -219,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
       },
       "artists": [
         {
@@ -244,25 +244,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Brick by Boring Brick",
-      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 240040,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Playing God",
-      "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
@@ -356,15 +340,15 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 309973,
-      "name": "Last Hope",
-      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
+      "duration_ms": 182800,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Caught Myself",
-        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 235440,
-      "name": "I Caught Myself",
-      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
+      "duration_ms": 235706,
+      "name": "Fake Happy",
+      "url": "https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj"
     },
     {
       "added_at": null,
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "I Caught Myself",
+        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 232786,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
+      "duration_ms": 235440,
+      "name": "I Caught Myself",
+      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
     },
     {
       "added_at": null,
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Conspiracy",
-      "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L"
+      "duration_ms": 232786,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
     },
     {
       "added_at": null,
@@ -455,6 +439,38 @@
       "duration_ms": 204966,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Misguided Ghosts",
+      "url": "https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU"
     },
     {
       "added_at": null,
@@ -479,6 +495,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Conspiracy",
+      "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -495,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
@@ -504,9 +552,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/74ABBu8osxqmuFOAKcWWpG"
+      "duration_ms": 198973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
     },
     {
       "added_at": null,
@@ -520,9 +568,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 187696,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+      "duration_ms": 260384,
+      "name": "Big Man, Little Dignity",
+      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
     },
     {
       "added_at": null,
@@ -559,54 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Careful",
-      "url": "https://open.spotify.com/track/63L9AjBDN3SOMbJlBkFqiZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 260384,
-      "name": "Big Man, Little Dignity",
-      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
       },
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
@@ -632,9 +632,25 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 259720,
-      "name": "Turn It Off",
-      "url": "https://open.spotify.com/track/0q99swv2f9L5m8JHkF3sDC"
+      "duration_ms": 232998,
+      "name": "Thick Skull",
+      "url": "https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "For a Pessimist, I'm Pretty Optimistic",
+      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
     },
     {
       "added_at": null,
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 228293,
-      "name": "For a Pessimist, I'm Pretty Optimistic",
-      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
+      "duration_ms": 137933,
+      "name": "Anklebiters",
+      "url": "https://open.spotify.com/track/3hgzEGrm5iTY6pkgJ827qX"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 220966,
-      "name": "Never Let This Go",
-      "url": "https://open.spotify.com/track/2itu79WbZhUCHX4jg0fyAd"
+      "duration_ms": 281240,
+      "name": "Part II",
+      "url": "https://open.spotify.com/track/6SFbRVZMfbLsXHXc7JqzRs"
     },
     {
       "added_at": null,

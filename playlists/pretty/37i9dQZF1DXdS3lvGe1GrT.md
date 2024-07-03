@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Leonie Biney
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,340 likes - 107 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,384 likes - 107 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 461365,
+  "num_followers": 461495,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -277,38 +277,6 @@
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
-      "added_at": "2024-01-03 18:20:01",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2024-06-28 19:21:01",
-      "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "ALPHA",
@@ -327,6 +295,38 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2024-06-28 19:21:01",
+      "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
+    },
+    {
+      "added_at": "2024-01-03 18:20:01",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
       "added_at": "2023-06-02 01:19:32",
       "album": {
         "name": "Giver Taker",
@@ -935,6 +919,22 @@
       "duration_ms": 164613,
       "name": "Baby No More",
       "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
+    },
+    {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2023-10-10 01:29:29",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
       "added_at": "2024-01-03 18:42:32",
       "album": {
         "name": "So Pacific",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
       "added_at": "2023-09-25 02:40:58",
@@ -1037,20 +1053,36 @@
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
+      "added_at": "2022-02-09 03:25:54",
       "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
+      "added_at": "2023-03-22 17:53:19",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1071,22 +1103,6 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
-    },
-    {
-      "added_at": "2023-03-22 17:53:19",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1119,22 +1135,6 @@
       "duration_ms": 217230,
       "name": "Je t'aime encore",
       "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
-    },
-    {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2022-01-13 02:15:51",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
+      "added_at": "2023-04-11 00:45:41",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "duration_ms": 190647,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Feel The Pain / Fast Car",
@@ -1225,22 +1241,6 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
-      "added_at": "2023-04-11 00:45:41",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 190647,
-      "name": "Step By Step",
-      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Home Cooking",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
-    },
-    {
       "added_at": "2023-12-20 03:28:07",
       "album": {
         "name": "If You Could See Me Now",
@@ -1291,6 +1275,22 @@
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
-    },
-    {
       "added_at": "2023-11-23 03:41:20",
       "album": {
         "name": "say your way",
@@ -1355,6 +1339,22 @@
       "duration_ms": 170500,
       "name": "say your way",
       "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
     },
     {
-      "added_at": "2022-01-13 02:46:07",
-      "album": {
-        "name": "Double Dinners",
-        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
-      },
-      "artists": [
-        {
-          "name": "Cousin Kula",
-          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
-        }
-      ],
-      "duration_ms": 309240,
-      "name": "BabyBack",
-      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
-    },
-    {
       "added_at": "2023-09-13 16:09:15",
       "album": {
         "name": "Grass is Grass",
@@ -1459,6 +1443,22 @@
       "duration_ms": 250000,
       "name": "Grass is Grass",
       "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+    },
+    {
+      "added_at": "2022-01-13 02:46:07",
+      "album": {
+        "name": "Double Dinners",
+        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
+      },
+      "artists": [
+        {
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
+        }
+      ],
+      "duration_ms": 309240,
+      "name": "BabyBack",
+      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Last Year Was Weird, Vol. 3",
-        "url": "https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/5rvQNMTYBMarC8ed6KUPvg"
-    },
-    {
       "added_at": "2022-12-07 04:05:43",
       "album": {
         "name": "Fallaway",
@@ -1711,6 +1695,22 @@
       "duration_ms": 197763,
       "name": "Fallaway",
       "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Last Year Was Weird, Vol. 3",
+        "url": "https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/5rvQNMTYBMarC8ed6KUPvg"
     }
   ],
   "unique_name": "Soft Office",

@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 183053,
       "name": "Lapriy\u00e8",
       "url": "https://open.spotify.com/track/5603DVqfPRpYisiVrU7crR"
@@ -1002,6 +1002,28 @@
       "duration_ms": 222040,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+    },
+    {
+      "album": {
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+      },
+      "artists": [
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176124,
+      "name": "Paco Chaupard",
+      "url": "https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi"
     },
     {
       "album": {
@@ -1424,6 +1446,32 @@
       "duration_ms": 254390,
       "name": "They Live",
       "url": "https://open.spotify.com/track/7hVW06FEfif7tkvc7viAKs"
+    },
+    {
+      "album": {
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+      },
+      "artists": [
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155516,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
     },
     {
       "album": {

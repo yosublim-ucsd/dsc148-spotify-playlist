@@ -2,15 +2,15 @@
 
 ### [This Is Sarkodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWvDTe)
 
-> This is Sarkodie\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Sarkodie\. The essential tracks, all in one playlist.
 
-168 songs - 10 hr 5 min
+169 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Paddies \(feat\. Joey B\)](https://open.spotify.com/track/1wXmZNyaY3NIKOkq9kJz0T) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 3:08 | 2022-10-19 | 2022-11-13 |
 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 | 2021-12-28 |  |
-| [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 | 2022-01-12 |  |
+| [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 | 2022-01-12 | 2024-07-03 |
 | [Always on My Mind \(feat\. Obrafour\)](https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:47 | 2021-12-28 |  |
 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 | 2024-05-26 |  |
 | [Anadwo \(feat\. King Promise\)](https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:11 | 2021-12-28 |  |
@@ -88,6 +88,7 @@
 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 | 2021-12-31 | 2024-02-29 |
 | [It's My Life](https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [It's My Life](https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud) | 3:45 | 2022-01-17 | 2023-02-16 |
 | [Jaara \(feat\. Medikal\)](https://open.spotify.com/track/5jMI58SeuN7iLfV11eqT4J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:01 | 2022-01-04 | 2022-09-17 |
+| [JEALOUS \(feat\. Ambré\)](https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Loick Essien](https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [JEALOUS \(feat\. Ambré\)](https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU) | 2:39 | 2024-07-03 |  |
 | [Jehovah](https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:32 | 2023-10-01 | 2024-06-23 |
 | [King Kong \(Cypher\)](https://open.spotify.com/track/7IJa4hTqvXkuQMIBoTY3L4) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [King Kong](https://open.spotify.com/album/6GmYzJEV8GeMbWhrwBtcBF) | 2:30 | 2023-05-07 | 2023-05-11 |
 | [Kojo](https://open.spotify.com/track/5GS5agViHaTwYRom1T6ckD) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:24 | 2022-11-25 | 2022-12-22 |

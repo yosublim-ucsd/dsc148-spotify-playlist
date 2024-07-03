@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyonc\u00e9",
+  "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.",
   "name": "Country Smash Hits",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 227250,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 225363,
       "name": "28th of June",
       "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Chariot (Chariot 20)",
+        "url": "https://open.spotify.com/album/0DiCMLs2iGmjYm9UVFhWR4"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "Chariot - Chariot 20",
+      "url": "https://open.spotify.com/track/5Hz0dpDYvI9x1iLThN1hFQ"
+    },
+    {
+      "album": {
         "name": "A Lot About Livin' (And A Little 'Bout Love)",
         "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
@@ -630,6 +648,24 @@
       "duration_ms": 148160,
       "name": "Chattahoochee",
       "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5"
     },
     {
       "album": {
@@ -2217,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213979,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/534LueCImkuvFriDEIxUiS"
+    },
+    {
+      "album": {
         "name": "Southeast Oklahoma Pines",
         "url": "https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA"
       },
@@ -2250,10 +2304,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
+    },
+    {
+      "album": {
+        "name": "AMERICAN MOTOR SPORTS",
+        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164552,
+      "name": "SPINNIN' YOU AROUND",
+      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
     },
     {
       "album": {
@@ -2568,7 +2640,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 198720,
       "name": "They Don't Know About Us",
       "url": "https://open.spotify.com/track/04m3E83FWXIcXpDvRhSpQg"
@@ -2912,6 +2984,24 @@
       "duration_ms": 139760,
       "name": "WHISKEY WHISKEY",
       "url": "https://open.spotify.com/track/0PY70NiuO5yDhn9FjdtPvr"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/4JyZZEzhYKF2Nn83Ff7kBY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/78X4X4dfwm6q5wCiBsm396"
     },
     {
       "album": {

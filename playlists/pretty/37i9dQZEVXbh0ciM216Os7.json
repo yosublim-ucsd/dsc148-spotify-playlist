@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAA15puWnQhzqCNq96qhfeRN",
+  "snapshot_id": "AAAAAAAAAAAwuca999H+fHGIHrFarbYe",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -71,6 +71,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Two Demos",
         "url": "https://open.spotify.com/album/2VjFQvMuzBpLTMB4TUr4RX"
       },
@@ -119,6 +119,22 @@
       "duration_ms": 133986,
       "name": "Rock Bottom - Demo",
       "url": "https://open.spotify.com/track/1BKg6PWpynctmDnxopUFYu"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "The Birth",
+        "url": "https://open.spotify.com/album/6L49HVseydAGf15iXpBb6O"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 208517,
+      "name": "The Birth",
+      "url": "https://open.spotify.com/track/11HkJfwMwd828oOGdhwzXS"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -143,22 +159,6 @@
       "duration_ms": 215172,
       "name": "Things Are Changin",
       "url": "https://open.spotify.com/track/7atMMTyNZsumXblV1TIUd6"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The Birth",
-        "url": "https://open.spotify.com/album/6L49HVseydAGf15iXpBb6O"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 208517,
-      "name": "The Birth",
-      "url": "https://open.spotify.com/track/11HkJfwMwd828oOGdhwzXS"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 446762,
-      "name": "The Call of Ktulu",
-      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
+      "duration_ms": 407450,
+      "name": "Ride the Lightning",
+      "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
     },
     {
       "added_at": "2024-06-28 04:00:00",

@@ -2897,6 +2897,28 @@
     },
     {
       "album": {
+        "name": "La Luna (Radio Edit)",
+        "url": "https://open.spotify.com/album/74ehtTSROSGpuivD54tPEO"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "BOHEMIAN",
+          "url": "https://open.spotify.com/artist/6TACexnfiLJ7tnGavfCOnB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "La Luna - Radio Edit",
+      "url": "https://open.spotify.com/track/6kRjB4AwnXnGmhXHisnFXX"
+    },
+    {
+      "album": {
         "name": "La Negra",
         "url": "https://open.spotify.com/album/5w7kJWxWIDLatvruhQh6qn"
       },
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 164307,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"

@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1315201,
+  "num_followers": 1315402,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
+        "name": "Expresion",
+        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 290413,
+      "name": "Que Alguien Me Diga",
+      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
-        "name": "Expresion",
-        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 290413,
-      "name": "Que Alguien Me Diga",
-      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
+        "name": "Intenso",
+        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "La Agarro Bajando",
+      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -531,34 +547,18 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Justo A Tiempo",
-        "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 307173,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
-        "name": "Intenso",
-        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "La Agarro Bajando",
-      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "Justo A Tiempo",
+        "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+      "duration_ms": 307173,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
       },
@@ -671,6 +655,38 @@
       "duration_ms": 333226,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -691,22 +707,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Los Rostros de la Salsa",
-        "url": "https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
-        }
-      ],
-      "duration_ms": 344626,
-      "name": "Como Te Hago Entender",
-      "url": "https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
         "name": "Vigilante",
         "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
         "name": "Viceversa",
         "url": "https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 273880,
       "name": "Un Mont\u00f3n de Estrellas",
       "url": "https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
+        "name": "Los Rostros de la Salsa",
+        "url": "https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "duration_ms": 344626,
+      "name": "Como Te Hago Entender",
+      "url": "https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Trampol\u00edn",
-      "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 253253,
       "name": "Anacaona",
       "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "Trampol\u00edn",
+      "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
     },
     {
       "added_at": "2024-04-18 21:57:35",

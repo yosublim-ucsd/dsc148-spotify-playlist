@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,928 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,934 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 50 | [Can't Stop Thinkin' About You](https://open.spotify.com/track/4UIvHuPvd9r96KSE3boALB) | [Eli Teplin](https://open.spotify.com/artist/0WcAIG4jcHAwMBbCgk63F4), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Can't Stop Thinkin' About You](https://open.spotify.com/album/4Lv2KGGJpcF8Jnawi2reoa) | 3:01 |
 | 51 | [Want More](https://open.spotify.com/track/32IWnxqoCOeDLas0p3K8Vb) | [Kevin Lavitt](https://open.spotify.com/artist/1WuwJxpTA1VgMZHdQnwBZ7), [Cleveland Thrasher](https://open.spotify.com/artist/5skkKxbAtfViDutAt1jDK7), [Ceeko](https://open.spotify.com/artist/0IWfexG4upff8FiCDJo9Rx), [Tiana Ohara](https://open.spotify.com/artist/3HzM1LuhJFDTbyzuWwuyWh) | [Want More](https://open.spotify.com/album/4wl4TBpwqoxDoj7LXetPPw) | 2:53 |
 | 52 | [Coasting](https://open.spotify.com/track/21htf4tYB35v8pn1bcpeUh) | [Stan Lodge](https://open.spotify.com/artist/7D0FwzVKkBBbFTaQuHkBtP), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Coasting](https://open.spotify.com/album/6hI5z9O39W1TFCUvnGARLM) | 3:27 |
-| 53 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/5iIZTr2dlpGW0w2K4pwLR2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Boys & Girls Mixtape](https://open.spotify.com/album/09GalPugs4ZBrI0rrLQPf6) | 3:43 |
+| 53 | [Nostalgia](https://open.spotify.com/track/5iIZTr2dlpGW0w2K4pwLR2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Boys & Girls Mixtape](https://open.spotify.com/album/09GalPugs4ZBrI0rrLQPf6) | 3:43 |
 | 54 | [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 |
 | 55 | [16 Pm](https://open.spotify.com/track/21tYg1u4lKPRBsSTWrJDvt) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [IV](https://open.spotify.com/album/0Z33ccgzk5oYrkTzVDiFeM) | 2:24 |
 | 56 | [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 3:57 |

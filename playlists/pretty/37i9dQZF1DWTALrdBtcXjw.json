@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 416347,
+  "num_followers": 416360,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "M\u00e9lodies en noir & blanc",
-        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Romano",
-          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
-        }
-      ],
-      "duration_ms": 246633,
-      "name": "L.A. 58",
-      "url": "https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Notes From New York",
-        "url": "https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5"
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
       },
       "artists": [
         {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
         }
       ],
-      "duration_ms": 424946,
-      "name": "Make Me Rainbows",
-      "url": "https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG"
+      "duration_ms": 246633,
+      "name": "L.A. 58",
+      "url": "https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -367,6 +351,22 @@
       "duration_ms": 284284,
       "name": "I Wished on the Moon",
       "url": "https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Notes From New York",
+        "url": "https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 424946,
+      "name": "Make Me Rainbows",
+      "url": "https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "If You Want To",
-        "url": "https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6"
-      },
-      "artists": [
-        {
-          "name": "James Earle Trio",
-          "url": "https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4"
-        }
-      ],
-      "duration_ms": 166595,
-      "name": "If You Want To",
-      "url": "https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 282386,
       "name": "Draw Me Nearer",
       "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "If You Want To",
+        "url": "https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6"
+      },
+      "artists": [
+        {
+          "name": "James Earle Trio",
+          "url": "https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4"
+        }
+      ],
+      "duration_ms": 166595,
+      "name": "If You Want To",
+      "url": "https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Springtime",
+        "url": "https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "On the Trail",
         "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 261236,
       "name": "Nico's Dream",
       "url": "https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Springtime",
-        "url": "https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "The Role of the Rhythm Section",
+        "url": "https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        }
+      ],
+      "duration_ms": 346786,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "The Role of the Rhythm Section",
-        "url": "https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH"
-      },
-      "artists": [
-        {
-          "name": "Steven Feifke",
-          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
-        }
-      ],
-      "duration_ms": 346786,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Three Views Of A Secret",
-        "url": "https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2"
-      },
-      "artists": [
-        {
-          "name": "Bergsundet",
-          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
-        }
-      ],
-      "duration_ms": 229166,
-      "name": "Three Views Of A Secret",
-      "url": "https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Made Of Wood",
         "url": "https://open.spotify.com/album/1Q59mVCm924rwxfQkQBqGc"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 372823,
       "name": "Made Of Wood",
       "url": "https://open.spotify.com/track/4LIvvG87ifZM9kQ5llSXW3"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Three Views Of A Secret",
+        "url": "https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "duration_ms": 229166,
+      "name": "Three Views Of A Secret",
+      "url": "https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
-      },
-      "artists": [
-        {
-          "name": "Dena DeRose",
-          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
-        }
-      ],
-      "duration_ms": 288832,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "2223",
         "url": "https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE"
       },
@@ -1895,6 +1879,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
+      },
+      "artists": [
+        {
+          "name": "Dena DeRose",
+          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
+        }
+      ],
+      "duration_ms": 288832,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "The Feeling of Jazz",
         "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
       },
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "What's Up",
-      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "To Satch and Duke",
         "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 317643,
       "name": "In a Mellow Tone",
       "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Koreni",
-        "url": "https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B"
-      },
-      "artists": [
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "Radio bo",
-      "url": "https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Balance Point",
         "url": "https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 295273,
       "name": "Had It Happened",
       "url": "https://open.spotify.com/track/5Pnj7upUtbxav0LNu4v5lX"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Koreni",
+        "url": "https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B"
+      },
+      "artists": [
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "Radio bo",
+      "url": "https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ"
     },
     {
       "added_at": "2024-06-28 09:05:32",

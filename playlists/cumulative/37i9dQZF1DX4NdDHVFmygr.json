@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 233926,
       "name": "Annani",
       "url": "https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 187826,
       "name": "BLUE LOVE",
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 149096,
       "name": "CHIRON",
       "url": "https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 188370,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
@@ -1636,6 +1636,28 @@
       "duration_ms": 182037,
       "name": "DELLALI (feat. Hamza)",
       "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+    },
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182053,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E"
     },
     {
       "album": {
@@ -2754,6 +2776,24 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -4174,7 +4214,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 216469,
       "name": "MA DOUCE",
       "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
@@ -4747,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Matgheltech",
+        "url": "https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195816,
+      "name": "Matgheltech",
+      "url": "https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX"
+    },
+    {
+      "album": {
         "name": "MILANO",
         "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
       },
@@ -5059,6 +5117,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lanine",
+        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+    },
+    {
+      "album": {
         "name": "M\u00e9t\u00e9o",
         "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
       },
@@ -5204,7 +5284,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 178122,
       "name": "Nothing Personal - A COLORS SHOW",
       "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
@@ -5270,6 +5350,24 @@
     {
       "album": {
         "name": "Ntiya",
+        "url": "https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256969,
+      "name": "Ntiya",
+      "url": "https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy"
+    },
+    {
+      "album": {
+        "name": "Ntiya",
         "url": "https://open.spotify.com/album/5tiCtx89m9IROn2MOsGRFq"
       },
       "artists": [
@@ -5324,7 +5422,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 270000,
       "name": "Obligaci\u00f3n",
       "url": "https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z"
@@ -5604,6 +5702,28 @@
       "duration_ms": 188408,
       "name": "Premier amour",
       "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
+    },
+    {
+      "album": {
+        "name": "QU\u00c9 LO QUE",
+        "url": "https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181275,
+      "name": "QU\u00c9 LO QUE",
+      "url": "https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN"
     },
     {
       "album": {
@@ -7398,6 +7518,24 @@
       "duration_ms": 237362,
       "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
       "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
+    },
+    {
+      "album": {
+        "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
+        "url": "https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6"
+      },
+      "artists": [
+        {
+          "name": "Bilel Tacchini",
+          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186036,
+      "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
+      "url": "https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh"
     },
     {
       "album": {

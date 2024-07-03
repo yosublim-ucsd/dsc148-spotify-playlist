@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste nye knive i dansk musik! <a href="spotify:artist:2Ic6MYMc3DrPW8z8DHFoWS">Stella</a> & <a href="spotify:artist:76eNWShp2OZBflNjOY2jEG">Mattias Kolstrup</a> på forsiden🔪
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,015 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,021 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

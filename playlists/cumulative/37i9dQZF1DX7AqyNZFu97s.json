@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK & Ireland. Cover: Demae",
+  "description": "The best new music by independent artists in the UK & Ireland. Cover: daisy veacock",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 181652,
       "name": "Any Kind of Love",
       "url": "https://open.spotify.com/track/0xfPvVdS8c0DwDPZUZgTIg"
@@ -3747,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Black Girls Wanna Have Fun",
+        "url": "https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm"
+      },
+      "artists": [
+        {
+          "name": "billie-angela",
+          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Black Girls Wanna Have Fun",
+      "url": "https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5"
+    },
+    {
+      "album": {
         "name": "BLACK HOLE",
         "url": "https://open.spotify.com/album/2259eoWQq9tMlZgPKhBnu9"
       },
@@ -4012,6 +4030,24 @@
       "duration_ms": 192000,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/0Os4EP2gnCtMA9AYiAmSyZ"
+    },
+    {
+      "album": {
+        "name": "BLOODSTREAM",
+        "url": "https://open.spotify.com/album/2rV28QJKdDhX0wrx5kug2g"
+      },
+      "artists": [
+        {
+          "name": "Musumba",
+          "url": "https://open.spotify.com/artist/1PJnpcaMHKYXCKyji3OHnH"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229177,
+      "name": "BLOODSTREAM",
+      "url": "https://open.spotify.com/track/6V5IueJDNmH6ywTpTmwY0c"
     },
     {
       "album": {
@@ -4366,6 +4402,24 @@
       "duration_ms": 97265,
       "name": "Boom Boom Bah",
       "url": "https://open.spotify.com/track/2OV5pTesWYNmr1Rac8T5BB"
+    },
+    {
+      "album": {
+        "name": "boombox",
+        "url": "https://open.spotify.com/album/4VX15BRy8UrW9Vt5T3ltgJ"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187690,
+      "name": "boombox",
+      "url": "https://open.spotify.com/track/2bZsAj7qMClKIwpGb23Hgs"
     },
     {
       "album": {
@@ -6888,7 +6942,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 184736,
       "name": "Cool",
       "url": "https://open.spotify.com/track/61c8JdniIlDW7tJZGoZoMe"
@@ -9458,7 +9512,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 148000,
       "name": "Duty Free",
       "url": "https://open.spotify.com/track/5jyTRlXO37CF8r2K6ljm12"
@@ -13440,7 +13494,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 355770,
       "name": "Greyscale",
       "url": "https://open.spotify.com/track/7kgThDcHZEK7znES1bMeGK"
@@ -13852,6 +13906,24 @@
       "duration_ms": 202826,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7bh8iyEh9w4j0avFN2bIJR"
+    },
+    {
+      "album": {
+        "name": "Happiness by Design",
+        "url": "https://open.spotify.com/album/0qGvHEw4FXlmLZJGIFBsfQ"
+      },
+      "artists": [
+        {
+          "name": "Ten Hands High",
+          "url": "https://open.spotify.com/artist/6f9QvCttQBCidtiPPeOOAE"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224734,
+      "name": "Happiness by Design",
+      "url": "https://open.spotify.com/track/5jdU1T6yoRX4W9jvtOeFS9"
     },
     {
       "album": {
@@ -14844,7 +14916,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 347022,
       "name": "Home",
       "url": "https://open.spotify.com/track/4GmxIWsYfZyHmjp0RUdraG"
@@ -16358,7 +16430,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 144026,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/5sxL8mbxlwJsDqcZbd5Dnh"
@@ -18265,6 +18337,24 @@
     },
     {
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788"
+      },
+      "artists": [
+        {
+          "name": "HANNAHBELLA",
+          "url": "https://open.spotify.com/artist/0HY4L6Y3gywUaQ3FnM22yU"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183088,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1iKE8ZTRJEW0lr8eus0KFS"
+    },
+    {
+      "album": {
         "name": "Keying My Car",
         "url": "https://open.spotify.com/album/4lBpSkCvCN1qEVhuDa8NuD"
       },
@@ -19472,6 +19562,24 @@
       "duration_ms": 142153,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/7wMaj44M4ZCHBJeJ4KEzYs"
+    },
+    {
+      "album": {
+        "name": "lo",
+        "url": "https://open.spotify.com/album/6GezIbCVcHvNwFjbBQIwcd"
+      },
+      "artists": [
+        {
+          "name": "fake dennis",
+          "url": "https://open.spotify.com/artist/3oz4EB9hVFouYKdpwMn4gJ"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194596,
+      "name": "lo",
+      "url": "https://open.spotify.com/track/1d1dg4dbu0Nq7dBoBuLQpi"
     },
     {
       "album": {
@@ -21096,7 +21204,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 200448,
       "name": "Me and My Girl",
       "url": "https://open.spotify.com/track/6kkX0f7CpLzVoujka6vdT0"
@@ -23834,7 +23942,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 226240,
       "name": "Now That I Know You",
       "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
@@ -25407,6 +25515,24 @@
     },
     {
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/7DXEjR7d5vOskJrApIujWg"
+      },
+      "artists": [
+        {
+          "name": "Rachel Newnham",
+          "url": "https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175723,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/37JkA8VfadzIqlp9WN7THv"
+    },
+    {
+      "album": {
         "name": "Peoples",
         "url": "https://open.spotify.com/album/7AOIFPZ2gmoXXaS7kf4FU4"
       },
@@ -26404,7 +26530,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 175244,
       "name": "Puppet Show",
       "url": "https://open.spotify.com/track/5VvEVG2Ym38UWQEDEFHE3I"
@@ -27036,6 +27162,32 @@
       "duration_ms": 231050,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/0SCmpcUDoj5LfhH0vuEJnx"
+    },
+    {
+      "album": {
+        "name": "SOUTH TO THE STARS",
+        "url": "https://open.spotify.com/album/1CTPoPMOjEsDJesoq8sNXO"
+      },
+      "artists": [
+        {
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "Zuko Rosemeid",
+          "url": "https://open.spotify.com/artist/1tRh6sNqD3vKanlprXo5A9"
+        },
+        {
+          "name": "CMillano",
+          "url": "https://open.spotify.com/artist/4YwRdwNUSpmFLFu4SCNHAc"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128629,
+      "name": "REFLECT",
+      "url": "https://open.spotify.com/track/2DX2WiviWXQurejwS4oWfV"
     },
     {
       "album": {
@@ -30787,6 +30939,24 @@
     },
     {
       "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/3m2G7qDgE53pQaH5FTtVe2"
+      },
+      "artists": [
+        {
+          "name": "Lakes",
+          "url": "https://open.spotify.com/artist/3FsRoxn81LEbOBSHb60T8G"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230517,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/1NlUX4KAgTV6zCkI7bznwg"
+    },
+    {
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/5Q5ehaFT5e7qc5mQGiIa0q"
       },
@@ -31602,7 +31772,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 145500,
       "name": "Superfan",
       "url": "https://open.spotify.com/track/6dCqCHxMhOjEpx43wgWycn"
@@ -33042,7 +33212,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 158360,
       "name": "there's no easy way out",
       "url": "https://open.spotify.com/track/4FeKJ0T5tHUiyprfDjhL9o"
@@ -35395,6 +35565,24 @@
     },
     {
       "album": {
+        "name": "WEEDKILLER",
+        "url": "https://open.spotify.com/album/26LSYUt7SNNgST4Ply5tDs"
+      },
+      "artists": [
+        {
+          "name": "SELL EVERYTHING",
+          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108138,
+      "name": "WEEDKILLER",
+      "url": "https://open.spotify.com/track/4Gh2Lp6wpVgbBOa7DE2m2l"
+    },
+    {
+      "album": {
         "name": "Weekend Girlfriend",
         "url": "https://open.spotify.com/album/1j1c5aK2d95028Gko9F8iw"
       },
@@ -35970,6 +36158,24 @@
       "duration_ms": 284120,
       "name": "White Doves",
       "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
+    },
+    {
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/6PRcId3OOgVDtEt2ekejTF"
+      },
+      "artists": [
+        {
+          "name": "Ashaine White",
+          "url": "https://open.spotify.com/artist/3nhn1Qpg3aXPWN2IzaLj05"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/7nxszhDJ4vZOFhgfjqHywp"
     },
     {
       "album": {

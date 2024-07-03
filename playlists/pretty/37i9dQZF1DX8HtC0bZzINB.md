@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,033 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,174 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 46 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 |
 | 47 | [Senden Vazgeçtim](https://open.spotify.com/track/3RAmJSQDSJWgrzu66Ftcrr) | [Bora](https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E) | [Senden Vazgeçtim](https://open.spotify.com/album/72ulEcsqjpgL4lcGO8gnyT) | 1:50 |
 | 48 | [bu gece dağıtıcam..](https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [bu gece dağıtıcam..](https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX) | 2:19 |
-| 49 | [neydi derdin](https://open.spotify.com/track/0RoAuPEONZLR6QK4GGJiEr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [neydi derdin](https://open.spotify.com/album/1XK7zWCTSPJqFXGDMIPTCL) | 2:35 |
-| 50 | [bu bi' itiraf](https://open.spotify.com/track/6s0WUuPlnK8JTcBEhLw6pp) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui), [Deha](https://open.spotify.com/artist/3G8CpiMJOnYQJ8Xyud2lQg), [Deniz Rhode](https://open.spotify.com/artist/2N5PnASGMV4yCYW2rUg03L) | [bu bi' itiraf](https://open.spotify.com/album/4KAABV3CDGqkalDJQznmzv) | 2:11 |
+| 49 | [bu bi' itiraf](https://open.spotify.com/track/6s0WUuPlnK8JTcBEhLw6pp) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui), [Deha](https://open.spotify.com/artist/3G8CpiMJOnYQJ8Xyud2lQg), [Deniz Rhode](https://open.spotify.com/artist/2N5PnASGMV4yCYW2rUg03L) | [bu bi' itiraf](https://open.spotify.com/album/4KAABV3CDGqkalDJQznmzv) | 2:11 |
+| 50 | [neydi derdin](https://open.spotify.com/track/0RoAuPEONZLR6QK4GGJiEr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [neydi derdin](https://open.spotify.com/album/1XK7zWCTSPJqFXGDMIPTCL) | 2:35 |
 
 Snapshot ID: `ZnWctQAAAAABIqeQKszHUFNnlQqU22mp`

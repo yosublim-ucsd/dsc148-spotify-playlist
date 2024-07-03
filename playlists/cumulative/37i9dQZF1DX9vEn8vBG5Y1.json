@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
+  "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
   "name": "00s Pop Rock",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 205466,
       "name": "(Reach Up For The) Sunrise",
       "url": "https://open.spotify.com/track/3SwfiKBx4rv3fGmtHT3UqO"
+    },
+    {
+      "album": {
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "album": {
@@ -427,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
+    },
+    {
+      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -676,10 +712,28 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 213106,
       "name": "Gives You Hell",
       "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
+    },
+    {
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
     },
     {
       "album": {
@@ -878,7 +932,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 156933,
       "name": "Hey Julie",
       "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 185360,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj"
@@ -1026,6 +1080,24 @@
       "duration_ms": 306546,
       "name": "I Thought I'd Seen Everything",
       "url": "https://open.spotify.com/track/0sx4smMhPl7RY0a2FAenEj"
+    },
+    {
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "album": {
@@ -1339,6 +1411,24 @@
     },
     {
       "album": {
+        "name": "Good Charlotte",
+        "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "album": {
         "name": "Little Wonders",
         "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
       },
@@ -1386,7 +1476,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 212506,
       "name": "Live Like We're Dying",
       "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
@@ -1422,7 +1512,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 347373,
       "name": "Make This Go On Forever",
       "url": "https://open.spotify.com/track/33Hgpos7EfwgEQOLrF8U30"
@@ -1462,6 +1552,24 @@
       "duration_ms": 240573,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/6fvIR1Hhbc1t9wqMcW1olX"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "album": {
@@ -2358,7 +2466,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 227293,
       "name": "The First Cut Is The Deepest",
       "url": "https://open.spotify.com/track/16RgOvGr4RpkitCiWK5sqU"
@@ -2452,7 +2560,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 267653,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu"
@@ -2470,7 +2578,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 267653,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"

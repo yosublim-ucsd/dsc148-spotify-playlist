@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 287880,
       "name": "Airbag",
       "url": "https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN"
@@ -8795,6 +8795,24 @@
     },
     {
       "album": {
+        "name": "PUNK TACTICS",
+        "url": "https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143609,
+      "name": "PUNK TACTICS",
+      "url": "https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9"
+    },
+    {
+      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -9982,7 +10000,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 50133,
       "name": "Sleep/Swim",
       "url": "https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH"
@@ -12678,7 +12696,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 281243,
       "name": "Why?",
       "url": "https://open.spotify.com/track/6ZfbRzC0HfmjDnpXQPXY6T"
@@ -13090,6 +13108,24 @@
       "duration_ms": 597933,
       "name": "\u2605",
       "url": "https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou"
+    },
+    {
+      "album": {
+        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "\u6b63\u3057\u3044\u8857",
+      "url": "https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q"
     }
   ],
   "url": "https://open.spotify.com/playlist/79mpaUsn0LPGUyCkBRnSgZ"

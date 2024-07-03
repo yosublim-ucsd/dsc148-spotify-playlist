@@ -4,7 +4,7 @@
 
 > L'été 2024 sera chaud 🌞
 
-261 songs - 13 hr 11 min
+262 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,13 +168,14 @@
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-04-27 | 2023-05-11 |
 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 | 2024-06-06 | 2024-06-19 |
 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 | 2024-04-04 | 2024-06-15 |
+| [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-07-02 |  |
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-06-06 | 2024-06-22 |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-25 |  |
 | [Outété](https://open.spotify.com/track/6hVOBUdubnXycTHmwBjkUO) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Diamant](https://open.spotify.com/album/3Bed6tESm55ctwZVLAQMNX) | 3:05 | 2022-09-07 | 2023-02-11 |
 | [Oway](https://open.spotify.com/track/6FWCEcvsDtBbvFQOA7Fugc) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Oway](https://open.spotify.com/album/3y10FCkPqr4xnnPZijpuo6) | 3:05 | 2023-07-13 | 2023-07-25 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-26 | 2023-07-14 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-05 | 2024-04-05 |
-| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 | 2024-07-03 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-05-19 | 2024-03-30 |
 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 | 2023-04-20 | 2023-05-20 |
 | [People of the Sun](https://open.spotify.com/track/5GaXT2QZkhKyzovjKDwiyh) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [People of the Sun](https://open.spotify.com/album/5hrHrFwkBxFvyYOw4nPdxQ) | 2:10 | 2024-06-14 |  |

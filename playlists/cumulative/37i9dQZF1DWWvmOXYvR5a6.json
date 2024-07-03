@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: CHANMINA(\ucc2c\ubbf8\ub098)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: BE'O(\ube44\uc624)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2708,6 +2708,28 @@
       "duration_ms": 200515,
       "name": "Crazyy (feat. Vapo)",
       "url": "https://open.spotify.com/track/5xt3ACTZEK9naZxrnBZDZX"
+    },
+    {
+      "album": {
+        "name": "Criminal (Feat. MC MONG)",
+        "url": "https://open.spotify.com/album/5k2dXby8yLoMHBFoBlQEf4"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Criminal (Feat. MC MONG)",
+      "url": "https://open.spotify.com/track/2Pa2nJbeFRgzL8twqs06S8"
     },
     {
       "album": {
@@ -15054,7 +15076,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 197373,
       "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
       "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"

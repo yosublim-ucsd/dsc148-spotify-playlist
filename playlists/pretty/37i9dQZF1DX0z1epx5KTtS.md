@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Tam Sir
+> African dance party music from the continent to Paris\. Photo : Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,669 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,721 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Arc de triomphe](https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [PUISSANCE 10](https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg) | 3:25 |
 | 40 | [FAUT M'AFFICHER](https://open.spotify.com/track/40Ynf1HXntwWvZQQSnrzSb) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Graço](https://open.spotify.com/artist/1Ihd80RcqCuuKPvr1TW1Sh) | [FAUT M'AFFICHER](https://open.spotify.com/album/75McQXUc0TgiBIixgQyAGp) | 3:23 |
 
-Snapshot ID: `Zn3g4AAAAAB3ShJaTciDeAqSXV7WvjUZ`
+Snapshot ID: `ZoPl+gAAAADMZCsHqbNPqVhOvvX6oLbu`

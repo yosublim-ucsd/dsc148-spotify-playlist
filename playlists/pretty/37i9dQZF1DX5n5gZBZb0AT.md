@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,829 likes - 40 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,178 likes - 40 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 7 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 8 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 9 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
-| 10 | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/track/4XeElJ6zvozrMsDQRbfLp1) | [TOTZ](https://open.spotify.com/artist/3raDCuZ1EuUpmjKUm8qa1Q), [ZYZZ HARDSTYLE](https://open.spotify.com/artist/1MToCKholpDbeLDwDYtkyb), [Anime Lifestyle](https://open.spotify.com/artist/61z12RT8cSQzr2T1B4mgsD) | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/album/02BsnneyniW01a9pyg51Yw) | 1:48 |
+| 10 | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/track/4XeElJ6zvozrMsDQRbfLp1) | [TOTZ](https://open.spotify.com/artist/3raDCuZ1EuUpmjKUm8qa1Q), [ZYZZ HARDSTYLE](https://open.spotify.com/artist/1MToCKholpDbeLDwDYtkyb), [Anime Lifestyle](https://open.spotify.com/artist/5CvDROubag3w5dW8WM6Ayy) | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/album/02BsnneyniW01a9pyg51Yw) | 1:48 |
 | 11 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 12 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
 | 13 | [MONTAGEM INVASÃO](https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n) | [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG) | [MONTAGEM INVASÃO](https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg) | 1:14 |

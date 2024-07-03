@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Ameli",
       "url": "https://open.spotify.com/track/3E7pXPvfPnueoZKz4VTg1n"
@@ -6114,7 +6114,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -10434,7 +10434,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -11556,7 +11556,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -14808,7 +14808,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -18818,7 +18818,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -19506,7 +19506,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -24684,7 +24684,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -25948,7 +25948,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 260348,
       "name": "Piededzini Mann",
       "url": "https://open.spotify.com/track/0q3QoeqUKLIiHz7d43nvGb"
@@ -27164,7 +27164,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -28880,7 +28880,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 210810,
       "name": "Salauzta Sirds (feat. Ozols)",
       "url": "https://open.spotify.com/track/4KV9h3YlxjISNYPKw8vpkw"
@@ -30716,7 +30716,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -34092,7 +34092,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -35980,7 +35980,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
@@ -36306,6 +36306,24 @@
       "duration_ms": 240000,
       "name": "visurg\u0101j\u0113js",
       "url": "https://open.spotify.com/track/6TMetAezlN9nmxYSNDew7A"
+    },
+    {
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "album": {
@@ -39308,6 +39326,36 @@
       "duration_ms": 173693,
       "name": "\u0413\u0434\u0435 \u0442\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW"
+    },
+    {
+      "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        },
+        {
+          "name": "Wipo",
+          "url": "https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "\u0413\u041b\u0410\u041c\u0423\u0420",
+      "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
     },
     {
       "album": {

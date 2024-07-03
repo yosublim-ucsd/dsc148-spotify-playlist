@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 43258,
+  "num_followers": 43311,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+      "duration_ms": 390013,
+      "name": "Someone Great",
+      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 390013,
-      "name": "Someone Great",
-      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "It's the Arps",
-        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        }
-      ],
-      "duration_ms": 400751,
-      "name": "Inspector Norse",
-      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        }
+      ],
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Kingdoms In Colour",
-        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "North Downs",
-          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
-        }
-      ],
-      "duration_ms": 250398,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Want You In My Soul",
         "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
@@ -731,6 +711,26 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Kingdoms In Colour",
+        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "North Downs",
+          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
+        }
+      ],
+      "duration_ms": 250398,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195293,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "See Mystery Lights: Remixes & B-Sides",
+        "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
+      },
+      "artists": [
+        {
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+        },
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        }
+      ],
+      "duration_ms": 251380,
+      "name": "Psychic City - Classixx Remix",
+      "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 294211,
       "name": "All Night",
       "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "See Mystery Lights: Remixes & B-Sides",
-        "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
-      },
-      "artists": [
-        {
-          "name": "YACHT",
-          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
-        },
-        {
-          "name": "Classixx",
-          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
-        }
-      ],
-      "duration_ms": 251380,
-      "name": "Psychic City - Classixx Remix",
-      "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Untrue",
         "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 240426,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1245,20 +1245,20 @@
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
     },
     {
-      "added_at": "2024-02-29 17:58:01",
+      "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "XXYYXX",
-        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "xxyyxx",
-          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 247771,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
+      "duration_ms": 431520,
+      "name": "Get Innocuous!",
+      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1277,20 +1277,20 @@
       "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
     },
     {
-      "added_at": "2023-12-08 21:38:00",
+      "added_at": "2024-02-29 17:58:01",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "XXYYXX",
+        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "xxyyxx",
+          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
         }
       ],
-      "duration_ms": 431520,
-      "name": "Get Innocuous!",
-      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
+      "duration_ms": 247771,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Make It Up",
-        "url": "https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 230745,
-      "name": "Make It Up",
-      "url": "https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Make It Up",
+        "url": "https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 230745,
+      "name": "Make It Up",
+      "url": "https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Mirror Maru - EP",
+        "url": "https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ"
+      },
+      "artists": [
+        {
+          "name": "Cashmere Cat",
+          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Mirror Maru",
+      "url": "https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 231640,
       "name": "Movements (Chapter III)",
       "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Mirror Maru - EP",
-        "url": "https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ"
-      },
-      "artists": [
-        {
-          "name": "Cashmere Cat",
-          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Mirror Maru",
-      "url": "https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Meditations on Afrocentrism",
-        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 254698,
-      "name": "Down the Line - It Takes a Number",
-      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Meditations on Afrocentrism",
+        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 254698,
+      "name": "Down the Line - It Takes a Number",
+      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Simmer Down",
         "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 219736,
       "name": "Could",
       "url": "https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
         }
       ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1675,34 +1691,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+        "name": "Lover Chanting (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
       },
       "artists": [
         {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+      "duration_ms": 205464,
+      "name": "Lover Chanting - Edit",
+      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
     }
   ],
   "unique_name": "voltage",

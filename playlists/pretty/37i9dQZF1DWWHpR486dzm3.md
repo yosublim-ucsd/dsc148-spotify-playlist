@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien parhaat uutuudet\. Kannessa Lyyti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,629 likes - 82 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,630 likes - 82 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

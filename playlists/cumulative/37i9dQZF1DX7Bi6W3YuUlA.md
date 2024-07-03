@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  <a href="spotify:artist:2d8NsBa8O4C6bgQatFP5V4">nobigdyl.</a>
 
-426 songs - 21 hr 11 min
+427 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [MPJ Freestyle](https://open.spotify.com/track/0XoPboJxZKZCu1YwIgaKHm) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [MPJ Freestyle](https://open.spotify.com/album/0xfg8EHlo3B1VB7SXzuxHz) | 2:57 | 2021-12-11 | 2022-11-19 |
 | [My Bruddas](https://open.spotify.com/track/4VfPAgdUPrwnat0kOsbdRu) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [My Bruddas](https://open.spotify.com/album/2ijkyNFFJUHG4g8eBaarQS) | 2:59 | 2022-03-19 | 2024-06-26 |
 | [My God](https://open.spotify.com/track/73ac5sQSpW82JSWPedBnxq) | [Jon Hope](https://open.spotify.com/artist/5oGS8Bs7cYYAFFlgwWtyrC), [Ceez](https://open.spotify.com/artist/0Kx6eK0ohIBwfAFST3x44H), [Israel Wusu](https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f) | [Hope All is Well](https://open.spotify.com/album/1xG4mJftA5ekb57Ri9oUgG) | 3:46 | 2021-12-11 | 2022-04-18 |
-| [NAH](https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu) | [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH), [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [NAH](https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx) | 2:02 | 2024-06-28 |  |
+| [NAH](https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu) | [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH), [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [NAH](https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx) | 2:02 | 2024-06-28 | 2024-07-03 |
 | [Narcoleptik \(feat\. KMO Shamaal\)](https://open.spotify.com/track/7r9MGAOe3wW8RBZ6X5MLTt) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [KMO Shamaal](https://open.spotify.com/artist/5vUfgLjBf86CYCg2WH9X9Q) | [Narcoleptik](https://open.spotify.com/album/5BJxFfMmrOxvdVjdrpJxRw) | 2:30 | 2021-12-11 | 2022-07-22 |
 | [Never Change](https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Never Change](https://open.spotify.com/album/5RWc74ZeXbwi0xMYyg8Elc) | 3:01 | 2021-12-11 | 2022-09-21 |
 | [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2021-12-11 | 2022-07-22 |
@@ -411,6 +411,7 @@
 | [We the People \(Come Together\)](https://open.spotify.com/track/1iKAD3PTIsjfcw2AinyKVp) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [We the People \(Come Together\)](https://open.spotify.com/album/4bZVe0WMHYDF5mniuWEjLj) | 3:11 | 2021-12-11 | 2022-07-27 |
 | [We Up](https://open.spotify.com/track/62nB5ttQdZE42boL5vS6x3) | [Jim\-E\-O](https://open.spotify.com/artist/7b9oNYQgcmcDCFtFc3fNfp), [Pierre Medor](https://open.spotify.com/artist/5Ryi9Ymj30IE4LRUuyXY7c) | [Crown](https://open.spotify.com/album/3GadHFLkXYd8DTEY545vhj) | 3:08 | 2022-03-19 | 2022-07-24 |
 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 | 2021-12-11 | 2024-06-26 |
+| [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 | 2024-06-28 |  |
 | [WHAT A DAY](https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [WHAT A DAY](https://open.spotify.com/album/40aNMrVZkiEXfzPTTUQa6Y) | 2:43 | 2021-12-11 | 2022-11-19 |
 | [Where The Love Go?](https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:20 | 2021-12-11 | 2024-06-26 |
 | [Who That Is](https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Dj Laz](https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ) | [Who That Is](https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq) | 2:24 | 2022-11-18 |  |

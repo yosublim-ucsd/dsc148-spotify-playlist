@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,433 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,399 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 41 | [Fight For Love](https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Fight For Love](https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1) | 2:56 |
 | 42 | [COPY COLD](https://open.spotify.com/track/2T28tl7T9TR4qQqFGTHL1c) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 3:46 |
 | 43 | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
-| 44 | [PNW](https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [PNW](https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR) | 4:27 |
+| 44 | [Three Little Pigs](https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:11 |
 | 45 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
-| 46 | [Three Little Pigs](https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:11 |
+| 46 | [PNW](https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [PNW](https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR) | 4:27 |
 | 47 | [DOIN GREAT](https://open.spotify.com/track/3uwTGCYleQp63OlweDUii0) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [APT 6E](https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF) | 2:36 |
 | 48 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
 | 49 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Control Freak
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,486 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,924 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 79 | [The Descent](https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:07 |
 | 80 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 | 81 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 |
-| 82 | [Hertz Donut](https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Dogwater](https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx) | 2:36 |
-| 83 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
+| 82 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
+| 83 | [Hertz Donut](https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Dogwater](https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx) | 2:36 |
 | 84 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
 | 85 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 86 | [Dhunga](https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Toxic Rob](https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc) | [Dhunga](https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY) | 2:29 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 92 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
 | 93 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 |
 | 94 | [Issa Bounce](https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Issa Bounce](https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi) | 1:57 |
-| 95 | [Buckshots](https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [Buckshots](https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5) | 2:41 |
-| 96 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 |
+| 95 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 |
+| 96 | [Buckshots](https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [Buckshots](https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5) | 2:41 |
 | 97 | [ORIGINAL STEPPA](https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [ORIGINAL STEPPA](https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc) | 2:06 |
 | 98 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
 | 99 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 |

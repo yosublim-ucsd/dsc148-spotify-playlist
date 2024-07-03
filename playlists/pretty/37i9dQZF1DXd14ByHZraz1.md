@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Jess Glyne
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,997 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,968 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 27 | [Midnight](https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [Midnight](https://open.spotify.com/album/6c4l39l4KI7waOKtqfQy3T) | 4:43 |
 | 28 | [Home \- Vintage Culture Remix](https://open.spotify.com/track/46mSti37NWTIg9XOFulqLH) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Home \(Vintage Culture Remix\)](https://open.spotify.com/album/3uSsJLIv6eQeDUZt5tWBaH) | 3:33 |
 | 29 | [Reason](https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Reason](https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib) | 3:06 |
-| 30 | [Mia Pembe \- Mojjo Remix](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 |
+| 30 | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 |
 | 31 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 32 | [Say It Right](https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Say It Right](https://open.spotify.com/album/3G61YNQMtrN1LCyiJocIJp) | 2:55 |
 | 33 | [Booty Pop](https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [White Sheep](https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50) | [Booty Pop](https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu) | 2:53 |

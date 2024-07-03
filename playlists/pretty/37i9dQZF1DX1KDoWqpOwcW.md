@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > Desde el Estadio de los 👹👹👹 Trueno nos comparte su nueva rola ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,991 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,993 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 117 | [La Sacamos Del Estadio](https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:25 |
 | 118 | [Bule bule](https://open.spotify.com/track/69nXXaMQ9MkyOFAkI4iqtw) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:23 |
 | 119 | [Fondo Fondo](https://open.spotify.com/track/3qPp2UgTYiGXxphydlrXSF) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Fondo Fondo](https://open.spotify.com/album/5KQtr7BEmt8TH8IcUw27eP) | 3:01 |
-| 120 | [El Venao](https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe) | 4:52 |
-| 121 | [El Toro Mambo](https://open.spotify.com/track/22QnPXq4oafjo6HjqU24bv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Toro Mambo](https://open.spotify.com/album/6L33zQtRzlkEbqNTs6zZpS) | 3:23 |
+| 120 | [El Toro Mambo](https://open.spotify.com/track/22QnPXq4oafjo6HjqU24bv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Toro Mambo](https://open.spotify.com/album/6L33zQtRzlkEbqNTs6zZpS) | 3:23 |
+| 121 | [El Venao](https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe) | 4:52 |
 | 122 | [La Bola \(Pelotero a la Bola\)](https://open.spotify.com/track/2QZ8CBcsP7TesgmWkDjwMr) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/1mMwxzRM0QFBJ1bdKJW815) | 3:30 |
 | 123 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
 | 124 | [Kulikitaka \(Bonus Track\)](https://open.spotify.com/track/7r4lm9oDlF8gJAaCVMdfW9) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [En Vivo Desde Cuernavaca](https://open.spotify.com/album/6T6xNoyB1BW8GC4rsmQXXf) | 3:48 |

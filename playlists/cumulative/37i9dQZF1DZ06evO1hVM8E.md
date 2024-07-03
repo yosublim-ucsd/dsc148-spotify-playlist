@@ -2,7 +2,7 @@
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
+> This is La Original Banda El Limón de Salvador Lizárraga\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 115 songs - 5 hr 57 min
 
@@ -47,7 +47,7 @@
 | [El Primer Lugar](https://open.spotify.com/track/6nGvtRw8Upm5L0tMtPcjGz) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 3:14 | 2022-06-01 |  |
 | [El Rengo del Gallo Giro](https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:11 | 2022-07-21 |  |
 | [El Sinaloense](https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:11 | 2022-08-14 |  |
-| [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 | 2022-08-11 | 2022-08-17 |
+| [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 | 2022-08-11 |  |
 | [Estas a Tiempo](https://open.spotify.com/track/7m6Z1D03EmTZ9lgDfsbLeA) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl) | 2:30 | 2022-06-01 | 2022-07-14 |
 | [Estás a Tiempo](https://open.spotify.com/track/69QsCVZ8toyrw0W6kgFbzB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 2:30 | 2022-10-05 | 2022-10-12 |
 | [Fin de Semana](https://open.spotify.com/track/330607uBEh09fIWqWfZFBf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 4:18 | 2022-06-01 |  |
@@ -118,7 +118,7 @@
 | [Te Sigo Amando](https://open.spotify.com/track/3JpCeYH4ecOATz52uaIKO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Mayor de Mis Antojos](https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN) | 2:41 | 2022-06-02 | 2022-10-13 |
 | [Tomen Tomen](https://open.spotify.com/track/2zMFH7tqWNewiuWxVewPPL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Tomen Tomen](https://open.spotify.com/album/6bPGTaF2hjHIulhXQ4RIoR) | 2:56 | 2023-03-11 | 2023-04-11 |
 | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/track/03XT2C69jHbJvw3QdRvlOk) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos En Vivo La Original Banda El Limón](https://open.spotify.com/album/2eZ42ZO51n3xHHSZRDnBVm) | 3:03 | 2023-08-25 | 2023-09-10 |
-| [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 | 2022-06-01 |  |
+| [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 | 2022-06-01 | 2024-07-03 |
 | [Vuela Paloma](https://open.spotify.com/track/2n1cZHde59WHCHG4aaN94w) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Dos Gotas de Agua](https://open.spotify.com/album/1Kosuz65EekRnT8zsAcoQj) | 2:36 | 2022-06-01 | 2022-10-13 |
 | [Y Ahora Te Vas](https://open.spotify.com/track/0p5QrCnGwTQ9HUM7SpEbOP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [De Aquí Pa'l Real](https://open.spotify.com/album/4q5mIDBPpfcIM3piHbYJG2) | 3:12 | 2022-07-26 | 2022-12-13 |
 | [Y Ahora Te Vas](https://open.spotify.com/track/1uMJkxQipn0Mm0cAoctX82) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Ahora Te Vas](https://open.spotify.com/album/1RnKnR16T9sWJlxCgWla1i) | 3:12 | 2022-06-01 | 2022-07-27 |

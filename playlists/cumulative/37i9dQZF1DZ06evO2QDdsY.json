@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Valerie June. The essential tracks, all in one playlist.",
+  "description": "This Is Valerie June. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Valerie June",
   "tracks": [
     {
@@ -263,6 +263,32 @@
     },
     {
       "album": {
+        "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
+        "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219961,
+      "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
+      "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
+    },
+    {
+      "album": {
         "name": "Under Cover",
         "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
@@ -372,7 +398,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 119093,
       "name": "Home",
       "url": "https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid"
@@ -470,7 +496,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 250960,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
@@ -740,7 +766,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 167826,
       "name": "Rain Dance",
       "url": "https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs"
@@ -1372,7 +1398,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 200000,
       "name": "You And I - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"

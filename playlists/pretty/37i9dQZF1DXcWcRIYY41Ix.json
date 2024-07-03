@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Mar\u00eda Laura.",
-  "num_followers": 124431,
+  "num_followers": 124444,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,22 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+        "name": "Ventura (Live)",
+        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
       },
       "artists": [
         {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+          "name": "Santero y Los Muchachos",
+          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
         },
         {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
         }
       ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+      "duration_ms": 295328,
+      "name": "Ventura - Live",
+      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -687,6 +687,26 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -795,26 +815,6 @@
       "duration_ms": 126650,
       "name": "Cara de tonta",
       "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
-        "name": "Ventura (Live)",
-        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
-      },
-      "artists": [
-        {
-          "name": "Santero y Los Muchachos",
-          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
-        },
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 295328,
-      "name": "Ventura - Live",
-      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Capurgan\u00e1",
-        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
-      },
-      "artists": [
-        {
-          "name": "Astola y Rat\u00f3n",
-          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Capurgan\u00e1",
-      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
         "name": "poquito",
         "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 219681,
       "name": "poquito",
       "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
+        "name": "Capurgan\u00e1",
+        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
+      },
+      "artists": [
+        {
+          "name": "Astola y Rat\u00f3n",
+          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Capurgan\u00e1",
+      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
+        "name": "Fins a maig no revisc",
+        "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "duration_ms": 167513,
+      "name": "Terra banyada",
+      "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 217787,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
-        "name": "Fins a maig no revisc",
-        "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
-      },
-      "artists": [
-        {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
-        }
-      ],
-      "duration_ms": 167513,
-      "name": "Terra banyada",
-      "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Temerario (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2zZVXgcEvBEiIyOtGmO0Ic"
-      },
-      "artists": [
-        {
-          "name": "Itaca Band",
-          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
-        },
-        {
-          "name": "Gerard Aledo",
-          "url": "https://open.spotify.com/artist/2G3PV2M6Mpb2FjRVNio1tf"
-        }
-      ],
-      "duration_ms": 227357,
-      "name": "Temerario - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0f4uL39wrm5n6iDF2ZQEuH"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 245426,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
+        "name": "Temerario (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2zZVXgcEvBEiIyOtGmO0Ic"
+      },
+      "artists": [
+        {
+          "name": "Itaca Band",
+          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
+        },
+        {
+          "name": "Gerard Aledo",
+          "url": "https://open.spotify.com/artist/2G3PV2M6Mpb2FjRVNio1tf"
+        }
+      ],
+      "duration_ms": 227357,
+      "name": "Temerario - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0f4uL39wrm5n6iDF2ZQEuH"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
         "name": "Anoche te vi",
         "url": "https://open.spotify.com/album/0HFlsuCPKzl2KaPSbNtHsD"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 225287,
       "name": "Para la Pena No",
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
         "name": "Luch\u00edn",
         "url": "https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB"
       },
@@ -1551,18 +1531,22 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Camino al Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
       "artists": [
         {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 203393,
-      "name": "Camino al Bemb\u00e9",
-      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1595,6 +1579,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
+        "name": "Camino al Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
+      },
+      "artists": [
+        {
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
+        }
+      ],
+      "duration_ms": 203393,
+      "name": "Camino al Bemb\u00e9",
+      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Para Conquistarnos",
-        "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        }
-      ],
-      "duration_ms": 207647,
-      "name": "Para Conquistarnos",
-      "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "En Veinte D\u00edas",
-        "url": "https://open.spotify.com/album/3S0jzswjcXBEcrE8sjMtkA"
+        "name": "Para Conquistarnos",
+        "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
       },
       "artists": [
         {
-          "name": "Riki Rivera",
-          "url": "https://open.spotify.com/artist/56a9ZPfJUNNeHLjmxpqMCU"
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
         }
       ],
-      "duration_ms": 164025,
-      "name": "En Veinte D\u00edas",
-      "url": "https://open.spotify.com/track/6xcv4O4uFHAP01ay3vTSFC"
+      "duration_ms": 207647,
+      "name": "Para Conquistarnos",
+      "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
     },
     {
       "added_at": "2024-06-28 15:36:07",
@@ -1763,22 +1747,6 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "Qu\u00e9 Bonito Lugar",
-        "url": "https://open.spotify.com/album/2BE64Lc16hCD3MwboqHR2E"
-      },
-      "artists": [
-        {
-          "name": "El Alejandro Nano",
-          "url": "https://open.spotify.com/artist/6FVqzsyiOZlIVeFH7p7KqC"
-        }
-      ],
-      "duration_ms": 219185,
-      "name": "Qu\u00e9 Bonito Lugar",
-      "url": "https://open.spotify.com/track/0yTFUbBfdrrInuHfTmzV8d"
-    },
-    {
-      "added_at": "2024-06-28 15:36:07",
-      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1799,6 +1767,38 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
+        "name": "Qu\u00e9 Bonito Lugar",
+        "url": "https://open.spotify.com/album/2BE64Lc16hCD3MwboqHR2E"
+      },
+      "artists": [
+        {
+          "name": "El Alejandro Nano",
+          "url": "https://open.spotify.com/artist/6FVqzsyiOZlIVeFH7p7KqC"
+        }
+      ],
+      "duration_ms": 219185,
+      "name": "Qu\u00e9 Bonito Lugar",
+      "url": "https://open.spotify.com/track/0yTFUbBfdrrInuHfTmzV8d"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
+        "name": "En Veinte D\u00edas",
+        "url": "https://open.spotify.com/album/3S0jzswjcXBEcrE8sjMtkA"
+      },
+      "artists": [
+        {
+          "name": "Riki Rivera",
+          "url": "https://open.spotify.com/artist/56a9ZPfJUNNeHLjmxpqMCU"
+        }
+      ],
+      "duration_ms": 164025,
+      "name": "En Veinte D\u00edas",
+      "url": "https://open.spotify.com/track/6xcv4O4uFHAP01ay3vTSFC"
+    },
+    {
+      "added_at": "2024-06-28 15:36:07",
+      "album": {
         "name": "una se\u00f1al",
         "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
       },
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-06-28 15:36:07",
       "album": {
-        "name": "La Cangreja | Acusticos en El Sal\u00f3n de Casa",
-        "url": "https://open.spotify.com/album/6qYvKeMSc2KhznzFhdj7lt"
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
       "artists": [
         {
-          "name": "La Cangreja",
-          "url": "https://open.spotify.com/artist/3uZPUKyuCQFCR75x69x0KA"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 211375,
-      "name": "Templo",
-      "url": "https://open.spotify.com/track/0ZpwAKJ9GBQCXrRrOSmqXr"
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     }
   ],
   "unique_name": "Cancionistas",

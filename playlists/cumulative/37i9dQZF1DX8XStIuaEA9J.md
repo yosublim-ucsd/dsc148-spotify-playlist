@@ -2,9 +2,9 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ちゃんみな
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: TOMORROW X TOGETHER
 
-515 songs - 1 day 5 hr 55 min
+516 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [あこがれ](https://open.spotify.com/track/4lytQO6U1LEtsKVVEr4YYA) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [あこがれ](https://open.spotify.com/album/0pMBa6eUho5BNupnusQDCz) | 3:27 | 2024-04-30 | 2024-05-08 |
 | [あした天気になあれ](https://open.spotify.com/track/3d3ZMeF3gMgBNA9Wy16MEu) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [書を捨て、歌を編む](https://open.spotify.com/album/3frsajCJRl4XNSXmheDH9W) | 2:59 | 2024-03-19 | 2024-03-27 |
 | [あなたの恋人でよかったよ](https://open.spotify.com/track/7nYoEvr98j8t3wQHTpgK9t) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [あなたの恋人でよかったよ](https://open.spotify.com/album/4tEyNzqBIBt2pDNyXzfqwZ) | 4:12 | 2024-01-31 | 2024-02-14 |
-| [あなたの隣で](https://open.spotify.com/track/3wjc3DUajvRv135ZCLpyDF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [あなたの隣で](https://open.spotify.com/album/20MotNuQBF8dhcOMHjaP0m) | 5:11 | 2024-06-18 |  |
+| [あなたの隣で](https://open.spotify.com/track/3wjc3DUajvRv135ZCLpyDF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [あなたの隣で](https://open.spotify.com/album/20MotNuQBF8dhcOMHjaP0m) | 5:11 | 2024-06-18 | 2024-07-03 |
 | [あの娘の胸に飛びこんで！](https://open.spotify.com/track/6Wsnt2TWCmyio1saGNJqg2) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [あの娘の胸に飛びこんで！](https://open.spotify.com/album/5uMfIrYbKHnMjLnMTN4TbM) | 2:13 | 2024-01-16 | 2024-02-01 |
 | [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 | 2024-02-06 | 2024-02-08 |
 | [いたいの、いたいの、とんでいけ \(feat\. 『ユイカ』, KAFUNÉ\)](https://open.spotify.com/track/5Pzq29ytGEbvz9kH2p03RA) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj), [KAFUNÉ](https://open.spotify.com/artist/7bNRhxhTWymWZpS31aE9qG) | [いたいの、いたいの、とんでいけ \(feat\. 『ユイカ』, KAFUNÉ\)](https://open.spotify.com/album/0GyY5gSLnVP4pACU9d07IB) | 2:34 | 2024-05-21 | 2024-06-26 |
@@ -317,6 +317,7 @@
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-06-26 |  |
 | [はじめから自由だった](https://open.spotify.com/track/58y3Xk4J1uT7EpyYomT4pg) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [はじめから自由だった](https://open.spotify.com/album/1ZpAlTk2lqbFe8Nye8Aewz) | 3:19 | 2024-03-05 | 2024-03-13 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-23 | 2024-01-10 |
+| [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-02 |  |
 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 | 2024-03-19 |  |
 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 | 2024-03-19 | 2024-04-10 |
 | [もう1回！](https://open.spotify.com/track/3w2hwPP631R8uapYYbGRlg) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [ずま](https://open.spotify.com/artist/4ydCwGG3WBCDmk5dNsSHDM) | [もう1回！](https://open.spotify.com/album/43TGDdqBe4uN4fU3WXPVLp) | 2:58 | 2024-03-12 | 2024-03-20 |

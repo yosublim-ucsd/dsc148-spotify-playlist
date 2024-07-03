@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-97 songs - 4 hr 9 min
+99 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2023-05-05 |  |
 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 | 2023-12-08 |  |
 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 | 2023-12-08 |  |
+| [304 Bounty Hunter](https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:22 | 2024-07-03 |  |
 | [310degrees](https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:05 | 2024-02-24 | 2024-06-01 |
 | [4Lifers](https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [4Lifers](https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV) | 2:15 | 2023-08-07 | 2024-03-05 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-24 |  |
@@ -98,6 +99,7 @@
 | [TRAPPii](https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [TRAPPii](https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v) | 2:57 | 2023-09-28 |  |
 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 | 2024-02-20 |  |
 | [UHN UHN](https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [UHN UHN](https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb) | 2:14 | 2023-09-05 | 2024-05-21 |
+| [Underrated](https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/7rqRBEB0cvYofa2OQgQi4G) | 2:35 | 2024-07-03 |  |
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 | 2023-09-08 |  |
 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 | 2024-03-15 | 2024-06-01 |
 | [walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:25 | 2023-10-30 |  |

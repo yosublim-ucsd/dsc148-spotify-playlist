@@ -2,9 +2,9 @@
 
 ### [I Love My Midwest Classics](https://open.spotify.com/playlist/37i9dQZF1DWTJzNR1J5ygQ)
 
-> It's a Midwest thing\. Cover: Nelly
+> It's a Midwest thing\. Cover: Bone Thugs\-n\-Harmony
 
-90 songs - 6 hr 19 min
+91 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Fall In Love](https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:55 | 2021-02-01 |  |
 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 | 2022-03-07 |  |
 | [Flashing Lights](https://open.spotify.com/track/31I3Rt1bPa2LrE74DdNizO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 3:57 | 2021-02-01 | 2022-03-08 |
+| [Foe Tha Love of $](https://open.spotify.com/track/1muLq1kBLWIT3pmNC2xl0g) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:32 | 2024-07-02 |  |
 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 | 2021-02-01 | 2022-05-20 |
 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2021-02-01 | 2024-01-13 |
 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 | 2022-03-07 | 2024-03-02 |
@@ -97,6 +98,6 @@
 | [We Major](https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Really Doe](https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 7:28 | 2021-02-01 | 2022-03-08 |
 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 | 2022-03-07 |  |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2022-03-07 | 2022-10-15 |
-| [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 | 2024-03-01 |  |
+| [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 | 2024-03-01 | 2024-07-03 |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

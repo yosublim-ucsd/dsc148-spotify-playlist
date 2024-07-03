@@ -4,7 +4,7 @@
 
 > Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.
 
-368 songs - 20 hr 11 min
+369 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 | 2023-12-21 |  |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0FlfN5cbUUpIHCRH8X1M44) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 5:04 | 2020-12-18 |  |
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-11-03 |  |
+| [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 | 2024-07-02 |  |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2021-12-28 |  |
 | [Tell Me U Luv Me \(with Trippie Redd\)](https://open.spotify.com/track/5JAYDuLRkODlVt6dgoalKk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:00 | 2020-12-18 |  |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2020-12-18 |  |

@@ -8973,6 +8973,28 @@
     },
     {
       "album": {
+        "name": "Garam Garam [From \"Surya's Saturday (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5DsW3QzlUGGdOkQxUe8ZVC"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sivam",
+          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Garam Garam (From \"Surya's Saturday (Kannada)\")",
+      "url": "https://open.spotify.com/track/1Amjs9p6U29wu2pvtiRgHh"
+    },
+    {
+      "album": {
         "name": "Buy 1 Get 1 Free",
         "url": "https://open.spotify.com/album/2nnlJWsILtaoHEKNmuYzxA"
       },
@@ -10690,7 +10712,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 197275,
       "name": "Holi Haadu (From \"Back Bencherz\")",
       "url": "https://open.spotify.com/track/12t33lO0TdN4xUGeAewnQK"
@@ -21281,6 +21303,32 @@
     },
     {
       "album": {
+        "name": "Odo Odo Odo..Le (From \"Forest\")",
+        "url": "https://open.spotify.com/album/433AjUErynkJshBiwoO9At"
+      },
+      "artists": [
+        {
+          "name": "Dharma Vish",
+          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
+        },
+        {
+          "name": "Punith Arya",
+          "url": "https://open.spotify.com/artist/0mGt3IkzLWeqSelwUx9vDb"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Odo Odo Odo..Le (From \"Forest\")",
+      "url": "https://open.spotify.com/track/6J2GWbFrbC3pJcWeAlCH6N"
+    },
+    {
+      "album": {
         "name": "Odu Odu (From \"Abbabba\")",
         "url": "https://open.spotify.com/album/3TvFPQb8X09PGB1XJfzJu8"
       },
@@ -28842,7 +28890,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 225968,
       "name": "Yedhe Goodali (From \"Jasti Preeti\")",
       "url": "https://open.spotify.com/track/7kEEUfYAGQEGkGOY3FJG0P"

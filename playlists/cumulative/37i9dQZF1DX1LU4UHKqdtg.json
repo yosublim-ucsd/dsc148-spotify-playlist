@@ -3419,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "Cheeky Icy Thang",
+      "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
+    },
+    {
+      "album": {
         "name": "Cheese",
         "url": "https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj"
       },
@@ -6377,6 +6395,24 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
+    },
+    {
+      "album": {
         "name": "FOREVER 1 - The 7th Album",
         "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
       },
@@ -6774,6 +6810,24 @@
       "duration_ms": 186866,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5"
+    },
+    {
+      "album": {
+        "name": "Gibberish",
+        "url": "https://open.spotify.com/album/1k47LxYr0K8UTMONAo0Ah2"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/1Ge5lmqxLNknYNvvOSxPx9"
     },
     {
       "album": {
@@ -8036,6 +8090,24 @@
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192375,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r"
     },
     {
       "album": {
@@ -11282,7 +11354,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 199040,
       "name": "My Tune",
       "url": "https://open.spotify.com/track/6jgyxezZnjJP2PJxQYOw3K"
@@ -12350,7 +12422,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 268106,
       "name": "Our Season",
       "url": "https://open.spotify.com/track/2I99T4R9UBIkilDDan4x86"
@@ -15343,6 +15415,24 @@
     },
     {
       "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "Songbird - Korean Version",
+      "url": "https://open.spotify.com/track/1cMpJsa4qpXyjmVkck6u0f"
+    },
+    {
+      "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
@@ -16258,7 +16348,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 153500,
       "name": "Summer Potion - Summer Breeze Mix",
       "url": "https://open.spotify.com/track/4z3uEfiE0CvSr2SQhcm6Ho"
@@ -17642,6 +17732,24 @@
       "duration_ms": 217026,
       "name": "TPIR (feat. MIYAVI)",
       "url": "https://open.spotify.com/track/5j1RXSJl3JiLJSfdywh5Q4"
+    },
+    {
+      "album": {
+        "name": "TRAP / GRAB ME - Japanese ver. -",
+        "url": "https://open.spotify.com/album/7d1abB5aTY8N4DHH4WEJ9Y"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "TRAP",
+      "url": "https://open.spotify.com/track/1RzDNHBbvusuTTAnsDmasT"
     },
     {
       "album": {
@@ -19716,7 +19824,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 219742,
       "name": "Your/My",
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
@@ -19940,6 +20048,24 @@
       "duration_ms": 263917,
       "name": "\u305d\u306e\u307e\u307e\u3067",
       "url": "https://open.spotify.com/track/18tA7kbV5ovO6SBhnjU6ii"
+    },
+    {
+      "album": {
+        "name": "\u8a93\u3044 (CHIKAI)",
+        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
+      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
     },
     {
       "album": {

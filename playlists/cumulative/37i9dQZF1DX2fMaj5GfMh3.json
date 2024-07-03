@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 172000,
       "name": "Benny",
       "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 151040,
       "name": "Feeling Lucky",
       "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 231522,
       "name": "From The Jump (Duet Version)",
       "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
@@ -4489,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200970,
+      "name": "Heavenly Hell (ft. Ne-Yo)",
+      "url": "https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE"
+    },
+    {
+      "album": {
         "name": "Helen / Hou Me Vast",
         "url": "https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl"
       },
@@ -4688,6 +4710,28 @@
       "duration_ms": 163296,
       "name": "Hopes Up High",
       "url": "https://open.spotify.com/track/5mIx6DqNDX5g7Ms29tCQAB"
+    },
+    {
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150746,
+      "name": "HOT UPTOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
     },
     {
       "album": {
@@ -7691,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
+    },
+    {
+      "album": {
         "name": "Out of Time (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm"
       },
@@ -8988,6 +9050,24 @@
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love (Deluxe)",
+        "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204962,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
     },
     {
       "album": {

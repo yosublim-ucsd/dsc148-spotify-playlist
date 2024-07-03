@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The best in South African and global Pop\. Cover: <a href="https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ?si=9QXVFYY0S5C9\_LsGT10Xmg">Craig Lucas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,818 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

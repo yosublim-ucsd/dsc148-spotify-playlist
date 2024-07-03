@@ -1,15 +1,15 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Creed",
-  "num_followers": 620239,
+  "num_followers": 620325,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Za43tgAAAACwrmS1LxFzy0JjsssjLtY9",
+  "snapshot_id": "ZoQ0wAAAAAB7ebwFDHX+Q3s5xoIHuoPB",
   "tracks": [
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4btSrwp3BOMRmxKwUhbS0Z"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/1e5grnGb7YIcX9EuJM1mtB"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/1RdojFmis1TIOyZgV4KjaU"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/4h6DKQXRY2zxFHlEqYuaax"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
@@ -73,23 +41,7 @@
       "url": "https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Frogstomp",
-        "url": "https://open.spotify.com/album/4T1qvZb3TTgUU6U0kjQbuc"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/3NhdBIiNvq6q2mPpHwkfDg"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Razorblade Suitcase (Remastered)",
         "url": "https://open.spotify.com/album/7ytVhotJElBVKqhdXMf8Lo"
@@ -105,39 +57,55 @@
       "url": "https://open.spotify.com/track/34u6SdMgxdA0QZLUo24guk"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2"
+        "name": "Frogstomp",
+        "url": "https://open.spotify.com/album/4T1qvZb3TTgUU6U0kjQbuc"
       },
       "artists": [
         {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 214066,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/6WdoToI0z5f4A4kbZ3SXoa"
+      "duration_ms": 265560,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/3NhdBIiNvq6q2mPpHwkfDg"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/1RdojFmis1TIOyZgV4KjaU"
       },
       "artists": [
         {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 191506,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/4h6DKQXRY2zxFHlEqYuaax"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
@@ -153,55 +121,7 @@
       "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
@@ -217,87 +137,7 @@
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "The Long Road",
-        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Come What(ever) May [10th Anniversary Edition]",
-        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "Through Glass",
-      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Weathered",
-        "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "One Last Breath",
-      "url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Phobia (Clean Version)",
-        "url": "https://open.spotify.com/album/2usyeZYdUHKlNHKDKgAYSo"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "The Diary of Jane - Single Version",
-      "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/3vF6tOBY8xo3X2o1retYxS"
@@ -313,7 +153,71 @@
       "url": "https://open.spotify.com/track/1Nuqm2gavvcmZtEFWvbDbK"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6zIpcsCh1mPH1UcBvo5jGj"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 249514,
+      "name": "Youngest Daughter",
+      "url": "https://open.spotify.com/track/0Koa8BM3bN0MKQt88srgbj"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Weathered",
+        "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "One Last Breath",
+      "url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
@@ -329,23 +233,55 @@
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Life's a Blur",
-        "url": "https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8"
+        "name": "Phobia (Clean Version)",
+        "url": "https://open.spotify.com/album/2usyeZYdUHKlNHKDKgAYSo"
       },
       "artists": [
         {
-          "name": "Superbloom",
-          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 189917,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/6142Em0cjiYUz2GjnG1Epw"
+      "duration_ms": 200546,
+      "name": "The Diary of Jane - Single Version",
+      "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Extreme Behavior",
         "url": "https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ"
@@ -361,23 +297,7 @@
       "url": "https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Everything Is Closer Than It Seems",
-        "url": "https://open.spotify.com/album/6AKctSjeMPlLSFjcDe7dF1"
-      },
-      "artists": [
-        {
-          "name": "LATE 90s",
-          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Let It Sink",
-      "url": "https://open.spotify.com/track/6JiZWNx3vkY1FXEbxJpudk"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
@@ -393,7 +313,7 @@
       "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
@@ -409,7 +329,23 @@
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "The Long Road",
+        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
@@ -425,39 +361,7 @@
       "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Saving Abel",
-        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
-      },
-      "artists": [
-        {
-          "name": "Saving Abel",
-          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Karma and Effect",
         "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
@@ -473,7 +377,55 @@
       "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Saving Abel",
+        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
+      },
+      "artists": [
+        {
+          "name": "Saving Abel",
+          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Come What(ever) May [10th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "Through Glass",
+      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
@@ -489,7 +441,7 @@
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Lemon Parade",
         "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
@@ -505,7 +457,23 @@
       "url": "https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
@@ -525,7 +493,7 @@
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
@@ -541,7 +509,7 @@
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ohPMPeZukCChC6xNJpeYx"
@@ -557,7 +525,7 @@
       "url": "https://open.spotify.com/track/5eFxwmqKrHpSQDOEIFYlgY"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
@@ -573,7 +541,7 @@
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Disclaimer",
         "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
@@ -589,7 +557,7 @@
       "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
@@ -605,7 +573,7 @@
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La"
@@ -621,7 +589,7 @@
       "url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "The Beautiful Letdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
@@ -637,23 +605,7 @@
       "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
@@ -669,7 +621,7 @@
       "url": "https://open.spotify.com/track/70fe354BpVKEvMY0de78YO"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
@@ -685,7 +637,23 @@
       "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
@@ -701,23 +669,7 @@
       "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "As Good As Dead",
         "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
@@ -733,7 +685,7 @@
       "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Human Clay",
         "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
@@ -749,7 +701,7 @@
       "url": "https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Out of Exile",
         "url": "https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU"
@@ -765,7 +717,23 @@
       "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Tiny Music...Songs from the Vatican Gift Shop",
         "url": "https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe"
@@ -781,7 +749,7 @@
       "url": "https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "This Type Of Thinking (Could Do Us In)",
         "url": "https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB"
@@ -797,7 +765,7 @@
       "url": "https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2"
@@ -813,7 +781,7 @@
       "url": "https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "1000hp",
         "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
@@ -829,7 +797,7 @@
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
@@ -845,7 +813,7 @@
       "url": "https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
@@ -861,7 +829,7 @@
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
@@ -877,7 +845,7 @@
       "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Candlebox",
         "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
@@ -893,7 +861,7 @@
       "url": "https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
@@ -909,7 +877,7 @@
       "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "So Much For The Afterglow",
         "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
@@ -925,7 +893,7 @@
       "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Shallow Bay: The Best Of Breaking Benjamin (Explicit)",
         "url": "https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP"
@@ -941,7 +909,7 @@
       "url": "https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
@@ -957,7 +925,7 @@
       "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Anthem For The Underdog (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv"
@@ -973,7 +941,7 @@
       "url": "https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Tantric (U.S. Version-Enh'd)",
         "url": "https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ"
@@ -989,7 +957,7 @@
       "url": "https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2"
@@ -1005,23 +973,7 @@
       "url": "https://open.spotify.com/track/5vVmnv4EN3X2VBa5Fo3UFM"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Frogstomp (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 318320,
-      "name": "Israel's Son",
-      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
@@ -1037,7 +989,39 @@
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/6WdoToI0z5f4A4kbZ3SXoa"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Frogstomp (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 318320,
+      "name": "Israel's Son",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
@@ -1053,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "In Loving Memory Of - 20th Anniversary Special Edition",
         "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
@@ -1069,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/2EVR73AnIDeYLxVDJIqObQ"
@@ -1085,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7KgVUnGCMEXBwY2EeqGlaI"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
@@ -1101,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
@@ -1117,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
     },
     {
-      "added_at": "2024-01-22 09:39:02",
+      "added_at": "2024-07-02 17:11:28",
       "album": {
         "name": "OK, I'M SICK",
         "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
@@ -1131,6 +1115,22 @@
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "February Son",
+        "url": "https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI"
+      },
+      "artists": [
+        {
+          "name": "Oleander",
+          "url": "https://open.spotify.com/artist/7038Bglq6YmpBu6wPvQJiz"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "Why I'm Here",
+      "url": "https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H"
     }
   ],
   "unique_name": "Post-Grunge Society",

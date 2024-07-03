@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,620 likes - 60 songs - 3 hr 26 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,619 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,23 +19,23 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 9 | [Back to Me](https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Back to Me](https://open.spotify.com/album/5oVyW0Lsox64SixboTYYYE) | 3:15 |
 | 10 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 |
 | 11 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
-| 12 | [Rosemary](https://open.spotify.com/track/7p46jopEVdyoabBoen57VI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Rosemary](https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl) | 3:31 |
-| 13 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 |
-| 14 | [Name Your Price](https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Name Your Price](https://open.spotify.com/album/5ExvE4ttfYYXO47PTRZjBg) | 3:25 |
-| 15 | [Zinfandel](https://open.spotify.com/track/7oL3fy8uP294kcfCgGB5Od) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Zinfandel](https://open.spotify.com/album/0HO2hDB9adfH9iLuPb3UWf) | 3:39 |
-| 16 | [Fall Into Me](https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Fall Into Me](https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0) | 2:36 |
-| 17 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 |
-| 18 | [Songbirds](https://open.spotify.com/track/1wurpE0ZIjWvfHohiGOyaI) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Songbirds](https://open.spotify.com/album/6JjPtFirb4PR6sRuuTEH4P) | 2:56 |
-| 19 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 |
-| 20 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
-| 21 | [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 |
-| 22 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 |
-| 23 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
-| 24 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 |
-| 25 | [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 |
-| 26 | [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 |
-| 27 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
-| 28 | [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 |
+| 12 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 |
+| 13 | [Rosemary](https://open.spotify.com/track/7p46jopEVdyoabBoen57VI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Rosemary](https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl) | 3:31 |
+| 14 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 |
+| 15 | [Name Your Price](https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Name Your Price](https://open.spotify.com/album/5ExvE4ttfYYXO47PTRZjBg) | 3:25 |
+| 16 | [Zinfandel](https://open.spotify.com/track/7oL3fy8uP294kcfCgGB5Od) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Zinfandel](https://open.spotify.com/album/0HO2hDB9adfH9iLuPb3UWf) | 3:39 |
+| 17 | [Fall Into Me](https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Fall Into Me](https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0) | 2:36 |
+| 18 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 |
+| 19 | [Songbirds](https://open.spotify.com/track/1wurpE0ZIjWvfHohiGOyaI) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Songbirds](https://open.spotify.com/album/6JjPtFirb4PR6sRuuTEH4P) | 2:56 |
+| 20 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 |
+| 21 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
+| 22 | [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 |
+| 23 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 |
+| 24 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
+| 25 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 |
+| 26 | [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 |
+| 27 | [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 |
+| 28 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 29 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 |
 | 30 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
 | 31 | [Arrival](https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Arrival](https://open.spotify.com/album/52nTSpBzE91qPdD4B2FKQq) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 59 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 60 | [Last Train Home \- Ballad Version](https://open.spotify.com/track/60CQpHremwdzRXIzoaufDF) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home \(Ballad Version\)](https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d) | 5:57 |
 
-Snapshot ID: `AAAUD+I9Vu0lTYTvYJi3rBzZpUsL1KEN`
+Snapshot ID: `AAAUFECuHCGpJ0SMSnnNsK7GkQeb9YD9`

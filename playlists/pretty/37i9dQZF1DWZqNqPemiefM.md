@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,623 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,631 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 67 | [Fire The Editor \- Pt\. 3 / Endel Chill Soundscape](https://open.spotify.com/track/32ybGt9QtBbtLqfu8Tzchg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven \(Endel Chillout Soundscape\)](https://open.spotify.com/album/1aNEVZZJsa4nFR9D3N6WXm) | 2:41 |
 | 68 | [Space Oracle \- aus Remix](https://open.spotify.com/track/1eM2EGmwytpLoX5APjhp9n) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Space Oracle \(aus Remix\)](https://open.spotify.com/album/0k4bUIwiHR0F8Wsb0iPtsW) | 5:18 |
 | 69 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
-| 70 | [Disintegration Loops \(1.1 Excerpt I\)](https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Music from The Comedy, A Film by Rick Alverson](https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH) | 2:02 |
-| 71 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
+| 70 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
+| 71 | [Disintegration Loops \(1.1 Excerpt I\)](https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Music from The Comedy, A Film by Rick Alverson](https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH) | 2:02 |
 | 72 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
 | 73 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
 | 74 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
@@ -94,14 +94,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 84 | [That world](https://open.spotify.com/track/6OnL0UQxLi3CO8eJH4Iabq) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 9:10 |
 | 85 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
 | 86 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 |
-| 87 | [MERCURIC DANCE/水銀\~躍動の踊り](https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 7:06 |
-| 88 | [Holy Delay](https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [SIREN \(セイレーン\)](https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9) | 5:23 |
-| 89 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 |
+| 87 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 |
+| 88 | [MERCURIC DANCE/水銀\~躍動の踊り](https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 7:06 |
+| 89 | [Holy Delay](https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [SIREN \(セイレーン\)](https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9) | 5:23 |
 | 90 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 |
 | 91 | [月の光](https://open.spotify.com/track/0j9BiFY2dWgtyycKZ2HZCw) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 5:55 |
-| 92 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 |
-| 93 | [BALLADE OF AYA](https://open.spotify.com/track/3iBBDYtZzxyMfaTPBUonuh) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 1:38 |
-| 94 | [DARK SIDE OF THE STAR/地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 |
+| 92 | [BALLADE OF AYA](https://open.spotify.com/track/3iBBDYtZzxyMfaTPBUonuh) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 1:38 |
+| 93 | [DARK SIDE OF THE STAR/地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 |
+| 94 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 |
 | 95 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 |
 | 96 | [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 |
 | 97 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 |

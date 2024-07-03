@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "boy scout",
+        "url": "https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Tai Dai",
+          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206911,
+      "name": "boy scout",
+      "url": "https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT"
+    },
+    {
+      "album": {
         "name": "Buy Me Love",
         "url": "https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H"
       },
@@ -1157,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Jay James",
+          "url": "https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147473,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
+    },
+    {
+      "album": {
         "name": "Gucci 2 Piece",
         "url": "https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5"
       },
@@ -1248,7 +1296,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 212634,
       "name": "s_t_h",
       "url": "https://open.spotify.com/track/6Psl0ZE8kSih75nrk0D97m"
@@ -1488,7 +1536,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 176703,
       "name": "Spend My Money",
       "url": "https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2"

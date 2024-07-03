@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Stay current with the latest indie-alt tracks.",
+  "description": "Stay current with the latest indie-alt tracks. Cover: Myles Smtih.",
   "name": "Hipster Radar",
   "tracks": [
     {
@@ -224,6 +224,24 @@
       "duration_ms": 294452,
       "name": "Always on the Run",
       "url": "https://open.spotify.com/track/1bwSqLCZQCwRQ66zrnP23Y"
+    },
+    {
+      "album": {
+        "name": "AMERICAN SCUMBAG",
+        "url": "https://open.spotify.com/album/3Y943OXrJcUwOnjd0tLygn"
+      },
+      "artists": [
+        {
+          "name": "lil aaron",
+          "url": "https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "AMERICAN SCUMBAG",
+      "url": "https://open.spotify.com/track/5Ccd3PCgN0Qv3g5v92NoCI"
     },
     {
       "album": {
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 186874,
       "name": "darkside",
       "url": "https://open.spotify.com/track/1NcDHSTO3nwTEsHH1V4iwT"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 192557,
       "name": "Girl In The Orchestra",
       "url": "https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 208450,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
@@ -4450,6 +4468,24 @@
       "duration_ms": 232733,
       "name": "Panoramic View",
       "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
+    },
+    {
+      "album": {
+        "name": "paris",
+        "url": "https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149164,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk"
     },
     {
       "album": {
@@ -5319,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "Stargazing (Moonlight Version)",
+        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Stargazing - Moonlight Version",
+      "url": "https://open.spotify.com/track/6IdFbZkzvaS7apASHareqI"
+    },
+    {
+      "album": {
         "name": "stay with me",
         "url": "https://open.spotify.com/album/1sK7oMScJ9bzgQGZTXozqM"
       },
@@ -5684,7 +5738,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 181280,
       "name": "Take Carra Me",
       "url": "https://open.spotify.com/track/6cgjOpUyC4sZpZeYfi7qYz"

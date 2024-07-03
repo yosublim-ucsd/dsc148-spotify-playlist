@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,890 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,899 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Set Fire to the Face on Fire](https://open.spotify.com/track/544Ptp7zIMQ1F6qkQBEIgf) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Young Machetes \(Bonus Track Version\)](https://open.spotify.com/album/0zpZ1eqa0511ir5kNZriB5) | 2:19 |
 | 50 | [Money](https://open.spotify.com/track/6OnsOlASiHq1voOtTL1FRu) | [Embrace](https://open.spotify.com/artist/5Lzz2tZ2hKO8PDslKBQgZL) | [Embrace](https://open.spotify.com/album/0t4i21CD8Z0p8iQnojCvxX) | 2:37 |
 
-Snapshot ID: `ZIsXWwAAAACE6XL2vMolGhVxsvKbMnOr`
+Snapshot ID: `ZoQCewAAAACIiDjr1L5/znKgRKhhBOCV`

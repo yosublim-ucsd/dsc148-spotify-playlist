@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Aika J\u00e4tt\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/2u6Yjs16KJFBKQooZAJxha"
+      },
+      "artists": [
+        {
+          "name": "Opaali",
+          "url": "https://open.spotify.com/artist/1dk4PjZTvrWlSPhBFXy7VM"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Aika J\u00e4tt\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/6Y3OtijfBvbWSNU90apBTn"
+    },
+    {
+      "album": {
         "name": "AINA",
         "url": "https://open.spotify.com/album/6SMovWc6E3Q8LdKk0fVKZh"
       },
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 150654,
       "name": "Comeova (feat. Nasri, Kreed & Ice K)",
       "url": "https://open.spotify.com/track/1pvMqCJ57p8gVbctwizFpD"
@@ -2923,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "HKI city girl",
+        "url": "https://open.spotify.com/album/0J38JCq37bRhqgXtaJcuVs"
+      },
+      "artists": [
+        {
+          "name": "ARTEM",
+          "url": "https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "HKI city girl",
+      "url": "https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R"
+    },
+    {
+      "album": {
         "name": "HOTLINE (feat. Gabri)",
         "url": "https://open.spotify.com/album/2kBcr2daDwvo92nMCoVLVG"
       },
@@ -3922,6 +3958,24 @@
       "duration_ms": 233978,
       "name": "Kaikki mit\u00e4 sanoit",
       "url": "https://open.spotify.com/track/74HITquM008p9aERYIGhBK"
+    },
+    {
+      "album": {
+        "name": "Kaikki mun kaverit",
+        "url": "https://open.spotify.com/album/6Y8z5Ep3WJo5hB6lYLZOUA"
+      },
+      "artists": [
+        {
+          "name": "Monako",
+          "url": "https://open.spotify.com/artist/4VIgevXul8tn6ygEcbS4PY"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138965,
+      "name": "Kaikki mun kaverit",
+      "url": "https://open.spotify.com/track/7bqrkNjtpGJslg62RISG56"
     },
     {
       "album": {
@@ -8228,7 +8282,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 135359,
       "name": "Platinaa",
       "url": "https://open.spotify.com/track/36Ps5MbGPuyuGCm0fcN7Xj"
@@ -9977,6 +10031,24 @@
     },
     {
       "album": {
+        "name": "Syd\u00e4n kaipaa Hesuliin",
+        "url": "https://open.spotify.com/album/07EVsDoyJlgMTPJw6fZvlW"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4ngi",
+          "url": "https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Syd\u00e4n kaipaa Hesuliin",
+      "url": "https://open.spotify.com/track/7hVgfkKkFB0KMi173SGZ2O"
+    },
+    {
+      "album": {
         "name": "Syntt\u00e4rit (feat. Cledos & VJ)",
         "url": "https://open.spotify.com/album/4cLbqT38Crm1w4pMM9O8J8"
       },
@@ -11436,6 +11508,24 @@
       "duration_ms": 146014,
       "name": "Vampyyrit",
       "url": "https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS"
+    },
+    {
+      "album": {
+        "name": "Vapaa",
+        "url": "https://open.spotify.com/album/5OPNFe9tjOF3bGfY42S4dq"
+      },
+      "artists": [
+        {
+          "name": "Matti",
+          "url": "https://open.spotify.com/artist/4FiTm3noJ9NVfKKmsEJIUI"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166791,
+      "name": "Vapaa",
+      "url": "https://open.spotify.com/track/7qZHZuyTKHkPTpHssgGS34"
     },
     {
       "album": {

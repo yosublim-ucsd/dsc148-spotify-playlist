@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,768 songs - 1 day 12 hr 33 min
+1,771 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Calm Flow Of The River \- Cello Version](https://open.spotify.com/track/5z69YyGPFEqNZUlGi57Fn6) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Calm Flow Of The River](https://open.spotify.com/album/18BvwAHqy0s7ggYAte95dy) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Calm Flow Of The River \- Strings Version](https://open.spotify.com/track/2BV6JqhpuPkT8WuTApdiBV) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Flow Of The River \(Strings Version\)](https://open.spotify.com/album/6hkGpiFvnQqSTJlQ96QfL9) | 1:00 | 2024-01-15 | 2024-02-13 |
 | [Calm in the Storm](https://open.spotify.com/track/62K0MoPaI5wETh7rsaAHK6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:40 | 2024-01-29 |  |
+| [Calm Mind](https://open.spotify.com/track/1jnXGElUDE7xhu0Lm37zCA) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calm Mind](https://open.spotify.com/album/0nlYjaUkM16phZdfEDhMFj) | 1:00 | 2024-07-02 |  |
 | [Calm Reflection](https://open.spotify.com/track/1f6Zd1w0iDfnVNGT54wLjC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Reflection](https://open.spotify.com/album/0a4Ky5OOFj8jjhA6qNgxft) | 1:00 | 2024-02-26 |  |
 | [Calm Solitude Arr\. For Cello](https://open.spotify.com/track/0GpfLHzQs54VBsD9oYutkl) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Solitude](https://open.spotify.com/album/4tBAUa5sn2DudxSygRiEYN) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/track/3KGeyPoru1o5I0v0uUDclf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/album/2adPYyDCIgUncMi5II8H99) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -721,6 +722,7 @@
 | [Gray Reimagined](https://open.spotify.com/track/1tiTBWOFUVM4kjNbAVhkgg) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Gray Reimagined](https://open.spotify.com/album/14NUtNkSpj80jXQ8LVIaKl) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Grey Clouds \- Cello Version](https://open.spotify.com/track/2odqtKbRwTHtQj4tInqVC5) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Grey Clouds \- Piano Version](https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2022-06-20 | 2024-01-30 |
+| [Grow](https://open.spotify.com/track/6x6ZkY3UhwD5mn7xOjzAdL) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Grow](https://open.spotify.com/album/5VKSEIXx5oiRsV2g1o3cb2) | 1:00 | 2024-07-02 |  |
 | [Growth](https://open.spotify.com/track/1LbKdbtf825ZPB2IjwMttX) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Growth](https://open.spotify.com/album/6pf7cRfAtAy0WcVXmmAEeD) | 1:00 | 2024-01-30 |  |
 | [Guide Me](https://open.spotify.com/track/6Z4Bk4ByJOrDiejt3DdJJV) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Contemplations](https://open.spotify.com/album/1dznYay8D0VTWRGPHTri3S) | 1:23 | 2024-01-29 |  |
 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 | 2022-01-12 | 2023-04-09 |
@@ -1464,6 +1466,7 @@
 | [Stillness In Water](https://open.spotify.com/track/1tUmii8Tiu6jpuXVrjcNjy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:03 | 2022-02-19 |  |
 | [Stories \- Cello Version](https://open.spotify.com/track/6eN1XXmSoUqj6tFPadXHWB) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Stories](https://open.spotify.com/album/79PTlHzCS2iyU1GJU6qE3b) | 1:00 | 2023-04-08 |  |
 | [Straying Some More](https://open.spotify.com/track/34p4TzFORs4CJAa5m3Vkqz) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:03 | 2024-02-09 | 2024-02-13 |
+| [Strength](https://open.spotify.com/track/5QSzfNxyrTYvsBtH0IW9IJ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Strength](https://open.spotify.com/album/2ZtiBaN0OVUpGZEbMk50os) | 1:00 | 2024-07-02 |  |
 | [Summer Daydreaming](https://open.spotify.com/track/5V60Bnz1My2zIfWii6qrCg) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Returns](https://open.spotify.com/album/2C0XsBRLNZ8vFdiy6XmqdC) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Summer Daydreams](https://open.spotify.com/track/1FiZJOfuceuv3KKFgbxM44) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 1:00 | 2023-05-14 | 2024-01-30 |
 | [Summer Eclipse](https://open.spotify.com/track/5BUrc7LkJcFBEqx3IKDESd) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:03 | 2022-04-20 |  |

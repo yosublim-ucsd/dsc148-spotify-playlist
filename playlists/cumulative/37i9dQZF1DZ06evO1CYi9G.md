@@ -2,7 +2,7 @@
 
 ### [This Is Mudvayne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CYi9G)
 
-> This is Mudvayne\. The essential tracks, all in one playlist.
+> This is Mudvayne\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 40 songs - 2 hr 40 min
 

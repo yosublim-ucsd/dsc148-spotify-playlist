@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 315614,
+  "num_followers": 315674,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-06-21 12:28:07",
       "album": {
+        "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
+        "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
+      },
+      "artists": [
+        {
+          "name": "Mateus Menezes",
+          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Pra Que Fazer Assim? - Vers\u00e3o Instrumental",
+      "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
+    },
+    {
+      "added_at": "2024-06-21 12:28:07",
+      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 180481,
       "name": "Enquanto Houver",
       "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
-    },
-    {
-      "added_at": "2024-06-21 12:28:07",
-      "album": {
-        "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
-        "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
-      },
-      "artists": [
-        {
-          "name": "Mateus Menezes",
-          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Pra Que Fazer Assim? - Vers\u00e3o Instrumental",
-      "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
     },
     {
       "added_at": "2024-06-21 12:28:07",

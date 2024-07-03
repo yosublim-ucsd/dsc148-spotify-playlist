@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 187831,
+  "num_followers": 187861,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Posade\u00f1a Linda",
-        "url": "https://open.spotify.com/album/4uusF4qOg0PlRtcdmBevMC"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        },
-        {
-          "name": "Sergio Galleguillo",
-          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
-        }
-      ],
-      "duration_ms": 271872,
-      "name": "Posade\u00f1a Linda",
-      "url": "https://open.spotify.com/track/4KcFK0hcj843zVpssjAMBe"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Reencuentro en el CCK",
         "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
       },
@@ -1643,18 +1623,22 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Cantas T\u00fa, Canto Yo",
-        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
+        "name": "Posade\u00f1a Linda",
+        "url": "https://open.spotify.com/album/4uusF4qOg0PlRtcdmBevMC"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        },
+        {
+          "name": "Sergio Galleguillo",
+          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Chibidon",
-      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
+      "duration_ms": 271872,
+      "name": "Posade\u00f1a Linda",
+      "url": "https://open.spotify.com/track/4KcFK0hcj843zVpssjAMBe"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1679,6 +1663,22 @@
       "duration_ms": 243880,
       "name": "Recuerdos de Ypacara\u00ed",
       "url": "https://open.spotify.com/track/43Jrbm0yMWAbjFA2DS5rwp"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Cantas T\u00fa, Canto Yo",
+        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Chibidon",
+      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1715,38 +1715,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "22 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Llorar\u00e9",
-      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Cantas T\u00fa, Canto Yo",
-      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Grandes Exitos (Serie De Oro)",
         "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
       },
@@ -1759,6 +1727,38 @@
       "duration_ms": 145693,
       "name": "Camino al Amor",
       "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Monte Adentro",
+        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Ayala El Mens\u00fa",
+          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
+        }
+      ],
+      "duration_ms": 123146,
+      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
+      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "22 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Llorar\u00e9",
+      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Monte Adentro",
-        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n Ayala El Mens\u00fa",
-          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 123146,
-      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
-      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
+      "duration_ms": 196413,
+      "name": "Cantas T\u00fa, Canto Yo",
+      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Los Copla",
-        "url": "https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 194136,
-      "name": "Lucero Cantor",
-      "url": "https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "14 Grandes Exitos De Horacio Guarany",
         "url": "https://open.spotify.com/album/5x0uk0qveoSgg0hj7IfJeR"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 184825,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/1TPhyS7nMiWjEM0fifOLzN"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Los Copla",
+        "url": "https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 194136,
+      "name": "Lucero Cantor",
+      "url": "https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Folklore Argentino",
-        "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
-      },
-      "artists": [
-        {
-          "name": "A.Yupanqui",
-          "url": "https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Zamba de Vargas",
-      "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Antig\u00fcedades (En Vivo)",
         "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 303555,
       "name": "Run Run Se Fue Pa'l Norte - En Vivo",
       "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Folklore Argentino",
+        "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
+      },
+      "artists": [
+        {
+          "name": "A.Yupanqui",
+          "url": "https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Zamba de Vargas",
+      "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
     },
     {
       "added_at": "2024-06-12 22:52:11",

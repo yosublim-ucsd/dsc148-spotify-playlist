@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-202 songs - 8 hr 48 min
+203 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Hvor Som Helst](https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Tessas Hævn \(Igen Bitch\)](https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ) | 2:16 | 2023-09-21 | 2024-02-09 |
 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 | 2024-02-08 | 2024-06-01 |
 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 |  |
-| [Igjen](https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 2:29 | 2024-05-30 |  |
+| [Igjen](https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 2:29 | 2024-05-30 | 2024-07-03 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 | 2024-06-01 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-15 | 2024-02-23 |
 | [jeg har stream](https://open.spotify.com/track/0GGwFY0Wh72UJ1x934E2Kl) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 1:17 | 2023-11-09 | 2023-12-09 |
@@ -147,6 +147,7 @@
 | [Over mitt lik \(feat\. Molly Hammar\)](https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 2:43 | 2024-06-07 |  |
 | [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 | 2023-09-21 |  |
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-09-21 | 2024-01-15 |
+| [Pappa](https://open.spotify.com/track/5ajH710eXqC4T8oheDvy2p) | [Klovner I Kamp](https://open.spotify.com/artist/4CSD8L9KIPNIYFaUQPgENh) | [Bjølsen Solreiser](https://open.spotify.com/album/10ma24Ioeu98lx629yUoa4) | 3:38 | 2024-06-27 |  |
 | [Pendejo](https://open.spotify.com/track/5jCm2CYGVougaTZo8g9uCW) | [Lille Pablo](https://open.spotify.com/artist/6Y4IHXCDwWvuNBmdqTIUTz) | [Pendejo](https://open.spotify.com/album/41ZSewcI8wnAyunssOkVAI) | 2:57 | 2023-09-21 | 2023-09-29 |
 | [Pillow](https://open.spotify.com/track/08bz3aJ0de6tyArd7aHWnZ) | [Jonathan Floyd](https://open.spotify.com/artist/11kCkdHKt7MYt0nkyj8XjP), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Pillow](https://open.spotify.com/album/6HP1PrNI9l1846Z5fpKBVj) | 2:46 | 2023-11-09 |  |
 | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs) | 2:31 | 2024-06-13 |  |

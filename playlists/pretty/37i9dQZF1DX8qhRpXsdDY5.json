@@ -1,6 +1,6 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 205982,
+  "num_followers": 205971,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Sweet Christmas Ukulele & Jazz",
-        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
-      },
-      "artists": [
-        {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
-        }
-      ],
-      "duration_ms": 253424,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 133000,
       "name": "Ya Viene la Vieja",
       "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Sweet Christmas Ukulele & Jazz",
+        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
+      },
+      "artists": [
+        {
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+        }
+      ],
+      "duration_ms": 253424,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Mi Navidad",
-        "url": "https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK"
+        "name": "Feliz Christmas (Vol. 1)",
+        "url": "https://open.spotify.com/album/04P0Tmoq7JlFW5vQIw6T3E"
       },
       "artists": [
         {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU"
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
         }
       ],
-      "duration_ms": 150520,
-      "name": "Rodolfo el Reno de la Nariz Roja",
-      "url": "https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR"
+      "duration_ms": 202520,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/41Ogug754mzHgkMjbTpzuF"
     }
   ],
   "unique_name": "Latin Christmas Classics",

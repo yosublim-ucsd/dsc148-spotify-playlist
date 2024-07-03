@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3039889,
+  "num_followers": 3039955,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+        "name": "2 (Remasterizado 2017)",
+        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
         }
       ],
-      "duration_ms": 168306,
-      "name": "D\u00e9jenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
+      "duration_ms": 245560,
+      "name": "Hoy tengo ganas de ti",
+      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "2 (Remasterizado 2017)",
-        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
       "artists": [
         {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 245560,
-      "name": "Hoy tengo ganas de ti",
-      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
+      "duration_ms": 168306,
+      "name": "D\u00e9jenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Y... sigo mi camino",
-        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Como yo te amo",
-      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Mi Vida. Historia Musical De Un Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/6VvOYxN8hECTjvqUHbD0ce"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210546,
       "name": "Otro Ocupa Mi Lugar",
       "url": "https://open.spotify.com/track/2i7oFlgafYTgri8LvGueYt"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Y... sigo mi camino",
+        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Como yo te amo",
+      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Selecao De Ouro Vol.2",
         "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 257733,
       "name": "Quien Eres Tu?",
       "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 193133,
       "name": "Soy rebelde",
       "url": "https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Grandes exitos 1997-2004",
+        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Con el Paso del Tiempo",
         "url": "https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 288733,
       "name": "Qu\u00e9 Canten los Ni\u00f1os - Homenaje a las Aldeas SOS",
       "url": "https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
-      },
-      "artists": [
-        {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Baladas De Amor",
         "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 173480,
       "name": "Fuiste M\u00eda un Verano",
       "url": "https://open.spotify.com/track/4kCx4BO3f4tjMjIyv8ko6G"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Baladas De Amor",
+        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
       },
@@ -2095,18 +2111,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Baladas De Amor",
-        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq"
+      "duration_ms": 226333,
+      "name": "Yo Te Pido Amor",
+      "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2123,22 +2139,6 @@
       "duration_ms": 239733,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Yo Te Pido Amor",
-      "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Las Ma\u00f1anitas con Pedro Infante",
-        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Esencial Miguel Bose",
         "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
       },
@@ -2223,18 +2207,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Serrat En Directo",
-        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+        "name": "Las Ma\u00f1anitas con Pedro Infante",
+        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Cantares - En Directo",
-      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
+      "duration_ms": 175093,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2267,6 +2251,22 @@
       "duration_ms": 205453,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Cantares - En Directo",
+      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
     },
     {
       "added_at": "2024-06-04 19:16:04",

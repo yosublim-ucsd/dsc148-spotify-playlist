@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "It's just us\u2014and this awesome alt soundtrack.",
+  "description": "It's just us.",
   "name": "You & Me",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 235334,
       "name": "All For You",
       "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 216333,
       "name": "Dreaming My Dreams",
       "url": "https://open.spotify.com/track/45ipml9tB0PVrLFAJegcWE"
@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/1ct8dPVmXPOQiyvz8uFUqE"
       },
@@ -3347,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+    },
+    {
+      "album": {
         "name": "Black Bear",
         "url": "https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC"
       },
@@ -3452,6 +3488,24 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
       "album": {
@@ -3626,6 +3680,24 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+    },
+    {
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "album": {
@@ -4220,7 +4292,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 243532,
       "name": "The Way We Say Goodbye",
       "url": "https://open.spotify.com/track/7J4inwHlV4Bf0qhe9xGGpS"
@@ -4548,7 +4620,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 174565,
       "name": "Want You Like That",
       "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"

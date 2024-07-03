@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,853 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,856 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 22 | [The Power of Now](https://open.spotify.com/track/6DS51XJ8iV21mAcjPxASWZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 |
 | 23 | [Toca Me \- twoloud Radio Edit](https://open.spotify.com/track/62JXnYxY7u5JVLtpTbnOKw) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Toca Me \(twoloud Remix\)](https://open.spotify.com/album/7KfVcH7IJRyKEBf5JvoKvk) | 3:13 |
 | 24 | [Yottabyte](https://open.spotify.com/track/1PYsy4cGp3egbeaQDjIGIa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:30 |
-| 25 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 |
-| 26 | [Golden Pineapple](https://open.spotify.com/track/2hNzhAJqtVIHlcTwmPJFf0) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Golden Pineapple](https://open.spotify.com/album/67eeCJWRKbaRuT57iuRdhd) | 3:08 |
+| 25 | [Golden Pineapple](https://open.spotify.com/track/2hNzhAJqtVIHlcTwmPJFf0) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Golden Pineapple](https://open.spotify.com/album/67eeCJWRKbaRuT57iuRdhd) | 3:08 |
+| 26 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 |
 | 27 | [We Like to Party \- Radio Edit](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 3:28 |
 | 28 | [C.U.B.A](https://open.spotify.com/track/1ZoHuLxbQho7N5ioKA6Hx1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [C.U.B.A](https://open.spotify.com/album/12zQ9tz6fjLsB5RjxUgXFu) | 4:29 |
 | 29 | [Calling \- Original Instrumental Radio Edit](https://open.spotify.com/track/5MRsxkPZyRs1VfnXFdgSHm) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc) | 3:25 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 32 | [Dead Mans Hand](https://open.spotify.com/track/4FVcGYFGstfGbL4aZZkqIc) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Dead Mans Hand](https://open.spotify.com/album/6Ge0sTvsG2N3QfBCxt4eIM) | 4:15 |
 | 33 | [Cake Face](https://open.spotify.com/track/3OxCH2MCz7Bc41doeIll80) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 6:11 |
 | 34 | [Reckless](https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Reckless](https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE) | 2:28 |
-| 35 | [Blow Your Mind](https://open.spotify.com/track/3vqWmOr3fIfBqh02ezS2lV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/23gPWelTvT4xrs38Gc0IUG) | 5:54 |
-| 36 | [Don't Give Up](https://open.spotify.com/track/6KQUZNUMApkQhBVjQokILL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1O1GkJHNuflu3agdLE1r3N) | 5:21 |
+| 35 | [Don't Give Up](https://open.spotify.com/track/6KQUZNUMApkQhBVjQokILL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1O1GkJHNuflu3agdLE1r3N) | 5:21 |
+| 36 | [Blow Your Mind](https://open.spotify.com/track/3vqWmOr3fIfBqh02ezS2lV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/23gPWelTvT4xrs38Gc0IUG) | 5:54 |
 | 37 | [How We Party](https://open.spotify.com/track/0Zv45bSIvDc1d8iJlJvwc3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/5LUI1FG3ObfrJGMTUJBtvw) | 3:31 |
 | 38 | [Raise Your Hands \- Radio Edit](https://open.spotify.com/track/7LdTalCN5cwD2XHTzuYufv) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands \(Radio Edit\)](https://open.spotify.com/album/4B0E4mJA0NB9kZ2mayW3eY) | 4:26 |
 | 39 | [Tsunami \- Original Mix](https://open.spotify.com/track/5aMOyzlybtTICvD6XRGctm) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/2HKoPdm4Mm6m5qoaDQcOuk) | 3:56 |

@@ -1,13 +1,29 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 184949,
+  "num_followers": 185494,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlRLkAAAAAAVYI3N1iSOjHg1DWqSap5c",
+  "snapshot_id": "ZoQV8AAAAAAAW4vP8LKfwL4laYngRte6",
   "tracks": [
+    {
+      "added_at": "2024-07-02 15:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 192375,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r"
+    },
     {
       "added_at": "2024-05-27 09:00:00",
       "album": {

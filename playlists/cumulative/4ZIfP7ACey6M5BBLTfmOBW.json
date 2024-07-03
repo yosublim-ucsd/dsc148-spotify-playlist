@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "All the freshest hip-hop heaters in one list! Cover: Travis Scott.",
+  "description": "All the freshest hip-hop heaters in one list! Cover: Central Cee.",
   "name": "Fresh Hip Hop",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 173823,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
@@ -550,6 +550,24 @@
       "duration_ms": 156877,
       "name": "BGC",
       "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "album": {
@@ -1661,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "album": {
         "name": "Going To The Top",
         "url": "https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw"
       },
@@ -1791,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
+        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192862,
+      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
+      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
+    },
+    {
+      "album": {
         "name": "HOMAGE (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/7BUO6iB8gQ0bOeLBSNMvQv"
       },
@@ -1900,7 +1954,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 202744,
       "name": "I Still Know Better",
       "url": "https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3"
@@ -2375,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "The Last One",
+        "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188708,
+      "name": "Memories (feat. Sampha)",
+      "url": "https://open.spotify.com/track/3r743128YSBlOb38PhO4pV"
+    },
+    {
+      "album": {
         "name": "Minimum Wage",
         "url": "https://open.spotify.com/album/2Pcfs8BmHGXKsIcs8cJomT"
       },
@@ -2420,6 +2496,36 @@
       "duration_ms": 213640,
       "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
+    },
+    {
+      "album": {
+        "name": "MON AMI (feat. MERO, Gu\u00e8 & Emis Killa)",
+        "url": "https://open.spotify.com/album/4WgLyGfFVhfzQ1zCQJFO9l"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194481,
+      "name": "MON AMI (feat. MERO, Gu\u00e8 & Emis Killa)",
+      "url": "https://open.spotify.com/track/3A4OIQpuwZbSZgGSrdm4LR"
     },
     {
       "album": {
@@ -2492,7 +2598,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 186352,
       "name": "NEIGHBOURS",
       "url": "https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9"
@@ -2558,7 +2664,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 123692,
       "name": "Nights On Hill",
       "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
@@ -2646,7 +2752,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 169066,
       "name": "OKLOSER",
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
@@ -2938,7 +3044,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 188755,
       "name": "RED FUTURE (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/7nvnmUYiJYbHgGL0MDH7G0"
@@ -3185,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/2hKNwN9YR5q0IphFkEuKD4"
+      },
+      "artists": [
+        {
+          "name": "JNR CHOI",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/4Ra3LEcI1WeTx9jGT8uVs0"
+    },
+    {
+      "album": {
         "name": "She Don't Play",
         "url": "https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y"
       },
@@ -3214,7 +3338,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 146600,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty"
@@ -3698,7 +3822,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 169560,
       "name": "Tipsy (feat. Aitch)",
       "url": "https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh"
@@ -3987,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Went Hollywood For A Year",
+        "url": "https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127425,
+      "name": "Went Hollywood For A Year",
+      "url": "https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT"
+    },
+    {
+      "album": {
         "name": "What U Want?",
         "url": "https://open.spotify.com/album/7ySDA3Zp2y6jPoudGvgKqf"
       },
@@ -4188,6 +4330,24 @@
       "duration_ms": 134265,
       "name": "YEH",
       "url": "https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/4whU0MmQd975FpxZrti027"
+      },
+      "artists": [
+        {
+          "name": "TwoTiime",
+          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149318,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/06a0YRzTF0vLTVnSxrkgfs"
     },
     {
       "album": {

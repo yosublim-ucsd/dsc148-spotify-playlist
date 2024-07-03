@@ -7979,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432560,
+      "name": "One More Hour",
+      "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
+    },
+    {
+      "album": {
         "name": "One More Try",
         "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
       },

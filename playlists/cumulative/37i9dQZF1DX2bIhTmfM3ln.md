@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-561 songs - 1 day 3 hr 45 min
+562 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2023-10-27 | 2023-11-14 |
 | [Bucket List](https://open.spotify.com/track/7fnH0BHcOanXLbaPOFW5AA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:41 | 2024-04-12 | 2024-06-01 |
 | [By You](https://open.spotify.com/track/2Bv0cdN1Bnf1wnXytWyqJd) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Omo Charlie Champagne Vol.1](https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe) | 3:38 | 2024-02-13 | 2024-02-16 |
-| [Bye](https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Del Beast](https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq) | 2:15 | 2024-04-12 |  |
+| [Bye](https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Del Beast](https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq) | 2:15 | 2024-04-12 | 2024-07-03 |
 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 | 2024-05-24 | 2024-07-01 |
 | [Calabash](https://open.spotify.com/track/38fddB34U8mv6ID4jcvndR) | [Looking for Avala](https://open.spotify.com/artist/0ze3oqXaudUaJP8HBRuJJ1) | [Calabash](https://open.spotify.com/album/13lvpRxnYYnWZWgdnMVrRv) | 2:36 | 2023-01-27 | 2023-02-04 |
 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 | 2024-04-05 | 2024-05-03 |
@@ -471,6 +471,7 @@
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-10-13 | 2022-10-31 |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2022-02-11 | 2022-10-15 |
 | [Slow Down](https://open.spotify.com/track/3lxQKYFJZYDH8uE1GK3OOw) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Waited](https://open.spotify.com/album/5zFsZsmJGo7chI897S3aEg) | 2:56 | 2023-02-03 | 2023-03-18 |
+| [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 | 2024-06-28 |  |
 | [Smile For Me](https://open.spotify.com/track/5zaiHpuA3AG4sQBEyYfJtQ) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:33 | 2024-02-13 | 2024-02-16 |
 | [Sofri](https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:59 | 2022-08-05 | 2023-10-13 |
 | [Soja Man](https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/00jKow5FJLfnD2FW57m77E) | 3:21 | 2023-03-30 | 2023-04-29 |

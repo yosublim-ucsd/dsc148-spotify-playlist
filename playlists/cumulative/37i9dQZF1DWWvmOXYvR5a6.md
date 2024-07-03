@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: CHANMINA\(찬미나\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\(비오\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-709 songs - 1 day 14 hr 20 min
+710 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Counting Stars \(Feat\. Beenzino\)](https://open.spotify.com/track/2tXHQVu865MgrCeWeiu52h) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4w06U9VBPfvTVz4plF7wO5) | 2:31 | 2022-07-24 | 2024-04-19 |
 | [Crazy](https://open.spotify.com/track/2v63UGIHgOUfG1M8jwbdGE) | [PYMEL](https://open.spotify.com/artist/4lcveRjo1vlFWfvLiGIFkg) | [98%](https://open.spotify.com/album/5SoAESaH39J5Q90nIJrw1O) | 2:09 | 2023-01-10 | 2023-01-26 |
 | [Crazyy \(feat\. Vapo\)](https://open.spotify.com/track/5xt3ACTZEK9naZxrnBZDZX) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Vapo \(허원혁\)](https://open.spotify.com/artist/5L69RmnzQAASzW5Kes2iX7) | [Crazyy](https://open.spotify.com/album/0avtu3BexGp4CNi80iEvTH) | 3:20 | 2022-07-09 | 2022-07-14 |
+| [Criminal \(Feat\. MC MONG\)](https://open.spotify.com/track/2Pa2nJbeFRgzL8twqs06S8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [Criminal \(Feat\. MC MONG\)](https://open.spotify.com/album/5k2dXby8yLoMHBFoBlQEf4) | 3:04 | 2024-07-02 |  |
 | [CTRL+Z \(Feat\. GIST, Inmo Yang\)](https://open.spotify.com/track/6GOeHzr2n11XBa3zt7HUBt) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Inmo Yang](https://open.spotify.com/artist/7cXRMAMNbxRda5ImdTJQ5H) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:04 | 2022-04-21 | 2022-07-28 |
 | [Cyanide \(Feat\. Kid Milli\)](https://open.spotify.com/track/1yCcR6cFcxt3cwYeDUkj9p) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 2:46 | 2022-05-11 | 2022-06-30 |
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2022-04-01 |  |
@@ -711,7 +712,7 @@
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-27 | 2022-06-30 |
 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 | 2023-01-25 | 2023-02-16 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
-| [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 |  |
+| [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 | 2024-07-03 |
 | [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-24 |  |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 | 2023-04-17 |

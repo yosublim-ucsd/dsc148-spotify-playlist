@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cass\u00f6, Calvin Harris and more.",
-  "num_followers": 30661,
+  "num_followers": 30659,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAAMnvHZRuIgNHl7lhiBJdF/aOUBZll4",
+  "snapshot_id": "AAAMoeRGq0M++h2WUUdnauT6u/MiEa24",
   "tracks": [
     {
       "added_at": "2024-06-28 00:07:16",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
     },
     {
+      "added_at": "2024-07-02 07:42:26",
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
       "added_at": "2024-06-28 00:07:16",
       "album": {
         "name": "She's In The Club (feat. Asal)",
@@ -187,6 +203,34 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "added_at": "2024-07-02 04:15:48",
+      "album": {
+        "name": "SMACK TALK",
+        "url": "https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "SMACK TALK",
+      "url": "https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB"
     },
     {
       "added_at": "2024-06-28 00:07:16",
@@ -535,22 +579,6 @@
       "duration_ms": 180176,
       "name": "NOW COME ON NOW - Mell Hall Remix",
       "url": "https://open.spotify.com/track/4GOorEzwHOoYSy1xaGTyrG"
-    },
-    {
-      "added_at": "2024-06-28 00:07:16",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/6D6kw82gz48fycksFloqS5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 190859,
-      "name": "House",
-      "url": "https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9"
     },
     {
       "added_at": "2024-06-28 00:07:16",

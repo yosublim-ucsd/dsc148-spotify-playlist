@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 163674,
+  "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 163752,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAAvw8/hcQK1k4ym+a/wlr+X",
+  "snapshot_id": "ZoHxgAAAAAAcHRmqS0XN1EA3ZUeewV+W",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Presumir",
-        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 135026,
-      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
-      "url": "https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN"
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+        "name": "Sin Presumir",
+        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Moneda Sin Valor",
-      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
+      "duration_ms": 135026,
+      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
+      "url": "https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -427,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jate Llevar",
-        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
       },
       "artists": [
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 211706,
-      "name": "En El \u00daltimo Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
+      "duration_ms": 150533,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
     },
     {
       "added_at": null,
@@ -463,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
       "artists": [
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Rosalinda",
-      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
+      "duration_ms": 211706,
+      "name": "En El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
     },
     {
       "added_at": null,
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 147373,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+      "duration_ms": 188800,
+      "name": "Rosalinda",
+      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 181720,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Rancheras",
-        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Mi Flor De Naranjo",
-      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197160,
       "name": "Alfredo Galeana",
       "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Mi Flor De Naranjo",
+      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 211200,
       "name": "El Subteniente Linares",
       "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
     },
     {
       "added_at": null,

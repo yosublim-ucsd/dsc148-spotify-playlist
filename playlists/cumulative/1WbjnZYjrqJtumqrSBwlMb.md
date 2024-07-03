@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-965 songs - 2 day 11 hr 21 min
+966 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [like i would](https://open.spotify.com/track/2lCUoWFO0w0XFlRnC1W6Os) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:56 | 2022-07-29 |  |
 | [Lips Like Yours](https://open.spotify.com/track/4f0JqdYNJaPb6F2RiKGyAr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:03 | 2022-03-04 |  |
 | [List Of People \(To Try And Forget About\)](https://open.spotify.com/track/01iiEi9h8CQGUN2K1xBbTj) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:39 | 2021-04-15 |  |
+| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-03 |  |
 | [Little Deer](https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [The Turning Wheel](https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2) | 5:39 | 2022-07-05 |  |
 | [Little Illusion Machine \(Wirral Riddler\)](https://open.spotify.com/track/5reKeLqZ1thyNerCGHDSal) | [Miles Kane and the Death Ramps](https://open.spotify.com/artist/2niM1niRXzrfH2Ad2d7Pdh) | [The Hellcat Spangled Shalalala](https://open.spotify.com/album/2DP4DfaBE1x0cTo8I6Qimm) | 3:11 | 2021-10-02 |  |
 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 | 2022-05-19 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Jamiroquai](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YvhXa)
 
-> This Is Jamiroquai\. Los temas esenciales, todos en una lista.
+> This is Jamiroquai\. The essential tracks, all in one playlist.
 
 60 songs - 4 hr 40 min
 
@@ -50,7 +50,7 @@
 | [Shake It On](https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 5:14 | 2023-07-28 |  |
 | [Smoke and Mirrors](https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:29 | 2023-07-28 |  |
 | [So Good to Feel Real](https://open.spotify.com/track/4UALNtb6gBbaDHWazUenW3) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 2:04 | 2023-12-13 |  |
-| [Something About You](https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 3:58 | 2023-07-28 |  |
+| [Something About You](https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 3:58 | 2023-07-28 | 2024-07-03 |
 | [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 | 2023-07-28 | 2024-04-21 |
 | [Space Cowboy \(Classic Radio\)](https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Space Cowboy \(Remixes\)](https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7) | 4:03 | 2024-05-19 |  |
 | [Space Cowboy \- Michael Gray's Good Vibe Zone \- Edit](https://open.spotify.com/track/1zsbWjRBQxJaphsz5OZRqd) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Space Cowboy \(Michael Gray's Good Vibe Zone\)](https://open.spotify.com/album/68HuQPct8zrerfni6OteVu) | 3:25 | 2024-04-21 | 2024-05-19 |
@@ -62,9 +62,9 @@
 | [Time Won't Wait](https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 5:01 | 2023-07-28 |  |
 | [Too Young to Die](https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 6:05 | 2023-07-28 |  |
 | [Travelling Without Moving \- Remastered 2013](https://open.spotify.com/track/4U0gBPfjAzs7V0IR6UhOM6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 3:40 | 2023-07-28 |  |
-| [Two Completely Different Things](https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:24 | 2024-02-29 |  |
-| [Virtual Insanity \- Remastered 2006](https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Driving Songs](https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw) | 3:49 | 2023-07-28 | 2024-07-02 |
-| [We Can Do It](https://open.spotify.com/track/5nXAvCjpkB3Bsg1a5qML0H) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:06 | 2024-05-13 | 2024-06-27 |
+| [Two Completely Different Things](https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:24 | 2024-02-29 | 2024-07-03 |
+| [Virtual Insanity \- Remastered 2006](https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Driving Songs](https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw) | 3:49 | 2023-07-28 |  |
+| [We Can Do It](https://open.spotify.com/track/5nXAvCjpkB3Bsg1a5qML0H) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:06 | 2024-05-13 |  |
 | [When You Gonna Learn?](https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 3:50 | 2023-07-28 |  |
 | [White Knuckle Ride](https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 3:33 | 2023-07-28 |  |
 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 | 2023-07-28 |  |

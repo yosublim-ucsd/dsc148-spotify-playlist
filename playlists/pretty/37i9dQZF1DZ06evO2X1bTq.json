@@ -1,12 +1,12 @@
 {
-  "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1213332,
+  "description": "This Is U2. Los temas esenciales, todos en una lista.",
+  "num_followers": 1213549,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACS1JTsaNFRs/RpZQgrTjv7",
+  "snapshot_id": "ZoHxgAAAAAByqwWnLQ+HBFOKANSOBKcC",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+      "duration_ms": 226626,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 176596,
-      "name": "In God's Country",
-      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
+      "duration_ms": 296240,
+      "name": "Walk On",
+      "url": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 296240,
-      "name": "Walk On",
-      "url": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
+      "duration_ms": 176596,
+      "name": "In God's Country",
+      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
     },
     {
       "added_at": null,

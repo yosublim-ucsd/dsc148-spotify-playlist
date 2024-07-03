@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Clairo",
-  "num_followers": 1109368,
+  "num_followers": 1109346,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "i do luv u",
+        "url": "https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u"
+      },
+      "artists": [
+        {
+          "name": "okayceci",
+          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
+        }
+      ],
+      "duration_ms": 148775,
+      "name": "i do luv u",
+      "url": "https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "my forever",
         "url": "https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 202500,
       "name": "my forever",
       "url": "https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "i do luv u",
-        "url": "https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u"
-      },
-      "artists": [
-        {
-          "name": "okayceci",
-          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
-        }
-      ],
-      "duration_ms": 148775,
-      "name": "i do luv u",
-      "url": "https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "milk in the morning",
         "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "c u never",
         "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Nothing 2 See",
-        "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
-      },
-      "artists": [
-        {
-          "name": "HOMESHAKE",
-          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
-        }
-      ],
-      "duration_ms": 220499,
-      "name": "Nothing 2 See",
-      "url": "https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 192521,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Nothing 2 See",
+        "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "duration_ms": 220499,
+      "name": "Nothing 2 See",
+      "url": "https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH"
+        "name": "garage sale",
+        "url": "https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP"
       },
       "artists": [
         {
-          "name": "Maddie Jay",
-          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
-        },
-        {
-          "name": "Chase Ceglie",
-          "url": "https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 208636,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M"
+      "duration_ms": 114916,
+      "name": "Really good cry",
+      "url": "https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "garage sale",
-        "url": "https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP"
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        },
+        {
+          "name": "Chase Ceglie",
+          "url": "https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn"
         }
       ],
-      "duration_ms": 114916,
-      "name": "Really good cry",
-      "url": "https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js"
+      "duration_ms": 208636,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M"
     },
     {
       "added_at": "2024-05-24 04:00:00",

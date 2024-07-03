@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: MORE\)
 
-354 songs - 19 hr 37 min
+355 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [and you \(Feat\. ZICO\)](https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [and you](https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3) | 3:24 | 2023-11-10 | 2024-04-05 |
 | [Andrea′s Song \(Feat\. Lil Cherry\)](https://open.spotify.com/track/0fzKwOsRpmUQFkBPBxjAEU) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Andrea′s Song](https://open.spotify.com/album/0L7yJIRm0dDHhpie0X5Wd8) | 2:55 | 2023-05-02 | 2023-10-17 |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2023-03-28 |
+| [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 | 2024-07-02 |  |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 | 2024-02-22 | 2024-06-18 |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 | 2024-01-09 |

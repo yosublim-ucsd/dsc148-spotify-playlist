@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57814,
+  "num_followers": 57834,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoKjzAAAAACHz354o0WK/NjfOf97NqX8",
+  "snapshot_id": "ZoPdGwAAAABQI31CCBNT83c7m1jRz7pm",
   "tracks": [
     {
       "added_at": "2024-06-11 10:34:59",
@@ -105,6 +105,30 @@
       "url": "https://open.spotify.com/track/4rpc50DRQTwzLJYFRMEXMm"
     },
     {
+      "added_at": "2024-07-02 10:57:31",
+      "album": {
+        "name": "Odo Odo Odo..Le (From \"Forest\")",
+        "url": "https://open.spotify.com/album/433AjUErynkJshBiwoO9At"
+      },
+      "artists": [
+        {
+          "name": "Dharma Vish",
+          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
+        },
+        {
+          "name": "Punith Arya",
+          "url": "https://open.spotify.com/artist/0mGt3IkzLWeqSelwUx9vDb"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Odo Odo Odo..Le (From \"Forest\")",
+      "url": "https://open.spotify.com/track/6J2GWbFrbC3pJcWeAlCH6N"
+    },
+    {
       "added_at": "2024-06-28 13:32:04",
       "album": {
         "name": "Blink (Original Motion Picture Soundtrack)",
@@ -131,6 +155,26 @@
       "duration_ms": 201600,
       "name": "Aaganthuka - Blink Anthem (From \"Blink\")",
       "url": "https://open.spotify.com/track/704C24oblUrlyZh87uSFb3"
+    },
+    {
+      "added_at": "2024-07-02 10:56:28",
+      "album": {
+        "name": "Garam Garam [From \"Surya's Saturday (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5DsW3QzlUGGdOkQxUe8ZVC"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sivam",
+          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
+        }
+      ],
+      "duration_ms": 252342,
+      "name": "Garam Garam (From \"Surya's Saturday (Kannada)\")",
+      "url": "https://open.spotify.com/track/1Amjs9p6U29wu2pvtiRgHh"
     },
     {
       "added_at": "2024-07-01 12:40:21",
@@ -1601,26 +1645,6 @@
       "url": "https://open.spotify.com/track/3zwfu9ULGrRdQhMvmVVfkx"
     },
     {
-      "added_at": "2024-03-27 08:30:13",
-      "album": {
-        "name": "The Holi Haadu (From \"Back Bencherz\")",
-        "url": "https://open.spotify.com/album/3cNwX3Vit7Sf0mRyqyMdEI"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        }
-      ],
-      "duration_ms": 197275,
-      "name": "Holi Haadu (From \"Back Bencherz\")",
-      "url": "https://open.spotify.com/track/12t33lO0TdN4xUGeAewnQK"
-    },
-    {
       "added_at": "2024-05-13 06:24:39",
       "album": {
         "name": "Bayasi Bayasi (From \"LoveLi\")",
@@ -1643,30 +1667,6 @@
       "duration_ms": 291492,
       "name": "Bayasi Bayasi - From \"LoveLi\"",
       "url": "https://open.spotify.com/track/3R2xqYtOQD8Oqz5wl0E8M4"
-    },
-    {
-      "added_at": "2024-04-29 10:39:00",
-      "album": {
-        "name": "Yedhe Goodali (From \"Jasti Preeti\")",
-        "url": "https://open.spotify.com/album/03JoWmapDRRRz2VQGigtJh"
-      },
-      "artists": [
-        {
-          "name": "Badri Prasad",
-          "url": "https://open.spotify.com/artist/1Q40wizO6hrVtooWsgSSbG"
-        },
-        {
-          "name": "Vineeth Raj Menon",
-          "url": "https://open.spotify.com/artist/6oqmm7nNRyAfBdevvHaJ7d"
-        },
-        {
-          "name": "Arun Manav",
-          "url": "https://open.spotify.com/artist/0HyGVOYeaqf5AD6RpRIfyX"
-        }
-      ],
-      "duration_ms": 225968,
-      "name": "Yedhe Goodali (From \"Jasti Preeti\")",
-      "url": "https://open.spotify.com/track/7kEEUfYAGQEGkGOY3FJG0P"
     },
     {
       "added_at": "2024-05-08 14:12:23",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hallgass n\u0151i el\u0151ad\u00f3kat teljes hanger\u0151n. Az EQUAL nagyk\u00f6vet ajsa luna \u00e1ltal v\u00e1logatott lej\u00e1tsz\u00e1si lista",
+  "description": "Hallgasd teljes hanger\u0151n Magyarorsz\u00e1g n\u0151i hangjait! Cover: cserihanna",
   "name": "EQUAL Hungary",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 125374,
       "name": "All In",
       "url": "https://open.spotify.com/track/5TrS68zEIgprjsc8k9jje4"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 179200,
       "name": "Bab\u00e1m",
       "url": "https://open.spotify.com/track/2pDC7xMkbVDjAxclZVkMe2"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
@@ -136,6 +136,24 @@
       "duration_ms": 192000,
       "name": "C\u00cdMKE VAGY",
       "url": "https://open.spotify.com/track/2ooAUXbg8qSqN4djnKl0SW"
+    },
+    {
+      "album": {
+        "name": "d.a.u.g.h.t.e.r",
+        "url": "https://open.spotify.com/album/08EjEsSZIxuJPjTducxUYC"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "d.a.u.g.h.t.e.r",
+      "url": "https://open.spotify.com/track/3N8kLOPD2r86iVNWqOhy3N"
     },
     {
       "album": {
@@ -208,10 +226,28 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 154285,
       "name": "Embernek maradni",
       "url": "https://open.spotify.com/track/6ssiErojPiIvggWhPDcQea"
+    },
+    {
+      "album": {
+        "name": "Ezerarc\u00fa szigeten",
+        "url": "https://open.spotify.com/album/7qvPasr7sWxrIt3MSkSTE6"
+      },
+      "artists": [
+        {
+          "name": "Friderika",
+          "url": "https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Ezerarc\u00fa szigeten",
+      "url": "https://open.spotify.com/track/3oI1zoOg25eG37kOXBhqEe"
     },
     {
       "album": {
@@ -269,6 +305,42 @@
     },
     {
       "album": {
+        "name": "F\u00e9lrenyomtalak",
+        "url": "https://open.spotify.com/album/6iN7vKklwIJFwD6xaFWgba"
+      },
+      "artists": [
+        {
+          "name": "Nagy Lili",
+          "url": "https://open.spotify.com/artist/2YeoonJgsAnkNgRAg3n1HI"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "F\u00e9lrenyomtalak",
+      "url": "https://open.spotify.com/track/0NSGqwDtUTcld0hoGkXgQ2"
+    },
+    {
+      "album": {
+        "name": "ROSE MAY",
+        "url": "https://open.spotify.com/album/12ij9vn3BZWuPeFbavxsu8"
+      },
+      "artists": [
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Generation Fearless - Get High",
+      "url": "https://open.spotify.com/track/28klPDirA7JMsBbmUOZCaS"
+    },
+    {
+      "album": {
         "name": "Rubin",
         "url": "https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg"
       },
@@ -298,7 +370,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 140434,
       "name": "Halkan dobban a sz\u00edv",
       "url": "https://open.spotify.com/track/0XX82mHq1r8QPhv9arrDRX"
@@ -316,7 +388,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 167040,
       "name": "hate that i miss u",
       "url": "https://open.spotify.com/track/23jTtQL10GYJSZjdAZkR0h"
@@ -400,7 +472,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 218689,
       "name": "Kenji - I wish you were real",
       "url": "https://open.spotify.com/track/3Ax37Bh8HKUT3SFW92Jw2O"
@@ -422,6 +494,24 @@
       "duration_ms": 132770,
       "name": "Kerozin",
       "url": "https://open.spotify.com/track/64NgPlJnpP9cxOCMPXHzLL"
+    },
+    {
+      "album": {
+        "name": "metanoia",
+        "url": "https://open.spotify.com/album/408aOZGpq6ceNQldPmhK1J"
+      },
+      "artists": [
+        {
+          "name": "Niko",
+          "url": "https://open.spotify.com/artist/6rrMDUwdP0t0vfDVE5IC1M"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "kevesebb",
+      "url": "https://open.spotify.com/track/7i61C1HWp8d2CPoIYisdTx"
     },
     {
       "album": {
@@ -458,6 +548,28 @@
       "duration_ms": 151500,
       "name": "kurvanagy ???",
       "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "album": {
+        "name": "K\u00e9s\u0151",
+        "url": "https://open.spotify.com/album/1FrVR6i8c59dSUWdwdENPF"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "K\u00e9s\u0151",
+      "url": "https://open.spotify.com/track/4fakB0l4SgFE6EyK1uqYCH"
     },
     {
       "album": {
@@ -512,6 +624,24 @@
       "duration_ms": 189000,
       "name": "Looking Down",
       "url": "https://open.spotify.com/track/7dLxHTTSIdK6AJIvcwEe3Z"
+    },
+    {
+      "album": {
+        "name": "lucky",
+        "url": "https://open.spotify.com/album/4an2ZAOlPeC9tehLeMHH8c"
+      },
+      "artists": [
+        {
+          "name": "boebeck",
+          "url": "https://open.spotify.com/artist/6Bdydd2cS9I76SEGl4uqmH"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "lucky",
+      "url": "https://open.spotify.com/track/4xBHs2zyixjfWAF7OSycQM"
     },
     {
       "album": {
@@ -580,7 +710,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 236363,
       "name": "M\u00e9z",
       "url": "https://open.spotify.com/track/1hXjiVuSCp48ki0iA4G0Dz"
@@ -656,6 +786,24 @@
       "duration_ms": 150400,
       "name": "Nikotin",
       "url": "https://open.spotify.com/track/01aCI0XatGFDWxiOTQ0wLl"
+    },
+    {
+      "album": {
+        "name": "Nincs aki hazakis\u00e9rjen",
+        "url": "https://open.spotify.com/album/6M6jk5B5HkG7nVf4TvYv3E"
+      },
+      "artists": [
+        {
+          "name": "Klis\u00e8",
+          "url": "https://open.spotify.com/artist/1w5HofGcOqIftyUfsI9cHb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198926,
+      "name": "Nincs aki hazakis\u00e9rjen",
+      "url": "https://open.spotify.com/track/3GDjQZzC4B1BSHQ12CYqRu"
     },
     {
       "album": {
@@ -749,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Small things",
+        "url": "https://open.spotify.com/album/3TEpoDnyz0GjzCyTCq5ptu"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        },
+        {
+          "name": "TIMEA",
+          "url": "https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Small things",
+      "url": "https://open.spotify.com/track/0pIkEi390vLhzMPLpTqhHD"
+    },
+    {
+      "album": {
         "name": "So good",
         "url": "https://open.spotify.com/album/2f6Xh472zBWmsKQQDj93bd"
       },
@@ -760,10 +930,28 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 231000,
       "name": "So good",
       "url": "https://open.spotify.com/track/0Tjw1Ui47aFMwnMxweFGFV"
+    },
+    {
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/6yD04QCYkzF1AqR34V3PTs"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123173,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/3s3J5jfuTV0eDlJUfHTwAe"
     },
     {
       "album": {
@@ -796,7 +984,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 375000,
       "name": "Tang\u00f3 - Itt van pedig senki se h\u00edvta - Ragaszthatatlan sz\u00edv",
       "url": "https://open.spotify.com/track/2e31yajh5iiJmOMZUyuCPO"
@@ -814,7 +1002,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 150500,
       "name": "Tavasz",
       "url": "https://open.spotify.com/track/5xB9X4cSH9mko4iSJ1Z1AH"
@@ -894,6 +1082,24 @@
       "duration_ms": 177039,
       "name": "Zavar",
       "url": "https://open.spotify.com/track/7dm2yr6YRLS4lkJwZA7Rad"
+    },
+    {
+      "album": {
+        "name": "\u00cfLL\u00daZI\u00d3",
+        "url": "https://open.spotify.com/album/4a3YjLcm3cGLK0ggz16iLN"
+      },
+      "artists": [
+        {
+          "name": "B\u00d6BE",
+          "url": "https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "\u00cfLL\u00daZI\u00d3",
+      "url": "https://open.spotify.com/track/469prOAswHTviYhZ8RAXRI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: MILLY
 
-709 songs - 1 day 15 hr 14 min
+711 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Big Air](https://open.spotify.com/track/6iwhvpSBLm0xBWxd0Vgmjg) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/5jSK4jeCpxMxhuySk8EOBI) | 3:26 | 2024-04-12 |  |
 | [Big Bad!](https://open.spotify.com/track/1OsQOPV4671B3MmJIuoeNg) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Big Bad!](https://open.spotify.com/album/0vygUxLK7ltBvtD4O0xzYh) | 2:11 | 2022-08-05 | 2023-04-15 |
 | [Big Bite](https://open.spotify.com/track/16ThVjXmR8yTDihJ5g70r4) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Big Bite](https://open.spotify.com/album/0TCf57rej2wShcUzX91XOK) | 2:21 | 2021-10-07 | 2022-02-01 |
+| [Big Dogs](https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Big Dogs](https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX) | 5:31 | 2024-07-02 |  |
 | [Big Ground](https://open.spotify.com/track/1zwNoQEODYKs7vFcGOjZGf) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Big Ground](https://open.spotify.com/album/4fj40diAJXw2LuXH1DHUbH) | 2:52 | 2023-10-16 | 2024-01-14 |
 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 | 2021-10-07 | 2022-02-26 |
 | [Bittersweet Mary](https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Bittersweet Mary](https://open.spotify.com/album/4A7WRN39gSY88Rd9tYHePB) | 3:54 | 2024-06-21 | 2024-06-29 |
@@ -179,7 +180,8 @@
 | [Early Bopper](https://open.spotify.com/track/06oEYllVwH9bCrle8Wo3Hl) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Early Bopper](https://open.spotify.com/album/6XahsD00aHDSjML6J50vC2) | 2:57 | 2021-10-07 | 2022-01-08 |
 | [Earth To Mike](https://open.spotify.com/track/2xlJm0LeXyoB73DeoDGtDS) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Here Comes More Bad News](https://open.spotify.com/album/7bREBOOMt7YTRpkl5fDjIM) | 1:30 | 2022-01-07 | 2023-01-21 |
 | [Eat Men Eat](https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Eat Men Eat](https://open.spotify.com/album/4sKsXkwWFXfXMsMVO7y4l4) | 3:08 | 2022-06-17 | 2022-08-17 |
-| [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 |  |
+| [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 | 2024-07-03 |
+| [Ecig](https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Ecig](https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31) | 6:06 | 2024-07-02 |  |
 | [Edge Of Teeth](https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Edge Of Teeth](https://open.spotify.com/album/24cq8kLYhfeH0tC4F6QAMa) | 4:45 | 2023-08-11 | 2023-10-17 |
 | [Eggman](https://open.spotify.com/track/1vsxjtAWoijQmtYjdtQmAV) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Eggman](https://open.spotify.com/album/0IhxrXyYRaOHhvSuJIR3cz) | 4:04 | 2023-10-02 | 2024-01-14 |
 | [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 | 2023-10-16 |  |
@@ -467,7 +469,7 @@
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-26 | 2023-04-15 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-08-05 | 2022-08-27 |
 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 | 2024-06-04 |  |
-| [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-09-09 |  |
+| [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-09-09 | 2024-07-03 |
 | [Orange County Punk Rock Legend](https://open.spotify.com/track/2IyMFjkWuxuev05AWpFDXj) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Orange County Punk Rock Legend](https://open.spotify.com/album/0N6DCJtzG6GPoaQxu0YwJL) | 1:40 | 2022-08-05 | 2022-10-25 |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2022-10-07 | 2023-01-28 |
 | [Outsah](https://open.spotify.com/track/67lTcyZnBnkZVnU8KcBEnl) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Outsah](https://open.spotify.com/album/5NhvzOeKEqFa4TWtexhmmF) | 1:53 | 2021-10-07 | 2022-04-29 |

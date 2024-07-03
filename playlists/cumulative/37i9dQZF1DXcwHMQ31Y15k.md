@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora
 
-352 songs - 1 day 4 hr 58 min
+354 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 | 2022-07-01 |  |
 | [Full Senyum Sayang](https://open.spotify.com/track/6Vhst432fSvsduUkqFruiq) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/6qYd6W2PyMVSjDCs5VEh6g) | 4:06 | 2023-12-08 | 2024-04-19 |
 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 | 2023-02-16 | 2023-12-09 |
+| [Gagal](https://open.spotify.com/track/4fbtXxvWw1fePAZiasahDn) | [NGATMOMBILUNG](https://open.spotify.com/artist/2QTbC45lx9ANi4Cm2hx09c) | [Gagal](https://open.spotify.com/album/3oIXEWuLvVE1NGunIupPFV) | 5:04 | 2024-07-02 |  |
 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 | 2023-08-03 | 2023-10-08 |
 | [Gampil](https://open.spotify.com/track/3RvL8OtF2e9OMxeFk5JYZS) | [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Gampil](https://open.spotify.com/album/5Tj6s9XnqD5acllIrUCGU2) | 4:08 | 2024-01-19 | 2024-04-26 |
 | [Gampil](https://open.spotify.com/track/7KET9JHpqakmnfmP1xSQuD) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gampil](https://open.spotify.com/album/1CDoARMdq5GXJvEX8xSkIe) | 5:02 | 2024-01-18 |  |
@@ -95,6 +96,7 @@
 | [Gerombolan Mantan](https://open.spotify.com/track/6OXCe6zKZnFNYM6NvyJMMd) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Gerombolan Mantan](https://open.spotify.com/album/3Gs9Z8x3X9dj00lJ5eLHVb) | 3:21 | 2023-03-02 | 2023-08-11 |
 | [Ginio](https://open.spotify.com/track/4EQ14BW8rUd94OZR5ISWMo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ginio](https://open.spotify.com/album/5Za62voFdJjkyIe3AtUYhl) | 5:55 | 2023-06-09 | 2023-10-13 |
 | [Gusti Tulung](https://open.spotify.com/track/0qFSr9ujrmarFe1XyXGQiV) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Gusti Tulung](https://open.spotify.com/album/0fV71kmSAoMBirovaccELT) | 4:48 | 2023-11-09 | 2024-04-05 |
+| [Gusti, Matur Nuwun \- From "Sekawan Limo"](https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Gusti, Matur Nuwun \(From "Sekawan Limo"\)](https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L) | 3:18 | 2024-07-02 |  |
 | [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-06-13 |  |
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 | 2023-07-14 |
 | [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 | 2023-02-10 |
@@ -126,9 +128,9 @@
 | [Kelingan Mantan](https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [PJR](https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK) | [NDX A.K.A\. FAMILIA](https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus) | 3:20 | 2022-05-26 |  |
 | [Kenemenen](https://open.spotify.com/track/4s2AtchK38b8oVNnzRq6ZC) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Kenemenen](https://open.spotify.com/album/1rAq5qHo0ZB665iprgMb8F) | 6:11 | 2024-04-25 |  |
 | [Kesel \- Studio Version](https://open.spotify.com/track/1W9v2dH55jpVMOAcAjxarE) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kesel \(Studio Version\)](https://open.spotify.com/album/1wGTcasaUfoIWZwpk9wkDW) | 5:48 | 2023-12-15 | 2024-06-14 |
-| [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 | 2024-02-29 |  |
+| [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 | 2024-02-29 | 2024-07-03 |
 | [Kesupen](https://open.spotify.com/track/7duhQGGQ1IeTTOU9CDuh36) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/6LBOCC6Ihu7T8v0J1JcRwC) | 4:16 | 2024-03-14 | 2024-04-19 |
-| [Kisinan](https://open.spotify.com/track/57W31ORSD6sAOCYhoh7EFv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kisinan](https://open.spotify.com/album/4x5lktOv7MBMZEV2yqcMax) | 4:56 | 2023-10-12 |  |
+| [Kisinan](https://open.spotify.com/track/57W31ORSD6sAOCYhoh7EFv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kisinan](https://open.spotify.com/album/4x5lktOv7MBMZEV2yqcMax) | 4:56 | 2023-10-12 | 2024-07-03 |
 | [Kisinan](https://open.spotify.com/track/5qcoVIjY77n3TGcvFCBuq7) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Kisinan](https://open.spotify.com/album/0Cya8IGdWAAqfogpm4lukg) | 5:18 | 2024-06-06 |  |
 | [Kisinan](https://open.spotify.com/track/109u6faz5ePtC558pTonCw) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/1gdPykbinggfyDSiAU4MWt) | 4:35 | 2023-08-01 | 2023-09-16 |
 | [Kisinan](https://open.spotify.com/track/78lFFmTAs87urNSAx7DfbR) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Kisinan](https://open.spotify.com/album/7yHaGJuKD11LyzBvhFOnTY) | 4:44 | 2023-10-06 | 2024-03-15 |

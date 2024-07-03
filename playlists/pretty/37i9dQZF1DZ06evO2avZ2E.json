@@ -1,12 +1,12 @@
 {
-  "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2630,
+  "description": "This Is Vanessa Zamora. Los temas esenciales, todos en una lista.",
+  "num_followers": 2631,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAABKZEWLX46RF/J4na8d6vTH",
+  "snapshot_id": "ZoHxgAAAAABx3pDxYuWO3vwa9bAGnTCz",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Este Final",
-      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venus (Remix)",
         "url": "https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 232753,
       "name": "Venus (Remix)",
       "url": "https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Este Final",
+      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
     },
     {
       "added_at": null,
@@ -711,6 +711,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "ENVOLTORIO",
+        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Percii",
+          "url": "https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd"
+        }
+      ],
+      "duration_ms": 173642,
+      "name": "rayo violeta",
+      "url": "https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta la Fantas\u00eda",
         "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 172687,
       "name": "Horizonte (feat. Vanessa Zamora)",
       "url": "https://open.spotify.com/track/35E2vrO2uLzUJrh84lv84S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ENVOLTORIO",
-        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Percii",
-          "url": "https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd"
-        }
-      ],
-      "duration_ms": 173642,
-      "name": "rayo violeta",
-      "url": "https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V"
     },
     {
       "added_at": null,

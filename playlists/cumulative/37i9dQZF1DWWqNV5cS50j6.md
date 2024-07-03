@@ -4,7 +4,7 @@
 
 > ?! ft\. Lil Yachty
 
-1,715 songs - 3 day 10 hr 30 min
+1,718 songs - 3 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-03-01 | 2023-05-24 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-05 | 2023-04-27 |
 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 | 2023-03-01 | 2024-04-19 |
+| [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-02 |  |
 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2021-09-22 | 2022-03-19 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-05-22 | 2022-02-12 |
 | [Gloria !](https://open.spotify.com/track/4u8O5o5Fnmo0wJLFZW1bxH) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Gloria !](https://open.spotify.com/album/1UNeoUG4ozukEzItkg3MVO) | 2:04 | 2023-05-19 | 2023-07-22 |
@@ -829,6 +830,7 @@
 | [Kismet](https://open.spotify.com/track/24hPnL2Yr82INEk0YUWCJr) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Kismet](https://open.spotify.com/album/516DgQVkrtnV5vmQ5SOxPu) | 2:51 | 2020-10-13\* | 2020-11-03 |
 | [kora](https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [kora](https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc) | 4:42 | 2021-10-09 | 2021-10-16 |
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-02-27 | 2024-06-01 |
+| [KRYPTONITE](https://open.spotify.com/track/3mLDq0hbHkafZoy4GvF7EG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:02 | 2024-07-02 |  |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2024-04-26 |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-03-29 | 2022-04-08 |
 | [Last Night!](https://open.spotify.com/track/4RxkErsYUmi1WyjGQvIrxH) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [Last Night!](https://open.spotify.com/album/0P7Ws5NtZDmCZuKM8iOkEB) | 2:57 | 2020-10-13\* | 2021-02-13 |
@@ -865,6 +867,7 @@
 | [Limousine](https://open.spotify.com/track/3zL4FoSW5burOKQQkEqFPS) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Junior Varsity](https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM) | 2:12 | 2021-08-14 | 2021-10-16 |
 | [Liquor Locker](https://open.spotify.com/track/5YbrqNUUleF39Ai3b3ruQy) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:18 | 2022-02-04 | 2022-03-01 |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-07-24 | 2021-10-16 |
+| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-02 |  |
 | [LITTLE KING](https://open.spotify.com/track/0pBco0QbgLMrbIOpJTCFdx) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 2:43 | 2022-05-27 | 2022-07-01 |
 | [little too quiet](https://open.spotify.com/track/5Jh61eOabfxYRjjxR0MNFR) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Venus as a boy](https://open.spotify.com/artist/06e04zMiKIaUEldslPkhsu) | [little too quiet](https://open.spotify.com/album/30tG5Tdh3AYESQLA0CuHfS) | 2:42 | 2022-04-08 | 2022-07-01 |
 | [locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 | 2024-01-10 |

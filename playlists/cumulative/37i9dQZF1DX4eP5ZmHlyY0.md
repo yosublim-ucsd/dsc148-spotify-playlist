@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: INI
+> 日本で活躍するボーイズグループを特集。cover: THE JET BOY BANGERZ from EXILE TRIBE
 
-269 songs - 15 hr 40 min
+270 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 | 2024-01-11 | 2024-01-24 |
 | [Bon Voyage](https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL) | 4:54 | 2024-01-11 | 2024-01-13 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 |  |
-| [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 | 2024-06-12 |  |
+| [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 | 2024-06-12 | 2024-07-03 |
 | [BREMEN](https://open.spotify.com/track/2INxMYYnLdxmB16I45lB4E) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/7wYlDlMNbNRnyxhGzF660D) | 3:48 | 2024-01-16 | 2024-02-07 |
 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-11-23 | 2023-12-20 |
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 | 2024-01-17 |
@@ -129,7 +129,7 @@
 | [Mania](https://open.spotify.com/track/672t5orA6YcHdTM5aGFjUG) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Mania](https://open.spotify.com/album/5Fve3jeQNug5Y8EuWt78ot) | 3:19 | 2024-05-07 | 2024-05-29 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 |  |
 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-05-08 |
-| [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 | 2024-03-05 | 2024-06-19 |
+| [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 | 2024-03-05 |  |
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 |  |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-04-10 |
 | [MONEYBAG 7ver.](https://open.spotify.com/track/001j2dUGwEkNV7k8eGeor0) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [MONEYBAG 7ver.](https://open.spotify.com/album/0I2e0pluTkgdurceUwWuSD) | 4:46 | 2024-04-23 | 2024-05-08 |
@@ -222,11 +222,12 @@
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |
 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 | 2023-11-23 | 2024-05-08 |
 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 | 2023-11-23 | 2024-02-28 |
-| [Walkie Talkie](https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE FRAME](https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe) | 3:04 | 2024-06-25 |  |
+| [Walkie Talkie](https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE FRAME](https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe) | 3:04 | 2024-06-25 | 2024-07-03 |
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 | 2024-04-11 |
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2024-06-05 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
+| [What Time Is It?](https://open.spotify.com/track/30HLTApQ30MMHAZZZpdARt) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [What Time Is It?](https://open.spotify.com/album/6RXZayj65AHRlCFpGCRLeo) | 2:31 | 2024-07-02 |  |
 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 | 2023-11-28 | 2024-01-10 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-04-02 | 2024-06-19 |
 | [WHITE SNOW](https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [WHITE SNOW](https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY) | 4:05 | 2023-11-23 | 2023-11-29 |

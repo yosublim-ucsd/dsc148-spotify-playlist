@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,898 songs - 4 day 4 hr 10 min
+1,899 songs - 4 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1198,7 +1198,7 @@
 | [no friends \(feat\. spill tab & MIA GLADSTONE\)](https://open.spotify.com/track/0c5eyxgiDJGS48ZCfmLabb) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Mia Gladstone](https://open.spotify.com/artist/655Kf1udFVddxdsFjryd0D) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:10 | 2021-08-27 | 2022-04-16 |
 | [No Fun](https://open.spotify.com/track/6TFn4whoPiM69vU2Wx1kh8) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [No Fun](https://open.spotify.com/album/43lbfNEa1HlM46rYYcJRpo) | 2:39 | 2020-10-20 | 2020-10-21 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 |  |
-| [No Problems](https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [No Problems](https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u) | 3:44 | 2024-05-24 |  |
+| [No Problems](https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [No Problems](https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u) | 3:44 | 2024-05-24 | 2024-07-03 |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-10-20 | 2022-04-20 |
 | [NO WAY!](https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [NO WAY!](https://open.spotify.com/album/2SruOoc4NUXuErLO3zDKbC) | 2:27 | 2021-10-08 | 2022-01-24 |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-03-20 | 2022-04-11 |
@@ -1408,6 +1408,7 @@
 | [Room in the Desert](https://open.spotify.com/track/7EEXUYAkOWS3DdH83mJzBl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:57 | 2022-04-01 | 2022-04-21 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-01-24 |
 | [Rumors](https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Rumors](https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt) | 3:22 | 2023-11-06 |  |
+| [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 | 2024-06-28 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 |  |
 | [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-27 | 2024-04-10 |
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-02-09 | 2024-02-29 |

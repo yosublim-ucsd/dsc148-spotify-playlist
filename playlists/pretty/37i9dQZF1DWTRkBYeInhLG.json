@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 469373,
+  "num_followers": 469492,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "added_at": "2024-06-10 04:41:27",
+      "album": {
         "name": "Raisa",
         "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 272631,
       "name": "Dengan Caraku",
       "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
-    },
-    {
-      "added_at": "2024-06-10 04:41:27",
-      "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
-      },
-      "artists": [
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "That Somebody",
-      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
     },
     {
       "added_at": "2024-06-10 04:41:27",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 71203,
+  "description": "This is Fernanda Brum. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 71222,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAABqH/RHv1gC9Jakp2BSiOfb",
+  "snapshot_id": "ZoHxgAAAAADgBBiziVXYPLV2F6ZIHGWq",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 310590,
-      "name": "Cura-me",
-      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 310590,
+      "name": "Cura-me",
+      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -407,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+        "name": "Feliz De Vez",
+        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
       },
       "artists": [
         {
@@ -416,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 420234,
-      "name": "Apenas um Toque",
-      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+      "duration_ms": 279475,
+      "name": "Feliz De Vez",
+      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 377998,
       "name": "Desciende",
       "url": "https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feliz De Vez",
-        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279475,
-      "name": "Feliz De Vez",
-      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paix\u00e3o de Cristo - O Musical",
-        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Vinho e P\u00e3o",
-      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paix\u00e3o de Cristo - O Musical",
+        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Vinho e P\u00e3o",
+      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Seu Lugar",
-      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escreve",
         "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 275590,
       "name": "Escreve",
       "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Seu Lugar",
+      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 251890,
       "name": "Tempo de Crescer",
       "url": "https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
     },
     {
       "added_at": null,

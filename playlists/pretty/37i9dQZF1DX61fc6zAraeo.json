@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98770,
+  "num_followers": 98773,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "PEGASUS",
         "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 180462,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -483,6 +483,46 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "24k Heart Of Gold",
         "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
       },
@@ -511,42 +551,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -567,26 +587,6 @@
       "duration_ms": 132467,
       "name": "Elevate (feat. RANI)",
       "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 174220,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "When You're Lonely",
         "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 159016,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 161658,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Lost My Way",
         "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 142700,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "The Victor",
-          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "The Victor",
+          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1535,6 +1535,34 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Slowly Going Crazy (feat. EKE)",
+        "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
+      },
+      "artists": [
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Tomhio",
+          "url": "https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7"
+        },
+        {
+          "name": "TWINNS",
+          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Slowly Going Crazy (feat. EKE)",
+      "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
       },
@@ -1571,34 +1599,6 @@
       "duration_ms": 162712,
       "name": "Got a Friend",
       "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Slowly Going Crazy (feat. EKE)",
-        "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
-      },
-      "artists": [
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        },
-        {
-          "name": "Tomhio",
-          "url": "https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7"
-        },
-        {
-          "name": "TWINNS",
-          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "Slowly Going Crazy (feat. EKE)",
-      "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Everytime Next To Me (feat. Robin Bengtsson)",
         "url": "https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 160949,
       "name": "Everytime Next To Me (feat. Robin Bengtsson)",
       "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
+      },
+      "artists": [
+        {
+          "name": "HEATT",
+          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/6Y7JwDOKKOZPjvcLVQxoDc"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 180000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1fg2EDQRqMdrkDZE0JS2Wu"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
-      },
-      "artists": [
-        {
-          "name": "HEATT",
-          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
     },
     {
       "added_at": "2024-06-20 22:00:00",

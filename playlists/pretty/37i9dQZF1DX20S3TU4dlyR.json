@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I",
-  "num_followers": 60362,
+  "num_followers": 60399,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Circunvalaci\u00f3n",
-      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Circunvalaci\u00f3n",
+      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -1227,18 +1211,34 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Ahora Lo S\u00e9",
-        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 256372,
-      "name": "Ahora Lo S\u00e9",
-      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 265216,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
+        "name": "Ahora Lo S\u00e9",
+        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 265216,
-      "name": "Este Mundo",
-      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+      "duration_ms": 256372,
+      "name": "Ahora Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "\u00bfQMH?",
-        "url": "https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3"
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
       },
       "artists": [
         {
-          "name": "J Gonz",
-          "url": "https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL"
-        },
-        {
-          "name": "n.a.n.o",
-          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
         }
       ],
-      "duration_ms": 213000,
-      "name": "\u00bfQMH?",
-      "url": "https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP"
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
     },
     {
       "added_at": "2024-06-28 03:00:00",

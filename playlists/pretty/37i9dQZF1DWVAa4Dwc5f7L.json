@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Chino & Nacho",
-  "num_followers": 382220,
+  "num_followers": 382263,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
+      },
+      "artists": [
+        {
+          "name": "Victor Drija",
+          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
+        },
+        {
+          "name": "Sixto Rein",
+          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
+        },
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 198964,
       "name": "Vivo De Tus Recuerdos",
       "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "No Somos Iguales",
-        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
-      },
-      "artists": [
-        {
-          "name": "Victor Drija",
-          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
-        },
-        {
-          "name": "Sixto Rein",
-          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
-        },
-        {
-          "name": "Gustavo Elis",
-          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "No Somos Iguales",
-      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Merengue De hoy",
         "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
     },
     {
       "added_at": "2024-06-28 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: BLUE ENCOUNT",
+  "description": "The biggest rock artists in Japan right now!  Cover: ASIAN KUNG-FU GENERATION",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -1430,6 +1430,24 @@
       "duration_ms": 220580,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
     },
     {
       "album": {
@@ -3268,6 +3286,24 @@
       "duration_ms": 163898,
       "name": "Getmeee!",
       "url": "https://open.spotify.com/track/4pnjJjg97zROrEz6x37H5N"
+    },
+    {
+      "album": {
+        "name": "gg\u71e6\u7136",
+        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149839,
+      "name": "gg\u71e6\u7136",
+      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
     },
     {
       "album": {
@@ -8643,6 +8679,24 @@
     },
     {
       "album": {
+        "name": "Sharon",
+        "url": "https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281234,
+      "name": "Sharon",
+      "url": "https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp"
+    },
+    {
+      "album": {
         "name": "Tsuki no Maboroshi ~ Remix works ~",
         "url": "https://open.spotify.com/album/677gGniYchInGseMSycVKe"
       },
@@ -10932,7 +10986,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -13520,7 +13574,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 265500,
       "name": "\u30b3\u30d0\u30eb\u30c8\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/48kgW2worhXNFJJ2KN9yEr"
@@ -13798,7 +13852,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 182880,
       "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
@@ -14767,6 +14821,24 @@
     },
     {
       "album": {
+        "name": "\u53ea\u8005",
+        "url": "https://open.spotify.com/album/01xhc1hZe4rw2wBsyAfEx4"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242233,
+      "name": "\u30d6\u30e9\u30c3\u30af\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6lvdyqaocfdhmmN7yYs3fz"
+    },
+    {
+      "album": {
         "name": "BEST HIT AKG 2 (2012-2018)",
         "url": "https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma"
       },
@@ -15168,7 +15240,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 366400,
       "name": "\u30e1\u30eb\u30d8\u30f3",
       "url": "https://open.spotify.com/track/4gp25ETHsJpWG0aA1H2RxJ"
@@ -15438,7 +15510,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
       "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
@@ -19154,6 +19226,24 @@
       "duration_ms": 243346,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
+    },
+    {
+      "album": {
+        "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+        "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+      "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
     },
     {
       "album": {

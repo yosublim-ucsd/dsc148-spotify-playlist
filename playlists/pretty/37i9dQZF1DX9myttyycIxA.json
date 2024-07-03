@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Been Stellar",
-  "num_followers": 296061,
+  "num_followers": 296078,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAAAl/MJVarwh0hvD3ov5qQPe",
+  "snapshot_id": "ZoR0ewAAAAC82pN2AC4TO8gUaKDoK/U0",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
+    {
+      "added_at": "2024-07-02 21:43:23",
+      "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/73qPQ90oHCO3CN00GkEyRE"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
+        }
+      ],
+      "duration_ms": 267828,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/3TrnJe4PR4xRtrY6vElta3"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1595,38 +1611,6 @@
       "duration_ms": 68000,
       "name": "Thanks",
       "url": "https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Melt the Honey",
-        "url": "https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 163775,
-      "name": "Her Garden",
-      "url": "https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "why aren't you laughing?",
-        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 253745,
-      "name": "rot in love",
-      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
     }
   ],
   "unique_name": "undercurrents",

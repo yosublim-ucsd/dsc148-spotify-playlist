@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "ANIYA",
+        "url": "https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "ANIYA",
+      "url": "https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k"
+    },
+    {
+      "album": {
         "name": "1,2,3..",
         "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
       },

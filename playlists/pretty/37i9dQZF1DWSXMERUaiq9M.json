@@ -1,6 +1,6 @@
 {
   "description": "love peace techno",
-  "num_followers": 253000,
+  "num_followers": 253169,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Eros Massacre",
+        "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 250145,
+      "name": "Romantika",
+      "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Space Train",
         "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 146080,
       "name": "Space Train",
       "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Eros Massacre",
-        "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 250145,
-      "name": "Romantika",
-      "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "EINS ZWEI",
+        "url": "https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40"
+      },
+      "artists": [
+        {
+          "name": "ZAPRAVKA",
+          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "EINS ZWEI",
+      "url": "https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 151688,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "EINS ZWEI",
-        "url": "https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40"
-      },
-      "artists": [
-        {
-          "name": "ZAPRAVKA",
-          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "EINS ZWEI",
-      "url": "https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF"
     },
     {
       "added_at": "2024-06-27 22:00:00",

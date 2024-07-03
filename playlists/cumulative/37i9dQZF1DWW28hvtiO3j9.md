@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-127 songs - 9 hr 25 min
+128 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [It's So Creamy](https://open.spotify.com/track/2WY5fw5RRAdNnTMV1KGr5M) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK](https://open.spotify.com/album/2KdA0eZh5kenzjSKfPAriM) | 3:42 | 2022-05-24 | 2022-07-19 |
 | [It's So Creamy](https://open.spotify.com/track/2gdcHMSgaiMx3Ds2L4XCwX) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:43 | 2023-03-21 |  |
 | [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 | 2022-06-28 | 2024-04-19 |
-| [Jazzy Night](https://open.spotify.com/track/0yUrdEfnIM3AZX0nxFFruY) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:50 | 2022-06-28 |  |
+| [Jazzy Night](https://open.spotify.com/track/0yUrdEfnIM3AZX0nxFFruY) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:50 | 2022-06-28 | 2024-07-03 |
 | [Jazzy Night](https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Who Are You?](https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD) | 3:51 | 2022-06-28 | 2024-04-19 |
 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 | 2023-02-02 | 2024-02-20 |
 | [Just a Joke](https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 3:09 | 2022-05-24 |  |
@@ -52,7 +52,7 @@
 | [Mystical Composer](https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 5:08 | 2022-06-28 | 2023-12-08 |
 | [Mystical Composer](https://open.spotify.com/track/1SMO3yVhfUaCgVZ8Tj4j5a) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/3WwmbDTzRRW9ucbwxsU4Zn) | 5:08 | 2022-05-24 | 2022-07-26 |
 | [Mystical Composer](https://open.spotify.com/track/70aHCdlGCMaUmoFRyrA8gO) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf) | 5:08 | 2023-03-21 | 2024-04-19 |
-| [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 | 2022-05-24 |  |
+| [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 | 2022-05-24 | 2024-07-03 |
 | [Ocean Side](https://open.spotify.com/track/6MMxBWWNfZKCi0hcTN6qqH) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/6IurTWoag2oF0yomZhMToU) | 4:38 | 2022-05-24 | 2022-07-29 |
 | [Ocean Side](https://open.spotify.com/track/6T0a8AFfS62waTXaTAIhWR) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/43MH8ZrLAL15xHRmIyAr46) | 4:38 | 2023-03-21 | 2024-04-19 |
 | [Ocean Side](https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/0luQvYcktzmxqbeCZ9owhw) | 4:38 | 2022-06-28 | 2023-12-08 |
@@ -99,7 +99,7 @@
 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 | 2022-05-24 |  |
 | [ストローハットの夏想い](https://open.spotify.com/track/34qHfYkG7xZsc2INlnf2M3) | [Yuki Saito](https://open.spotify.com/artist/3b1ILSjPEq1AXyfmZXkPGr) | [チャイム <リマスター盤>](https://open.spotify.com/album/0KowZMTAsk3v3X9b5LHUUI) | 4:17 | 2022-05-24 | 2022-07-29 |
 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 | 2022-05-24 |  |
-| [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 | 2022-05-24 | 2024-06-03 |
+| [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 | 2022-05-24 |  |
 | [テレフォン・ナンバー](https://open.spotify.com/track/0ks0jOCQblDOfJnB9gPmN2) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [City Pop Essentials Vol\. 1](https://open.spotify.com/album/4jJFvy7vL4YtVs3RFb7c2N) | 3:59 | 2022-06-28 | 2022-09-11 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [Tea For Tears](https://open.spotify.com/album/4ZU8Zd85xbSpve4xsqynqA) | 3:59 | 2022-05-24 |  |
 | [テレフォン・ナンバー](https://open.spotify.com/track/3kkhLmINLkhrhJMU8zVb2c) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [シティーポップ](https://open.spotify.com/album/1V8DQ5bDaNyFZaRyRkfvsg) | 3:59 | 2023-03-21 | 2023-07-14 |
@@ -116,6 +116,7 @@
 | [堤防](https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [Fluorescent Lamp](https://open.spotify.com/album/1QT6NeEA9ipoIlnxFf9MZ4) | 4:24 | 2022-05-24 | 2022-07-27 |
 | [夏と秋のGood\-Luck](https://open.spotify.com/track/2mYULlDHrU6okgNls8rIBM) | [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [Thanks Giving](https://open.spotify.com/album/75dMYkPm0XQZkvtaBXxGmO) | 4:39 | 2022-05-24 | 2022-07-29 |
 | [思い出のビーチクラブ](https://open.spotify.com/track/6ynyyNv3m9ghqePgtDUQCE) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一 meets 林哲司](https://open.spotify.com/album/7AVLTM7be4utQhJ3yPBc89) | 4:37 | 2022-05-24 |  |
+| [恋は最高（I'M IN LOVE）](https://open.spotify.com/track/0EaWi0WP5FY3TghSiwPtGK) | [高村亜留](https://open.spotify.com/artist/7dsg5iAObyLnUFh6bt7TIj) | [ARU FIRST](https://open.spotify.com/album/0QB9S3M45omHlL5jGeLLsV) | 4:26 | 2024-07-02 |  |
 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 | 2022-05-24 |  |
 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 | 2022-06-28 |  |
 | [指切り](https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [大瀧詠一 乗合馬車\(Omnibus\) 50th Anniversary Edition](https://open.spotify.com/album/1uUVkfscVqO6dvHEmURoLp) | 3:36 | 2023-03-21 |  |

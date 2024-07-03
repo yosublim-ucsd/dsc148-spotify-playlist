@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9532,
+  "num_followers": 9544,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACL/cy0I85KZISp3hSCxmm+",
+  "snapshot_id": "ZoHxgAAAAABbo0pN2iPgJD7uwz/18Hvs",
   "tracks": [
     {
       "added_at": null,
@@ -523,42 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrate Me",
-        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Celebrate Me",
-      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alagbe",
-        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Magbe (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
       },
@@ -575,26 +539,6 @@
       "duration_ms": 252200,
       "name": "Together",
       "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
       "added_at": null,
@@ -619,26 +563,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Boy",
-        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 217710,
-      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
-      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alagbe",
+        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Magbe (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
     },
     {
       "added_at": null,
@@ -659,6 +619,30 @@
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Golden Boy",
+        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
     },
     {
       "added_at": null,
@@ -763,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing My Name",
-        "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
-      },
-      "artists": [
-        {
-          "name": "MzVee",
-          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 214769,
-      "name": "Sing My Name",
-      "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Africa Unite",
         "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
@@ -799,6 +763,26 @@
       "duration_ms": 153057,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing My Name",
+        "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
+      },
+      "artists": [
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 214769,
+      "name": "Sing My Name",
+      "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
     },
     {
       "added_at": null,
@@ -847,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 194417,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roll On Me",
         "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
       },
@@ -879,26 +883,6 @@
       "duration_ms": 190615,
       "name": "Roll On Me",
       "url": "https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 194417,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
     },
     {
       "added_at": null,
@@ -1083,6 +1067,26 @@
       "duration_ms": 206250,
       "name": "Feelings - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chorus Leader",
+        "url": "https://open.spotify.com/album/4XixgWokwCKbYfghBiJIN5"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 179892,
+      "name": "Na So E Be",
+      "url": "https://open.spotify.com/track/683L171GQXtmrAVIobSftl"
     }
   ],
   "unique_name": "This Is Patoranking",

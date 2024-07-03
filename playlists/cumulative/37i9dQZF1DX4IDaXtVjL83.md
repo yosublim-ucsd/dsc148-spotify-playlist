@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JUNNY, Levent Geiger\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: BE:FIRSTxATEEZ\)
 
-182 songs - 9 hr 40 min
+183 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-03-05 |  |
 | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T) | 2:43 | 2022-10-25 | 2024-05-18 |
 | [HULA HOOP](https://open.spotify.com/track/2YVzshKzFglQLBXPYNpGI8) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HULA HOOP / StarSeed \~カクセイ\~](https://open.spotify.com/album/7GQdWx1bMvrbVBOtCa829d) | 3:19 | 2021-12-20 | 2022-03-05 |
+| [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-02 |  |
 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 | 2021-12-20 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-12-20 | 2022-06-23 |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-06 |  |

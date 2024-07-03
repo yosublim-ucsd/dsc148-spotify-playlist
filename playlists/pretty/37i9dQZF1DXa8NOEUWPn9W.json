@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Dom Dolla",
-  "num_followers": 1932843,
+  "num_followers": 1933371,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 169302,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1855,50 +1855,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Stay Together (Baby Baby) [feat. Vula]",
-        "url": "https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "Vula",
-          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
-        }
-      ],
-      "duration_ms": 156022,
-      "name": "Stay Together (Baby Baby) [feat. Vula]",
-      "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD"
       },
@@ -1939,6 +1895,50 @@
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Stay Together (Baby Baby) [feat. Vula]",
+        "url": "https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "Vula",
+          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
+        }
+      ],
+      "duration_ms": 156022,
+      "name": "Stay Together (Baby Baby) [feat. Vula]",
+      "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Give It To Me Good",
         "url": "https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT"
       },
@@ -2091,18 +2107,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 133234,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
+      "duration_ms": 150000,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2143,22 +2159,6 @@
       "duration_ms": 200624,
       "name": "I Am The One",
       "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2271,6 +2271,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
       },
@@ -2291,26 +2311,6 @@
       "duration_ms": 176185,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM"
-      },
-      "artists": [
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Calling / Like A Train",
-        "url": "https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 192191,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "We Like To Party (Rework)",
         "url": "https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu"
       },
@@ -2387,6 +2367,26 @@
       "duration_ms": 144052,
       "name": "We Like To Party - Rework",
       "url": "https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Calling / Like A Train",
+        "url": "https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 192191,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Make My Body Move (Radio Edit)",
         "url": "https://open.spotify.com/album/4v8ciFogaelHyb8jm1hGEZ"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 199091,
       "name": "Make My Body Move",
       "url": "https://open.spotify.com/track/3RftcZWMId2TQt95YRXKTQ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
     },
     {
       "added_at": "2024-06-28 04:00:00",

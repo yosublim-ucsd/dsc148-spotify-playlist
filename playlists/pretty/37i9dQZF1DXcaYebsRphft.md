@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 6月26\-27日に東京ドームにて行われたNewJeans Fan Meeting「Bunnies Camp 2024 Tokyo Dome」のセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,278 likes - 16 songs - 45 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,427 likes - 16 songs - 45 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

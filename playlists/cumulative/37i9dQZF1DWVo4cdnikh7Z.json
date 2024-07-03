@@ -7903,6 +7903,28 @@
     },
     {
       "album": {
+        "name": "Garam Garam [From \"Surya's Saturday (Tamil)\"]",
+        "url": "https://open.spotify.com/album/5IfI7D1xkrpcUYRGabJaX5"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sivam",
+          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Garam Garam (From \"Surya's Saturday (Tamil)\")",
+      "url": "https://open.spotify.com/track/48vDnKu7yyhIka68bH93Bb"
+    },
+    {
+      "album": {
         "name": "Ghora Hara (From \"Captain Miller\")",
         "url": "https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH"
       },
@@ -13674,7 +13696,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 187346,
       "name": "Kutty Kudiye",
       "url": "https://open.spotify.com/track/7ngM1S4iCIC5awlNYjdOd9"
@@ -21144,7 +21166,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 359786,
       "name": "PATHIKATHA THEE",
       "url": "https://open.spotify.com/track/1th3PfaVxvE0IP4q2aAoyW"
@@ -25366,6 +25388,36 @@
       "duration_ms": 260806,
       "name": "Starlight (From \"Musasi\")",
       "url": "https://open.spotify.com/track/241RIrJhb5FkuLSE9h9I6Z"
+    },
+    {
+      "album": {
+        "name": "Double ISMART (Tamil)",
+        "url": "https://open.spotify.com/album/4DBc3zAiZ4oDkHAyuAO0TU"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Sunandhan",
+          "url": "https://open.spotify.com/artist/1TdX02ny0RNoEGgNERMEEc"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "D.Mohan Kumar",
+          "url": "https://open.spotify.com/artist/1ZNjvrF2WSxwtLYrPIPfQQ"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232599,
+      "name": "SteppaMaar",
+      "url": "https://open.spotify.com/track/1neavjLyyP0ZOa5Fy48BES"
     },
     {
       "album": {
@@ -31136,7 +31188,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 234831,
       "name": "Vethala - From \"Romeo\"",
       "url": "https://open.spotify.com/track/6oV0qC54eVBfUSZs3CACyC"

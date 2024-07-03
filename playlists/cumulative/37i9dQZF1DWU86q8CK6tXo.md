@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: DOE
 
-1,431 songs - 3 day 4 hr 12 min
+1,432 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-11-30 | 2023-01-05 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-07-06 | 2023-07-06 |
 | [Breakfast](https://open.spotify.com/track/7gygfVgY0gkllxWcumo2oD) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 2:28 | 2023-11-29 | 2024-01-27 |
-| [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 | 2024-06-01 |  |
+| [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 | 2024-06-01 | 2024-07-03 |
 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 | 2022-10-05 | 2022-11-03 |
 | [Bring It Back](https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Bring It Back](https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb) | 2:58 | 2023-09-06 | 2023-10-05 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-07-06 | 2022-08-04 |
@@ -719,6 +719,7 @@
 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-06-01 | 2024-07-02 |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2023-01-04 | 2023-02-02 |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-08 | 2023-11-30 |
+| [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-07-02 |  |
 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 | 2023-03-01 | 2023-04-06 |
 | [Lady Like \- Deepend Remix](https://open.spotify.com/track/02s4EO6gl9uxfu1JziEIkZ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deepend Remix\)](https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD) | 3:05 | 2022-02-02 | 2022-03-09 |
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-03-08 | 2022-04-07 |

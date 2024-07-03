@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Jelani Aryeh",
-  "num_followers": 46964,
+  "num_followers": 46989,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-06-17 17:10:47",
       "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 196724,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
+    },
+    {
+      "added_at": "2024-06-17 17:10:47",
+      "album": {
         "name": "Junebug (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 225384,
       "name": "Junebug (feat. JPEGMAFIA)",
       "url": "https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7"
-    },
-    {
-      "added_at": "2024-06-17 17:10:47",
-      "album": {
-        "name": "I'm in Love",
-        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 196724,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
       "added_at": "2024-06-17 17:10:47",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-06-17 17:10:47",
       "album": {
+        "name": "Shudder",
+        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 167271,
+      "name": "Shudder",
+      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
+    },
+    {
+      "added_at": "2024-06-17 17:10:47",
+      "album": {
         "name": "The End of the World",
         "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
-    },
-    {
-      "added_at": "2024-06-17 17:10:47",
-      "album": {
-        "name": "Shudder",
-        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Shudder",
-      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
     }
   ],
   "unique_name": "Indie Frequency",

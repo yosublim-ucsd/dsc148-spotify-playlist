@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 517,
+  "num_followers": 518,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAA/JQP98o4F8AYaUi2jKoHN",
+  "snapshot_id": "ZoHxgAAAAADW0ldj1LcH5l94mY7+yCih",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 74046,
-      "name": "Methuen Home For Children 1957",
-      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
+      "duration_ms": 78496,
+      "name": "The Scholar's Mate",
+      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78496,
-      "name": "The Scholar's Mate",
-      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+      "duration_ms": 74046,
+      "name": "Methuen Home For Children 1957",
+      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 59669,
-      "name": "THE LAST CIGARETTE",
-      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ezra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 161529,
       "name": "Last Letter",
       "url": "https://open.spotify.com/track/04tnxnuNA5FbR2Uzqlabs0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Season 1 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 124424,
-      "name": "Young Deb When She Was Happy",
-      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

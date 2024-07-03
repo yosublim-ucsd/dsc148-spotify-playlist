@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9798,
+  "num_followers": 9800,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
-      },
-      "artists": [
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "SHIT SHOW (feat. Leellamarz)",
-      "url": "https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "SHIT SHOW (feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
         "name": "HESITATING",
         "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 178706,
       "name": "JUST RIGHT (feat. SOLE)",
       "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
     }
   ],
   "unique_name": "\uc378 (Something)",

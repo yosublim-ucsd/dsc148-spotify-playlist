@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-62 songs - 3 hr 22 min
+64 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 |  |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
+| [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-07-02 |  |
 | [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 | 2024-05-09 |  |
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 |  |
 | [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
@@ -59,6 +60,7 @@
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 |  |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 |  |
 | [Something Casual](https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Something Casual](https://open.spotify.com/album/28TW1djKaHKzXtrGeu4etl) | 3:20 | 2023-11-09 |  |
+| [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-07-02 |  |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2023-11-09 |  |
 | [Take It Slow](https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY) | 2:50 | 2023-11-09 | 2024-04-19 |
 | [Take It Slow](https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/0yvYev6X53DfOZ5zWfLTDN) | 2:50 | 2023-11-09 |  |

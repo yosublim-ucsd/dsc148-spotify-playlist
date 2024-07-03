@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Cancamusa.",
-  "num_followers": 121858,
+  "num_followers": 121853,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,26 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Cool & Casual",
         "url": "https://open.spotify.com/album/3z1lTlNi3AQ7g9Sh1TyPMD"
       },
@@ -107,26 +127,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -147,26 +147,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Vuela Lejos",
-        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 307414,
-      "name": "Vuela Lejos",
-      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Herida",
         "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 230400,
       "name": "Te lo pido por favor",
       "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Vuela Lejos",
+        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 307414,
+      "name": "Vuela Lejos",
+      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "(re)definiciones",
-        "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "otr(a v)ez",
-      "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Vamos Muchacho",
         "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
       },
@@ -327,6 +311,26 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/4DEeGVOrUD6twDDYbMFfgF"
+      },
+      "artists": [
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        },
+        {
+          "name": "Natalia Spiner",
+          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1wqRF4XJeKXvVV3BcTyluo"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Que Nunca Pare",
         "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
@@ -339,6 +343,22 @@
       "duration_ms": 204133,
       "name": "Que Nunca Pare",
       "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "(re)definiciones",
+        "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "otr(a v)ez",
+      "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -379,26 +399,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/4DEeGVOrUD6twDDYbMFfgF"
-      },
-      "artists": [
-        {
-          "name": "Spiral Vortex",
-          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
-        },
-        {
-          "name": "Natalia Spiner",
-          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1wqRF4XJeKXvVV3BcTyluo"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Decir Amor",
         "url": "https://open.spotify.com/album/2vFPk48Kx3R91Zr3RwyGTv"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 242382,
       "name": "Prometer algo",
       "url": "https://open.spotify.com/track/4MVktX0iySLlTxm3xFkOat"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2agLg7JdXzVDGYIJBjuUMU"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "A la Distancia",
-      "url": "https://open.spotify.com/track/0KH6xMLizlGJe0VXSjXYBn"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 164960,
       "name": "Eres Mi Pena",
       "url": "https://open.spotify.com/track/4qlLAiasfd3rYojFV7lBza"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2agLg7JdXzVDGYIJBjuUMU"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "A la Distancia",
+      "url": "https://open.spotify.com/track/0KH6xMLizlGJe0VXSjXYBn"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "formas de volver a casa",
-        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 153065,
-      "name": "formas de volver a casa",
-      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Pangal",
         "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 174325,
       "name": "Pangal",
       "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "formas de volver a casa",
+        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "formas de volver a casa",
+      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Abrazo Fantasma",
         "url": "https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn"
       },
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Palpitar",
-        "url": "https://open.spotify.com/album/5B6QXKGSHcLCvz870d0xCp"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
       },
       "artists": [
         {
-          "name": "Reina Luisa",
-          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
-        },
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Palpitar",
-      "url": "https://open.spotify.com/track/6s5dZcWKi81oGSRgxii14a"
+      "duration_ms": 163885,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -819,34 +815,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
+        "name": "Palpitar",
+        "url": "https://open.spotify.com/album/5B6QXKGSHcLCvz870d0xCp"
       },
       "artists": [
         {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 163885,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Piel de Cristal",
-        "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
-      },
-      "artists": [
+          "name": "Reina Luisa",
+          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+        },
         {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 286976,
-      "name": "Piel de Cristal",
-      "url": "https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr"
+      "duration_ms": 199000,
+      "name": "Palpitar",
+      "url": "https://open.spotify.com/track/6s5dZcWKi81oGSRgxii14a"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -863,6 +847,22 @@
       "duration_ms": 208441,
       "name": "Lo Que No Hablas",
       "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Piel de Cristal",
+        "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "duration_ms": 286976,
+      "name": "Piel de Cristal",
+      "url": "https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Vamos para Atr\u00e1s",
-        "url": "https://open.spotify.com/album/664XtuS2twoeyTSwfqKIgE"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 254285,
-      "name": "Vamos para Atr\u00e1s",
-      "url": "https://open.spotify.com/track/4nDERktPgJp6goDn4u5qtc"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Una Mitad de M\u00ed",
         "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "IKARO",
-        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+        "name": "Vamos para Atr\u00e1s",
+        "url": "https://open.spotify.com/album/664XtuS2twoeyTSwfqKIgE"
       },
       "artists": [
         {
-          "name": "Planetario",
-          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
         }
       ],
-      "duration_ms": 363750,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
+      "duration_ms": 254285,
+      "name": "Vamos para Atr\u00e1s",
+      "url": "https://open.spotify.com/track/4nDERktPgJp6goDn4u5qtc"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 197566,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "IKARO",
+        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+      },
+      "artists": [
+        {
+          "name": "Planetario",
+          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+        }
+      ],
+      "duration_ms": 363750,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1039,22 +1039,26 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Rapapapaum",
-        "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
       "artists": [
         {
-          "name": "Mouzeh",
-          "url": "https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Blazer",
-          "url": "https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA"
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        },
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
         }
       ],
-      "duration_ms": 170057,
-      "name": "Rapapapaum",
-      "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
+      "duration_ms": 221610,
+      "name": "ELLA (CAE LA NOCHE)",
+      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1079,26 +1083,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
+        "name": "Rapapapaum",
+        "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Mouzeh",
+          "url": "https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy"
         },
         {
-          "name": "Sergio Escribano",
-          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
-        },
-        {
-          "name": "Escaparate de Poes\u00eda",
-          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
+          "name": "Blazer",
+          "url": "https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA"
         }
       ],
-      "duration_ms": 221610,
-      "name": "ELLA (CAE LA NOCHE)",
-      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+      "duration_ms": 170057,
+      "name": "Rapapapaum",
+      "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Riley (S)",
         "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+        "name": "Casinaranja",
+        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
         }
       ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+      "duration_ms": 219031,
+      "name": "Tenemos que cocinar",
+      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 220856,
       "name": "Poemas por DM",
       "url": "https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Casinaranja",
-        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 219031,
-      "name": "Tenemos que cocinar",
-      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Barreras de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Barreras de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "entre las sombras,",
         "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Barreras de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
-      },
-      "artists": [
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Barreras de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+      },
+      "artists": [
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        }
+      ],
+      "duration_ms": 174654,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Cae la Noche",
         "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 190681,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
-      },
-      "artists": [
-        {
-          "name": "Benji B",
-          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
-        }
-      ],
-      "duration_ms": 174654,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "added_at": "2024-06-28 03:00:00",

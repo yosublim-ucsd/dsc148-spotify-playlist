@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,196 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,257 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 48 | [I Found a New Baby](https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh) | [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6) | [The Genius Of The Electric Guitar](https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV) | 2:54 |
 | 49 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
 | 50 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
-| 51 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
-| 52 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
+| 51 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
+| 52 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
 | 53 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
 | 54 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
 | 55 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 7881,
+  "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 7900,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAA4WMiadM00fLiYZrbjyVY+",
+  "snapshot_id": "ZoHxgAAAAABNvM8NUXf1cSrV6vBGSE5Y",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
+      },
+      "artists": [
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 130307,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 2",
         "url": "https://open.spotify.com/album/7MyEI58jpFnvdNlVJS3UXX"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 556662,
       "name": "Poetisas no Topo 2",
       "url": "https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
-      },
-      "artists": [
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 130307,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
     },
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoota (feat. Lourena & Ebony)",
+        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 212580,
+      "name": "Shoota (feat. Lourena & Ebony)",
+      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Stars 2020 Pnpl",
         "url": "https://open.spotify.com/album/6e6K1bmmlzkYyN7YzHA1m2"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 280000,
       "name": "Fresh Stars 2020 Pnpl",
       "url": "https://open.spotify.com/track/5ESaWLOFADAep7uQby52Hm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoota (feat. Lourena & Ebony)",
-        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 212580,
-      "name": "Shoota (feat. Lourena & Ebony)",
-      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
     },
     {
       "added_at": null,
@@ -947,6 +947,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real #1",
+        "url": "https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Shok",
+          "url": "https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA"
+        }
+      ],
+      "duration_ms": 164631,
+      "name": "Real #1",
+      "url": "https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Ghost",
         "url": "https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W"
       },
@@ -975,34 +1003,6 @@
       "duration_ms": 212740,
       "name": "Important",
       "url": "https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real #1",
-        "url": "https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L"
-      },
-      "artists": [
-        {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Shok",
-          "url": "https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA"
-        }
-      ],
-      "duration_ms": 164631,
-      "name": "Real #1",
-      "url": "https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ"
     },
     {
       "added_at": null,

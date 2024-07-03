@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-290 songs - 17 hr 16 min
+290 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 | 2023-04-28 | 2023-07-15 |
 | [That's On You \- Japanese Remix](https://open.spotify.com/track/56Vy5lJUoHTI90MMnyI2CM) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 2:47 | 2022-02-25 | 2022-12-21 |
 | [That's Why I Love You \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/3Ku9kSWtDQPC8bSWpHR7z0) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 4:01 | 2022-02-25 | 2022-04-09 |
-| [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2023-11-10 |  |
+| [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 | 2023-11-10 |  |
 | [The Pressure](https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out](https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG) | 3:57 | 2022-07-01 | 2023-09-09 |
 | [The Pressure](https://open.spotify.com/track/6y6349tNafoiPlduSVAz9A) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out](https://open.spotify.com/album/5woG5ibnPu19KmlOL9Olw4) | 3:57 | 2022-02-25 | 2022-07-29 |
 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 | 2024-02-16 |  |

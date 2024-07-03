@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 84028,
+  "num_followers": 84059,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+        "name": "Estou Contigo",
+        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+      "duration_ms": 249344,
+      "name": "Estou Contigo",
+      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -343,18 +343,34 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Estou Contigo",
-        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 249344,
-      "name": "Estou Contigo",
-      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Tempo de Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 229408,
+      "name": "Tempo de Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -375,22 +391,6 @@
       "duration_ms": 187937,
       "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
       "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Tempo de Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 229408,
-      "name": "Tempo de Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 284505,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
-      },
-      "artists": [
-        {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
-        }
-      ],
-      "duration_ms": 287927,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 287927,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -571,6 +571,26 @@
       "duration_ms": 200562,
       "name": "A Terra e o Lavrador",
       "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "duration_ms": 293540,
+      "name": "A Casa",
+      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -623,38 +643,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 239728,
-      "name": "Adorador por Excel\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Estou de Volta",
         "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
@@ -671,22 +659,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "A Casa",
-        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
         }
       ],
-      "duration_ms": 293540,
-      "name": "A Casa",
-      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+      "duration_ms": 239728,
+      "name": "Adorador por Excel\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "Quem Foi Que Me Tocou",
         "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 281002,
       "name": "Quem Foi Que Me Tocou",
       "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Deus \u00c9 Fiel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
       "artists": [
         {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
         }
       ],
-      "duration_ms": 269159,
-      "name": "Deus \u00c9 Fiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+        }
+      ],
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "A Resposta \u00c9 Deus",
         "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
       },
@@ -859,18 +859,38 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+        "name": "Deus \u00c9 Fiel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
       },
       "artists": [
         {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
+      "duration_ms": 269159,
+      "name": "Deus \u00c9 Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Aquele Que Morreu na Cruz",
+        "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        },
+        {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        }
+      ],
+      "duration_ms": 203769,
+      "name": "Aquele Que Morreu na Cruz",
+      "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -907,26 +927,6 @@
       "duration_ms": 243714,
       "name": "Contigo At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Aquele Que Morreu na Cruz",
-        "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        },
-        {
-          "name": "Rayssa Peres",
-          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
-        }
-      ],
-      "duration_ms": 203769,
-      "name": "Aquele Que Morreu na Cruz",
-      "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
     },
     {
       "added_at": "2024-06-28 03:01:00",

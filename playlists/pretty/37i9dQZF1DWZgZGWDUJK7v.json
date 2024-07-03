@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: A Not So Fairy Tale(\uc120\ub140\uc678\uc804)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 89627,
+  "num_followers": 89660,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "Meeting (The Moon during the Day) [2023 Remake]",
+        "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Meeting (The Moon during the Day) [2023 Remake]",
+      "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
         "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Meeting (The Moon during the Day) [2023 Remake]",
-        "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Meeting (The Moon during the Day) [2023 Remake]",
-      "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
       },
@@ -807,6 +787,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Lost Way (Good Doctor X Gaho)",
         "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
       },
@@ -823,18 +819,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
       },
       "artists": [
         {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
-      },
-      "artists": [
-        {
-          "name": "Weeky1",
-          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Should we walk hand in hand?",
-      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "The Holy Idol (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 182469,
       "name": "If we\u2026",
       "url": "https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
+      },
+      "artists": [
+        {
+          "name": "Weeky1",
+          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Should we walk hand in hand?",
+      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc5ec\uae30 \ubcf4\uc138\uc694, \ub9c8\uc655\ub2d8! OST Part.5 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5hrKQtOgXHD1IFA6H8d74J"
-      },
-      "artists": [
-        {
-          "name": "Lee Dong Yoon",
-          "url": "https://open.spotify.com/artist/1lUg902ZVImCAZw029ZhVe"
-        }
-      ],
-      "duration_ms": 229891,
-      "name": "I miss you like crazy",
-      "url": "https://open.spotify.com/track/4wioWVD9Ob0c4M0VTFh3XX"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Dr. Choi Ki Seok (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6jcnqltbs1c31gfYAN1lFJ"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
-        "url": "https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX"
+        "name": "\uc5ec\uae30 \ubcf4\uc138\uc694, \ub9c8\uc655\ub2d8! OST Part.5 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5hrKQtOgXHD1IFA6H8d74J"
       },
       "artists": [
         {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+          "name": "Lee Dong Yoon",
+          "url": "https://open.spotify.com/artist/1lUg902ZVImCAZw029ZhVe"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
-      "url": "https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir"
+      "duration_ms": 229891,
+      "name": "I miss you like crazy",
+      "url": "https://open.spotify.com/track/4wioWVD9Ob0c4M0VTFh3XX"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1243,6 +1227,22 @@
       "duration_ms": 248063,
       "name": "a trace of you",
       "url": "https://open.spotify.com/track/6tyvohlALbw5BFxF4coKIA"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
+        "url": "https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
+      "url": "https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "I Wasn't the Cinderella OST part 2 (Soundtrack)",
-        "url": "https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y"
+        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
       },
       "artists": [
         {
-          "name": "Seo Moon Tak",
-          "url": "https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G"
+          "name": "Panini Brunch",
+          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
         }
       ],
-      "duration_ms": 258573,
-      "name": "\uc774 \ubc24\uc744 \uc9c0\ub098",
-      "url": "https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx"
+      "duration_ms": 269747,
+      "name": "All I have left is separation",
+      "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c (Original Soundtrack), Pt1",
-        "url": "https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX"
+        "name": "I Wasn't the Cinderella OST part 2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y"
       },
       "artists": [
         {
-          "name": "Ran",
-          "url": "https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS"
+          "name": "Seo Moon Tak",
+          "url": "https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G"
         }
       ],
-      "duration_ms": 253218,
-      "name": "Is it all right",
-      "url": "https://open.spotify.com/track/0KngKTAh6HAlvAWp1rmmrj"
+      "duration_ms": 258573,
+      "name": "\uc774 \ubc24\uc744 \uc9c0\ub098",
+      "url": "https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c (Original Soundtrack), Pt1",
+        "url": "https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX"
+      },
+      "artists": [
+        {
+          "name": "Ran",
+          "url": "https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS"
+        }
+      ],
+      "duration_ms": 253218,
+      "name": "Is it all right",
+      "url": "https://open.spotify.com/track/0KngKTAh6HAlvAWp1rmmrj"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Oh, Boy! OST Part.4 (Soundtrack)",
         "url": "https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 234128,
       "name": "The way I love you",
       "url": "https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
-        "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
-      },
-      "artists": [
-        {
-          "name": "Panini Brunch",
-          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
-        }
-      ],
-      "duration_ms": 269747,
-      "name": "All I have left is separation",
-      "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
     },
     {
       "added_at": "2024-06-24 05:39:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,526 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,540 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 46 | [The Blood \- Live](https://open.spotify.com/track/4cj5LYE9gwRrKxa1EAR3uS) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [The Blood \(Live\)](https://open.spotify.com/album/7ASjo6J74G43eEoWa5pXgF) | 6:14 |
 | 47 | [HOLY IS THE LORD](https://open.spotify.com/track/603PlXRijePY8nILCWWIBQ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [THE LIGHT](https://open.spotify.com/album/1WYEU8QdP2qGQ3afIoDzEF) | 5:12 |
 | 48 | [Falling In Love](https://open.spotify.com/track/3Lpz3Whz7ZNLp6mx2OGLZy) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf) | [Falling In Love](https://open.spotify.com/album/3f8xFwPOXVo9Gz9MCADoua) | 4:03 |
-| 49 | [Surely The Lord Is Here \- Live](https://open.spotify.com/track/65qa06M2UWGJXaPEBmGc6L) | [David's Harp](https://open.spotify.com/artist/4u6suRgjT7ID1pCJRvAXkk), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [David's Harp, Vol\. I \(Live\)](https://open.spotify.com/album/1KB3Q6aftPknWZxygkdSLb) | 9:06 |
+| 49 | [Surely The Lord Is Here \- Live](https://open.spotify.com/track/65qa06M2UWGJXaPEBmGc6L) | [David's Harp](https://open.spotify.com/artist/4u6suRgjT7ID1pCJRvAXkk), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [David's Harp, Vol\. 1 \(Live\)](https://open.spotify.com/album/1KB3Q6aftPknWZxygkdSLb) | 9:06 |
 | 50 | [My Soul Sings \(feat\. Ryan Williams\)](https://open.spotify.com/track/24dNxaTVoa5mdnpY1kWHxR) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Ryan Williams](https://open.spotify.com/artist/3XOmWJtho0aPBQW5uOMuyE) | [My Soul Sings \(Deluxe\)](https://open.spotify.com/album/0t41DXHXJAH1TwDPdosEkr) | 8:49 |
 | 51 | [Undeserving \(Ready For You\)](https://open.spotify.com/track/7zMzRCGESIFqRxWFl51O0J) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Undeserving \(Ready For You\)](https://open.spotify.com/album/58JDtCxbi8kpaV4zYTh1aY) | 4:51 |
 | 52 | [Make Way \- Live \- Single Version](https://open.spotify.com/track/36AAvrFnkYEXKfsw85BcMC) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Make Way](https://open.spotify.com/album/4MMs8PwO2EfjP4XvYuqmqV) | 4:49 |

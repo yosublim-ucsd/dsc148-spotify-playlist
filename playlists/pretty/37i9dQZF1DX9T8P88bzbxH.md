@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Get ready to be mesmerised by alt\-rock trio Hitsujibungaku! Cover: Hitsujibungaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,620 likes - 17 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,586 likes - 17 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

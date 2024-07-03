@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,127 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,128 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 33 | [Momentary Architecture](https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:40 |
 | 34 | [Arabesque 1 \- 2013 Remaster](https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:52 |
 | 35 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
-| 36 | [Note \- Poem by Michael Mcclure](https://open.spotify.com/track/4WwBgTjX0flq7O24n5pd0O) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f), [Jessica Karraker](https://open.spotify.com/artist/1HcLZmhJNwYJqmYt6UGIaq) | [Walk into My Voice \(American Beat Poetry\)](https://open.spotify.com/album/1j56unWUj9tJXybKXW2QWr) | 0:36 |
+| 36 | [The White Arcades](https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN) | 4:44 |
 | 37 | [Sunlit Silhouette](https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:15 |
 | 38 | [Porcelain Ginger \- 2013 Remaster](https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:58 |
 | 39 | [Nove Alberi](https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 6:00 |
-| 40 | [The White Arcades](https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN) | 4:44 |
+| 40 | [Note \- Poem by Michael Mcclure](https://open.spotify.com/track/4WwBgTjX0flq7O24n5pd0O) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f), [Jessica Karraker](https://open.spotify.com/artist/1HcLZmhJNwYJqmYt6UGIaq) | [Walk into My Voice \(American Beat Poetry\)](https://open.spotify.com/album/1j56unWUj9tJXybKXW2QWr) | 0:36 |
 | 41 | [Arriving](https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:25 |
 | 42 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
 | 43 | [Poem: Wings](https://open.spotify.com/track/189q6zRiaLFn7ohmubP3xm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 0:37 |
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 47 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 |
 | 48 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 |
 | 49 | [Rub With Ashes](https://open.spotify.com/track/7lSSrxiRidWKKEzczh0hTv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:02 |
-| 50 | [Bell Tower](https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [La Bella Vista](https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL) | 2:00 |
 
-Snapshot ID: `ZoCgAAAAAACdFtToYGeJ45EWnIRkah8I`
+Snapshot ID: `ZoHxgAAAAADPEsPppMVpocL6xWdq8IcA`

@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 38143,
+  "num_followers": 38178,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Harlem Blues Operator",
-        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
-      },
-      "artists": [
-        {
-          "name": "Bob Gaddy",
-          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Love My Baby",
-      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Harlem Blues Operator",
+        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
+      },
+      "artists": [
+        {
+          "name": "Bob Gaddy",
+          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Love My Baby",
+      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
     },
     {
       "added_at": "2024-05-30 16:22:42",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,062 songs - 4 day 13 hr 47 min
+2,063 songs - 4 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/1MGGLyAMVQo3T9gSEBJjyH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy) | 3:16 | 2021-04-18 | 2021-04-19 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2022-01-08 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-18 | 2021-05-23 |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-02 |  |
 | [Gorilla \(feat\. Nuteh Jonez\)](https://open.spotify.com/track/0rfPe807obCEXeSxGO1E2P) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Nuteh Jonez](https://open.spotify.com/artist/2RCH8HB1LijqeP7Wuu6tmJ) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 3:05 | 2023-01-07 | 2023-01-22 |
 | [Gorilla \(feat\. Nuteh Jonez\)](https://open.spotify.com/track/5jnpG1GSULveBZfkNwWfHu) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Nuteh Jonez](https://open.spotify.com/artist/2RCH8HB1LijqeP7Wuu6tmJ) | [Gorilla \(feat\. Nuteh Jonez\)](https://open.spotify.com/album/3Y61pY2L2LpFFKOY9J47uL) | 3:05 | 2022-12-10 | 2023-01-07 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 | 2023-01-21 | 2023-02-05 |
@@ -813,7 +814,7 @@
 | [Keskiyön Cowboy](https://open.spotify.com/track/2kBkIwAtwn2Y6pjuoEfWLK) | [Lauri Tähkä](https://open.spotify.com/artist/2ZyR5hOnG5pyMrbqJTXgtN) | [Keskiyön Cowboy](https://open.spotify.com/album/62A72GOapg8ibPDcRG12P9) | 3:11 | 2021-08-29 | 2021-09-12 |
 | [kesäbiisi](https://open.spotify.com/track/5CeeOAfo8JsW2hFSoa2dXf) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [kesäbiisi](https://open.spotify.com/album/2m0ZNNFVk5EJdO7zYY6rwK) | 3:10 | 2022-06-04 | 2022-06-19 |
 | [Kesäfiilistelyy \(feat\. RicoWamos\)](https://open.spotify.com/track/2SPVXK9xjkF3iAmvWySvqL) | [Chebaleba](https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ), [RicoWamos](https://open.spotify.com/artist/5YC0dzAs461dkiWVPVqTdU) | [Himaa ennen hesarii](https://open.spotify.com/album/4c1fR9gFGBzV6kBZ6VWi8u) | 3:03 | 2021-05-14 | 2021-06-14 |
-| [Kesäyö](https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA) | [Pariisin Kevät](https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny) | [Kaikki on satua](https://open.spotify.com/album/0xfUl4dOtqRjK4kZrf1JQA) | 3:57 | 2022-03-11 |  |
+| [Kesäyö](https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA) | [Pariisin Kevät](https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny) | [Kaikki on satua](https://open.spotify.com/album/0xfUl4dOtqRjK4kZrf1JQA) | 3:57 | 2022-03-11 | 2024-07-03 |
 | [Kevlar](https://open.spotify.com/track/0PVVYanGcAcLz019qjJRey) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Kevlar](https://open.spotify.com/album/6HsXPA9QCB26VluZTXUSCX) | 3:14 | 2024-01-05 | 2024-02-25 |
 | [Kevlar \- DOG HUSTLERS x Devinity Remix](https://open.spotify.com/track/2uwrl3OZoARyeFlAanPcV8) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc), [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Devinity](https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai) | [Kevlar \(DOG HUSTLERS x Devinity Remix\)](https://open.spotify.com/album/7Mp6sVDWUVrUiUfh9WB1FF) | 2:36 | 2024-03-16 | 2024-03-21 |
 | [kevät 22](https://open.spotify.com/track/0DEokAmDwO8LxRSXjHees7) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [kaukana kotoa](https://open.spotify.com/album/2rNvFjHAgzSfGOuM0pMo8J) | 3:04 | 2022-04-01 | 2022-04-10 |

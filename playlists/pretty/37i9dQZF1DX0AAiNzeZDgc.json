@@ -1,15 +1,239 @@
 {
   "description": "This Is STAYC. The essential tracks, all in one playlist.",
-  "num_followers": 42564,
+  "num_followers": 42590,
   "original_name": "This Is STAYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZfPT/QAAAABuw+kMdQYo7bLef5WOiDnJ",
+  "snapshot_id": "ZoSb7wAAAACmBAAMdRjr0XVGZUcvdfWw",
   "tracks": [
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "Cheeky Icy Thang",
+      "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 128744,
+      "name": "Twenty",
+      "url": "https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/5iL9B1OKNfpJSgkbvKngXI"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 163312,
+      "name": "Give It 2 Me",
+      "url": "https://open.spotify.com/track/0wiliykhEfTSmGaJvYmEe3"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 134348,
+      "name": "Find ( Sieun & Seeun & J )",
+      "url": "https://open.spotify.com/track/1L0WXikXzwL95TDHTUuWQE"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 171753,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/2oIstUxIrFHP4DODJiGDkt"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 185711,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2nZFLtfsBxQWHkFCHkepTH"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 166223,
+      "name": "Fakin\u2019 ( Sumin & Yoon )",
+      "url": "https://open.spotify.com/track/6q3mMMdxQCjrfUME0YZnSU"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Roses ( ISA )",
+      "url": "https://open.spotify.com/track/4JSCXX9t09nio3UEPw4AWe"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 200241,
+      "name": "Beauty Bomb",
+      "url": "https://open.spotify.com/track/13nOpaV3IK7P2jw9FDA7tW"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "Gummy Bear",
+      "url": "https://open.spotify.com/track/0QRx48SDQDGJ6QKT0qMRbm"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 178557,
+      "name": "Stay WITH me",
+      "url": "https://open.spotify.com/track/3BV4FnxsvjkH8eDRwhpMZK"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Flexing On My Ex",
+      "url": "https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 164208,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/4qlPrmKOUDKvdFyZuinm98"
+    },
+    {
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Fancy - Spotify Singles",
         "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
@@ -25,7 +249,7 @@
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -41,7 +265,7 @@
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -57,7 +281,7 @@
       "url": "https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -73,7 +297,7 @@
       "url": "https://open.spotify.com/track/4o5kutixgRy60bljwP4zyr"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -89,7 +313,7 @@
       "url": "https://open.spotify.com/track/3g4jq4wctEo0fVaTDKjk3Q"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -105,7 +329,7 @@
       "url": "https://open.spotify.com/track/3bcqk74mnFzQF2bfOMG7iK"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -121,7 +345,7 @@
       "url": "https://open.spotify.com/track/1e9uzZKeHabJ1kSDT7m3Np"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Teddy Bear",
         "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
@@ -137,7 +361,7 @@
       "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Teddy Bear",
         "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
@@ -153,7 +377,7 @@
       "url": "https://open.spotify.com/track/7KqISJoXbapng18bmmG0oa"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -169,7 +393,7 @@
       "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -185,7 +409,7 @@
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
@@ -201,7 +425,7 @@
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
@@ -217,7 +441,7 @@
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Star To A Young Culture",
         "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
@@ -233,7 +457,7 @@
       "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -249,7 +473,7 @@
       "url": "https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -265,7 +489,7 @@
       "url": "https://open.spotify.com/track/30VA0uReR9jKiFU7ddriN6"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -281,7 +505,7 @@
       "url": "https://open.spotify.com/track/3dXW39AstDn04bXF7UBuEn"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -297,7 +521,7 @@
       "url": "https://open.spotify.com/track/5mr1d04qe0s5ux5fQQcH2p"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -313,7 +537,7 @@
       "url": "https://open.spotify.com/track/51XWwKV6VHCuFftFQLp4iA"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -329,7 +553,7 @@
       "url": "https://open.spotify.com/track/7HGKvoju3ucB7UqVt1GoJu"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -345,7 +569,7 @@
       "url": "https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -361,7 +585,7 @@
       "url": "https://open.spotify.com/track/4wqvBkHI3a75Fmlirlq3uD"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
@@ -377,7 +601,7 @@
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
@@ -393,7 +617,7 @@
       "url": "https://open.spotify.com/track/1aWnOcf3GE7xuu4rubVPYL"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
@@ -409,7 +633,7 @@
       "url": "https://open.spotify.com/track/4SiwxGPQzlG2r4zatpEzLc"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
@@ -425,7 +649,7 @@
       "url": "https://open.spotify.com/track/1JWtIj2hmFjGucIlC7zfAe"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
@@ -441,7 +665,7 @@
       "url": "https://open.spotify.com/track/6hC2Qn11Fzw4Ufi4XH6z2m"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
@@ -457,7 +681,7 @@
       "url": "https://open.spotify.com/track/2OhOkew9BkkLTGBG9cFOz5"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
@@ -473,7 +697,7 @@
       "url": "https://open.spotify.com/track/0buvspLcSje0ahquNjkzn9"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Star To A Young Culture",
         "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
@@ -489,7 +713,7 @@
       "url": "https://open.spotify.com/track/1RdDIsdbpioXZzadE5MLOG"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Teddy Bear (Japanese Ver.)",
         "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
@@ -505,7 +729,7 @@
       "url": "https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "Teddy Bear (Japanese Ver.)",
         "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
@@ -521,7 +745,7 @@
       "url": "https://open.spotify.com/track/48DTW44emTEbPJPvrIav94"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "POPPY (Japanese Ver.)",
         "url": "https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8"
@@ -537,7 +761,7 @@
       "url": "https://open.spotify.com/track/7aQOA3ggmKpjleEtabVYbI"
     },
     {
-      "added_at": "2024-03-15 04:52:13",
+      "added_at": "2024-07-03 00:31:43",
       "album": {
         "name": "POPPY (Japanese Ver.)",
         "url": "https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8"

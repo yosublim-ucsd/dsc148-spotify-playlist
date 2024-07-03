@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-183 songs - 11 hr 31 min
+184 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 | 2023-05-19 |  |
 | [Firetime](https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Rudeboy Design Soundtape](https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz) | 3:19 | 2024-06-28 |  |
 | [fumble \(feat\. piri\)](https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [fumble \(feat\. piri\)](https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH) | 2:54 | 2023-06-30 |  |
+| [Gamble](https://open.spotify.com/track/3UJfSkk4ue280ziv8HqrBO) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Gamble](https://open.spotify.com/album/4TRTfzq59EvNib2dypJsxx) | 4:11 | 2024-06-28 |  |
 | [Garden \- Calibre Remix](https://open.spotify.com/track/6HRa9FtX8ifjQmA3XFBXan) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Garden \(Calibre Remix\)](https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N) | 5:58 | 2022-08-05 |  |
 | [Gecko \(Overdrive\) \- Matrix & Futurebound Remix](https://open.spotify.com/track/18iFN3VoOZzULEZGSBqHZL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7) | [Gecko \(Overdrive\) \[Remix Bundle\]](https://open.spotify.com/album/2TkSmKnbYgnOjbBNwL7mO9) | 3:38 | 2022-08-05 |  |
 | [Ghost Assassin \- VIP](https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Memoirs](https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4) | 3:42 | 2022-08-05 |  |
@@ -185,7 +186,7 @@
 | [Walk Through Fire](https://open.spotify.com/track/6GAIFjKSUCb4ndyDwDgKsJ) | [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Walk Through Fire](https://open.spotify.com/album/7CYvf2lpIFGAwOM1NDXA6Y) | 3:33 | 2023-06-13 | 2024-04-05 |
 | [Waste My Time](https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Waste My Time](https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz) | 2:25 | 2023-10-13 |  |
 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 | 2022-08-05 |  |
-| [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 |  |
+| [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 | 2024-07-03 |
 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 | 2022-08-05 | 2024-05-20 |
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-05-19 |  |
 | [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-05-19 | 2024-05-10 |

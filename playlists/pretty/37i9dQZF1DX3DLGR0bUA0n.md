@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,841 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,880 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 50 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 |
 | 51 | [Las Joyas De Mi Vida](https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Exitos de La Nobleza de Aguililla](https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h) | 4:07 |
 | 52 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 3:19 |
-| 53 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
-| 54 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
+| 53 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
+| 54 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
 | 55 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
 | 56 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
 | 57 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 64 | [Coyuca De Catalan \(Zapateado\)](https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches En Vivo 2013](https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix) | 4:36 |
 | 65 | [Dile](https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 3:25 |
 | 66 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
-| 67 | [Frente A Frente](https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:55 |
-| 68 | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j) | 12:12 |
-| 69 | [No Compro Amores](https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Tercia de Reyes](https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd) | 2:28 |
+| 67 | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j) | 12:12 |
+| 68 | [No Compro Amores](https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Tercia de Reyes](https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd) | 2:28 |
+| 69 | [Frente A Frente](https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:55 |
 | 70 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw) | [La Fuerza de Tierra Caliente](https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N) | [A Donde Vas Chiquilla](https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y) | 3:36 |
 | 71 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
 | 72 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Slipmami. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 5929,
+  "description": "This is Slipmami. The essential tracks, all in one playlist.",
+  "num_followers": 5938,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADLqdT1UYbLCH+3/Ro6Gvve",
+  "snapshot_id": "ZoHxgAAAAADym+mXzDzAyq2r9LD4xU9y",
   "tracks": [
     {
       "added_at": null,
@@ -632,13 +632,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 148000,
-      "name": "A Jogada Que \u00c9 Foda",
-      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
+      "duration_ms": 142500,
+      "name": "14 Sem Vaselina",
+      "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
     },
     {
       "added_at": null,
@@ -716,17 +720,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 142500,
-      "name": "14 Sem Vaselina",
-      "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
+      "duration_ms": 148000,
+      "name": "A Jogada Que \u00c9 Foda",
+      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,

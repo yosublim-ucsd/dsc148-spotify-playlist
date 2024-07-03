@@ -4,7 +4,7 @@
 
 > You say guilty, we say non stop bangers!
 
-474 songs - 1 day 6 hr 22 min
+476 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2022-04-07 |  |
 | [Hot Stuff](https://open.spotify.com/track/2vaHFRlL8eLXKLhZ47CtpO) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/3pO9uRVL8kmoVfkcN73w3h) | 5:14 | 2022-04-07 | 2022-04-23 |
 | [Hot Stuff](https://open.spotify.com/track/6RVevoPzbGygqvm6LxHAuf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/2ldxRwrqpPb7M8tZsGoqMS) | 6:40 | 2021-12-28 | 2022-04-20 |
+| [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2024-07-02 |  |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2022-04-07 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 | 2021-11-13 |  |
 | [I Don't Want to Be](https://open.spotify.com/track/4vl2zwXsTmAxgu9iY0g6UK) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:37 | 2021-11-13 | 2022-07-29 |
@@ -311,7 +312,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2022-06-20 | 2023-11-18 |
 | [Never Had A Dream Come True](https://open.spotify.com/track/1rzssdgfZiGs7VAMsYN9SF) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [7](https://open.spotify.com/album/7nCFDT4RoGQcXoPFTDrpGH) | 4:00 | 2021-11-13 | 2022-07-29 |
 | [No Air \(Glee Cast Version\)](https://open.spotify.com/track/31gAxJAKHU8meGl9HqpdGY) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 4:22 | 2022-04-07 | 2022-04-21 |
-| [No Limit](https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [No Limits](https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0) | 3:44 | 2022-04-07 |  |
+| [No Limit](https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [No Limits](https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0) | 3:44 | 2022-04-07 | 2024-07-03 |
 | [No More Tears \(Enough Is Enough\) \(feat\. Donna Summer\)](https://open.spotify.com/track/1wSPm3y4Lk6ABkVxCmwkZx) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Essential Barbra Streisand](https://open.spotify.com/album/03LP0iA5hWsCVeDFHMV7Z8) | 4:42 | 2022-04-07 | 2022-04-21 |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2021-11-13 | 2021-12-29 |
 | [One Less Lonely Girl](https://open.spotify.com/track/4YOlZCfnPBfy1ixfSRp07T) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My Worlds \(Oz Version\)](https://open.spotify.com/album/0LFbHl14nV9InXzoj9qV33) | 3:49 | 2021-11-13 | 2022-06-27 |
@@ -331,7 +332,7 @@
 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/7BwwjDFcpn72BrxCCRqs7d) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/6nqizbBgkRug5YRnP1YWiO) | 3:35 | 2022-04-07 | 2022-04-21 |
 | [Pure & Simple](https://open.spotify.com/track/1hyEoJnQvkAyEJpxuOZ6C0) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Popstars](https://open.spotify.com/album/3RhyUw9EciePIQ8hapCIC5) | 3:48 | 2021-12-28 | 2022-07-29 |
 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/2gkXsfFLg0pV1Z3XREWsTF) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Original Album Classics](https://open.spotify.com/album/3G3ElgskQS2wIQ8zA1MZ0r) | 3:53 | 2022-01-07 | 2022-07-21 |
-| [Rasputin \- Single Version](https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Fantastic Boney M.](https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX) | 3:40 | 2022-04-07 |  |
+| [Rasputin \- Single Version](https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Fantastic Boney M.](https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX) | 3:40 | 2022-04-07 | 2024-07-03 |
 | [Red Solo Cup](https://open.spotify.com/track/47nm8czanMUzIqHsnr5x61) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern \(Deluxe Edition\)](https://open.spotify.com/album/6fDc100UHbUvS6IuxBrKRn) | 3:43 | 2022-04-07 | 2022-04-19 |
 | [Replay](https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8) | 3:02 | 2021-11-13 |  |
 | [Replay](https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf) | 3:02 | 2022-06-20 | 2024-04-19 |
@@ -482,5 +483,6 @@
 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/6UUzt6LPtVNwy8l6jqu9C9) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 2:47 | 2021-11-13 | 2021-12-29 |
 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 | 2021-12-28 |  |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2021-11-13 |  |
+| [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 | 2024-07-02 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1063675,
+  "num_followers": 1063763,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "Sublime with Rome",
-        "url": "https://open.spotify.com/album/1o6tSnprlbPFZ6GXEhEb6j"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 210184,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/0n5AYrpFpBt61EtvMOUGnE"
-    },
-    {
-      "added_at": "2024-06-10 16:03:49",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2024-06-10 16:03:49",
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "From Here To Now To You",
-        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+        "name": "Sublime with Rome",
+        "url": "https://open.spotify.com/album/1o6tSnprlbPFZ6GXEhEb6j"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
         }
       ],
-      "duration_ms": 179346,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
+      "duration_ms": 210184,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/0n5AYrpFpBt61EtvMOUGnE"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "Gunman",
-        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
+        "name": "Kingdom (with The Movement)",
+        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
       },
       "artists": [
         {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 233093,
-      "name": "Gunman",
-      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
+      "duration_ms": 282323,
+      "name": "Kingdom (with The Movement)",
+      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "Kingdom (with The Movement)",
-        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
+        "name": "Gunman",
+        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
       },
       "artists": [
         {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
         }
       ],
-      "duration_ms": 282323,
-      "name": "Kingdom (with The Movement)",
-      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
+      "duration_ms": 233093,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
-      },
-      "artists": [
-        {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2024-06-10 16:03:49",
-      "album": {
         "name": "Holy Illusion",
         "url": "https://open.spotify.com/album/6tZqrGx9WKDN5sPjZiRvTl"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 193468,
       "name": "River",
       "url": "https://open.spotify.com/track/6wNFXmAc6v0ebGQ484Y5yn"
+    },
+    {
+      "added_at": "2024-06-10 16:03:49",
+      "album": {
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+    },
+    {
+      "added_at": "2024-06-10 16:03:49",
+      "album": {
         "name": "Lyrics Over Everything",
         "url": "https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 206277,
       "name": "Lyrics Over Everything",
       "url": "https://open.spotify.com/track/0bMyuvNOVCXvRA4ePDKgnR"
-    },
-    {
-      "added_at": "2024-06-10 16:03:49",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
+    },
+    {
+      "added_at": "2024-06-10 16:03:49",
+      "album": {
         "name": "Slice of Sunshine (with Claire Wright)",
         "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 170348,
       "name": "Slice of Sunshine (with Claire Wright)",
       "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
-    },
-    {
-      "added_at": "2024-06-10 16:03:49",
-      "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
-      },
-      "artists": [
-        {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -2091,30 +2091,6 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "Corona and Lime",
-        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Corona and Lime",
-      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
-    },
-    {
-      "added_at": "2024-06-10 16:03:49",
-      "album": {
         "name": "Two (with The Hip Abduction)",
         "url": "https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z"
       },
@@ -2187,6 +2163,30 @@
       "duration_ms": 255850,
       "name": "On & On (with Iration)",
       "url": "https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO"
+    },
+    {
+      "added_at": "2024-06-10 16:03:49",
+      "album": {
+        "name": "Corona and Lime",
+        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Corona and Lime",
+      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -2367,26 +2367,22 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "Constellations (with Moon Taxi) [J-Vibe Remix]",
-        "url": "https://open.spotify.com/album/3Azk0rq4VnT5LYRpAKc2V2"
+        "name": "In The LBC (Warren G Remix)",
+        "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
       },
       "artists": [
         {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
         },
         {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        },
-        {
-          "name": "J-Vibe",
-          "url": "https://open.spotify.com/artist/2JBSUcxL2nw8sJfjXmtUpL"
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Constellations (with Moon Taxi) - J-Vibe Remix",
-      "url": "https://open.spotify.com/track/3qjQZ6hhRcPgGdpteIFOQD"
+      "duration_ms": 195746,
+      "name": "In The LBC - Warren G Remix",
+      "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -2411,22 +2407,26 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
-        "name": "In The LBC (Warren G Remix)",
-        "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
+        "name": "Constellations (with Moon Taxi) [J-Vibe Remix]",
+        "url": "https://open.spotify.com/album/3Azk0rq4VnT5LYRpAKc2V2"
       },
       "artists": [
         {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
         },
         {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        },
+        {
+          "name": "J-Vibe",
+          "url": "https://open.spotify.com/artist/2JBSUcxL2nw8sJfjXmtUpL"
         }
       ],
-      "duration_ms": 195746,
-      "name": "In The LBC - Warren G Remix",
-      "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
+      "duration_ms": 163636,
+      "name": "Constellations (with Moon Taxi) - J-Vibe Remix",
+      "url": "https://open.spotify.com/track/3qjQZ6hhRcPgGdpteIFOQD"
     },
     {
       "added_at": "2024-06-10 16:03:49",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2024-06-10 16:03:49",
       "album": {
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
+      },
+      "artists": [
+        {
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
+    },
+    {
+      "added_at": "2024-06-10 16:03:49",
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/5sYSYnfuj6PYzd6vZx9WRb"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 209895,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/4iPn44FdAHhas8uNaoJNmR"
-    },
-    {
-      "added_at": "2024-06-10 16:03:49",
-      "album": {
-        "name": "Not The End",
-        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
-      },
-      "artists": [
-        {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Not The End",
-      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
     },
     {
       "added_at": "2024-06-10 16:03:49",

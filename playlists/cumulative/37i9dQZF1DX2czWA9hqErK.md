@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-699 songs - 1 day 15 hr 3 min
+700 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-04-12 |  |
 | [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2021-12-16 | 2022-02-22 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-29 |  |
-| [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-04-26 |  |
+| [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-04-26 | 2024-07-03 |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-10-21 | 2023-02-16 |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-04 | 2023-06-17 |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-12-16 | 2022-04-27 |
@@ -540,6 +540,7 @@
 | [Shouldn't Be Thinking About You](https://open.spotify.com/track/3Inj1eHMvEhwUFej1LYR0d) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [Songs They Told Me Weren't Singles \- Part 1](https://open.spotify.com/album/0bsjzb3mpaau8nuzfJSPmC) | 2:51 | 2021-12-16 | 2022-08-03 |
 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 | 2023-04-28 | 2023-09-13 |
 | [Simple](https://open.spotify.com/track/7hVK6T6lsXFeTIxTlHGhGU) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Simple](https://open.spotify.com/album/2WZI1CAeOI9Q3uBXOtiaJh) | 3:02 | 2021-12-16 | 2022-02-15 |
+| [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-06-28 |  |
 | [Sitting Ducks](https://open.spotify.com/track/41gTOwUNQnTlVmFmEk8r4a) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Sitting Ducks](https://open.spotify.com/album/2lSX4xnpxpJky26VCXEzHD) | 3:44 | 2022-03-08 | 2022-07-25 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-05-31 | 2023-05-27 |
 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 | 2021-12-16 | 2022-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,149 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,152 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 71 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 |
 | 72 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
 | 73 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
-| 74 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
-| 75 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
+| 74 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
+| 75 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
 | 76 | [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 |
 | 77 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |
 | 78 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |

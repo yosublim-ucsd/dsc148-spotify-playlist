@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 198380,
+  "num_followers": 198423,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACajCk7vPYZgiAdEdVfZTwc",
+  "snapshot_id": "ZoHxgAAAAAAJWRWKiUw8DAapNZ+qOTSZ",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 395161,
-      "name": "Back To Life - Live",
-      "url": "https://open.spotify.com/track/6WUwmKUfTF12jlJ2ll1aW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/2rKiADhVznDGC1oRjeczDr"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 406346,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6CW9qtzZpHZ3o39BYlpU0x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 395161,
+      "name": "Back To Life - Live",
+      "url": "https://open.spotify.com/track/6WUwmKUfTF12jlJ2ll1aW5"
     },
     {
       "added_at": null,
@@ -960,13 +960,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 291986,
-      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
-      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
+      "duration_ms": 414280,
+      "name": "Padre Nuestro (Live)",
+      "url": "https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q"
     },
     {
       "added_at": null,
@@ -1036,17 +1040,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
         }
       ],
-      "duration_ms": 414280,
-      "name": "Padre Nuestro (Live)",
-      "url": "https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q"
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     }
   ],
   "unique_name": "This Is Bethel Music",

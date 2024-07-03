@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Vlntna B
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,503 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,507 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [Tócame](https://open.spotify.com/track/2uwtn0Rtz4RlyfJOpmuaoB) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 3:47 |
 | 27 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
 | 28 | [Arza y Toma](https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Arza y Toma](https://open.spotify.com/album/4dU7Ci3JxiHQdfZWkVVyIe) | 3:34 |
-| 29 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
-| 30 | [Sismo](https://open.spotify.com/track/5rXwuI5uiv1ZaSOXm9o4Gm) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Sismo](https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO) | 3:52 |
+| 29 | [Sismo](https://open.spotify.com/track/5rXwuI5uiv1ZaSOXm9o4Gm) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Sismo](https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO) | 3:52 |
+| 30 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
 | 31 | [No Verán](https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 3:25 |
 | 32 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
-| 33 | [Sentimiento Real G](https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Sentimiento Real G](https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm) | 3:24 |
-| 34 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
+| 33 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
+| 34 | [Sentimiento Real G](https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Sentimiento Real G](https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm) | 3:24 |
 | 35 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
 | 36 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
 | 37 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |

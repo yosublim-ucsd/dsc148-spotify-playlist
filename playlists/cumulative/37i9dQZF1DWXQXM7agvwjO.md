@@ -4,10 +4,11 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: mindfreakkk \(Thailand\)
 
-1,392 songs - 3 day 11 hr 53 min
+1,393 songs - 3 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 |  |
 | [\(stay here\) for a while](https://open.spotify.com/track/7ITUmCohDlD7B1aNnQUuc5) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [\(stay here\) for a while](https://open.spotify.com/album/2lagvaT1M17CnirnR8OAjS) | 3:40 | 2022-12-15 | 2023-02-17 |
 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-14 | 2023-07-28 |
 | [01 Chuyện Dở Dang](https://open.spotify.com/track/3vWCRttEOSRmXZs8jfAPSX) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Suýt 1](https://open.spotify.com/album/5ER34Rd6OkCwXBD7SOMB97) | 3:31 | 2024-02-23 |  |
@@ -715,7 +716,7 @@
 | [Metro](https://open.spotify.com/track/3INpvUzUP1gt23GfMoX85l) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Metro](https://open.spotify.com/album/5UWCJbMmXDVjikrRPTAjAe) | 3:04 | 2023-08-03 | 2023-08-11 |
 | [Midnight Hotline](https://open.spotify.com/track/3vTvVfBQis7wysyjxUJJ8x) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Midnight Hotline](https://open.spotify.com/album/0Si5mCrv82BWvDogiYjzs9) | 3:38 | 2023-04-13 | 2023-04-21 |
 | [Midnight Shower](https://open.spotify.com/track/2HAQUaYAb7ZOvB3H4hbm17) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Midnight Shower](https://open.spotify.com/album/7LVxJi3t2gt9wUv27F3tiF) | 3:20 | 2022-05-06 | 2022-06-24 |
-| [Mild Child](https://open.spotify.com/track/22SRljDCEqspX5xTeFn6jd) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Mild Child](https://open.spotify.com/album/6xZ7LBjsMfANHQAMt7wmWk) | 4:13 | 2024-06-13 |  |
+| [Mild Child](https://open.spotify.com/track/22SRljDCEqspX5xTeFn6jd) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Mild Child](https://open.spotify.com/album/6xZ7LBjsMfANHQAMt7wmWk) | 4:13 | 2024-06-13 | 2024-07-03 |
 | [Milkshake](https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Milkshake](https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG) | 3:42 | 2022-09-08 | 2022-10-29 |
 | [Million \- hanbee Remix](https://open.spotify.com/track/4YycpPLZiVfITeG4SQwJn7) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God 11/16 Edition\)](https://open.spotify.com/album/0LlL4HaYQ0HB0Z0D8bU312) | 2:57 | 2023-10-12 | 2023-10-20 |
 | [Mind is Light](https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Mind is Light](https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk) | 3:35 | 2023-07-06 | 2023-07-28 |

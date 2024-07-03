@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > è uscito kid laroi con quella canzone che fa girls just wanna dance, girls just wanna have...FUN 💅👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,671 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,661 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 6633,
+  "num_followers": 6639,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAAi9oysKZ+3vsQNa6T3HpnT",
+  "snapshot_id": "ZoHxgAAAAAAZKywnkH2UwiGU29L1LNGz",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/1nJV1JGWf61WRJy851LO34"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 173026,
       "name": "Heavy Water/I'd Rather Be Sleeping",
       "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/1nJV1JGWf61WRJy851LO34"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 273986,
-      "name": "Come Softly - For Daniel D.",
-      "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 127680,
       "name": "When We Fall",
       "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 273986,
+      "name": "Come Softly - For Daniel D.",
+      "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 544533,
-      "name": "Vapor Trails",
-      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 544533,
+      "name": "Vapor Trails",
+      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 92786,
       "name": "Holofernes",
       "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y"
     },
     {
       "added_at": null,
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 281680,
-      "name": "Clearing",
-      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 141746,
       "name": "I'm Dragging a Dead Deer Up a Hill",
       "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 281680,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 344160,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 270680,
       "name": "Wind and Snow",
       "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 344160,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 367933,
       "name": "Mary, On the Wall - Second Heart Tone",
       "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Call Across Rooms",
-      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -523,70 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 50000,
-      "name": "The Races",
-      "url": "https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 366373,
-      "name": "STS",
-      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -596,9 +516,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 98946,
-      "name": "Made of Metal",
-      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+      "duration_ms": 179253,
+      "name": "Call Across Rooms",
+      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
     },
     {
       "added_at": null,
@@ -619,6 +539,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 366373,
+      "name": "STS",
+      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 50000,
+      "name": "The Races",
+      "url": "https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 98946,
+      "name": "Made of Metal",
+      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 231125,
       "name": "Unclean mind",
       "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold / Sick - Single",
         "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 317749,
-      "name": "Basement Mix",
-      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cover the Windows and the Walls",
         "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 367720,
       "name": "Down to the Ocean",
       "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
     },
     {
       "added_at": null,

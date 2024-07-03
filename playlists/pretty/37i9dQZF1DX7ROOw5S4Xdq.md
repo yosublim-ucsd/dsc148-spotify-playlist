@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire, Marcelo Markes
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,390 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,423 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 9 | [O Nome Dele \- Ao Vivo](https://open.spotify.com/track/44XCyKAb6ECG03AtB6pGUd) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Nome Dele \(Ao Vivo\)](https://open.spotify.com/album/5ECQRS4h6lUUtbcnowpsPu) | 8:05 |
 | 10 | [Grande é o Senhor](https://open.spotify.com/track/5EDQniCaBseHLfz3pMyOfK) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Grande é o Senhor](https://open.spotify.com/album/0cvrfWYI5kAfc8BdrEXUfK) | 7:27 |
 | 11 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 |
-| 12 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 6:44 |
+| 12 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 |
 | 13 | [Nada Mudou \- Ao Vivo](https://open.spotify.com/track/0fJXwFJl4N8ozGXEtoN0Wh) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Nada Mudou \(Ao Vivo\)](https://open.spotify.com/album/47Vik0Q0w0fdcusuJ1MFsU) | 6:45 |
 | 14 | [Acredita \(Legado\)](https://open.spotify.com/track/7uqo88bv78vsNOmSwEpgLP) | [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl) | [Novo Som \(Legado\)](https://open.spotify.com/album/70s9Abr9QOsXPlXu9cx0og) | 4:01 |
 | 15 | [Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4C9VRlJ1XfWpM4Z8oLMe5O) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C), [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq) | [Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5LDzirQ8oKNAcNwKUUOuMC) | 3:28 |

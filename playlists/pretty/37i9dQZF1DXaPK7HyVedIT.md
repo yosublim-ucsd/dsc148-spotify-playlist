@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,642 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,624 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 12 | [Straight Up](https://open.spotify.com/track/303qnQkhKDmtBIWr3No7XY) | [Morphy](https://open.spotify.com/artist/5Q8X9AMJgCaepABZDwdZql), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Little League](https://open.spotify.com/artist/1Su706KJL5OFFqpbaTmw25) | [Straight Up](https://open.spotify.com/album/1ylvIVtXgZcmTiXZ48LEIY) | 3:30 |
 | 13 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
 | 14 | [Four Elements](https://open.spotify.com/track/3tgiIyHKe9vuxBbkLSDBT1) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Four Elements](https://open.spotify.com/album/2la5EkFOOLrUCjfgPh03wB) | 3:07 |
-| 15 | [Mia Pembe \- Mojjo Remix](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 |
+| 15 | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 |
 | 16 | [Down Under](https://open.spotify.com/track/6QmnodClYxy484Dx7rxD7v) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [LV](https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q) | [Down Under](https://open.spotify.com/album/4bR6PRz0yBbLWBG8aLjwZX) | 2:41 |
 | 17 | [SERENA](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Amesens](https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN) | [SERENA](https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC) | 4:25 |
 | 18 | [Make It Loud](https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Make It Loud](https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd) | 3:56 |

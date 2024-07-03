@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
+    },
+    {
+      "album": {
         "name": "Atemlos durch die Nacht (10 Year Anniversary Version)",
         "url": "https://open.spotify.com/album/1keZlGDtJuO2luOCRRS0mT"
       },
@@ -2852,7 +2870,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 228546,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/3yjjFp94TOENrJJgvmxAoE"

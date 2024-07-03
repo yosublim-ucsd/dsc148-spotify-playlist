@@ -4,7 +4,7 @@
 
 > Love songs from the movies
 
-155 songs - 10 hr 37 min
+156 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2022-01-11 | 2024-04-19 |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/27ncbKwESFYzgBo9RN9IXe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Essential Celine Dion](https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF) | 4:40 | 2022-01-11 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/3eiymMcHMtNeN0xKeP4WQM) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/24YoVjBTadmRW2Zhc9ou9S) | 5:10 | 2022-01-11 |  |
-| [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 | 2022-01-11 |  |
+| [Nobody Does It Better](https://open.spotify.com/track/6HmrvuWeY8zAvS8BIwGL4m) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Bridget Jones The Edge Of Reason](https://open.spotify.com/album/510KtGtmA01qH0p04iY3Ur) | 3:43 | 2024-07-02 |  |
+| [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 | 2022-01-11 | 2024-07-03 |
 | [Only Hope](https://open.spotify.com/track/3XpgLBx3TGuDIFV5gUaR0w) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [A Walk To Remember Music From The Motion Picture](https://open.spotify.com/album/0hdH7DpYGnTWmwV2UhYbKa) | 3:53 | 2022-01-11 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-01-11 |  |
 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 | 2022-01-11 |  |

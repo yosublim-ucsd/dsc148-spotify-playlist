@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Andr\u00e9s Su\u00e1rez.",
-  "num_followers": 327075,
+  "num_followers": 327112,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Desde Que No Nos Vemos",
-        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
+        "name": "Con Derecho A...",
+        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
       },
       "artists": [
         {
-          "name": "Enrique Urquijo y Los problemas",
-          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
+      "duration_ms": 241986,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Con Derecho A...",
-        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
+        "name": "Desde Que No Nos Vemos",
+        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Enrique Urquijo y Los problemas",
+          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
         }
       ],
-      "duration_ms": 241986,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
+      "duration_ms": 144840,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Quiero Mejor",
         "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Qui\u00e9reme Bien (feat. Leiva)",
+        "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 281095,
+      "name": "Qui\u00e9reme Bien (feat. Leiva)",
+      "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH"
       },
@@ -1611,22 +1631,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Qui\u00e9reme Bien (feat. Leiva)",
-        "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
+        "name": "Yo Sin T\u00fa",
+        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
         },
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 281095,
-      "name": "Qui\u00e9reme Bien (feat. Leiva)",
-      "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
+      "duration_ms": 308333,
+      "name": "Un Solo Corazo\u0301n",
+      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1659,26 +1679,6 @@
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Yo Sin T\u00fa",
-        "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
-      },
-      "artists": [
-        {
-          "name": "El Jose",
-          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Un Solo Corazo\u0301n",
-      "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1767,18 +1767,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+        "name": "En la memoria de la piel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+      "duration_ms": 247028,
+      "name": "No olvidarme de olvidar (feat. Carlos Rivera)",
+      "url": "https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy"
     }
   ],
   "unique_name": "Cantautores",

@@ -1,6 +1,6 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2593389,
+  "num_followers": 2593489,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Three for Love",
-        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "This Is for the Lover in You",
-      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Janet",
@@ -263,6 +247,22 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Three for Love",
+        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
+      },
+      "artists": [
+        {
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "This Is for the Lover in You",
+      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 380533,
+      "name": "All The Things (Your Man Won't Do)",
+      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
+    },
+    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "A Day in the Life",
@@ -363,22 +379,6 @@
       "duration_ms": 276013,
       "name": "Spend My Life With You",
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "All The Things (Your Man Won't Do)",
-      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 229053,
       "name": "All I Do Is Think of You",
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 290066,
+      "name": "Love U 4 Life",
+      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Street Songs (Deluxe Edition)",
@@ -695,22 +711,6 @@
       "duration_ms": 337066,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 290066,
-      "name": "Love U 4 Life",
-      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Funny How Time Flies (When You're Having Fun)",
-      "url": "https://open.spotify.com/track/3Ru4nUidPRMnC8eBWM8DoQ"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "It's About Time",
@@ -823,6 +807,22 @@
       "duration_ms": 317360,
       "name": "You're Always On My Mind",
       "url": "https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Funny How Time Flies (When You're Having Fun)",
+      "url": "https://open.spotify.com/track/3Ru4nUidPRMnC8eBWM8DoQ"
     },
     {
       "added_at": "2021-03-05 00:03:16",

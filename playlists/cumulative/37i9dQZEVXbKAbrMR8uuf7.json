@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 194026,
       "name": "Billetes Verdes",
       "url": "https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9"
@@ -5649,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "Cupido (Discoteca)",
+        "url": "https://open.spotify.com/album/0fHBVpMi1BrVxCcpRJvI0X"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cupido - Discoteca",
+      "url": "https://open.spotify.com/track/0v4ZYHAEsd3iFYoZgRuVVF"
+    },
+    {
+      "album": {
         "name": "Curazao",
         "url": "https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM"
       },
@@ -8218,7 +8236,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -8548,7 +8566,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 158796,
       "name": "EN BLUSA",
       "url": "https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo"
@@ -11668,7 +11686,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 124285,
       "name": "Hoy Si",
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
@@ -12892,7 +12910,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -13681,6 +13699,28 @@
     },
     {
       "album": {
+        "name": "La Pampara",
+        "url": "https://open.spotify.com/album/5XnSokGhicFXIb9txH84Eo"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "El Chuky",
+          "url": "https://open.spotify.com/artist/5wws3asJLgzs8bgsvUcp0p"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226980,
+      "name": "La Pampara",
+      "url": "https://open.spotify.com/track/75UbgGzyJYnh5qtHaW2xPh"
+    },
+    {
+      "album": {
         "name": "Rochy Rd",
         "url": "https://open.spotify.com/album/3nFTTMmBmtZx3z9sJjUN9W"
       },
@@ -13696,7 +13736,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 227000,
       "name": "La Pampara",
       "url": "https://open.spotify.com/track/5CMYuOwdkbwCGz9QY1nII6"
@@ -15624,7 +15664,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 152653,
       "name": "Ma Buena",
       "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
@@ -16536,7 +16576,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 169660,
       "name": "Me Arregle - El loco",
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
@@ -16708,7 +16748,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -19082,7 +19122,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 212064,
       "name": "Nota de Pasion (feat. Arcangel)",
       "url": "https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX"
@@ -19468,7 +19508,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -20396,6 +20436,24 @@
       "duration_ms": 165168,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/7MTTfwaqWk4IydUxMWg1v5"
+    },
+    {
+      "album": {
+        "name": "Pegate (Discoteca)",
+        "url": "https://open.spotify.com/album/5MjWJWHiIF8R3QA0zqrnnv"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Pegate - Discoteca",
+      "url": "https://open.spotify.com/track/4Hv9AcuSHn5CaDNxzp5jdP"
     },
     {
       "album": {
@@ -22177,6 +22235,24 @@
     },
     {
       "album": {
+        "name": "Que Chulo",
+        "url": "https://open.spotify.com/album/29JOEyiKh4hiDvjxrKNmgn"
+      },
+      "artists": [
+        {
+          "name": "El Chuky De Lewa",
+          "url": "https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115624,
+      "name": "Que Chulo",
+      "url": "https://open.spotify.com/track/1LjOKsO0gU9D5jG7446SMl"
+    },
+    {
+      "album": {
         "name": "Que Cojones",
         "url": "https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh"
       },
@@ -22858,7 +22934,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 222727,
       "name": "Razones",
       "url": "https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ"
@@ -27348,7 +27424,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 117120,
       "name": "Tetere",
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
@@ -29502,7 +29578,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 187694,
       "name": "Vamono Lejos",
       "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"

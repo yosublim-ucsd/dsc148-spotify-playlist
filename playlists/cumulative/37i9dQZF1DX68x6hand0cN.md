@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-200 songs - 10 hr 4 min
+201 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bebeğim](https://open.spotify.com/track/3LHEkrzQf5Von16auXW10H) | [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Bebeğim](https://open.spotify.com/album/6RUSOUecDOBsdjSL1Q6mw5) | 2:41 | 2023-07-07 | 2024-05-26 |
 | [BERIZ](https://open.spotify.com/track/1MpuM9oqDtjMZ2tVImMG23) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BERIZ](https://open.spotify.com/album/4jsWNnuGu4LnaYAQ4wWfQA) | 2:55 | 2022-07-28 | 2023-07-08 |
 | [Beslama](https://open.spotify.com/track/0uPYFty43hvhwdeFrIbVGq) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Blacka](https://open.spotify.com/artist/05p1rE5MjBgEblb7wgaUZ7) | [Beslama](https://open.spotify.com/album/6s9dmp1dGErzwfrmYlrQpB) | 2:44 | 2022-11-28 |  |
-| [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-20 |  |
+| [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-20 | 2024-07-03 |
 | [Body Count](https://open.spotify.com/track/6vn2vx8u1NfIXPerx6sMcs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Championships](https://open.spotify.com/album/11CyESxdaPU7YyCPhkYbWy) | 3:10 | 2022-07-28 | 2024-03-29 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-06-14 |  |
 | [Broski’s](https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Broski’s](https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V) | 2:59 | 2023-07-07 |  |
@@ -154,6 +154,7 @@
 | [Pololo](https://open.spotify.com/track/2gmTz7pHMqAk6fpOc88qxA) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mansa](https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg) | 3:15 | 2022-07-28 | 2023-03-28 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-02 |  |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-28 |  |
+| [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-07-02 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-28 | 2023-04-11 |
 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 | 2022-07-28 | 2023-05-23 |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-09-04 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This is: MYA\. Alle wichtigen Tracks in einer Playlist.
+> This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,649 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,668 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 37 | [Desbloqueo](https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Desbloqueo](https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d) | 3:12 |
 | 38 | [Tú](https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:43 |
 | 39 | [Universo Paralelo \(Vivo en Buenos Aires\) \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 4:32 |
-| 40 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 |
-| 41 | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM) | 2:29 |
+| 40 | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM) | 2:29 |
+| 41 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 |
 | 42 | [Ta Pa Estar](https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:30 |
 | 43 | [Te Vas](https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:11 |
 | 44 | [A Escondidas](https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [A Escondidas](https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6) | 2:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 51 | [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 |
 | 52 | [Amor Prohibido](https://open.spotify.com/track/1oXcxpTLTHOsaW0XmzSxCc) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Amor Prohibido](https://open.spotify.com/album/2IX5QGaqanqswJATMe11Cq) | 3:31 |
 
-Snapshot ID: `ZoCgAAAAAACe8e/xOBTAU1sSwX0KVFDt`
+Snapshot ID: `ZoHxgAAAAAA7LbzaPR/ciJLnqkyBjwkj`

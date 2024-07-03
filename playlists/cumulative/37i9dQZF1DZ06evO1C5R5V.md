@@ -2,7 +2,7 @@
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This Is El Haragán y Compañía\. Los temas esenciales, todos en una lista.
+> This is El Haragán y Compañía\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 71 songs - 4 hr 32 min
 
@@ -75,8 +75,8 @@
 | [Urbanidad](https://open.spotify.com/track/2NeGTh2VbfJHEXOxhVa3Ku) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:45 | 2023-05-30 |  |
 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 | 2023-01-15 |  |
 | [Y Es por Eso Que Me Voy](https://open.spotify.com/track/4fZEwW4lSFMm6l6PL5bfT4) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 4:24 | 2023-01-14 |  |
-| [Y Tú Cómo Lo Sabes? \- Like Heaven Club Mix](https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Y Tú Cómo Lo Sabes?](https://open.spotify.com/album/48KpFIYPAifu0M6O4z7Bd4) | 4:18 | 2023-08-13 | 2024-01-06 |
-| [Yayo](https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf) | 3:57 | 2024-01-05 |  |
+| [Y Tú Cómo Lo Sabes? \(Like Heaven Club\)](https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Y Tú Cómo Lo Sabes?](https://open.spotify.com/album/48KpFIYPAifu0M6O4z7Bd4) | 4:18 | 2023-08-13 |  |
+| [Yayo](https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf) | 3:57 | 2024-01-05 | 2024-07-03 |
 | [Yayo](https://open.spotify.com/track/1SpQUbVwRRo4hbrgJxSKwI) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/2TSkUQe12aXNJakjM5HSNA) | 3:58 | 2023-01-14 | 2024-01-06 |
 | [Yo Pensaba Que](https://open.spotify.com/track/5ADp0XZZ9yyzVJ08qwprdp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:26 | 2023-05-30 |  |
 

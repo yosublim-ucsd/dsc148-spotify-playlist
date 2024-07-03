@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:album:1UwgdrQVaJBueo48c2GM8x">PÅ GENSYN</a> 👀 <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,616 likes - 102 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,625 likes - 102 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

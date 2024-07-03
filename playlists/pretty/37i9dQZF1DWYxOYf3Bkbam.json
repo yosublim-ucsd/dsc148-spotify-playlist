@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 49205,
+  "num_followers": 49214,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Ca\u00f1a Doble para Mi Padre",
-      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
-    },
-    {
-      "added_at": "2024-06-12 23:03:57",
-      "album": {
         "name": "20 Super\u00e9xitos Originales, Vol. 2",
         "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 177213,
       "name": "Retorno",
       "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
+    },
+    {
+      "added_at": "2024-06-12 23:03:57",
+      "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Ca\u00f1a Doble para Mi Padre",
+      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
     },
     {
       "added_at": "2024-06-12 23:03:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
-    },
-    {
-      "added_at": "2024-06-12 23:03:57",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2024-06-12 23:03:57",
+      "album": {
         "name": "Baile de Campo",
         "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Paquito Aranda",
-          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "A villa Guillermina",
-      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
-    },
-    {
-      "added_at": "2024-06-12 23:03:57",
-      "album": {
         "name": "Las Nuevas Estrellas del Chamam\u00e9",
         "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 167592,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2024-06-12 23:03:57",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
     },
     {
       "added_at": "2024-06-12 23:03:57",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
-    },
-    {
-      "added_at": "2024-06-12 23:03:57",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Cate",
-          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
-        }
-      ],
-      "duration_ms": 123226,
-      "name": "Un simbronazo",
-      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
-    },
-    {
-      "added_at": "2024-06-12 23:03:57",
-      "album": {
         "name": "A Puro Sapucay",
         "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 169506,
       "name": "Creciendo el Gualeguay",
       "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
+    },
+    {
+      "added_at": "2024-06-12 23:03:57",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "added_at": "2024-06-12 23:03:57",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
     },
     {
       "added_at": "2024-06-12 23:03:57",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
-        }
-      ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
-    },
-    {
-      "added_at": "2024-06-12 23:03:57",
-      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 191311,
       "name": "Acordeona No Llores",
       "url": "https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t"
+    },
+    {
+      "added_at": "2024-06-12 23:03:57",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+        }
+      ],
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     },
     {
       "added_at": "2024-06-12 23:03:57",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-06-12 23:03:57",
       "album": {
-        "name": "D\u00fao Cejas Sol\u00eds",
-        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 122733,
-      "name": "Palomita Mensajera",
-      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

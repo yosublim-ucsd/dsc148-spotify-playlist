@@ -1,15 +1,47 @@
 {
-  "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9189,
-  "original_name": "\ud790\ub9c1 \ud799\ud569",
+  "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "num_followers": 9191,
+  "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiXwnQAAAADiZ8l1QVZFetg8DihCGeIQ",
+  "snapshot_id": "ZoOw4QAAAACYKR6KEGjdfg2YtWMuec2C",
   "tracks": [
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
       "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
@@ -29,7 +61,63 @@
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Summer (Feat. BE\u2019O)",
+      "url": "https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
       "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
@@ -49,95 +137,551 @@
       "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+        "name": "MELOH",
+        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
         },
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
         }
       ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+      "duration_ms": 160104,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Somebody!",
+      "url": "https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 177342,
+      "name": "Text Me",
+      "url": "https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "LOVE me",
+        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "LOVE me",
+      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "\ube44\ub204",
+        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "\ube44\ub204",
+      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165700,
+      "name": "Goodbye (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Alone (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Martini Blue",
+      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "TO DIE FOR",
+        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         },
         {
           "name": "BIG Naughty",
           "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+      "duration_ms": 175716,
+      "name": "Dare to Love (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
       "artists": [
         {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 186019,
+      "name": "Candy (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Bucket List",
+        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Joker (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         },
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 229575,
-      "name": "Time limit (Feat. Leellamarz, Loco)",
-      "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
+      "duration_ms": 196020,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+        "name": "More ASH",
+        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
       },
       "artists": [
         {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+      "duration_ms": 115500,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "AURA (feat. pH-1)",
+        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "AURA (feat. pH-1) (Prod. GXXD)",
+      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Life is Wet",
+        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Life is Wet",
+      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Action!",
+        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Action! (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "RE:UP",
+        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Good Night (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "H1GHR : BLUE TAPE",
+        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Oscar",
+      "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
+      "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
       "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
@@ -150,66 +694,250 @@
         {
           "name": "TOIL",
           "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Never Ending Story (Feat. Dynamicduo)",
-      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
+      "duration_ms": 135120,
+      "name": "Don\u2032t do That",
+      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "Show Me the Money 5 Episode 2",
-        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
+        "name": "He's next to you, instead of me",
+        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
       },
       "artists": [
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         },
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "ONE",
-          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
         }
       ],
-      "duration_ms": 252258,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
+      "duration_ms": 172350,
+      "name": "He's next to you, instead of me",
+      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 242999,
+      "name": "Let's Not Love Each Other",
+      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Why (Feat. Hoody)",
+        "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
+      },
+      "artists": [
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
         },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Why (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "FREAK LIKE ME",
+        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "FREAK LIKE ME",
+      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Welcome to the Kicako House",
+        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
         {
           "name": "BIG Naughty",
           "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "HANGANG",
+      "url": "https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "GONE",
+        "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "GONE",
+      "url": "https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Between Sat & Sun",
+        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Black Heart (feat. Leellamarz, BE'O)",
+      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
+      "album": {
+        "name": "Fire up",
+        "url": "https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 219060,
+      "name": "Fire up",
+      "url": "https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i"
+    },
+    {
+      "added_at": "2024-07-02 07:48:49",
       "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
@@ -233,826 +961,26 @@
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
-      "added_at": "2024-04-22 05:07:41",
+      "added_at": "2024-07-02 07:48:49",
       "album": {
-        "name": "She Gonna Stop",
-        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+        "name": "Apollo 11 (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/560eyB9eHh656ZiDHnAsdl"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "23 (Feat. SAM KIM)",
-      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "I Hated Myself (Tablo's Word)",
-      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf"
-      },
-      "artists": [
-        {
-          "name": "GARY",
-          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 217019,
-      "name": "Lonely Night (feat.GAEKO)",
-      "url": "https://open.spotify.com/track/7ftv3uigGigYVND065syjM"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Bathtub (Feat. Whee In, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/6410lt5ieSLvkczCmltXnc"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 247718,
-      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
-      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "School Rapper2 Team-battle Pt. 2",
-        "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "PULLIK",
-          "url": "https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z"
-        },
-        {
-          "name": "Godic",
-          "url": "https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV"
-        }
-      ],
-      "duration_ms": 164035,
-      "name": "The Little Prince (Prod. Godic)",
-      "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "BITCOIN",
-        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
-      },
-      "artists": [
-        {
-          "name": "TimeFeveR",
-          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
-        }
-      ],
-      "duration_ms": 202062,
-      "name": "BITCOIN (prod. HOWOW)",
-      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Family Portrait (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "See you ! (Feat. SOLE) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "2 Kids On The Block - Part.3",
-        "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Love Myself (Feat. BewhY)",
-      "url": "https://open.spotify.com/track/69fFPPuNlPGEg5D5cDPo3e"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "WHISTLE",
-        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 172177,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "Apocalypse Prod. PEEJAY",
-      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Show Me the Money 5 Episode 2",
-        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
-      },
-      "artists": [
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "Gun",
-          "url": "https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6"
-        },
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 238965,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        }
-      ],
-      "duration_ms": 215054,
-      "name": "Yoo Jae Suk",
-      "url": "https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "GENERATION",
-        "url": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "I said it",
-      "url": "https://open.spotify.com/track/4Eix5hlLVmeti1vDCDqmIG"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Show Me the Money 6 Episode 3",
-        "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
-      },
-      "artists": [
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
-        },
-        {
-          "name": "JOWOOCHAN",
-          "url": "https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "Don Mills",
-          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
-        }
-      ],
-      "duration_ms": 263123,
-      "name": "Brrr Get$",
-      "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 192437,
-      "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Primary and Pphk Pt.1",
-        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Pphk",
-          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Seat Belt (Feat. Dynamic Duo)",
-      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "2 Kids On The Block - Part.3",
-        "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Fly or Die (Feat. Crush)",
-      "url": "https://open.spotify.com/track/0b02rzh5WdzdFXPjgEf83o"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/57EMnZPUuiDJaPldPoFXoH"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        },
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Skin (feat. Seori)",
-      "url": "https://open.spotify.com/track/4JAqA8BZ9aKqgfYVvro8QJ"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "untell",
-          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "GRAIN (Feat. Dynamicduo, BewhY)",
-      "url": "https://open.spotify.com/track/5fV59hTTF805bqlzmI3TcH"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 229463,
-      "name": "sleep tight",
-      "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        },
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        },
-        {
-          "name": "xs",
-          "url": "https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8"
-        },
-        {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
-        },
-        {
-          "name": "DSEL",
-          "url": "https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
-      "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/3IPBA2JydAHsrYe77rDyIa"
-      },
-      "artists": [
-        {
-          "name": "GARY",
-          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
-        },
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "HALYANG DREAM (feat.John Park)",
-      "url": "https://open.spotify.com/track/2zppBnacbinj3UheY5S0pM"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "OZ Land",
-        "url": "https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL"
-      },
-      "artists": [
-        {
-          "name": "UNE",
-          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
-        },
-        {
-          "name": "Daul",
-          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
-        },
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "foff (Feat. CHOILB)",
-      "url": "https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Thank U",
-        "url": "https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        },
-        {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
-        }
-      ],
-      "duration_ms": 163744,
-      "name": "Thank U (Feat.Lee Aram)",
-      "url": "https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        },
-        {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "Star(feat.Nell)",
-      "url": "https://open.spotify.com/track/6kbOu1oRTxRxRTBrGxIYzK"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG"
-      },
-      "artists": [
-        {
-          "name": "Uneducated Kid",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        }
-      ],
-      "duration_ms": 177109,
-      "name": "GOD DID (Feat. Thug Min) [Prod. TOIL]",
-      "url": "https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "GENERATION",
-        "url": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Way it is",
-      "url": "https://open.spotify.com/track/35BWbBYVPZATgmUQvkwbAM"
+      "duration_ms": 200480,
+      "name": "Apollo 11 (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2PudJHuPDFyXomHjmwTxqG"
     }
   ],
-  "unique_name": "\ud790\ub9c1 \ud799\ud569",
+  "unique_name": "\uac10\uc131\ud799\ud569",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZiWafrEIdA8"
 }

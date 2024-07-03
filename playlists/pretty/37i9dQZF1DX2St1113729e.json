@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Espineli, LVL1",
-  "num_followers": 216519,
+  "num_followers": 216480,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Heaven Is A Place On Earth",
+        "url": "https://open.spotify.com/album/6ygyRATKFx7jhF4A96v8IX"
+      },
+      "artists": [
+        {
+          "name": "UMBRA",
+          "url": "https://open.spotify.com/artist/1Fmx9ikFyywYVTyP28OMUr"
+        }
+      ],
+      "duration_ms": 125032,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/1MOnF73Cw0F9kDB2QEakgN"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Choka",
         "url": "https://open.spotify.com/album/4T7yiJnwyoSIMhcvi0OXf5"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 145617,
       "name": "Choka",
       "url": "https://open.spotify.com/track/4CoZiQeDRaTMwZnhei5D0d"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Heaven Is A Place On Earth",
-        "url": "https://open.spotify.com/album/6ygyRATKFx7jhF4A96v8IX"
-      },
-      "artists": [
-        {
-          "name": "UMBRA",
-          "url": "https://open.spotify.com/artist/1Fmx9ikFyywYVTyP28OMUr"
-        }
-      ],
-      "duration_ms": 125032,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/1MOnF73Cw0F9kDB2QEakgN"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "ADULTA Y FUNCIONAL",
-        "url": "https://open.spotify.com/album/7JUCkoquPjHPJN3AVy9b5u"
-      },
-      "artists": [
-        {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
-        },
-        {
-          "name": "Marta Sango",
-          "url": "https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv"
-        },
-        {
-          "name": "eurosanto",
-          "url": "https://open.spotify.com/artist/0UDkMW0MDYYjQpPx0v7pBP"
-        }
-      ],
-      "duration_ms": 173775,
-      "name": "ADULTA Y FUNCIONAL",
-      "url": "https://open.spotify.com/track/7cMPEH5WqRvID3ovjYgy17"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Barbiet\u00faricos",
         "url": "https://open.spotify.com/album/7JfJdgYA7tvR79u619boAJ"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 139510,
       "name": "Barbiet\u00faricos",
       "url": "https://open.spotify.com/track/5O83Nfv1SG3587o5Xnm5om"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "ADULTA Y FUNCIONAL",
+        "url": "https://open.spotify.com/album/7JUCkoquPjHPJN3AVy9b5u"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "Marta Sango",
+          "url": "https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv"
+        },
+        {
+          "name": "eurosanto",
+          "url": "https://open.spotify.com/artist/0UDkMW0MDYYjQpPx0v7pBP"
+        }
+      ],
+      "duration_ms": 173775,
+      "name": "ADULTA Y FUNCIONAL",
+      "url": "https://open.spotify.com/track/7cMPEH5WqRvID3ovjYgy17"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "SPIKY",
-        "url": "https://open.spotify.com/album/3MVQDYcJNZJ7AVjfR3aove"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 161888,
-      "name": "SPIKY",
-      "url": "https://open.spotify.com/track/0D8uyGIEigO4wxlyrF2PgQ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Lejos del ruido",
         "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
       },
@@ -971,22 +955,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Crazy Cheap / Really Hot",
-        "url": "https://open.spotify.com/album/1jVgINsEd6mok8qposd6Yc"
+        "name": "SPIKY",
+        "url": "https://open.spotify.com/album/3MVQDYcJNZJ7AVjfR3aove"
       },
       "artists": [
         {
-          "name": "Babymorocco",
-          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
-        },
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Crazy Cheap",
-      "url": "https://open.spotify.com/track/3BvwN0lAegXbVBEyVcLTlw"
+      "duration_ms": 161888,
+      "name": "SPIKY",
+      "url": "https://open.spotify.com/track/0D8uyGIEigO4wxlyrF2PgQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 167552,
       "name": "TU NOVIO ES SUBNORMAL\u22c6\u2b52\u02da\uff61\u22c6",
       "url": "https://open.spotify.com/track/5HOp1e4VHTbzU017ze1xUX"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Crazy Cheap / Really Hot",
+        "url": "https://open.spotify.com/album/1jVgINsEd6mok8qposd6Yc"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        },
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Crazy Cheap",
+      "url": "https://open.spotify.com/track/3BvwN0lAegXbVBEyVcLTlw"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "debut3000",
+        "url": "https://open.spotify.com/album/26MR61YHUn8FHC6syTZ8no"
+      },
+      "artists": [
+        {
+          "name": "Roberta Nikita",
+          "url": "https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE"
+        }
+      ],
+      "duration_ms": 128231,
+      "name": "FERRARI",
+      "url": "https://open.spotify.com/track/6ATE1hAfyR5yOmPALVJkpv"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Noche De Halloween",
         "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "debut3000",
-        "url": "https://open.spotify.com/album/26MR61YHUn8FHC6syTZ8no"
-      },
-      "artists": [
-        {
-          "name": "Roberta Nikita",
-          "url": "https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE"
-        }
-      ],
-      "duration_ms": 128231,
-      "name": "FERRARI",
-      "url": "https://open.spotify.com/track/6ATE1hAfyR5yOmPALVJkpv"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Traketera",
         "url": "https://open.spotify.com/album/7bh0rEJbextPzbTMFDSHmL"
       },
@@ -1167,6 +1167,34 @@
       "duration_ms": 184864,
       "name": "Traketera",
       "url": "https://open.spotify.com/track/66Du2AJyRfGk6DUquh65xU"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "URIEL",
+        "url": "https://open.spotify.com/album/0MEVtWeCQWHcSzuolP4EOy"
+      },
+      "artists": [
+        {
+          "name": "Tekilas",
+          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
+        },
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Salty3r",
+          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
+        },
+        {
+          "name": "xkhavii",
+          "url": "https://open.spotify.com/artist/08qTPONjOqJunNwViG63DU"
+        }
+      ],
+      "duration_ms": 190277,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/2ShIQZQ4vGT7HRq1oR2JtV"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1255,34 +1283,6 @@
       "duration_ms": 226789,
       "name": "Me rodean (feat. Orslok)",
       "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "URIEL",
-        "url": "https://open.spotify.com/album/0MEVtWeCQWHcSzuolP4EOy"
-      },
-      "artists": [
-        {
-          "name": "Tekilas",
-          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
-        },
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Salty3r",
-          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
-        },
-        {
-          "name": "xkhavii",
-          "url": "https://open.spotify.com/artist/08qTPONjOqJunNwViG63DU"
-        }
-      ],
-      "duration_ms": 190277,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/2ShIQZQ4vGT7HRq1oR2JtV"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
-      },
-      "artists": [
-        {
-          "name": "LoLo",
-          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
-        },
-        {
-          "name": "Bardo",
-          "url": "https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6"
-        }
-      ],
-      "duration_ms": 125991,
-      "name": "GRIS",
-      "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "GUSTARLE A TU ABUELA",
         "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 132903,
       "name": "GUSTARLE A TU ABUELA",
       "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
+      },
+      "artists": [
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        },
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6"
+        }
+      ],
+      "duration_ms": 125991,
+      "name": "GRIS",
+      "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "LOVE 003",
+        "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 147350,
+      "name": "LOVE 003",
+      "url": "https://open.spotify.com/track/12pQvOYiIJw5dtng80QMul"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "LOVE 003",
-        "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 147350,
-      "name": "LOVE 003",
-      "url": "https://open.spotify.com/track/12pQvOYiIJw5dtng80QMul"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Checkpoint",
-        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
-      },
-      "artists": [
-        {
-          "name": "Traw",
-          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
-        }
-      ],
-      "duration_ms": 107168,
-      "name": "Checkpoint",
-      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "PENROSE",
         "url": "https://open.spotify.com/album/5nLPjBn032PXESRcknb4VT"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Checkpoint",
+        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
+      },
+      "artists": [
+        {
+          "name": "Traw",
+          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
+        }
+      ],
+      "duration_ms": 107168,
+      "name": "Checkpoint",
+      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "BESTOF2000.mp3",
         "url": "https://open.spotify.com/album/797xr5WMvnPBJnhMlqrhmV"
       },
@@ -1771,26 +1771,6 @@
       "duration_ms": 136114,
       "name": "BESTOF2000.mp3 - Sped up",
       "url": "https://open.spotify.com/track/4XsctW3iwYg910XZAlFjjj"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "cute//p#!@",
-        "url": "https://open.spotify.com/album/5LrnNZgybz0BSbAFqmSfnt"
-      },
-      "artists": [
-        {
-          "name": "Sara Fructuoso",
-          "url": "https://open.spotify.com/artist/36v2IsJvvrlFCs4TMLHo40"
-        },
-        {
-          "name": "Sneaky wh",
-          "url": "https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf"
-        }
-      ],
-      "duration_ms": 132350,
-      "name": "cute//p#!@",
-      "url": "https://open.spotify.com/track/2sKNWpiRzJzKKlHZCQlQum"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1815,6 +1795,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "cute//p#!@",
+        "url": "https://open.spotify.com/album/5LrnNZgybz0BSbAFqmSfnt"
+      },
+      "artists": [
+        {
+          "name": "Sara Fructuoso",
+          "url": "https://open.spotify.com/artist/36v2IsJvvrlFCs4TMLHo40"
+        },
+        {
+          "name": "Sneaky wh",
+          "url": "https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf"
+        }
+      ],
+      "duration_ms": 132350,
+      "name": "cute//p#!@",
+      "url": "https://open.spotify.com/track/2sKNWpiRzJzKKlHZCQlQum"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Enfermedad",
         "url": "https://open.spotify.com/album/4T0TvG4am4yq4kX1EV5lx7"
       },
@@ -1831,6 +1831,26 @@
       "duration_ms": 158870,
       "name": "Enfermedad",
       "url": "https://open.spotify.com/track/3UhrvAdMSewBOgSjPK9KY9"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Purgatorio_RMX",
+        "url": "https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        },
+        {
+          "name": "BAZOFIA",
+          "url": "https://open.spotify.com/artist/1imn2WUN95p3MbeAGUP7gK"
+        }
+      ],
+      "duration_ms": 230624,
+      "name": "almaenpena_rmx128bpm",
+      "url": "https://open.spotify.com/track/04OGJPfNNwkp5GOMmY5dVE"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1919,26 +1939,6 @@
       "duration_ms": 113600,
       "name": "irl.angel",
       "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Purgatorio_RMX",
-        "url": "https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        },
-        {
-          "name": "BAZOFIA",
-          "url": "https://open.spotify.com/artist/1imn2WUN95p3MbeAGUP7gK"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "almaenpena_rmx128bpm",
-      "url": "https://open.spotify.com/track/04OGJPfNNwkp5GOMmY5dVE"
     },
     {
       "added_at": "2024-06-27 22:00:00",

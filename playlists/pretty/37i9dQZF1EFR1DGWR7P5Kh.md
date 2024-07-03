@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734 likes - 37 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 37 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 3 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 |
 | 4 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 |
 | 5 | [Love Again](https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:34 |
-| 6 | [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 |
+| 6 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
 | 7 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 |
 | 8 | [Medicine](https://open.spotify.com/track/0dg2Lzt2LdlD8ReTSI11se) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Medicine](https://open.spotify.com/album/4u5HvbM2akj3bhSuLKBVPp) | 2:54 |
 | 9 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 36 | [Black Jesus \(feat\. Symba, Kaydence, Deion Gill & WorldWide Fresh\)](https://open.spotify.com/track/2wZCIjijiD4WsFg79RtKXV) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Deion Gill](https://open.spotify.com/artist/0Lf5rJG1V3FTMTRPwDyXCG), [WorldWide Fresh](https://open.spotify.com/artist/40kAWYgoxqesnb9Tg2ciPd) | [Godfather of Harlem: Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/5iViiTpRnW92VTxZqIdn61) | 4:35 |
 | 37 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
 
-Snapshot ID: `AbVj/gAAAADtyByusWNMo2uNtK2kVdRZ`
+Snapshot ID: `AbVpngAAAAAZOE0b09YsGfOU7kTuUQZf`

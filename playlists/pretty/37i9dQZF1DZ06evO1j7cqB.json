@@ -1,12 +1,12 @@
 {
-  "description": "This is Bear McCreary\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 9639,
+  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
+  "num_followers": 9645,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADZsZP0l35sppJSuG3R7l+o",
+  "snapshot_id": "ZoHxgAAAAACMnp6DSdg6cfmgfauM/vBK",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+        "name": "Unrest (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr"
       },
       "artists": [
         {
@@ -152,13 +152,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+          "name": "Ren",
+          "url": "https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM"
         }
       ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+      "duration_ms": 227059,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unrest (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr"
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
       },
       "artists": [
         {
@@ -192,13 +192,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Ren",
-          "url": "https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM"
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
         }
       ],
-      "duration_ms": 227059,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki"
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
     },
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singularity",
-        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 254317,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
+      "duration_ms": 177613,
+      "name": "The Day Will Come",
+      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "The Singularity",
+        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 177613,
-      "name": "The Day Will Come",
-      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
+      "duration_ms": 254317,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Brianna and Roger Theme",
-      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Echoes of an Old Life",
-      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "The Dragon",
-      "url": "https://open.spotify.com/track/3y6ok4gZSvQkDLlu89CwlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 201773,
       "name": "The Summoning (feat. Raya Yarbrough)",
       "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "The Dragon",
+      "url": "https://open.spotify.com/track/3y6ok4gZSvQkDLlu89CwlO"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 131186,
-      "name": "Nassau Shores",
-      "url": "https://open.spotify.com/track/6WoDhdxJvDSgy6WdSAwa5j"
+      "duration_ms": 135893,
+      "name": "To the Begging I Will Go",
+      "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"
     }
   ],
   "unique_name": "This Is Bear McCreary",

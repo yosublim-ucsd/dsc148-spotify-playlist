@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 49 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
 | 50 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 |
 | 51 | [Privilege](https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 2:50 |
-| 52 | [Right Hand](https://open.spotify.com/track/3lSR267IJfT54p0Gfuw7mi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Right Hand](https://open.spotify.com/album/6qIBaopvx9STCAa7ud8PRZ) | 3:10 |
-| 53 | [WHO? WHAT!](https://open.spotify.com/track/4KYS9GK68yeuUJ8vJfPxrq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:56 |
+| 52 | [WHO? WHAT!](https://open.spotify.com/track/4KYS9GK68yeuUJ8vJfPxrq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:56 |
+| 53 | [Right Hand](https://open.spotify.com/track/3lSR267IJfT54p0Gfuw7mi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Right Hand](https://open.spotify.com/album/6qIBaopvx9STCAa7ud8PRZ) | 3:10 |
 | 54 | [Nervous](https://open.spotify.com/track/113xf7t4qNM7038YJvauik) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 4:05 |
 | 55 | [Attention](https://open.spotify.com/track/6pDVjCUA3B1vg9waKutAsv) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:17 |
 | 56 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 168 | [DNA](https://open.spotify.com/track/26iXP0pZ6tbG8vCQLNDjaq) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [XXX \(Deluxe Version\)](https://open.spotify.com/album/3vyMhFtK8R0cFoMfnBfztb) | 2:56 |
 | 169 | [Higher Calling \(feat\. Jill Scott\)](https://open.spotify.com/track/0XMtJELwYVRDtv8KhFLE6P) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/4vPCCjXRWZsZaJXgwLoMBC) | 3:53 |
 | 170 | [Eyes Closed](https://open.spotify.com/track/3tdGiKfoiBa7fZzwvsvBLc) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:58 |
-| 171 | [Laptop](https://open.spotify.com/track/52SqJwQ2bveCI74WE7XPoA) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Installation I](https://open.spotify.com/album/1u4p9Aw53qYC4o3Cd907fp) | 3:18 |
-| 172 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
+| 171 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
+| 172 | [Laptop](https://open.spotify.com/track/52SqJwQ2bveCI74WE7XPoA) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Installation I](https://open.spotify.com/album/1u4p9Aw53qYC4o3Cd907fp) | 3:18 |
 | 173 | [Like Them \(feat\. Tory Lanez, Rick Ross\)](https://open.spotify.com/track/6Xfb6qPfyxd74crexohl8p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 3:50 |
 | 174 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 175 | [Jo Bros](https://open.spotify.com/track/6RMNFacCLVjpthfp62orGz) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [One Night Only](https://open.spotify.com/album/6GdJPhGu12KSZ7KdgBfye1) | 3:35 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbVj+wAAAAA0WO8htmRURinbqBbbnwt0`
+Snapshot ID: `AbVpmwAAAACX8CXGg7S/JCEnCH6KXaxI`

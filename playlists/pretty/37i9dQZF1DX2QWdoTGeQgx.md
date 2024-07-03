@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,254 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,255 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 63 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 64 | [without me \(sera\)](https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [without me \(sera\)](https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1) | 3:39 |
 | 65 | [Buat Selamanya](https://open.spotify.com/track/30RXOBps0tCYY6AuM4Rfog) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Buat Selamanya](https://open.spotify.com/album/7An5iHB0LphcsUvwRiRHHl) | 3:34 |
-| 66 | [Kantoi](https://open.spotify.com/track/4lWTmfcJM1Y9qbq3jdC5WN) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi](https://open.spotify.com/album/3ZMkXIsa2NtN3ToY4xQp4X) | 1:44 |
+| 66 | [iwbwy](https://open.spotify.com/track/583uuDYBVzaJ7D6mD53gX2) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [iwbwy](https://open.spotify.com/album/6w9LzECJXjTyLdhd9LdmH6) | 2:56 |
 | 67 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
-| 68 | [iwbwy](https://open.spotify.com/track/583uuDYBVzaJ7D6mD53gX2) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [iwbwy](https://open.spotify.com/album/6w9LzECJXjTyLdhd9LdmH6) | 2:56 |
+| 68 | [Kantoi](https://open.spotify.com/track/4lWTmfcJM1Y9qbq3jdC5WN) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi](https://open.spotify.com/album/3ZMkXIsa2NtN3ToY4xQp4X) | 1:44 |
 | 69 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
-| 70 | [Same Mistakes](https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Same Mistakes](https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD) | 2:38 |
+| 70 | [A Day That Feels Better](https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 3:50 |
 
 Snapshot ID: `ZlfHvgAAAADEZ5qxt6P2Eanr0REbueJ6`

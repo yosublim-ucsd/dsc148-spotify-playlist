@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 101138,
+  "num_followers": 101189,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Ahora o Nunca",
-        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 373407,
-      "name": "En Defensa Propia",
-      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Alquimista",
         "url": "https://open.spotify.com/album/66bNCIpTWpOyUkSxm3UvKE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 214285,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Ahora o Nunca",
+        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 373407,
+      "name": "En Defensa Propia",
+      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -475,6 +475,30 @@
       "duration_ms": 289649,
       "name": "Rap da Rap quita",
       "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -571,30 +595,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Parlante",
-        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        },
-        {
-          "name": "Valles T",
-          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
-        },
-        {
-          "name": "Raymond Daniel",
-          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "Parlante",
-      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
       },
@@ -615,22 +615,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
+        "name": "Callejones",
+        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
       "artists": [
         {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         },
         {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Merced",
-      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
+      "duration_ms": 192000,
+      "name": "Callejones",
+      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -651,22 +651,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Callejones",
-        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
       "artists": [
         {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
         },
         {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Callejones",
-      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+      "duration_ms": 173466,
+      "name": "Merced",
+      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "No Plastic",
+        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "duration_ms": 225238,
+      "name": "No Plastic",
+      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 183013,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "No Plastic",
-        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
-      },
-      "artists": [
-        {
-          "name": "Mamborap",
-          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
-        },
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 225238,
-      "name": "No Plastic",
-      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Tiempos Muertos",
         "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Dictamen",
-        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Dictamen",
-      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "104",
         "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 188000,
       "name": "104",
       "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Dictamen",
+        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Dictamen",
+      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Ser\u00e1 posible?",
-        "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
         },
         {
-          "name": "IceOD",
-          "url": "https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B"
+          "name": "Magic Classic",
+          "url": "https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Ser\u00e1 posible?",
-      "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
+      "duration_ms": 145520,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
+        "name": "Ser\u00e1 posible?",
+        "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
       },
       "artists": [
         {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         },
         {
-          "name": "Magic Classic",
-          "url": "https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM"
+          "name": "IceOD",
+          "url": "https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B"
         }
       ],
-      "duration_ms": 145520,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
+      "duration_ms": 158500,
+      "name": "Ser\u00e1 posible?",
+      "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1743,6 +1743,22 @@
       "duration_ms": 229761,
       "name": "El rap es nuestra arma",
       "url": "https://open.spotify.com/track/61lOmoS69aWS1N3wGReWm1"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Siempreviva",
-        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 190528,
-      "name": "Bienvenidx",
-      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Inedito",
         "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
       },
@@ -1883,6 +1883,22 @@
       "duration_ms": 181110,
       "name": "En el Aire",
       "url": "https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1983,22 +1999,6 @@
       "duration_ms": 150604,
       "name": "Rap Conciencia",
       "url": "https://open.spotify.com/track/3Yy12Xxqugjxvs4dWKvGMD"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     }
   ],
   "unique_name": "Rap Conciencia",

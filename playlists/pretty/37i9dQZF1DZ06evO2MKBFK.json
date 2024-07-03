@@ -1,12 +1,12 @@
 {
-  "description": "This Is BIGBANG. Los temas esenciales, todos en una lista.",
-  "num_followers": 612482,
+  "description": "This is BIGBANG. The essential tracks, all in one playlist.",
+  "num_followers": 612493,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACzdGgI7nncqQU0QBaYdiaJ",
+  "snapshot_id": "ZoHxgAAAAACE7LI6x+W9mJ38F3iHd6Qu",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "KOE WO KIKASETE - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/3IBZcTeLOvt18WzVOjLj5G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -698,43 +746,15 @@
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "KOE WO KIKASETE - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-      "url": "https://open.spotify.com/track/3IBZcTeLOvt18WzVOjLj5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
+        },
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+      "duration_ms": 224053,
+      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
       "duration_ms": 205200,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 25081,
+  "num_followers": 25087,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADh50G+RCQbnjjdMtPxFp6E",
+  "snapshot_id": "ZoHxgAAAAABsj/86+T3FuwOpWIQUPHJj",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 174426,
-      "name": "Abeja Re\u00edna",
-      "url": "https://open.spotify.com/track/2m5ePayanrtB3LWWiKxVEg"
     },
     {
       "added_at": null,
@@ -491,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Amores Ni Deudas",
         "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
@@ -527,6 +495,22 @@
       "duration_ms": 184000,
       "name": "Tres Por Una",
       "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 149386,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
     },
     {
       "added_at": null,
@@ -563,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "El Beso De Judas",
-      "url": "https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 140826,
       "name": "Mudo Por Tu Amor",
       "url": "https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "El Beso De Judas",
+      "url": "https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D"
     },
     {
       "added_at": null,
@@ -627,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "Corazon Viejo",
-      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 172293,
       "name": "La Paga",
       "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Corazon Viejo",
+      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
     },
     {
       "added_at": null,
@@ -691,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "El Amor De Los Dos",
-      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apartamento Tres",
         "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 179373,
       "name": "El Caim\u00e1n",
       "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "El Amor De Los Dos",
+      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
     },
     {
       "added_at": null,
@@ -755,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Ultimo Amor, Ultimo Due\u00f1o",
-      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -787,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 176533,
+      "name": "Ultimo Amor, Ultimo Due\u00f1o",
+      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 188120,
       "name": "No Te Paniquees",
       "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "La Desmedida",
+      "url": "https://open.spotify.com/track/3ilkGDqYW0m2gpDBD09qnE"
     },
     {
       "added_at": null,

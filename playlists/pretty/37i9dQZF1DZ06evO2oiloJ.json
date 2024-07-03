@@ -1,12 +1,12 @@
 {
-  "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 199828,
+  "description": "This is Rod Wave. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
+  "num_followers": 200039,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAABJIBdHUQ17TubbHjK3tFa/",
+  "snapshot_id": "ZoHxgAAAAACiPlVZrH1nWvNKkpeN7DtD",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 141166,
+      "name": "Home Ain't Home (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -519,22 +539,6 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "Fuck The World",
-      "url": "https://open.spotify.com/track/6F4tgHJ5dE0pVWRPs3m1hs"
     },
     {
       "added_at": null,
@@ -571,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "Fuck The World",
+      "url": "https://open.spotify.com/track/6F4tgHJ5dE0pVWRPs3m1hs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SoulFly (Deluxe Version)",
         "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
@@ -583,22 +603,6 @@
       "duration_ms": 205714,
       "name": "2019",
       "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "How Would You Feel",
-      "url": "https://open.spotify.com/track/5Rb0YibLtcl4zi4v4eglGR"
     },
     {
       "added_at": null,
@@ -619,6 +623,22 @@
       "duration_ms": 190458,
       "name": "Richer (feat. Polo G)",
       "url": "https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "How Would You Feel",
+      "url": "https://open.spotify.com/track/5Rb0YibLtcl4zi4v4eglGR"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This is bludnymph\. The essential tracks, all in one playlist.
+> This is bludnymph\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 23 songs - 58 min 25 sec
 

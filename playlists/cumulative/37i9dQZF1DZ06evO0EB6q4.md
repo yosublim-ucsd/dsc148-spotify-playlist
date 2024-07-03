@@ -4,11 +4,11 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 28 min
+60 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alcatraz](https://open.spotify.com/track/3z5eBMaMIJHF7JNDCA1RGB) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Rocketman](https://open.spotify.com/album/6mrbpYQQijgtoxyF472JEJ) | 3:39 | 2024-07-02 |  |
+| [Alcatraz](https://open.spotify.com/track/3z5eBMaMIJHF7JNDCA1RGB) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Rocketman](https://open.spotify.com/album/6mrbpYQQijgtoxyF472JEJ) | 3:39 | 2024-07-02 | 2024-07-03 |
 | [Alcatraz](https://open.spotify.com/track/4SvYTCLX6aQWWrK3wTJ2QN) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Alcatraz](https://open.spotify.com/album/2NEQkPwH58q77gdlzODUWD) | 3:39 | 2023-12-30 | 2024-04-19 |
 | [Alcatraz](https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Alcatraz](https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese) | 3:39 | 2024-04-19 | 2024-04-28 |
 | [Aprovéchame](https://open.spotify.com/track/0hCDMlpaTpyQQ5Ovgj0cq5) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Obra Negra](https://open.spotify.com/album/6HqIURdhRk251kGeywxhDK) | 3:27 | 2023-12-30 |  |
@@ -18,6 +18,7 @@
 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 | 2023-12-30 |  |
 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 | 2023-12-30 |  |
 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 | 2023-12-30 |  |
+| [Como Tú Todas](https://open.spotify.com/track/0Vs1CeOutE6JwdEjSMZD5n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:41 | 2024-07-03 |  |
 | [Contrato](https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:52 | 2023-12-30 |  |
 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 | 2024-05-27 |  |
 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 | 2023-12-30 |  |

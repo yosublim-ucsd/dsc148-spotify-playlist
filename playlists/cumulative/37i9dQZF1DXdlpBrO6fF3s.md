@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-148 songs - 8 hr 15 min
+150 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-02 | 2024-04-19 |
 | [HALAZIA](https://open.spotify.com/track/5lh5eRZDsMC19G0DruLYTX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC) | 3:17 | 2024-03-15 |  |
 | [Horizon](https://open.spotify.com/track/7aq8t9D82PJuqH7TFT4W6O) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:11 | 2022-02-03 |  |
+| [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-02 |  |
 | [I'm The One \- Eden\-ary Remix](https://open.spotify.com/track/57RBkK05Zi0dF00Sn2oCM9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:14 | 2023-01-02 | 2024-04-19 |
 | [I'm The One \- HEAT\-TOPPING Version](https://open.spotify.com/track/4h8DDTLayF06jMWIPJlBb3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:52 | 2022-02-03 |  |
 | [If Without You](https://open.spotify.com/track/0gi1k5Lg3ysIjoHlrFcjpw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN : All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:20 | 2022-02-03 |  |
@@ -155,6 +156,7 @@
 | [WONDERLAND \- SEAN OH's Skrt Mix](https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [SEAN OH](https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:18 | 2022-02-03 |  |
 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-06-04 |  |
 | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-11 |  |
+| [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog) | 2:45 | 2024-07-02 |  |
 | [Youth \(YUNHO, MINGI\)](https://open.spotify.com/track/136oL23K6A6g4PvptBWcS7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:29 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2022-07-11. Prior content cannot be recovered.

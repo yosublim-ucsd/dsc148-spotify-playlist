@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,866 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,874 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 4 | [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 |
 | 5 | [кончил](https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0) | [ENINA](https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG) | [кончил](https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6) | 2:10 |
 | 6 | [Кис Кис Кис](https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:42 |
-| 7 | [ГЛАМУР](https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [GLAMOUR](https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p) | 3:08 |
+| 7 | [ГЛАМУР](https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Wipo](https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP) | [GLAMOUR](https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p) | 3:08 |
 | 8 | [Я Помню](https://open.spotify.com/track/2qGVLBfDNtNV56EEC5fHW9) | [DIMA SP](https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d) | [Я Помню](https://open.spotify.com/album/7t3giNZ5ldGGRXRdJ985pQ) | 3:56 |
 | 9 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 10 | [На стол](https://open.spotify.com/track/30GJwqreWeTrttyGMeupoT) | [LonelyStash](https://open.spotify.com/artist/2a8cXvjGFnJoXtGJN6NkoR), [Готлиб](https://open.spotify.com/artist/09rKYVR8DT7xM2V3CsD7SP) | [На стол](https://open.spotify.com/album/63qaXs2BXAEbthaS0DBdQM) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 | 50 | [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 |
 
-Snapshot ID: `LhYUmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LhdmGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

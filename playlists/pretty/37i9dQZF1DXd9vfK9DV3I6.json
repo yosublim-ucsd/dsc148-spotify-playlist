@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 323383,
+  "num_followers": 323502,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
-        "name": "Moulat Lkhala",
-        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Moulat Lkhala",
-      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
-    },
-    {
-      "added_at": "2024-06-26 07:28:57",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 201125,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+    },
+    {
+      "added_at": "2024-06-26 07:28:57",
+      "album": {
+        "name": "Moulat Lkhala",
+        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Moulat Lkhala",
+      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
     },
     {
       "added_at": "2024-06-26 07:28:57",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
-    },
-    {
-      "added_at": "2024-06-26 07:28:57",
-      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2024-06-26 07:28:57",
+      "album": {
+        "name": "CEWRESAMIN",
+        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Cewresamin",
+      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
     },
     {
       "added_at": "2024-06-26 07:28:57",
@@ -1091,6 +1091,30 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
+        "name": "El Hawa",
+        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        },
+        {
+          "name": "Hayam Mansour",
+          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
+        }
+      ],
+      "duration_ms": 347855,
+      "name": "El Hawa",
+      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2024-06-26 07:28:57",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2024-06-26 07:28:57",
-      "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
-        }
-      ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
     },
     {
       "added_at": "2024-06-26 07:28:57",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+    },
+    {
+      "added_at": "2024-06-26 07:28:57",
+      "album": {
         "name": "Yasameen",
         "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2024-06-26 07:28:57",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2024-06-26 07:28:57",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
-    },
-    {
-      "added_at": "2024-06-26 07:28:57",
-      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
+    },
+    {
+      "added_at": "2024-06-26 07:28:57",
+      "album": {
+        "name": "Mawjou3 Galbi",
+        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        },
+        {
+          "name": "Najwa Farouk",
+          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Mawjou3 Galbi",
+      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
     },
     {
       "added_at": "2024-06-26 07:28:57",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2024-06-26 07:28:57",
-      "album": {
         "name": "Yaman",
         "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 293694,
       "name": "Yaman - Radio Edit",
       "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"
+    },
+    {
+      "added_at": "2024-06-26 07:28:57",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2024-06-26 07:28:57",
@@ -1915,22 +1915,26 @@
     {
       "added_at": "2024-06-26 07:28:57",
       "album": {
-        "name": "Anatolian Vibe",
-        "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
       },
       "artists": [
         {
-          "name": "Kad1r",
-          "url": "https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi"
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
         },
         {
-          "name": "Bugra Atmaca",
-          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
         }
       ],
-      "duration_ms": 187779,
-      "name": "Anatolian Vibe",
-      "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     }
   ],
   "unique_name": "mosaic",

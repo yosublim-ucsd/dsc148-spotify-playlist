@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,613 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,677 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 70 | [Única](https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Única](https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ) | 3:54 |
 | 71 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 |
 | 72 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
-| 73 | [Grega](https://open.spotify.com/track/7cY7ufQTW8XJ62Q9KsNVwh) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Bruna Amado](https://open.spotify.com/artist/5pRlnFpk8M6RZabwNbCCTc), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Grega](https://open.spotify.com/album/3p7jFAdBLyEFhKM4NVwgHx) | 3:10 |
-| 74 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
+| 73 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
+| 74 | [Grega](https://open.spotify.com/track/7cY7ufQTW8XJ62Q9KsNVwh) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Bruna Amado](https://open.spotify.com/artist/5pRlnFpk8M6RZabwNbCCTc), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Grega](https://open.spotify.com/album/3p7jFAdBLyEFhKM4NVwgHx) | 3:10 |
 | 75 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
 | 76 | [Sabi](https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Sabi](https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj) | 3:20 |
 | 77 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 |

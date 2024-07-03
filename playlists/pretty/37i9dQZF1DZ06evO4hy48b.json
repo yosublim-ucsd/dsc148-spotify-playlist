@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 199750,
+  "num_followers": 199819,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACSGm+i9MXkXkkqjnLcVrI7",
+  "snapshot_id": "ZoHxgAAAAACcCSrNHq0qj9Og2LpX9uAZ",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s De Lo Que Apost\u00e9",
         "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
@@ -151,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -175,22 +215,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "CORAZ\u00d3N SIN VIDA",
+      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 179648,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
     },
     {
       "added_at": null,
@@ -231,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 179648,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -260,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 170346,
-      "name": "Darar\u00ed",
-      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
+      "duration_ms": 153506,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0"
     },
     {
       "added_at": null,
@@ -287,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En El Coche",
+        "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 125080,
+      "name": "En El Coche",
+      "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Berl\u00edn",
         "url": "https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK"
       },
@@ -303,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Darar\u00ed",
+      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -315,22 +419,6 @@
       "duration_ms": 155645,
       "name": "SI NO VAS A VOLVER",
       "url": "https://open.spotify.com/track/7es67JIZ333OB30dYfjfal"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "24 Rosas",
-      "url": "https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J"
     },
     {
       "added_at": null,
@@ -447,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "24 Rosas",
+      "url": "https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La \u00daltima (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
       },
@@ -463,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "2 Extra\u00f1os",
-      "url": "https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -486,31 +574,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 213179,
-      "name": "11 RAZONES",
-      "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Foto Del DNI",
-        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         },
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 179653,
-      "name": "Tu Foto Del DNI",
-      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
+      "duration_ms": 153787,
+      "name": "ESTUPIDEZ",
+      "url": "https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2"
     },
     {
       "added_at": null,
@@ -543,24 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Ella Bailaba",
-      "url": "https://open.spotify.com/track/08Aq3EZhoJFc4sLaUt6Ifq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
       },
       "artists": [
         {
@@ -568,13 +624,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 153787,
-      "name": "ESTUPIDEZ",
-      "url": "https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2"
+      "duration_ms": 197393,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5"
     },
     {
       "added_at": null,
@@ -595,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
@@ -604,13 +660,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 197393,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5"
+      "duration_ms": 167192,
+      "name": "CUANDO TE FUISTE",
+      "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
     },
     {
       "added_at": null,
@@ -635,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "Ni Una M\u00e1s",
+        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
       },
       "artists": [
         {
@@ -644,25 +700,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 210726,
-      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/31qkCNFBgcbbMO3kk7aoNR"
+      "duration_ms": 208378,
+      "name": "Ni Una M\u00e1s",
+      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
     },
     {
       "added_at": null,
@@ -683,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEL\u00c9FONO",
-        "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
@@ -692,25 +732,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 163293,
-      "name": "TEL\u00c9FONO",
-      "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Una M\u00e1s",
-        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "Ni Una M\u00e1s",
-      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
+      "duration_ms": 210726,
+      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
     },
     {
       "added_at": null,
@@ -739,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La \u00daltima (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
       },
@@ -751,26 +799,6 @@
       "duration_ms": 148260,
       "name": "A la calle",
       "url": "https://open.spotify.com/track/2LH0ang4YHYvupIFK2P7DS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Me Quedo",
-      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
     },
     {
       "added_at": null,
@@ -799,18 +827,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 141335,
-      "name": "X (POR)",
-      "url": "https://open.spotify.com/track/365Tuoe67LpDMy7G1L0pKk"
+      "duration_ms": 174433,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coldplay",
+        "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Coldplay",
+      "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
     },
     {
       "added_at": null,
@@ -847,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sus Canciones (Operaci\u00f3n Triunfo 2017)",
-        "url": "https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/6wlThRyC93GEyCVE9AwONd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La \u00daltima (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
       },
@@ -879,70 +911,6 @@
       "duration_ms": 176484,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/3Nq00rASEwBSTmG9o4rvn0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sus Canciones (Operaci\u00f3n Triunfo 2017)",
-        "url": "https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 197723,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/2ZTYZ8toduZdCmuw2fvxpb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/1cS8swS9AR9Oohcidcl8LT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sus Canciones (Operaci\u00f3n Triunfo 2017)",
-        "url": "https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 136570,
-      "name": "Chas! Y Aparezco A Tu Lado",
-      "url": "https://open.spotify.com/track/2NeLIdSs8z8sQ7zLpABVKy"
     }
   ],
   "unique_name": "This Is Aitana",

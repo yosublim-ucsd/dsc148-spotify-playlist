@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hubert Lenoir, P'tit Belliveau
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,160 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,159 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 17 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 |
 | 18 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 |
 | 19 | [Pretty Privilege \(feat\. Emma Beko\)](https://open.spotify.com/track/0O16BMpkbPWHGgbdUk3tG8) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE), [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Pretty Privilege \(feat\. Emma Beko\)](https://open.spotify.com/album/1yrdOeCzid2nTGKUpnVHos) | 3:02 |
-| 20 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 |
-| 21 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 |
-| 22 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 |
+| 20 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 |
+| 21 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 |
+| 22 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 |
 | 23 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 |
-| 24 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 |
+| 24 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 |
 | 25 | [FTB](https://open.spotify.com/track/2V36YxLYeTq8vCMsie7h4N) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Coeur Froid](https://open.spotify.com/album/47wNVJh9QoFTQxj69gthmw) | 2:50 |
 | 26 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 |
 | 27 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 30 | [HASTA LA VISTA](https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [HASTA LA VISTA](https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT) | 3:19 |
 | 31 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 |
 | 32 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
-| 33 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 |
-| 34 | [Miss France](https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Miss France](https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy) | 2:46 |
+| 33 | [Miss France](https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Miss France](https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy) | 2:46 |
+| 34 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 |
 | 35 | [PAF](https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [PAF](https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x) | 2:52 |
 | 36 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
 | 37 | [Mean mug](https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [1001 Nuits](https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA) | 4:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 45 | [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 |
 | 46 | [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 |
 | 47 | [Le Ciel Sur La Tête](https://open.spotify.com/track/619m8eazjTsTbSbTO8zrWA) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Le Ciel Sur La Tête](https://open.spotify.com/album/5bMQnBg8l1zzuxrlmRR3yo) | 2:58 |
-| 48 | [La Raclure](https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Raclure](https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU) | 3:02 |
-| 49 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 |
-| 50 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 |
+| 48 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 |
+| 49 | [La Raclure](https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Raclure](https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU) | 3:02 |
+| 50 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 |
 
 Snapshot ID: `Zn41QAAAAABL6B+D2XqU+QOHEr7IPohu`

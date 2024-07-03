@@ -2,7 +2,7 @@
 
 ### [Cumbias de Oro](https://open.spotify.com/playlist/37i9dQZF1DX1fWwsbVMoI6)
 
-> A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
+> A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
 152 songs - 10 hr 28 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20049,
+  "num_followers": 20058,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAA4Gm/B3lxb7242vLDTZPuC",
+  "snapshot_id": "ZoHxgAAAAAD/jKTrNZ7gNTekl+ovy75m",
   "tracks": [
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 259826,
-      "name": "Cousins",
-      "url": "https://open.spotify.com/track/0kGYs4cJEQ9yHv0uyXQzgl"
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 259826,
+      "name": "Cousins",
+      "url": "https://open.spotify.com/track/0kGYs4cJEQ9yHv0uyXQzgl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Ledi Coumbe",
-      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+      "duration_ms": 276920,
+      "name": "Soya",
+      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
     },
     {
       "added_at": null,
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 276920,
-      "name": "Soya",
-      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
     },
     {
       "added_at": null,
@@ -588,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+      "duration_ms": 256853,
+      "name": "Yer Bounda Fara",
+      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
     },
     {
       "added_at": null,
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 256853,
-      "name": "Yer Bounda Fara",
-      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+      "duration_ms": 153000,
+      "name": "Hanana",
+      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 253226,
       "name": "Instrumental",
       "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Hanana",
-      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
     },
     {
       "added_at": null,

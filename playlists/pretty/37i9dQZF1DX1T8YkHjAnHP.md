@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,336 likes - 78 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,414 likes - 78 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 74 | [Aman Aman](https://open.spotify.com/track/6YUrlco4SopSROwFJLQOuY) | [Scopelyser](https://open.spotify.com/artist/2EdSqpXiAxn9a8Qj7egvY5) | [Somoya EP](https://open.spotify.com/album/1pnZocy43xoV4IsGM49yAp) | 4:40 |
 | 75 | [Bayede \- Caiiro Remix](https://open.spotify.com/track/2xEqx4dOq2zh4g4q3A5WZZ) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Victor Sithole](https://open.spotify.com/artist/09dRPZ9Dxg6VsIxxNpvRw4), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Bayede Remixes](https://open.spotify.com/album/6uTSYjU1KzAlkJ8mLehm0a) | 6:32 |
 | 76 | [Dark Song](https://open.spotify.com/track/4O2xx1GL1WIhqZIwIJauPY) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Dark Song](https://open.spotify.com/album/0qtcst9d8WgDNlhBCwtuGn) | 5:20 |
-| 77 | [Amoladore](https://open.spotify.com/track/4CvzJUUPTFMKmP2Is8nZqJ) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Amoladore](https://open.spotify.com/album/3TQUl714wrrAPsbRG0ruwv) | 5:34 |
+| 77 | [Amoladore](https://open.spotify.com/track/4CvzJUUPTFMKmP2Is8nZqJ) | [Kadosh](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Amoladore](https://open.spotify.com/album/3TQUl714wrrAPsbRG0ruwv) | 5:34 |
 | 78 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
 Snapshot ID: `ZoJ3WAAAAADX+6eI9MYmdjXbhctpoxlZ`

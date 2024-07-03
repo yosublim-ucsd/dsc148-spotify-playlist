@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 84125,
+  "num_followers": 84219,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAAMSNOZp5VRzM/oUAux98K9",
+  "snapshot_id": "ZoHxgAAAAAChW/1cyeZYEiVwbzDnphIE",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+        "name": "fall in love with a girl (feat. Beabadoobee)",
+        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
       "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158195,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
+      "duration_ms": 190853,
+      "name": "fall in love with a girl (feat. Beabadoobee)",
+      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
       "added_at": null,
@@ -423,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
       "artists": [
         {
@@ -432,9 +436,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 194994,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
+      "duration_ms": 158195,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
     },
     {
       "added_at": null,
@@ -455,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
       "artists": [
         {
@@ -464,9 +468,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 247584,
-      "name": "Art Class",
-      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
+      "duration_ms": 194994,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
     },
     {
       "added_at": null,
@@ -487,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
       "artists": [
         {
@@ -496,9 +500,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 260024,
-      "name": "How Was Your Day?",
-      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+      "duration_ms": 247584,
+      "name": "Art Class",
+      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
     },
     {
       "added_at": null,
@@ -515,6 +519,38 @@
       "duration_ms": 231860,
       "name": "I Wish I Was Stephen Malkmus",
       "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 260024,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "added_at": null,
@@ -631,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-        "url": "https://open.spotify.com/album/0kD66lHtMMohY7jcEHvs4X"
+        "name": "Susie May",
+        "url": "https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop"
       },
       "artists": [
         {
@@ -640,9 +676,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 145568,
-      "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-      "url": "https://open.spotify.com/track/3aEHvzMByrqJSgYhtVkxrI"
+      "duration_ms": 266756,
+      "name": "Susie May",
+      "url": "https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79"
     },
     {
       "added_at": null,
@@ -695,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Susie May",
-        "url": "https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop"
+        "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+        "url": "https://open.spotify.com/album/0kD66lHtMMohY7jcEHvs4X"
       },
       "artists": [
         {
@@ -704,9 +740,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 266756,
-      "name": "Susie May",
-      "url": "https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79"
+      "duration_ms": 145568,
+      "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "url": "https://open.spotify.com/track/3aEHvzMByrqJSgYhtVkxrI"
     },
     {
       "added_at": null,
@@ -843,22 +879,6 @@
       "duration_ms": 236048,
       "name": "Hurry Home (with beabadoobee & Jay Som)",
       "url": "https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space Cadet",
-        "url": "https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 244214,
-      "name": "Are You Sure",
-      "url": "https://open.spotify.com/track/1d4EO17bQjTyG910D2y8bN"
     }
   ],
   "unique_name": "This Is beabadoobee",

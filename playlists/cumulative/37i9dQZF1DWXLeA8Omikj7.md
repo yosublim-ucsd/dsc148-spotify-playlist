@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-960 songs - 2 day 20 hr 53 min
+961 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2023-03-19 |
 | [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 | 2024-04-19 |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 | 2022-07-27 |
+| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 |  |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2022-04-20 |
 | [Haul \(Max Cooper Remix\)](https://open.spotify.com/track/6WXXOjaynxjyiyXwD6Wh2g) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 7:15 | 2019-06-19\* | 2022-04-18 |
 | [Head Above The Parakeets](https://open.spotify.com/track/1jK4ngN1uGHVk6x2ae2C5G) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/1tp6VBpXpeJ7ZHj4j18KCN) | 7:16 | 2020-11-13 | 2022-04-21 |
@@ -940,7 +941,7 @@
 | [When I Look Into Your Eyes](https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [When I Look Into Your Eyes](https://open.spotify.com/album/1JkaeIKoQe9IAJLVjOYH9Z) | 4:12 | 2021-01-17 |  |
 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 | 2021-06-10 | 2023-10-14 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2019-06-19\* | 2020-10-19 |
-| [wherever you end up](https://open.spotify.com/track/7LLL33wfg5jS9ApaUCK0YO) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [wherever you end up](https://open.spotify.com/album/1tfclMy22yk1IeCrwb5LIn) | 2:28 | 2024-06-14 |  |
+| [wherever you end up](https://open.spotify.com/track/7LLL33wfg5jS9ApaUCK0YO) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [wherever you end up](https://open.spotify.com/album/1tfclMy22yk1IeCrwb5LIn) | 2:28 | 2024-06-14 | 2024-07-03 |
 | [Whirl](https://open.spotify.com/track/1GzNJTAhYDIjN1WXJlXPBM) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Wirbel](https://open.spotify.com/album/3aDnuXX0vkoXJZjYZvs69L) | 4:50 | 2023-12-21 |  |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispering Wind \(B\-Sides\)](https://open.spotify.com/track/21VSSsSwr0oTNJQtILJbdK) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 6:02 | 2019-07-25 | 2020-08-26 |

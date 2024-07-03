@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 ### [This Is Jesús Adrián Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1e4ODC)
 
-> This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
+> This Is Jesús Adrián Romero\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,975 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,029 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 21 | [Indomable \- Live](https://open.spotify.com/track/5FUsHxUB7MVpM6sRSjCZbD) | [Vástago Epicentro](https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Epicentro Live \(Desde Monterrey, México\)](https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw) | 4:15 |
 | 22 | [Espérame](https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 5:10 |
 | 23 | [El Brillo De Mis Ojos](https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:31 |
-| 24 | [Si Hubiera Estado Allí](https://open.spotify.com/track/3uXGXOMNeRHSFULmV2AVur) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:55 |
-| 25 | [Al Taller del Maestro](https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Al Taller del Maestro](https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF) | 5:24 |
+| 24 | [Al Taller del Maestro](https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Al Taller del Maestro](https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF) | 5:24 |
+| 25 | [Si Hubiera Estado Allí](https://open.spotify.com/track/3uXGXOMNeRHSFULmV2AVur) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:55 |
 | 26 | [Olvidé Cuidar Mi Huerto](https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:47 |
 | 27 | [Esperar En Ti \- En Vivo](https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:37 |
-| 28 | [No Hay Paredes](https://open.spotify.com/track/2j7FpHZDjUERGXxqL6Dzoi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:06 |
-| 29 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
+| 28 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
+| 29 | [No Hay Paredes](https://open.spotify.com/track/2j7FpHZDjUERGXxqL6Dzoi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:06 |
 | 30 | [Soplando Vida](https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 4:15 |
 | 31 | [Eras Tú](https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:22 |
 | 32 | [¿Cómo Me Ves?](https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Dame Este Monte](https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Daniel Santoy](https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 3:39 |
 | 50 | [Brilla](https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:19 |
 
-Snapshot ID: `ZoCgAAAAAADBlcatGeCtL/hFFDoHlGCU`
+Snapshot ID: `ZoHxgAAAAADWDfWqrxbQPXByuswVu3Va`

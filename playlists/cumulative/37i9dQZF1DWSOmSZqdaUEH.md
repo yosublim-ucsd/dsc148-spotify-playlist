@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Miss Night and Day\. \(낮과 밤이 다른 그녀의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-20 songs - 1 hr 9 min
+21 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 | 2024-06-25 |  |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 | 2024-06-25 |  |
 | [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 | 2024-06-25 |  |
+| [Lucky Charm](https://open.spotify.com/track/2Al2YIy0UvZOXJBm7xf4Bf) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Miss Night and Day \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3kHpmhoOVHOPE8m3AKlIJ9) | 3:09 | 2024-07-02 |  |
 | [Mr\. Chu](https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 | 2024-06-25 |  |
 | [My Little Dream](https://open.spotify.com/track/31oMKy2r0wUY6VzirHvmvC) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Miss Night and Day \(Original Television Soundtrack\)](https://open.spotify.com/album/6Uhf8JKwijeRsnKplGBzce) | 3:26 | 2024-06-25 |  |
 | [She's back](https://open.spotify.com/track/3FIMezfbs8ANGa6mGEveNI) | [THE VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [Miss Night and Day \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0FxGdOiuYg6Lq3IDEAe5Ky) | 3:23 | 2024-06-25 |  |

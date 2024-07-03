@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 46647,
+  "num_followers": 46659,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAA2Dj+2gp+yVNG6oPdVkUZV",
+  "snapshot_id": "ZoHxgAAAAAA8l9C+cBIe15hqAoR8ZW/N",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embrujado - Single",
-        "url": "https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 173872,
-      "name": "Embrujado",
-      "url": "https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 167880,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Embrujado - Single",
+        "url": "https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 173872,
+      "name": "Embrujado",
+      "url": "https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Decretos",
-        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Quisiera Ser Un Mago",
-      "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie 33",
         "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 202133,
       "name": "Ap\u00e1rtame Esta Noche",
       "url": "https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Decretos",
+        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Quisiera Ser Un Mago",
+      "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
     },
     {
       "added_at": null,
@@ -659,38 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 168153,
-      "name": "Ense\u00f1ame a Olvidar",
-      "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -711,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+      "duration_ms": 168153,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 190133,
       "name": "De Cristal O De Papel",
       "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,

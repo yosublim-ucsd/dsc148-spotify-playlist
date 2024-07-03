@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 47004,
+  "num_followers": 47019,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADidqNgzAYli+Et38IcMzDe",
+  "snapshot_id": "ZoHxgAAAAAAbpZjcugs6ITW6+XFJ6RWv",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ma\u00f1ana Muero",
-        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 279359,
-      "name": "Si Ma\u00f1ana Muero",
-      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+      "duration_ms": 196570,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/2g15lf6AxoP1tEl5qHpuoi"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 196570,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/2g15lf6AxoP1tEl5qHpuoi"
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "Porque Llegaste Tu",
-      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 202249,
       "name": "Borrachos Por Amor",
       "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "Porque Llegaste Tu",
+      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Alg\u00fan D\u00eda Te Encuentro",
         "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 216503,
       "name": "Si Alg\u00fan D\u00eda Te Encuentro",
       "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
     },
     {
       "added_at": null,

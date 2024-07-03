@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-361 songs - 1 day 0 hr 38 min
+362 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bring It All Back](https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:34 | 2021-09-08 |  |
 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 | 2021-09-08 |  |
 | [Canned Heat](https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 5:31 | 2021-09-08 | 2024-04-19 |
+| [Cantaloop \(Flip Fantasia\)](https://open.spotify.com/track/06DSI8L6IT8SizCw3JLckz) | [Us3](https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD), [Rahsaan](https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD), [Gerard Presencer](https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo) | [Hand On The Torch](https://open.spotify.com/album/4Cm1wXjw6YCbkaiZZGNiZ1) | 4:39 | 2024-06-11 |  |
 | [Cecilia](https://open.spotify.com/track/11N8hE0QfJwI6sewxTdrJu) | [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Louchie Lou](https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ), [Michie One](https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi) | [Sound of the 90s](https://open.spotify.com/album/0yjUKY34SavLhdvPJj34ml) | 3:03 | 2021-09-08 | 2022-07-18 |
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2021-03-22 |  |
 | [Children Of The Night](https://open.spotify.com/track/3kgJepRrGMc5nq4LbtFg2B) | [Nakatomi](https://open.spotify.com/artist/7xdjiWTeSt3mqtS5Zv1d0Y) | [Children Of The Night](https://open.spotify.com/album/2Zxgh6FvMhUKdqhl5eoqC2) | 4:06 | 2021-09-08 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-09-08 |  |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 | 2021-09-08 | 2022-07-25 |
 | [Dance The Night Away](https://open.spotify.com/track/1N67xd3y9s23vitoiP3Zv5) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Trampoline](https://open.spotify.com/album/2JG2T3NBIs5HDWFX7CPysZ) | 4:22 | 2021-09-08 | 2022-07-29 |
-| [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 |  |
+| [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 | 2024-07-03 |
 | [Do You See the Light? \(Looking For\) \[feat\. Niki Haris\] \- 7" Edit](https://open.spotify.com/track/1ClsTc9ppIu8aU3KaGAB0g) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx), [Niki Haris](https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/0f7ZSi2EcurDJU0UeKFjuZ) | 4:14 | 2021-09-08 | 2022-07-27 |
 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 | 2021-09-08 |  |
 | [Don't Give Me Your Life \- Radio Version](https://open.spotify.com/track/6zTUlTbwdSVC61yrNY0SfS) | [Alex Party](https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD) | [Alex Party](https://open.spotify.com/album/0fYJIhjxCdKwWSYcF8Po99) | 3:17 | 2021-03-22 | 2022-07-29 |

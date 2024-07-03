@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 32185,
+  "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
+  "num_followers": 32199,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACJNsQ2p5dsw2FZOvlOB24d",
+  "snapshot_id": "ZoHxgAAAAABWL2shGZpfWZOp3Ilc1vSy",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "La Yerbabuena",
-      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tesoros Musicales",
         "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 187346,
       "name": "Al Pie De Un Arbol",
       "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "El Jardin De Las Flores",
+      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo A Mi Lupe",
         "url": "https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD"
       },
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 168320,
-      "name": "El Jardin De Las Flores",
-      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 164826,
       "name": "Dos Seres Que Se Aman",
       "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Ramiro Y Miguel",
-      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,

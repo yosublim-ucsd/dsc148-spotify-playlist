@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 32620,
+  "num_followers": 32651,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
-        "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Y Su Guitarra",
-          "url": "https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Mariquilla (remastered)",
-      "url": "https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Cuban Carnival",
         "url": "https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 167506,
       "name": "Cha-Cha De Pollos (Cha-Cha for Chicks)",
       "url": "https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
+        "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Y Su Guitarra",
+          "url": "https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Mariquilla (remastered)",
+      "url": "https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45"
     },
     {
       "added_at": "2024-04-24 22:38:01",

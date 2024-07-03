@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > kisses to your exes<br/>📸 The Kid LAROI & Alix Earle
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,172,593 likes - 108 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,172,981 likes - 108 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

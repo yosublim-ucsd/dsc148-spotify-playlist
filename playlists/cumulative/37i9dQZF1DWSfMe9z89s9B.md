@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,222 songs - 2 day 16 hr 41 min
+1,223 songs - 2 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 | 2023-02-24 | 2023-04-01 |
 | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/track/7cjIiu3XZSz7tubqWkWojH) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/album/4tkmMUCsE8DE4ukjA8SBZC) | 4:29 | 2021-06-04 | 2022-01-26 |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-04 | 2022-07-29 |
+| [STRANGER](https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [ACCELERATOR](https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu) | 3:48 | 2024-06-28 |  |
 | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 | 2023-01-27 | 2023-06-03 |
 | [Strawberry Perfume](https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Strawberry Perfume](https://open.spotify.com/album/1JloybRxPNoSQRTxPqsGxU) | 1:56 | 2023-05-12 | 2024-06-29 |
 | [Strawberry Perfume \(feat\. Essosa\)](https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Strawberry Perfume](https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN) | 2:42 | 2023-10-20 | 2023-12-14 |
@@ -1116,7 +1117,7 @@
 | [U](https://open.spotify.com/track/5JGfILIfLpHMLjEx9ckGHg) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [VEDDY](https://open.spotify.com/album/3jpK8aFV72vhWvKXH9d6af) | 3:21 | 2022-07-15 | 2022-07-29 |
 | [U A Star \(feat\. Mereba\)](https://open.spotify.com/track/1KRvtRhh9m6XfWOUCUQscH) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:35 | 2024-04-26 | 2024-06-01 |
 | [U, Lost \(Prom Edition\)](https://open.spotify.com/track/2tBgQT6FJDcih3rjyYRBgV) | [Jeremy Pope](https://open.spotify.com/artist/524EFpZzvA7B9cdU27Fmm9) | [LAST NAME: POPE](https://open.spotify.com/album/6J51eeYBvF9cVtPsb7NppV) | 4:06 | 2024-06-21 |  |
-| [U4EA](https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Synthesis+](https://open.spotify.com/album/6GCQOfKDbr84KCS9LX8oTb) | 3:01 | 2023-08-25 |  |
+| [U4EA](https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Synthesis+](https://open.spotify.com/album/6GCQOfKDbr84KCS9LX8oTb) | 3:01 | 2023-08-25 | 2024-07-03 |
 | [Ughh Parents Evening](https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.one](https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI) | 2:31 | 2023-04-28 | 2023-08-02 |
 | [UGOMDN \- A COLORS SHOW](https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [UGOMDN \- A COLORS SHOW](https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH) | 2:56 | 2023-11-19 | 2024-06-29 |
 | [UGOMDN pt\. 2 \(ft\. Mick Jenkins\)](https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [UGOMDN pt\. 2 \(ft\. Mick Jenkins\)](https://open.spotify.com/album/6PkAatyHeh4ez3Cpkaezqg) | 2:52 | 2024-02-23 |  |

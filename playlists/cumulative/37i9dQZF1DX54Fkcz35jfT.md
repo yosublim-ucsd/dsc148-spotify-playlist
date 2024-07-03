@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Crossfaith
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 10\-FEET
 
-321 songs - 18 hr 29 min
+322 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2023-07-20 | 2023-11-22 |
 | [heel](https://open.spotify.com/track/42VK2BbGox46jlYapDpqTT) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [どいつもこいつも](https://open.spotify.com/album/19mgSXnbIi36lO2v0i7fXp) | 3:16 | 2024-03-05 | 2024-04-21 |
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-07-20 | 2024-01-10 |
+| [helm’N bass](https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [helm’N bass](https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi) | 3:54 | 2024-07-02 |  |
 | [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 | 2023-08-08 | 2023-08-23 |
 | [HiDE and SEEK](https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b) | 3:37 | 2023-08-08 | 2023-08-10 |
 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 | 2024-01-02 | 2024-04-19 |
@@ -165,7 +166,7 @@
 | [NIGHTHAWK](https://open.spotify.com/track/3EB0lCeiWNLJkeCt8odiVw) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [NIGHTHAWK](https://open.spotify.com/album/5xLNwCgJn1qytXRoedTLTG) | 2:24 | 2023-11-16 | 2023-12-13 |
 | [Nostalgia](https://open.spotify.com/track/52nVvFvwMUrX88UpFcZcl4) | [kNeon](https://open.spotify.com/artist/0gfsANzNcCtUvcUKnBcqDy) | [Cyber World](https://open.spotify.com/album/23diSjDIoPdPyrnhKJo4MK) | 3:49 | 2023-10-31 | 2023-11-08 |
 | [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 | 2024-01-11 | 2024-02-01 |
-| [of course](https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [of course](https://open.spotify.com/album/68hagxENiIaUNAprO75WGC) | 2:55 | 2023-08-24 |  |
+| [of course](https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [of course](https://open.spotify.com/album/68hagxENiIaUNAprO75WGC) | 2:55 | 2023-08-24 | 2024-07-03 |
 | [Oiran Drill Spin](https://open.spotify.com/track/0i96NUfw2ntJWoga92xhLT) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Happy Heads NANIYORI 4](https://open.spotify.com/album/57ecVNWyYkE470Oz3T4QQJ) | 3:41 | 2024-01-23 | 2024-02-07 |
 | [One More Time](https://open.spotify.com/track/40ScGVclGVcxNVDnZTaOs6) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [One More Time](https://open.spotify.com/album/0m1gOpBNelReGcRVwEn31d) | 3:13 | 2023-09-05 | 2023-11-22 |
 | [One step forward](https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [One step forward](https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9) | 1:52 | 2023-07-20 | 2023-07-26 |

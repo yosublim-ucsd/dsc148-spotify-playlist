@@ -2,7 +2,7 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Tam Sir
+> African dance party music from the continent to Paris\. Photo : Tam Sir
 
 188 songs - 10 hr 46 min
 

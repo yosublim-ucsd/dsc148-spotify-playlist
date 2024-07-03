@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-677 songs - 1 day 13 hr 45 min
+678 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [One for sorrow, two for Joni Jones](https://open.spotify.com/track/6Xl1zGn8QgjaCwtRqI3vxv) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [One for sorrow, two for Joni Jones](https://open.spotify.com/album/6qdWKell3uanKckKAO6rIz) | 4:30 | 2023-06-12 | 2023-07-04 |
 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 | 2023-11-08 |  |
 | [One Mississippi](https://open.spotify.com/track/7qbMIhwi730kJgZeGajv38) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [One Mississippi](https://open.spotify.com/album/0OyOcDFOV379HESC5d9FQ2) | 3:03 | 2023-03-27 | 2023-04-02 |
+| [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2024-07-02 |  |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-05 | 2023-03-07 |
 | [one night](https://open.spotify.com/track/1aWXdwrRg1LahBt4Wn7yWZ) | [csurf](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [one night](https://open.spotify.com/album/6nyLLsYqQPX68hNag7N6tY) | 2:46 | 2023-01-09 | 2023-01-19 |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-13 | 2023-08-22 |

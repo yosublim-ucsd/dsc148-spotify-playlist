@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng Hà Trần tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt.
+> Cùng Chi Pu tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt.
 
-245 songs - 15 hr 57 min
+246 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Em Hát Ai Nghe](https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Em Hát Ai Nghe](https://open.spotify.com/album/484MnMltSafY73ocrCoKgv) | 4:39 | 2021-12-07 | 2023-12-09 |
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-12-07 |  |
 | [Em Là Coffee](https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Em Là Coffee](https://open.spotify.com/album/6qagm5uRQf1OfpApaDGIEa) | 3:05 | 2023-02-06 | 2024-01-10 |
-| [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 | 2022-07-24 |  |
+| [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 | 2022-07-24 | 2024-07-03 |
 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/2WEGXC92GQ1w6gMC4n6i6I) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3Q5X1Ye28iIRVKATFQrFpS) | 3:48 | 2022-07-24 | 2022-07-31 |
 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/6jS9KdVErfIauI0XXX64sw) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3MN286Nzodk9pQecwhTIwZ) | 3:48 | 2021-12-07 | 2022-07-29 |
 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 | 2024-03-07 | 2024-05-01 |
@@ -73,6 +73,7 @@
 | [Em Đã Có Người Mới \(feat\. Người cũ\)](https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Người cũ](https://open.spotify.com/artist/17tMDCxssUUhEVWExf8y8N) | [Em Đã Có Người Mới \(feat\. Người cũ\)](https://open.spotify.com/album/5HvdagjBVavfnbMK4s1729) | 3:20 | 2022-01-04 | 2024-03-08 |
 | [Em Đã Cố](https://open.spotify.com/track/7rPVLLyctVxKJ3CuPUaA3x) | [Bảo Thy](https://open.spotify.com/artist/4DPEUF2kY7kVrbXX4Zgu7S) | [Em Đã Cố](https://open.spotify.com/album/4bJM0KnXypLdQE5quMPxih) | 4:38 | 2023-10-18 | 2023-11-02 |
 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 | 2023-03-03 | 2023-10-05 |
+| [Finding You](https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Finding You](https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ) | 3:11 | 2024-07-03 |  |
 | [ghệ iu dấu của em ơi](https://open.spotify.com/track/27fqy8VruqYZlKiK1qfwEd) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [ghệ iu dấu của em ơi](https://open.spotify.com/album/0gzU4NsjKsWr646GHiPxbK) | 3:25 | 2023-02-14 | 2023-03-09 |
 | [Gieo Quẻ \(feat\. Den\)](https://open.spotify.com/track/6SjnTRDyTM162pPOAM0O8M) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:18 | 2022-11-30 | 2023-04-05 |
 | [Gieo Quẻ \(feat\. Đen\)](https://open.spotify.com/track/7lkWAB0Ru7WEa0mkdgiqJG) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Gieo Quẻ \(feat\. Đen\)](https://open.spotify.com/album/1cvlu9FQk5dawfuyZErjuO) | 3:18 | 2022-01-01 | 2022-08-19 |

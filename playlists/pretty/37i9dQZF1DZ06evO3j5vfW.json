@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71380,
+  "num_followers": 71376,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADu9UIjyLbCKvSmK6+7enJh",
+  "snapshot_id": "ZoHxgAAAAACXYRhv/SyPL+bIynELPUnw",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,50 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208316,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "added_at": null,
@@ -903,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Clap",
-        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Everybody Clap",
-      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -947,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love",
-        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+        "name": "Everybody Clap",
+        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 191520,
-      "name": "So Much Love",
-      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
+      "duration_ms": 148124,
+      "name": "Everybody Clap",
+      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
     },
     {
       "added_at": null,
@@ -999,8 +1023,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give In (VE/RA Remix)",
-        "url": "https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB"
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
       },
       "artists": [
         {
@@ -1008,13 +1032,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "VE/RA",
-          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
         }
       ],
-      "duration_ms": 186857,
-      "name": "Give In - VE/RA Remix",
-      "url": "https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1"
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
     },
     {
       "added_at": null,
@@ -1039,6 +1063,26 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give In (VE/RA Remix)",
+        "url": "https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Give In - VE/RA Remix",
+      "url": "https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1"
     },
     {
       "added_at": null,
@@ -1115,42 +1159,6 @@
       "duration_ms": 213624,
       "name": "Chapters",
       "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Olivia Holt",
-          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Off The Lights (VIP Mix)",
-        "url": "https://open.spotify.com/album/6na0pPLeZHzJ2HJpITcq9b"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Turn Off The Lights - VIP Mix",
-      "url": "https://open.spotify.com/track/5zeJeJkxOFYe2Vx2YRTeEx"
     }
   ],
   "unique_name": "This Is Nicky Romero",

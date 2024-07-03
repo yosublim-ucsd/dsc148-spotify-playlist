@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,126 likes - 89 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,144 likes - 89 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

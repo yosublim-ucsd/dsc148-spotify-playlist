@@ -1,13 +1,33 @@
 {
-  "description": "BET Tyla",
-  "num_followers": 33636,
+  "description": "\u2b50\u2b50\u2b50",
+  "num_followers": 33729,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoJYHwAAAACamKX216AaTNY/YuP3KDOn",
+  "snapshot_id": "ZoOz9AAAAAAd6t+r0ZGc6A405HSzHMoe",
   "tracks": [
+    {
+      "added_at": "2024-07-02 08:01:56",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
     {
       "added_at": "2024-07-01 07:17:51",
       "album": {
@@ -975,22 +995,6 @@
       "duration_ms": 204000,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/6JLATH1pX3C4YOoZrjffxQ"
-    },
-    {
-      "added_at": "2024-07-01 07:17:51",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
     },
     {
       "added_at": "2024-07-01 07:17:51",

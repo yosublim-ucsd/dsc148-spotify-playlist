@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 233230,
+  "num_followers": 233275,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
-      },
-      "artists": [
-        {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "playpen",
         "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 151142,
       "name": "we're all eating each other",
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+      },
+      "artists": [
+        {
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
         "name": "Slow (with Ciara)",
         "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
-      },
-      "artists": [
-        {
-          "name": "Coldiac",
-          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "hand on my heart",
-        "url": "https://open.spotify.com/album/76BS51UVvR4Dcc38FMzKhM"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "hand on my heart",
-      "url": "https://open.spotify.com/track/7tYZhK3J2Rl6Fq5ivzJur6"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "Mr. Feelgood",
         "url": "https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 230250,
       "name": "Mr. Feelgood",
       "url": "https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "hand on my heart",
+        "url": "https://open.spotify.com/album/76BS51UVvR4Dcc38FMzKhM"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "hand on my heart",
+      "url": "https://open.spotify.com/track/7tYZhK3J2Rl6Fq5ivzJur6"
     }
   ],
   "unique_name": "tapioca",

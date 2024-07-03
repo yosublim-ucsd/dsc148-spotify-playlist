@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Frankly Speaking\. \(비밀은 없어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-35 songs - 1 hr 47 min
+36 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Freeze!](https://open.spotify.com/track/2MIgj5hqJNimIxrwXZwN5z) | [SEO HO](https://open.spotify.com/artist/0H0QZpyLzGxHzPKj5wO0pV), [LEE DO](https://open.spotify.com/artist/0vk4sQbPHoawGCfhj0RnCe) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1M18eNtuc8l3I5AxFOWJhL) | 3:13 | 2024-05-13 |  |
 | [Freeze! \- Instrumental](https://open.spotify.com/track/1fHqVLVSFv5ByEhkAfeGQk) | [SEO HO](https://open.spotify.com/artist/0H0QZpyLzGxHzPKj5wO0pV), [LEE DO](https://open.spotify.com/artist/0vk4sQbPHoawGCfhj0RnCe) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1M18eNtuc8l3I5AxFOWJhL) | 3:13 | 2024-05-13 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2024-05-13 |  |
+| [I know](https://open.spotify.com/track/5BqXkzanaHaMQ0Ztrqjp9o) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6IRO4dLcl4Lqon28sDJS9W) | 3:17 | 2024-07-03 |  |
 | [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-05-13 |  |
 | [Looks like the universe](https://open.spotify.com/track/5j5vK4zn80NgH47f6oTJdm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 3:27 | 2024-06-05 |  |
 | [Looks like the universe \- Instrumental](https://open.spotify.com/track/6sDYCpbd5La8t8fGSwotQf) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 3:27 | 2024-06-05 |  |

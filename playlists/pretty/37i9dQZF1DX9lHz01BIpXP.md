@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,653 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,653 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 10 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
 | 11 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
 | 12 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
-| 13 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 |
-| 14 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 13 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 14 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 |
 | 15 | [Denero](https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Denero](https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN) | 2:24 |
 | 16 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
 | 17 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 43 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 | 44 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 |
 | 45 | [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 |
-| 46 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
-| 47 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
+| 46 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
+| 47 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
 | 48 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 |
 | 49 | [Klaar Praat](https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [G\-BONE](https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi) | [Klaar Praat](https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5) | 2:08 |
-| 50 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 |
+| 50 | [Cheat Op My 2](https://open.spotify.com/track/6mldRX4MV4CmTYsB7BcIA9) | [Dreamchaser7100](https://open.spotify.com/artist/5dNbLPmDIb6tBbpylFd0CT) | [Cheat Op My 2](https://open.spotify.com/album/6TWvgPFHDAIhBDpSdnvnQ3) | 2:34 |
 
 Snapshot ID: `Zmtr4AAAAAAFMw+ZJd2XqRJ22u94TWCg`

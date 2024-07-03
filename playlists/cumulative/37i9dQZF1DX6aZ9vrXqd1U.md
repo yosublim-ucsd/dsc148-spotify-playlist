@@ -4,13 +4,14 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-341 songs - 23 hr 46 min
+342 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 | 2022-07-27 | 2023-03-02 |
 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/19jryDqhWoCZeDRDY5bCFK) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 4:53 | 2022-07-27 | 2022-07-29 |
 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 | 2022-12-06 | 2024-01-12 |
+| [ACROSS THE WORLD](https://open.spotify.com/track/174kT94aK54zCC0aIdEMz9) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ACROSS THE WORLD](https://open.spotify.com/album/6YWZhGWLwLUnZssY6XkVQM) | 4:14 | 2024-07-03 |  |
 | [AFTER ALL](https://open.spotify.com/track/1sL49SqeRgfUxvVjP5Bm65) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/7kZY7Et5C6TFM21t9Z4W43) | 4:15 | 2022-07-27 | 2023-06-23 |
 | [AFTER ALL](https://open.spotify.com/track/5MaskUiW0XdWIgDLdZKnnW) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/2rz5aACagypyxXTq6X8g07) | 4:15 | 2023-06-19 | 2024-01-26 |
 | [After All](https://open.spotify.com/track/3ZoYbnjWUpnbmGSLJknOQk) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [TURN A GUNDAM the Movie Original Motion Picture Soundtrack \- Wakusei No Gogo,Bokuraha Kiss Wo Shita](https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1) | 4:16 | 2023-06-19 | 2023-06-24 |

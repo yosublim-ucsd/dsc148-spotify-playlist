@@ -2,7 +2,7 @@
 
 ### [Volando con Reggae](https://open.spotify.com/playlist/37i9dQZF1DX4Ux6OGNoFON)
 
-> Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Micro TDH
+> Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Manu Chao
 
 107 songs - 6 hr 50 min
 

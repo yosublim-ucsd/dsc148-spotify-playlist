@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Royel Otis
 
-458 songs - 1 day 4 hr 1 min
+460 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-17 | 2024-05-11 |
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |
-| [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 |  |
+| [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2024-07-03 |
 | [Drive](https://open.spotify.com/track/5YYIPLmYIkAle6s7Kf34qI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Drive](https://open.spotify.com/album/4FdoQ3s6u5POcFp9BUrWCK) | 4:32 | 2021-03-12 | 2022-07-29 |
 | [Early Morning Breeze](https://open.spotify.com/track/7xvvHuMKxAuMLFnMpENANu) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Early Morning Breeze](https://open.spotify.com/album/03jIj1uKSQjMu1hzaTTPqR) | 4:16 | 2021-03-19 | 2022-07-29 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Everybody Wants To Rule The World](https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu) | 3:43 | 2023-06-16 |  |
@@ -242,7 +242,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/0KohaUnLZU0PNJC3RZYDZ0) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/4uWWvb7rkoUhYvaO8VEIC6) | 2:50 | 2021-03-12 | 2022-08-03 |
 | [La Vie En Rose](https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T) | 2:50 | 2021-03-12 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-03-12 | 2022-08-10 |
-| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 |  |
+| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 | 2024-07-03 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Lavender Haze](https://open.spotify.com/track/0uds6C87jkBsk9gShJcuRz) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Lavender Haze](https://open.spotify.com/album/3anKF2HvkkACb8cozbL5Zg) | 3:26 | 2024-03-08 | 2024-05-18 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |
@@ -274,8 +274,10 @@
 | [Moon River](https://open.spotify.com/track/0aaZ31WkPX8g6cvBdzBLUY) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Moon River](https://open.spotify.com/album/2KgydVSNmopoqmoQVBMtwK) | 1:59 | 2021-07-21 | 2022-04-21 |
 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 | 2021-11-19 |  |
 | [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 | 2023-12-15 |  |
+| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-07-02 |  |
 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 | 2022-08-09 |  |
 | [my future](https://open.spotify.com/track/2SLZEDhil0Vb4EkNkryzTK) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [brayd](https://open.spotify.com/artist/3NmZs2yna6QpkpeRn8UmNk) | [my future](https://open.spotify.com/album/3OtHuZjT2pMZZBOdvnDIRP) | 3:33 | 2021-10-08 | 2022-04-17 |
+| [My Love Mine All Mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [My Love Mine All Mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 | 2024-07-02 |  |
 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 | 2022-04-08 | 2024-05-15 |
 | [Neon Moon](https://open.spotify.com/track/010gJrV78swYwVNAWjmWAb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2kVYjc8G4UFWWc9QfLuFU8) | 3:45 | 2021-03-12 | 2022-06-30 |
 | [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 | 2021-03-12 | 2022-08-10 |

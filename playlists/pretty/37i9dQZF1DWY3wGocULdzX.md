@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,352 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,375 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 19 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 5:34 |
 | 20 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
 | 21 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
-| 22 | [Patricia](https://open.spotify.com/track/4jmFSkpcqLOUN6scGU6BOO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [El Rey Del Mambo](https://open.spotify.com/album/0uOqCrRJCMMcyArm5wsv78) | 2:08 |
-| 23 | [Por Que Me Enganas](https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 4:14 |
+| 22 | [Por Que Me Enganas](https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 4:14 |
+| 23 | [Patricia](https://open.spotify.com/track/4jmFSkpcqLOUN6scGU6BOO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [El Rey Del Mambo](https://open.spotify.com/album/0uOqCrRJCMMcyArm5wsv78) | 2:08 |
 | 24 | [Cao Cao Mani Picao](https://open.spotify.com/track/16cVmcgx4ENIHLUPDh1et9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 3:47 |
 | 25 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
 | 26 | [Bochinchosa](https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 3:24 |

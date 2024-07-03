@@ -8223,6 +8223,32 @@
     },
     {
       "album": {
+        "name": "every-little-part",
+        "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229710,
+      "name": "every-little-part",
+      "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/5Es3FdQxA4wM7eMQa1vfYs"
       },
@@ -9919,6 +9945,24 @@
     },
     {
       "album": {
+        "name": "Floodlights",
+        "url": "https://open.spotify.com/album/2KKX05cLL1m0blKSrFKE5m"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216723,
+      "name": "Floodlights",
+      "url": "https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0"
+    },
+    {
+      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -10856,7 +10900,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
@@ -13564,7 +13608,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 298131,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0"

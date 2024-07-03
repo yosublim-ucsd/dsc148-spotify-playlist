@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. <br/>Cover: Over October
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,010,752 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011,412 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 31 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
 | 32 | [Manatili](https://open.spotify.com/track/3coArR1muD6ainIHX2ynk4) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Keii](https://open.spotify.com/artist/7b4D4CjNIJZu5bfm62oDru), [AA](https://open.spotify.com/artist/296oZra5MHdhFWConltLga) | [Manatili](https://open.spotify.com/album/4nIgH8kbETeM3HVdkEzCAa) | 4:48 |
 | 33 | [Tayo Na Lang](https://open.spotify.com/track/0dAyWjeCEoj6LwEPTLxb3D) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Tayo Na Lang](https://open.spotify.com/album/4AohEejWfBs3iIrSvF7XyG) | 3:44 |
-| 34 | [Gupit](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 |
+| 34 | [Gupit \(with Alamat\)](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit \(with Alamat\)](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 |
 | 35 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 36 | [Nandito Na Ako](https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Nandito Na Ako](https://open.spotify.com/album/70S1f3uJouuxCigEVwOfPP) | 3:20 |
 | 37 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 |

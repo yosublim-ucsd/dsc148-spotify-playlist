@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 142 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 142 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 40 | [My Love \(feat\. Drake\)](https://open.spotify.com/track/5fgTKJ5PTbRLzem1tkfFjx) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Majid Jordan](https://open.spotify.com/album/3CUUharDNym6nWwLpI4mPi) | 4:08 |
 | 41 | [Bitter Love](https://open.spotify.com/track/4wOXx92SlZWxNtuBytlMsK) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Bitter Love](https://open.spotify.com/album/2PXx08sb29bNbNgC9aLuw8) | 3:37 |
 | 42 | [Dreamer](https://open.spotify.com/track/0wUxh6XMc698xPCfgBaPRV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mike Yung](https://open.spotify.com/artist/4UffC3o3JiLSg7pa5DpQbp) | [Dreamer](https://open.spotify.com/album/4D13M99kn4kSlPt5ZtYy8R) | 3:13 |
-| 43 | [yes girl](https://open.spotify.com/track/7rBJG1BewE3VE7NRbrOhFj) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [yes girl](https://open.spotify.com/album/224GAA4jiisTxmozJpuNRg) | 3:51 |
-| 44 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
+| 43 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
+| 44 | [yes girl](https://open.spotify.com/track/7rBJG1BewE3VE7NRbrOhFj) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [yes girl](https://open.spotify.com/album/224GAA4jiisTxmozJpuNRg) | 3:51 |
 | 45 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1IQRnO9lepeHpm9xHwUII9) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Colour Vision \(Deluxe\)](https://open.spotify.com/album/4fbXC8lFSdtcvXX6SM6RO6) | 3:44 |
 | 46 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 |
 | 47 | [D.R.E.A.M\. \(feat\. Ghostface Killah\)](https://open.spotify.com/track/5tykM1AFEOrm51CkDPOxPC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 2:48 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 141 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
 | 142 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbVjwgAAAAA4S61BpKkPIo88uR7CN6fn`
+Snapshot ID: `AbVpYgAAAADhIXex3cM8YVClsHvJQ+e1`

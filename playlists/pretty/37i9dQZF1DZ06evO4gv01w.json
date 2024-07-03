@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 27872,
+  "num_followers": 27876,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACNIHcGE90KUKmmzfV4gbkr",
+  "snapshot_id": "ZoHxgAAAAADUvsWlkh1mIFhZn3fdO5Yl",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+      "duration_ms": 210040,
+      "name": "Sucker Puncher",
+      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
     },
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+        "name": "Southern Comfort (Trap Remix)",
+        "url": "https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe"
       },
       "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
+      "duration_ms": 256000,
+      "name": "Southern Comfort (Trap Remix)",
+      "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
     },
     {
       "added_at": null,
@@ -600,9 +604,25 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 210040,
-      "name": "Sucker Puncher",
-      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
     },
     {
       "added_at": null,
@@ -623,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Comfort (Trap Remix)",
-        "url": "https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Southern Comfort (Trap Remix)",
-      "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Cast 'Em Out",
-      "url": "https://open.spotify.com/track/7BnY4bKBF8yTX5UTqtV8yy"
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
       "duration_ms": 189453,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 137109,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/6Xrax57hlpq52OARjKFXFo"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 137109,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/6Xrax57hlpq52OARjKFXFo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Look Away",
-      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
+      "duration_ms": 164213,
+      "name": "Cast 'Em Out",
+      "url": "https://open.spotify.com/track/7BnY4bKBF8yTX5UTqtV8yy"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 213948,
-      "name": "Ain't Gonna Cry",
-      "url": "https://open.spotify.com/track/63BfByegAjwkMOPdaqf3SU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late Night Basie",
         "url": "https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 231250,
       "name": "Blue & Sentimental",
       "url": "https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 213948,
+      "name": "Ain't Gonna Cry",
+      "url": "https://open.spotify.com/track/63BfByegAjwkMOPdaqf3SU"
     },
     {
       "added_at": null,

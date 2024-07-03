@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5720,
+  "num_followers": 5721,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0"
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
       },
       "artists": [
         {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA"
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
     },
     {
       "added_at": "2024-06-24 08:38:54",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
-        "name": "Confession (Ditto X Chuu (LOONA))",
-        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Confession (Ditto X Chuu (LOONA))",
-      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
-    },
-    {
-      "added_at": "2024-06-24 08:38:54",
-      "album": {
         "name": "NO MORE",
         "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 158045,
       "name": "No More (Prod. Zion.T)",
       "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
+    },
+    {
+      "added_at": "2024-06-24 08:38:54",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA"
     },
     {
       "added_at": "2024-06-24 08:38:54",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        },
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
+    },
+    {
+      "added_at": "2024-06-24 08:38:54",
+      "album": {
         "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
         "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
       },
@@ -783,22 +803,18 @@
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
       },
       "artists": [
         {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        },
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2024-06-24 08:38:54",
@@ -815,22 +831,6 @@
       "duration_ms": 245533,
       "name": "I wanna go out",
       "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
-    },
-    {
-      "added_at": "2024-06-24 08:38:54",
-      "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2024-06-24 08:38:54",

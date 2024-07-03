@@ -1,12 +1,12 @@
 {
   "description": "This Is Santa Fe Klan. Los temas esenciales, todos en una lista.",
-  "num_followers": 547822,
+  "num_followers": 547907,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACYE3uCai7USmgDY4prUCI2",
+  "snapshot_id": "ZoHxgAAAAACCYZ4g5MtU2LB26rBrtR8D",
   "tracks": [
     {
       "added_at": null,
@@ -503,30 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendecidos",
         "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
       },
@@ -859,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -895,6 +851,26 @@
       "duration_ms": 189250,
       "name": "Soy Mercenario",
       "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH"
     },
     {
       "added_at": null,
@@ -987,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Un D\u00eda Todo Se Termina (Remix)",
+      "url": "https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelo",
         "url": "https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC"
       },
@@ -1007,26 +1003,6 @@
       "duration_ms": 208571,
       "name": "Vuelo",
       "url": "https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Un D\u00eda Todo Se Termina (Remix)",
-      "url": "https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj"
     },
     {
       "added_at": null,
@@ -1055,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Imagin\u00e9",
         "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
       },
@@ -1071,22 +1063,6 @@
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": null,
@@ -1227,6 +1203,22 @@
       "duration_ms": 257142,
       "name": "Maldita Tentaci\u00f3n",
       "url": "https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 212727,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 210956,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
@@ -4949,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
+    {
+      "album": {
         "name": "Music Sounds Better with You",
         "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
       },
@@ -4986,6 +5004,24 @@
       "duration_ms": 213000,
       "name": "my future",
       "url": "https://open.spotify.com/track/2SLZEDhil0Vb4EkNkryzTK"
+    },
+    {
+      "album": {
+        "name": "My Love Mine All Mine",
+        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
     },
     {
       "album": {

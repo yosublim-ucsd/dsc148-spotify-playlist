@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL!
+> The country way of testifying.
 
 244 songs - 14 hr 58 min
 

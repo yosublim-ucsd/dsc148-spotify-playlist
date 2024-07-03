@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
-  "num_followers": 71254,
+  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
+  "num_followers": 71265,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADEigplub0R6+5NGM1sxUKX",
+  "snapshot_id": "ZoHxgAAAAACjfpN+jGnulopwL2HhRmYX",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         },
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+      "duration_ms": 179905,
+      "name": "The King of Ice",
+      "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 179905,
-      "name": "The King of Ice",
-      "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Lo Diria",
-        "url": "https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Kmill",
-          "url": "https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e"
-        }
-      ],
-      "duration_ms": 147082,
-      "name": "Quien Lo Diria",
-      "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El De La Pandilla (En Vivo)",
         "url": "https://open.spotify.com/album/71Jl9ua91qDVu7ktzJDy7m"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 217877,
       "name": "El De La Pandilla (En Vivo)",
       "url": "https://open.spotify.com/track/0QgyuDY28jCXnA02KwnHlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Lo Diria",
+        "url": "https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Kmill",
+          "url": "https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e"
+        }
+      ],
+      "duration_ms": 147082,
+      "name": "Quien Lo Diria",
+      "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
     },
     {
       "added_at": null,

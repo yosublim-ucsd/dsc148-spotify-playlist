@@ -1,12 +1,12 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 881825,
+  "num_followers": 881893,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3g4AAAAADemQVnk9ghjkTcaPUo8J26",
+  "snapshot_id": "ZoOvyQAAAACHp9dUq1nqCJdQ9omRG2Im",
   "tracks": [
     {
       "added_at": "2024-06-27 22:00:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 150746,
-      "name": "HOT UPTOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "CALMA",
         "url": "https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk"
       },
@@ -295,6 +275,22 @@
       "duration_ms": 120000,
       "name": "CALMA",
       "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
+    },
+    {
+      "added_at": "2024-07-02 07:44:09",
+      "album": {
+        "name": "Fin & Bad",
+        "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 121383,
+      "name": "Fin & Bad",
+      "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -363,6 +359,26 @@
       "duration_ms": 158062,
       "name": "V\u00e4lkommen ner",
       "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "HOT UPTOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 155160,
       "name": "Welou (Better Days)",
       "url": "https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2024-06-27 22:00:00",

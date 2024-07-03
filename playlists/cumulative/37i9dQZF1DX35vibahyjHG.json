@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to African women at full volume. Cover: <a href=\"https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=pN3FfthQQQe0aazlMVuuFQ\"> Zo\u00eb Modiga </a>",
+  "description": "Listen to African women at full volume. Cover: <a href=\"https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g?si=hAkQ3JmRTd2KEeEQwX26BA\"> TxC </a>",
   "name": "EQUAL Africa",
   "tracks": [
+    {
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
     {
       "album": {
         "name": "Mahogany St",
@@ -746,7 +764,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 171700,
       "name": "Black Car",
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 157179,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 152079,
       "name": "Faaji",
       "url": "https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU"
@@ -2352,6 +2370,28 @@
       "duration_ms": 224807,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
+    },
+    {
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163114,
+      "name": "Goodbye (Warm Up)(feat. Asake)",
+      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
       "album": {
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 152913,
       "name": "Lanke",
       "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
@@ -6130,7 +6170,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
@@ -6334,6 +6374,24 @@
       "duration_ms": 140956,
       "name": "Super Super",
       "url": "https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8"
+    },
+    {
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "album": {
@@ -7451,6 +7509,24 @@
     },
     {
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156763,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
+    },
+    {
+      "album": {
         "name": "Wickedest (feat. Haile)",
         "url": "https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65"
       },
@@ -7650,6 +7726,40 @@
       "duration_ms": 217145,
       "name": "Yatch",
       "url": "https://open.spotify.com/track/0Fzu7jMb9pqjMf94sd2Iqn"
+    },
+    {
+      "album": {
+        "name": "Yebo",
+        "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263683,
+      "name": "Yebo",
+      "url": "https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB"
     },
     {
       "album": {

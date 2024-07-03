@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 143 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 461 likes - 143 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 84 | [Besando Sapos](https://open.spotify.com/track/7xTF7xQO5j5eSVwcSGO7T0) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 2:35 |
 | 85 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
 | 86 | [Me Corta el Alma](https://open.spotify.com/track/7mFpFambkcEmcWf0X8xCON) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Yo Mismo](https://open.spotify.com/album/3fQsDvySZB7b3zgrgCAUXC) | 4:21 |
-| 87 | [Mentiritas Blancas \- En Vivo](https://open.spotify.com/track/5NW0PdnHrLg7FYH1ys1x5s) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:09 |
-| 88 | [Si Te Vas](https://open.spotify.com/track/7zeIbf3qsXGGwUZjDP5mzV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:22 |
+| 87 | [Si Te Vas](https://open.spotify.com/track/7zeIbf3qsXGGwUZjDP5mzV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:22 |
+| 88 | [Mentiritas Blancas \- En Vivo](https://open.spotify.com/track/5NW0PdnHrLg7FYH1ys1x5s) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:09 |
 | 89 | [Mil Maneras](https://open.spotify.com/track/2ZZnPmiex3NUCb9tX7mAyS) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:05 |
 | 90 | [La Manuela](https://open.spotify.com/track/3T5KzHZ6azcHvwyTabOgCg) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 1:59 |
 | 91 | [El Mejor de Mis Errores \- En Vivo](https://open.spotify.com/track/5moGJ1dvkgR1U9OeLheYBV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:19 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbVj/gAAAACwt70MGw9Htw9mpj2/7gT7`
+Snapshot ID: `AbVpngAAAAC3NwfMga9+x55WqV9PSw3c`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-02",
-  "description": "This is Bear McCreary\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
   "name": "This Is Bear McCreary",
   "tracks": [
     {
@@ -938,7 +938,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 131186,
       "name": "Nassau Shores",
       "url": "https://open.spotify.com/track/6WoDhdxJvDSgy6WdSAwa5j"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 135893,
       "name": "To the Begging I Will Go",
       "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: INI
+> 日本で活躍するボーイズグループを特集。cover: THE JET BOY BANGERZ from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,978 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,992 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 |
+| 1 | [What Time Is It?](https://open.spotify.com/track/30HLTApQ30MMHAZZZpdARt) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [What Time Is It?](https://open.spotify.com/album/6RXZayj65AHRlCFpGCRLeo) | 2:31 |
 | 2 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 |
 | 3 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
-| 4 | [Walkie Talkie](https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE FRAME](https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe) | 3:04 |
+| 4 | [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 |
 | 5 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
 | 6 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 |
 | 7 | [Earth, Wind & Fire \- Japanese Ver.](https://open.spotify.com/track/51jvR5cPRh3Yfiwo5qdNXw) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Earth, Wind & Fire \(Japanese Ver.\)](https://open.spotify.com/album/6DvZZhY6bGqDuPbCSyZHcx) | 2:59 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 19 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 |
 | 20 | [halfmoon](https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [halfmoon](https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF) | 4:15 |
 | 21 | [PLAY THAT'24 \- ALAN ver.](https://open.spotify.com/track/1yJp6r67jyZx3cD7tYquUy) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/7oaukHyBhCaMkGeUaSYfDj) | 4:28 |
-| 22 | [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 |
+| 22 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 |
 | 23 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 |
 | 24 | [24karats GOLD GENESIS](https://open.spotify.com/track/3DOBALd9w4fDZ122HzF7CC) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi) | 4:17 |
 | 25 | [ICE](https://open.spotify.com/track/6zac62mblxAmbgVkqBQKCB) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [Parade](https://open.spotify.com/album/43PcyZMcbxwUWOYzE9bg1P) | 3:12 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 35 | [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 |
 | 36 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |
 | 37 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 |
-| 38 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 |
+| 38 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 39 | [Nova Flame \~One of the BE:ST\-01 JUNON\~](https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo) | [JUNON](https://open.spotify.com/artist/1EWFvN7t1373R3BrGZOLsn) | [Masterplan](https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR) | 2:39 |
 | 40 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 41 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 43 | [Move!](https://open.spotify.com/track/1kVdZkrESvjq6mvVP9bWVa) | [BMK](https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6) | [Move!](https://open.spotify.com/album/4yNywLr8yi2JrjiTi7Wdqd) | 3:30 |
 | 44 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
 | 45 | [New Tomorrow \- JAPANESE ver.](https://open.spotify.com/track/6fyZPL9KBMCoaediH5Vbuf) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE A FANTASY](https://open.spotify.com/album/5prBWkcBTTD6cRukF1xZsB) | 3:51 |
-| 46 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
+| 46 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
 | 47 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 48 | [宵々祭](https://open.spotify.com/track/3GAp2jMYYULw04YMRVFxKF) | [手島章斗](https://open.spotify.com/artist/7mCzkv3ev49sg1PRtegoH9) | [宵々祭](https://open.spotify.com/album/5UCin9zq9mkLqFwGAXnDf5) | 3:24 |
 | 49 | [Rock Right Now](https://open.spotify.com/track/4hNwQROKmc6lmjUQAjufFY) | [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [Build Up](https://open.spotify.com/album/0bRqVMEsARl7nM252J7Rha) | 2:57 |
 | 50 | [Timeline](https://open.spotify.com/track/4Ob3UA1QYw49MrY7DSDkbo) | [2xFE](https://open.spotify.com/artist/5fNaCr4gxZY2nlgxMVYoMg) | [Timeline](https://open.spotify.com/album/1RCM4Sazwov9GdcO3Bbxw1) | 3:32 |
 
-Snapshot ID: `ZnrbcAAAAABEoywxw5H3rppp4DOxpAeD`
+Snapshot ID: `ZoQVuwAAAADiGNIs1bmWjNV/90wn517j`

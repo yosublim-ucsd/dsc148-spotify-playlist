@@ -1,12 +1,12 @@
 {
-  "description": "This is Jelly Roll. Az \u00f6sszes kihagyhatatlan sz\u00e1m egyetlen m\u0171sorlist\u00e1ban.",
-  "num_followers": 222491,
+  "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
+  "num_followers": 222718,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACM4cHw1FS2/9+pLelSmEEr",
+  "snapshot_id": "ZoHxgAAAAABIGmcIlwVK/8I20G9RSDec",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 202675,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enlisted",
         "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 280647,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 202675,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trailer In The Sky",
-        "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
-      },
-      "artists": [
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Trailer In The Sky",
-      "url": "https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobriety Sucks",
         "url": "https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 209969,
       "name": "Train Tracks (feat. Struggle)",
       "url": "https://open.spotify.com/track/2pDgan1hrEIgjFU21MOLf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trailer In The Sky",
+        "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Trailer In The Sky",
+      "url": "https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb"
     },
     {
       "added_at": null,

@@ -4,11 +4,12 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-201 songs - 8 hr 48 min
+203 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2K24](https://open.spotify.com/track/7f9mrF0k8Rqagqkfj9fdZR) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [2K24](https://open.spotify.com/album/32hnABHQ2YeXIwIC4ZtQsg) | 2:21 | 2024-02-12 | 2024-05-21 |
+| [304 Bounty Hunter](https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:22 | 2024-07-03 |  |
 | [310degrees](https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:05 | 2024-02-24 |  |
 | [4 RINGS \(feat\. BIG30\)](https://open.spotify.com/track/0rjYs7qHlJosZTU8JA1vQL) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [4 RINGS \(feat\. BIG30\)](https://open.spotify.com/album/5zTQ1rxPUNkbYdb0VPcsaK) | 2:34 | 2024-03-30 |  |
 | [40x](https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [40x](https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo) | 2:28 | 2023-12-01 | 2024-03-16 |
@@ -187,6 +188,7 @@
 | [The Warm Up](https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [The Warm Up](https://open.spotify.com/album/3k8we0dTMGtINphGLPNNQe) | 2:35 | 2024-05-20 |  |
 | [Tidal Wave](https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Tidal Wave](https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct) | 3:18 | 2024-05-15 |  |
 | [TIED IN](https://open.spotify.com/track/4CX8FpuyAvLtwQcJb8r08H) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [TIED IN](https://open.spotify.com/album/3HE1LSdD2mF5ktHRo8emYt) | 2:26 | 2024-01-19 | 2024-05-21 |
+| [TIP TOE](https://open.spotify.com/track/4KDJTUDQlHarTz5bbqg5My) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [TIP TOE](https://open.spotify.com/album/0ueP3SY22S6mvhNRcWt1qw) | 2:28 | 2024-07-03 |  |
 | [Too Rare](https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Too Rare](https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF) | 3:22 | 2024-01-19 | 2024-05-21 |
 | [True Story](https://open.spotify.com/track/4etrFq2jb8oJr6cmC8wVKn) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X) | [True Story](https://open.spotify.com/album/4fzpebldJNnxWbjL6KFd9c) | 2:17 | 2024-03-30 |  |
 | [TRY FOR ONCE \(feat\. Lil Yee\)](https://open.spotify.com/track/5pAKdaR73hkpr9c66HreTi) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [TRY FOR ONCE \(feat\. Lil Yee\)](https://open.spotify.com/album/5WF3NjVoViEnq1xT4zT2At) | 3:26 | 2023-12-01 | 2024-03-16 |

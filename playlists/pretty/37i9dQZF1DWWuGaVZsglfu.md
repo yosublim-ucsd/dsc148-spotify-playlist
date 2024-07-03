@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Haqiem Rusli
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,354 likes - 61 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,357 likes - 61 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

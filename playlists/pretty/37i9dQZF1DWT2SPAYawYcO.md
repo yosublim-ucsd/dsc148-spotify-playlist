@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,605 likes - 92 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,635 likes - 92 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 30 | [Take Me Back](https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Take Me Back](https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK) | 2:33 |
 | 31 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 |
 | 32 | [Dimitri](https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:28 |
-| 33 | [Hine Mokemoke](https://open.spotify.com/track/4BSAUKqRWOqa3iJOR9sMhC) | [Manu Taupunga](https://open.spotify.com/artist/6XSNGvb2biMXpHDONRHsov), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Jordyn With A Why](https://open.spotify.com/artist/2igZcMGamsG4GPyzwsdCA4), [Ma](https://open.spotify.com/artist/5SDNWYryVTS9BJokcAnzTu), [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V), [Dillastrate](https://open.spotify.com/artist/0KJcXwyLf2gkK55nvELoSp), [Mārei](https://open.spotify.com/artist/6Nm9nZI275eUmT5opWq4by) | [Hine Mokemoke](https://open.spotify.com/album/27SIjVmMlFWdebkZe9K1W2) | 3:30 |
+| 33 | [Hine Mokemoke](https://open.spotify.com/track/4BSAUKqRWOqa3iJOR9sMhC) | [Manu Taupunga](https://open.spotify.com/artist/6XSNGvb2biMXpHDONRHsov), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Jordyn With A Why](https://open.spotify.com/artist/2igZcMGamsG4GPyzwsdCA4), [MĀ](https://open.spotify.com/artist/0OziqXKq6ay0gUOPtNI7Gs), [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V), [Dillastrate](https://open.spotify.com/artist/0KJcXwyLf2gkK55nvELoSp), [Mārei](https://open.spotify.com/artist/6Nm9nZI275eUmT5opWq4by) | [Hine Mokemoke](https://open.spotify.com/album/27SIjVmMlFWdebkZe9K1W2) | 3:30 |
 | 34 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 |
 | 35 | [The Deluge](https://open.spotify.com/track/3x2pPg6d0aftxc955ko6fy) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/2Gnmhd9RjDjlFEkioy0azw) | 4:15 |
 | 36 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 |

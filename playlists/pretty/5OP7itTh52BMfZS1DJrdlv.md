@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > <a></a>Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new! Merry Christmas, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul 🎄
 
-[Topsify](https://open.spotify.com/user/topsify) - 928,339 likes - 100 songs - 5 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 928,248 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 21 | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/track/4SMc89QYZUfg9wHd2wV4fn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:43 |
 | 22 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/42DGbZBiuRsaNw3tgO4FPv) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:31 |
 | 23 | [Lonely This Christmas](https://open.spotify.com/track/1pVbEGfj945M4TrRPWUPSm) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:33 |
-| 24 | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/track/0caVtaIBvTLt9Pjw4OgDk2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:39 |
+| 24 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/0caVtaIBvTLt9Pjw4OgDk2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:39 |
 | 25 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/4xjKPpeWbUCgQo6VnJLHZB) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 2:44 |
 | 26 | [Blue Christmas](https://open.spotify.com/track/6FA2CCCGjQrAVN1dtWsVVX) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 2:06 |
 | 27 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |

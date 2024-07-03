@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-24",
-  "description": "This is Joan Baez. The essential tracks, all in one playlist.",
+  "description": "This is Joan Baez\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Joan Baez",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 193173,
       "name": "Don't Cry For Me Argentina - Live",
       "url": "https://open.spotify.com/track/6mwSAVdxyJPFNGPZvrufEy"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 189800,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 169957,
       "name": "Drug Store Truck Drivin' Man - Live At The Woodstock Music & Art Fair / 1969",
       "url": "https://open.spotify.com/track/0rl1mAu2HBkIptk1rUtzlI"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 211066,
       "name": "Gabriel And Me",
       "url": "https://open.spotify.com/track/0Ct4eTeTYKYsCHCaz8Whel"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "No Woman No Cry - Live",
       "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "The Water Is Wide - Live",
       "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"

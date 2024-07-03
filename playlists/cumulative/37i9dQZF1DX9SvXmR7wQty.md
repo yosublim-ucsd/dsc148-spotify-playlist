@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hubert Lenoir, P'tit Belliveau
 
-2,640 songs - 5 day 20 hr 40 min
+2,641 songs - 5 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,7 +1227,7 @@
 | [La couleur du vent](https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Au premier tour de l'évidence](https://open.spotify.com/album/5ZGmH9Byd2dddSLWZbHLL8) | 3:49 | 2022-02-11 | 2022-02-26 |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-02 | 2024-04-13 |
 | [La course ou la vie](https://open.spotify.com/track/72lMVBBmE7duYmsF1SpHny) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi), [Polo](https://open.spotify.com/artist/2ms9ObpCtg7f0UyZJOikSW) | [La course ou la vie](https://open.spotify.com/album/2mysaFAd6HtnTEJkmndR2a) | 3:27 | 2022-10-07 | 2022-10-22 |
-| [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 |  |
+| [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 | 2024-07-03 |
 | [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2023-10-21 |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-05-14 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-10-27 | 2023-11-11 |
@@ -1315,6 +1315,7 @@
 | [Le bureau du médecin](https://open.spotify.com/track/2xhHu7eet33jNymFJHM4R4) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Spotify Singles](https://open.spotify.com/album/0kzBeKrnyzKrDC5JaVCrJW) | 2:39 | 2022-10-28 | 2022-11-19 |
 | [Le cadran](https://open.spotify.com/track/4l11yUeN0UrkwFYWiSyyMC) | [Marcus Wilcour](https://open.spotify.com/artist/6fB9PFcHK9nL7j5SnQUWOt) | [Le cadran](https://open.spotify.com/album/6xhSCPGZbGtPK3N3ue48hZ) | 3:10 | 2022-02-25 | 2022-03-05 |
 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 | 2022-01-28 | 2022-02-12 |
+| [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-28 |  |
 | [Le ciel](https://open.spotify.com/track/1T3QVEBWgWXKjnlosNt8Eo) | [Juillet](https://open.spotify.com/artist/5YtpwobYKsNioVYWmI3bBQ) | [Le ciel](https://open.spotify.com/album/0XgmHY9sGkTU2YLXbVoPiP) | 3:42 | 2023-03-31 | 2023-04-09 |
 | [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-01-19 | 2024-01-27 |
 | [Le Ciel Sur La Tête](https://open.spotify.com/track/619m8eazjTsTbSbTO8zrWA) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Le Ciel Sur La Tête](https://open.spotify.com/album/5bMQnBg8l1zzuxrlmRR3yo) | 2:58 | 2024-06-21 |  |

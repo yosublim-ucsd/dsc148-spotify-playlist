@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 526691,
+  "num_followers": 526922,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Control Your Body (Hardwell Edit)",
         "url": "https://open.spotify.com/album/1b9ghhDdxSBNCFnb8f1ccf"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Adrenalina (Minha Gasolina)",
         "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
       },
@@ -739,6 +739,46 @@
       "duration_ms": 180845,
       "name": "Adrenalina (Minha Gasolina)",
       "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Insurgence",
+        "url": "https://open.spotify.com/album/0Xpuaz86KmUDJGGwEHvMI6"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Insurgence",
+      "url": "https://open.spotify.com/track/23Aj3x8ZkrVs0gzNnz7qgU"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
+        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
+      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -767,42 +807,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
-        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
+        "name": "This Is What It Feels Like (Armin van Buuren 2023 Remix)",
+        "url": "https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
-      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Insurgence",
-        "url": "https://open.spotify.com/album/0Xpuaz86KmUDJGGwEHvMI6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Mairee",
-          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Insurgence",
-      "url": "https://open.spotify.com/track/23Aj3x8ZkrVs0gzNnz7qgU"
+      "duration_ms": 219172,
+      "name": "This Is What It Feels Like - Armin van Buuren 2023 Remix",
+      "url": "https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -827,26 +847,6 @@
       "duration_ms": 122200,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "This Is What It Feels Like (Armin van Buuren 2023 Remix)",
-        "url": "https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 219172,
-      "name": "This Is What It Feels Like - Armin van Buuren 2023 Remix",
-      "url": "https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK"
     },
     {
       "added_at": "2024-06-27 22:00:00",

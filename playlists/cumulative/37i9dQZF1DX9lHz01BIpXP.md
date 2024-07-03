@@ -4,12 +4,12 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA">Ziggy4x</a>
 
-143 songs - 7 hr 27 min
+144 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 | 2023-08-31 | 2024-06-07 |
-| [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 | 2023-10-27 |  |
+| [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 | 2023-10-27 | 2024-07-03 |
 | [7DeLaan](https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [7DeLaan](https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ) | 2:50 | 2023-06-08 | 2023-06-16 |
 | [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 | 2022-10-28 |
 | [Awe](https://open.spotify.com/track/1rNWkKVhuRBqwJ6nsjQIgw) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [Cream Machine](https://open.spotify.com/artist/3ogDnSPAOIkeH3EJgkw6sd) | [Awe](https://open.spotify.com/album/0uikFOqO0GXZKxzs3Nab8Y) | 2:08 | 2022-09-08 | 2023-03-03 |
@@ -28,6 +28,7 @@
 | [By Die See](https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [By Die See](https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5) | 2:47 | 2022-11-03 | 2023-03-03 |
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 | 2023-08-18 |
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 | 2023-08-05 |
+| [Cheat Op My 2](https://open.spotify.com/track/6mldRX4MV4CmTYsB7BcIA9) | [Dreamchaser7100](https://open.spotify.com/artist/5dNbLPmDIb6tBbpylFd0CT) | [Cheat Op My 2](https://open.spotify.com/album/6TWvgPFHDAIhBDpSdnvnQ3) | 2:34 | 2024-06-13 |  |
 | [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 | 2023-12-01 |
 | [Consistent](https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Consistent](https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy) | 2:08 | 2024-04-05 |  |
 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 | 2024-02-01 |  |

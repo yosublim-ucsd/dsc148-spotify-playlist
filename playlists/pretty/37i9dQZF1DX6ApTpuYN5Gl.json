@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 244197,
+  "num_followers": 244210,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Thandi",
-          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 161829,
       "name": "Let It Bleed",
       "url": "https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Thandi",
+          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
     }
   ],
   "unique_name": "melancholia",

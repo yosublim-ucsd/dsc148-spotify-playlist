@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "ACROSS THE WORLD",
+        "url": "https://open.spotify.com/album/6YWZhGWLwLUnZssY6XkVQM"
+      },
+      "artists": [
+        {
+          "name": "Shoko Nakagawa",
+          "url": "https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254710,
+      "name": "ACROSS THE WORLD",
+      "url": "https://open.spotify.com/track/174kT94aK54zCC0aIdEMz9"
+    },
+    {
+      "album": {
         "name": "AFTER ALL",
         "url": "https://open.spotify.com/album/7kZY7Et5C6TFM21t9Z4W43"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1304605,
+  "num_followers": 1304928,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,30 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+        "name": "DLMD",
+        "url": "https://open.spotify.com/album/5Rc0OTFEFeXDBd2GvMRJkx"
       },
       "artists": [
         {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
         },
         {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+      "duration_ms": 160212,
+      "name": "DLMD",
+      "url": "https://open.spotify.com/track/2d9EgBM9F09IkEG8t9T6L8"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -483,30 +491,22 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "DLMD",
-        "url": "https://open.spotify.com/album/5Rc0OTFEFeXDBd2GvMRJkx"
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
       },
       "artists": [
         {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
         },
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
         }
       ],
-      "duration_ms": 160212,
-      "name": "DLMD",
-      "url": "https://open.spotify.com/track/2d9EgBM9F09IkEG8t9T6L8"
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
         "name": "I Like To Party",
         "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 159483,
       "name": "I Like To Party",
       "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -783,6 +783,30 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "duration_ms": 161589,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
         "name": "Activation",
         "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 165003,
       "name": "DAS IST KEIN TECHNO",
       "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
+        "name": "TECHNOBOTS",
+        "url": "https://open.spotify.com/album/0ZZ2LSFWHzMNSPAtNkBXAD"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 142463,
+      "name": "TECHNOBOTS",
+      "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
-        "name": "TECHNOBOTS",
-        "url": "https://open.spotify.com/album/0ZZ2LSFWHzMNSPAtNkBXAD"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 142463,
-      "name": "TECHNOBOTS",
-      "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -1443,26 +1443,18 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 196576,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -1599,38 +1591,26 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
       },
       "artists": [
         {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
-        "name": "Feel The Rhythm",
-        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
-      },
-      "artists": [
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         },
         {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 201483,
-      "name": "Feel The Rhythm",
-      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
+      "duration_ms": 196576,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -1659,6 +1639,26 @@
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
+        "name": "Feel The Rhythm",
+        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        }
+      ],
+      "duration_ms": 201483,
+      "name": "Feel The Rhythm",
+      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "Hardcore Life",
-        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Hardcore Life",
-      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
         "name": "Dia De Los Muertos",
         "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
       },
@@ -1995,6 +1975,26 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
         "name": "Living For The Moment (2020 Remix)",
         "url": "https://open.spotify.com/album/2t6M7HjXueQfUFDIjQhPEG"
       },
@@ -2007,26 +2007,6 @@
       "duration_ms": 303586,
       "name": "Living For The Moment - 2020 Remix",
       "url": "https://open.spotify.com/track/4gZNHeY0uBX0f9VTV1VA3Y"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
-        "name": "Where I Belong",
-        "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        },
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -2051,26 +2031,22 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "I Won't Let You Down (feat. Miss Geist)",
-        "url": "https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M"
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
       },
       "artists": [
         {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
         },
         {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Miss Geist",
-          "url": "https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2"
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
         }
       ],
-      "duration_ms": 168876,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07"
+      "duration_ms": 165569,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -2111,6 +2087,30 @@
       "duration_ms": 197142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
+        "name": "I Won't Let You Down (feat. Miss Geist)",
+        "url": "https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Miss Geist",
+          "url": "https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2"
+        }
+      ],
+      "duration_ms": 168876,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+    },
+    {
+      "added_at": "2024-06-14 08:22:06",
+      "album": {
         "name": "Big City Life (BassWar & CaoX Remix)",
         "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 211764,
       "name": "Big City Life - BassWar & CaoX Remix",
       "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
-    },
-    {
-      "added_at": "2024-06-14 08:22:06",
-      "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -2587,22 +2587,22 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "Kriss Kross",
-        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+        "name": "Blow Up The Speakers (Again)",
+        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Kriss Kross",
-      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+      "duration_ms": 208657,
+      "name": "Blow Up The Speakers (Again)",
+      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
     },
     {
       "added_at": "2024-06-14 08:22:06",
@@ -2631,22 +2631,22 @@
     {
       "added_at": "2024-06-14 08:22:06",
       "album": {
-        "name": "Blow Up The Speakers (Again)",
-        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
+        "name": "Kriss Kross",
+        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
       },
       "artists": [
         {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "The Moon",
-          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         }
       ],
-      "duration_ms": 208657,
-      "name": "Blow Up The Speakers (Again)",
-      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+      "duration_ms": 156705,
+      "name": "Kriss Kross",
+      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
     },
     {
       "added_at": "2024-06-14 08:22:06",

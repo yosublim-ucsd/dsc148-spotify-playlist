@@ -1,12 +1,12 @@
 {
-  "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 134781,
+  "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
+  "num_followers": 134844,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADLxnKk06o0Stf5JuQal7AT",
+  "snapshot_id": "ZoHxgAAAAABI7HW7+qTbshDZj8gr6ynJ",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innocence",
         "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 192492,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 261866,
       "name": "How Could an Angel Break My Heart (with Toni Braxton)",
       "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -339,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
       "artists": [
         {
@@ -348,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+      "duration_ms": 201973,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
     },
     {
       "added_at": null,
@@ -371,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
       },
       "artists": [
         {
@@ -380,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 300466,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 170360,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
     },
     {
       "added_at": null,

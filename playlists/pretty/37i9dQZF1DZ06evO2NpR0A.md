@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 ### [This Is Bon Iver](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NpR0A)
 
-> This is Bon Iver\. The essential tracks, all in one playlist.
+> This Is Bon Iver\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,588 likes - 44 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,632 likes - 44 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 43 | [iMi](https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:16 |
 | 44 | [Woods](https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 
-Snapshot ID: `ZoCgAAAAAAD3q8T+VOZhjxxEJaos96Ko`
+Snapshot ID: `ZoHxgAAAAACm7MDUlQjO+icrqaujByOW`

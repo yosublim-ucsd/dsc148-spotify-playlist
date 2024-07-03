@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,813 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,866 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 74 | [Hot Nigga](https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Hot Nigga](https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx) | 2:30 |
 | 75 | [Donde Estabas Tu](https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Yo Siempre Ando Con Los Oidos Fresh](https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ) | 3:16 |
 | 76 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
-| 77 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
-| 78 | [Caile](https://open.spotify.com/track/6l4qSMR0iVGnZibf5piyJ8) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Caile](https://open.spotify.com/album/1cPsN0zKo8jRP7eM81uvC8) | 4:59 |
+| 77 | [Caile](https://open.spotify.com/track/6l4qSMR0iVGnZibf5piyJ8) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Caile](https://open.spotify.com/album/1cPsN0zKo8jRP7eM81uvC8) | 4:59 |
+| 78 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
 | 79 | [Ahora Dice](https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice](https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb) | 4:31 |
 | 80 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |
 | 81 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 |

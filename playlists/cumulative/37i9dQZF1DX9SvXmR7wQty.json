@@ -23854,7 +23854,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -25524,6 +25524,24 @@
       "duration_ms": 234240,
       "name": "Le calme",
       "url": "https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV"
+    },
+    {
+      "album": {
+        "name": "Le chant des cygnes",
+        "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Le chant des cygnes - Single Version",
+      "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
     },
     {
       "album": {

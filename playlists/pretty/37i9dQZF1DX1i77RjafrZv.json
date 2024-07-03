@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317352,
+  "num_followers": 317363,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Ma pr\u00e9f\u00e9rence",
-      "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Addictions (Ultimate Version)",
         "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 219000,
       "name": "Longtemps",
       "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Ma pr\u00e9f\u00e9rence",
+      "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "Ressources (Nouvelle Edition)",
+        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 210138,
+      "name": "R\u00e9tine",
+      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 210093,
       "name": "Couleur menthe \u00e0 l'eau",
       "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Ressources (Nouvelle Edition)",
-        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 210138,
-      "name": "R\u00e9tine",
-      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "J'te l'dis quand m\u00eame",
-      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "J'te l'dis quand m\u00eame",
+      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "Je sais pas",
+      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273133,
-      "name": "Je sais pas",
-      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Besoin De Rien, Envie De Toi",
         "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 222440,
       "name": "Besoin de rien, envie de toi",
       "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Toujours moi",
-        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Parce que c'est toi",
-      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 331800,
       "name": "Pas toi",
       "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Toujours moi",
+        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Parce que c'est toi",
+      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "L'amour \u00e0 la machine",
+      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "15 Ans D'Amour",
         "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 201066,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "L'amour \u00e0 la machine",
-      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
     },
     {
       "added_at": "2024-05-23 16:09:45",

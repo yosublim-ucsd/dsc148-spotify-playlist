@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 鄒序 \(Hogan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,314 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,310 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-348 songs - 17 hr 31 min
+349 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,10 +342,11 @@
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-12-02 | 2023-11-18 |
 | [Walk Alone](https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Walk Alone](https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg) | 3:15 | 2024-06-27 |  |
 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 | 2024-06-14 |  |
+| [Was It Worth It](https://open.spotify.com/track/2ADNTs7rzqTcl9kDn6p0xZ) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Youth](https://open.spotify.com/album/4yyDhCb1DBkS0VGy3L4fOa) | 3:37 | 2024-06-27 |  |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2022-12-02 | 2023-11-18 |
 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 | 2024-06-27 |  |
 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 | 2024-05-31 | 2024-06-28 |
-| [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-05-31 |  |
+| [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-05-31 | 2024-07-03 |
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-12-02 | 2023-11-18 |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-03-03 | 2024-01-16 |
 | [Who Do We Not Save](https://open.spotify.com/track/0gL0Au51CmhJy7R5Oo70WE) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Who Do We Not Save](https://open.spotify.com/album/6GBiQv7xCikmX0TMdT2Igr) | 2:07 | 2023-04-21 | 2023-06-09 |

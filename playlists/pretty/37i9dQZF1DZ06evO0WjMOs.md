@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,906 likes - 35 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,937 likes - 35 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 34 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm) | 2:36 |
 | 35 | [Stupid](https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:42 |
 
-Snapshot ID: `ZoCgAAAAAAD4FKio+dARf5qMlejsz0Ro`
+Snapshot ID: `ZoHxgAAAAACBqDK9LOhUgr+cuCaQBsXf`

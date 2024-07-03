@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 87,604 likes - 96 songs - 5 hr 29 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 87,595 likes - 96 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 95 | [Catch a Kill](https://open.spotify.com/track/44jB1lbNsoPTYWoorkJPJH) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/6qGHHcXVXUMaouCUCkK9Mn) | 2:06 |
 | 96 | [Live Sheck Wes](https://open.spotify.com/track/1dhO5lyN2Otv4qR0xWQXH7) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 2:27 |
 
-Snapshot ID: `AAAH77cBSDb1kFd3oHB5tJ2HHYtitAQx`
+Snapshot ID: `AAAH8pwFvzPJGXosQiFPaifrvDYwO0uV`

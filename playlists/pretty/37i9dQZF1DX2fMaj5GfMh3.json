@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste popliedjes. Cover: Gracie Abrams",
-  "num_followers": 97363,
+  "num_followers": 97366,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn3g4AAAAACbza2mmrVcBu/L0IlmsoxX",
+  "snapshot_id": "ZoO2yAAAAAArfWjs9+1CF8G9gXXqM5yL",
   "tracks": [
     {
       "added_at": "2024-06-20 22:00:00",
@@ -27,6 +27,38 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "added_at": "2024-07-02 08:14:00",
+      "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
       "added_at": "2024-06-10 14:56:03",
@@ -61,6 +93,26 @@
       "url": "https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl"
     },
     {
+      "added_at": "2024-07-02 08:14:00",
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "HOT UPTOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
+    },
+    {
       "added_at": "2024-06-10 14:56:03",
       "album": {
         "name": "I Wanna Thank Me (feat. Niecy Nash)",
@@ -81,36 +133,68 @@
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
     },
     {
-      "added_at": "2024-06-24 09:02:53",
+      "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "bad emotions",
-        "url": "https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 185272,
-      "name": "bad emotions",
-      "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
+      "duration_ms": 217018,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-07-02 08:14:00",
+      "album": {
+        "name": "Bitter Sweet Love (Deluxe)",
+        "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 204962,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
     },
     {
       "added_at": "2024-06-24 09:02:53",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE"
+        "name": "3.2",
+        "url": "https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI"
       },
       "artists": [
         {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
         }
       ],
-      "duration_ms": 175247,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"
+      "duration_ms": 197345,
+      "name": "orange tree",
+      "url": "https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l"
     },
     {
       "added_at": "2024-06-24 09:02:53",
@@ -127,6 +211,22 @@
       "duration_ms": 225204,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt"
+    },
+    {
+      "added_at": "2024-06-24 09:02:53",
+      "album": {
+        "name": "bad emotions",
+        "url": "https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 185272,
+      "name": "bad emotions",
+      "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -161,100 +261,24 @@
       "url": "https://open.spotify.com/track/1AjvNW8RlrZlAkjTq1WCke"
     },
     {
-      "added_at": "2024-06-24 09:02:53",
+      "added_at": "2024-07-02 08:14:00",
       "album": {
-        "name": "3.2",
-        "url": "https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI"
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
       },
       "artists": [
         {
-          "name": "Emma Bale",
-          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
-        }
-      ],
-      "duration_ms": 197345,
-      "name": "orange tree",
-      "url": "https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Need You In The Light",
-        "url": "https://open.spotify.com/album/1oXLpsXNfHTFRpd25LqUMw"
-      },
-      "artists": [
-        {
-          "name": "Luka",
-          "url": "https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/4GfU4Konlw32p6HkNhuLNW"
-    },
-    {
-      "added_at": "2024-06-24 09:02:53",
-      "album": {
-        "name": "Terrible Love",
-        "url": "https://open.spotify.com/album/6wmlAOnEZqool97otMS7QX"
-      },
-      "artists": [
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 130953,
-      "name": "Terrible Love",
-      "url": "https://open.spotify.com/track/384beOLINSqcarzj9toY9g"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 208836,
-      "name": "Genesis, pt. ii",
-      "url": "https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y"
+      "duration_ms": 200970,
+      "name": "Heavenly Hell (ft. Ne-Yo)",
+      "url": "https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE"
     },
     {
       "added_at": "2024-06-24 09:02:53",
@@ -275,6 +299,86 @@
       "duration_ms": 222908,
       "name": "Out of Time (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Need You In The Light",
+        "url": "https://open.spotify.com/album/1oXLpsXNfHTFRpd25LqUMw"
+      },
+      "artists": [
+        {
+          "name": "Luka",
+          "url": "https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/4GfU4Konlw32p6HkNhuLNW"
+    },
+    {
+      "added_at": "2024-06-24 09:02:53",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"
+    },
+    {
+      "added_at": "2024-06-24 09:02:53",
+      "album": {
+        "name": "Terrible Love",
+        "url": "https://open.spotify.com/album/6wmlAOnEZqool97otMS7QX"
+      },
+      "artists": [
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 130953,
+      "name": "Terrible Love",
+      "url": "https://open.spotify.com/track/384beOLINSqcarzj9toY9g"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 208836,
+      "name": "Genesis, pt. ii",
+      "url": "https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y"
     },
     {
       "added_at": "2024-06-10 14:56:03",
@@ -309,38 +413,6 @@
       "url": "https://open.spotify.com/track/7jo2PagbFYgcFe85hrCC1K"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217018,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx"
-    },
-    {
       "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "BRAT",
@@ -355,22 +427,6 @@
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Look Who's Laughing Now",
-        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Look Who's Laughing Now",
-      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
     },
     {
       "added_at": "2024-06-24 09:09:28",
@@ -423,26 +479,6 @@
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "From The Jump (Duet Version)",
-        "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 231522,
-      "name": "From The Jump (Duet Version)",
-      "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
     },
     {
       "added_at": "2024-06-10 14:56:03",
@@ -755,22 +791,6 @@
     {
       "added_at": "2024-06-10 14:56:03",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 177373,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Feeling Lucky",
-        "url": "https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        }
-      ],
-      "duration_ms": 151040,
-      "name": "Feeling Lucky",
-      "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
     },
     {
       "added_at": "2024-06-10 14:56:03",

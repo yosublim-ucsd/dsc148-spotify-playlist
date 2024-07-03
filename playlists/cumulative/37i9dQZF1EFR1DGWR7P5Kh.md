@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-48 songs - 2 hr 38 min
+49 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Beautiful](https://open.spotify.com/track/3SylZsUCrHAlag6Q4BmYD7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 4:10 | 2021-12-27 |  |
 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 | 2021-12-27 |  |
 | [Black Jesus \(feat\. Symba, Kaydence, Deion Gill & WorldWide Fresh\)](https://open.spotify.com/track/2wZCIjijiD4WsFg79RtKXV) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Deion Gill](https://open.spotify.com/artist/0Lf5rJG1V3FTMTRPwDyXCG), [WorldWide Fresh](https://open.spotify.com/artist/40kAWYgoxqesnb9Tg2ciPd) | [Godfather of Harlem: Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/5iViiTpRnW92VTxZqIdn61) | 4:35 | 2024-05-07 |  |
-| [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 | 2021-12-27 |  |
+| [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 | 2021-12-27 | 2024-07-03 |
+| [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2024-07-02 |  |
 | [Borderline](https://open.spotify.com/track/3Yrmzj5kIcASKndfutrJjC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 5:12 | 2021-12-27 |  |
 | [Dumb Thingz](https://open.spotify.com/track/5RcMLdjofr40JUqei7d5qf) | [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 2:48 | 2021-12-27 |  |
 | [Freedom Rings](https://open.spotify.com/track/3f9eR0IZrktbCSqPfxM9jr) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/5yK7v9cHza2xr079MbaOCR) | 3:46 | 2022-10-23 | 2023-12-25 |

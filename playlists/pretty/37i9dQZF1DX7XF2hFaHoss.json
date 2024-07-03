@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
-  "num_followers": 151628,
+  "num_followers": 151642,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
-      },
-      "artists": [
-        {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
-        }
-      ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Quiet (Stripped)",
         "url": "https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 208587,
       "name": "Quiet - Stripped",
       "url": "https://open.spotify.com/track/60oCAd3gei66GObniGX4wV"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Dust and Magic",
-        "url": "https://open.spotify.com/album/5DoLax81MjuvuOwH6mBrPn"
-      },
-      "artists": [
-        {
-          "name": "Anna Tivel",
-          "url": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs"
-        }
-      ],
-      "duration_ms": 179109,
-      "name": "Dust and Magic",
-      "url": "https://open.spotify.com/track/6hTNf8zgq7BtA9ZNwQFa0i"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Dust and Magic",
+        "url": "https://open.spotify.com/album/5DoLax81MjuvuOwH6mBrPn"
+      },
+      "artists": [
+        {
+          "name": "Anna Tivel",
+          "url": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs"
+        }
+      ],
+      "duration_ms": 179109,
+      "name": "Dust and Magic",
+      "url": "https://open.spotify.com/track/6hTNf8zgq7BtA9ZNwQFa0i"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Empty Rooms",
-        "url": "https://open.spotify.com/album/4qNykGqmrHXbZj2pBtQxVb"
-      },
-      "artists": [
-        {
-          "name": "Elise Davis",
-          "url": "https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1"
-        }
-      ],
-      "duration_ms": 257532,
-      "name": "Yellow Bed",
-      "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 148101,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Empty Rooms",
+        "url": "https://open.spotify.com/album/4qNykGqmrHXbZj2pBtQxVb"
+      },
+      "artists": [
+        {
+          "name": "Elise Davis",
+          "url": "https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1"
+        }
+      ],
+      "duration_ms": 257532,
+      "name": "Yellow Bed",
+      "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"
     },
     {
       "added_at": "2024-03-08 05:00:00",

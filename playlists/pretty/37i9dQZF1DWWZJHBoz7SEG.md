@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Llueva o salga el sol, aquí están las canciones más nuevas para disfrutar el verano 🌦️ The Warning en portada 🤘🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,823 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,873 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

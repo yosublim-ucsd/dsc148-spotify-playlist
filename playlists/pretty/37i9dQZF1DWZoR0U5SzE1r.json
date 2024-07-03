@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 314805,
+  "num_followers": 314939,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
+        "name": "Praise Before My Breakthrough",
+        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 246619,
+      "name": "My Hallelujah",
+      "url": "https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
         "name": "Fire in My Bones",
         "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 331373,
       "name": "Captain",
       "url": "https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
-        "name": "Praise Before My Breakthrough",
-        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 246619,
-      "name": "My Hallelujah",
-      "url": "https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1203,13 +1203,13 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Cover The Earth (Deluxe)",
+        "name": "Cover The Earth: Live In New York (Deluxe)",
         "url": "https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK"
       },
       "artists": [
         {
           "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "url": "https://open.spotify.com/artist/2bdpmMlFBovHA43sJz7Eo8"
         }
       ],
       "duration_ms": 552251,
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "On My Side (Live)",
-        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
+        "name": "More Than Enough / Still In Control (Live)",
+        "url": "https://open.spotify.com/album/1ue3FXYsAQEzWFpUwc3SyL"
       },
       "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
         {
           "name": "Kim Walker-Smith",
           "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 301106,
-      "name": "Throne Room - Live",
-      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
+      "duration_ms": 516363,
+      "name": "More Than Enough - Live",
+      "url": "https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl"
     }
   ],
   "unique_name": "epicPRAISE",

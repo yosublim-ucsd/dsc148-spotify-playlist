@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 51030,
+  "num_followers": 51057,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -143,30 +143,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Piano Brotherhood (feat. Dani Gugolz, Peter M\u00fcller)",
-        "url": "https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
       "artists": [
         {
-          "name": "Jean-Pierre Bertrand",
-          "url": "https://open.spotify.com/artist/77PBFv21ChvCL07tXkoP3x"
-        },
-        {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
-        },
-        {
-          "name": "Dani Gugolz",
-          "url": "https://open.spotify.com/artist/2PVYlFb0RH1qflbHCe3MyW"
-        },
-        {
-          "name": "Peter M\u00fcller",
-          "url": "https://open.spotify.com/artist/7lQJmgdxJyKDhOqQIz3ZgE"
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Boogie Woogie Blues",
-      "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
+      "duration_ms": 173893,
+      "name": "Roll 'Em",
+      "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -203,18 +191,30 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+        "name": "Piano Brotherhood (feat. Dani Gugolz, Peter M\u00fcller)",
+        "url": "https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl"
       },
       "artists": [
         {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Jean-Pierre Bertrand",
+          "url": "https://open.spotify.com/artist/77PBFv21ChvCL07tXkoP3x"
+        },
+        {
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+        },
+        {
+          "name": "Dani Gugolz",
+          "url": "https://open.spotify.com/artist/2PVYlFb0RH1qflbHCe3MyW"
+        },
+        {
+          "name": "Peter M\u00fcller",
+          "url": "https://open.spotify.com/artist/7lQJmgdxJyKDhOqQIz3ZgE"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Roll 'Em",
-      "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
+      "duration_ms": 221626,
+      "name": "Boogie Woogie Blues",
+      "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+      },
+      "artists": [
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Blue Lamp",
+      "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "See You Later, Alligator",
         "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
       "artists": [
         {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
         }
       ],
-      "duration_ms": 181093,
-      "name": "Blue Lamp",
-      "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
+      "duration_ms": 178000,
+      "name": "Honky Tonk Train Blues",
+      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -391,22 +407,6 @@
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Honky Tonk Train Blues",
-      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rock and Rollin' With Fats",
-        "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 238315,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Rock and Rollin' With Fats",
+        "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Caroline's Boogie",
-      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Rum and Coke",
         "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Caroline's Boogie",
+      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Flip, Flop And Fly 1951-1955",
-        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
       },
       "artists": [
         {
           "name": "Big Joe Turner",
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
         }
       ],
-      "duration_ms": 159853,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -863,22 +867,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+        "name": "Flip, Flop And Fly 1951-1955",
+        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
       },
       "artists": [
         {
           "name": "Big Joe Turner",
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
         }
       ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+      "duration_ms": 159853,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Barrelhouse Boogie",
-      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Woogie Storm",
         "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "This Is Boogie Woogie!",
-        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
-      },
-      "artists": [
-        {
-          "name": "Dave Taylor",
-          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
-        }
-      ],
-      "duration_ms": 154826,
-      "name": "Boogie In The City",
-      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Woogie",
         "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 198733,
       "name": "Get in the Groove, Boys!",
       "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "This Is Boogie Woogie!",
+        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
+      },
+      "artists": [
+        {
+          "name": "Dave Taylor",
+          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
+        }
+      ],
+      "duration_ms": 154826,
+      "name": "Boogie In The City",
+      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
-      },
-      "artists": [
-        {
-          "name": "Anisteen Allen",
-          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Bongo Boogie",
-      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "St. Louis Blues Piano Man",
         "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Anisteen Allen",
+          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Bongo Boogie",
+      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
     },
     {
       "added_at": "2024-05-30 16:27:59",

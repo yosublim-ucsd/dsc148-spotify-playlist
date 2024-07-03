@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>\u3001<a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>\u3001<a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> \u548c\u66f4\u591a\u85dd\u4eba",
-  "name": "\u4f4e\u8ff4\u97f3\u6a02\u5408\u8f2f",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> and more",
+  "name": "Moody Mix",
   "tracks": [
     {
       "album": {
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
@@ -10838,7 +10838,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-673 songs - 1 day 18 hr 8 min
+679 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 | 2021-12-20 | 2022-03-22 |
 | [Angela](https://open.spotify.com/track/5bodDpPolC3xlame0SVcDY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 | 2022-12-21 | 2023-03-16 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-09-06 | 2023-12-16 |
+| [Artichoke](https://open.spotify.com/track/4bM74eqvr4Pr9CmYeDYOht) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 2:43 | 2024-07-02 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2021-12-20 | 2022-03-22 |
 | [As the Moon Starts to Rise](https://open.spotify.com/track/1pGmlmjEdegK7MOKYaCBm6) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 3:57 | 2021-12-20 | 2022-03-22 |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2023-12-15 | 2024-03-16 |
@@ -320,6 +321,7 @@
 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 | 2022-09-06 | 2023-12-16 |
 | [Learning to Fly](https://open.spotify.com/track/774L5jcka6KfVUecFA0Zc1) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Learning to Fly](https://open.spotify.com/album/4CPWgOPiOYXbUFi7G7VQdC) | 3:05 | 2022-03-21 | 2022-06-08 |
 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 | 2023-05-05 | 2024-05-21 |
+| [Let Me Out](https://open.spotify.com/track/7jn2TTaJ8MxTFmVrLCkOlL) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Mountain Mama](https://open.spotify.com/album/3McAJj03SALW4lwcZCL1vB) | 3:40 | 2024-07-02 |  |
 | [Let There Be Music](https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 4:41 | 2023-06-21 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2023-06-21 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2023-03-15 | 2024-05-21 |
@@ -352,6 +354,7 @@
 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2023-12-15 | 2024-03-16 |
 | [Martha](https://open.spotify.com/track/6jR9qx0N2DgwzVuvispn7H) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Martha](https://open.spotify.com/album/0ByzrqiFGK0FvsmYnjAIPn) | 3:27 | 2022-03-21 | 2022-06-08 |
 | [Mary](https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:28 | 2023-12-15 | 2024-03-16 |
+| [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-07-02 |  |
 | [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2022-12-21 | 2024-03-16 |
 | [May Flowers](https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [May Flowers](https://open.spotify.com/album/6b6lr7abIADkzifUd8gNfE) | 3:30 | 2023-03-15 | 2024-05-21 |
 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 | 2023-03-15 | 2024-05-21 |
@@ -382,6 +385,7 @@
 | [Nice And Quiet](https://open.spotify.com/track/4MxQUIX2RwrJ1ktT3Y3Esi) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/78JRVney9Ma3xEVGSG5xYy) | 3:51 | 2022-03-21 | 2022-06-08 |
 | [Night Singing](https://open.spotify.com/track/6kaUnGYmSsZFT0OyGS2H36) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Night Singing](https://open.spotify.com/album/3NnwRaGjSbrlqi8hRJgfJq) | 2:11 | 2022-03-21 | 2022-06-08 |
 | [No Cure](https://open.spotify.com/track/0udeaEoaB60lDj0JK6EsA2) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:41 | 2023-06-21 |  |
+| [No Machine](https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:00 | 2024-07-02 |  |
 | [No Reason](https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [No Reason / Spud Infinity](https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617) | 3:47 | 2021-12-20 | 2022-03-22 |
 | [No Reason](https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:47 | 2022-03-21 | 2022-06-08 |
 | [No Stopping Now](https://open.spotify.com/track/7h83f3EJFK11nbTQcFu8Bo) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [No Stopping Now](https://open.spotify.com/album/7wrXsMvM3FCeLamY17ZJd9) | 3:45 | 2021-12-20 | 2022-03-22 |
@@ -429,6 +433,7 @@
 | [Persephone](https://open.spotify.com/track/20rVzDO837h897G3pMr6re) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th) | 4:33 | 2022-03-21 | 2022-06-08 |
 | [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 | 2023-04-14 | 2024-05-21 |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-09-06 | 2022-12-21 |
+| [Pick and Choose](https://open.spotify.com/track/4qpy5SAHylvWgEPQVV4Crn) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [June, Baby](https://open.spotify.com/album/2L7bVjbn3vHUEh9gT4jato) | 3:02 | 2024-07-02 |  |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2023-01-05 | 2023-03-16 |
 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 | 2022-12-21 | 2023-03-16 |
 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 | 2022-09-06 | 2023-12-16 |
@@ -548,6 +553,7 @@
 | [Swing and Turn Jubilee](https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Fruit](https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ) | 4:09 | 2023-12-15 | 2024-03-16 |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-12-20 | 2022-03-22 |
 | [Take Me Home](https://open.spotify.com/track/0nbQvHWnm5Wq25SFXpfQGp) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1BlAEi3GIMvEU3grYkLq5t) | 3:01 | 2022-03-21 | 2022-06-08 |
+| [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-07-02 |  |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-06-07 | 2022-09-07 |
 | [that's no way to fly](https://open.spotify.com/track/7eqf6p5QkaTeDwJpJcKqp8) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [that's no way to fly](https://open.spotify.com/album/0iXaMwMFQ3kOYIsfCMnrKP) | 3:14 | 2021-12-20 | 2022-03-22 |
 | [The Back Of Her](https://open.spotify.com/track/2YQr4Zh2TsIABHW1TbuvEs) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Pull The Right Rope](https://open.spotify.com/album/1zJWPGP8JFdpypvANgL1KQ) | 5:15 | 2021-12-20 | 2022-03-22 |

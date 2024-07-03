@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
-  "num_followers": 221467,
+  "num_followers": 221505,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Me Encanta",
         "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Una Cartita",
         "url": "https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 178588,
       "name": "Una Cartita",
       "url": "https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -1051,22 +1035,38 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Elegante",
-        "url": "https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7"
+        "name": "\u00c9ramos los dos",
+        "url": "https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m"
       },
       "artists": [
         {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         },
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         }
       ],
-      "duration_ms": 205052,
-      "name": "Elegante",
-      "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
+      "duration_ms": 221250,
+      "name": "\u00c9ramos los dos",
+      "url": "https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "\u00c9ramos los dos",
-        "url": "https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m"
+        "name": "Elegante",
+        "url": "https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
         },
         {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 221250,
-      "name": "\u00c9ramos los dos",
-      "url": "https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI"
+      "duration_ms": 205052,
+      "name": "Elegante",
+      "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 204659,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI"
       },
@@ -1443,18 +1427,34 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "COMO TE LLAMAS",
-        "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
       },
       "artists": [
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
         }
       ],
-      "duration_ms": 158570,
-      "name": "COMO TE LLAMAS",
-      "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Partido",
+        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Coraz\u00f3n Partido",
+      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Partido",
-        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
+        "name": "COMO TE LLAMAS",
+        "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
       },
       "artists": [
         {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 118000,
-      "name": "Coraz\u00f3n Partido",
-      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
+      "duration_ms": 158570,
+      "name": "COMO TE LLAMAS",
+      "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Maldito Amor",
-        "url": "https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 193708,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Maldito Amor",
+        "url": "https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 193708,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Me Va Mejor Con el Alcohol",
+        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Me Va Mejor Con el Alcohol",
+      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Quizas",
         "url": "https://open.spotify.com/album/4TOG0O4lhvuQmDIDPQmktD"
       },
@@ -1755,38 +1771,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Me Va Mejor Con el Alcohol",
-        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Me Va Mejor Con el Alcohol",
-      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Ya Sera Tarde",
-        "url": "https://open.spotify.com/album/6jiWZxtBjLgknEKGJAeVCR"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "Ya Sera Tarde",
-      "url": "https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Me Equivoqu\u00e9 Otra Vez",
         "url": "https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 175971,
       "name": "Me Equivoqu\u00e9 Otra Vez",
       "url": "https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Ya Sera Tarde",
+        "url": "https://open.spotify.com/album/6jiWZxtBjLgknEKGJAeVCR"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "Ya Sera Tarde",
+      "url": "https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t"
     },
     {
       "added_at": "2024-06-28 03:00:00",

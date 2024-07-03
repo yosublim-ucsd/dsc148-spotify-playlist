@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Raphaela Santos e mais mulheres no volume máximo! Co\-curadoria com Raphaela Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,071 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,106 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Amor é Tudo](https://open.spotify.com/track/0yWrl9bvKSRfmi1Xojrtn6) | [Galícia](https://open.spotify.com/artist/79N95MiRQ5G55CtC7cVBsr), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Amor é Tudo](https://open.spotify.com/album/6TcKTtvO4sUL3KlWwJGKQj) | 3:30 |
 | 34 | [Não Te Quero Mais \- Ao Vivo](https://open.spotify.com/track/56BgyqErIAqdP2wBWjxctI) | [Samyra Show](https://open.spotify.com/artist/4Tf3QqoMHY7pAeE51Ib8Il), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Não Te Quero Mais \(Ao Vivo\)](https://open.spotify.com/album/5h4MGiPtKsrRVRO3JaCEGv) | 2:47 |
 | 35 | [Aqui Sem Você](https://open.spotify.com/track/0St7sQfECC7mU4rKMeYonz) | [Noara Marques](https://open.spotify.com/artist/4eFqje2bI9eezAflyVBbIB), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Aqui Sem Você](https://open.spotify.com/album/7cB9qmOdnWLTzcongqLU68) | 3:07 |
-| 36 | [Seu Mentiroso \- Ao Vivo em Aracaju](https://open.spotify.com/track/5bxPJGrCtWOtvDL0rtWO3Q) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Seu Mentiroso \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/4CAaq6RKKS07kRKhgRDxzF) | 3:45 |
+| 36 | [Ondas Voltam Pro Mar](https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ondas Voltam Pro Mar](https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb) | 3:11 |
 | 37 | [Fórmula Mágica \(Ao Vivo\)](https://open.spotify.com/track/6905tNZ44Fsfyws48rq9aV) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP4](https://open.spotify.com/album/17IAlFSJ4eNMaAxkVTQa1g) | 3:59 |
 | 38 | [Vou te Bloquear](https://open.spotify.com/track/47dnK5hi3tjLjrfTDOfiMy) | [Galícia](https://open.spotify.com/artist/79N95MiRQ5G55CtC7cVBsr) | [Vou te Bloquear](https://open.spotify.com/album/1lKFEVjayLHliUyYHn4jwp) | 2:30 |
-| 39 | [Ondas Voltam Pro Mar](https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ondas Voltam Pro Mar](https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb) | 3:11 |
+| 39 | [Seu Mentiroso \- Ao Vivo em Aracaju](https://open.spotify.com/track/5bxPJGrCtWOtvDL0rtWO3Q) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Seu Mentiroso \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/4CAaq6RKKS07kRKhgRDxzF) | 3:45 |
 | 40 | [Batom Na Boca](https://open.spotify.com/track/5wgMwNVQuyMFdZ7KX5kbD7) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:44 |
 | 41 | [Bora Testar](https://open.spotify.com/track/5sGpSASOFgc9WqvUR76Jqo) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bora Testar](https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7) | 2:32 |
 | 42 | [Frase Decorada](https://open.spotify.com/track/0lu1ncJkS1BzB41ByBqtBY) | [Ester Moraes](https://open.spotify.com/artist/07gBSJp5Y3SQYut7biit26) | [Frase Decorada](https://open.spotify.com/album/7jNwEJn3p7qvmQG72klx5T) | 3:39 |

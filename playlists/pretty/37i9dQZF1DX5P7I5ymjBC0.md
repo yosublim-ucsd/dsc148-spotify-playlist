@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,737 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,746 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 46 | [Yatra](https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Barry Phillips](https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:22 |
 | 47 | [Mind Ecology \(with John McLaughlin\)](https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6) | [Shakti](https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Natural Elements \(with John McLaughlin\)](https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn) | 5:47 |
 | 48 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 |
-| 49 | [Pashto](https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [As We Speak](https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN) | 8:24 |
-| 50 | [Savera](https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Savera \- Single](https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N) | 4:05 |
+| 49 | [Savera](https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Savera \- Single](https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N) | 4:05 |
+| 50 | [Pashto](https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [As We Speak](https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN) | 8:24 |
 
 Snapshot ID: `ZnlUZgAAAADN+Vgnon8H2ILjyquNX6yb`

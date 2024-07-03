@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng H\u00e0 Tr\u1ea7n t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. ",
+  "description": "C\u00f9ng Chi Pu t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. ",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 228979,
       "name": "Em M\u1edbi L\u00e0 Ng\u01b0\u1eddi Y\u00eau Anh",
       "url": "https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr"
@@ -1244,6 +1244,28 @@
       "duration_ms": 278400,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4"
+    },
+    {
+      "album": {
+        "name": "Finding You",
+        "url": "https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ"
+      },
+      "artists": [
+        {
+          "name": "Chi Pu",
+          "url": "https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Finding You",
+      "url": "https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz"
     },
     {
       "album": {

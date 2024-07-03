@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: IDLES #Glastonbury2024",
-  "num_followers": 511275,
+  "num_followers": 511249,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,42 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Act Violently",
+        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "Act Violently",
+      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "The Echoes of Disparity",
         "url": "https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI"
       },
@@ -715,18 +751,18 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Act Violently",
-        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 171615,
-      "name": "Act Violently",
-      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -743,22 +779,6 @@
       "duration_ms": 225600,
       "name": "HEAT ME UP",
       "url": "https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -799,26 +819,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Guilty (feat. DL of Bad Wolves)",
-        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Guilty (feat. DL of Bad Wolves)",
-      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "Fight For The Right",
         "url": "https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 138973,
       "name": "Ipecac",
       "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Soldier In The Army of Love",
+        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "duration_ms": 178490,
+      "name": "Soldier In The Army of Love",
+      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -907,26 +927,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Take Shape (feat. Billy Corgan)",
-        "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        },
-        {
-          "name": "Billy Corgan",
-          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Take Shape (feat. Billy Corgan)",
-      "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "When She Told Me",
         "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
       },
@@ -959,22 +959,22 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Soldier In The Army of Love",
-        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
+        "name": "Take Shape (feat. Billy Corgan)",
+        "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
         },
         {
-          "name": "Roman Morello",
-          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+          "name": "Billy Corgan",
+          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
         }
       ],
-      "duration_ms": 178490,
-      "name": "Soldier In The Army of Love",
-      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+      "duration_ms": 204226,
+      "name": "Take Shape (feat. Billy Corgan)",
+      "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1011,86 +1011,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Descend",
-        "url": "https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
-        }
-      ],
-      "duration_ms": 220074,
-      "name": "Descend",
-      "url": "https://open.spotify.com/track/21gzflUH729pjKczveSrHU"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Shrine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Overthrone",
-      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Out Of The Shadows 2.0",
-        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 219195,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "The Noble Art Of Self Destruction",
-        "url": "https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 178097,
-      "name": "Her Wings",
-      "url": "https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "The Mosaic",
-        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 213387,
-      "name": "Final Words",
-      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
       },
@@ -1111,6 +1031,86 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 220074,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/21gzflUH729pjKczveSrHU"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "The Noble Art Of Self Destruction",
+        "url": "https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 178097,
+      "name": "Her Wings",
+      "url": "https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Out Of The Shadows 2.0",
+        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 219195,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "The Mosaic",
+        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 213387,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "The Return Of Tomorrow",
         "url": "https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 222720,
       "name": "Roads Of The Lowly",
       "url": "https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1167,22 +1183,6 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW"
-      },
-      "artists": [
-        {
-          "name": "GEL",
-          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Show Me My Maker",
+      "url": "https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "You Will Never Get Me",
         "url": "https://open.spotify.com/album/3YXZGlXuZHRdttyYShJRGn"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 139240,
       "name": "You Will Never Get Me",
       "url": "https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "The Perfume of Decay",
-        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Show Me My Maker",
-      "url": "https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Go Tobann",
-        "url": "https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN"
-      },
-      "artists": [
-        {
-          "name": "AILSHA",
-          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
-        }
-      ],
-      "duration_ms": 144430,
-      "name": "Go Tobann",
-      "url": "https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "smother",
         "url": "https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 201265,
       "name": "smother",
       "url": "https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Go Tobann",
+        "url": "https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "duration_ms": 144430,
+      "name": "Go Tobann",
+      "url": "https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "UNLOVED",
-        "url": "https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 196045,
-      "name": "UNLOVED",
-      "url": "https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "UNLOVED",
+        "url": "https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 196045,
+      "name": "UNLOVED",
+      "url": "https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1"
-      },
-      "artists": [
-        {
-          "name": "Liquid State",
-          "url": "https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p"
-        }
-      ],
-      "duration_ms": 244876,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 236181,
       "name": "For Katie",
       "url": "https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1"
+      },
+      "artists": [
+        {
+          "name": "Liquid State",
+          "url": "https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p"
+        }
+      ],
+      "duration_ms": 244876,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV"
     },
     {
       "added_at": "2024-06-28 12:56:53",

@@ -4,7 +4,7 @@
 
 > 
 
-1,928 songs - 4 day 7 hr 58 min
+1,929 songs - 4 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,6 +1382,7 @@
 | [Repo](https://open.spotify.com/track/35iQIXGIxGGNQum4KZaxkF) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Repo](https://open.spotify.com/album/63NTP8ZQgqj3VO0gtJNZoK) | 1:40 | 2021-08-05 |  |
 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-08-05 |  |
 | [Revolutionize](https://open.spotify.com/track/5ZRskCjLCZcdI3FjbZNpAb) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:44 | 2021-08-05 |  |
+| [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 | 2024-07-02 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-08-05 |  |
 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2022-02-18 |  |
 | [Rich Bitch Juice \- Laura Les Remix](https://open.spotify.com/track/0hfjiQ13PQ4TcHOXyi1NWx) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Rich Bitch Juice \(Remixes\)](https://open.spotify.com/album/2I6rSGR9i4vBsefiCbN559) | 2:20 | 2022-04-03 |  |

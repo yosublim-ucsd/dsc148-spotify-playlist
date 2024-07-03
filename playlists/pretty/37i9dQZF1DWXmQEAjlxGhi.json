@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1398582,
+  "num_followers": 1398563,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -1527,26 +1547,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "El Mambo",
         "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 129845,
       "name": "El Mambo",
       "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "Funk Generation",
-        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 127292,
-      "name": "Fria",
-      "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1595,6 +1579,22 @@
       "duration_ms": 223384,
       "name": "Pepas - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 127292,
+      "name": "Fria",
+      "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "Morfina (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 229474,
+      "name": "Morfina (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "Danza Kuduro (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g"
       },
@@ -1891,26 +1911,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "Morfina (feat. Paloma Mami)",
-        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 229474,
-      "name": "Morfina (feat. Paloma Mami)",
-      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "TQMQA",
-      "url": "https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/6NlJtxTYtt0b8tY2IAZDAV"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "TQMQA",
+      "url": "https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1991,6 +1991,34 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "Bagatelle",
+        "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 259777,
+      "name": "Bagatelle",
+      "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "CAMIONETOTA",
         "url": "https://open.spotify.com/album/2toNsWrWckrup7Z2Hwp5ao"
       },
@@ -2023,34 +2051,6 @@
       "duration_ms": 276315,
       "name": "CAMIONETOTA",
       "url": "https://open.spotify.com/track/2KknVfA6jr8kAb2QdmAJPs"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "Bagatelle",
-        "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 259777,
-      "name": "Bagatelle",
-      "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
     },
     {
       "added_at": "2024-06-21 09:08:54",

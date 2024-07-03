@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: 4EVE
 
-87 songs - 5 hr 44 min
+88 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-01-26 | 2024-06-09 |
 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 | 2024-01-26 | 2024-02-26 |
 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-27 |  |
+| [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 | 2024-07-02 |  |
 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 | 2024-01-26 |  |
 | [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-02-21 | 2024-03-08 |
 | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-01-26 |  |
@@ -53,7 +54,7 @@
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-05-30 |  |
 | [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 | 2024-01-26 | 2024-03-28 |
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-01-26 |  |
-| [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-01-26 |  |
+| [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-01-26 | 2024-07-03 |
 | [ฟ้ารักพ่อ \(DILF\)](https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [ยุ้ย ญาติเยอะ](https://open.spotify.com/artist/4abxoWkXUq5R49gYTvAeLz) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:01 | 2024-01-26 | 2024-05-02 |
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-01-31 | 2024-06-01 |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-01-26 |  |

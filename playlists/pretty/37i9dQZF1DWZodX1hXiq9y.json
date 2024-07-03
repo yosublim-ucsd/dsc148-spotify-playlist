@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 103634,
+  "num_followers": 103693,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Opus De Funk",
-      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 400560,
       "name": "Funkallero",
       "url": "https://open.spotify.com/track/265nuzhZ75CqbXvuQcDEvv"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
+        "name": "The Bad Plus Joshua Redman",
+        "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 412613,
+      "name": "As This Moment Slips Away",
+      "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
         "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
         "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 216693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "The Bad Plus Joshua Redman",
-        "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 412613,
-      "name": "As This Moment Slips Away",
-      "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Out There (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 412720,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 242560,
       "name": "Caroline, No",
       "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Out There (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 412720,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1787,30 +1787,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Miroslav Vitous",
-          "url": "https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD"
-        },
-        {
-          "name": "Peter Erskine",
-          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
-        }
-      ],
-      "duration_ms": 363333,
-      "name": "Lamenting",
-      "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Jazz Alive! A Night at the Half Note",
         "url": "https://open.spotify.com/album/7ae4qsLX1ZBTrrClmrGPWA"
       },
@@ -1831,6 +1807,30 @@
       "duration_ms": 614613,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/3TVGO0B20dnOgBBKb8Fkye"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Miroslav Vitous",
+          "url": "https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD"
+        },
+        {
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "Lamenting",
+      "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
         "name": "The Unissued Copenhagen Studio Session",
         "url": "https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 446194,
       "name": "Blues in G Flat",
       "url": "https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 368053,
+      "name": "Eco - Remastered",
+      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
         "name": "Warm Woods",
         "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 463640,
       "name": "The Forest",
       "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 368053,
-      "name": "Eco - Remastered",
-      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "On This Night",
         "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 962320,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2024-03-20 12:31:54",

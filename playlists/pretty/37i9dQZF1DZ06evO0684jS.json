@@ -1,12 +1,12 @@
 {
-  "description": "This is Nicki Minaj. Az \u00f6sszes kihagyhatatlan sz\u00e1m egyetlen m\u0171sorlist\u00e1ban.",
-  "num_followers": 857164,
+  "description": "This is Nicki Minaj. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
+  "num_followers": 857427,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAACzNtaBDm3sumuSoTiHxLJ7",
+  "snapshot_id": "ZoHxgAAAAABo/4CztfJSoQYDxQyH+Ppm",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Turn Me On (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Turn Me On (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
     },
     {
       "added_at": null,
@@ -875,26 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
+        "name": "No Love (Remix)",
+        "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
         },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 199427,
-      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+      "duration_ms": 276080,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
     },
     {
       "added_at": null,
@@ -923,6 +919,30 @@
       "duration_ms": 312026,
       "name": "Only",
       "url": "https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199427,
+      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
     },
     {
       "added_at": null,
@@ -1067,26 +1087,6 @@
       "duration_ms": 185413,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/1hn9nQ8TR8Le4EpHN2oCyE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

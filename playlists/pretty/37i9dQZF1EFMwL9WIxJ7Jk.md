@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,434 likes - 141 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,433 likes - 141 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 120 | [Bring The Whole Hood](https://open.spotify.com/track/50u0dzmVfbZx55JsVSVq7O) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:20 |
 | 121 | [Touchdown Dance](https://open.spotify.com/track/45wCjjaPuE5M9BdNA4iYV2) | [IM5](https://open.spotify.com/artist/4TEgsvmXwYmqRAoxyo4Wb9) | [Touchdown Dance](https://open.spotify.com/album/3Q3RSzUE9t7eMKw2b5bwVz) | 3:31 |
 | 122 | [Silent Night](https://open.spotify.com/track/6EtpTZWS3z4jpBDcJ0bmGu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
-| 123 | [Done With Bein' Done](https://open.spotify.com/track/3VcOKyZzJfxaN8yPN4Prw6) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Essentials](https://open.spotify.com/album/2tAdwNPoOq0j3wgfbm5x3N) | 3:12 |
-| 124 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 123 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 124 | [Done With Bein' Done](https://open.spotify.com/track/3VcOKyZzJfxaN8yPN4Prw6) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Essentials](https://open.spotify.com/album/2tAdwNPoOq0j3wgfbm5x3N) | 3:12 |
 | 125 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
 | 126 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 |
 | 127 | [You Don't Know Me](https://open.spotify.com/track/3xGTNPcwsvonkWUQV1Wsqu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:30 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 140 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 141 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbVj/gAAAACbzMwD+7sjpmdWWprLQSZ+`
+Snapshot ID: `AbVpYgAAAAAPk7QzEhE17SeOKZJGIHXg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8">ELEVATION RHYTHM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,942 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,973 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 43 | [Battle Belongs \- Reyer & Retain Remix](https://open.spotify.com/track/2uCL1C9hwqYywVGJrq6RWy) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF), [Sander Nijbroek](https://open.spotify.com/artist/6zakne0mu9dWkzLZI34YWR), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z) | [Battle Belongs \(Reyer & Retain Remix\)](https://open.spotify.com/album/0iszENrvkQKnEeap9o0RSK) | 3:37 |
 | 44 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 | 45 | [Out With The Old \- Live](https://open.spotify.com/track/2vAuPGpj2b2yOBW61If0E0) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Out With The Old \(Live\)](https://open.spotify.com/album/4ol0uz7qLTMUVytyNIzTCW) | 3:46 |
-| 46 | [Break Out \- Studio Single](https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jennifer Akers](https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U) | [Break Out](https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV) | 3:55 |
-| 47 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 |
+| 46 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 |
+| 47 | [Break Out \- Studio Single](https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jennifer Akers](https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U) | [Break Out](https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV) | 3:55 |
 | 48 | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz) | [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA), [Lauren Evans](https://open.spotify.com/artist/3C7ueB5rQVcVfh0ryluAvk), [Bala Mandala](https://open.spotify.com/artist/6wz0tpwgz2ASbD9cWqxb64) | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/album/3lQfdE3f9o8tcERGl6uZeH) | 4:20 |
 | 49 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 50 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |

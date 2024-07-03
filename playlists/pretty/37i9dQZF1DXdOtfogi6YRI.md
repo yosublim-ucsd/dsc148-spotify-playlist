@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOtfogi6YRI.md) - [plain]
 
 > Nieoczywiste aktualne brzmienia polskiego rapu\. Cover: Kosma Król
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,383 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,401 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOtfogi6YRI.md) - [plain]
 | 88 | [Sny o Tobie](https://open.spotify.com/track/0PT2o2WsdqvbmIVfAnMcRp) | [Astrograjek](https://open.spotify.com/artist/1oOAzIqLU8w85MU617eK5F) | [Sny o Tobie](https://open.spotify.com/album/2S5vn9BwjH3N8mKCdw4Api) | 3:08 |
 | 89 | [Braveheart](https://open.spotify.com/track/41ffY33lgWYV2hnObz9i1a) | [Echo37](https://open.spotify.com/artist/4qifB4zeruOMkx5FaiNyge) | [Braveheart](https://open.spotify.com/album/5wqGAb7FhNEcEBisWOvsbe) | 2:22 |
 | 90 | [BOOM!](https://open.spotify.com/track/5ZYJODn17vPJl5cMiumtHd) | [Blessed Family](https://open.spotify.com/artist/6XYU5XpZwDUIq0k7HSkJf1), [Myong Ki](https://open.spotify.com/artist/7kWTrgJL95EJwVVW6oYypZ), [Lisbone](https://open.spotify.com/artist/1ym2VfWDmsz5UPrZhI2VxX), [Hasky](https://open.spotify.com/artist/75eVEfWjXvdRAExkcfxaEk), [clooud](https://open.spotify.com/artist/0gAOyitPtpplvp653VcVFV), [Mazi](https://open.spotify.com/artist/4NFAyXYIPNk0t6PGmrnHTT) | [BOOM!](https://open.spotify.com/album/1sec9lLcEnNrVruurFAqEd) | 2:38 |
-| 91 | [bez w dłoni](https://open.spotify.com/track/5lB8rnoCkZLI2EFUPPdg5c) | [• ukeboy •](https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR) | [bez w dłoni](https://open.spotify.com/album/2UvIX8MDZrEJaPCWQZR5Lz) | 3:05 |
+| 91 | [highway eleven](https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8) | [rogi](https://open.spotify.com/artist/5rIZoZQY5YwXdy7I7w6YKK) | [11minut](https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN) | 2:27 |
 | 92 | [Who Knows](https://open.spotify.com/track/2mxu9nihwolnrjMPKmvaqs) | [TVB](https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL), [Krzaquu](https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj) | [The Very Bass](https://open.spotify.com/album/1UsbkYUwYq7QznKp78P2Oa) | 3:30 |
-| 93 | [highway eleven](https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8) | [rogi](https://open.spotify.com/artist/5rIZoZQY5YwXdy7I7w6YKK) | [11minut](https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN) | 2:27 |
+| 93 | [bez w dłoni](https://open.spotify.com/track/5lB8rnoCkZLI2EFUPPdg5c) | [• ukeboy •](https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR) | [bez w dłoni](https://open.spotify.com/album/2UvIX8MDZrEJaPCWQZR5Lz) | 3:05 |
 | 94 | [KOLOR](https://open.spotify.com/track/7EiH6etfaTRfDCK1DsUfDz) | [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U), [Skrywa](https://open.spotify.com/artist/35ZWqPWgxvWAxxLu5bwMiY), [ERRBITS](https://open.spotify.com/artist/3R4lfbnS9kvMe9VB99VgDL) | [KOLOR](https://open.spotify.com/album/0l63g7E22a9LNDvpW83WSa) | 3:20 |
 | 95 | [Co ludzie powiedzą?](https://open.spotify.com/track/4eejNystsuMpoFCtdybLMf) | [bartek koko](https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD), [Mayor](https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM) | [Co ludzie powiedzą?](https://open.spotify.com/album/7eUUXsFfPGtQvjvOJdNSfW) | 3:08 |
 | 96 | [E i ą](https://open.spotify.com/track/3nAOWVHAZPZyUOeTUAMqKX) | [Mvrceli](https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV) | [E i ą](https://open.spotify.com/album/0dgHIizwQ6QnUShAV6xybU) | 3:13 |

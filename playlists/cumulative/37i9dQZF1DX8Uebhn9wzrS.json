@@ -6403,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "coconut coffee",
+        "url": "https://open.spotify.com/album/56R9MfE2lSx6JvDe3Lhqxy"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "coconut coffee",
+      "url": "https://open.spotify.com/track/5a3ADzSwj3AW8T54W5fY6i"
+    },
+    {
+      "album": {
         "name": "Coconut Cup",
         "url": "https://open.spotify.com/album/6aAeUCH9XWIPsVrYLSFmA1"
       },
@@ -10294,6 +10312,24 @@
       "duration_ms": 135876,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/33x57rcYVkrWtkWB9y2PF2"
+    },
+    {
+      "album": {
+        "name": "Falcon",
+        "url": "https://open.spotify.com/album/71xM5XgklqQxrh2AZaoaNY"
+      },
+      "artists": [
+        {
+          "name": "Talaiio",
+          "url": "https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173166,
+      "name": "Falcon",
+      "url": "https://open.spotify.com/track/2ayC31AGGoGHISl3BP0qSs"
     },
     {
       "album": {
@@ -15844,7 +15880,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 140843,
       "name": "Issa thang",
       "url": "https://open.spotify.com/track/6HyECvfMgS1SfMMnz1fJjG"
@@ -18440,7 +18476,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 172024,
       "name": "Long Green",
       "url": "https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro"
@@ -26026,7 +26062,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 111724,
       "name": "Rain Is Coming",
       "url": "https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O"
@@ -26638,6 +26674,24 @@
       "duration_ms": 151480,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth"
+    },
+    {
+      "album": {
+        "name": "restful",
+        "url": "https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz"
+      },
+      "artists": [
+        {
+          "name": "Gaccio",
+          "url": "https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126338,
+      "name": "restful",
+      "url": "https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,937 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,966 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 19 | [Ayla Pt\. 2](https://open.spotify.com/track/1hChLdk0hBQbapbpVUVlNa) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Nirwana](https://open.spotify.com/album/01kLROis8vImm0gixW3kq0) | 3:19 |
 | 20 | [Walk on Water \- H2O Radio Mix](https://open.spotify.com/track/6Phug5Bw0QShaFvRMeBVzZ) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Land Of The Living](https://open.spotify.com/album/4IJCl7EEMVTn9YzqlYtfP7) | 3:12 |
 | 21 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
-| 22 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
-| 23 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
+| 22 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
+| 23 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
 | 24 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
 | 25 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 26 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
 | 27 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
 | 28 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
 | 29 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
-| 30 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
-| 31 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
-| 32 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
-| 33 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
+| 30 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
+| 31 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
+| 32 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
+| 33 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
 | 34 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
 | 35 | [AmokK \- Radio Edit](https://open.spotify.com/track/2ozX5ETDNn7IhiNE5jodfZ) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:53 |
 | 36 | [Toca Me \- Clubmix](https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca Me](https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q) | 5:46 |

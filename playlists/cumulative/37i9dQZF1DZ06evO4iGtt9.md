@@ -2,7 +2,7 @@
 
 ### [This Is Timaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iGtt9)
 
-> This is Timaya\. The essential tracks, all in one playlist.
+> This Is Timaya\. Los temas esenciales, todos en una lista.
 
 103 songs - 5 hr 46 min
 
@@ -61,7 +61,7 @@
 | [I Don Blow](https://open.spotify.com/track/0Mp8jkvCKwn0kR6YGt38wy) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Shayo Pisanta](https://open.spotify.com/artist/5ZuUI0UIaNU4Cglic3NbDa) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:39 | 2022-02-15 | 2022-02-18 |
 | [I Like The Way](https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [I Like The Way](https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz) | 3:19 | 2021-12-28 |  |
 | [Iberibe](https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:19 | 2021-12-28 |  |
-| [Igbalode](https://open.spotify.com/track/1owUBARhG8dGPFRy1WwzwP) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mood and Ecstasy](https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f) | 2:28 | 2024-03-30 |  |
+| [Igbalode](https://open.spotify.com/track/1owUBARhG8dGPFRy1WwzwP) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mood and Ecstasy](https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f) | 2:28 | 2024-03-30 | 2024-07-03 |
 | [Igbalode](https://open.spotify.com/track/7gywnmiiHFGaGadY27UJ8X) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Igbalode](https://open.spotify.com/album/5D1kgcGV5HEs2OiC8IKLIj) | 2:28 | 2023-03-26 | 2024-03-31 |
 | [IN MY HEAD](https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [IN MY HEAD](https://open.spotify.com/album/5dI959e51lkReZI50si0ef) | 2:57 | 2024-04-19 |  |
 | [Inside](https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:15 | 2022-06-13 |  |
@@ -80,7 +80,7 @@
 | [My Moto](https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [My Moto](https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq) | 2:14 | 2023-05-29 | 2024-02-09 |
 | [No Limit](https://open.spotify.com/track/5mkwf1vdNtFVFjJX44o4sV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:16 | 2022-09-01 | 2023-06-07 |
 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 | 2022-03-12 |  |
-| [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 | 2024-05-28 |
+| [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 |  |
 | [Number One](https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:12 | 2022-01-01 | 2024-03-13 |
 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 | 2022-09-10 |  |
 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 | 2021-12-28 |  |

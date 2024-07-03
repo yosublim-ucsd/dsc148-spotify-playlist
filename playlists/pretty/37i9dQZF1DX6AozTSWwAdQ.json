@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60625,
+  "num_followers": 60628,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-07-01 01:00:00",
       "album": {
+        "name": "Fallin\u2019 (Adrenaline)",
+        "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 216504,
+      "name": "Fallin\u2019 (Adrenaline)",
+      "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
+    },
+    {
+      "added_at": "2024-07-01 01:00:00",
+      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 200645,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
-    },
-    {
-      "added_at": "2024-07-01 01:00:00",
-      "album": {
-        "name": "Fallin\u2019 (Adrenaline)",
-        "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 216504,
-      "name": "Fallin\u2019 (Adrenaline)",
-      "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
     },
     {
       "added_at": "2024-07-01 01:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-01 01:00:00",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 148326,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+    },
+    {
+      "added_at": "2024-07-01 01:00:00",
+      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2024-07-01 01:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 148326,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
-    },
-    {
-      "added_at": "2024-07-01 01:00:00",
-      "album": {
         "name": "Fake Faces",
         "url": "https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 174236,
       "name": "Fake Faces",
       "url": "https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO"
+    },
+    {
+      "added_at": "2024-07-01 01:00:00",
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": "2024-07-01 01:00:00",
@@ -643,18 +659,18 @@
     {
       "added_at": "2024-07-01 01:00:00",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+      "duration_ms": 161000,
+      "name": "More the Victim",
+      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
     },
     {
       "added_at": "2024-07-01 01:00:00",
@@ -671,22 +687,6 @@
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
-    },
-    {
-      "added_at": "2024-07-01 01:00:00",
-      "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "More the Victim",
-      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
     },
     {
       "added_at": "2024-07-01 01:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-01 01:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 143407,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv"
-    },
-    {
-      "added_at": "2024-07-01 01:00:00",
-      "album": {
         "name": "POS",
         "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2024-07-01 01:00:00",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 197253,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
+      "duration_ms": 143407,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv"
+    },
+    {
+      "added_at": "2024-07-01 01:00:00",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

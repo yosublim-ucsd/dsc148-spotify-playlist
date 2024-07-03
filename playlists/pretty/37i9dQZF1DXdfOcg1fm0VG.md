@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,172 likes - 126 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,276 likes - 126 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 65 | [Kingdom of Wessex](https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 3:41 |
 | 66 | [Crash Bandicoot Main Theme](https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV) | [Vicarious Visions Audio](https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB) | [Music from Crash Bandicoot N\. Sane Trilogy](https://open.spotify.com/album/2erZbQwABnyWVwQ8FK0UAb) | 0:48 |
 | 67 | [Elder Scrolls: Oblivion](https://open.spotify.com/track/7aENwq13lwx4TLLNRDxr5P) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 1:52 |
-| 68 | [Hope \(Title Theme\)](https://open.spotify.com/track/5UE1l5fozj8mkaZMk1xmBX) | [Justin E\. Bell](https://open.spotify.com/artist/6dMgJ2cftqX4iCnrSLJXHw) | [The Outer Worlds \(Original Soundtrack\)](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) | 7:45 |
+| 68 | [Hope \(Title Theme\)](https://open.spotify.com/track/5UE1l5fozj8mkaZMk1xmBX) | [Justin E\. Bell](https://open.spotify.com/artist/15ZjB1KKC2KzOhChvCe22B) | [The Outer Worlds \(Original Soundtrack\)](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) | 7:45 |
 | 69 | [Bloodhunt Main Theme](https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf) | 2:57 |
 | 70 | [Introduction](https://open.spotify.com/track/2ufr0Gs4OWL1Uo22EsJDSx) | [Kristofer Maddigan](https://open.spotify.com/artist/2jR6Lr47O21Iq7l5Bs2mig) | [Cuphead \(Original Soundtrack\)](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu) | 3:31 |
 | 71 | [Colored Engine](https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS) | [Joel Schoch](https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH) | [Far: Lone Sails](https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU) | 3:01 |

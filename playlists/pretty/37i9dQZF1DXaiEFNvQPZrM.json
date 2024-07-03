@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 762114,
+  "num_followers": 762272,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 221240,
-      "name": "Country Again",
-      "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Back To The Barrooms",
         "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 271160,
       "name": "I Think I'll Just Stay Here And Drink",
       "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "Country Again",
+      "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Cab In A Solo",
-        "url": "https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW"
+        "name": "Some People Change",
+        "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 225960,
-      "name": "Cab In A Solo",
-      "url": "https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb"
+      "duration_ms": 196706,
+      "name": "Lucky Man",
+      "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Some People Change",
-        "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
+        "name": "Cab In A Solo",
+        "url": "https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW"
       },
       "artists": [
         {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
+      "duration_ms": 225960,
+      "name": "Cab In A Solo",
+      "url": "https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb"
     },
     {
       "added_at": "2024-06-21 04:00:00",

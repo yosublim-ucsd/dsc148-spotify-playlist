@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme Malafe en portada.",
-  "num_followers": 168878,
+  "num_followers": 168913,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "ICE CREAM",
         "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 131666,
       "name": "ICE CREAM",
       "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
         "url": "https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 161378,
       "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
       "url": "https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1691,6 +1691,42 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "La Baliniza",
+        "url": "https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 106033,
+      "name": "La Baliniza",
+      "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "El Morrillo",
+        "url": "https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "El Morrillo",
+      "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "KATY PERRY",
         "url": "https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t"
       },
@@ -1719,26 +1755,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "El Morrillo",
-        "url": "https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "El Morrillo",
-      "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 215132,
       "name": "Es Mi Gusto",
       "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "La Baliniza",
-        "url": "https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 106033,
-      "name": "La Baliniza",
-      "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "La Cumbia De La Baliniza",
-        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
-      },
-      "artists": [
-        {
-          "name": "Los C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 167235,
-      "name": "La Cumbia De La Baliniza",
-      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Porte Malandro Fres\u00f3n",
         "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 149761,
       "name": "Porte Malandro Fres\u00f3n",
       "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "La Cumbia De La Baliniza",
+        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
+      },
+      "artists": [
+        {
+          "name": "Los C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 167235,
+      "name": "La Cumbia De La Baliniza",
+      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
     },
     {
       "added_at": "2024-06-07 06:00:00",

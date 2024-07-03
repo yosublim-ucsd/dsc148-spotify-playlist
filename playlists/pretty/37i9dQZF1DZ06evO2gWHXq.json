@@ -1,12 +1,12 @@
 {
-  "description": "This is MC Davo. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 219732,
+  "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
+  "num_followers": 219773,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAD9GiCZxKrqEUthcAVnoYVs",
+  "snapshot_id": "ZoHxgAAAAACS4Bg/8qKNJvrP6/RZ1SsX",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 205430,
-      "name": "Ella Es Una Amenaza",
-      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Se Supera?",
         "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 203916,
       "name": "\u00bfC\u00f3mo Se Supera?",
       "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 205430,
+      "name": "Ella Es Una Amenaza",
+      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
     },
     {
       "added_at": null,
@@ -700,13 +700,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Round 6",
-      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
+      "duration_ms": 148351,
+      "name": "La Que Dec\u00eda Que No",
+      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
     },
     {
       "added_at": null,
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
         }
       ],
-      "duration_ms": 148351,
-      "name": "La Que Dec\u00eda Que No",
-      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
+      "duration_ms": 216750,
+      "name": "Round 6",
+      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Andamos De Parranda",
-      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuern\u00fa (Remix)",
         "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 459413,
       "name": "Cuern\u00fa - Remix",
       "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,6 @@
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1111,26 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "La Paleta (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremenda",
         "url": "https://open.spotify.com/album/5fYPkmVk2wjnZM6Nwxsqx3"
       },
@@ -1147,6 +1111,26 @@
       "duration_ms": 192592,
       "name": "Tremenda",
       "url": "https://open.spotify.com/track/3tbVojOpYBUQFDPDoITdZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "La Paleta (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
     },
     {
       "added_at": null,
@@ -1191,26 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00f3xico",
-        "url": "https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 145427,
-      "name": "T\u00f3xico",
-      "url": "https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANHMATSV",
         "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
       },
@@ -1239,6 +1203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00f3xico",
+        "url": "https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 145427,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -1251,6 +1235,26 @@
       "duration_ms": 225978,
       "name": "Vive La Vida",
       "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Saben",
+        "url": "https://open.spotify.com/album/2xLO8RcO22jQFvg2apDo52"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "No Saben",
+      "url": "https://open.spotify.com/track/03PKEI1s1HIfpy8XDkKabt"
     }
   ],
   "unique_name": "This Is MC Davo",

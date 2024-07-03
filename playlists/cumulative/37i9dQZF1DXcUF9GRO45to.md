@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-311 songs - 19 hr 42 min
+312 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 | 2021-12-15 | 2024-04-26 |
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
-| [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 |  |
+| [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 | 2024-07-03 |
 | [Cristaux liquides](https://open.spotify.com/track/2EWJSXTYhCGfBjdyJ9Zwci) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/19JD5rvKFS4n48zCosjzIE) | 2:50 | 2024-02-28 |  |
 | [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 | 2023-07-28 |
 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 | 2021-12-15 |  |
@@ -230,6 +230,7 @@
 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 | 2021-12-15 |  |
 | [REQUIN MAKO](https://open.spotify.com/track/4qTYigArkxHtrICjMTZ8aX) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/34wdBVVO2E8XsnVOPQH5mC) | 2:44 | 2022-04-17 | 2022-07-24 |
 | [REQUIN MAKO](https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl) | 2:44 | 2023-07-23 | 2024-04-19 |
+| [Ritalin](https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb) | [Dirty Cloud](https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV) | [Straight\-Jacket](https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc) | 2:03 | 2024-05-29 |  |
 | [RUNNING IN CIRCLES](https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [RUNNING IN CIRCLES](https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE) | 2:53 | 2022-11-28 | 2023-03-22 |
 | [Réveil heureux](https://open.spotify.com/track/185HvxnL9HUliNEb1Ohb48) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Réveil heureux](https://open.spotify.com/album/43qiPYd2IshCDP2HhgiYlu) | 5:08 | 2022-02-01 | 2022-03-25 |
 | [Réveil heureux](https://open.spotify.com/track/5jIOQUM9SWwLE2QmWFh30R) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 5:08 | 2023-06-29 | 2023-09-23 |

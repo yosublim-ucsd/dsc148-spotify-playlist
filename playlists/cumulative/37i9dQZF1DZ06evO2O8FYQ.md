@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2O8FYQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2O8FYQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2O8FYQ)
 
-### [This Is ダイナソー・パイルアップ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O8FYQ)
+### [This Is Dinosaur Pile\-Up](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O8FYQ)
 
-> This is ダイナソー・パイルアップ。アーティストの代表曲をひとつのプレイリストに。
+> This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
 56 songs - 3 hr 6 min
 
@@ -19,9 +19,9 @@
 | [Barce\-Loner](https://open.spotify.com/track/5JsxX5mxbXvgX8e8R0uH5x) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:15 | 2022-09-16 |  |
 | [Bella](https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 2:45 | 2022-12-20 |  |
 | [Bella](https://open.spotify.com/track/70XGnbj2KKcAaTEwZRqzYR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 2:45 | 2022-09-16 | 2022-12-21 |
-| [Black Limousine](https://open.spotify.com/track/3mme63UbfIFkTTX9g4nxXp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:17 | 2024-06-24 |  |
+| [Black Limousine](https://open.spotify.com/track/3mme63UbfIFkTTX9g4nxXp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:17 | 2024-06-24 | 2024-07-03 |
 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 | 2022-09-16 |  |
-| [Celebrity Mansions](https://open.spotify.com/track/2cGYrleMCxBKTYbsiGXF56) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:38 | 2022-09-16 | 2024-06-26 |
+| [Celebrity Mansions](https://open.spotify.com/track/2cGYrleMCxBKTYbsiGXF56) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:38 | 2022-09-16 |  |
 | [Derail](https://open.spotify.com/track/48bAOPXsasZVoA96Tihzdo) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 | 2022-11-18 |  |
 | [Derail](https://open.spotify.com/track/6p75sMjfA2IjayOO1DJ0hY) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:31 | 2022-09-16 | 2022-11-19 |
 | [Draw a Line](https://open.spotify.com/track/4327YDU3y1FbdZYRSds3wN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:55 | 2022-09-22 | 2022-11-19 |

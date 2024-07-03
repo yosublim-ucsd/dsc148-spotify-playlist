@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,718 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,724 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 29 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
 | 30 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [バイオハザード 6 オリジナル・サウンドトラック](https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk) | 3:50 |
 | 31 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
-| 32 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 |
-| 33 | [X4 \- BOSS](https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [ロックマンX アニバーサリーコレクション サウンドトラック](https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy) | 2:51 |
+| 32 | [X4 \- BOSS](https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [ロックマンX アニバーサリーコレクション サウンドトラック](https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy) | 2:51 |
+| 33 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 |
 | 34 | [ULTRA VIOLET\(ネロ アンジェロ戦\)](https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ オリジナル・サウンドトラック](https://open.spotify.com/album/6viXrqcpzXyrrRx3LjZpIf) | 3:21 |
 | 35 | [Free From Fear](https://open.spotify.com/track/0oSzptjJ0jjmPNkNSwCgu1) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 2:06 |
 | 36 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:54 |
 | 37 | [ROCKMAN2/Dr\. WILY STAGE 1 \- OMEGAMAN MIX](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |
 | 38 | [墓場](https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
-| 39 | [Staff & Credits](https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:45 |
-| 40 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
+| 39 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
+| 40 | [Staff & Credits](https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:45 |
 | 41 | [Dr.WILY STAGE](https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [ロックマン11 運命の歯車!! オリジナルサウンドトラック](https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u) | 3:03 |
 | 42 | [Ripples in the Calm](https://open.spotify.com/track/3EN6ImHKQSUdJUC3KVLjuM) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 2:22 |
 | 43 | [Crimson Cloud](https://open.spotify.com/track/6WVbHvEVWVnAYNwZs650NN) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ) | [Devil May Cry 5 Special Edition Vergil\`s Rebirth Sound Selection](https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk) | 4:49 |

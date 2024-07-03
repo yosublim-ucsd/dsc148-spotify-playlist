@@ -2,7 +2,7 @@
 
 ### [This Is Gabito Ballesteros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43Xw6T)
 
-> This is Gabito Ballesteros\. The essential tracks, all in one playlist.
+> This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
 
 72 songs - 3 hr 34 min
 

@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "nobori - \u4e0a\u308a",
+        "url": "https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130220,
+      "name": "Assaji",
+      "url": "https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL"
+    },
+    {
+      "album": {
         "name": "nobori",
         "url": "https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde"
       },
@@ -2764,6 +2782,24 @@
       "duration_ms": 239320,
       "name": "bugs",
       "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
     },
     {
       "album": {
@@ -5040,7 +5076,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 234428,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4"
@@ -7012,7 +7048,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 134942,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG"
@@ -7468,7 +7504,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 174518,
       "name": "happy im",
       "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
@@ -7740,7 +7776,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
@@ -8546,7 +8582,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E"
@@ -10697,6 +10733,24 @@
     },
     {
       "album": {
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+    },
+    {
+      "album": {
         "name": "Love You!!!!!!",
         "url": "https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU"
       },
@@ -12170,7 +12224,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 155825,
       "name": "Monkeys",
       "url": "https://open.spotify.com/track/4k9XME2RS4XFSGtJeyytbc"
@@ -12510,7 +12564,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 237326,
       "name": "MOUNTAIN D",
       "url": "https://open.spotify.com/track/00qVXZrq0j1Gk6T3MvpOgH"
@@ -15534,7 +15588,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 134400,
       "name": "Rebound Babe (feat. Lucrezia)",
       "url": "https://open.spotify.com/track/4FOfUN1YCV8A99OfvyVQ3w"
@@ -17446,7 +17500,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 115769,
       "name": "smileY:)",
       "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
@@ -18828,7 +18882,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 226145,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/61EhLAnhsXNy0PfOpFnhHW"
@@ -21182,7 +21236,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
@@ -26314,7 +26368,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 148000,
       "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
@@ -26622,7 +26676,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 164202,
       "name": "\u5b9f\u611f",
       "url": "https://open.spotify.com/track/4WNEZez1VdU0iCJox2SYDF"

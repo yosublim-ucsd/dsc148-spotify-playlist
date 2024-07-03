@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=\-ew7kaC0Qb\-1Bg\-Jy81NUw">Spoegwolf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,767 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,782 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

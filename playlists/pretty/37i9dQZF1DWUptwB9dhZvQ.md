@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,122 likes - 77 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,151 likes - 77 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 13 | [Face Off \- Theme](https://open.spotify.com/track/1WP7XtiXrrj9mrk0s4pGxe) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Maria Roe Vincent](https://open.spotify.com/artist/3KrlaLub4zgw8yNCLJq4nC) | [Iru Mugan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uUbjHmv6CglcQkRnFyBsz) | 2:14 |
 | 14 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 |
 | 15 | [Sketch \- Theme](https://open.spotify.com/track/3WGHcBhPEbVvsUYU6z6nti) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Sketch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BdVJ7kB8AdPN4HD35dE7X) | 3:06 |
-| 16 | [Uttama Villain Theme \- Instrumental Version](https://open.spotify.com/track/5O1Ra1nvyoqY3SwpOmJVqv) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Uttama Villain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WIDaqmsGvA9cJQwFUy33p) | 1:19 |
-| 17 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/5ZkKUoBOXWbGfhZLxlSJMV) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/album/6gZxjKsHDZMkcKzXARtGa5) | 1:13 |
+| 16 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/5ZkKUoBOXWbGfhZLxlSJMV) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/album/6gZxjKsHDZMkcKzXARtGa5) | 1:13 |
+| 17 | [Uttama Villain Theme \- Instrumental Version](https://open.spotify.com/track/5O1Ra1nvyoqY3SwpOmJVqv) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Uttama Villain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WIDaqmsGvA9cJQwFUy33p) | 1:19 |
 | 18 | [Bloody Beggar Announcement Theme \- From "Bloody Beggar"](https://open.spotify.com/track/1BwnyNVjkE7FCY6AACRoPu) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [RK Ravi Prasad Ramani](https://open.spotify.com/artist/5VEEdqbTv7bhBoDFf83dwV), [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt), [Prarthana Sriram](https://open.spotify.com/artist/7EdorwRDTYPcN7vkcWaEjm) | [Bloody Beggar Announcement Theme \(From "Bloody Beggar"\)](https://open.spotify.com/album/4DbAc4Kku5UI8T2LoCUDyg) | 1:05 |
 | 19 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 |
 | 20 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, Migrantes & Flor Alvarez.",
-  "num_followers": 1162931,
+  "num_followers": 1162896,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
-        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 165326,
-      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
-      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
         "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 253340,
       "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
       "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 165326,
+      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
+      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Aquellos Tiempos",
-        "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "Aquellos Tiempos",
-      "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 136853,
       "name": "NO FUIMOS",
       "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Aquellos Tiempos",
+        "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "Aquellos Tiempos",
+      "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
-        "url": "https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 148263,
-      "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
-      "url": "https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Cuando Se Pone a Bailar",
         "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
+        "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
+        "url": "https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Kevo DJ",
-          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 141453,
-      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+      "duration_ms": 148263,
+      "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
+      "url": "https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1295,18 +1275,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "APD",
-        "url": "https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb"
+        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        },
+        {
+          "name": "Kevo DJ",
+          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
         }
       ],
-      "duration_ms": 169024,
-      "name": "APD",
-      "url": "https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI"
+      "duration_ms": 141453,
+      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 160689,
       "name": "No Se",
       "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "APD",
+        "url": "https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 169024,
+      "name": "APD",
+      "url": "https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Tengo Ganas",
         "url": "https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 160909,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 193347,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
       "artists": [
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
     },
     {
       "added_at": "2024-06-28 03:00:00",

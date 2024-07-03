@@ -2,7 +2,7 @@
 
 ### [Pura Salsa](https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM)
 
-> Los temas más sabrosos del momento suenan aquí\. Foto: Gian Marco, Daniela Darcourt
+> Los temas más sabrosos del momento suenan aquí\. Foto: Fresto Music
 
 157 songs - 11 hr 29 min
 

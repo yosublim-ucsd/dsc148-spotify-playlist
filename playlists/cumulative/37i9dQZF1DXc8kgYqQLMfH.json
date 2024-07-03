@@ -10622,7 +10622,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 123634,
       "name": "Life",
       "url": "https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV"
@@ -15452,6 +15452,28 @@
       "duration_ms": 121621,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn"
+    },
+    {
+      "album": {
+        "name": "Pulses Of Light",
+        "url": "https://open.spotify.com/album/14YjvBZxtfpBRGJs8IPqJN"
+      },
+      "artists": [
+        {
+          "name": "p\u00f3sza",
+          "url": "https://open.spotify.com/artist/7hJFmedA1zOESZECgDPvKq"
+        },
+        {
+          "name": "BluntOne",
+          "url": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156846,
+      "name": "Pulses Of Light",
+      "url": "https://open.spotify.com/track/42AhAYqu0InMQts7uo2JcR"
     },
     {
       "album": {

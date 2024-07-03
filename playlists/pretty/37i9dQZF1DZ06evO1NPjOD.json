@@ -1,12 +1,12 @@
 {
-  "description": "This is City Girls. Az \u00f6sszes kihagyhatatlan sz\u00e1m egyetlen m\u0171sorlist\u00e1ban.",
-  "num_followers": 37693,
+  "description": "This is City Girls. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
+  "num_followers": 37696,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAAC9EqleKuALX3gFj4GyCoiL",
+  "snapshot_id": "ZoHxgAAAAABTnYd4z1NQpHI7Jmn0xK4n",
   "tracks": [
     {
       "added_at": null,
@@ -31,38 +31,6 @@
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 171646,
-      "name": "Leave Em Alone (Layton Greene, Lil Baby feat. City Girls, PnB Rock)",
-      "url": "https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU"
     },
     {
       "added_at": null,
@@ -239,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Love (feat. Usher)",
+        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 232787,
+      "name": "Good Love (feat. Usher)",
+      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gorgeous Remix (feat. City Girls)",
         "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
       },
@@ -367,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 177370,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wiggle It (feat. City Girls)",
         "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
       },
@@ -403,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "How To Pimp A N**ga",
-      "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
       },
@@ -431,6 +387,22 @@
       "duration_ms": 127058,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "How To Pimp A N**ga",
+      "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
     },
     {
       "added_at": null,
@@ -863,6 +835,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shisha",
         "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
       },
@@ -903,34 +903,6 @@
       "duration_ms": 202226,
       "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
     },
     {
       "added_at": null,
@@ -999,6 +971,26 @@
       "duration_ms": 182813,
       "name": "She A Winner",
       "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 138549,
+      "name": "City On Lock",
+      "url": "https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq"
     }
   ],
   "unique_name": "This Is City Girls",

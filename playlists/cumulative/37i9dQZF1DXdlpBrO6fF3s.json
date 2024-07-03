@@ -1029,6 +1029,28 @@
     },
     {
       "album": {
+        "name": "Hush-Hush",
+        "url": "https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "Hush-Hush",
+      "url": "https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG"
+    },
+    {
+      "album": {
         "name": "SPIN OFF : FROM THE WITNESS",
         "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
       },
@@ -2680,6 +2702,24 @@
       "duration_ms": 180000,
       "name": "WORK Pt.2 - ATEEZ X Don Diablo",
       "url": "https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY"
+    },
+    {
+      "album": {
+        "name": "WORK Pt.3 - ATEEZ X Eden-ary",
+        "url": "https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "WORK Pt.3 - ATEEZ X Eden-ary",
+      "url": "https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB"
     },
     {
       "album": {

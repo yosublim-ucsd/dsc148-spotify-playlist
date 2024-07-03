@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,869 likes - 86 songs - 3 hr 51 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,862 likes - 88 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 84 | [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 |
 | 85 | [Hot Sauce](https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Hot Sauce](https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV) | 2:15 |
 | 86 | [Shot Caller](https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Shot Caller](https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8) | 2:31 |
+| 87 | [304 Bounty Hunter](https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:22 |
+| 88 | [TIP TOE](https://open.spotify.com/track/4KDJTUDQlHarTz5bbqg5My) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [TIP TOE](https://open.spotify.com/album/0ueP3SY22S6mvhNRcWt1qw) | 2:28 |
 
-Snapshot ID: `AAAlX6oYpAi5oHIURif4vvFKdfn3wPDw`
+Snapshot ID: `AAAlYY32gTBvBJXckpPeV/iAVH3CWUmV`

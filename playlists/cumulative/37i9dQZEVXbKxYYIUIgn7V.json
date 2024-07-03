@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 168000,
       "name": "6 In the Morning (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "album": {
         "name": "Die Maus (Hard Edit)",
         "url": "https://open.spotify.com/album/6By4sqS16iOGRUp2g4vP7N"
       },
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -3382,6 +3400,24 @@
       "duration_ms": 186232,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
+    },
+    {
+      "album": {
+        "name": "Forza",
+        "url": "https://open.spotify.com/album/3WtLettNPcHTzNTnbVOmDA"
+      },
+      "artists": [
+        {
+          "name": "Gr\u0161e",
+          "url": "https://open.spotify.com/artist/7tcnxMy5DB0GEOOUnlkKyz"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Forza",
+      "url": "https://open.spotify.com/track/48VOBBuSuChKwYX4m3lpNK"
     },
     {
       "album": {
@@ -3786,6 +3822,24 @@
       "duration_ms": 166588,
       "name": "Geh Alte gib a Ruah",
       "url": "https://open.spotify.com/track/3yHPEa6fdNg0UIAQl7t1DI"
+    },
+    {
+      "album": {
+        "name": "G\u00f6rlitzer Park",
+        "url": "https://open.spotify.com/album/2AHRdK1N4BpUVhqa89ajbj"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257983,
+      "name": "Geld wie ein Magnet",
+      "url": "https://open.spotify.com/track/5eLiadsi7L1E4eNUZj7Jbs"
     },
     {
       "album": {
@@ -4820,10 +4874,28 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 135880,
       "name": "icantbelieveiletyougetaway",
       "url": "https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM"
+    },
+    {
+      "album": {
+        "name": "icantbelieveiletyougetaway",
+        "url": "https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135880,
+      "name": "icantbelieveiletyougetaway",
+      "url": "https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH"
     },
     {
       "album": {
@@ -5104,7 +5176,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
@@ -5635,6 +5707,24 @@
     },
     {
       "album": {
+        "name": "Kompliziert",
+        "url": "https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155354,
+      "name": "Kompliziert",
+      "url": "https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE"
+    },
+    {
+      "album": {
         "name": "Scousematic 2",
         "url": "https://open.spotify.com/album/1bKZSglRWgHBxpW3NAkJ4S"
       },
@@ -6080,7 +6170,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 190946,
       "name": "Liebe in Stereo",
       "url": "https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw"
@@ -6521,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "G\u00f6rlitzer Park",
+        "url": "https://open.spotify.com/album/2AHRdK1N4BpUVhqa89ajbj"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223672,
+      "name": "L\u00e4chel doch mal",
+      "url": "https://open.spotify.com/track/1zSuRjiKyvZdLe23QsHcUP"
+    },
+    {
+      "album": {
         "name": "Mach die Augen auf",
         "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
       },
@@ -6788,6 +6896,24 @@
       "duration_ms": 170909,
       "name": "Mangio Pasta",
       "url": "https://open.spotify.com/track/51oT6N6dMwTnBfhpmIAsb1"
+    },
+    {
+      "album": {
+        "name": "Mangos (Tiktok Version)",
+        "url": "https://open.spotify.com/album/1D6rlXWkDBI4YZyGVrSZu7"
+      },
+      "artists": [
+        {
+          "name": "LDRR",
+          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51853,
+      "name": "Mangos - Tiktok Version",
+      "url": "https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6"
     },
     {
       "album": {
@@ -8150,7 +8276,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -8632,7 +8758,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 138837,
       "name": "Pyrotechnik Ist Doch Kein Verbrechen",
       "url": "https://open.spotify.com/track/2Xd6oEHmMszokWdcJAnjxw"
@@ -9279,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "G\u00f6rlitzer Park",
+        "url": "https://open.spotify.com/album/2AHRdK1N4BpUVhqa89ajbj"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236445,
+      "name": "Sensibel",
+      "url": "https://open.spotify.com/track/2Sw24H0L9g4ngdOXFUzIYb"
+    },
+    {
+      "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ"
       },
@@ -9486,7 +9630,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
@@ -10530,6 +10674,28 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "album": {
@@ -11687,6 +11853,24 @@
     },
     {
       "album": {
+        "name": "Willkommen in Autriche",
+        "url": "https://open.spotify.com/album/16FIyLt4OFcpUsnW39cMRW"
+      },
+      "artists": [
+        {
+          "name": "Drogu",
+          "url": "https://open.spotify.com/artist/3goABzDqMQzXyB8oyxguy8"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141650,
+      "name": "Willkommen in Autriche",
+      "url": "https://open.spotify.com/track/0V3aF1AzXM09yHxdPjVPY4"
+    },
+    {
+      "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
       },
@@ -11930,6 +12114,24 @@
       "duration_ms": 183577,
       "name": "ZORRA",
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
+    },
+    {
+      "album": {
+        "name": "\u00c7a Je",
+        "url": "https://open.spotify.com/album/4QGt0WuxrUHToQqaAR1tz5"
+      },
+      "artists": [
+        {
+          "name": "Kidda",
+          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "\u00c7a Je",
+      "url": "https://open.spotify.com/track/4K3mX6c0UTrE2IRmlqYGoN"
     },
     {
       "album": {

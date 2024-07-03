@@ -1,6 +1,6 @@
 {
   "description": "POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon",
-  "num_followers": 112754,
+  "num_followers": 112749,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "ELA FAZ TUDO QUE EU FA\u00c7O",
+        "url": "https://open.spotify.com/album/1FP6qGR08o9rYeEtCu36bL"
+      },
+      "artists": [
+        {
+          "name": "LIVS",
+          "url": "https://open.spotify.com/artist/5XRPl0u0ZeXPzWPlz9p9oO"
+        }
+      ],
+      "duration_ms": 204678,
+      "name": "ELA FAZ TUDO QUE EU FA\u00c7O",
+      "url": "https://open.spotify.com/track/4AfuhAI2NkMxEzdRO5ILe8"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "FOCK",
         "url": "https://open.spotify.com/album/0EyBX8RYds9WZ9gGi6pbIo"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 119543,
       "name": "FOCK",
       "url": "https://open.spotify.com/track/3ueBN8JeoXb2nGIJ8PPkID"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "ELA FAZ TUDO QUE EU FA\u00c7O",
-        "url": "https://open.spotify.com/album/1FP6qGR08o9rYeEtCu36bL"
-      },
-      "artists": [
-        {
-          "name": "LIVS",
-          "url": "https://open.spotify.com/artist/5XRPl0u0ZeXPzWPlz9p9oO"
-        }
-      ],
-      "duration_ms": 204678,
-      "name": "ELA FAZ TUDO QUE EU FA\u00c7O",
-      "url": "https://open.spotify.com/track/4AfuhAI2NkMxEzdRO5ILe8"
     },
     {
       "added_at": "2024-06-21 03:01:00",

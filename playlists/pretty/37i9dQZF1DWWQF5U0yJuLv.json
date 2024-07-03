@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12962,
+  "num_followers": 12967,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Existenzmaximum - EP",
-        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 121856,
-      "name": "Mechanical Advantage",
-      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "Playground In A Lake",
         "url": "https://open.spotify.com/album/6r3sWdrXNAhqOgGlM5ZKNY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 204123,
       "name": "Lambent Rag",
       "url": "https://open.spotify.com/track/3U8DW25FSajJzQXgApAJ0B"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Existenzmaximum - EP",
+        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 121856,
+      "name": "Mechanical Advantage",
+      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "A View of U",
         "url": "https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 205784,
       "name": "Sleepy Pietro",
       "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -857,26 +857,6 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Illusion Of Time",
-      "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "BIPP (Autechre Mx)",
@@ -895,6 +875,26 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Illusion Of Time",
+      "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
+        "name": "The Space Lady's Greatest Hits",
+        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
+      },
+      "artists": [
+        {
+          "name": "The Space Lady",
+          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
+        }
+      ],
+      "duration_ms": 275372,
+      "name": "I Had Too Much to Dream Last Night",
+      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -1069,22 +1085,6 @@
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "The Space Lady's Greatest Hits",
-        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
-      },
-      "artists": [
-        {
-          "name": "The Space Lady",
-          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
-        }
-      ],
-      "duration_ms": 275372,
-      "name": "I Had Too Much to Dream Last Night",
-      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
-    },
-    {
       "added_at": "2023-03-03 04:01:23",
       "album": {
         "name": "Dragonfly",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Put Your Head Above The Parakeets",
@@ -1147,6 +1131,22 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Magnetica",
-      "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "L'illustration Musicale",
@@ -1403,6 +1387,22 @@
       "duration_ms": 370800,
       "name": "Delia Derbyshire",
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Magnetica",
+      "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Lucky Cat",
-        "url": "https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8"
-      },
-      "artists": [
-        {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
-        }
-      ],
-      "duration_ms": 312946,
-      "name": "Cathart",
-      "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Calming Signals",
@@ -1659,6 +1643,22 @@
       "duration_ms": 306013,
       "name": "Haynes Manor",
       "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Lucky Cat",
+        "url": "https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8"
+      },
+      "artists": [
+        {
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
+        }
+      ],
+      "duration_ms": 312946,
+      "name": "Cathart",
+      "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1865,22 +1865,6 @@
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Vaganten",
-        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
-      },
-      "artists": [
-        {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Never a Dull Moment",
-      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Body Riddle (Remastered)",
@@ -1895,6 +1879,22 @@
       "duration_ms": 174560,
       "name": "Ted",
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "William Shatner Has Been",
+        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
+      },
+      "artists": [
+        {
+          "name": "William Shatner",
+          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1913,20 +1913,20 @@
       "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "William Shatner Has Been",
-        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
+        "name": "Vaganten",
+        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
       },
       "artists": [
         {
-          "name": "William Shatner",
-          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+          "name": "ToiToiToi",
+          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
         }
       ],
-      "duration_ms": 339480,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
+      "duration_ms": 161560,
+      "name": "Never a Dull Moment",
+      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
     },
     {
       "added_at": "2023-02-17 01:53:11",

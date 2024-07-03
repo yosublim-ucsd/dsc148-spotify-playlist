@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-854 songs - 2 day 1 hr 48 min
+855 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [MOSTASHFA](https://open.spotify.com/track/6VI7G3jHZRhdg8z2x8TN5V) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:43 | 2021-12-30 | 2022-01-01 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2021-11-06 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-15 | 2021-07-20 |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-02 |  |
 | [Mraite](https://open.spotify.com/track/7mEO8E9koxx19CywaN0pwi) | [Moustafa Max](https://open.spotify.com/artist/2Zjp2UNHX1ILlwjjN0MPDQ), [Xoureldin](https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi) | [Mraite](https://open.spotify.com/album/4pPi3KRT8uRBS1svqdbUqN) | 3:00 | 2022-02-14 | 2022-03-01 |
 | [Msh Bel 7ozoz \- مش بالحظوظ](https://open.spotify.com/track/4K2VD5qMwcjIsLFYtrrQDz) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Msh Bel 7ozoz \- مش بالحظوظ](https://open.spotify.com/album/16LvDWQIgcbs4yc9pzxDW3) | 3:20 | 2021-05-22 | 2022-03-01 |
 | [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-11 | 2023-04-20 |
@@ -770,7 +771,7 @@
 | [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-04-06 | 2022-05-07 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/2l85aOtYtkfIecw0UJDnRW) | 3:58 | 2021-12-27 | 2022-04-07 |
 | [طمنى عليك](https://open.spotify.com/track/44IiIpdfudUAV3np87r3gk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [ولا نص كلمة](https://open.spotify.com/album/3FXWjjh9LaJQLEZh4GHaVN) | 4:27 | 2023-04-08 | 2023-04-11 |
-| [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-04-20 |  |
+| [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-04-20 | 2024-07-03 |
 | [ع الصامت](https://open.spotify.com/track/1csotZQdK0em4MN66s3yRS) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 3:30 | 2021-03-27 | 2021-03-31 |
 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 | 2024-02-29 |  |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2021-09-16 | 2022-10-20 |

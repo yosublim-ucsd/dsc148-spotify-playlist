@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,619 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,620 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 25 | [The Future's in My Hands \- Theme from "Hailey's On It!"](https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:58 |
 | 26 | [This Christmas](https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv) | [Burt Bacharach and Steven Sater's Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2) | 3:27 |
 
-Snapshot ID: `ZoCgAAAAAACvzU3bVRjQyn78p7JYoYhP`
+Snapshot ID: `ZoHxgAAAAACqOapfxp+HRzJ0QHUvNTR8`

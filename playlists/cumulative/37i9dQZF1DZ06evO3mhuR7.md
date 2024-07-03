@@ -2,7 +2,7 @@
 
 ### [This Is The Orb](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mhuR7)
 
-> This Is The Orb\. Los temas esenciales, todos en una lista.
+> This is The Orb\. The essential tracks, all in one playlist.
 
 145 songs - 17 hr 9 min
 
@@ -30,7 +30,7 @@
 | [Asylum](https://open.spotify.com/track/07QwYSsx6bKV5Ye5OgHUJJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 5:19 | 2022-05-29 |  |
 | [Back Side Of The Moon](https://open.spotify.com/track/26txolfsixS8C767jpTREx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 14:14 | 2022-05-29 |  |
 | [Ball of Fire](https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:11 | 2022-05-29 | 2023-11-11 |
-| [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 |  |
+| [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 | 2024-07-03 |
 | [Blue Room \- 7" Mix](https://open.spotify.com/track/6yqPrme30dPVQqUSO8qSHA) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 3:53 | 2022-05-29 |  |
 | [Centre of the Triangle](https://open.spotify.com/track/4prpxysBAaFArGqhqTg0Rc) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:35 | 2023-06-18 | 2024-01-11 |
 | [Close Encounters](https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 10:27 | 2022-05-29 | 2023-05-14 |
@@ -141,7 +141,7 @@
 | [Tiger](https://open.spotify.com/track/4hanvMjJILXxnWY7XO9VpI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 4:32 | 2023-04-30 | 2023-11-11 |
 | [Tiger](https://open.spotify.com/track/5npFs7QRQZysAjOa5EBf59) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 4:32 | 2023-12-18 | 2023-12-24 |
 | [Toi 1338b \- Edit](https://open.spotify.com/track/5Cyl770vOUPdfxSTBPOdJ8) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 5:20 | 2022-05-29 |  |
-| [Towers Of Dub](https://open.spotify.com/track/3pNjlSAs2YVvx5dAY68ObX) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 15:00 | 2022-05-29 | 2024-07-01 |
+| [Towers Of Dub](https://open.spotify.com/track/3pNjlSAs2YVvx5dAY68ObX) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 15:00 | 2022-05-29 |  |
 | [Toxygene \- 7" Edit](https://open.spotify.com/track/2GPIAfzDdgLv1UKC6afaCn) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Toxygene](https://open.spotify.com/album/1bMEqz5MZsrevRk56AuoAD) | 3:37 | 2022-05-29 |  |
 | [U.F.Orb](https://open.spotify.com/track/7M7UsilKcShcDMcuuU4ylD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 6:09 | 2022-05-29 |  |
 | [Ubiquity](https://open.spotify.com/track/2S4up10cmuusAjbyuzuoAQ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 6:13 | 2022-05-29 |  |

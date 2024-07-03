@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,441 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,522 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 50 | [Digitando](https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Digitando](https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM) | 3:15 |
 
-Snapshot ID: `LhYUmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LhdmGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

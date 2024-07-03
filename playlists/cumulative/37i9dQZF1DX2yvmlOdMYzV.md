@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-747 songs - 1 day 16 hr 46 min
+748 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-03-29 | 2024-04-19 |
 | [Canopy](https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV) | 2:31 | 2024-03-29 |  |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 |  |
-| [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 |  |
+| [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 | 2024-07-03 |
 | [Charismatic](https://open.spotify.com/track/4JhKLjRioxSZ9AkrL8pPcM) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/2Sh1TDbKzFr7UxZdbnnX17) | 3:04 | 2023-05-12 | 2024-04-19 |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 | 2023-12-17 |
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-04-05 |  |
@@ -682,6 +682,7 @@
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-21 |
 | [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-04-07 |  |
 | [Try and You Try](https://open.spotify.com/track/1rL0CJe38sZ9fQCe6n4xUq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Try and You Try](https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY) | 4:58 | 2023-02-16 | 2023-09-09 |
+| [Tunisian Nights](https://open.spotify.com/track/6iHVghwF4PpZnbum34cca2) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [CASABLANCO](https://open.spotify.com/album/3ee8mTrFUHmpBAVWCr9ffX) | 4:09 | 2024-06-28 |  |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 |  |

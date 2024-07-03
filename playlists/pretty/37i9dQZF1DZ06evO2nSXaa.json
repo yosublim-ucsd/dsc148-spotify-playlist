@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 182929,
+  "num_followers": 183074,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAABroc6bOjZJffu3lctgxAZ/",
+  "snapshot_id": "ZoHxgAAAAAD/Nmdcze0nZPyzIfSykwad",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -123,30 +139,6 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": null,
@@ -347,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "working",
-        "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
       "artists": [
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 210219,
-      "name": "working",
-      "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
+      "duration_ms": 152786,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
     },
     {
       "added_at": null,
@@ -395,6 +383,26 @@
       "duration_ms": 119871,
       "name": "greedy sped up",
       "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "working",
+        "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 210219,
+      "name": "working",
+      "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
     },
     {
       "added_at": null,
@@ -439,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Heather - Spotify Singles",
-      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -467,6 +459,22 @@
       "duration_ms": 146080,
       "name": "i'm so gone",
       "url": "https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Heather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
       "added_at": null,
@@ -519,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+        "name": "vicious",
+        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
       },
       "artists": [
         {
@@ -528,9 +536,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 173306,
-      "name": "hate myself",
-      "url": "https://open.spotify.com/track/1bXm6XU3SYSqQGLTRhUSfm"
+      "duration_ms": 182929,
+      "name": "vicious",
+      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
     },
     {
       "added_at": null,
@@ -567,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "vicious",
-        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "vicious",
-      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "u love u (with Tate McRae)",
         "url": "https://open.spotify.com/album/08nlCo5zY9nE3isQgZm4yf"
       },
@@ -603,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "bad ones",
-      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hung up on You",
         "url": "https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC"
       },
@@ -631,6 +607,22 @@
       "duration_ms": 201256,
       "name": "Hung up on You",
       "url": "https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "bad ones",
+      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
     },
     {
       "added_at": null,
@@ -651,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulder to Shoulder",
-        "url": "https://open.spotify.com/album/6uJoPnlKPUYsiSHsgl48Rr"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 230181,
-      "name": "Shoulder to Shoulder",
-      "url": "https://open.spotify.com/track/4XWhsNPaqAbZR7hIhx2bSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't be sad",
         "url": "https://open.spotify.com/album/08Usy71SUwQRT09A7LTTgg"
       },
@@ -679,6 +655,22 @@
       "duration_ms": 143672,
       "name": "don't be sad",
       "url": "https://open.spotify.com/track/02iW5boMzeBDVRI0dRE1Yw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulder to Shoulder",
+        "url": "https://open.spotify.com/album/6uJoPnlKPUYsiSHsgl48Rr"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 230181,
+      "name": "Shoulder to Shoulder",
+      "url": "https://open.spotify.com/track/4XWhsNPaqAbZR7hIhx2bSE"
     },
     {
       "added_at": null,

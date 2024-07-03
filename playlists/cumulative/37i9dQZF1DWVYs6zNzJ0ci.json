@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Morodo",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Jowell & Randy, Cultura Prof\u00e9tica",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 254705,
       "name": "Antonia",
       "url": "https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0"
@@ -546,6 +546,24 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "album": {
+        "name": "Ay Coraz\u00f3n!",
+        "url": "https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219059,
+      "name": "Ay Coraz\u00f3n!",
+      "url": "https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb"
     },
     {
       "album": {
@@ -866,7 +884,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 251880,
       "name": "Boca E' Caim\u00e1n",
       "url": "https://open.spotify.com/track/0pwIDa9neFJEN1RJ1mvj5G"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 195156,
       "name": "Cocomango",
       "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
@@ -1616,6 +1634,56 @@
       "duration_ms": 218609,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/5atBjF6n5UILcSUq4INTGZ"
+    },
+    {
+      "album": {
+        "name": "Cypher #5 (Reggae Cypher)",
+        "url": "https://open.spotify.com/album/2UjzVrUNrdYfGAjH5Cyxs8"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        },
+        {
+          "name": "GranKhan",
+          "url": "https://open.spotify.com/artist/7wQMiSMtIfAQakfZzzyKN3"
+        },
+        {
+          "name": "King Magneto",
+          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
+        },
+        {
+          "name": "Irie Angel",
+          "url": "https://open.spotify.com/artist/5CPLStsnHuYvc8NYsoOyFH"
+        },
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564000,
+      "name": "Cypher #5 (Reggae Cypher)",
+      "url": "https://open.spotify.com/track/3vY4PoM0YudogsXe4dSncv"
     },
     {
       "album": {
@@ -2055,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "El Reguero",
+        "url": "https://open.spotify.com/album/2lMd3a7dhIZoaDCX0tPMhA"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251944,
+      "name": "El Reguero",
+      "url": "https://open.spotify.com/track/35VWHt3SgBDDp2eRdirS2T"
+    },
+    {
+      "album": {
         "name": "El Rey De Las Redes",
         "url": "https://open.spotify.com/album/5mbc12SB3E1bLwcOYZQ3Hu"
       },
@@ -2426,7 +2512,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 258349,
       "name": "Family",
       "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
@@ -2626,7 +2712,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 193817,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
@@ -2764,7 +2850,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 255744,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
@@ -2786,6 +2872,24 @@
       "duration_ms": 258000,
       "name": "Hecho de Barro",
       "url": "https://open.spotify.com/track/0rOUwNP8qdPaxDZgcD6WoA"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3blQVn5VhHTSPNO3S49fG1"
+      },
+      "artists": [
+        {
+          "name": "Kulto Kultibo",
+          "url": "https://open.spotify.com/artist/5Zn0cTUwF6VjPS353kkQGk"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157043,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3s5LZuF7WGMigtXaA3iY6p"
     },
     {
       "album": {
@@ -3300,7 +3404,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 166400,
       "name": "La M\u00eda",
       "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
@@ -4035,6 +4139,28 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
+    },
+    {
+      "album": {
         "name": "Mama No Cry",
         "url": "https://open.spotify.com/album/62sgydRnwBccdy7T4zT54l"
       },
@@ -4298,6 +4424,28 @@
       "duration_ms": 173333,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/39AMY9qtGKPtm0WHaRivId"
+    },
+    {
+      "album": {
+        "name": "Mi Fortaleza",
+        "url": "https://open.spotify.com/album/4z4putTLPDht0Q6i0d87A5"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227515,
+      "name": "Mi Fortaleza",
+      "url": "https://open.spotify.com/track/32IImwtinyH53ah7mNAX0E"
     },
     {
       "album": {
@@ -6171,6 +6319,44 @@
     },
     {
       "album": {
+        "name": "Suena a Reggae (Suena a Reggae), Vol. 6",
+        "url": "https://open.spotify.com/album/3OfrjHPPJM3NS2tYUvgMut"
+      },
+      "artists": [
+        {
+          "name": "Kalos",
+          "url": "https://open.spotify.com/artist/1BVGsNTQd7o8Hh1Yal8G9I"
+        },
+        {
+          "name": "George Palmer",
+          "url": "https://open.spotify.com/artist/0H5NauidBq245F36K6Zeeg"
+        },
+        {
+          "name": "Danel",
+          "url": "https://open.spotify.com/artist/4DqG4QsC3VqWzr8flNPqO8"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Sinka",
+          "url": "https://open.spotify.com/artist/5lclaqTcElYYbdyWZO0c77"
+        },
+        {
+          "name": "The_little_SAM",
+          "url": "https://open.spotify.com/artist/4C09Y4oHty8kNcKynQ6Mbj"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280975,
+      "name": "Suena a Reggae (Suena a Reggae), Vol. 6",
+      "url": "https://open.spotify.com/track/3fSBJlTmKgrVrDgBwQU9HY"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0zemhsDxtW61XHT0BYvaG0"
       },
@@ -6845,6 +7031,28 @@
     },
     {
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
+    },
+    {
+      "album": {
         "name": "Gondwana En Vivo En Buenos Aires",
         "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
@@ -7008,7 +7216,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-03",
       "duration_ms": 227439,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
@@ -7190,6 +7398,24 @@
       "duration_ms": 337857,
       "name": "Y Es de D\u00eda",
       "url": "https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Amarte",
+        "url": "https://open.spotify.com/album/704qw7cLHhllYhwbe7xosf"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180989,
+      "name": "Yo Quiero Amarte",
+      "url": "https://open.spotify.com/track/4Gm3g3GDAF6lsZhvTyPqXk"
     },
     {
       "album": {

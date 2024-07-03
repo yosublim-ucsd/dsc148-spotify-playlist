@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 132942,
+  "num_followers": 132973,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Highest Praise",
+        "url": "https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z"
+      },
+      "artists": [
+        {
+          "name": "C3LA Music",
+          "url": "https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA"
+        }
+      ],
+      "duration_ms": 243817,
+      "name": "Highest Praise",
+      "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Break Out",
         "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 235580,
       "name": "Break Out - Studio Single",
       "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Highest Praise",
-        "url": "https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z"
-      },
-      "artists": [
-        {
-          "name": "C3LA Music",
-          "url": "https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA"
-        }
-      ],
-      "duration_ms": 243817,
-      "name": "Highest Praise",
-      "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
     },
     {
       "added_at": "2024-06-25 03:27:03",

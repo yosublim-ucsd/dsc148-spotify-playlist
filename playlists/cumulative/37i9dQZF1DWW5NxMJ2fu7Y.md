@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-73 songs - 4 hr 6 min
+74 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [I can't move](https://open.spotify.com/track/3kJIFkOkNcPDMz62IZ1Kfm) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I can't move](https://open.spotify.com/album/7ovNUOai7APoKSBBup0lCK) | 3:21 | 2024-02-29 |  |
 | [I'm good](https://open.spotify.com/track/7rCXQYPDPoQZjmOQZM0YWI) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I'm good](https://open.spotify.com/album/689wgyCyY6fRvQq3cJUned) | 3:03 | 2024-02-29 |  |
 | [Jack Sparrow \- By Night](https://open.spotify.com/track/6n2NWArMeY48wUEhLAqFEQ) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Jack Sparrow](https://open.spotify.com/album/0Chca0GfzAU9cKA7L8s2Q9) | 3:05 | 2024-02-29 |  |
-| [Kan Kits7abhoum](https://open.spotify.com/track/1mQj46mzQdL5Cru6Wor8Sx) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 4:30 | 2024-02-29 |  |
+| [Kan Kits7abhoum](https://open.spotify.com/track/1mQj46mzQdL5Cru6Wor8Sx) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 4:30 | 2024-02-29 | 2024-07-03 |
 | [KNZ](https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [KNZ](https://open.spotify.com/album/31YwWDm009EZqc9penbagV) | 4:07 | 2024-02-29 |  |
 | [Lalala](https://open.spotify.com/track/1diDQ6oxUeaMWzGxeITGmF) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lalala](https://open.spotify.com/album/51uhzA9DubuaIA8HipKUVP) | 2:32 | 2024-02-29 |  |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-02-29 |  |
@@ -61,6 +61,7 @@
 | [Pay No Mind](https://open.spotify.com/track/0pi2GFDC2vil6vNBnrAfIs) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Pay No Mind](https://open.spotify.com/album/1ifgTPxQGemh21M0crASb2) | 3:28 | 2024-02-29 |  |
 | [Pique](https://open.spotify.com/track/5Vjltk6vzyv7TIy7efAYUe) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Pique](https://open.spotify.com/album/1qbpzPEsfyjdAdpvK1hEbm) | 2:24 | 2024-02-29 |  |
 | [RABAT CITY JAZZ](https://open.spotify.com/track/766cFs4xFfSYwQrd8mL9qR) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RABAT CITY JAZZ](https://open.spotify.com/album/7ETrE6QoExiN4sBkfW429E) | 3:29 | 2024-06-02 |  |
+| [Rooftop](https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:43 | 2024-07-02 |  |
 | [ROUTINE](https://open.spotify.com/track/3eIJC1PibL9VQHOMGpf9Ut) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:27 | 2024-02-29 |  |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2024-02-29 |  |
 | [Sac](https://open.spotify.com/track/6x8BmqYKINbm7GFyVABsFH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o) | 3:16 | 2024-02-29 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Music from "【OSHI NO KO】" /アニメ【推しの子】の楽曲を1つのプレイリストで。©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-144 songs - 7 hr 2 min
+145 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [AWKWARDNESS](https://open.spotify.com/track/0WpXRhJcLl4J69EdcSyZCJ) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:22 | 2023-06-27 | 2024-04-19 |
 | [BEGINNING OF THE REVENGE](https://open.spotify.com/track/5VVw0Bl8jXU9LSlZHEPkJo) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:41 | 2023-06-27 | 2024-04-19 |
 | [Beginning of the revenge](https://open.spotify.com/track/6tckNsR20oUftxtWQaY2S1) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:41 | 2023-06-27 |  |
+| [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-02 |  |
 | [BYGONE DEATH](https://open.spotify.com/track/2zg4x7wcNUD7qzTPUG4Fpi) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:25 | 2023-06-27 | 2024-04-19 |
 | [Bygone Death](https://open.spotify.com/track/6lODdDHMp1mG3cXo2hgIgi) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:25 | 2023-06-27 |  |
 | [Chagrin](https://open.spotify.com/track/1qpfFVuag7PScV6J0P9AHy) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:15 | 2023-06-27 |  |

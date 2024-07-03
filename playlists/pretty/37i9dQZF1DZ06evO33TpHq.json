@@ -1,12 +1,12 @@
 {
-  "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 46700,
+  "description": "This is Phil Wickham. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
+  "num_followers": 46725,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoCgAAAAAADtxOa2+74rtQx1h3ysiFfD",
+  "snapshot_id": "ZoHxgAAAAAAm2Bh5nkEGa0Un/I83pW61",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I BELIEVE \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
@@ -163,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -191,6 +155,22 @@
       "duration_ms": 292333,
       "name": "Sunday Is Coming",
       "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
     },
     {
       "added_at": null,
@@ -231,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -251,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
       },
       "artists": [
         {
@@ -260,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 260605,
-      "name": "HOMETOWN",
-      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -283,22 +279,6 @@
       "duration_ms": 274586,
       "name": "Psalm 23",
       "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -347,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -363,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "Love of God",
+        "url": "https://open.spotify.com/album/2mV1x3XQGoVD9SfGsHHJFD"
       },
       "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+      "duration_ms": 324204,
+      "name": "Love Of God",
+      "url": "https://open.spotify.com/track/2fk1ecKbLniOcWMCWLW9e9"
     },
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love of God",
-        "url": "https://open.spotify.com/album/2mV1x3XQGoVD9SfGsHHJFD"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 324204,
-      "name": "Love Of God",
-      "url": "https://open.spotify.com/track/2fk1ecKbLniOcWMCWLW9e9"
+      "duration_ms": 240266,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
     },
     {
       "added_at": null,
@@ -499,22 +495,6 @@
       "duration_ms": 258946,
       "name": "Isn't He Good",
       "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
     },
     {
       "added_at": null,
@@ -567,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Song In My Soul (feat. Hollyn)",
-      "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
       },
@@ -603,6 +563,26 @@
       "duration_ms": 380453,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/1Zm86n2tQ7o5gKgdhqAHjY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Song In My Soul (feat. Hollyn)",
+      "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
     },
     {
       "added_at": null,
@@ -783,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Response",
         "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
@@ -815,22 +811,6 @@
       "duration_ms": 264160,
       "name": "Behold (feat. Anne Wilson)",
       "url": "https://open.spotify.com/track/2fy4fzUaoBurQu9IpFmdRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
     },
     {
       "added_at": null,
