@@ -1,4 +1,4 @@
-## Playlists \(8081\)
+## Playlists \(8082\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7857,6 +7857,7 @@
 - [wuen dia](/playlists/pretty/37i9dQZF1DWZLgt88NcLXo.md)
 - [y2k](/playlists/pretty/37i9dQZF1DX6MAQN3OnFEl.md)
 - [yo no me porto bonito 😈](/playlists/pretty/37i9dQZF1DWY93sU2NKZCn.md)
+- [you are forgiven](/playlists/pretty/6PMKZl4slXlFqxPgU4v5w1.md)
 - [young & free](/playlists/pretty/37i9dQZF1DXca8AyWK6Y7g.md)
 - [young, wild & free](/playlists/pretty/37i9dQZF1DX843Qf4lrFtZ.md)
 - [zZZ 잘자요](/playlists/pretty/37i9dQZF1DWSry5YU3YRoZ.md)
